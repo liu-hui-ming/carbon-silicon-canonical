@@ -5,6 +5,7 @@
   "series_close": "AI盲区001-050收官",
   "visibility": "对外公开版本",
   "baseline_volumes": 200,
+  "series_manifest": "../manifest.json",
   "encoding": "UTF-8",
   "bom": false,
   "source_pdf": "AI盲区050全套四层卷宗.pdf",
@@ -13,13 +14,13 @@
   "files": {
     "philo-050.md": {
       "layer": "哲学谱系",
-      "sha256": "40fa86380d7e51fae75986263e092eebc2642b6e76ca0c1826d00179af70c553",
-      "bytes": 7566
+      "sha256": "ae583c4d76668c1999aee4ffe3051c5286ab00794f25c9ce62c0ae8065f3d55c",
+      "bytes": 7574
     },
     "eng-050.md": {
       "layer": "工程谱系",
-      "sha256": "3fa96ccc5f0f45ea8dfdf37780575fd0071533d1361cd0d7d0a7008eb4f5bbd1",
-      "bytes": 6124
+      "sha256": "78c21c00a13e7554b4e07267c9c6a49802367e0a2e7252eba89e38359fa3e4bd",
+      "bytes": 6122
     },
     "verify-050.md": {
       "layer": "验证谱系",

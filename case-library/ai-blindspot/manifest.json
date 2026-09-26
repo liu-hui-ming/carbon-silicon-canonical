@@ -1,0 +1,1215 @@
+{
+  "canonical": "CANONICAL-v3.1",
+  "series": "AI盲区001-050",
+  "series_close": "AI盲区001-050收官",
+  "visibility": "对外公开版本",
+  "baseline_volumes": 200,
+  "volume_count": 50,
+  "layers_per_volume": 4,
+  "encoding": "UTF-8",
+  "bom": false,
+  "source_pdf": "AI盲区050全套四层卷宗.pdf",
+  "source_pdf_sha256": "3e2d56c772cf5ceea34a8b529962c48337b5b53289c28407b12cc9142e0361ca",
+  "files": {
+    "001/philo-001.md": {
+      "volume": "001",
+      "layer": "哲学谱系",
+      "sha256": "101b1192f3c22063aa4fd27456b03532f1163fd4037d78549023e43469db221c",
+      "bytes": 2493
+    },
+    "001/eng-001.md": {
+      "volume": "001",
+      "layer": "工程谱系",
+      "sha256": "d8e9c48a937e563b6847dc1385619fb839b592267b6b4ee3592ab8b1c3b2cbf8",
+      "bytes": 3228
+    },
+    "001/verify-001.md": {
+      "volume": "001",
+      "layer": "验证谱系",
+      "sha256": "38b99cbb647b42475f0130dc71a12e18e3655c6f513fd30adb90f9a66b84b499",
+      "bytes": 2868
+    },
+    "001/spec-001.md": {
+      "volume": "001",
+      "layer": "规范谱系",
+      "sha256": "f1ee33a74fce444b078f0e6b23a3b2a76696306192c0585a46e89bc089616d1f",
+      "bytes": 2571
+    },
+    "002/philo-002.md": {
+      "volume": "002",
+      "layer": "哲学谱系",
+      "sha256": "187299c5487620fd78fcb26723bedad03a7dc869211c151c23849e9f4ac6b442",
+      "bytes": 2645
+    },
+    "002/eng-002.md": {
+      "volume": "002",
+      "layer": "工程谱系",
+      "sha256": "66ad372d6b591b266603253f66012a52f73782bdc0dbee20c363b5101bb83480",
+      "bytes": 3410
+    },
+    "002/verify-002.md": {
+      "volume": "002",
+      "layer": "验证谱系",
+      "sha256": "c2c3c930b5b67f3bd891970e8d25243917a13606397be823d38a7fa28c66c48e",
+      "bytes": 3355
+    },
+    "002/spec-002.md": {
+      "volume": "002",
+      "layer": "规范谱系",
+      "sha256": "cb66f7d878f53e518ecdf9b5252985ff4465cb907c5a85fa4b3d2afe9269ee6c",
+      "bytes": 2827
+    },
+    "003/philo-003.md": {
+      "volume": "003",
+      "layer": "哲学谱系",
+      "sha256": "666acd0c3e489ee734f11c6048a724754877bda2e62c0f033986e8d87af7a7e4",
+      "bytes": 2768
+    },
+    "003/eng-003.md": {
+      "volume": "003",
+      "layer": "工程谱系",
+      "sha256": "c0d1686551d8047987f15a98381b43d599b2ba2820895ed64dc58ab3421a8162",
+      "bytes": 3563
+    },
+    "003/verify-003.md": {
+      "volume": "003",
+      "layer": "验证谱系",
+      "sha256": "1d82b50d7339b79aad820762f8668b6d174b621ccd3ca3121d37f3546d5b1a98",
+      "bytes": 3754
+    },
+    "003/spec-003.md": {
+      "volume": "003",
+      "layer": "规范谱系",
+      "sha256": "46075f1fb9d019a272857f9d4572d5cc581940b33e27458c9e1bc9db81219245",
+      "bytes": 3063
+    },
+    "004/philo-004.md": {
+      "volume": "004",
+      "layer": "哲学谱系",
+      "sha256": "4ede8e674a9e19d1bbee94f0a4af43de95449a3820e4ab276c6c41aec4f958ee",
+      "bytes": 3642
+    },
+    "004/eng-004.md": {
+      "volume": "004",
+      "layer": "工程谱系",
+      "sha256": "821cb2ed68bf5e3872caa058f3a9734e94aed38a832651395ba7e633fe2a678e",
+      "bytes": 3810
+    },
+    "004/verify-004.md": {
+      "volume": "004",
+      "layer": "验证谱系",
+      "sha256": "1a8caf8ae16744656e4c62e4eb3cd13eb34aa6ef57c89d5f152d90278b1d04d5",
+      "bytes": 3771
+    },
+    "004/spec-004.md": {
+      "volume": "004",
+      "layer": "规范谱系",
+      "sha256": "231eb6b4e43b0ad318df5c9452f891c99c7363fa596081990c7d0fd0daf98dc4",
+      "bytes": 3118
+    },
+    "005/philo-005.md": {
+      "volume": "005",
+      "layer": "哲学谱系",
+      "sha256": "9d3f136b4e68b23bf86e6699895017b54ac41eee0c460ae8b940cbd43a4b32ec",
+      "bytes": 3920
+    },
+    "005/eng-005.md": {
+      "volume": "005",
+      "layer": "工程谱系",
+      "sha256": "8bbc72339022b28c197e382d823e50a03fd2b40ad7f259bd780208afa9550fa5",
+      "bytes": 4039
+    },
+    "005/verify-005.md": {
+      "volume": "005",
+      "layer": "验证谱系",
+      "sha256": "9eabb21f19467611f08132288deb729f4ca9a4364c1a48196406fcaeef934c1a",
+      "bytes": 3967
+    },
+    "005/spec-005.md": {
+      "volume": "005",
+      "layer": "规范谱系",
+      "sha256": "e48bb2bf30881b0075ee51cdc804fc2d466794e7e3916019d29f692ca0b39372",
+      "bytes": 3194
+    },
+    "006/philo-006.md": {
+      "volume": "006",
+      "layer": "哲学谱系",
+      "sha256": "c10188be7116c4c452e44910675c24507c270d788cccae34821884c953af8500",
+      "bytes": 4057
+    },
+    "006/eng-006.md": {
+      "volume": "006",
+      "layer": "工程谱系",
+      "sha256": "111909f08a9108b56b05941a7ad5e087f5f2b83ebf202b9847c17e9550fa462c",
+      "bytes": 4170
+    },
+    "006/verify-006.md": {
+      "volume": "006",
+      "layer": "验证谱系",
+      "sha256": "7b7df1ba236ec2e78f459fbffc5d2992075dff20605ae978c3d61024ffc3db76",
+      "bytes": 4025
+    },
+    "006/spec-006.md": {
+      "volume": "006",
+      "layer": "规范谱系",
+      "sha256": "c96a2601124a6843197db348ebd7ec9b10b238bcc6510ab287ff11d4ad40bf92",
+      "bytes": 3264
+    },
+    "007/philo-007.md": {
+      "volume": "007",
+      "layer": "哲学谱系",
+      "sha256": "e121accb218f4aa447c61ddeeb6ecbd1b34d674531080bfa193de07e1463a0f4",
+      "bytes": 4267
+    },
+    "007/eng-007.md": {
+      "volume": "007",
+      "layer": "工程谱系",
+      "sha256": "654d5b0c71b231ad8c56a3804b3837047cd0b65f28664b11cb12d2d6a960cffd",
+      "bytes": 4115
+    },
+    "007/verify-007.md": {
+      "volume": "007",
+      "layer": "验证谱系",
+      "sha256": "0202fa137a748a98b298e357f58a596e1ffc8f9c5bc26b3463ca56a95d58c8ec",
+      "bytes": 4225
+    },
+    "007/spec-007.md": {
+      "volume": "007",
+      "layer": "规范谱系",
+      "sha256": "c63f2d096b302bccf79aa57491f7904c5b18baf517551664017af23e44932a59",
+      "bytes": 3295
+    },
+    "008/philo-008.md": {
+      "volume": "008",
+      "layer": "哲学谱系",
+      "sha256": "661f1300e2b7768673da4b697c47a0ec25b1e8d1a6f441717a80c22e5f3c5e77",
+      "bytes": 3849
+    },
+    "008/eng-008.md": {
+      "volume": "008",
+      "layer": "工程谱系",
+      "sha256": "07db4ff400c09967714b5fa0dda9fb02252f118140795993a2b134be4e0b8d2e",
+      "bytes": 4178
+    },
+    "008/verify-008.md": {
+      "volume": "008",
+      "layer": "验证谱系",
+      "sha256": "b8f954bb8d37d279af8d53d451c9d7d9dd962daadfc5fcf906f2b8e21076575f",
+      "bytes": 4260
+    },
+    "008/spec-008.md": {
+      "volume": "008",
+      "layer": "规范谱系",
+      "sha256": "9fe2eb0ae6c20ebf06287831c88b0eb74ef48b678170b45a6aa64eef4c488920",
+      "bytes": 3300
+    },
+    "009/philo-009.md": {
+      "volume": "009",
+      "layer": "哲学谱系",
+      "sha256": "331e8c692bd4ef2a5a62c52f1133acc28464f42aae69c4f2889cd522720ec019",
+      "bytes": 4238
+    },
+    "009/eng-009.md": {
+      "volume": "009",
+      "layer": "工程谱系",
+      "sha256": "38c7ad5f32634107f968add9690c8376bd637a53ee1bf59be51fda61ebf937a3",
+      "bytes": 4227
+    },
+    "009/verify-009.md": {
+      "volume": "009",
+      "layer": "验证谱系",
+      "sha256": "4d4e68d3850155f087c8ef38a7e655c86b606d3ae29d08c3815c70e84d9ecf28",
+      "bytes": 4285
+    },
+    "009/spec-009.md": {
+      "volume": "009",
+      "layer": "规范谱系",
+      "sha256": "4d4af31b96b36d4a90286978d44af43ed70395bb8964fa0d5b601ea7c9b4922f",
+      "bytes": 3431
+    },
+    "010/philo-010.md": {
+      "volume": "010",
+      "layer": "哲学谱系",
+      "sha256": "1dc31f423d929d880f47091857880a81898396dc13b383f405b922bf13d64c8a",
+      "bytes": 4300
+    },
+    "010/eng-010.md": {
+      "volume": "010",
+      "layer": "工程谱系",
+      "sha256": "eaaf41f984ccf248ede785a1b308f1082cc9b6610ac82c207a1c96015a9a06c0",
+      "bytes": 4391
+    },
+    "010/verify-010.md": {
+      "volume": "010",
+      "layer": "验证谱系",
+      "sha256": "0db1f628d206096fab745df07a770aaf576856ebb81c1d9ea1f07cad5ae0f51c",
+      "bytes": 4197
+    },
+    "010/spec-010.md": {
+      "volume": "010",
+      "layer": "规范谱系",
+      "sha256": "5a72e598febaf91fab0f19f8843d2d6aa9c51da0185f01538eadc094bda50a30",
+      "bytes": 3305
+    },
+    "011/philo-011.md": {
+      "volume": "011",
+      "layer": "哲学谱系",
+      "sha256": "962adc02581bf3988514a8b04837eb853d7d0af30e397814827a2affae9a425c",
+      "bytes": 4487
+    },
+    "011/eng-011.md": {
+      "volume": "011",
+      "layer": "工程谱系",
+      "sha256": "925757724d861fe37e44d3432b5db7cd1406bf9dc0b0cebc805af160fb6c0bc0",
+      "bytes": 4431
+    },
+    "011/verify-011.md": {
+      "volume": "011",
+      "layer": "验证谱系",
+      "sha256": "e6e71109a6c2e2a79c17403fcc1128a67f1b57b648107de790686fdc987cb581",
+      "bytes": 4402
+    },
+    "011/spec-011.md": {
+      "volume": "011",
+      "layer": "规范谱系",
+      "sha256": "3bc175f9461d690fefd3d006f55c9f898e3c5cf894f693ae8372f460ca0cf5bb",
+      "bytes": 3426
+    },
+    "012/philo-012.md": {
+      "volume": "012",
+      "layer": "哲学谱系",
+      "sha256": "1be75ce98d6c9b34d0670970850567255906715a76d3dd1bd13601388eac472f",
+      "bytes": 4413
+    },
+    "012/eng-012.md": {
+      "volume": "012",
+      "layer": "工程谱系",
+      "sha256": "6cd844c49ae2374a1653ef8f3d157310f49e587e983637a46aa8de0e4b0aff64",
+      "bytes": 4577
+    },
+    "012/verify-012.md": {
+      "volume": "012",
+      "layer": "验证谱系",
+      "sha256": "2c744081bfc5299af0a941af6881c2798c67931200b972fef2004673d7412161",
+      "bytes": 4487
+    },
+    "012/spec-012.md": {
+      "volume": "012",
+      "layer": "规范谱系",
+      "sha256": "f4129c29560f5aae6085cdb2d8ddd035d63827f6d73fd5df13598e78aca1e53c",
+      "bytes": 3531
+    },
+    "013/philo-013.md": {
+      "volume": "013",
+      "layer": "哲学谱系",
+      "sha256": "a1a390556860e7bbf51a742b98dccd3d2393469dc2a21b53b5fb4e89c8057944",
+      "bytes": 4646
+    },
+    "013/eng-013.md": {
+      "volume": "013",
+      "layer": "工程谱系",
+      "sha256": "f84c0f59b7cd8e8030220d78357721c93c55e42ff55e14df25cff83ce4b57fc0",
+      "bytes": 5023
+    },
+    "013/verify-013.md": {
+      "volume": "013",
+      "layer": "验证谱系",
+      "sha256": "7d90be7f49fa344019adbdd444598739bc16a4e402b78579ba1e9006f3c55869",
+      "bytes": 4505
+    },
+    "013/spec-013.md": {
+      "volume": "013",
+      "layer": "规范谱系",
+      "sha256": "88522e29f840a2e685a1ff3d7673253fac0cac71e2416a0921d4c0c64a6421af",
+      "bytes": 3484
+    },
+    "014/philo-014.md": {
+      "volume": "014",
+      "layer": "哲学谱系",
+      "sha256": "92c4b5fe82b513a025ed29b4822ae844d17e5a351cb1c019efe5ae3966e935af",
+      "bytes": 4488
+    },
+    "014/eng-014.md": {
+      "volume": "014",
+      "layer": "工程谱系",
+      "sha256": "e36fac6fbed52dd2890f0543a87b785a8bb6ec387f8e5e98af73bccdcfe32e60",
+      "bytes": 5043
+    },
+    "014/verify-014.md": {
+      "volume": "014",
+      "layer": "验证谱系",
+      "sha256": "64e23b77772d1593437ade6254e930f5b939595db5746411f2ec4f7e54d9a96f",
+      "bytes": 4530
+    },
+    "014/spec-014.md": {
+      "volume": "014",
+      "layer": "规范谱系",
+      "sha256": "037453711f8aec6c1eebefd9874473bc10e44438e8982de2adf4f4f477736ae9",
+      "bytes": 3366
+    },
+    "015/philo-015.md": {
+      "volume": "015",
+      "layer": "哲学谱系",
+      "sha256": "2128214b0cef66739fd13b860ea31355153f8d2aed639504fea303cc386468fc",
+      "bytes": 4595
+    },
+    "015/eng-015.md": {
+      "volume": "015",
+      "layer": "工程谱系",
+      "sha256": "e94e6b488fc2aec0c5801770e88eccde5c31db3b05f046e411c61a778cc084b9",
+      "bytes": 5228
+    },
+    "015/verify-015.md": {
+      "volume": "015",
+      "layer": "验证谱系",
+      "sha256": "e6fed6bbc5e54c679ae806ce797cf435cf99b1319e86c733f1aaea6968ea360f",
+      "bytes": 4719
+    },
+    "015/spec-015.md": {
+      "volume": "015",
+      "layer": "规范谱系",
+      "sha256": "cf8dd365558c650cdcedcc921b0526dd27d1535d833dd91b0a38f7258477fed6",
+      "bytes": 3577
+    },
+    "016/philo-016.md": {
+      "volume": "016",
+      "layer": "哲学谱系",
+      "sha256": "0020c32d354d57e4b509bad4048c0f0da8c7f6f1adb5d56cfd5f21023be0ab9e",
+      "bytes": 4812
+    },
+    "016/eng-016.md": {
+      "volume": "016",
+      "layer": "工程谱系",
+      "sha256": "02233dd6c7d984d956396c10d8595fbcc0a24f16f7f86ca3686c2eef7db83bc6",
+      "bytes": 5099
+    },
+    "016/verify-016.md": {
+      "volume": "016",
+      "layer": "验证谱系",
+      "sha256": "1ceb3890a356a1d7d832f3b9baa0aa44780c3a04dd2849c2fdeddad3d42811d7",
+      "bytes": 4626
+    },
+    "016/spec-016.md": {
+      "volume": "016",
+      "layer": "规范谱系",
+      "sha256": "43a9baf796ff01474b459820ae230c8111665cdf2a0f102a701e86c0cf454fa1",
+      "bytes": 3554
+    },
+    "017/philo-017.md": {
+      "volume": "017",
+      "layer": "哲学谱系",
+      "sha256": "0eaf9dcbde0a331eddd3bf8064584c496cdeadb1aa9412aaa6a75d0a7ca74858",
+      "bytes": 4927
+    },
+    "017/eng-017.md": {
+      "volume": "017",
+      "layer": "工程谱系",
+      "sha256": "46b90eed9833a0143381dcad40b9cde7ad98c3d25c7510dd36ee8fd1c0cd8d00",
+      "bytes": 5191
+    },
+    "017/verify-017.md": {
+      "volume": "017",
+      "layer": "验证谱系",
+      "sha256": "a1c227af4320baf82b5004835a01c220d86b9d5479f43196d1436c0306c75d3f",
+      "bytes": 4550
+    },
+    "017/spec-017.md": {
+      "volume": "017",
+      "layer": "规范谱系",
+      "sha256": "f10657c202a351b493e5cb2b70e56b5ac1b520963583d6f96889f81a55f2a789",
+      "bytes": 3503
+    },
+    "018/philo-018.md": {
+      "volume": "018",
+      "layer": "哲学谱系",
+      "sha256": "3e69062dd25f0c508820a759b680e5c266ec8a6d7c48d9b1db2a11756dea76b7",
+      "bytes": 4984
+    },
+    "018/eng-018.md": {
+      "volume": "018",
+      "layer": "工程谱系",
+      "sha256": "69244a5e4a8abf18804edb35547742715474a40db131e7ecd2d01a77dd0bb1c9",
+      "bytes": 5413
+    },
+    "018/verify-018.md": {
+      "volume": "018",
+      "layer": "验证谱系",
+      "sha256": "508eafe493401a7f4f117b2197f35b46e01afb3f97631168ee4ac54dd64499d6",
+      "bytes": 4752
+    },
+    "018/spec-018.md": {
+      "volume": "018",
+      "layer": "规范谱系",
+      "sha256": "6387bd6426a560c139d50e0c945ea06d1c9655796a5421dacf761acd84f51735",
+      "bytes": 3726
+    },
+    "019/philo-019.md": {
+      "volume": "019",
+      "layer": "哲学谱系",
+      "sha256": "b7a67d3f560171e9f48ce47977ffe34e999745e78a633f47441544d8249373c8",
+      "bytes": 4954
+    },
+    "019/eng-019.md": {
+      "volume": "019",
+      "layer": "工程谱系",
+      "sha256": "b22c73feef88ff117b5b4546195f42371dcade51133f5a4800e15d6fae8d5115",
+      "bytes": 5210
+    },
+    "019/verify-019.md": {
+      "volume": "019",
+      "layer": "验证谱系",
+      "sha256": "d1f0938bc612c544d768b362ab08224479cb3c7dc7caaca88262c42b9f4d845a",
+      "bytes": 4659
+    },
+    "019/spec-019.md": {
+      "volume": "019",
+      "layer": "规范谱系",
+      "sha256": "3ee93bc7418582d589bd7146481090fd6ddc5d02888b9377d95379551d9001a4",
+      "bytes": 3582
+    },
+    "020/philo-020.md": {
+      "volume": "020",
+      "layer": "哲学谱系",
+      "sha256": "e845b11cfad62177e483474b525e292abc2a85c24cb78ee8b92bea1ec10bc1bc",
+      "bytes": 4990
+    },
+    "020/eng-020.md": {
+      "volume": "020",
+      "layer": "工程谱系",
+      "sha256": "0d108485397e4b37fb7acd3acec63fd71d961b54050e30d5fd5928a015662c68",
+      "bytes": 5105
+    },
+    "020/verify-020.md": {
+      "volume": "020",
+      "layer": "验证谱系",
+      "sha256": "70289a47327fdaf534e8babefbd46ac43a2d6e100bc23a787e143924f7a58ef1",
+      "bytes": 4527
+    },
+    "020/spec-020.md": {
+      "volume": "020",
+      "layer": "规范谱系",
+      "sha256": "0dc371915ba82189d69aae63cf13a96415f3c43ef41946e7e6f48739a2846d44",
+      "bytes": 3585
+    },
+    "021/philo-021.md": {
+      "volume": "021",
+      "layer": "哲学谱系",
+      "sha256": "8a9cfcee8e3b40998f886e6aa58b5cfe201f7bea6d7aa3f33513ccf86581c69a",
+      "bytes": 3871
+    },
+    "021/eng-021.md": {
+      "volume": "021",
+      "layer": "工程谱系",
+      "sha256": "1e301fdc6fd86c3ef26ff1f7189726a1dc3ffee68cfc43b89dfbe9565e490218",
+      "bytes": 3305
+    },
+    "021/verify-021.md": {
+      "volume": "021",
+      "layer": "验证谱系",
+      "sha256": "fb0e762da44853c2910bafc5fb1092a158c571151ef25b7b87a772599cb52432",
+      "bytes": 3302
+    },
+    "021/spec-021.md": {
+      "volume": "021",
+      "layer": "规范谱系",
+      "sha256": "d3742b682a74afd9c5fd1b469948b661ba92f84f47f54f043fcbf472f3a29ee6",
+      "bytes": 2554
+    },
+    "022/philo-022.md": {
+      "volume": "022",
+      "layer": "哲学谱系",
+      "sha256": "302646bc39bda00444788e4377b4648fe9c53765578c8782a0c76e2e5681ad24",
+      "bytes": 5434
+    },
+    "022/eng-022.md": {
+      "volume": "022",
+      "layer": "工程谱系",
+      "sha256": "a48cf431987b14e7aa01666398a24e56abd3080bf3975ddbd80ca5d4194d568f",
+      "bytes": 5210
+    },
+    "022/verify-022.md": {
+      "volume": "022",
+      "layer": "验证谱系",
+      "sha256": "12d72e5c76e6bea1689265265f0cc9d94ae17f1e3f9138a10b686e7d0aa33e4a",
+      "bytes": 4639
+    },
+    "022/spec-022.md": {
+      "volume": "022",
+      "layer": "规范谱系",
+      "sha256": "dec56103a38c7dcb9c1cf9faa33e640af50a3edd8564cf47d17c60e43bebf339",
+      "bytes": 3631
+    },
+    "023/philo-023.md": {
+      "volume": "023",
+      "layer": "哲学谱系",
+      "sha256": "3e6e4d7f549b1c7eaa78ae0454556826c040c4b7d8548c7d00b52e253539093a",
+      "bytes": 5383
+    },
+    "023/eng-023.md": {
+      "volume": "023",
+      "layer": "工程谱系",
+      "sha256": "7987cc44bc0f6b1a02568f11a9a16ea941b2aaf099ada6981adc98a3d016ad76",
+      "bytes": 4481
+    },
+    "023/verify-023.md": {
+      "volume": "023",
+      "layer": "验证谱系",
+      "sha256": "6408734ec31b19b1b1138977ab39d87cb982e9b2ea8a3dbb5df0636279868924",
+      "bytes": 4517
+    },
+    "023/spec-023.md": {
+      "volume": "023",
+      "layer": "规范谱系",
+      "sha256": "baa88094dc9898467614ce342bf72ae589bcc728810a58496019cd254d1ebee2",
+      "bytes": 3618
+    },
+    "024/philo-024.md": {
+      "volume": "024",
+      "layer": "哲学谱系",
+      "sha256": "d8f179e03a8fbb3c40ecdf9f578b294501b24a78d83c1814cbb90296c1831750",
+      "bytes": 5208
+    },
+    "024/eng-024.md": {
+      "volume": "024",
+      "layer": "工程谱系",
+      "sha256": "7c5072e14355e08a72d7c1147eaa22a484c87025af0823fed227bb9783083e7d",
+      "bytes": 4613
+    },
+    "024/verify-024.md": {
+      "volume": "024",
+      "layer": "验证谱系",
+      "sha256": "497f63c4eb1bcad64d3fda3d0f90be7ba88ef10ac5e9cd2aa9020a4562e80952",
+      "bytes": 4808
+    },
+    "024/spec-024.md": {
+      "volume": "024",
+      "layer": "规范谱系",
+      "sha256": "712aa97a4187aeb68f347916591de6acaec2d7895c0980f6eaf78e510abf82b2",
+      "bytes": 3852
+    },
+    "025/philo-025.md": {
+      "volume": "025",
+      "layer": "哲学谱系",
+      "sha256": "e5e683043ed1a5e13cfc8a6123594fbc26d8a6319b5b935416a369b4b9584858",
+      "bytes": 5369
+    },
+    "025/eng-025.md": {
+      "volume": "025",
+      "layer": "工程谱系",
+      "sha256": "659a38ab5f1a874cf57f10be7cc226c29d723defc5b8d3916ec16c5a1ca072b7",
+      "bytes": 4345
+    },
+    "025/verify-025.md": {
+      "volume": "025",
+      "layer": "验证谱系",
+      "sha256": "c29f3bc54328e16fbb1ece8e3a9649ff11fe813889980179185e2a8d8d63daa1",
+      "bytes": 4513
+    },
+    "025/spec-025.md": {
+      "volume": "025",
+      "layer": "规范谱系",
+      "sha256": "a5363e90f028dd894dbf883c4e7a7788c4a45ac071e41ffc67d075cbf74592a2",
+      "bytes": 3612
+    },
+    "026/philo-026.md": {
+      "volume": "026",
+      "layer": "哲学谱系",
+      "sha256": "8880d65e9ca2aeb718ea9a6fe39a3db176950a840e05a4cf4e96abc3c63a0196",
+      "bytes": 5326
+    },
+    "026/eng-026.md": {
+      "volume": "026",
+      "layer": "工程谱系",
+      "sha256": "a80cddfe9226016cadd3d0fab8367acea97affd7b2b5ca3f26467c47ec5ad0b1",
+      "bytes": 4604
+    },
+    "026/verify-026.md": {
+      "volume": "026",
+      "layer": "验证谱系",
+      "sha256": "1786fdb2cf79ec63f36b8eecb20a947e35ecc9de593e72a0f5774b8d246c5084",
+      "bytes": 4578
+    },
+    "026/spec-026.md": {
+      "volume": "026",
+      "layer": "规范谱系",
+      "sha256": "ef3335d6fc1bba697a51bab305c291550c21825da0b7a3f34d3bc3fe807e9a02",
+      "bytes": 3580
+    },
+    "027/philo-027.md": {
+      "volume": "027",
+      "layer": "哲学谱系",
+      "sha256": "f61d53a4486f85961c3b5038e1dca4fca1ed0be46a2f1f79bb6392348a15dc68",
+      "bytes": 5481
+    },
+    "027/eng-027.md": {
+      "volume": "027",
+      "layer": "工程谱系",
+      "sha256": "439ffdb6f0686255736f7324680332cd6300e5dcab4542ea60fc4f00bc02db98",
+      "bytes": 4519
+    },
+    "027/verify-027.md": {
+      "volume": "027",
+      "layer": "验证谱系",
+      "sha256": "b8b162a2174fec88797316d33070d827c7e21ca51fbf427611be82d9c8d192c4",
+      "bytes": 4591
+    },
+    "027/spec-027.md": {
+      "volume": "027",
+      "layer": "规范谱系",
+      "sha256": "6028935aa894193ff64d1b8680dce7682361349aa0b9cce41e0b9718992a3a31",
+      "bytes": 3738
+    },
+    "028/philo-028.md": {
+      "volume": "028",
+      "layer": "哲学谱系",
+      "sha256": "7cab9bde1063cadc32eac552baa34f8475efce39fe6fed258fe68813e4ec3942",
+      "bytes": 5800
+    },
+    "028/eng-028.md": {
+      "volume": "028",
+      "layer": "工程谱系",
+      "sha256": "0a42faa121d0ef346af02ffa1c3399320e67290f86d8a3c66a2ff703917eea56",
+      "bytes": 4669
+    },
+    "028/verify-028.md": {
+      "volume": "028",
+      "layer": "验证谱系",
+      "sha256": "d7e42d449a009e38c593a4ecad656c4d6e43905e6519ff1d56c919f7204b871d",
+      "bytes": 4673
+    },
+    "028/spec-028.md": {
+      "volume": "028",
+      "layer": "规范谱系",
+      "sha256": "6aab2f0642f56c54905aaae29c671c9b0a117b3b151dc630e9f265a6aa6e58a3",
+      "bytes": 3766
+    },
+    "029/philo-029.md": {
+      "volume": "029",
+      "layer": "哲学谱系",
+      "sha256": "1cc0394b0375e515ed2346e98163aa8a4c9f60e1a9bf4520dd2cc98815b0b863",
+      "bytes": 5719
+    },
+    "029/eng-029.md": {
+      "volume": "029",
+      "layer": "工程谱系",
+      "sha256": "af60210dd1146a897bc0187a0446df1741dccd75e6ee079a126c3e7a44036ba4",
+      "bytes": 6081
+    },
+    "029/verify-029.md": {
+      "volume": "029",
+      "layer": "验证谱系",
+      "sha256": "a676ea9653cdb1d0d11613b852c9da32659d199236df1979baceee07bef61890",
+      "bytes": 6493
+    },
+    "029/spec-029.md": {
+      "volume": "029",
+      "layer": "规范谱系",
+      "sha256": "d88b0da3e3710d9952daeab4d861ab68cb60bf00f301cd7f2af86200bc4dc0eb",
+      "bytes": 4314
+    },
+    "030/philo-030.md": {
+      "volume": "030",
+      "layer": "哲学谱系",
+      "sha256": "57a04318be0dbe6e80a1c8e637c6cde1c8394da621da8799c7e98b01135417b7",
+      "bytes": 6655
+    },
+    "030/eng-030.md": {
+      "volume": "030",
+      "layer": "工程谱系",
+      "sha256": "b02ee4fbedd065db0d0b07a3c719d4cc8dbc03348ed14d6554e4b6b33a4188ed",
+      "bytes": 5041
+    },
+    "030/verify-030.md": {
+      "volume": "030",
+      "layer": "验证谱系",
+      "sha256": "d9863b2cb4352bf040ca59e66af4e6727ea459985b4a778884f29d7694a6807e",
+      "bytes": 3501
+    },
+    "030/spec-030.md": {
+      "volume": "030",
+      "layer": "规范谱系",
+      "sha256": "3e6405a8fa91619a936e1b821d37a0a8eacbb0fab7f43372377fa69db772ffbe",
+      "bytes": 3042
+    },
+    "031/philo-031.md": {
+      "volume": "031",
+      "layer": "哲学谱系",
+      "sha256": "a4823c809f26670af0438c6509f8e7f4ef14b549108a9ce557a8e31e31e9c4aa",
+      "bytes": 5870
+    },
+    "031/eng-031.md": {
+      "volume": "031",
+      "layer": "工程谱系",
+      "sha256": "49a6a860bafcdfddc2ccc4a372ee5dc9755b6fbfbecd19e94d478631bca61771",
+      "bytes": 5018
+    },
+    "031/verify-031.md": {
+      "volume": "031",
+      "layer": "验证谱系",
+      "sha256": "25b7c124f1ed857262c83950a860266e462c1fb81f357d477374d99419ee35d4",
+      "bytes": 3626
+    },
+    "031/spec-031.md": {
+      "volume": "031",
+      "layer": "规范谱系",
+      "sha256": "52e455d39b57f5f476b36a850a4c910d899d36dfe2f5dba32cf5ff4620221951",
+      "bytes": 3293
+    },
+    "032/philo-032.md": {
+      "volume": "032",
+      "layer": "哲学谱系",
+      "sha256": "1f0d710db18d867f6b7ebace5b233df845a90d471317f3d41808a7545f135dea",
+      "bytes": 6164
+    },
+    "032/eng-032.md": {
+      "volume": "032",
+      "layer": "工程谱系",
+      "sha256": "6d6c7bc2ccdf919151d4cdc8a2302473cd90281d4bcad6c957a1cb01e0728d9b",
+      "bytes": 5135
+    },
+    "032/verify-032.md": {
+      "volume": "032",
+      "layer": "验证谱系",
+      "sha256": "00a27b9b23540f1b3a81ce4ac5390e9ce988ca666497d46ea83ef6d79bc2b31e",
+      "bytes": 3638
+    },
+    "032/spec-032.md": {
+      "volume": "032",
+      "layer": "规范谱系",
+      "sha256": "d563fa6cb0f9318c9f7462310fbb969df7bcaadf293680c7a62440a4ae9dce36",
+      "bytes": 3321
+    },
+    "033/philo-033.md": {
+      "volume": "033",
+      "layer": "哲学谱系",
+      "sha256": "eb3bc0161f01dec14d5be5bcc5cbfe66af01b682e383e5e2a22b24d2d07208a5",
+      "bytes": 6060
+    },
+    "033/eng-033.md": {
+      "volume": "033",
+      "layer": "工程谱系",
+      "sha256": "58ac915b52a25f502f511cdb558c8df83601b5e1d3eb22a3be18f2a4926328d5",
+      "bytes": 4980
+    },
+    "033/verify-033.md": {
+      "volume": "033",
+      "layer": "验证谱系",
+      "sha256": "76dccbb3204f2c1cbaf378246e525d77883455874d48c80e8c5d048c93e6af12",
+      "bytes": 3652
+    },
+    "033/spec-033.md": {
+      "volume": "033",
+      "layer": "规范谱系",
+      "sha256": "1d370a7d332bd9c3831c1e8ff41e100af4f6c6cdc0cd3090f6f3c977a09f4e98",
+      "bytes": 3351
+    },
+    "034/philo-034.md": {
+      "volume": "034",
+      "layer": "哲学谱系",
+      "sha256": "a59f5a2bcb6ea45ca287f1e5f8f8a174df2165d419c7ee46888bcfa708681a54",
+      "bytes": 6121
+    },
+    "034/eng-034.md": {
+      "volume": "034",
+      "layer": "工程谱系",
+      "sha256": "3e7ba5d357f1fc01df520b4ddab9d47b61f88295b2245d6ea5a91b3fa0a6657d",
+      "bytes": 5396
+    },
+    "034/verify-034.md": {
+      "volume": "034",
+      "layer": "验证谱系",
+      "sha256": "e6f787cc8e93e1765189a29b965128041c2094ad3accfc40cb15eef139033cb8",
+      "bytes": 4048
+    },
+    "034/spec-034.md": {
+      "volume": "034",
+      "layer": "规范谱系",
+      "sha256": "fcd20e32f03fed9267a299019811bf16b43fa21caa89ae16d36f7d3d82fd8723",
+      "bytes": 3645
+    },
+    "035/philo-035.md": {
+      "volume": "035",
+      "layer": "哲学谱系",
+      "sha256": "847a5e40912f7b8ef2e2894a9b07a3f09466d210b457df12c142fa00bd8ce7b2",
+      "bytes": 6434
+    },
+    "035/eng-035.md": {
+      "volume": "035",
+      "layer": "工程谱系",
+      "sha256": "a17400788c24b451e76ecc48891376571a756c8d3a05da96ee062a9472e2b4c5",
+      "bytes": 5482
+    },
+    "035/verify-035.md": {
+      "volume": "035",
+      "layer": "验证谱系",
+      "sha256": "e31d233f97a2203d8ee8c15d275513c63ddcd34a7ffe7d07543061eb3847a3d1",
+      "bytes": 4086
+    },
+    "035/spec-035.md": {
+      "volume": "035",
+      "layer": "规范谱系",
+      "sha256": "e8f0edf23d8a981d75fd34edfd7afe4cfe307d7ae68650d71b0a307557811288",
+      "bytes": 3759
+    },
+    "036/philo-036.md": {
+      "volume": "036",
+      "layer": "哲学谱系",
+      "sha256": "d5c5cf363da9094d7b41325e4be310d1a664eefb9a01907c926c44f38d5bc0c5",
+      "bytes": 6597
+    },
+    "036/eng-036.md": {
+      "volume": "036",
+      "layer": "工程谱系",
+      "sha256": "f75fe9408df26821d1470df07f584c7c593990b033c97e4afa17d32fccdc0b68",
+      "bytes": 5471
+    },
+    "036/verify-036.md": {
+      "volume": "036",
+      "layer": "验证谱系",
+      "sha256": "99afdc21f00d45774567a129fd1c1146a3c397709031db8cdffb0246467d1f0b",
+      "bytes": 4362
+    },
+    "036/spec-036.md": {
+      "volume": "036",
+      "layer": "规范谱系",
+      "sha256": "8bcc713dd6a0cac5b5cee39739ea1ed7540f0d77c7c35733e37be6ea150c0faf",
+      "bytes": 3990
+    },
+    "037/philo-037.md": {
+      "volume": "037",
+      "layer": "哲学谱系",
+      "sha256": "9c5e828e4cabcdf89fea119224b311ca0ba44b25c88d1f74d71408440b85bdce",
+      "bytes": 6203
+    },
+    "037/eng-037.md": {
+      "volume": "037",
+      "layer": "工程谱系",
+      "sha256": "498abf1de769e2f20fd136b7caba5c0386f09aa5286e05b3bf2296f131d987be",
+      "bytes": 5321
+    },
+    "037/verify-037.md": {
+      "volume": "037",
+      "layer": "验证谱系",
+      "sha256": "92777008badbe9fa0efc0b37441137fd1b1a1e29eae5f839555e99c7705d0dca",
+      "bytes": 3956
+    },
+    "037/spec-037.md": {
+      "volume": "037",
+      "layer": "规范谱系",
+      "sha256": "e698cc66560ed05eaca856294bc05ea36f9f80388ef47d1b4bc7283edb0bdd65",
+      "bytes": 3898
+    },
+    "038/philo-038.md": {
+      "volume": "038",
+      "layer": "哲学谱系",
+      "sha256": "050451f16a828be3c9bdedf9de1351549b064b22b0aafb7ddadf1b84f0f8027c",
+      "bytes": 6707
+    },
+    "038/eng-038.md": {
+      "volume": "038",
+      "layer": "工程谱系",
+      "sha256": "205cf4f88006c32f33785aef36e80d3cea53685c65c03c33e5e503149677d583",
+      "bytes": 5273
+    },
+    "038/verify-038.md": {
+      "volume": "038",
+      "layer": "验证谱系",
+      "sha256": "97fb69c0430b90334f67b7f3d3aa2f351a59c95cf3d68050fc216c4adf82b038",
+      "bytes": 4060
+    },
+    "038/spec-038.md": {
+      "volume": "038",
+      "layer": "规范谱系",
+      "sha256": "259f13c5f2e18414f5a69ff4470baffc591ac7847f707a188da69a7c5a9472dd",
+      "bytes": 3887
+    },
+    "039/philo-039.md": {
+      "volume": "039",
+      "layer": "哲学谱系",
+      "sha256": "e30472f522e6b9c47f0ebfccafa5ac88a98a8a027754208064cd03d5528967b6",
+      "bytes": 6350
+    },
+    "039/eng-039.md": {
+      "volume": "039",
+      "layer": "工程谱系",
+      "sha256": "8a2bf1130b23659f27f8e56afbc2abbeada0ebb55462349a8b42384a2adcdcf1",
+      "bytes": 5252
+    },
+    "039/verify-039.md": {
+      "volume": "039",
+      "layer": "验证谱系",
+      "sha256": "3c4e197e907d93e94f2fc38ad1d48c35a1b045d6cd56a65171a1761fc7b67b4b",
+      "bytes": 3985
+    },
+    "039/spec-039.md": {
+      "volume": "039",
+      "layer": "规范谱系",
+      "sha256": "1a1cb8e016ddd529521970d100b1bd57973f6a4151586cd173ada46f1ffacbda",
+      "bytes": 3939
+    },
+    "040/philo-040.md": {
+      "volume": "040",
+      "layer": "哲学谱系",
+      "sha256": "2586655dfc962246adbe2a7ceac4e8892786713be16386a9c3f38650657c876d",
+      "bytes": 6329
+    },
+    "040/eng-040.md": {
+      "volume": "040",
+      "layer": "工程谱系",
+      "sha256": "4a74a7a1b82ca9fcf3c3d3abcac633a81ae57176a9c268cfe35444b4f157ff03",
+      "bytes": 5377
+    },
+    "040/verify-040.md": {
+      "volume": "040",
+      "layer": "验证谱系",
+      "sha256": "8209f499bbb27e28909cf05fc1a95273dd000d64e5c83c722219492ac196bce6",
+      "bytes": 4059
+    },
+    "040/spec-040.md": {
+      "volume": "040",
+      "layer": "规范谱系",
+      "sha256": "842a29822b9c42aa56aeb0b56d1aab80c510ba5a1ea2ae110ebc9dcbab4d8287",
+      "bytes": 4008
+    },
+    "041/philo-041.md": {
+      "volume": "041",
+      "layer": "哲学谱系",
+      "sha256": "d38623104b592e522ac4ec7401da3b3bbc22987874c715087bb19978e854f850",
+      "bytes": 6615
+    },
+    "041/eng-041.md": {
+      "volume": "041",
+      "layer": "工程谱系",
+      "sha256": "cf9b280f5f6571d7af6e00da7d7b02b79c7ea775088c5211e54236f6c1a07fe3",
+      "bytes": 5564
+    },
+    "041/verify-041.md": {
+      "volume": "041",
+      "layer": "验证谱系",
+      "sha256": "3c587a2463f0512545406cb56d15e6f3e45648bc38d2b1b8adcae935c03a9a4f",
+      "bytes": 4049
+    },
+    "041/spec-041.md": {
+      "volume": "041",
+      "layer": "规范谱系",
+      "sha256": "5e992e6975604618f2c64673e000567aa50728110fbe076135d93cf4e08a4ab7",
+      "bytes": 4097
+    },
+    "042/philo-042.md": {
+      "volume": "042",
+      "layer": "哲学谱系",
+      "sha256": "2f33d7be28a599e5153e85e9299a8bb1048a6e4bb31b1c3222715e365eab252c",
+      "bytes": 6591
+    },
+    "042/eng-042.md": {
+      "volume": "042",
+      "layer": "工程谱系",
+      "sha256": "d875f76bf5d98d53a1c31fb26f10c3047da4f760f811c854add6ecf45fce3375",
+      "bytes": 5490
+    },
+    "042/verify-042.md": {
+      "volume": "042",
+      "layer": "验证谱系",
+      "sha256": "9e4d88c193dd5aad0ddab352a918aa909715217241b53da9f0ef9746f054ad88",
+      "bytes": 3985
+    },
+    "042/spec-042.md": {
+      "volume": "042",
+      "layer": "规范谱系",
+      "sha256": "5356dd8c5bafce80e65af2a4740b31a9b36eeff21bb8b1758d700b4bb92e9c94",
+      "bytes": 3916
+    },
+    "043/philo-043.md": {
+      "volume": "043",
+      "layer": "哲学谱系",
+      "sha256": "b289e3639b2b2f814019c185a904f88bfcbc8c0c9889594adaef5f4a39217227",
+      "bytes": 6647
+    },
+    "043/eng-043.md": {
+      "volume": "043",
+      "layer": "工程谱系",
+      "sha256": "32c0015e3ba8b389140bf09118f987ffd21bcf513287ffdeb7c461a6541f9da7",
+      "bytes": 5456
+    },
+    "043/verify-043.md": {
+      "volume": "043",
+      "layer": "验证谱系",
+      "sha256": "b63117ef6e28da2deb283693ecd4df7681836a0b3302515c8b34c63ed3a69a26",
+      "bytes": 3987
+    },
+    "043/spec-043.md": {
+      "volume": "043",
+      "layer": "规范谱系",
+      "sha256": "863f4f1fe3301de492305007107c3b8df4318bfb247499a638c5675cde6895fe",
+      "bytes": 3965
+    },
+    "044/philo-044.md": {
+      "volume": "044",
+      "layer": "哲学谱系",
+      "sha256": "b248fe90fc552cd52db1e511ab8b0d8998fd8d491c7ff6dc94f1ac981d3aef1b",
+      "bytes": 6569
+    },
+    "044/eng-044.md": {
+      "volume": "044",
+      "layer": "工程谱系",
+      "sha256": "5a659ba4d7745f3c06c76b3675aaa82d11b57c49f6b50afe0038f21f410364b5",
+      "bytes": 5659
+    },
+    "044/verify-044.md": {
+      "volume": "044",
+      "layer": "验证谱系",
+      "sha256": "910ca176c7706e906400369764161cfbd001ce5fb9e7e39931a83e7dd36c1e3d",
+      "bytes": 4034
+    },
+    "044/spec-044.md": {
+      "volume": "044",
+      "layer": "规范谱系",
+      "sha256": "fc36229fc158f11f95f7a7810340e4630c0abbfb1fba5fc03e448de8daebad27",
+      "bytes": 4022
+    },
+    "045/philo-045.md": {
+      "volume": "045",
+      "layer": "哲学谱系",
+      "sha256": "f14120227018d082d0181e3424108a40c4378eb3267158a2f2f2f93becc2e740",
+      "bytes": 6685
+    },
+    "045/eng-045.md": {
+      "volume": "045",
+      "layer": "工程谱系",
+      "sha256": "50eb71a7a582a7148697bccd61fa2695a346edfdb38230ab264e865a64e63802",
+      "bytes": 5787
+    },
+    "045/verify-045.md": {
+      "volume": "045",
+      "layer": "验证谱系",
+      "sha256": "2e254cf5cc45aa20b67ff416c00cdfb9b447e6367fb3910e0d5f1e15a3ed3be5",
+      "bytes": 4146
+    },
+    "045/spec-045.md": {
+      "volume": "045",
+      "layer": "规范谱系",
+      "sha256": "1c299cd439e43af013f0d0ff2320b231b071eb4feb81202d8605b8243540d352",
+      "bytes": 4160
+    },
+    "046/philo-046.md": {
+      "volume": "046",
+      "layer": "哲学谱系",
+      "sha256": "f611e0213059ad33785927c3e681b4bba42ceb57bfa1058fc52cb38eb66dab5a",
+      "bytes": 6770
+    },
+    "046/eng-046.md": {
+      "volume": "046",
+      "layer": "工程谱系",
+      "sha256": "0bdc189cb8a52daa698593dbebf1c5b622172ff901f9483efe550a88e9babd91",
+      "bytes": 5742
+    },
+    "046/verify-046.md": {
+      "volume": "046",
+      "layer": "验证谱系",
+      "sha256": "e0790ab4d64528d3691ca36e1346c6fc4205370b101b8b35ba8033d0f501a596",
+      "bytes": 4095
+    },
+    "046/spec-046.md": {
+      "volume": "046",
+      "layer": "规范谱系",
+      "sha256": "75081b2cc363f36385d018d5d74e7fa4508f4752c2fcbd810e2dfbd7068891b3",
+      "bytes": 4150
+    },
+    "047/philo-047.md": {
+      "volume": "047",
+      "layer": "哲学谱系",
+      "sha256": "383f6ce2cb042aa93be6efd4b56044fcd9c12ef111c75a4e9b691225253bd7e5",
+      "bytes": 7033
+    },
+    "047/eng-047.md": {
+      "volume": "047",
+      "layer": "工程谱系",
+      "sha256": "ba1779c84f276936de0fe0b176d8f8de2d2148c6667c81d2c9af4eebedc37667",
+      "bytes": 5977
+    },
+    "047/verify-047.md": {
+      "volume": "047",
+      "layer": "验证谱系",
+      "sha256": "13dcfb315b4e5dee3bda04b0ff2876737e82c5e652cc81d136d5e25d853b35eb",
+      "bytes": 4077
+    },
+    "047/spec-047.md": {
+      "volume": "047",
+      "layer": "规范谱系",
+      "sha256": "1bf95d487ecd5c3624824740b024c74b920eb38d9d7142ec85869a3d3993b661",
+      "bytes": 4163
+    },
+    "048/philo-048.md": {
+      "volume": "048",
+      "layer": "哲学谱系",
+      "sha256": "6df7d124f78124916ff9e82e745c1a9ba23d1b1fe94a934bd008ed9d099313c9",
+      "bytes": 6897
+    },
+    "048/eng-048.md": {
+      "volume": "048",
+      "layer": "工程谱系",
+      "sha256": "a1a7b8751a0303d2c5a77a1759a0e3dce40315689438ba14bab22f52c2613e0c",
+      "bytes": 5977
+    },
+    "048/verify-048.md": {
+      "volume": "048",
+      "layer": "验证谱系",
+      "sha256": "378ce9d10c1e1de341f037e63cbf8330086011afc8c358cefc5a9bbdb64463df",
+      "bytes": 4055
+    },
+    "048/spec-048.md": {
+      "volume": "048",
+      "layer": "规范谱系",
+      "sha256": "b426c09540e8c8a0a75fb9f6f80df8c962c2b45c26370e45a2e23e1c1b8eec99",
+      "bytes": 4132
+    },
+    "049/philo-049.md": {
+      "volume": "049",
+      "layer": "哲学谱系",
+      "sha256": "2fcde65e3012ac5688757bd3874e41224978a86b33ba20f849cd272d53449980",
+      "bytes": 6649
+    },
+    "049/eng-049.md": {
+      "volume": "049",
+      "layer": "工程谱系",
+      "sha256": "bf32decc625fdbbffcbdf82000d2b4f55409cbf867f1f3085d3dee15ee255481",
+      "bytes": 6049
+    },
+    "049/verify-049.md": {
+      "volume": "049",
+      "layer": "验证谱系",
+      "sha256": "aec1020308d84ae2574fce6b76af5a751b23a7e35bd8ecce0278d30da5ad2c75",
+      "bytes": 4178
+    },
+    "049/spec-049.md": {
+      "volume": "049",
+      "layer": "规范谱系",
+      "sha256": "d401bdc73dbc61a242e2e67b427e6358158a94f4db854515e255dd6dfb780cb9",
+      "bytes": 4157
+    },
+    "050/philo-050.md": {
+      "volume": "050",
+      "layer": "哲学谱系",
+      "sha256": "ae583c4d76668c1999aee4ffe3051c5286ab00794f25c9ce62c0ae8065f3d55c",
+      "bytes": 7574
+    },
+    "050/eng-050.md": {
+      "volume": "050",
+      "layer": "工程谱系",
+      "sha256": "78c21c00a13e7554b4e07267c9c6a49802367e0a2e7252eba89e38359fa3e4bd",
+      "bytes": 6122
+    },
+    "050/verify-050.md": {
+      "volume": "050",
+      "layer": "验证谱系",
+      "sha256": "16712ee0e9f84f175013690a09bbbd5ef5951f2db1917e7c3089dbf150ba4692",
+      "bytes": 4240
+    },
+    "050/spec-050.md": {
+      "volume": "050",
+      "layer": "规范谱系",
+      "sha256": "face9ae43420c2fdc977123cc1261624d5fefc1ddee8621de0dd9f30494ab42a",
+      "bytes": 4123
+    }
+  }
+}
