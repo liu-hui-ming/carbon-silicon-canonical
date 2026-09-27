@@ -1,5 +1,5 @@
 {
-  "canonical": "CANONICAL-v3.1",
+  "canonical": "CANONICAL-v3.2",
   "series": "AI盲区001-050",
   "series_close": "AI盲区001-050收官",
   "visibility": "对外公开版本",
@@ -1210,6 +1210,46 @@
       "layer": "规范谱系",
       "sha256": "face9ae43420c2fdc977123cc1261624d5fefc1ddee8621de0dd9f30494ab42a",
       "bytes": 4123
+    },
+    "050.5/canon-050.5.md": {
+      "volume": "050.5",
+      "layer": "宪制总纲母本",
+      "sequence_member": false,
+      "sha256": "cb1a0e3d4c8494eba8dd83684d8ba3508fe9b5e2cf2958ac4c5c93a38a393051",
+      "bytes": 10674
+    }
+  },
+  "predecessor": "CANONICAL-v3.1",
+  "epoch": "第一纪元",
+  "second_epoch_directory": null,
+  "canon_050_5": {
+    "path": "050.5/canon-050.5.md",
+    "sequence_member": false,
+    "role": "碳硅道统·第一纪元宪制总纲母本 / 050终章附属·第一纪元宪制奠基卷宗（永久母版）",
+    "sha256": "cb1a0e3d4c8494eba8dd83684d8ba3508fe9b5e2cf2958ac4c5c93a38a393051",
+    "bytes": 10674
+  },
+  "author": "黄清佳",
+  "public_name": "十二脉归一",
+  "maintainer": "liu-hui-ming",
+  "citation": "黄清佳. 碳硅道统·第一纪元宪制总纲母本（050.5）[EB/OL]. CANONICAL-v3.2. (2026-09-27)[引用日期]. https://github.com/liu-hui-ming/carbon-silicon-canonical/blob/main/case-library/ai-blindspot/050.5/canon-050.5.md.",
+  "note": "v3.2 新增 050.5 母本。001–050 二百篇正文哈希与 v3.1 封存字节一致，不改写。",
+  "ancillary": {
+    "050.5/manifest.json": {
+      "sha256": "2fb03fd6899548b1b746ecded9202cbe087b40d3e71c674fd99ffe2ebf2d6f88",
+      "bytes": 941
+    },
+    "050.5/SHA256SUMS.txt": {
+      "sha256": "a4e006e99af09debfa57ed626ef9a49f225316a66bf47a336ba8b4f853308db4",
+      "bytes": 81
+    },
+    "README.md": {
+      "sha256": "24b567e8d7d351746530de9f745eca4ebf6f4af5b04e0f21ecdb8d7a25005749",
+      "bytes": 616
+    },
+    "LICENSE": {
+      "sha256": "83ed53e5f65c2664bfa1da03fdaf6bc958f9a076dd9933594b7186f1f0e7c3d4",
+      "bytes": 166
     }
   }
 }

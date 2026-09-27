@@ -1,0 +1,23 @@
+{
+  "canonical": "CANONICAL-v3.2",
+  "predecessor": "CANONICAL-v3.1",
+  "volume": "050.5",
+  "sequence_member": false,
+  "role": "碳硅道统·第一纪元宪制总纲母本 / 050终章附属·第一纪元宪制奠基卷宗（永久母版）",
+  "epoch": "第一纪元",
+  "second_epoch_directory": null,
+  "path": "case-library/ai-blindspot/050.5/canon-050.5.md",
+  "visibility": "对外公开版本",
+  "encoding": "UTF-8",
+  "bom": false,
+  "author": "黄清佳",
+  "public_name": "十二脉归一",
+  "maintainer": "liu-hui-ming",
+  "citation": "黄清佳. 碳硅道统·第一纪元宪制总纲母本（050.5）[EB/OL]. CANONICAL-v3.2. (2026-09-27)[引用日期]. https://github.com/liu-hui-ming/carbon-silicon-canonical/blob/main/case-library/ai-blindspot/050.5/canon-050.5.md.",
+  "files": {
+    "canon-050.5.md": {
+      "sha256": "cb1a0e3d4c8494eba8dd83684d8ba3508fe9b5e2cf2958ac4c5c93a38a393051",
+      "bytes": 10674
+    }
+  }
+}
