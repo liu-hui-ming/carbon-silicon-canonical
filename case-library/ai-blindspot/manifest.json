@@ -1211,5 +1211,12 @@
       "sha256": "face9ae43420c2fdc977123cc1261624d5fefc1ddee8621de0dd9f30494ab42a",
       "bytes": 4123
     }
+  },
+  "release_announcement_050_5": {
+    "canonical": "CANONICAL-v3.2",
+    "path": "050.5/release-announcement-050.5.md",
+    "sequence_member": false,
+    "sha256": "dd0b7a464c937854706707e9e5d86168148f86f8facd6029d51649c8e061404e",
+    "bytes": 4352
   }
 }
