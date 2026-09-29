@@ -1,0 +1,14 @@
+{
+  "canonical": "CANONICAL-v3.2",
+  "role": "050.5-iteration-slot",
+  "sequence_member": false,
+  "replaces_frozen_originals": false,
+  "encoding": "UTF-8",
+  "bom": false,
+  "files": {
+    "README.md": {
+      "sha256": "768d0b4733600b9a4e44f6176e6a272ec17080fe10053ac09509629ec7c10672",
+      "bytes": 594
+    }
+  }
+}

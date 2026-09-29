@@ -1218,5 +1218,13 @@
     "sequence_member": false,
     "sha256": "dd0b7a464c937854706707e9e5d86168148f86f8facd6029d51649c8e061404e",
     "bytes": 4352
+  },
+  "iteration_slot_050_5": {
+    "canonical": "CANONICAL-v3.2",
+    "path": "050.5-iterations/README.md",
+    "sequence_member": false,
+    "replaces_frozen_originals": false,
+    "sha256": "768d0b4733600b9a4e44f6176e6a272ec17080fe10053ac09509629ec7c10672",
+    "bytes": 594
   }
 }
