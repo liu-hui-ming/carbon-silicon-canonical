@@ -1,0 +1,67 @@
+{
+  "canonical": "SEVEN-RECORDS",
+  "series": "碳硅道统·跨域迁移治理法典·七篇卷宗",
+  "baseline_lock": "01-07七层连载基线",
+  "encoding": "UTF-8",
+  "bom": false,
+  "newline": "LF",
+  "source_pdf": "7篇卷宗.pdf",
+  "source_pdf_sha256": "ae38f09e453ead15b32c3f0ed726b4a4c1aab3f1c5d6d8767b83286b89ba20f8",
+  "source_pdf_pages": 21,
+  "note": "七篇正文取自私有源PDF，PDF本身不入库。000零号基准与188集目录不在这七篇内。",
+  "signature": [
+    "十二脉归一",
+    "碳硅道统创立人：黄清佳"
+  ],
+  "files": {
+    "record-01.md": {
+      "sha256": "96e74925199b58a5e154cf3230f9e5c512a250e2c1bb34cce0fb9091013c6069",
+      "bytes": 6243,
+      "episode": "01",
+      "title": "迁移事故解剖层｜事故熵增的归因边界",
+      "role": "迁移事故解剖层"
+    },
+    "record-02.md": {
+      "sha256": "96fe0f594c5019c95ee5e12f72d99ae8e0c898d99d9265b275fc75006af66543",
+      "bytes": 5746,
+      "episode": "02",
+      "title": "迁移技术机理层｜负迁移发生的底层诱因",
+      "role": "迁移技术机理层"
+    },
+    "record-03.md": {
+      "sha256": "13ce7050e1540048dc493c03ec3d2a115dc42059542bd8ce4ead1a6201af7f1c",
+      "bytes": 5034,
+      "episode": "03",
+      "title": "迁移权责确权层｜跨域行为的权属与越界判定",
+      "role": "迁移权责确权层"
+    },
+    "record-04.md": {
+      "sha256": "576d1dab55a730ab64a7a6e9576cfe2fbb28cc3add5fd29e34e5cc4255b83510",
+      "bytes": 5149,
+      "episode": "04",
+      "title": "全行业迁移治理层｜产业落地的风控基线校准",
+      "role": "全行业迁移治理层"
+    },
+    "record-05.md": {
+      "sha256": "1585f18c381ba4289489725bf1a10ebffa8c255e1058c6ea540254b5d601113a",
+      "bytes": 4715,
+      "episode": "05",
+      "title": "跨域顶层监管层｜监管者自身的跨域审计规则",
+      "role": "跨域顶层监管层"
+    },
+    "record-06.md": {
+      "sha256": "884b230a0c2c46c382ad58e9331cdb6c1e60c2bf0072b9ae86c3a10367af4f91",
+      "bytes": 4983,
+      "episode": "06",
+      "title": "文明级迁移风控层｜长周期不可逆的文明扰动识别",
+      "role": "文明级迁移风控层"
+    },
+    "record-07.md": {
+      "sha256": "38165dbe6076a5700e027b91486465e7d6d5c7f98a993e3b65c475d7061e7e84",
+      "bytes": 5233,
+      "episode": "07",
+      "title": "法典终局锁档层｜体系自洽与范式边界的闭环校验",
+      "role": "法典终局锁档层"
+    }
+  }
+}
