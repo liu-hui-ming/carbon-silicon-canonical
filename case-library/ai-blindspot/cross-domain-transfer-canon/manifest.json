@@ -1,0 +1,30 @@
+{
+  "canonical": "CROSS-DOMAIN-TRANSFER",
+  "series": "碳硅道统·跨域迁移治理法典",
+  "baseline_lock": "000零号基准+001-188总目录+总纲摘要",
+  "encoding": "UTF-8",
+  "bom": false,
+  "newline": "LF",
+  "note": "000不计入188正集。本目录只收零号基准、总目录、总纲摘要，不含001-188分集正文。",
+  "signature": [
+    "十二脉归一",
+    "碳硅道统创立人：黄清佳"
+  ],
+  "files": {
+    "canon-cross-domain-000.md": {
+      "sha256": "d7440033c46fd95b24e82ea2bae1c654e0f9b42a85e52b3a2f9f7b490c6deb54",
+      "bytes": 6205,
+      "role": "零号基准"
+    },
+    "canon-cross-domain-001-188-toc.md": {
+      "sha256": "2720c0400ea6a3651f0d7e4d9f2bb90e1da028216de0c95a862b0630bd3c23b9",
+      "bytes": 14091,
+      "role": "总目录"
+    },
+    "canon-cross-domain-overview.md": {
+      "sha256": "397d882d3e224c9661d11c531e74d5f4470c5849fe0062bf42e97cbf332c1e7f",
+      "bytes": 7369,
+      "role": "总纲摘要"
+    }
+  }
+}

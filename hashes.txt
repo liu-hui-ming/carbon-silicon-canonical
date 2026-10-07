@@ -1,0 +1,6 @@
+# v1.0-PATCH3 dual archive
+# predecessor-commit 079938ee91fddd75771c6cfe1bfff1f41f6ceaf6
+# upstream-chain case-library/ai-blindspot/SHA256SUMS.txt 20052837f55aa92b0e70771b0039bbc87d48b492fb9aa19f53123e4d690f933a
+# lock readonly
+302084fd0f9059f4f79bd64a6d3d2c087e47d386c3a3cdb8fda4291a03465eed  twelve-meridians-recursive-full-v1.0-PATCH3.md
+6a06be9af9176b59b7ba0f0479856d71b31f5e4eae611cdd1c98d0a0f936a1c3  six-eggs-final-release-v1.0-PATCH3.md
