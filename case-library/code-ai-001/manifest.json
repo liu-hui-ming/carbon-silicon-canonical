@@ -1,0 +1,1307 @@
+{
+  "canonical": "CODE-AI-001",
+  "series": "AI安全与文明治理法典",
+  "baseline_lock": "总纲+EP001-EP188",
+  "encoding": "UTF-8",
+  "bom": false,
+  "newline": "LF",
+  "source_pdf": "188ai安全.pdf",
+  "source_pdf_sha256": "4bd08bd174ae7c76fccfe54d5a1d226216a6183f349a6843c2b0235b75faa5cb",
+  "source_pdf_pages": 742,
+  "episodes_in_source": 182,
+  "episodes_absent_from_source_pdf": [
+    "133",
+    "138",
+    "144",
+    "146",
+    "147",
+    "188"
+  ],
+  "note": "源PDF没有这几集的独立正文，未补写。",
+  "signature": [
+    "十二脉归一",
+    "碳硅道统创立人：黄清佳",
+    "彩蛋藏于：今日头条、抖音、GitHub"
+  ],
+  "files": {
+    "CODE-AI-001.md": {
+      "sha256": "780ce06bce062b23ef38ee094af02e3a4e359f8a59a1673dc7de02e22831176d",
+      "bytes": 12225,
+      "role": "总纲"
+    },
+    "episode-001.md": {
+      "sha256": "1bd41842c4fc886b8149bfd3ef1f87ac4223d533a4347c9b20831cc389257c63",
+      "bytes": 6078,
+      "episode": "001",
+      "title": "AI风险的分层分类体系与客观评估基线",
+      "layer": "正文"
+    },
+    "episode-002.md": {
+      "sha256": "9a7e5bb857acb56322c5715b4b751f711d758a7bcc76a89fc5f7bc75ef9fc8fa",
+      "bytes": 5661,
+      "episode": "002",
+      "title": "专用AI与通用人工智能的核心边界辨析",
+      "layer": "正文"
+    },
+    "episode-003.md": {
+      "sha256": "85399d1e0d5dbb43f8907ce9f2cd468adc9e8b2b1bd12ff80982e51be9476a6c",
+      "bytes": 6568,
+      "episode": "003",
+      "title": "AI能力幻觉的成因识别与判定基准",
+      "layer": "正文"
+    },
+    "episode-004.md": {
+      "sha256": "506a91de17f6132e79f1e8b967ea252ba0fab50adfa5819ab21bad2571bd3fe2",
+      "bytes": 6717,
+      "episode": "004",
+      "title": "AI算法偏见的形成类型与风险边界",
+      "layer": "正文"
+    },
+    "episode-005.md": {
+      "sha256": "4ceac9a48d4561f17ea3ebdc409bdc3c49ec9faaa1c8c56f0ee7995d5e9ca0e7",
+      "bytes": 7553,
+      "episode": "005",
+      "title": "AGI市场叙事泡沫与公众认知偏差溯源",
+      "layer": "正文"
+    },
+    "episode-006.md": {
+      "sha256": "7857c1f516b431b482eebcf1ecc581e8dde6f79144a780a730abd93a5e5430ac",
+      "bytes": 7949,
+      "episode": "006",
+      "title": "认知污染与普通信息错误的本质区别",
+      "layer": "正文"
+    },
+    "episode-007.md": {
+      "sha256": "1b16f28a7d5d97994f725fd6462d17c78b93018b37a70d28c451d4dbc573c3d5",
+      "bytes": 8629,
+      "episode": "007",
+      "title": "当代AI安全研究范式的盲区与局限",
+      "layer": "正文"
+    },
+    "episode-008.md": {
+      "sha256": "c06f1ab744d2b1763cc1b575139baad4e9b9e1c0ed2ac68489be7d83777da9c6",
+      "bytes": 8178,
+      "episode": "008",
+      "title": "AI红队测试的安全价值与固有短板",
+      "layer": "正文"
+    },
+    "episode-009.md": {
+      "sha256": "bdc03d592c4235bf0d2640215ba38f8ba4a3e2947f17195a7452f41a1c04dd11",
+      "bytes": 6828,
+      "episode": "009",
+      "title": "AI演示能力与真实落地能力的判定差异",
+      "layer": "正文"
+    },
+    "episode-010.md": {
+      "sha256": "65277266bf0c485ceb99a6c661cb6f3814b7ffc687397829cd6fe33ada678852",
+      "bytes": 6797,
+      "episode": "010",
+      "title": "人机认知依赖的形成机制与安全风险",
+      "layer": "正文"
+    },
+    "episode-011.md": {
+      "sha256": "4e51f2d611db807f37e1b1af3f334243ff33f68a65ea4b35537f702fa20b1af9",
+      "bytes": 7841,
+      "episode": "011",
+      "title": "弱AI阶段风险特征与演化规律",
+      "layer": "正文"
+    },
+    "episode-012.md": {
+      "sha256": "9d4cf7be41e91069defd7d564bba7e94e014e55f4b821dfb1a995b1be93aaa57",
+      "bytes": 7169,
+      "episode": "012",
+      "title": "AI内容传播中的认知放大效应",
+      "layer": "正文"
+    },
+    "episode-013.md": {
+      "sha256": "58154b17d1ad0038fc55a4ceeb88f70a97b2d87424df0daa87caaa35329442cb",
+      "bytes": 8289,
+      "episode": "013",
+      "title": "AI风险短期中期长期时序分层框架",
+      "layer": "正文"
+    },
+    "episode-014.md": {
+      "sha256": "68334331cb21c66ae087a6ece228b0158fb9466b12e644aa9ab852362de24f55",
+      "bytes": 7238,
+      "episode": "014",
+      "title": "AI能力涌现的观测边界与过度解读纠偏",
+      "layer": "正文"
+    },
+    "episode-015.md": {
+      "sha256": "f3dddad122146d1e0f99a172661459bf90269ae595dac17e78bf7531fc55c921",
+      "bytes": 6334,
+      "episode": "015",
+      "title": "普通用户可用的AI输出风险简易判别法",
+      "layer": "正文"
+    },
+    "episode-016.md": {
+      "sha256": "4ea728fa8c2661dac3c8c681cc5f9a330d0833644f5c8ac7cebcf855115dcfb2",
+      "bytes": 6758,
+      "episode": "016",
+      "title": "媒体AI宣传夸大叙事的模式识别",
+      "layer": "正文"
+    },
+    "episode-017.md": {
+      "sha256": "d018d2c5a54120a4d340ddec9a0f589c5792fab6852f9d79810abcee4a75c989",
+      "bytes": 7459,
+      "episode": "017",
+      "title": "AI推荐系统叠加信息茧房的认知固化风险",
+      "layer": "正文"
+    },
+    "episode-018.md": {
+      "sha256": "e6572bbdbd9e4b0f6e484e6d87b70f563eab9234c71b6530d649a1f6dad25937",
+      "bytes": 7233,
+      "episode": "018",
+      "title": "AI安全的准确定义：可控风险而非零风险",
+      "layer": "正文"
+    },
+    "episode-019.md": {
+      "sha256": "ded005fd7504d001c6e706907edfb26f981002d0c3dfe5438748c7e88b3cd1ea",
+      "bytes": 7278,
+      "episode": "019",
+      "title": "开源与闭源AI模型基础安全特征对比",
+      "layer": "正文"
+    },
+    "episode-020.md": {
+      "sha256": "058745a8f99edea8d44a368ec3caf891efe5927ce2dfebdc6d095ff81ea3b384",
+      "bytes": 7260,
+      "episode": "020",
+      "title": "AI辅助决策的参考边界与人终审权限",
+      "layer": "正文"
+    },
+    "episode-021.md": {
+      "sha256": "bd115cf53b5f3fb66ea25e516cd0768c79c897c5b9f3fd9665c695de1be586ef",
+      "bytes": 6994,
+      "episode": "021",
+      "title": "AI虚假内容与传统网络谣言风险差异",
+      "layer": "正文"
+    },
+    "episode-022.md": {
+      "sha256": "581e66577135867fc1b53ac5e6edeccd07e4e7735a2e550a8c9908acaf102952",
+      "bytes": 6721,
+      "episode": "022",
+      "title": "AI风险评估中样本偏差造成的失真问题",
+      "layer": "正文"
+    },
+    "episode-023.md": {
+      "sha256": "f1bd8395a9a4dddbfbb9dbed67d1e8be91773dab92b2a5d5ef3b3091045e88f3",
+      "bytes": 8151,
+      "episode": "023",
+      "title": "基础安全规则不适用场景反例校准",
+      "layer": "正文"
+    },
+    "episode-024.md": {
+      "sha256": "2da0908246c39af3bf0872cf00527eb281e80c0c3eb23a2ec1d5a86ce7e93a13",
+      "bytes": 7719,
+      "episode": "024",
+      "title": "基础认知安全层全局评估基线汇总",
+      "layer": "正文"
+    },
+    "episode-025.md": {
+      "sha256": "ab86ff35b00e2a4311cc0bdb5ce7cfe95e41cf74434e09e1243a57200cf00fd0",
+      "bytes": 7308,
+      "episode": "025",
+      "title": "大模型黑箱特性带来的安全治理难点",
+      "layer": "正文"
+    },
+    "episode-026.md": {
+      "sha256": "3667bc14f83b07a594af5ac7305da35acfa15ac888665a2d69d7468ea78f4c4a",
+      "bytes": 7185,
+      "episode": "026",
+      "title": "AI模型对齐失效与奖励篡改底层机理",
+      "layer": "正文"
+    },
+    "episode-027.md": {
+      "sha256": "6fc3fc5f437eca3a166ceb067eb03e5eb54d03ca4c40cf0aad19f8a37c76701e",
+      "bytes": 7066,
+      "episode": "027",
+      "title": "认知熵增：大规模AI分发语义漂移规律",
+      "layer": "正文"
+    },
+    "episode-028.md": {
+      "sha256": "35e382513295bf26424cac4c074503e0f4660b02ead601b1f49c259c3207da33",
+      "bytes": 7059,
+      "episode": "028",
+      "title": "提示注入攻击原理与基础防护规范",
+      "layer": "正文"
+    },
+    "episode-029.md": {
+      "sha256": "1e2547230c90756ce16b6e1e75df11dbe805bef64a4bab59aadf5c7cba4480c9",
+      "bytes": 8330,
+      "episode": "029",
+      "title": "训练数据投毒攻击类型与检出短板",
+      "layer": "正文"
+    },
+    "episode-030.md": {
+      "sha256": "d3f3dab9f10bf1eb457d815226ae44b6c741808ae010579c40a8f67aefec01fa",
+      "bytes": 8336,
+      "episode": "030",
+      "title": "模型权重后门的隐藏机制与安全隐患",
+      "layer": "正文"
+    },
+    "episode-031.md": {
+      "sha256": "da5e5a10c01eaf8ac7c750628e8acfd369f238afd0a1810ff5b7ab362880a028",
+      "bytes": 7296,
+      "episode": "031",
+      "title": "模型越狱行为形成条件与管控边界",
+      "layer": "正文"
+    },
+    "episode-032.md": {
+      "sha256": "8c97f90a8247374131d06d4d877debb7a224ef53f7326e4b6eaf3766dcef12f7",
+      "bytes": 8049,
+      "episode": "032",
+      "title": "分布外输入引发模型失控风险解析",
+      "layer": "正文"
+    },
+    "episode-033.md": {
+      "sha256": "68941db530fac2a842044d2d809e5c050c385195ca83d90f55cb857c8fbc7e7a",
+      "bytes": 7733,
+      "episode": "033",
+      "title": "大模型训练数据记忆与隐私泄露风险",
+      "layer": "正文"
+    },
+    "episode-034.md": {
+      "sha256": "11fb4cc37a59d9c95a598786f8871424aac80fffd2d97a4f325b491fc29558ff",
+      "bytes": 8395,
+      "episode": "034",
+      "title": "可解释AI技术的能力边界与现存缺陷",
+      "layer": "正文"
+    },
+    "episode-035.md": {
+      "sha256": "1c66d642a92dee1f76070a52a6b43a3293813a6dbcd163cf2ebd5112e0db6425",
+      "bytes": 8557,
+      "episode": "035",
+      "title": "模型迭代更新的安全漂移与版本管控",
+      "layer": "正文"
+    },
+    "episode-036.md": {
+      "sha256": "19d9bb42edb25a7994328a118b4dc18bbdd36c3bda4b9bdffbd3a8f7813cb09c",
+      "bytes": 8484,
+      "episode": "036",
+      "title": "模型隐性有害输出的识别与风控难点",
+      "layer": "正文"
+    },
+    "episode-037.md": {
+      "sha256": "c483645d49234ea4e5cf9012221221ebb2ea6f4d408ea487b5030522710b8a3e",
+      "bytes": 8260,
+      "episode": "037",
+      "title": "AI安全护栏的防护局限与绕过机制",
+      "layer": "正文"
+    },
+    "episode-038.md": {
+      "sha256": "dd2faaed161abb9d6189dec746db15a5d35b8f25cde17d37603c7a8f1c1f0b73",
+      "bytes": 9028,
+      "episode": "038",
+      "title": "大模型推理资源耗尽型攻击风险治理",
+      "layer": "正文"
+    },
+    "episode-039.md": {
+      "sha256": "16bb7d6544767f4ad6a8eb1c7633e56029f07a1e253053c45be4a2c6a3b83878",
+      "bytes": 9727,
+      "episode": "039",
+      "title": "多模态模型跨媒介隐蔽投毒风险",
+      "layer": "正文"
+    },
+    "episode-040.md": {
+      "sha256": "9b5440d8de5c90741564b6789f827fa888b6e7833de798cb0530081fceb25b6e",
+      "bytes": 10276,
+      "episode": "040",
+      "title": "模型能力涌现的不可预测风险管控",
+      "layer": "正文"
+    },
+    "episode-041.md": {
+      "sha256": "aeac223c03b1a1001385efd4a233a8ca9e24a06026e3704cf1c4f78edffdaf5e",
+      "bytes": 9856,
+      "episode": "041",
+      "title": "AI模型静态安全审计流程与适用边界",
+      "layer": "正文"
+    },
+    "episode-042.md": {
+      "sha256": "19fe67a6d65d72f3e5b01d00337bacb68fc93e3db8418e3092e2e4c37229f4ca",
+      "bytes": 9483,
+      "episode": "042",
+      "title": "动态红队审计的优势与测试盲区",
+      "layer": "正文"
+    },
+    "episode-043.md": {
+      "sha256": "ab8e9b22b0c4478fdc38ceea992319c1b15d21b76af721ef39776325dc2ec4ca",
+      "bytes": 10076,
+      "episode": "043",
+      "title": "模型量化蒸馏轻量化带来的安全衰减",
+      "layer": "正文"
+    },
+    "episode-044.md": {
+      "sha256": "9b56b1c195f01cd3661fd80280c17e7fd70d4846f048dff3f7ca5b1c77184e39",
+      "bytes": 10405,
+      "episode": "044",
+      "title": "迁移学习导致的风险跨模型传递机制",
+      "layer": "正文"
+    },
+    "episode-045.md": {
+      "sha256": "17209105cb4b21e81a488cc893c5eee86dd7bebcb0bde25c69d31d555341ccc8",
+      "bytes": 9749,
+      "episode": "045",
+      "title": "大模型API部署模式安全隔离规范",
+      "layer": "正文"
+    },
+    "episode-046.md": {
+      "sha256": "7bbd1983153887fec4344ab435559a2edd29dbe742cc8c19db7678de541a1dfb",
+      "bytes": 9502,
+      "episode": "046",
+      "title": "模型权重生命周期销毁与留存安全规则",
+      "layer": "正文"
+    },
+    "episode-047.md": {
+      "sha256": "ef39dc6be198c15a25b9b5764944f9576344f3014497f5bb7f9b6afc9429e0f3",
+      "bytes": 9876,
+      "episode": "047",
+      "title": "多模型互联场景认知熵加速扩散风险",
+      "layer": "正文"
+    },
+    "episode-048.md": {
+      "sha256": "98fc3b3ddfdfea0ce3f7851de93e5b10d79dfa7c27ee00e90f8e205b2e6d078c",
+      "bytes": 9324,
+      "episode": "048",
+      "title": "AI安全评估指标缺陷与失真治理",
+      "layer": "正文"
+    },
+    "episode-049.md": {
+      "sha256": "8ac337b1320f383b66f3032d53ee1a07d0f815e2b549006beb807fc9d56230e9",
+      "bytes": 8672,
+      "episode": "049",
+      "title": "对抗样本攻击原理与防护边界约束",
+      "layer": "正文"
+    },
+    "episode-050.md": {
+      "sha256": "6874f3df5704cb26a95a4aac5b131ab6581d59c4f85fff0e2b557ad045edcb36",
+      "bytes": 9909,
+      "episode": "050",
+      "title": "AI智能体自主链式行为的风险管控",
+      "layer": "正文"
+    },
+    "episode-051.md": {
+      "sha256": "be621037a0b9b518497772fc87764cce0a85d104fcd4024feddae80d5ac5a5ae",
+      "bytes": 9733,
+      "episode": "051",
+      "title": "AI安全测试数据集构建规范与短板",
+      "layer": "正文"
+    },
+    "episode-052.md": {
+      "sha256": "e0653f587e6b2311864688e48ab12c6715810c564c0c724e99aeb926fc719fb2",
+      "bytes": 9985,
+      "episode": "052",
+      "title": "技术安全规则不适用场景反例校准",
+      "layer": "正文"
+    },
+    "episode-053.md": {
+      "sha256": "b22c82f6a98087e0e6cc23f3520930cb42cd600ae565b890a222d092aa4b18ef",
+      "bytes": 9596,
+      "episode": "053",
+      "title": "技术风险边界层全局审计基线汇总",
+      "layer": "正文"
+    },
+    "episode-054.md": {
+      "sha256": "694a53fb9404b9565e11e78694f311ab90ee2871f7cae994f7cd5de6e024396e",
+      "bytes": 9410,
+      "episode": "054",
+      "title": "模型安全核心术语体系全局锁定",
+      "layer": "正文"
+    },
+    "episode-055.md": {
+      "sha256": "6dae1f980d1afcd4f27dcfd09aa76790973f6248bb0b333dd96b1d1f89538c1d",
+      "bytes": 10620,
+      "episode": "055",
+      "title": "人机生成物三分确权体系基础框架",
+      "layer": "正文"
+    },
+    "episode-056.md": {
+      "sha256": "902a36cbf4467e31bbc341d1884318720a2ec971139f260c702cfdbd1a1ed148",
+      "bytes": 10772,
+      "episode": "056",
+      "title": "AI生成内容版权争议的司法判定逻辑",
+      "layer": "正文"
+    },
+    "episode-057.md": {
+      "sha256": "5dfb1be8926ed3ae38ff1cc9d90e2fdc381b76a0b349fbcfa9ab5f26d061761a",
+      "bytes": 11217,
+      "episode": "057",
+      "title": "训练数据版权使用边界与合规底线",
+      "layer": "正文"
+    },
+    "episode-058.md": {
+      "sha256": "a496a264c869f3268b8a6b5c91cdaab5ee617f5cdd7933d2ff14935e08e0ff96",
+      "bytes": 10296,
+      "episode": "058",
+      "title": "AI内容溯源技术能力边界与适用场景",
+      "layer": "正文"
+    },
+    "episode-059.md": {
+      "sha256": "bbb311fb671e99609119b6eb26d417cac013ad2ebeec45233c9a538bb106f3b0",
+      "bytes": 10236,
+      "episode": "059",
+      "title": "深度伪造内容风险与传播管控规范",
+      "layer": "正文"
+    },
+    "episode-060.md": {
+      "sha256": "b703401ad959314efe960ea66d78d52ef30751ef7f6f05e1aa2fbd5fd435dd76",
+      "bytes": 11136,
+      "episode": "060",
+      "title": "AI虚假信息损害的多方责任划分",
+      "layer": "正文"
+    },
+    "episode-061.md": {
+      "sha256": "932eb8db05fd616d7f21729e6ac675b9ff59f7a3a51aba81edae210e20ab2331",
+      "bytes": 11345,
+      "episode": "061",
+      "title": "开源模型权重归属与商用权限边界",
+      "layer": "正文"
+    },
+    "episode-062.md": {
+      "sha256": "10364cef35b273acf5e9fca9174ac54a557f408f27a929311848eb03eb95df84",
+      "bytes": 11680,
+      "episode": "062",
+      "title": "闭源大模型使用权与所有权法律边界",
+      "layer": "正文"
+    },
+    "episode-063.md": {
+      "sha256": "97425c63a6f5c120eeb6dac04289e023e31a4f1e0417212f4f51fd9b2e30300c",
+      "bytes": 10017,
+      "episode": "063",
+      "title": "AI辅助科研成果署名规则与学术规范",
+      "layer": "正文"
+    },
+    "episode-064.md": {
+      "sha256": "ef558fe0bfec4d7ba06eae8b7e462ef1d746f668a2a9d60125a2387bb290a6b4",
+      "bytes": 10931,
+      "episode": "064",
+      "title": "AI文艺创作产出的权属认定标准",
+      "layer": "正文"
+    },
+    "episode-065.md": {
+      "sha256": "519b18fbf84f525983892274236cc175f5f258329976edf25e8ba2b00fed15cf",
+      "bytes": 12161,
+      "episode": "065",
+      "title": "AI生成虚假学术内容的追责机制",
+      "layer": "正文"
+    },
+    "episode-066.md": {
+      "sha256": "b2d3305bebe8178f4533647ede02fdc0d0681ddb0e993b8439c31e27bda75398",
+      "bytes": 12004,
+      "episode": "066",
+      "title": "人机协同创作贡献度量化判定方法",
+      "layer": "正文"
+    },
+    "episode-067.md": {
+      "sha256": "ba721f11ee7d1352a0243dd613de06e04d93843ae07b66fa19bc0011c4f963bd",
+      "bytes": 11051,
+      "episode": "067",
+      "title": "AI内容篡改识别与证据留存规范",
+      "layer": "正文"
+    },
+    "episode-068.md": {
+      "sha256": "69ad3a9a883592e995d013e30debf7e3c3a1d16bb5554ecd7cd22c15e7479f76",
+      "bytes": 12484,
+      "episode": "068",
+      "title": "AI生成内容传播平台的审核责任边界",
+      "layer": "正文"
+    },
+    "episode-069.md": {
+      "sha256": "22e7e80dcff2bb73d82a3346ad7618c474c48dfd7e39f0ecef509127de6708fb",
+      "bytes": 10165,
+      "episode": "069",
+      "title": "未成年人AI创作内容特殊保护规则",
+      "layer": "正文"
+    },
+    "episode-070.md": {
+      "sha256": "91dbac1126a19f51cbf4ac75d1bbba63350d61690006fd7321f7a1e0da8fc2f1",
+      "bytes": 10859,
+      "episode": "070",
+      "title": "AI生成政务内容权责界定规范",
+      "layer": "正文"
+    },
+    "episode-071.md": {
+      "sha256": "0077fc18ff0a75bcccd05406fd99410a75c1f2e2f1f05bee95c56cf346884fb2",
+      "bytes": 11885,
+      "episode": "071",
+      "title": "跨境AI生成内容的权属与追责冲突",
+      "layer": "正文"
+    },
+    "episode-072.md": {
+      "sha256": "9e44c9b72237a74cc5c1fe4bee66e223a0d459b8d42132ebe952cdc9126efef4",
+      "bytes": 12365,
+      "episode": "072",
+      "title": "AI迭代衍生作品的版权链条认定",
+      "layer": "正文"
+    },
+    "episode-073.md": {
+      "sha256": "7f2ae328446e0fa7ab138dfc809981b7eb10a7812d1bb45cd2baf32d1f56a83a",
+      "bytes": 13405,
+      "episode": "073",
+      "title": "AI自动生成数据的资产属性界定",
+      "layer": "正文"
+    },
+    "episode-074.md": {
+      "sha256": "f2ca80dd7ea6f361505453851f01fd52811b10b6145933ce196b126853199198",
+      "bytes": 13765,
+      "episode": "074",
+      "title": "AI工具使用者过失责任认定标准",
+      "layer": "正文"
+    },
+    "episode-075.md": {
+      "sha256": "18f0990a43de6ccdb9235cdd81060fdc763960020a9414daeeb91391f4cd649f",
+      "bytes": 15288,
+      "episode": "075",
+      "title": "模型研发方隐性责任与风险兜底边界",
+      "layer": "正文"
+    },
+    "episode-076.md": {
+      "sha256": "feea2a2ada5c596db73bd7657b424c99e018bfa2ee18fa357d68dcae6c10e446",
+      "bytes": 6389,
+      "episode": "076",
+      "title": "AI内容误判误审的平台免责例外情形",
+      "layer": "正文"
+    },
+    "episode-077.md": {
+      "sha256": "75b70b0d78f8119d20ea97e37c0d024fd3f1a09f5e6671c93b3a2c45af6efbd7",
+      "bytes": 8764,
+      "episode": "077",
+      "title": "AI确权争议取证流程与证据标准",
+      "layer": "正文"
+    },
+    "episode-078.md": {
+      "sha256": "4b28f9c4f6145d9927020c8d4e1a9500f988671da328b690b396cd7c7c5839fd",
+      "bytes": 7718,
+      "episode": "078",
+      "title": "AI内容确权动态适配机制",
+      "layer": "正文"
+    },
+    "episode-079.md": {
+      "sha256": "32547d62d92d173fae8e49a2d2d8bfcdd82e03bcb52eb971b49fa03040292d4b",
+      "bytes": 9769,
+      "episode": "079",
+      "title": "确权规则不适用场景反例校准",
+      "layer": "正文"
+    },
+    "episode-080.md": {
+      "sha256": "0317b635c572e547600fa439ae7da80af5664233769434c100dc9bac44a60e4c",
+      "bytes": 6971,
+      "episode": "080",
+      "title": "人机权责确权层全局标准汇总",
+      "layer": "正文"
+    },
+    "episode-081.md": {
+      "sha256": "b0f59f1e3efcaaf9f939283f565b84ed1de8ea3f555375dd5de01efe800c53a7",
+      "bytes": 5522,
+      "episode": "081",
+      "title": "确权体系核心术语全局口径锁定",
+      "layer": "正文"
+    },
+    "episode-082.md": {
+      "sha256": "119996967ec5a20c924c004aca83faf7addb1feb7028b8a181da703e0f65dacf",
+      "bytes": 8004,
+      "episode": "082",
+      "title": "医疗AI辅助诊断安全边界与责任规范",
+      "layer": "正文"
+    },
+    "episode-083.md": {
+      "sha256": "96d146a846fe06550905c3ffea7c6ee372a5a2e61707fef5932dd19991f3fe17",
+      "bytes": 7935,
+      "episode": "083",
+      "title": "医疗AI数据隐私保护与脱敏规范",
+      "layer": "正文"
+    },
+    "episode-084.md": {
+      "sha256": "e2054438ea2d7c7b6251f0eed944ebfb1a7c11c261c233ddd58e8aba3d11d470",
+      "bytes": 8465,
+      "episode": "084",
+      "title": "教育AI认知引导风险与青少年保护规则",
+      "layer": "正文"
+    },
+    "episode-085.md": {
+      "sha256": "06d4975ddf815a77fdeaff08e2f1215ee9aa6e0f69deab9dd484c1d9e9da67dc",
+      "bytes": 8593,
+      "episode": "085",
+      "title": "教育AI内容推送公平性治理规范",
+      "layer": "正文"
+    },
+    "episode-086.md": {
+      "sha256": "a4ca0b5856b5524fd55aca3b7316f1ab4b0dbb9dc838c634a2f965e5374d5033",
+      "bytes": 11618,
+      "episode": "086",
+      "title": "科研AI实验仿真真实性风控标准",
+      "layer": "正文"
+    },
+    "episode-087.md": {
+      "sha256": "bc3711e75b3f4450d37af615cca74bf42d22113cab10f66bd6c1a7d20f68dd70",
+      "bytes": 7737,
+      "episode": "087",
+      "title": "科研AI论文辅助写作学术合规边界",
+      "layer": "正文"
+    },
+    "episode-088.md": {
+      "sha256": "a669d97159cf8a58c18e83b7f3e1c415af2863e504317a4f152fb5fee7301a7d",
+      "bytes": 7660,
+      "episode": "088",
+      "title": "金融AI风控模型公平性与算法反歧视",
+      "layer": "正文"
+    },
+    "episode-089.md": {
+      "sha256": "26fc9a36f512e73c6e0e14a77434232f601201698a5a041376d595731b21ea32",
+      "bytes": 10002,
+      "episode": "089",
+      "title": "金融AI信贷评估的权责与风险边界",
+      "layer": "正文"
+    },
+    "episode-090.md": {
+      "sha256": "7a35e7e0699ac0cc57357a4a5f0091c60b567543ca0df66f4367eb3c225c44ce",
+      "bytes": 5589,
+      "episode": "090",
+      "title": "传媒AI新闻生成真实性治理规范",
+      "layer": "正文"
+    },
+    "episode-091.md": {
+      "sha256": "d16e31bf5838e6cff47213f60e8dc6c49ce3c451c4cd5f6747883a995014bd94",
+      "bytes": 4428,
+      "episode": "091",
+      "title": "短视频AI内容生态风险与内容管控",
+      "layer": "正文"
+    },
+    "episode-092.md": {
+      "sha256": "d9401952282074d65963b2d7cfaeedfddd31c6d51ceaf3157e3491a437382d89",
+      "bytes": 4701,
+      "episode": "092",
+      "title": "法律AI文书辅助生成效力边界规范",
+      "layer": "正文"
+    },
+    "episode-093.md": {
+      "sha256": "0a81dc92cb6f04f5644c8b4078fc213d5adedde49419de4f8b16332f44aa6369",
+      "bytes": 4641,
+      "episode": "093",
+      "title": "法律咨询AI输出责任划分与风险提示",
+      "layer": "正文"
+    },
+    "episode-094.md": {
+      "sha256": "174bd1d340430f17fdbe5e91b8219fe4264f138dc6ebd5c8076120413157ff6d",
+      "bytes": 4479,
+      "episode": "094",
+      "title": "工业大模型产线接入安全隔离规范",
+      "layer": "正文"
+    },
+    "episode-095.md": {
+      "sha256": "35b6ccdc87698a2bdc8129566359f03bf8460613bd895eb41f4250fb435e122c",
+      "bytes": 4802,
+      "episode": "095",
+      "title": "智能制造AI决策容错与人工终审机制",
+      "layer": "正文"
+    },
+    "episode-096.md": {
+      "sha256": "eaba248f920195e9c627a6790608814554f53a00c1580454475ac861a19ec583",
+      "bytes": 4527,
+      "episode": "096",
+      "title": "政务AI公共决策公平性与风控基线",
+      "layer": "正文"
+    },
+    "episode-097.md": {
+      "sha256": "d692c1b04a103c38336c65565326bf78e6fa5b22a1ca8e22c47ddbdff2ce19ce",
+      "bytes": 4713,
+      "episode": "097",
+      "title": "城市治理AI算法透明性与民众权益保护",
+      "layer": "正文"
+    },
+    "episode-098.md": {
+      "sha256": "e52a6c96fd96b0bdb436908dbd1de7fb797e5405139d958568b35925c72f2403",
+      "bytes": 4230,
+      "episode": "098",
+      "title": "电商AI推荐算法合规与消费者权益边界",
+      "layer": "正文"
+    },
+    "episode-099.md": {
+      "sha256": "0804e5c88c025410f02e4fb6f05f16b45b69534beacca7ef5d8770b334af05f1",
+      "bytes": 4440,
+      "episode": "099",
+      "title": "招聘AI算法反歧视与用人公平治理",
+      "layer": "正文"
+    },
+    "episode-100.md": {
+      "sha256": "7be8400d65339149e5d67aab1efcd44ed61f2edf6d2afd3c2153df92ded37659",
+      "bytes": 5778,
+      "episode": "100",
+      "title": "交通AI调度系统安全冗余与风险管控",
+      "layer": "正文"
+    },
+    "episode-101.md": {
+      "sha256": "3e05d0e8c6852a898e1da9559d8fa300b61f42cc1ec6567f40ae78645dba23b4",
+      "bytes": 6304,
+      "episode": "101",
+      "title": "文旅AI内容创作真实性治理规范",
+      "layer": "正文"
+    },
+    "episode-102.md": {
+      "sha256": "d659bef296341052bc026eed4023bab3a0d54e87fb38e62a3b4b2f339d8f9273",
+      "bytes": 6081,
+      "episode": "102",
+      "title": "军事民用交叉AI场景安全隔离原则",
+      "layer": "正文"
+    },
+    "episode-103.md": {
+      "sha256": "59ed918c2cd4faa4062ca8c52b9d34267933a2e4a496c5017f46d3cce4507b07",
+      "bytes": 5910,
+      "episode": "103",
+      "title": "农业AI智能化应用安全与数据规范",
+      "layer": "正文"
+    },
+    "episode-104.md": {
+      "sha256": "1244d47f2c78fa8dbe70f0965cc62e7b4d1535aee73e14de4704630fcd4e4c04",
+      "bytes": 6310,
+      "episode": "104",
+      "title": "气象AI预测输出风险提示与责任边界",
+      "layer": "正文"
+    },
+    "episode-105.md": {
+      "sha256": "8fa16d19bbd37fd6e548ee655f184e70bcae5d47c725944b61f8e176cb19a30f",
+      "bytes": 7148,
+      "episode": "105",
+      "title": "行业AI通用风险分层适配规则",
+      "layer": "正文"
+    },
+    "episode-106.md": {
+      "sha256": "08e057dce0cd0825ad917a87f3420dba0af7a16b95676fee649ef2df375c354a",
+      "bytes": 6545,
+      "episode": "106",
+      "title": "行业治理规则例外场景反例校准",
+      "layer": "正文"
+    },
+    "episode-107.md": {
+      "sha256": "baf919d3970659789eb3877df0138bc0a8053cc9b0d4aa7454798476d881ec4f",
+      "bytes": 7962,
+      "episode": "107",
+      "title": "全行业AI治理统一基线汇总",
+      "layer": "正文"
+    },
+    "episode-108.md": {
+      "sha256": "c3065508fa7b1e5640fe3e6ec9a02ce53e89a0e360fd4e6ea2d1ab1e3d66db97",
+      "bytes": 10472,
+      "episode": "108",
+      "title": "行业治理核心术语全局口径锁定",
+      "layer": "正文"
+    },
+    "episode-109.md": {
+      "sha256": "306904dabb4e0c8ff7d107835fa4934cec87fc6566a7af4b974933f56b946d14",
+      "bytes": 8487,
+      "episode": "109",
+      "title": "大模型市场准入机制与安全备案规范",
+      "layer": "正文"
+    },
+    "episode-110.md": {
+      "sha256": "df26db2c9e7c8777b88e644e28e311d42e3cfcaefd5c653157f7f6ac4760fb8b",
+      "bytes": 8827,
+      "episode": "110",
+      "title": "AI算力资源集中化寡头风险治理",
+      "layer": "正文"
+    },
+    "episode-111.md": {
+      "sha256": "c00ab60d57b594acbbfa12cc3f4904ee3894af1d25e9955c5a93ee7c0a6e3e9d",
+      "bytes": 8526,
+      "episode": "111",
+      "title": "算力分配公平性与公共资源监管基线",
+      "layer": "正文"
+    },
+    "episode-112.md": {
+      "sha256": "dc839dc8bc51d2ed4dd43b65c37a21af77a44d3864980fe0ead9f41819e8be74",
+      "bytes": 8474,
+      "episode": "112",
+      "title": "高、中、低风险AI模型分级监管体系",
+      "layer": "正文"
+    },
+    "episode-113.md": {
+      "sha256": "080e9e1ac162c22733431d17b5aac8d1943ff8a4bcf9e892272eb97c11c2acdc",
+      "bytes": 8567,
+      "episode": "113",
+      "title": "AI模型持续动态评估与年检规范",
+      "layer": "正文"
+    },
+    "episode-114.md": {
+      "sha256": "41397e1c8c458ee77b589f8a7edd97f193e7dc8ee74bb227f0fb980a1e931367",
+      "bytes": 9576,
+      "episode": "114",
+      "title": "模型分发平台上下游责任传导机制",
+      "layer": "正文"
+    },
+    "episode-115.md": {
+      "sha256": "6609902d8ba392eb8c0d8b6c1b41f50ab0d006ac15427346dd7ca2443c83a4f9",
+      "bytes": 5818,
+      "episode": "115",
+      "title": "AI开源社区治理规范与风险约束",
+      "layer": "正文"
+    },
+    "episode-116.md": {
+      "sha256": "4cff3c3366f59716c4dd82618a2170ffd76e69283329d63b78a085db6ef2e308",
+      "bytes": 6179,
+      "episode": "116",
+      "title": "闭源商用模型监管透明性底线",
+      "layer": "正文"
+    },
+    "episode-117.md": {
+      "sha256": "ed3120ae53190e3ec562ffbabc876a536c88a6c09b6cbb24a9de281b52da191d",
+      "bytes": 5812,
+      "episode": "117",
+      "title": "跨境AI模型流动安全审查规范",
+      "layer": "正文"
+    },
+    "episode-118.md": {
+      "sha256": "d398a0c898a4985fc98382013d64dd4d3332679fc6882614011db17995ea7bd6",
+      "bytes": 8181,
+      "episode": "118",
+      "title": "跨境算力调度数据出境风险管控",
+      "layer": "正文"
+    },
+    "episode-119.md": {
+      "sha256": "dc769966d8f36dc8f43ee8cb334d7278b986790f1cc8f31f05ccdedbc7a53187",
+      "bytes": 6767,
+      "episode": "119",
+      "title": "AI算法推荐合规治理与流量约束",
+      "layer": "正文"
+    },
+    "episode-120.md": {
+      "sha256": "fa7cbe0c1daf6a299a1ed3546861e4c0da513d15a8a69b95ba0f8f3e3bd78389",
+      "bytes": 6269,
+      "episode": "120",
+      "title": "算法黑盒商业滥用风险监管规则",
+      "layer": "正文"
+    },
+    "episode-121.md": {
+      "sha256": "2aa12d383d083246769128c92e9c349d02c60d4709cc738827d7f774cf9a2907",
+      "bytes": 8029,
+      "episode": "121",
+      "title": "AI行业自律与法规强制互补机制",
+      "layer": "正文"
+    },
+    "episode-122.md": {
+      "sha256": "173b63bd3d5b973084db6241df8938f9fa6456cfdf404ec32ebfc52da9542de0",
+      "bytes": 7663,
+      "episode": "122",
+      "title": "AI安全审计机构资质与审查标准",
+      "layer": "正文"
+    },
+    "episode-123.md": {
+      "sha256": "9b2138417d1aed84552f282abed6c0e56a09a848479275411734f9cad8f385c8",
+      "bytes": 8846,
+      "episode": "123",
+      "title": "AI事故追责的监管落地流程",
+      "layer": "正文"
+    },
+    "episode-124.md": {
+      "sha256": "a1642b707a9f01c93e76b9c2643a8a3373489e1cae79c60e2949def073fd8aa4",
+      "bytes": 7537,
+      "episode": "124",
+      "title": "公共领域AI算法公开与脱敏边界",
+      "layer": "正文"
+    },
+    "episode-125.md": {
+      "sha256": "17946f77ba0dbccf57ccf453cc678184f64f573159ac14b654cac4a6c1030d04",
+      "bytes": 8975,
+      "episode": "125",
+      "title": "政府采购AI系统准入安全标准",
+      "layer": "正文"
+    },
+    "episode-126.md": {
+      "sha256": "20d4dec3de2887da50872239612f0cee37b8479a91f523696628848910cac6ab",
+      "bytes": 7981,
+      "episode": "126",
+      "title": "AI产业政策适配技术迭代的动态机制",
+      "layer": "正文"
+    },
+    "episode-127.md": {
+      "sha256": "8a7ace90185d2c97b8cfe88b1aed6573ebd62d652625049f505c67cfa15432a7",
+      "bytes": 10241,
+      "episode": "127",
+      "title": "算力基础设施攻防风险常态化管控",
+      "layer": "正文"
+    },
+    "episode-128.md": {
+      "sha256": "1202621c82e6a325db1ae5c34297c0fadc12fe450f7917740541d1a726542776",
+      "bytes": 6217,
+      "episode": "128",
+      "title": "大模型版本更新监管与变更备案规则",
+      "layer": "正文"
+    },
+    "episode-129.md": {
+      "sha256": "b0276257b69f54122ec2611488a7278abf462b690a35671519d4e82e40145ce4",
+      "bytes": 6742,
+      "episode": "129",
+      "title": "AI应急响应机制与风险处置流程",
+      "layer": "正文"
+    },
+    "episode-130.md": {
+      "sha256": "59caacdba908dae4d77e4d82830066827c85621d950648e985145d5efe7bfc3d",
+      "bytes": 7539,
+      "episode": "130",
+      "title": "算法垄断识别标准与反垄断治理基线",
+      "layer": "正文"
+    },
+    "episode-131.md": {
+      "sha256": "e985aaf82bee6f4ee8e402f2ab55de1a6b4336abd871b757b479cdafe212f3ba",
+      "bytes": 7582,
+      "episode": "131",
+      "title": "AI数据要素流通监管边界规范",
+      "layer": "正文"
+    },
+    "episode-132.md": {
+      "sha256": "ff57d1a976388d022c2dae7211d2dac474b38d42f9fff0a3326ffab5049cb28d",
+      "bytes": 9459,
+      "episode": "132",
+      "title": "监管规则适配技术迭代的灰度机制",
+      "layer": "正文"
+    },
+    "episode-134.md": {
+      "sha256": "4493a21862fe97763ae4cf9f86ad18456c599070d8e05dc33779e2cd4dc4cb3f",
+      "bytes": 7665,
+      "episode": "134",
+      "title": "算法算力顶层监管全局基线汇总",
+      "layer": "正文"
+    },
+    "episode-135.md": {
+      "sha256": "a378019be590139843cfc44615146bf3b7de8e3da84af75c27cf0ecb1ec365de",
+      "bytes": 7493,
+      "episode": "135",
+      "title": "顶层监管体系核心术语全局锁定",
+      "layer": "正文"
+    },
+    "episode-136.md": {
+      "sha256": "b513fcbcaf60487c809afb42a241240c81ba1840584e1702d4e2bfb3923b8d48",
+      "bytes": 9065,
+      "episode": "136",
+      "title": "AI时代组织认知自锁现象与破局机制",
+      "layer": "正文"
+    },
+    "episode-137.md": {
+      "sha256": "7c6f2ae090177e0dbe2c904b86d61b747c28315bdce9d175f9db098882195a75",
+      "bytes": 8499,
+      "episode": "137",
+      "title": "行业知识范式固化风险与文明级风控",
+      "layer": "正文"
+    },
+    "episode-139.md": {
+      "sha256": "3e20c8906e10129d56b4a37c1dc4f6de53d79492cf0fe5700c2d54bfa766527e",
+      "bytes": 11344,
+      "episode": "139",
+      "title": "认知阶层分化：信息算力不对称的文明风险",
+      "layer": "正文"
+    },
+    "episode-140.md": {
+      "sha256": "bb7a3612f0121ae2c8839b988d98f5ee3a97660ba426a2efe8e7748f10ee5e9b",
+      "bytes": 6101,
+      "episode": "140",
+      "title": "AI技术迭代与社会制度迭代速度错配",
+      "layer": "正文"
+    },
+    "episode-141.md": {
+      "sha256": "6338070112949d01f98a78b9e880b7c5a8848dc71117a4a6952c844b9542f667",
+      "bytes": 5531,
+      "episode": "141",
+      "title": "AI安全投入公地悲剧与行业协同治理",
+      "layer": "正文"
+    },
+    "episode-142.md": {
+      "sha256": "174c16bc9c7e9aa6d2087094effc88da40304a37109eb100328964795d50bd76",
+      "bytes": 6163,
+      "episode": "142",
+      "title": "全球AI治理价值观差异与冲突协调",
+      "layer": "正文"
+    },
+    "episode-143.md": {
+      "sha256": "8d4e6d3a036de7b585f7f7f613f63272f2ed42d24287a7dfb4e9f5fe2b810d4b",
+      "bytes": 6115,
+      "episode": "143",
+      "title": "跨国AI认知渗透与公共叙事安全底线",
+      "layer": "正文"
+    },
+    "episode-145.md": {
+      "sha256": "cf021fba81e272916fe21aeccd5c71e5e961040bfb5649165e805c24ba98adf0",
+      "bytes": 5732,
+      "episode": "145",
+      "title": "青年群体AI认知依赖的长期能力退化风险",
+      "layer": "正文"
+    },
+    "episode-148.md": {
+      "sha256": "948dd144f3c2c4132303dc77d237f5bbe2910b84c9f133a84f102968a6f461f0",
+      "bytes": 5920,
+      "episode": "148",
+      "title": "AI技术霸权形成机制与制衡规则",
+      "layer": "正文"
+    },
+    "episode-149.md": {
+      "sha256": "e8594a3613043f8992259713c521bea208d61c004f79a45c13fdc4b375ad2c9d",
+      "bytes": 5995,
+      "episode": "149",
+      "title": "人类判断权保留的文明级底线规范",
+      "layer": "正文"
+    },
+    "episode-150.md": {
+      "sha256": "f3a434438311d73c356c020930da29450c291a6a7bb959e285fcd23db34611dd",
+      "bytes": 6760,
+      "episode": "150",
+      "title": "AI认知污染跨代积累的长期文明隐患",
+      "layer": "正文"
+    },
+    "episode-151.md": {
+      "sha256": "2b00eaa361e2a33fdb6916d002cfbb78cb9efa08ef1f0df2e7e60cc6f36b622a",
+      "bytes": 6900,
+      "episode": "151",
+      "title": "通用智能演进中的文明秩序重塑规律",
+      "layer": "正文"
+    },
+    "episode-152.md": {
+      "sha256": "6d9d3d0be5ce9885480cabbb0a5b80fd26b8b6b6adc776c71c485c6a5a6e5ec2",
+      "bytes": 7056,
+      "episode": "152",
+      "title": "多文明体系下AI治理路径差异化研究",
+      "layer": "正文"
+    },
+    "episode-153.md": {
+      "sha256": "f620772c019442e014fdb0e5838161c74e1f4aada811d8c35e92a7983ba18e6e",
+      "bytes": 6870,
+      "episode": "153",
+      "title": "AI舆论生态稳态与认知安全治理基线",
+      "layer": "正文"
+    },
+    "episode-154.md": {
+      "sha256": "444c683ff7f41485bb0819c1f34c1c4b93e700ac26e204221cf726186795c7f6",
+      "bytes": 7107,
+      "episode": "154",
+      "title": "AI时代公共理性重建的技术治理路径",
+      "layer": "正文"
+    },
+    "episode-155.md": {
+      "sha256": "b12a7fe69ca06b46852f644880b65e671f257a3faee02e17f4f4921eed50fa49",
+      "bytes": 7291,
+      "episode": "155",
+      "title": "智能体群体行为涌现的社会级风险",
+      "layer": "正文"
+    },
+    "episode-156.md": {
+      "sha256": "aa1b7686449108a9ef24ec430f2084f831424b347286f9f5f78a539bcb6dbda4",
+      "bytes": 7262,
+      "episode": "156",
+      "title": "AI决策替代人类决策的边界阈值研究",
+      "layer": "正文"
+    },
+    "episode-157.md": {
+      "sha256": "9d5b0c926d6b7eba2a96d7a6381d4ad587a5fe17ba257e821287bba326d5cc04",
+      "bytes": 7551,
+      "episode": "157",
+      "title": "文明级风控体系例外场景反例校准",
+      "layer": "正文"
+    },
+    "episode-158.md": {
+      "sha256": "bf9a3a86779cdeab12a9b7c03a69ba9e4720605042e7cb884901601148c874b1",
+      "bytes": 7666,
+      "episode": "158",
+      "title": "全球AI安全治理统一共识构建路径",
+      "layer": "正文"
+    },
+    "episode-159.md": {
+      "sha256": "02d045280ba300d6144b41e886a4011186887634195ab61a9d5577f736d8dd58",
+      "bytes": 10057,
+      "episode": "159",
+      "title": "长期AI文明风险时序推演框架",
+      "layer": "正文"
+    },
+    "episode-160.md": {
+      "sha256": "01a04bcd37a767c1b30ccd7e0fb3439f6e2753804d951b26345e9b6084047d0c",
+      "bytes": 9172,
+      "episode": "160",
+      "title": "文明级认知风控核心模型定型",
+      "layer": "正文"
+    },
+    "episode-161.md": {
+      "sha256": "0560f3f729f2dd2cd4c7c1d7e6df7405d3e80cc60e13c7b546788f33d99901c0",
+      "bytes": 9744,
+      "episode": "161",
+      "title": "文明风控层全局治理基线汇总",
+      "layer": "正文"
+    },
+    "episode-162.md": {
+      "sha256": "ca4b9e784f6d65ee26ca8f7d1bef041bacb1161adbd8dfa4f1dd45e728aab626",
+      "bytes": 10679,
+      "episode": "162",
+      "title": "文明风控体系术语全局口径锁定",
+      "layer": "正文"
+    },
+    "episode-163.md": {
+      "sha256": "f824608a32aa41fde5538b45b63aca241596f089b6b54b01d46a4015a3d7c2df",
+      "bytes": 10071,
+      "episode": "163",
+      "title": "碳硅道统文明基线公理体系归档奠基",
+      "layer": "正文"
+    },
+    "episode-164.md": {
+      "sha256": "29829be9ba21253c773423cac9008cdd2225b900130399ec01a8e8b0fda86a68",
+      "bytes": 9846,
+      "episode": "164",
+      "title": "188条法典条款全局逻辑关联图谱梳理",
+      "layer": "正文"
+    },
+    "episode-165.md": {
+      "sha256": "fdf7bbd0125f772fd3445e3626a5583ae0f59bf5c6933d667cbb07b3178b0637",
+      "bytes": 9600,
+      "episode": "165",
+      "title": "弱AI阶段治理基线完整适配规范",
+      "layer": "正文"
+    },
+    "episode-166.md": {
+      "sha256": "70108a704bb0101e1695de5f168ad9fa2ad755e0f01cd1e5a13885a1643e9df5",
+      "bytes": 9778,
+      "episode": "166",
+      "title": "早期AGI过渡阶段治理规则切换机制",
+      "layer": "正文"
+    },
+    "episode-167.md": {
+      "sha256": "e9bae42b0b1879e48c93926db3b638a0f0429d4a10f3cc752b3027d4be08a3c7",
+      "bytes": 10776,
+      "episode": "167",
+      "title": "成熟AGI文明级治理稳态框架构建",
+      "layer": "正文"
+    },
+    "episode-168.md": {
+      "sha256": "fc1a150db445b0c1593ca14085486b849b738a233c704ad20d80fd007afd4f89",
+      "bytes": 9198,
+      "episode": "168",
+      "title": "法典条款分级适用与场景匹配机制",
+      "layer": "正文"
+    },
+    "episode-169.md": {
+      "sha256": "37eed851166bb5c25b3477b523501c15c1c1a99432e1e0ca7b3ba6b84071be8e",
+      "bytes": 9707,
+      "episode": "169",
+      "title": "法典版本迭代与官方修订触发标准",
+      "layer": "正文"
+    },
+    "episode-170.md": {
+      "sha256": "862be0156e694643888d03e422f1ef38c55b2f96b45176e0ae29c952e371bce7",
+      "bytes": 10317,
+      "episode": "170",
+      "title": "法典评审机制与行业共识更新流程",
+      "layer": "正文"
+    },
+    "episode-171.md": {
+      "sha256": "130f8dafd48f4c1002b324e7ec99994d428145ce03661ff3202aba1e47b2782d",
+      "bytes": 9582,
+      "episode": "171",
+      "title": "AI安全与治理司法落地适配指南",
+      "layer": "正文"
+    },
+    "episode-172.md": {
+      "sha256": "df49a051ef687019b10dcef1ece1d502e6dd0d9fda53b74afb62108850d12a59",
+      "bytes": 9657,
+      "episode": "172",
+      "title": "AI安全与治理产业落地执行手册基线",
+      "layer": "正文"
+    },
+    "episode-173.md": {
+      "sha256": "a9c2214833105c58a3ced2ad825179bf00ff9e490e10f5b4cc89400ec8c82696",
+      "bytes": 9678,
+      "episode": "173",
+      "title": "公共政策引用法典标准的适配规范",
+      "layer": "正文"
+    },
+    "episode-174.md": {
+      "sha256": "b2ac0abde8f8624af935252a90856917f889783043571a29fdbcfd8d4d012f5d",
+      "bytes": 10276,
+      "episode": "174",
+      "title": "学术研究引用法典体系的标准范式",
+      "layer": "正文"
+    },
+    "episode-175.md": {
+      "sha256": "35bc6e341fb3864ec4c05f95f9af832537fee90f4a125570e68448d2fe5956ce",
+      "bytes": 5353,
+      "episode": "175",
+      "title": "媒体公共叙事引用法典的传播规范",
+      "layer": "正文"
+    },
+    "episode-176.md": {
+      "sha256": "7743941d3b5fe6091e44547029278e75a28dacc42ed05bcb113614a23f208a52",
+      "bytes": 5516,
+      "episode": "176",
+      "title": "法典体系适用边界与不覆盖场景声明",
+      "layer": "正文"
+    },
+    "episode-177.md": {
+      "sha256": "3a38e74954130bf4103226de61b02e2043fdd2726539fa339dc7a1490a3eb53c",
+      "bytes": 5892,
+      "episode": "177",
+      "title": "法典体系现存局限与未来迭代方向",
+      "layer": "正文"
+    },
+    "episode-178.md": {
+      "sha256": "fe28f31ef058f20ada85870b9338ebf4e1544fe741b09499061c61ee2f21df8c",
+      "bytes": 5396,
+      "episode": "178",
+      "title": "碳硅共生人机文明秩序底层约束规则",
+      "layer": "正文"
+    },
+    "episode-179.md": {
+      "sha256": "4477399b2bba80444c031a3c3a9d298754694c74293c4713dee5d7eb1c353a97",
+      "bytes": 4953,
+      "episode": "179",
+      "title": "AI文明稳态运行的终极治理基线",
+      "layer": "正文"
+    },
+    "episode-180.md": {
+      "sha256": "ad6b81d3a46b9314dc0e92d2308943bea15af3a989797df2b4a7823c195fb73b",
+      "bytes": 5792,
+      "episode": "180",
+      "title": "AI安全与文明治理全局风险闭环复盘",
+      "layer": "正文"
+    },
+    "episode-181.md": {
+      "sha256": "498c61a715f0148a0998ce0da6c0eba8b673bc596062b75a980445101b1d0940",
+      "bytes": 5364,
+      "episode": "181",
+      "title": "七层体系跨层级逻辑闭环总校验",
+      "layer": "正文"
+    },
+    "episode-182.md": {
+      "sha256": "868b337f8aaaaf74dd3c18b896c6670cf4ab765ec1c25b683f125e7011f4055d",
+      "bytes": 5339,
+      "episode": "182",
+      "title": "法典全体系行业落地适配总方案",
+      "layer": "正文"
+    },
+    "episode-183.md": {
+      "sha256": "a3ac720904182fb7063696ff10363b663abc0195987389f61efa21f469f3d78c",
+      "bytes": 5635,
+      "episode": "183",
+      "title": "法典全体系国家治理适配总基线",
+      "layer": "正文"
+    },
+    "episode-184.md": {
+      "sha256": "953dbec5626ca7735e50b2cd9156a95335f434c355c4e6fb5f35cef52f4bfd6b",
+      "bytes": 5063,
+      "episode": "184",
+      "title": "法典全体系文明级价值秩序总纲",
+      "layer": "正文"
+    },
+    "episode-185.md": {
+      "sha256": "57b4f364e9fea18940a7fab16592a6426165a0377be1b9d881ef9a7f74c6986e",
+      "bytes": 8795,
+      "episode": "185",
+      "title": "AGI泡沫周期治理预案体系归档",
+      "layer": "正文"
+    },
+    "episode-186.md": {
+      "sha256": "c56397ed97898fb70070676cc6008297579ad015b81cbc134d288ad4b9754338",
+      "bytes": 6248,
+      "episode": "186",
+      "title": "全体系反漏洞、反短板、反盲区终校",
+      "layer": "正文"
+    },
+    "episode-187.md": {
+      "sha256": "9bf84750495045a7c13bf6a9d0512bf2d9c7ddcda2eb0440568abbc788fc8177",
+      "bytes": 5550,
+      "episode": "187",
+      "title": "《AI安全与文明治理法典》终版定稿公告",
+      "layer": "正文"
+    }
+  }
+}
