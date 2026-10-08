@@ -5,7 +5,7 @@
   "encoding": "UTF-8",
   "bom": false,
   "newline": "LF",
-  "note": "本清单登记 v1.0-FINAL 与 v1.0-SEALED。FINAL 原文不覆盖。declared_sha256 是对应文件回填位替换前的全文 SHA256。sha256 是回填后的文件字节 SHA256。",
+  "note": "本清单登记 v1.0-FINAL、v1.0-SEALED 与 BP08 四份文件。已有正文不覆盖。主文档 declared_sha256 是文末回填位替换前的全文 SHA256。各文件 sha256 是入库字节 SHA256。",
   "hash_fill": {
     "declared_sha256": "adc93794cbd49624bf68b477234a9d01507088c30ce16adcb4d6c8f5f02f9fb1",
     "slots": [
@@ -29,6 +29,27 @@
       "declared_sha256": "d9438dfe1dfcfcad051b4f7ff025d7690ab84238d20623d8e7449911c3b0bbbd",
       "bytes": 33856,
       "role": "v1.0-SEALED封印定稿"
+    },
+    "BP08-CS-BP08-v1.0.2-SEALED.md": {
+      "sha256": "3f9c3a87b05fac933ef5db71c96c791d5f4494ea8e299e55e7de419fdf53c836",
+      "bytes": 19723,
+      "role": "E0审计基线",
+      "declared_sha256": "a98b09bb03b5f9fc5aa64b9416cca5cddd6dd04710a318605aafcfda769ea7f5"
+    },
+    "bp08_stat_config.json": {
+      "sha256": "db5e15fa2907bca32a57ccd344e7bcff4737dc37393e6858785fa15d766263b2",
+      "bytes": 507,
+      "role": "统计配置"
+    },
+    "bp08_semantic_ruleset.cfg": {
+      "sha256": "147c316637811cf9e57ebc41d887afbfe36b781dfc35e6bb807a7e2d1d9a745e",
+      "bytes": 621,
+      "role": "语义规则"
+    },
+    "bp08_script_interface.md": {
+      "sha256": "03b769be6d7e52608357ae6a1d5e52392d3d92705b9b4293abafdcd7c9943356",
+      "bytes": 775,
+      "role": "脚本接口"
     }
   },
   "hash_fill_sealed": {
@@ -36,6 +57,13 @@
     "slots": [
       "【全文UTF-8 无BOM · 永世定稿回填】",
       "【永世定稿全文自动回填】"
+    ]
+  },
+  "hash_fill_bp08": {
+    "file": "BP08-CS-BP08-v1.0.2-SEALED.md",
+    "declared_sha256": "a98b09bb03b5f9fc5aa64b9416cca5cddd6dd04710a318605aafcfda769ea7f5",
+    "slots": [
+      "【全文UTF-8 无BOM · 永世回填】"
     ]
   }
 }

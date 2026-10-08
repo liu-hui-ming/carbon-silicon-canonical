@@ -1,0 +1,15 @@
+{
+  "config_version": "v1.0-E0",
+  "description": "BP08外部预注册配置，E0理论版，参数待E3实测回填",
+  "nt2_L2_factor_Y": null,
+  "duplicate_similar_threshold": null,
+  "vector_normalization_mode": "minmax",
+  "forbid_extrapolate_dimensions": [
+    "temperature",
+    "process_node",
+    "current_density",
+    "model_family"
+  ],
+  "archive_deep_expire_days": null,
+  "notes": "所有null参数等待实测数据后填充；修改本文件必须更新自身sha256并记录变更日志"
+}
