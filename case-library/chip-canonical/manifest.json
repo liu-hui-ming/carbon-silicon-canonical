@@ -9,9 +9,18 @@
   },
   "coverage": {
     "numbering_rule": "001-188",
-    "titles_present": "001-158",
-    "titles_absent": "159-188",
-    "note": "供稿止于158。159-188未出现，未补写。"
+    "titles_present": "001-188",
+    "titles_absent": [],
+    "appendix": "188集收尾体系元规则勘伪附录一至七写在本文档末尾，不另占001-188编号",
+    "note": "159-188及收尾附录按供稿补入。001-158正文除文内SHA256槽位重算外保持原字节。"
+  },
+  "predecessor": {
+    "commit": "be56d2a1e21b9c34b51daff5d30bf476af17beb7",
+    "coverage": "001-158",
+    "bytes": 37519,
+    "declared_sha256": "b39809453661bc31219569f47be58506de9b6dc42205717d00fddc62538dd3f0",
+    "sha256": "5d5663a102ec99d6aa3cbf86a9c890f7f391214f3e1974b329c9f55fabc8c4b6",
+    "note": "附录目录清单仍引用该历史主清单文件哈希作为独立锚点，本次未改写附录清单。"
   },
   "files": [
     {
@@ -20,9 +29,9 @@
       "encoding": "UTF-8",
       "bom": false,
       "newline": "LF",
-      "bytes": 37519,
-      "declared_sha256": "b39809453661bc31219569f47be58506de9b6dc42205717d00fddc62538dd3f0",
-      "sha256": "5d5663a102ec99d6aa3cbf86a9c890f7f391214f3e1974b329c9f55fabc8c4b6"
+      "bytes": 51294,
+      "declared_sha256": "dbb102ad654d2d6ed1b4467922351f8be5f435fec9f9e11f400d8e32e1557689",
+      "sha256": "bc983ed94eb6172773d7f2c4db20fa0407f2ee8d4c5943616ea4656d3c10fa1b"
     }
   ]
 }
