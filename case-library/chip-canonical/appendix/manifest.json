@@ -1,0 +1,21 @@
+{
+  "canonical": "CS-CHIP-APPENDIX-07-v1.0.0",
+  "belongs_to": "CS-CHIP-FULL-INDEX-v1.3.1-HOTFIX",
+  "hash_independence": {
+    "participates_in_main_root": false,
+    "main_index_sha256": "5d5663a102ec99d6aa3cbf86a9c890f7f391214f3e1974b329c9f55fabc8c4b6",
+    "main_manifest_sha256": "67a995cd0d95ee9b1f32955db42f332c9ef31315301b4c47862e28b361ba6cb8",
+    "note": "附录七单独校验。本清单不并入001-188主根。主清单文件未改写。"
+  },
+  "files": [
+    {
+      "path": "CS-CHIP-APPENDIX-07-v1.0.0.md",
+      "role": "硬件仿真工程附录七",
+      "encoding": "UTF-8",
+      "bom": false,
+      "newline": "LF",
+      "bytes": 7012,
+      "sha256": "c3507e088205790f97ee7e4c6b2028dbfa9870edf1f69b4e3113972061a07e74"
+    }
+  ]
+}
