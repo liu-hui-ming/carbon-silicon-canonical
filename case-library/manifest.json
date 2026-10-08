@@ -1,0 +1,28 @@
+{
+  "canonical": "CS-Cu-C-Si-LATTICE-v1.0-FINAL",
+  "series": "碳硅铜共晶格体系",
+  "baseline_lock": "v1.0-FINAL E0预注册永世母本",
+  "encoding": "UTF-8",
+  "bom": false,
+  "newline": "LF",
+  "note": "本清单只登记 case-library/CS-Cu-C-Si-LATTICE-v1.0-FINAL.md。declared_sha256 是两处回填位替换前的全文 SHA256，已写入文内两处。sha256 是回填后的文件字节 SHA256。",
+  "hash_fill": {
+    "declared_sha256": "adc93794cbd49624bf68b477234a9d01507088c30ce16adcb4d6c8f5f02f9fb1",
+    "slots": [
+      "【全文UTF-8 无BOM · 永世终稿回填】",
+      "【永世终稿自动回填】"
+    ]
+  },
+  "signature": [
+    "创立人：黄清佳｜十二脉归一",
+    "彩蛋位：今日头条、抖音、GitHub"
+  ],
+  "files": {
+    "CS-Cu-C-Si-LATTICE-v1.0-FINAL.md": {
+      "sha256": "1da6ee33589ed0bd45f9745fd0077b39fdf3c20e6afb494fab62e33eda095e4a",
+      "declared_sha256": "adc93794cbd49624bf68b477234a9d01507088c30ce16adcb4d6c8f5f02f9fb1",
+      "bytes": 7973,
+      "role": "E0预注册永世母本"
+    }
+  }
+}
