@@ -1,0 +1,28 @@
+{
+  "canonical": "CS-CHIP-FULL-INDEX-v1.3.1-HOTFIX",
+  "namespace": "CHIP-",
+  "isolated_from": "XD-",
+  "hash_fill": {
+    "slot": "SHA256：【全文UTF-8 无BOM · 定稿回填】",
+    "declared_sha256": "回填前全文SHA256，已写入文内该槽位",
+    "sha256": "回填后文件字节SHA256，与本清单 files[].sha256 及 git blob 一致"
+  },
+  "coverage": {
+    "numbering_rule": "001-188",
+    "titles_present": "001-158",
+    "titles_absent": "159-188",
+    "note": "供稿止于158。159-188未出现，未补写。"
+  },
+  "files": [
+    {
+      "path": "CS-CHIP-FULL-INDEX-v1.3.1-HOTFIX.md",
+      "role": "CHIP-EP/CHIP-BP标题清单",
+      "encoding": "UTF-8",
+      "bom": false,
+      "newline": "LF",
+      "bytes": 37519,
+      "declared_sha256": "b39809453661bc31219569f47be58506de9b6dc42205717d00fddc62538dd3f0",
+      "sha256": "5d5663a102ec99d6aa3cbf86a9c890f7f391214f3e1974b329c9f55fabc8c4b6"
+    }
+  ]
+}
