@@ -5,7 +5,7 @@
   "encoding": "UTF-8",
   "bom": false,
   "newline": "LF",
-  "note": "本清单只登记 case-library/CS-Cu-C-Si-LATTICE-v1.0-FINAL.md。declared_sha256 是两处回填位替换前的全文 SHA256，已写入文内两处。sha256 是回填后的文件字节 SHA256。",
+  "note": "本清单登记 v1.0-FINAL 与 v1.0-SEALED。FINAL 原文不覆盖。declared_sha256 是对应文件回填位替换前的全文 SHA256。sha256 是回填后的文件字节 SHA256。",
   "hash_fill": {
     "declared_sha256": "adc93794cbd49624bf68b477234a9d01507088c30ce16adcb4d6c8f5f02f9fb1",
     "slots": [
@@ -23,6 +23,19 @@
       "declared_sha256": "adc93794cbd49624bf68b477234a9d01507088c30ce16adcb4d6c8f5f02f9fb1",
       "bytes": 7973,
       "role": "E0预注册永世母本"
+    },
+    "CS-Cu-C-Si-LATTICE-v1.0-SEALED.md": {
+      "sha256": "c7e1a981c57981062a005adc768a653791eb39658b1dd8f9795827aaabe6a1f9",
+      "declared_sha256": "d9438dfe1dfcfcad051b4f7ff025d7690ab84238d20623d8e7449911c3b0bbbd",
+      "bytes": 33856,
+      "role": "v1.0-SEALED封印定稿"
     }
+  },
+  "hash_fill_sealed": {
+    "declared_sha256": "d9438dfe1dfcfcad051b4f7ff025d7690ab84238d20623d8e7449911c3b0bbbd",
+    "slots": [
+      "【全文UTF-8 无BOM · 永世定稿回填】",
+      "【永世定稿全文自动回填】"
+    ]
   }
 }
