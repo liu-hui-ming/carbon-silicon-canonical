@@ -17,5 +17,30 @@
       "bytes": 7012,
       "sha256": "c3507e088205790f97ee7e4c6b2028dbfa9870edf1f69b4e3113972061a07e74"
     }
+  ],
+  "independent_siblings": [
+    {
+      "canonical": "CS-CHIP-APPENDIX-08-v0.1",
+      "version": "v0.1",
+      "hash_name": "Appendix-VIII-Hash",
+      "role": "IAA独立元裁判执行细则骨架",
+      "hash_independence": {
+        "participates_in_patch3_root": false,
+        "participates_in_chip_main_index": false,
+        "participates_in_appendix_07_document": false,
+        "note": "附录八独立SHA256。不并入PATCH3主根，不并入CHIP主清单，不改附录七正文。"
+      },
+      "files": [
+        {
+          "path": "CS-CHIP-APPENDIX-08-v0.1.md",
+          "role": "IAA执行细则骨架",
+          "encoding": "UTF-8",
+          "bom": false,
+          "newline": "LF",
+          "bytes": 4969,
+          "sha256": "d53dd89a194501ab694cc74faa5a931aa3c025d813f28da48558c8564ecc227d"
+        }
+      ]
+    }
   ]
 }
