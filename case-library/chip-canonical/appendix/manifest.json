@@ -124,6 +124,32 @@
           "bytes": 7014,
           "sha256": "469d273923c75b8327e55994e3ee440866c71eb29e56dfd0cd0d642e8205e563"
         }
+      ],
+      "successor": "CS-CHIP-APPENDIX-08-v0.5"
+    },
+    {
+      "canonical": "CS-CHIP-APPENDIX-08-v0.5",
+      "version": "v0.5",
+      "hash_name": "Appendix-VIII-Hash-v0.5",
+      "predecessor": "CS-CHIP-APPENDIX-08-v0.4",
+      "predecessor_sha256": "469d273923c75b8327e55994e3ee440866c71eb29e56dfd0cd0d642e8205e563",
+      "role": "IAA独立元裁判执行细则",
+      "hash_independence": {
+        "participates_in_patch3_root": false,
+        "participates_in_chip_main_index": false,
+        "participates_in_appendix_07_document": false,
+        "note": "附录八v0.5独立SHA256。v0.1至v0.4历史哈希保留。不并入PATCH3主根，不并入CHIP主清单。"
+      },
+      "files": [
+        {
+          "path": "CS-CHIP-APPENDIX-08-v0.5.md",
+          "role": "IAA执行细则v0.5",
+          "encoding": "UTF-8",
+          "bom": false,
+          "newline": "LF",
+          "bytes": 9014,
+          "sha256": "f7926acaaf0fb0073281da39cb12ba2aab6213434d8bb47a2904b5a76ee99985"
+        }
       ]
     }
   ],
@@ -157,6 +183,14 @@
       "predecessor": "v0.3",
       "predecessor_sha256": "302ee57c49354dee98247c4a0f2254385b1bb437d9e82101ecbc52729006d2f7",
       "sha256": "469d273923c75b8327e55994e3ee440866c71eb29e56dfd0cd0d642e8205e563"
+    },
+    {
+      "version": "v0.5",
+      "canonical": "CS-CHIP-APPENDIX-08-v0.5",
+      "hash_name": "Appendix-VIII-Hash-v0.5",
+      "predecessor": "v0.4",
+      "predecessor_sha256": "469d273923c75b8327e55994e3ee440866c71eb29e56dfd0cd0d642e8205e563",
+      "sha256": "f7926acaaf0fb0073281da39cb12ba2aab6213434d8bb47a2904b5a76ee99985"
     }
   ]
 }
