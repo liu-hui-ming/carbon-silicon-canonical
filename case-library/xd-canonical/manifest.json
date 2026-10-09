@@ -13,19 +13,16 @@
   },
   "coverage": {
     "numbering_rule": "XD-001-XD-188",
-    "present": 186,
-    "absent": [
-      "158",
-      "159"
-    ],
+    "present": 188,
+    "absent": [],
     "overview": null,
-    "note": "本节供稿为001-188业务正文。独立总纲页未出现，未另写。XD-138已补入。缺158、159未补写。"
+    "note": "001-188业务正文已齐。独立总纲页未出现，未另写。"
   },
   "signature": [
     "十二脉归一｜碳硅道统创立人：黄清佳",
     "彩蛋藏于：今日头条、抖音、GitHub"
   ],
-  "volume_sha256": "e0efbf02522c80c6d2be0e21369237d7ef58cd83a50bb88832cd369d1feccd45",
+  "volume_sha256": "64ab0892afeea4b79629c20cfa314dfb4ffbb2472c07995ce0e9f502625f0eca",
   "volume_sha256_basis": "按编号拼接「sha256两空格文件名」各行后的UTF-8 SHA256，不含本清单文件自身。",
   "files": [
     {
@@ -1756,6 +1753,28 @@
       "sha256": "73bc04c15bb17505166bfcaa09558bebf4696e9abad6b216786432e401599e10"
     },
     {
+      "id": "XD-158",
+      "path": "XD-158.md",
+      "title": "158｜文明级迁移风险国际协同治理框架",
+      "encoding": "UTF-8",
+      "bom": false,
+      "newline": "LF",
+      "bytes": 2073,
+      "paragraphs": 30,
+      "sha256": "8efc5756a96f24f922911f5ddb341d7616eb76c1c5a4d75c8f87054af54598a5"
+    },
+    {
+      "id": "XD-159",
+      "path": "XD-159.md",
+      "title": "159｜文明演化变量干预：从被动防御到主动管控迁移风险",
+      "encoding": "UTF-8",
+      "bom": false,
+      "newline": "LF",
+      "bytes": 2190,
+      "paragraphs": 30,
+      "sha256": "98252f43072a0ae19958ca8a64ac5ec5cc4d5cdb165d328534ef6b75efa4c140"
+    },
+    {
       "id": "XD-160",
       "path": "XD-160.md",
       "title": "160｜文明尺度迁移风险全部例外场景反例校准",
@@ -2076,9 +2095,9 @@
     }
   ],
   "predecessor_volume": {
-    "commit": "61703779b2de858e223c09e6c185e13fd7352133",
-    "present": 185,
-    "volume_sha256": "72303a9ba4b8ccd904a0c75aca1494b07bca943b8e544150a6af9c255821713c",
-    "note": "补入XD-138之前的卷宗总哈希。"
+    "commit": "43460da142d97e43e242205f8b08015354b48f8c",
+    "present": 186,
+    "volume_sha256": "e0efbf02522c80c6d2be0e21369237d7ef58cd83a50bb88832cd369d1feccd45",
+    "note": "补入XD-158与XD-159之前的卷宗总哈希。"
   }
 }
