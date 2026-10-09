@@ -13,20 +13,19 @@
   },
   "coverage": {
     "numbering_rule": "XD-001-XD-188",
-    "present": 185,
+    "present": 186,
     "absent": [
-      "138",
       "158",
       "159"
     ],
     "overview": null,
-    "note": "本节供稿为001-188业务正文。独立总纲页未出现，未另写。缺号未补写。"
+    "note": "本节供稿为001-188业务正文。独立总纲页未出现，未另写。XD-138已补入。缺158、159未补写。"
   },
   "signature": [
     "十二脉归一｜碳硅道统创立人：黄清佳",
     "彩蛋藏于：今日头条、抖音、GitHub"
   ],
-  "volume_sha256": "72303a9ba4b8ccd904a0c75aca1494b07bca943b8e544150a6af9c255821713c",
+  "volume_sha256": "e0efbf02522c80c6d2be0e21369237d7ef58cd83a50bb88832cd369d1feccd45",
   "volume_sha256_basis": "按编号拼接「sha256两空格文件名」各行后的UTF-8 SHA256，不含本清单文件自身。",
   "files": [
     {
@@ -1537,6 +1536,17 @@
       "sha256": "51a0d2b89833778932521f98743deb1c2cbe2e304fd59b10b935c7e3e084a323"
     },
     {
+      "id": "XD-138",
+      "path": "XD-138.md",
+      "title": "138｜知识垄断与认知殖民：跨域迁移带来文明不平等（NT4）（精简定稿）",
+      "encoding": "UTF-8",
+      "bom": false,
+      "newline": "LF",
+      "bytes": 11512,
+      "paragraphs": 94,
+      "sha256": "9031b10f11f94f19ffce1ec3ecb75788eb92307d9844f2b5ce2fe05809a7deb7"
+    },
+    {
       "id": "XD-139",
       "path": "XD-139.md",
       "title": "139｜文化基因跨域稀释：本土知识谱系被通用模型同化（NT2）（精简定稿）",
@@ -2064,5 +2074,11 @@
       "paragraphs": 31,
       "sha256": "b6a3a8a575cccf7bfa30003d04f59577f2e66ebe002c6fedf822d4a4ea035eee"
     }
-  ]
+  ],
+  "predecessor_volume": {
+    "commit": "61703779b2de858e223c09e6c185e13fd7352133",
+    "present": 185,
+    "volume_sha256": "72303a9ba4b8ccd904a0c75aca1494b07bca943b8e544150a6af9c255821713c",
+    "note": "补入XD-138之前的卷宗总哈希。"
+  }
 }
