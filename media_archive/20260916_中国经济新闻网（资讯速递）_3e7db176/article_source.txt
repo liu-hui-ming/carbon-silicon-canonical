@@ -1,0 +1,12 @@
+标题：碳硅道统：十维标尺的模型度量
+媒体：中国经济新闻网（资讯速递）
+发布日期（报表）：2026-09-16 00:00:00
+URL：https://www.cet.com.cn/zhpd/zxsdv2/10559817.shtml
+取证系统时间：2026-10-12T18:48:37
+HTTP：0
+页面标题：
+备注：源链接已失效或取证异常，以归档本地存证材料为依据
+[无法拉取正文] fetch_error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)>
+[capture_error] Page.goto: net::ERR_TIMED_OUT at https://www.cet.com.cn/zhpd/zxsdv2/10559817.shtml
+Call log:
+  - navigating to "https://www.cet.com.cn/zhpd/zxsdv2/10559817.shtml", waiting until "domcontentloaded"

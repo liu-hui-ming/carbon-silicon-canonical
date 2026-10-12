@@ -1,0 +1,12 @@
+标题：碳硅道统050.5公理母本定稿 构建人机碳硅共生可溯源研究基线
+媒体：人民日报社-中国报业网
+发布日期（报表）：2026-09-30 00:00:00
+URL：https://www.cnpiw.cn/a/fuwuzhongxin/zixun/2026/0930/47540.html?1790737698
+取证系统时间：2026-10-12T19:01:23
+HTTP：0
+页面标题：
+备注：源链接已失效或取证异常，以归档本地存证材料为依据
+[无法拉取正文] fetch_error: Remote end closed connection without response
+[capture_error] Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.cnpiw.cn/a/fuwuzhongxin/zixun/2026/0930/47540.html?1790737698
+Call log:
+  - navigating to "https://www.cnpiw.cn/a/fuwuzhongxin/zixun/2026/0930/47540.html?1790737698", waiting until "domcontentloaded"

@@ -1,0 +1,19 @@
+{
+  "folder": "20261009_中安在线财经首发_02bb00dc",
+  "url": "http://finance.anhuinews.com/xhs/202610/t20261009_9645519.html",
+  "title": "跨域顶层监管层｜监管者自身的跨域审计规则",
+  "media": "中安在线财经首发",
+  "pub_date": "20261009",
+  "access": "OK",
+  "captured_at": "2026-10-12T18:40:12",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ec528a6d096239734fe21eb4f0ed6f0be631a4fbf99da123e3006cc68641f386",
+      "bytes": 354374
+    },
+    "article_source.txt": {
+      "sha256": "66496b2d5f7dccfe547ce400688e0d5e7a1184b28406e7641dda98bd51d126c3",
+      "bytes": 6757
+    }
+  }
+}

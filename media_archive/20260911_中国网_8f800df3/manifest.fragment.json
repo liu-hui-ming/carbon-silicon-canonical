@@ -1,0 +1,19 @@
+{
+  "folder": "20260911_中国网_8f800df3",
+  "url": "http://news.china.com.cn/mts/2026-09/11/content_1223140.htm",
+  "title": "碳硅道统：归零稳态的系统边界 | 边界先行确立，架构随之收敛",
+  "media": "中国网",
+  "pub_date": "20260911",
+  "access": "OK",
+  "captured_at": "2026-10-12T18:24:07",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "a14a4d788786851ffa067798bfbf834cb76bfd92776d84410f2747849f3dc1e9",
+      "bytes": 327707
+    },
+    "article_source.txt": {
+      "sha256": "77afc6e46f975af6cdceeb5e4931aeb30227db8dd0584f2308d2ec9ddfd99b1f",
+      "bytes": 7947
+    }
+  }
+}

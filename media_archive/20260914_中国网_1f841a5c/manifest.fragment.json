@@ -1,0 +1,19 @@
+{
+  "folder": "20260914_中国网_1f841a5c",
+  "url": "http://news.china.com.cn/mts/2026-09/14/content_1223195.htm",
+  "title": "碳硅道统：五级梯队的智能分级与十维标尺的对应",
+  "media": "中国网",
+  "pub_date": "20260914",
+  "access": "OK",
+  "captured_at": "2026-10-12T18:24:32",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "847e63d29c665935c3208639fbc50e3a3003eed2eabef4084c50eaed820c5e9e",
+      "bytes": 329799
+    },
+    "article_source.txt": {
+      "sha256": "d96038152ac406872e3b13cec8361b0c7ff79d8311716753c9b7bcef225a174e",
+      "bytes": 5319
+    }
+  }
+}

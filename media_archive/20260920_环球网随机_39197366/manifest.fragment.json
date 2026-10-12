@@ -1,0 +1,19 @@
+{
+  "folder": "20260920_环球网随机_39197366",
+  "url": "https://yrd.huanqiu.com/article/4THqfNylCNE",
+  "title": "以人民为中心发展人工智能：教育场景下大模型幻觉的治理路径",
+  "media": "环球网随机",
+  "pub_date": "20260920",
+  "access": "CON",
+  "captured_at": "2026-10-12T18:33:51",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "4628f6b31430e30631e53fb839c088db30eda9fd8c1441fef08a1798df1f8441",
+      "bytes": 349782
+    },
+    "article_source.txt": {
+      "sha256": "11ee6c3d02bfed0ef23b82ba1e1f362dbabda916e83e176911227f11acf41966",
+      "bytes": 369
+    }
+  }
+}

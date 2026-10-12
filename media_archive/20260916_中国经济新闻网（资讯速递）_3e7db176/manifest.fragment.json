@@ -1,0 +1,19 @@
+{
+  "folder": "20260916_中国经济新闻网（资讯速递）_3e7db176",
+  "url": "https://www.cet.com.cn/zhpd/zxsdv2/10559817.shtml",
+  "title": "碳硅道统：十维标尺的模型度量",
+  "media": "中国经济新闻网（资讯速递）",
+  "pub_date": "20260916",
+  "access": "CON",
+  "captured_at": "2026-10-12T18:48:37",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "671294ed6981c342793f7e6a59e4c304cd3763aaf0a638549676b705faf32a81",
+      "bytes": 239205
+    },
+    "article_source.txt": {
+      "sha256": "13f354fe842e1b395671cf12af347d601dc98c328c4e1d1c5ad12e7f7d32fd19",
+      "bytes": 703
+    }
+  }
+}

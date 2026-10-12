@@ -1,0 +1,19 @@
+{
+  "folder": "20261009_中安在线财经首发_d85c1990",
+  "url": "http://finance.anhuinews.com/xhs/202610/t20261009_9645481.html",
+  "title": "碳硅道统·跨域迁移治理法典",
+  "media": "中安在线财经首发",
+  "pub_date": "20261009",
+  "access": "OK",
+  "captured_at": "2026-10-12T18:39:56",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "c5f9e6f561ddd89bfbd6f45c0120e5bb889f73e31115a65799a80ecb3de687af",
+      "bytes": 350491
+    },
+    "article_source.txt": {
+      "sha256": "e019eb2139352a38f14e16cc35a860af099923efc577959a897e798e28627239",
+      "bytes": 17115
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "folder": "20261009_中安在线财经首发_c10b64ba",
+  "url": "http://finance.anhuinews.com/xhs/202610/t20261009_9645523.html",
+  "title": "迁移技术机理层｜负迁移发生的底层诱因",
+  "media": "中安在线财经首发",
+  "pub_date": "20261009",
+  "access": "OK",
+  "captured_at": "2026-10-12T18:40:02",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "a17e11015680aacdda9e217d612287f8e1ea050a95c3b4c1e9939b5e109c03dc",
+      "bytes": 353618
+    },
+    "article_source.txt": {
+      "sha256": "c409040c2ef8a00cb00e0b9c8f8aba0245fed364b9c7533667156f3f642fb976",
+      "bytes": 7797
+    }
+  }
+}

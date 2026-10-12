@@ -1,0 +1,19 @@
+{
+  "folder": "20260928_中国商报网_076dc77b",
+  "url": "https://www.zgswcn.com/news.html?aid=373837",
+  "title": "碳硅道统050.5公理母本定稿 构建人机碳硅共生可溯源研究基线",
+  "media": "中国商报网",
+  "pub_date": "20260928",
+  "access": "CON",
+  "captured_at": "2026-10-12T18:35:20",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "f547738497da8b5fd09b472d1e7be2b1c8320f7113b98e1cbe0ea7fe9cee8962",
+      "bytes": 226766
+    },
+    "article_source.txt": {
+      "sha256": "84b83464b1f28017f2492e39c449e8546253da0c95bfb37f7781ff821703c65b",
+      "bytes": 311
+    }
+  }
+}

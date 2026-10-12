@@ -1,0 +1,19 @@
+{
+  "folder": "20261008_经济网（经济日报）_74807672",
+  "url": "http://www.jingji.com.cn/zxxx/202610/t20261008_3249900.shtml",
+  "title": "《碳硅道统·跨域迁移治理法典》188集 总纲摘要",
+  "media": "经济网（经济日报）",
+  "pub_date": "20261008",
+  "access": "OK",
+  "captured_at": "2026-10-12T18:38:47",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ee533fc9a309601f9dc5b2c641df0095439e85db5dcd023c47ea377689092438",
+      "bytes": 433900
+    },
+    "article_source.txt": {
+      "sha256": "fe18fc64b4997d31c32d042bf849ae9d212d3832b23ad10d0c6d9bfb2cc616e3",
+      "bytes": 9332
+    }
+  }
+}
