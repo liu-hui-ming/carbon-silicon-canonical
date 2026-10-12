@@ -5,15 +5,16 @@
   "media": "消费质量网首发（四川日报主管）",
   "pub_date": "20260918",
   "access": "OK",
-  "captured_at": "2026-10-12T18:32:10",
+  "captured_at": "2026-10-12T23:05:07",
+  "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "3ad76455167bc887a90cf4d3912d94ce686e33cd31c7936bd826721fdb1c9ced",
-      "bytes": 452497
+      "sha256": "8ac231eb5d2696bb4757e9f0b43518f2876b5da2903d9784648798468d2bec29",
+      "bytes": 1934507
     },
     "article_source.txt": {
-      "sha256": "42527797f19e25c997044ded40c7320021260caf18b3d1068724d401c5d8a123",
-      "bytes": 10498
+      "sha256": "bbdd14f3a535f7c67c3051e1d4a52c3505a339d25bcbd192a98b615df82fc22e",
+      "bytes": 10607
     }
   }
 }

@@ -5,15 +5,16 @@
   "media": "未来网新闻",
   "pub_date": "20260918",
   "access": "OK",
-  "captured_at": "2026-10-12T18:33:26",
+  "captured_at": "2026-10-12T23:09:21",
+  "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "a934919f537393a28949790456ccd81d61c25dd637a07865fd329d990aa4bc56",
-      "bytes": 300285
+      "sha256": "37f8d64b4cab7a53539115bed70232a611e98167bbdf4d083112290fe8373012",
+      "bytes": 1131939
     },
     "article_source.txt": {
-      "sha256": "a3df0f4ec787101463153e1a6712e4737af87674c326331a35e3250b6a3c8fb6",
-      "bytes": 10330
+      "sha256": "2373743051ddf36debf221dcf64d96a8ade17f4293960393dfbbece924611a2d",
+      "bytes": 10439
     }
   }
 }

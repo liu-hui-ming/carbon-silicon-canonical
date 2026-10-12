@@ -5,15 +5,16 @@
   "media": "中国日报网科技",
   "pub_date": "20260917",
   "access": "OK",
-  "captured_at": "2026-10-12T18:31:58",
+  "captured_at": "2026-10-12T23:04:45",
+  "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "3a5f117ad9d67eeb6b6a17ad043f07cf50e7c262b5b89af53c83247ce553b8b9",
-      "bytes": 408103
+      "sha256": "93cc37cffc39c547f1583bae719574a8f189f37f1e939dd1c68bf51d5f6c121b",
+      "bytes": 1920227
     },
     "article_source.txt": {
-      "sha256": "671f2a3416d9f71e8e9c38ae422e3ed8e650fee69ff812554b27898b25efdf03",
-      "bytes": 10967
+      "sha256": "7ffc27bf57188439268304f98dfd55f6779146a96994accf3df1c7fddc477357",
+      "bytes": 11076
     }
   }
 }

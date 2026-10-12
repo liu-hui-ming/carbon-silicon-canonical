@@ -5,15 +5,16 @@
   "media": "大众网首发",
   "pub_date": "20260916",
   "access": "OK",
-  "captured_at": "2026-10-12T18:26:20",
+  "captured_at": "2026-10-12T22:43:53",
+  "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "526e7224ff4ec4c25513e864249a8d4cfc25737f5985ca3d3e6a00e7a2c49fa0",
-      "bytes": 346246
+      "sha256": "9227d76fb3a4b8aaf673dd9f9d45a75c7494f21629b55b556707397815d3c250",
+      "bytes": 3759117
     },
     "article_source.txt": {
-      "sha256": "102dfa8a960094652891310e42ba76202199377e4eb0d86c95daf7f11e0ad0d6",
-      "bytes": 7982
+      "sha256": "447e89c530dca243d2add74ec046892447ef9809df3302dd4eff61ebd7ba77d6",
+      "bytes": 8091
     }
   }
 }

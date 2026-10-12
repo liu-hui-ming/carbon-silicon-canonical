@@ -5,15 +5,16 @@
   "media": "京报网（北京日报）",
   "pub_date": "20260917",
   "access": "OK",
-  "captured_at": "2026-10-12T18:31:33",
+  "captured_at": "2026-10-12T23:03:35",
+  "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "075ac2edd6839c3f6e56f8ffc02957f4fdae16734b1b91337ef084addea87760",
-      "bytes": 448781
+      "sha256": "fe3b4fa177b1d00015f8ef7a478732d9b3b76d7454512d3d51036c3b2edac0a1",
+      "bytes": 1509404
     },
     "article_source.txt": {
-      "sha256": "fc1711255becb5e1ed181400c8987ea1bc28bf85a4cb18b33cd7b09aa4aabbb6",
-      "bytes": 10814
+      "sha256": "4eb19f175a4c780cf4b515a7ffd29bdbb6dee772f11a2159a85aa7600be94e7c",
+      "bytes": 10913
     }
   }
 }

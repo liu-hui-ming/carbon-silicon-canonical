@@ -5,15 +5,16 @@
   "media": "中国改革网",
   "pub_date": "20260929",
   "access": "OK",
-  "captured_at": "2026-10-12T18:36:04",
+  "captured_at": "2026-10-12T23:15:06",
+  "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "9bdc7a7524e56849b663787a174309be722d38eefaa591e42fb227ec9138507e",
-      "bytes": 469833
+      "sha256": "8c31a7e4efea2bcff0abe8d8bb8c3f8d04167be61afd77005b28e6f7826ae962",
+      "bytes": 1159671
     },
     "article_source.txt": {
-      "sha256": "5bdf35f451713d8d91eef75a1cd4105b8caae0c7a49ec6226043f6a869d6d4d5",
-      "bytes": 6754
+      "sha256": "34196c16d320059c6ea4e9dd26c16ab8d1c8f445c6bda581b5d74ac236e333f9",
+      "bytes": 6863
     }
   }
 }

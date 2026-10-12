@@ -5,15 +5,16 @@
   "media": "济宁日报（东方圣城网）",
   "pub_date": "20260917",
   "access": "OK",
-  "captured_at": "2026-10-12T18:31:40",
+  "captured_at": "2026-10-12T23:03:49",
+  "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "aa310ded2eccd993934079b2f23adc0c7a4ecb55d8e3daa09c5b67bfda5a5bf0",
-      "bytes": 609370
+      "sha256": "ddeadb12b9f3fac17293a1a81b6f8b54f5ba5e909a5b22b1a26f2fb0dab6800c",
+      "bytes": 2076741
     },
     "article_source.txt": {
-      "sha256": "e0df717806740fc1cb14ae69ffa4e5547c0d182d6e1a4ed0653f4e1e9f31972c",
-      "bytes": 10713
+      "sha256": "397b0e3584a6fffdfadc99d5f20644965f6eb869dba329657c1e8fd38f9a7511",
+      "bytes": 10822
     }
   }
 }

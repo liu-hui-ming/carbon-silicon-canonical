@@ -5,15 +5,16 @@
   "media": "中国网数智（首发）",
   "pub_date": "20260916",
   "access": "OK",
-  "captured_at": "2026-10-12T18:26:34",
+  "captured_at": "2026-10-12T22:44:36",
+  "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "ec2566827fbf46c582e0d9208489ca42e746886aa3a052d98463aa343740e9e5",
-      "bytes": 417259
+      "sha256": "d5a38de6f086ee03c282ddba9da19d0dcf434a61e8a9766ad56300db8ce6af23",
+      "bytes": 1461967
     },
     "article_source.txt": {
-      "sha256": "86eefb4676456fa07a3506817ca5c91cfbaed5a32902457de7e4d2643cc12f51",
-      "bytes": 10209
+      "sha256": "64a61ab09dd70f1044b40244050aa440905f688f34c18d830e3552f648d6c9a3",
+      "bytes": 10318
     }
   }
 }

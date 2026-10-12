@@ -5,15 +5,16 @@
   "media": "经济网（经济日报）",
   "pub_date": "20261008",
   "access": "OK",
-  "captured_at": "2026-10-12T18:39:11",
+  "captured_at": "2026-10-12T23:23:22",
+  "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "a59401f9268c1dd7900d4ea194e041de2d63746b56fa4cfb8a0a28f46a396b22",
-      "bytes": 438478
+      "sha256": "f72a45d70101afc8ac3761b97d25d2b345acd695df06f0b1d2a79f2838bde6e0",
+      "bytes": 1353943
     },
     "article_source.txt": {
-      "sha256": "287f072ba8ca2f23360352bb838cb0f6e8d491da7a042a89f1a4eee3cbb8e92b",
-      "bytes": 7708
+      "sha256": "bf1187cfce4d764aa5d6002086a5e8e9359b8df48d1e27ddb9fcc0ef168df9f9",
+      "bytes": 7817
     }
   }
 }

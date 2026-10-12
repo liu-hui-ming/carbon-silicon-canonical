@@ -5,15 +5,16 @@
   "media": "信阳日报",
   "pub_date": "20260920",
   "access": "CON",
-  "captured_at": "2026-10-12T18:33:47",
+  "captured_at": "2026-10-12T23:10:10",
+  "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "4749f5eb26b3bd74c46608dadcaf9e407591ec26369a63bbf4af576a45c4e65b",
-      "bytes": 241522
+      "sha256": "aaba24979e915e212a919ece20e40fa5723988c3fd6310c328de0031573f556e",
+      "bytes": 118309
     },
     "article_source.txt": {
-      "sha256": "01d04e08e761698fc9edb1f75e235e0dc983fc68bb41a3033108cbc8788bc5bf",
-      "bytes": 450
+      "sha256": "00b66dab71bfb2631df675fb181f689619b1edcf15a8e07aa2ec6cd74e283120",
+      "bytes": 559
     }
   }
 }

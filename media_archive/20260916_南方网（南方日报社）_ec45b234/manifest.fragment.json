@@ -5,15 +5,16 @@
   "media": "南方网（南方日报社）",
   "pub_date": "20260916",
   "access": "OK",
-  "captured_at": "2026-10-12T18:30:51",
+  "captured_at": "2026-10-12T23:01:50",
+  "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "616bd0cc300b0762c902b8173330e040c04a1391b7fda5117cb66423218db5a1",
-      "bytes": 453646
+      "sha256": "af3d93a6b63250154b02ad1a36ecd79fbbde06a07dcbc346b566af1dea19bcd0",
+      "bytes": 1214862
     },
     "article_source.txt": {
-      "sha256": "68d761a949b23b53b2198aaedd6eaebdb8a2d14cab7650758d2098b44d16d9e8",
-      "bytes": 7098
+      "sha256": "f720669b0bb547904f1fa0cae4da5d27e786c9c5dbcaa65e9b3640ab21579d5e",
+      "bytes": 7207
     }
   }
 }

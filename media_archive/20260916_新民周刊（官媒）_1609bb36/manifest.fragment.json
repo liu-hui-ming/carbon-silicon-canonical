@@ -5,15 +5,16 @@
   "media": "新民周刊（官媒）",
   "pub_date": "20260916",
   "access": "OK",
-  "captured_at": "2026-10-12T18:27:15",
+  "captured_at": "2026-10-12T22:46:15",
+  "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "d21105d27c20b847826f8ab636c620bd1854469c45baca01a82d61b0353dc5e3",
-      "bytes": 487348
+      "sha256": "47385b70b2668f6aab9fdaf01518daf3cf236213233f8bc263320faa97fd2939",
+      "bytes": 1910938
     },
     "article_source.txt": {
-      "sha256": "ae4e662ab57462b44d37b0472336e8ce116eadb1fa40bdfad01a16e3b1552f1e",
-      "bytes": 8056
+      "sha256": "01b77196cf38fb492c4d0e2e2e8d2224faa7b1e3add4cca3f188e46f6f4ad898",
+      "bytes": 8165
     }
   }
 }

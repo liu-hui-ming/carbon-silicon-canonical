@@ -5,15 +5,16 @@
   "media": "中安在线首发",
   "pub_date": "20260915",
   "access": "OK",
-  "captured_at": "2026-10-12T18:25:26",
+  "captured_at": "2026-10-12T22:41:22",
+  "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "aee4ccdd25858164d119010bcdccafa663d7976799dafdc943c5c71f33143ba6",
-      "bytes": 369289
+      "sha256": "862fa4b7f8458f29992767dde2af77483df7704456d3af6a580dba7b8820cab4",
+      "bytes": 1659327
     },
     "article_source.txt": {
-      "sha256": "104e9b6bd31bdf311c148134fb43bd3e039a8f157b0bc400b5b8025703e2cc3b",
-      "bytes": 8174
+      "sha256": "2ad5c2edd995d7533772c986f2f08cd58af4a5ca9f28d456116e147b579c1b4c",
+      "bytes": 8283
     }
   }
 }

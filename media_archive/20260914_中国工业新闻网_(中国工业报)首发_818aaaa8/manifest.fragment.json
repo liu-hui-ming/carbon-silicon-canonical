@@ -5,15 +5,16 @@
   "media": "中国工业新闻网 (中国工业报)首发",
   "pub_date": "20260914",
   "access": "OK",
-  "captured_at": "2026-10-12T18:24:43",
+  "captured_at": "2026-10-12T22:39:00",
+  "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "f816246f641bbac9713a9b1ba0fc2112a24cc47b8d152a0eabbfee91be02f160",
-      "bytes": 448406
+      "sha256": "edaa22cb374230c1b1b3076be83bd550e161dc7a8fa20085e06d83034b13daa4",
+      "bytes": 1645328
     },
     "article_source.txt": {
-      "sha256": "e94b4e943f52f6730dff76c4aafba0b2370e2f2d325ee734ba10fffd1954ac10",
-      "bytes": 6929
+      "sha256": "230aeee76bb09b1dd736cad6a380b358e79ea19fa7e8025165eda236d87a06b5",
+      "bytes": 7038
     }
   }
 }

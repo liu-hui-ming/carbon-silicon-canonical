@@ -5,15 +5,16 @@
   "media": "界面新闻主站",
   "pub_date": "20260915",
   "access": "OK",
-  "captured_at": "2026-10-12T18:25:29",
+  "captured_at": "2026-10-12T22:41:36",
+  "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "3c9028cb16d791fbcddf5f0405fc897db583702e2acf7f912167129d7da7e42d",
-      "bytes": 362040
+      "sha256": "b406a1d5d598db4b7906b048471413f88999431fdf2a8146c0905c3cf9b42c2d",
+      "bytes": 1092440
     },
     "article_source.txt": {
-      "sha256": "de268d97adb98a0817ec60331f7c1065cc4838bff94ddffc3c4aea373978f661",
-      "bytes": 7727
+      "sha256": "495c839be9745e516c0b3436982121d89754a478926da7d008473073150afd6a",
+      "bytes": 7856
     }
   }
 }

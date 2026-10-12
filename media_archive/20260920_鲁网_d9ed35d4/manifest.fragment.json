@@ -5,15 +5,16 @@
   "media": "鲁网",
   "pub_date": "20260920",
   "access": "OK",
-  "captured_at": "2026-10-12T18:33:34",
+  "captured_at": "2026-10-12T23:09:34",
+  "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "da59c5468254af4658b3fdadf76545a2867546ca7ef31a5b9633b55084c8f5f0",
-      "bytes": 541936
+      "sha256": "6bba2ef38fdec0e60e20277588b7a8a6a6ca9776cdb7be5622e93d3f9b074df2",
+      "bytes": 1632394
     },
     "article_source.txt": {
-      "sha256": "c2d14c91b2a15776b4f10fba3aedfc3c57a1c4edc8d3b194586223648db19833",
-      "bytes": 11581
+      "sha256": "e8ea80299c1215436ead949aff283b88de437c01a54ca7f96d5b029e0d7ff601",
+      "bytes": 11690
     }
   }
 }

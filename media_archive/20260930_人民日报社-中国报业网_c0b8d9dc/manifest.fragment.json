@@ -5,15 +5,16 @@
   "media": "人民日报社-中国报业网",
   "pub_date": "20260930",
   "access": "CON",
-  "captured_at": "2026-10-12T19:01:23",
+  "captured_at": "2026-10-12T23:15:52",
+  "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "75e746dfd5eaa26c46f0099e80d5322dc10b23bbfc5299738d0b95d608c90a04",
-      "bytes": 305146
+      "sha256": "0872a190ebf4aadce7e34698d1828e9c46cddebc4a33edc0c8b678e9a2834c1c",
+      "bytes": 116269
     },
     "article_source.txt": {
-      "sha256": "525554affc834aa6dbcd099873de2fe2f024ce2121c6b78cda1209f53835f5f5",
-      "bytes": 759
+      "sha256": "949d0470983c87cbbded72610701bc08937987e1c1eebfa5b1bdfbc447b8656e",
+      "bytes": 435
     }
   }
 }

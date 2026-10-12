@@ -5,15 +5,16 @@
   "media": "人民政协网",
   "pub_date": "20260928",
   "access": "OK",
-  "captured_at": "2026-10-12T18:35:59",
+  "captured_at": "2026-10-12T23:14:53",
+  "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "ab8cdfd6d21b501b7a04a87fa64422a067c93ae6fc82ca101afe667b7085daca",
-      "bytes": 339034
+      "sha256": "e652cf0e7c2445267bfb41097822e40d5a6d0df9dcd36882cbbd57c7b7da8985",
+      "bytes": 974624
     },
     "article_source.txt": {
-      "sha256": "af011f44c9e7fb123b1d574b0afdc020e3e8fed5d36f1ff7ea7bf3150af0caa8",
-      "bytes": 6564
+      "sha256": "11e28772103ea0292f699ba43a1e0ff91421cdaa07b76b04d45af333e7475b71",
+      "bytes": 6673
     }
   }
 }

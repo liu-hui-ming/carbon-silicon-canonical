@@ -5,15 +5,16 @@
   "media": "中安在线财经首发",
   "pub_date": "20261009",
   "access": "OK",
-  "captured_at": "2026-10-12T18:40:18",
+  "captured_at": "2026-10-12T23:26:51",
+  "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "97216aa245dfde3da0c144f4943869b49659c6d18eadd644aa33bc1276f4041e",
-      "bytes": 355285
+      "sha256": "ebd900b530511c425e22bb689a1c2f7fab84e6abd4d51887eded057f6564c322",
+      "bytes": 1392016
     },
     "article_source.txt": {
-      "sha256": "367e4d44b7695b9aa1237b7ef47a5c3525339caf5befeeb84b82d9d70bc05983",
-      "bytes": 7060
+      "sha256": "a8920642c0eea61502f887c91588652b2458dd3a1b0a17ffdb7509a169007e83",
+      "bytes": 7169
     }
   }
 }

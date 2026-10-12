@@ -5,15 +5,16 @@
   "media": "法治网（法治日报旗下）",
   "pub_date": "20260917",
   "access": "CON",
-  "captured_at": "2026-10-12T18:32:02",
+  "captured_at": "2026-10-12T23:04:57",
+  "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "777b56eaf5df0ab35deb6e49ce1de4212872b340766615211eb57e979fd0542c",
-      "bytes": 231709
+      "sha256": "99b2e460cd6114fd2bebe312e8427235103e0cbfd7b93e5c4f12473f36f9f64f",
+      "bytes": 102024
     },
     "article_source.txt": {
-      "sha256": "2a475c2aa3d439bceab3e0f4d5857e1950c3d8c04a4a81c0e8ae7a07b1f42722",
-      "bytes": 363
+      "sha256": "9737e880161c01d3f9503cfb6d1800fc1c9122f9c2193a020f6166608d030f47",
+      "bytes": 585
     }
   }
 }

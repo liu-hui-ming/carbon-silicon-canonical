@@ -5,15 +5,16 @@
   "media": "河北网络广播电视台首发",
   "pub_date": "20260918",
   "access": "OK",
-  "captured_at": "2026-10-12T18:33:06",
+  "captured_at": "2026-10-12T23:08:38",
+  "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "3f77936730076d83cc9092a22bce9605bd8ec430ef7451a85589ad553379678d",
-      "bytes": 548317
+      "sha256": "75f08ffe8c6ed788ac3044ca904fa735dd76a425b995660633dd4beddb36f16c",
+      "bytes": 2585622
     },
     "article_source.txt": {
-      "sha256": "27021ef730148e84ef8061e285f809797ec0c7113748d6c3098f5b90be56bed2",
-      "bytes": 10351
+      "sha256": "db1a1f222a050e4d750309c0425d120d8480692c324d916abebb1c2c9ce71481",
+      "bytes": 10754
     }
   }
 }

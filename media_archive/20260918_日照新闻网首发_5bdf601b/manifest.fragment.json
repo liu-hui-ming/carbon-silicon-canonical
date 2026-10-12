@@ -5,15 +5,16 @@
   "media": "日照新闻网首发",
   "pub_date": "20260918",
   "access": "OK",
-  "captured_at": "2026-10-12T18:32:57",
+  "captured_at": "2026-10-12T23:08:23",
+  "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "664672f5d7123226d22688b91dbc8c705331f524db55965154377f0e41abb56b",
-      "bytes": 370132
+      "sha256": "2be6046c4e381636e934d89770e831dc19f0b5858b5e3aeaf43de1c591581825",
+      "bytes": 1329955
     },
     "article_source.txt": {
-      "sha256": "676586679229572d5f3c12b2cf773c27f85b4258e4a08c0828dc8c036b798669",
-      "bytes": 9623
+      "sha256": "7c9deb97c10647b3a88f03c7de65650da40d59cf41db3ba5f77d5e0d39bce144",
+      "bytes": 9732
     }
   }
 }

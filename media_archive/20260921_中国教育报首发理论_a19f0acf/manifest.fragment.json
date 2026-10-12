@@ -5,15 +5,16 @@
   "media": "中国教育报首发理论",
   "pub_date": "20260921",
   "access": "OK",
-  "captured_at": "2026-10-12T18:34:03",
+  "captured_at": "2026-10-12T23:11:15",
+  "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "a0e99c2206b23bf2745004cb080d62ae3e5ac6af894a8b34a24c8cc80bd9641b",
-      "bytes": 429443
+      "sha256": "d2d7a862c8279d2f2a4fb49ec972431aa5abb0da6026528ae66e1eaaab926c7f",
+      "bytes": 1713407
     },
     "article_source.txt": {
-      "sha256": "0d94df9f068c07d7d3a4d6f5946c3f233055ff5b7d5edcb8de4adfdc99fe6965",
-      "bytes": 9248
+      "sha256": "3e3b08042fcfbc116f805a30576c7195014e1a292d3bc08f49e199ccab5f61e1",
+      "bytes": 9393
     }
   }
 }

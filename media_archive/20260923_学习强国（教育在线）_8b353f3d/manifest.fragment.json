@@ -5,15 +5,16 @@
   "media": "学习强国（教育在线）",
   "pub_date": "20260923",
   "access": "OK",
-  "captured_at": "2026-10-12T18:35:01",
+  "captured_at": "2026-10-12T23:12:48",
+  "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "b5ce0b3dc655cc3b575f2ae7131220a81c99454e726dad5a2098e80bf260a491",
-      "bytes": 342564
+      "sha256": "f17a5f849c906e661b6f73174e67dbae1204b8bef9f431288c532c54ea0141a3",
+      "bytes": 502988
     },
     "article_source.txt": {
-      "sha256": "1860cdfb76c3fa29346bab852031c7b5717c74dade09c67c406f41d8bf33a14d",
-      "bytes": 3227
+      "sha256": "4092107402c2731b288020e5f09eb1e18e660be6f0a48c307d5113d417afbb51",
+      "bytes": 3336
     }
   }
 }

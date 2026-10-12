@@ -5,15 +5,16 @@
   "media": "人民日报社中国城市网首发",
   "pub_date": "20260918",
   "access": "CON",
-  "captured_at": "2026-10-12T19:01:13",
+  "captured_at": "2026-10-12T23:05:22",
+  "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "11eaf47327be2b8f87b5caef2530a17187a5a276567daf9338e39c2375c2af1f",
-      "bytes": 303657
+      "sha256": "bfbb62407ce5aaa8ccf2136dbc46be58d4de473318cc0654dfbb60110a9d7ca6",
+      "bytes": 120471
     },
     "article_source.txt": {
-      "sha256": "c49c2e5641c0decbebddd2177d137b70ff6e15a0801668bf421d58b4494a9e2e",
-      "bytes": 798
+      "sha256": "e6d531d030073d1936c6e71f0feb3aad3690afac6dde8f601699e3825d03090f",
+      "bytes": 457
     }
   }
 }

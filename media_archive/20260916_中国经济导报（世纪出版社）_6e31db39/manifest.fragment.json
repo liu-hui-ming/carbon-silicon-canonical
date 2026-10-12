@@ -5,15 +5,16 @@
   "media": "中国经济导报（世纪出版社）",
   "pub_date": "20260916",
   "access": "OK",
-  "captured_at": "2026-10-12T18:26:43",
+  "captured_at": "2026-10-12T22:45:01",
+  "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "306b19e3e4b14ce6c28e3420b55e1fc6492bcc9a8bb69b05bc8050ebc92cf7ef",
-      "bytes": 381440
+      "sha256": "16619dca139aea4e7580755762fae16367c4930c031e3df6efecabf7ad473fca",
+      "bytes": 789801
     },
     "article_source.txt": {
-      "sha256": "7c5171c6628ea05301b26c57c10d028d2a426882d48d1e244e7448aaae125a64",
-      "bytes": 4057
+      "sha256": "2db00953cb212027804e0949f339bae10c2d773e6b1f4f07b52ccc8985b9bee5",
+      "bytes": 4166
     }
   }
 }

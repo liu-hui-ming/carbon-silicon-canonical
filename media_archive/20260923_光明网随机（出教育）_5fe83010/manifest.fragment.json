@@ -5,15 +5,16 @@
   "media": "光明网随机（出教育）",
   "pub_date": "20260923",
   "access": "OK",
-  "captured_at": "2026-10-12T18:34:58",
+  "captured_at": "2026-10-12T23:12:36",
+  "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "cd65b20fe6c1a0b0387b5c93ab1d46997a474580d8fa61440455567838701159",
-      "bytes": 540881
+      "sha256": "8386b30f4d3759237520af4861e7594821e10ba1e8f46c2fcba4966cf43c7055",
+      "bytes": 2168181
     },
     "article_source.txt": {
-      "sha256": "56434b4af2d31d6ed4ec922996b6e3742b42b40e490b0f1e38e905ef0e5d26d1",
-      "bytes": 4910
+      "sha256": "64eee1e875e4a3cf9457f64a739942aaaa975b2cca7021a1792917a4401666ab",
+      "bytes": 5019
     }
   }
 }

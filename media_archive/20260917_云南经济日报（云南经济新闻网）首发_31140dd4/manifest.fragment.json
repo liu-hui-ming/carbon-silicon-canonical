@@ -5,15 +5,16 @@
   "media": "云南经济日报（云南经济新闻网）首发",
   "pub_date": "20260917",
   "access": "OK",
-  "captured_at": "2026-10-12T18:31:27",
+  "captured_at": "2026-10-12T23:03:20",
+  "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "f87f91f26cccc28a5b042b4614ce0d5b8b32010a26f2beacf0bba93ef79e27b5",
-      "bytes": 348677
+      "sha256": "6f68bdf6d76afd6f896c94d8b39d2f647197a0ccf0d15821b93365d3f6c8f638",
+      "bytes": 1720285
     },
     "article_source.txt": {
-      "sha256": "2eb5b36d6032f5a43821c8804b170dd020f04f138d65ac48b0f73c62ae9b0f88",
-      "bytes": 12597
+      "sha256": "3659887208b3f027c6e039a6e75f91e2a1c2961bfc354ee12b913426abead779",
+      "bytes": 12706
     }
   }
 }

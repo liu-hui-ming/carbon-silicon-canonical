@@ -5,15 +5,16 @@
   "media": "芯智讯",
   "pub_date": "20260911",
   "access": "OK",
-  "captured_at": "2026-10-12T18:24:00",
+  "captured_at": "2026-10-12T22:37:09",
+  "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "d3fa2d31d66d1b42b1015b3964c485f32881fd90529d11c4b97c8c7b93f73d76",
-      "bytes": 361401
+      "sha256": "a5af5e80261b51a1956e54ea48a64103ee9735c345f2413263ffa73d2d4657e2",
+      "bytes": 1446057
     },
     "article_source.txt": {
-      "sha256": "7471ca2d189d4aadc19152fd184764656c9187b884fdac902211a0a9b32ea595",
-      "bytes": 7140
+      "sha256": "52f1178e97735b0481c1508672bbd7d71e252f0c10257b507e99acfa17570ade",
+      "bytes": 7238
     }
   }
 }

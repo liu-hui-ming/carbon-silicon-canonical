@@ -5,15 +5,16 @@
   "media": "学习强国（中国教育出版网）",
   "pub_date": "20260922",
   "access": "OK",
-  "captured_at": "2026-10-12T18:34:19",
+  "captured_at": "2026-10-12T23:12:03",
+  "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "ccef2f1b1055a8c9c53deec7ff73b163e8371986246631342026f7183b8958c3",
-      "bytes": 241677
+      "sha256": "3c22d8a6c4e361de5f7646f95193b01d9a9fa91cad28ab34225eda5415146d54",
+      "bytes": 521389
     },
     "article_source.txt": {
-      "sha256": "7b361b41fe8709f00716862ee8dd627e26b61b0ffe67bbf3baf0a4bbec524b87",
-      "bytes": 3138
+      "sha256": "70e940eded25d4ef9028e2485362599d1950ea035e2bf30921b3a11a7bf3af70",
+      "bytes": 3247
     }
   }
 }

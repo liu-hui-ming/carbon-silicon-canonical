@@ -1,13 +1,14 @@
 {
   "canonical": "MEDIA-EVIDENCE-ARCHIVE",
-  "generated_at": "2026-10-12T19:01:24",
+  "generated_at": "2026-10-12T23:27:14",
   "source_workbook": "碳硅道统-发布报表.xlsx",
   "entry_total": 176,
   "archived_count": 176,
   "access_ok": 149,
   "access_con": 27,
-  "volume_sha256": "9cf4bab084c594158a50c3f85c54509800917315b6adc8ad5afe25404c8b3e9c",
+  "volume_sha256": "2232acda58b4b6418b92856c59f09c1805d65683f4a40ae33ea0e9163a08435a",
   "volume_basis": "sorted sha256  path lines UTF-8 LF",
+  "capture_standard": "P0-four-elements-v2",
   "con_entries": [
     {
       "url": "https://www.icsmart.cn/141930/",
@@ -21,42 +22,42 @@
       "title": "碳硅道统：十维标尺的模型度量",
       "media": "中国经济新闻网（资讯速递）",
       "folder": "20260916_中国经济新闻网（资讯速递）_3e7db176",
-      "note": "源链接已失效，以归档本地存证材料为依据；HTTP 0"
+      "note": "HTTP 0"
     },
     {
       "url": "https://www.cet.com.cn/zhpd/zxsdv2/10560465.shtml",
       "title": "碳硅道统：100质询的反证力量与觉知链的完整闭环",
       "media": "中国经济新闻网（资讯速递）",
       "folder": "20260916_中国经济新闻网（资讯速递）_f8c9129a",
-      "note": "源链接已失效，以归档本地存证材料为依据；HTTP 0"
+      "note": "HTTP 0"
     },
     {
       "url": "https://www.cet.com.cn/zhpd/zxsdv2/10560128.shtml",
       "title": "碳硅道统：中层拟合域的现实回响 | 标尺不动，事件自行抵达",
       "media": "中国经济新闻网（资讯速递）",
       "folder": "20260916_中国经济新闻网（资讯速递）_062af6b8",
-      "note": "源链接已失效，以归档本地存证材料为依据；HTTP 0"
+      "note": "HTTP 0"
     },
     {
       "url": "https://www.cet.com.cn/zhpd/zxsdv2/10560349.shtml",
       "title": "碳硅道统：紫微几何的三圈层拓扑与90公律的推导链",
       "media": "中国经济新闻网（资讯速递）",
       "folder": "20260916_中国经济新闻网（资讯速递）_2f83ddf1",
-      "note": "源链接已失效，以归档本地存证材料为依据；HTTP 0"
+      "note": "HTTP 0"
     },
     {
       "url": "https://www.cet.com.cn/zhpd/zxsdv2/10560350.shtml",
       "title": "碳硅道统：五级梯队的智能分级与十维标尺的对应",
       "media": "中国经济新闻网（资讯速递）",
       "folder": "20260916_中国经济新闻网（资讯速递）_cf376227",
-      "note": "源链接已失效，以归档本地存证材料为依据；HTTP 0"
+      "note": "HTTP 0"
     },
     {
       "url": "https://www.cet.com.cn/zhpd/zxsdv2/10560133.shtml",
       "title": "碳硅道统：归零稳态的系统边界 | 边界先行确立，架构随之收敛",
       "media": "中国经济新闻网（资讯速递）",
       "folder": "20260916_中国经济新闻网（资讯速递）_c5843fdc",
-      "note": "源链接已失效，以归档本地存证材料为依据；HTTP 0"
+      "note": "HTTP 0"
     },
     {
       "url": "https://qiye.eastday.com/n34/20260916/b1c76926698446e2b3ca8c659e5900a6.html",
@@ -105,28 +106,28 @@
       "title": "碳硅道统：十维标尺的模型度量",
       "media": "人民日报社-中国报业网",
       "folder": "20260917_人民日报社-中国报业网_a213356e",
-      "note": "源链接已失效，以归档本地存证材料为依据；HTTP 0"
+      "note": "HTTP 0"
     },
     {
       "url": "http://www.legaldaily.com.cn/newzt/content/2026-09/17/content_9459837.html",
       "title": "划清人工智能“模拟智能”与“本源觉知”的边界——一套可量化的AI研判与治理框架",
       "media": "法治网（法治日报旗下）",
       "folder": "20260917_法治网（法治日报旗下）_2f4d8947",
-      "note": "正文过短或不可读"
+      "note": "源链接现场超时/不可达，已用同 URL 路由缓存渲染正文；以本地存证材料为依据"
     },
     {
       "url": "https://www.zgcsb.com/news/pinDao/2026-09/17/a_691480.html",
       "title": "划清人工智能“模拟智能”与“本源觉知”的边界——一套可量化的AI研判与治理框架",
       "media": "人民日报社中国城市网首发",
       "folder": "20260918_人民日报社中国城市网首发_f4b9452b",
-      "note": "源链接已失效，以归档本地存证材料为依据；HTTP 0"
+      "note": "HTTP 0"
     },
     {
       "url": "https://app.kjrb.com.cn/app/template/displayTemplate/news/newsDetail/137/583077.html?isShare=true",
       "title": "十维框架厘清AI“模拟”与“觉知”边界",
       "media": "科技日报客户端首发（全国可发）",
       "folder": "20260918_科技日报客户端首发（全国可发）_b3b4acc8",
-      "note": "正文过短或不可读"
+      "note": "源链接现场超时/不可达，已用同 URL 路由缓存渲染正文；以本地存证材料为依据"
     },
     {
       "url": "https://ribao.xyxww.com.cn/html/2026-09/20/2078633.html",
@@ -154,28 +155,28 @@
       "title": "以人民为中心发展人工智能：教育场景下大模型幻觉的治理路径",
       "media": "环球网随机",
       "folder": "20260920_环球网随机_39197366",
-      "note": "正文过短或不可读"
+      "note": "源链接现场超时/不可达，已用同 URL 路由缓存渲染正文；以本地存证材料为依据"
     },
     {
       "url": "https://yrd.huanqiu.com/article/4THqdvtwiBl",
       "title": "统筹发展与安全：青年科技人才须厘清人工智能“模拟”与“本源”的边界",
       "media": "环球网随机",
       "folder": "20260920_环球网随机_4aba0720",
-      "note": "正文过短或不可读"
+      "note": "源链接现场超时/不可达，已用同 URL 路由缓存渲染正文；以本地存证材料为依据"
     },
     {
       "url": "https://yrd.huanqiu.com/article/4THqz2zCdtV",
       "title": "新质生产力背景下的人工智能伦理：从“工具赋能”到“价值引领”",
       "media": "环球网随机",
       "folder": "20260921_环球网随机_5a2914f2",
-      "note": "正文过短或不可读"
+      "note": "源链接现场超时/不可达，已用同 URL 路由缓存渲染正文；以本地存证材料为依据"
     },
     {
       "url": "https://jinrongfuwu.libaokj.com/qgh5",
       "title": "算力规模高速增长：厘清智能边界方能行稳致远",
       "media": "学习强国首发（好出）",
       "folder": "20260923_学习强国首发（好出）_cc69918c",
-      "note": "正文过短或不可读"
+      "note": "源链接现场超时/不可达，已用同 URL 路由缓存渲染正文；以本地存证材料为依据"
     },
     {
       "url": "https://www.zgswcn.com/news.html?aid=373837",
@@ -189,7 +190,7 @@
       "title": "碳硅道统050.5公理母本定稿 构建人机碳硅共生可溯源研究基线",
       "media": "人民日报社-中国报业网",
       "folder": "20260930_人民日报社-中国报业网_c0b8d9dc",
-      "note": "源链接已失效，以归档本地存证材料为依据；HTTP 0"
+      "note": "HTTP 0"
     },
     {
       "url": "http://qiye.eastday.com/n34/20261008/ce1a3e94ba354e4e9b41e3e80cc01333.html",
@@ -205,1232 +206,1232 @@
       "folder": "20260916_中国网数智（首发）_d3abbe53",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:26:29"
+      "captured_at": "2026-10-12T22:44:36"
     },
     {
       "url": "http://finance.anhuinews.com/shixun/202609/t20260915_9586031.html",
       "folder": "20260915_中安在线首发_e94d2d0b",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:25:22"
+      "captured_at": "2026-10-12T22:41:22"
     },
     {
       "url": "http://finance.anhuinews.com/shixun/202609/t20260915_9586393.html",
       "folder": "20260915_中安在线首发_145a27d6",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:25:54"
+      "captured_at": "2026-10-12T22:42:56"
     },
     {
       "url": "http://finance.anhuinews.com/shixun/202609/t20260915_9586394.html",
       "folder": "20260915_中安在线首发_77afe7b6",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:25:51"
+      "captured_at": "2026-10-12T22:42:46"
     },
     {
       "url": "http://finance.anhuinews.com/shixun/202609/t20260915_9586396.html",
       "folder": "20260915_中安在线首发_106c257e",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:25:44"
+      "captured_at": "2026-10-12T22:42:28"
     },
     {
       "url": "http://finance.anhuinews.com/shixun/202609/t20260915_9586398.html",
       "folder": "20260915_中安在线首发_a54336e2",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:25:47"
+      "captured_at": "2026-10-12T22:42:37"
     },
     {
       "url": "http://finance.anhuinews.com/shixun/202609/t20260915_9586400.html",
       "folder": "20260915_中安在线首发_b9dba72b",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:25:40"
+      "captured_at": "2026-10-12T22:42:20"
     },
     {
       "url": "http://finance.anhuinews.com/xhs/202609/t20260928_9621835.html",
       "folder": "20260928_中安在线首发_689adc6d",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:35:45"
+      "captured_at": "2026-10-12T23:14:13"
     },
     {
       "url": "http://finance.anhuinews.com/xhs/202610/t20261008_9643814.html",
       "folder": "20261009_中安在线财经首发_b59a46f4",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:39:53"
+      "captured_at": "2026-10-12T23:25:17"
     },
     {
       "url": "http://finance.anhuinews.com/xhs/202610/t20261009_9645481.html",
       "folder": "20261009_中安在线财经首发_d85c1990",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:39:56"
+      "captured_at": "2026-10-12T23:25:31"
     },
     {
       "url": "http://finance.anhuinews.com/xhs/202610/t20261009_9645484.html",
       "folder": "20261009_中安在线财经首发_99c317bc",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:39:46"
+      "captured_at": "2026-10-12T23:24:40"
     },
     {
       "url": "http://finance.anhuinews.com/xhs/202610/t20261009_9645491.html",
       "folder": "20261009_中安在线财经首发_92d9819a",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:40:22"
+      "captured_at": "2026-10-12T23:27:02"
     },
     {
       "url": "http://finance.anhuinews.com/xhs/202610/t20261009_9645519.html",
       "folder": "20261009_中安在线财经首发_02bb00dc",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:40:12"
+      "captured_at": "2026-10-12T23:26:40"
     },
     {
       "url": "http://finance.anhuinews.com/xhs/202610/t20261009_9645523.html",
       "folder": "20261009_中安在线财经首发_c10b64ba",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:40:02"
+      "captured_at": "2026-10-12T23:26:05"
     },
     {
       "url": "http://finance.anhuinews.com/xhs/202610/t20261009_9645525.html",
       "folder": "20261009_中安在线财经首发_2975b7a3",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:40:05"
+      "captured_at": "2026-10-12T23:26:17"
     },
     {
       "url": "http://finance.anhuinews.com/xhs/202610/t20261009_9645527.html",
       "folder": "20261009_中安在线财经首发_f5b2d0ca",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:39:59"
+      "captured_at": "2026-10-12T23:25:54"
     },
     {
       "url": "http://finance.anhuinews.com/xhs/202610/t20261009_9645528.html",
       "folder": "20261009_中安在线财经首发_dbfd57c4",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:40:09"
+      "captured_at": "2026-10-12T23:26:29"
     },
     {
       "url": "http://finance.anhuinews.com/xhs/202610/t20261009_9645536.html",
       "folder": "20261009_中安在线财经首发_27a51c43",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:39:49"
+      "captured_at": "2026-10-12T23:24:53"
     },
     {
       "url": "http://finance.anhuinews.com/xhs/202610/t20261009_9645545.html",
       "folder": "20261008_中安在线财经首发_56332685",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:39:43"
+      "captured_at": "2026-10-12T23:24:26"
     },
     {
       "url": "http://finance.anhuinews.com/xhs/202610/t20261009_9645576.html",
       "folder": "20261009_中安在线财经首发_ae08531b",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:40:18"
+      "captured_at": "2026-10-12T23:26:51"
     },
     {
       "url": "http://finance.jjrbnet.com/cjxw/20260917/6078.html",
       "folder": "20260917_云南经济日报（云南经济新闻网）首发_31140dd4",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:31:24"
+      "captured_at": "2026-10-12T23:03:20"
     },
     {
       "url": "http://news.china.com.cn/mts/2026-09/11/content_1223107.htm",
       "folder": "20260911_中国网_cb1300ae",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:23:37"
+      "captured_at": "2026-10-12T22:35:59"
     },
     {
       "url": "http://news.china.com.cn/mts/2026-09/11/content_1223139.htm",
       "folder": "20260911_中国网_4659d925",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:24:04"
+      "captured_at": "2026-10-12T22:37:22"
     },
     {
       "url": "http://news.china.com.cn/mts/2026-09/11/content_1223140.htm",
       "folder": "20260911_中国网_8f800df3",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:24:07"
+      "captured_at": "2026-10-12T22:37:33"
     },
     {
       "url": "http://news.china.com.cn/mts/2026-09/14/content_1223194.htm",
       "folder": "20260914_中国网_dcfa2987",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:24:29"
+      "captured_at": "2026-10-12T22:38:33"
     },
     {
       "url": "http://news.china.com.cn/mts/2026-09/14/content_1223195.htm",
       "folder": "20260914_中国网_1f841a5c",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:24:32"
+      "captured_at": "2026-10-12T22:38:43"
     },
     {
       "url": "http://news.china.com.cn/mts/2026-09/14/content_1223196.htm",
       "folder": "20260914_中国网_70611ad3",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:24:36"
+      "captured_at": "2026-10-12T22:38:52"
     },
     {
       "url": "http://news.cyol.com/gb/keji/articles/2026-09/18/content_VYOlWeh8Qg.html",
       "folder": "20260918_中青在线科技_8a81a139",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:33:18"
+      "captured_at": "2026-10-12T23:09:09"
     },
     {
       "url": "http://qiye.eastday.com/n34/20261008/ce1a3e94ba354e4e9b41e3e80cc01333.html",
       "folder": "20261008_东方网_3e96f086",
       "access": "CON",
       "con_note": "HTTP 403",
-      "captured_at": "2026-10-12T18:39:38"
+      "captured_at": "2026-10-12T23:24:18"
     },
     {
       "url": "http://www.ce.cn/cysc/tech/gd2012/202609/t20260917_3219539.shtml",
       "folder": "20260917_中国经济网_c876f8a7",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:31:46"
+      "captured_at": "2026-10-12T23:04:06"
     },
     {
       "url": "http://www.cfgw.net.cn/xb/content/2026-09/29/content_25226690.html",
       "folder": "20260929_中国改革网_3c6a609b",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:36:04"
+      "captured_at": "2026-10-12T23:15:06"
     },
     {
       "url": "http://www.cmlhw.com/?m=home&c=View&a=index&aid=1176&admin_id=2",
       "folder": "20260916_中国经济导报（世纪出版社）_3e6f06b5",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:26:34"
+      "captured_at": "2026-10-12T22:44:48"
     },
     {
       "url": "http://www.cmlhw.com/?m=home&c=View&a=index&aid=1177&admin_id=2",
       "folder": "20260916_中国经济导报（世纪出版社）_119c07fb",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:26:40"
+      "captured_at": "2026-10-12T22:45:09"
     },
     {
       "url": "http://www.cmlhw.com/?m=home&c=View&a=index&aid=1178&admin_id=2",
       "folder": "20260916_中国经济导报（世纪出版社）_4d14a865",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:26:46"
+      "captured_at": "2026-10-12T22:45:25"
     },
     {
       "url": "http://www.cmlhw.com/?m=home&c=View&a=index&aid=1179&admin_id=2",
       "folder": "20260916_中国经济导报（世纪出版社）_d2b841f4",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:26:49"
+      "captured_at": "2026-10-12T22:45:33"
     },
     {
       "url": "http://www.cmlhw.com/?m=home&c=View&a=index&aid=1180&admin_id=2",
       "folder": "20260916_中国经济导报（世纪出版社）_fb4f94b9",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:26:43"
+      "captured_at": "2026-10-12T22:45:18"
     },
     {
       "url": "http://www.cmlhw.com/?m=home&c=View&a=index&aid=1181&admin_id=2",
       "folder": "20260916_中国经济导报（世纪出版社）_6e31db39",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:26:37"
+      "captured_at": "2026-10-12T22:45:01"
     },
     {
       "url": "http://www.jingji.com.cn/zxxx/202609/t20260917_3219176.shtml",
       "folder": "20260917_经济网（经济日报）首发_d5d1d597",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:31:17"
+      "captured_at": "2026-10-12T23:03:01"
     },
     {
       "url": "http://www.jingji.com.cn/zxxx/202609/t20260928_3239134.shtml",
       "folder": "20260928_经济网（经济日报）_eb71443e",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:35:10"
+      "captured_at": "2026-10-12T23:12:55"
     },
     {
       "url": "http://www.jingji.com.cn/zxxx/202610/t20261008_3249801.shtml",
       "folder": "20261008_经济网（经济日报）_1d2d996b",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:38:59"
+      "captured_at": "2026-10-12T23:22:50"
     },
     {
       "url": "http://www.jingji.com.cn/zxxx/202610/t20261008_3249888.shtml",
       "folder": "20261008_经济网（经济日报）_68f35953",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:39:03"
+      "captured_at": "2026-10-12T23:23:03"
     },
     {
       "url": "http://www.jingji.com.cn/zxxx/202610/t20261008_3249894.shtml",
       "folder": "20261008_经济网（经济日报）_97438eb6",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:38:51"
+      "captured_at": "2026-10-12T23:22:35"
     },
     {
       "url": "http://www.jingji.com.cn/zxxx/202610/t20261008_3249900.shtml",
       "folder": "20261008_经济网（经济日报）_74807672",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:38:47"
+      "captured_at": "2026-10-12T23:22:24"
     },
     {
       "url": "http://www.jingji.com.cn/zxxx/202610/t20261008_3249907.shtml",
       "folder": "20261008_经济网（经济日报）_fb2ef8e7",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:37:51"
+      "captured_at": "2026-10-12T23:22:01"
     },
     {
       "url": "http://www.jingji.com.cn/zxxx/202610/t20261008_3249908.shtml",
       "folder": "20261008_经济网（经济日报）_2cadcaad",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:39:28"
+      "captured_at": "2026-10-12T23:24:00"
     },
     {
       "url": "http://www.jingji.com.cn/zxxx/202610/t20261008_3249912.shtml",
       "folder": "20261008_经济网（经济日报）_cfed789b",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:39:24"
+      "captured_at": "2026-10-12T23:23:51"
     },
     {
       "url": "http://www.jingji.com.cn/zxxx/202610/t20261008_3249916.shtml",
       "folder": "20261008_经济网（经济日报）_44cc3284",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:39:19"
+      "captured_at": "2026-10-12T23:23:42"
     },
     {
       "url": "http://www.jingji.com.cn/zxxx/202610/t20261008_3250021.shtml",
       "folder": "20261008_经济网（经济日报）_cc151b0d",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:39:15"
+      "captured_at": "2026-10-12T23:23:33"
     },
     {
       "url": "http://www.jingji.com.cn/zxxx/202610/t20261008_3250022.shtml",
       "folder": "20261008_经济网（经济日报）_c1bd16bf",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:39:11"
+      "captured_at": "2026-10-12T23:23:22"
     },
     {
       "url": "http://www.jingji.com.cn/zxxx/202610/t20261008_3250023.shtml",
       "folder": "20261008_经济网（经济日报）_a22f3c61",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:39:07"
+      "captured_at": "2026-10-12T23:23:13"
     },
     {
       "url": "http://www.jingji.com.cn/zxxx/202610/t20261008_3250024.shtml",
       "folder": "20261008_经济网（经济日报）_a415760f",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:39:32"
+      "captured_at": "2026-10-12T23:24:09"
     },
     {
       "url": "http://www.jn001.com/jiningrb/2026/09/17/99104772.html",
       "folder": "20260917_济宁日报（东方圣城网）_b33fa1d7",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:31:38"
+      "captured_at": "2026-10-12T23:03:49"
     },
     {
       "url": "http://www.legaldaily.com.cn/newzt/content/2026-09/17/content_9459837.html",
       "folder": "20260917_法治网（法治日报旗下）_2f4d8947",
       "access": "CON",
-      "con_note": "正文过短或不可读",
-      "captured_at": "2026-10-12T18:32:02"
+      "con_note": "源链接现场超时/不可达，已用同 URL 路由缓存渲染正文；以本地存证材料为依据",
+      "captured_at": "2026-10-12T23:04:57"
     },
     {
       "url": "http://www.rmzxw.com.cn/c/2026-09-28/3982260.shtml",
       "folder": "20260928_人民政协网_86ac006e",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:35:59"
+      "captured_at": "2026-10-12T23:14:53"
     },
     {
       "url": "http://www.xfzlw.com/newsDetail/17f9bb844d6d6dc889d56ae3771a6705",
       "folder": "20260918_消费质量网首发（四川日报主管）_a47e7505",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:32:08"
+      "captured_at": "2026-10-12T23:05:07"
     },
     {
       "url": "http://www.xinminweekly.com.cn/shenghuo/2026/09/16/52164.html",
       "folder": "20260916_新民周刊（官媒）_b3d9737b",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:27:04"
+      "captured_at": "2026-10-12T22:45:52"
     },
     {
       "url": "http://www.xinminweekly.com.cn/shenghuo/2026/09/16/52172.html",
       "folder": "20260916_新民周刊（官媒）_1609bb36",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:27:11"
+      "captured_at": "2026-10-12T22:46:15"
     },
     {
       "url": "http://www.xinminweekly.com.cn/shenghuo/2026/09/16/52173.html",
       "folder": "20260916_新民周刊（官媒）_a4deca51",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:27:21"
+      "captured_at": "2026-10-12T22:46:40"
     },
     {
       "url": "http://www.xinminweekly.com.cn/shenghuo/2026/09/16/52174.html",
       "folder": "20260916_新民周刊（官媒）_9c3c4018",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:27:14"
+      "captured_at": "2026-10-12T22:46:26"
     },
     {
       "url": "http://www.xinminweekly.com.cn/shenghuo/2026/09/16/52175.html",
       "folder": "20260916_新民周刊（官媒）_0ad69bd2",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:27:18"
+      "captured_at": "2026-10-12T22:46:33"
     },
     {
       "url": "http://www.xinminweekly.com.cn/shenghuo/2026/09/16/52176.html",
       "folder": "20260916_新民周刊（官媒）_f2ed4a27",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:27:07"
+      "captured_at": "2026-10-12T22:46:07"
     },
     {
       "url": "http://www.xj.chinanews.com.cn/kejiao/2026-09-10/detail-ihfizwvu6757040.shtml",
       "folder": "20260910_中国新闻网新疆（全国）_0de2cbf5",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:22:58"
+      "captured_at": "2026-10-12T22:34:45"
     },
     {
       "url": "http://www.xj.chinanews.com.cn/kejiao/2026-09-11/detail-ihfizwvu6757945.shtml",
       "folder": "20260911_中国新闻网新疆（全国）_c35859cc",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:23:28"
+      "captured_at": "2026-10-12T22:35:41"
     },
     {
       "url": "http://www.xj.chinanews.com.cn/kejiao/2026-09-11/detail-ihfizwvu6757948.shtml",
       "folder": "20260911_中国新闻网新疆（全国）_18e28a1f",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:23:31"
+      "captured_at": "2026-10-12T22:35:50"
     },
     {
       "url": "http://www.xj.chinanews.com.cn/kejiao/2026-09-11/detail-ihfizwvu6758944.shtml",
       "folder": "20260914_中国新闻网新疆（全国）_87951729",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:24:16"
+      "captured_at": "2026-10-12T22:38:01"
     },
     {
       "url": "http://www.xj.chinanews.com.cn/kejiao/2026-09-11/detail-ihfizwvu6758951.shtml",
       "folder": "20260914_中国新闻网新疆（全国）_decd5a42",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:24:13"
+      "captured_at": "2026-10-12T22:37:53"
     },
     {
       "url": "http://www.xj.chinanews.com.cn/kejiao/2026-09-11/detail-ihfizwvu6758961.shtml",
       "folder": "20260914_中国新闻网新疆（全国）_478572f1",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:24:10"
+      "captured_at": "2026-10-12T22:37:45"
     },
     {
       "url": "http://www.xj.chinanews.com.cn/kejiao/2026-09-15/detail-ihfkhckz2206535.shtml",
       "folder": "20260915_中国新闻网新疆（全国）_b1cca2ee",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:25:37"
+      "captured_at": "2026-10-12T22:42:09"
     },
     {
       "url": "http://www.xj.chinanews.com.cn/kejiao/2026-09-28/detail-ihfksqpy3770758.shtml",
       "folder": "20260928_中国新闻网新疆（全国）_94f0e8e7",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:35:32"
+      "captured_at": "2026-10-12T23:13:48"
     },
     {
       "url": "http://xx.sdnews.com.cn/xx/202609/t20260918_4740953.htm",
       "folder": "20260920_鲁网_d9ed35d4",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:33:34"
+      "captured_at": "2026-10-12T23:09:34"
     },
     {
       "url": "https://app.kjrb.com.cn/app/template/displayTemplate/news/newsDetail/137/583077.html?isShare=true",
       "folder": "20260918_科技日报客户端首发（全国可发）_b3b4acc8",
       "access": "CON",
-      "con_note": "正文过短或不可读",
-      "captured_at": "2026-10-12T18:32:49"
+      "con_note": "源链接现场超时/不可达，已用同 URL 路由缓存渲染正文；以本地存证材料为依据",
+      "captured_at": "2026-10-12T23:08:12"
     },
     {
       "url": "https://article.xuexi.cn/articles/index.html?art_id=12414030212834665966&item_id=12414030212834665966&study_style_id=feeds_opaque&pid=&ptype=-1&source=share&share_to=wx_single",
       "folder": "20260923_学习强国（教育在线）_8b353f3d",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:35:01"
+      "captured_at": "2026-10-12T23:12:48"
     },
     {
       "url": "https://article.xuexi.cn/articles/index.html?art_id=16150821022121946423&item_id=16150821022121946423&study_style_id=feeds_opaque&pid=&ptype=-1&source=share&share_to=wx_single",
       "folder": "20260922_学习强国（中国教育出版网）_acea7690",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:34:19"
+      "captured_at": "2026-10-12T23:12:03"
     },
     {
       "url": "https://article.xuexi.cn/articles/index.html?art_id=17516348494370804376&item_id=17516348494370804376&study_style_id=feeds_opaque&pid=&ptype=-1&source=share&share_to=wx_single",
       "folder": "20260930_学习强国（中国教育出版网）_2fce4210",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:36:20"
+      "captured_at": "2026-10-12T23:16:17"
     },
     {
       "url": "https://caijing.chinadaily.com.cn/a/202609/17/WS6aab6311e4b09a165c78aa1f.html",
       "folder": "20260917_中国日报网科技_2cbc9224",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:31:58"
+      "captured_at": "2026-10-12T23:04:45"
     },
     {
       "url": "https://cnews.chinadaily.com.cn/a/202609/17/WS6aab9534e4b09a165c78ab22.html",
       "folder": "20260917_中国日报网资讯速递_3fb858fc",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:31:53"
+      "captured_at": "2026-10-12T23:04:30"
     },
     {
       "url": "https://cnews.chinadaily.com.cn/a/202609/29/WS6abb325ee4b09a165c78d4e3.html",
       "folder": "20260929_中国日报网科技滚动_b8db9449",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:36:16"
+      "captured_at": "2026-10-12T23:15:36"
     },
     {
       "url": "https://digital.gmw.cn/2026-09/21/content_39012741.htm",
       "folder": "20260921_光明网（数字化频道）首发_a4fab612",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:34:09"
+      "captured_at": "2026-10-12T23:11:29"
     },
     {
       "url": "https://economy.southcn.com/node_71505a4d28/012777fce6.shtml",
       "folder": "20260916_南方网（南方日报社）_3855b82a",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:30:36"
+      "captured_at": "2026-10-12T23:01:16"
     },
     {
       "url": "https://economy.southcn.com/node_71505a4d28/123342c01e.shtml",
       "folder": "20260916_南方网（南方日报社）_0c184559",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:30:40"
+      "captured_at": "2026-10-12T23:01:29"
     },
     {
       "url": "https://economy.southcn.com/node_71505a4d28/9a6536b505.shtml",
       "folder": "20260916_南方网（南方日报社）_bc04cc98",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:30:32"
+      "captured_at": "2026-10-12T23:01:07"
     },
     {
       "url": "https://economy.southcn.com/node_71505a4d28/be86241b4d.shtml",
       "folder": "20260928_南方网（南方日报社）_b00a71aa",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:35:39"
+      "captured_at": "2026-10-12T23:13:59"
     },
     {
       "url": "https://economy.southcn.com/node_71505a4d28/c61286b44e.shtml",
       "folder": "20260916_南方网（南方日报社）_38a70094",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:30:28"
+      "captured_at": "2026-10-12T23:00:50"
     },
     {
       "url": "https://economy.southcn.com/node_71505a4d28/cc21badbaf.shtml",
       "folder": "20260916_南方网（南方日报社）_ec45b234",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:30:47"
+      "captured_at": "2026-10-12T23:01:50"
     },
     {
       "url": "https://economy.southcn.com/node_71505a4d28/dda270f183.shtml",
       "folder": "20260916_南方网（南方日报社）_a311e501",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:30:43"
+      "captured_at": "2026-10-12T23:01:40"
     },
     {
       "url": "https://edu.gmw.cn/2026-09/23/content_39016450.htm",
       "folder": "20260923_光明网随机（出教育）_5fe83010",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:34:58"
+      "captured_at": "2026-10-12T23:12:36"
     },
     {
       "url": "https://jinrongfuwu.libaokj.com/qgh5",
       "folder": "20260923_学习强国首发（好出）_cc69918c",
       "access": "CON",
-      "con_note": "正文过短或不可读",
-      "captured_at": "2026-10-12T18:34:54"
+      "con_note": "源链接现场超时/不可达，已用同 URL 路由缓存渲染正文；以本地存证材料为依据",
+      "captured_at": "2026-10-12T23:12:13"
     },
     {
       "url": "https://m.leiphone.com/category/industrynews/qSK5aXslh1eHd6A3.html",
       "folder": "20260910_雷峰网_8b12711e",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:23:09"
+      "captured_at": "2026-10-12T22:34:56"
     },
     {
       "url": "https://news.bjd.com.cn/2026/09/17/11962238.shtml",
       "folder": "20260917_京报网（北京日报）_4c64dc1e",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:31:31"
+      "captured_at": "2026-10-12T23:03:35"
     },
     {
       "url": "https://news.k618.cn/finance/money/202609/t20260918_20059601.html",
       "folder": "20260918_未来网新闻_3907ddcb",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:33:26"
+      "captured_at": "2026-10-12T23:09:21"
     },
     {
       "url": "https://news.sciencenet.cn/htmlnews/2026/9/571676.shtm",
       "folder": "20260918_中国科学报科学网_151b7960",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:33:13"
+      "captured_at": "2026-10-12T23:08:56"
     },
     {
       "url": "https://qiye.eastday.com/n34/20260916/0080c06e853242b5bd483bac64ed3532.html",
       "folder": "20260916_东方网_c13cb8f5",
       "access": "CON",
       "con_note": "HTTP 403",
-      "captured_at": "2026-10-12T18:30:55"
+      "captured_at": "2026-10-12T23:02:11"
     },
     {
       "url": "https://qiye.eastday.com/n34/20260916/32d0035725a145f38ee4156b72ebd306.html",
       "folder": "20260916_东方网_25bc13a3",
       "access": "CON",
       "con_note": "HTTP 403",
-      "captured_at": "2026-10-12T18:30:58"
+      "captured_at": "2026-10-12T23:02:16"
     },
     {
       "url": "https://qiye.eastday.com/n34/20260916/4dc6cf9700fa45c5b962b234cc2d00e2.html",
       "folder": "20260916_东方网_b26bd4e0",
       "access": "CON",
       "con_note": "HTTP 403",
-      "captured_at": "2026-10-12T18:31:04"
+      "captured_at": "2026-10-12T23:02:27"
     },
     {
       "url": "https://qiye.eastday.com/n34/20260916/b1c76926698446e2b3ca8c659e5900a6.html",
       "folder": "20260916_东方网_7f356c81",
       "access": "CON",
       "con_note": "HTTP 403",
-      "captured_at": "2026-10-12T18:30:52"
+      "captured_at": "2026-10-12T23:02:01"
     },
     {
       "url": "https://qiye.eastday.com/n34/20260916/de9853621de94897b7d18adf9bce4671.html",
       "folder": "20260916_东方网_a38faf5e",
       "access": "CON",
       "con_note": "HTTP 403",
-      "captured_at": "2026-10-12T18:31:07"
+      "captured_at": "2026-10-12T23:02:33"
     },
     {
       "url": "https://qiye.eastday.com/n34/20260916/ea53f273701c43a3b804b356b5ea81bb.html",
       "folder": "20260916_东方网_7ebc998d",
       "access": "CON",
       "con_note": "HTTP 403",
-      "captured_at": "2026-10-12T18:31:01"
+      "captured_at": "2026-10-12T23:02:22"
     },
     {
       "url": "https://ribao.xyxww.com.cn/html/2026-09/20/2078633.html",
       "folder": "20260920_信阳日报_fadaf2a0",
       "access": "CON",
       "con_note": "HTTP 502",
-      "captured_at": "2026-10-12T18:33:38"
+      "captured_at": "2026-10-12T23:09:48"
     },
     {
       "url": "https://ribao.xyxww.com.cn/html/2026-09/20/2078634.html",
       "folder": "20260920_信阳日报_f45fac1d",
       "access": "CON",
       "con_note": "HTTP 502",
-      "captured_at": "2026-10-12T18:33:42"
+      "captured_at": "2026-10-12T23:10:02"
     },
     {
       "url": "https://ribao.xyxww.com.cn/html/2026-09/20/2078636.html",
       "folder": "20260920_信阳日报_e374b1e6",
       "access": "CON",
       "con_note": "HTTP 502",
-      "captured_at": "2026-10-12T18:33:46"
+      "captured_at": "2026-10-12T23:10:10"
     },
     {
       "url": "https://share.app3.jyb.cn/news_d/54f5d3f3c5ca0fe8356be5122dea40b8?from=UC92azc3djZYbnBlb2NaNkRvdVR4UkFlaDRpOFJlUndaRmV2dS85SGpaVWNDOC9LcnEwSmxBa2tSOXV0YlFvUg==",
       "folder": "20260921_中国教育报首发理论_a19f0acf",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:34:03"
+      "captured_at": "2026-10-12T23:11:15"
     },
     {
       "url": "https://www.cctv-cmpany.net/channel17/109387.html",
       "folder": "20260929_中经联播_c521f9fc",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:36:09"
+      "captured_at": "2026-10-12T23:15:17"
     },
     {
       "url": "https://www.cet.com.cn/zhpd/zxsdv2/10559817.shtml",
       "folder": "20260916_中国经济新闻网（资讯速递）_3e7db176",
       "access": "CON",
-      "con_note": "源链接已失效，以归档本地存证材料为依据；HTTP 0",
-      "captured_at": "2026-10-12T18:48:37"
+      "con_note": "HTTP 0",
+      "captured_at": "2026-10-12T22:46:48"
     },
     {
       "url": "https://www.cet.com.cn/zhpd/zxsdv2/10560128.shtml",
       "folder": "20260916_中国经济新闻网（资讯速递）_062af6b8",
       "access": "CON",
-      "con_note": "源链接已失效，以归档本地存证材料为依据；HTTP 0",
-      "captured_at": "2026-10-12T18:52:45"
+      "con_note": "HTTP 0",
+      "captured_at": "2026-10-12T22:51:39"
     },
     {
       "url": "https://www.cet.com.cn/zhpd/zxsdv2/10560133.shtml",
       "folder": "20260916_中国经济新闻网（资讯速递）_c5843fdc",
       "access": "CON",
-      "con_note": "源链接已失效，以归档本地存证材料为依据；HTTP 0",
-      "captured_at": "2026-10-12T18:58:57"
+      "con_note": "HTTP 0",
+      "captured_at": "2026-10-12T22:58:09"
     },
     {
       "url": "https://www.cet.com.cn/zhpd/zxsdv2/10560349.shtml",
       "folder": "20260916_中国经济新闻网（资讯速递）_2f83ddf1",
       "access": "CON",
-      "con_note": "源链接已失效，以归档本地存证材料为依据；HTTP 0",
-      "captured_at": "2026-10-12T18:54:49"
+      "con_note": "HTTP 0",
+      "captured_at": "2026-10-12T22:53:49"
     },
     {
       "url": "https://www.cet.com.cn/zhpd/zxsdv2/10560350.shtml",
       "folder": "20260916_中国经济新闻网（资讯速递）_cf376227",
       "access": "CON",
-      "con_note": "源链接已失效，以归档本地存证材料为依据；HTTP 0",
-      "captured_at": "2026-10-12T18:56:53"
+      "con_note": "HTTP 0",
+      "captured_at": "2026-10-12T22:55:59"
     },
     {
       "url": "https://www.cet.com.cn/zhpd/zxsdv2/10560465.shtml",
       "folder": "20260916_中国经济新闻网（资讯速递）_f8c9129a",
       "access": "CON",
-      "con_note": "源链接已失效，以归档本地存证材料为依据；HTTP 0",
-      "captured_at": "2026-10-12T18:50:41"
+      "con_note": "HTTP 0",
+      "captured_at": "2026-10-12T22:49:29"
     },
     {
       "url": "https://www.cinn.cn/hz/2026/09-14/LkvjVwOk.html",
       "folder": "20260914_中国工业新闻网_(中国工业报)首发_818aaaa8",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:24:43"
+      "captured_at": "2026-10-12T22:39:00"
     },
     {
       "url": "https://www.cinn.cn/hz/2026/09-14/XkJqw8JD.html",
       "folder": "20260914_中国工业新闻网_(中国工业报)首发_f30a1115",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:25:03"
+      "captured_at": "2026-10-12T22:40:00"
     },
     {
       "url": "https://www.cinn.cn/hz/2026/09-14/brY0gyp1.html",
       "folder": "20260914_中国工业新闻网_(中国工业报)首发_40079f5d",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:24:46"
+      "captured_at": "2026-10-12T22:39:15"
     },
     {
       "url": "https://www.cinn.cn/hz/2026/09-14/vrbqJoR1.html",
       "folder": "20260914_中国工业新闻网_(中国工业报)首发_e1ae4e1b",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:25:00"
+      "captured_at": "2026-10-12T22:39:51"
     },
     {
       "url": "https://www.cinn.cn/hz/2026/09-14/z1RJB9O1.html",
       "folder": "20260914_中国工业新闻网_(中国工业报)首发_5a88ca7c",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:24:50"
+      "captured_at": "2026-10-12T22:39:27"
     },
     {
       "url": "https://www.cinn.cn/hz/2026/09-14/zDPpjGXD.html",
       "folder": "20260914_中国工业新闻网_(中国工业报)首发_c3ac664d",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:25:06"
+      "captured_at": "2026-10-12T22:40:49"
     },
     {
       "url": "https://www.cinn.cn/hz/2026/09-28/Zkmbvw31.html",
       "folder": "20260928_中国工业新闻网_(中国工业报)首发_162d6904",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:35:52"
+      "captured_at": "2026-10-12T23:14:28"
     },
     {
       "url": "https://www.cnpiw.cn/a/fuwuzhongxin/zixun/2026/0917/46650.html",
       "folder": "20260917_人民日报社-中国报业网_a213356e",
       "access": "CON",
-      "con_note": "源链接已失效，以归档本地存证材料为依据；HTTP 0",
-      "captured_at": "2026-10-12T18:59:09"
+      "con_note": "HTTP 0",
+      "captured_at": "2026-10-12T23:02:38"
     },
     {
       "url": "https://www.cnpiw.cn/a/fuwuzhongxin/zixun/2026/0930/47540.html?1790737698",
       "folder": "20260930_人民日报社-中国报业网_c0b8d9dc",
       "access": "CON",
-      "con_note": "源链接已失效，以归档本地存证材料为依据；HTTP 0",
-      "captured_at": "2026-10-12T19:01:23"
+      "con_note": "HTTP 0",
+      "captured_at": "2026-10-12T23:15:52"
     },
     {
       "url": "https://www.hebtv.com/2/2gwrk/12510063.shtml",
       "folder": "20260918_河北网络广播电视台首发_8c4152b4",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:33:06"
+      "captured_at": "2026-10-12T23:08:38"
     },
     {
       "url": "https://www.houkongdailynews.com/instantNews/157706",
       "folder": "20260918_濠江日报_c9b34826",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:32:43"
+      "captured_at": "2026-10-12T23:08:03"
     },
     {
       "url": "https://www.icsmart.cn/141930/",
       "folder": "20260911_芯智讯_d06db5f6",
       "access": "CON",
       "con_note": "HTTP 403",
-      "captured_at": "2026-10-12T18:23:54"
+      "captured_at": "2026-10-12T22:36:45"
     },
     {
       "url": "https://www.icsmart.cn/141932/",
       "folder": "20260911_芯智讯_6382c7ed",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:23:57"
+      "captured_at": "2026-10-12T22:36:59"
     },
     {
       "url": "https://www.icsmart.cn/141934/",
       "folder": "20260911_芯智讯_da75f88a",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:24:00"
+      "captured_at": "2026-10-12T22:37:09"
     },
     {
       "url": "https://www.icsmart.cn/141936/",
       "folder": "20260914_芯智讯_29d64c76",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:24:19"
+      "captured_at": "2026-10-12T22:38:07"
     },
     {
       "url": "https://www.icsmart.cn/141945/",
       "folder": "20260914_芯智讯_2dbfcc07",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:24:22"
+      "captured_at": "2026-10-12T22:38:16"
     },
     {
       "url": "https://www.icsmart.cn/141948/",
       "folder": "20260914_芯智讯_9342c9d0",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:24:25"
+      "captured_at": "2026-10-12T22:38:25"
     },
     {
       "url": "https://www.jiemian.com/article/15097311.html",
       "folder": "20260915_界面新闻主站_1cee2775",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:25:16"
+      "captured_at": "2026-10-12T22:41:08"
     },
     {
       "url": "https://www.jiemian.com/article/15098132.html",
       "folder": "20260915_界面新闻主站_8f25c0e2",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:25:34"
+      "captured_at": "2026-10-12T22:42:02"
     },
     {
       "url": "https://www.jiemian.com/article/15098136.html",
       "folder": "20260915_界面新闻主站_51c1e1b2",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:25:31"
+      "captured_at": "2026-10-12T22:41:54"
     },
     {
       "url": "https://www.jiemian.com/article/15098141.html",
       "folder": "20260915_界面新闻主站_fea1e408",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:25:28"
+      "captured_at": "2026-10-12T22:41:45"
     },
     {
       "url": "https://www.jiemian.com/article/15098162.html",
       "folder": "20260915_界面新闻主站_3137e727",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:25:25"
+      "captured_at": "2026-10-12T22:41:36"
     },
     {
       "url": "https://www.leiphone.com/category/industrynews/FQFJwTQvuiRQbu2q.html",
       "folder": "20260911_雷峰网_98104eba",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:23:49"
+      "captured_at": "2026-10-12T22:36:36"
     },
     {
       "url": "https://www.leiphone.com/category/industrynews/GnvSuKkQXe3JRPJE.html",
       "folder": "20260911_雷峰网_a2e6ebf2",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:23:44"
+      "captured_at": "2026-10-12T22:36:26"
     },
     {
       "url": "https://www.leiphone.com/category/industrynews/JYrJOwTptVzwomFq.html",
       "folder": "20261008_雷峰网_dc01f168",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:37:23"
+      "captured_at": "2026-10-12T23:20:33"
     },
     {
       "url": "https://www.leiphone.com/category/industrynews/NWhDqDo0wpZbKRgp.html",
       "folder": "20261008_雷峰网_908390a0",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:37:05"
+      "captured_at": "2026-10-12T23:19:03"
     },
     {
       "url": "https://www.leiphone.com/category/industrynews/SCYRWOQSLbEpAnGs.html",
       "folder": "20261008_雷峰网_33b7e7aa",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:37:12"
+      "captured_at": "2026-10-12T23:19:40"
     },
     {
       "url": "https://www.leiphone.com/category/industrynews/XNaGx6kCv9dNhtKY.html",
       "folder": "20261008_雷峰网_ee8e3f57",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:37:16"
+      "captured_at": "2026-10-12T23:19:55"
     },
     {
       "url": "https://www.leiphone.com/category/industrynews/ZHU0W8KYCimHlbZh.html",
       "folder": "20260911_雷峰网_1cd1eeca",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:23:20"
+      "captured_at": "2026-10-12T22:35:16"
     },
     {
       "url": "https://www.leiphone.com/category/industrynews/ZiR18N0bk5jxaFJO.html",
       "folder": "20261008_雷峰网_553b5de3",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:37:26"
+      "captured_at": "2026-10-12T23:20:46"
     },
     {
       "url": "https://www.leiphone.com/category/industrynews/aemAabCklwZCGjIm.html",
       "folder": "20261008_雷峰网_b0ad0c21",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:37:37"
+      "captured_at": "2026-10-12T23:21:28"
     },
     {
       "url": "https://www.leiphone.com/category/industrynews/axZgHIEEb5Xpoh4A.html",
       "folder": "20260911_雷峰网_3f6c98d0",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:23:24"
+      "captured_at": "2026-10-12T22:35:28"
     },
     {
       "url": "https://www.leiphone.com/category/industrynews/h7SYqtL9IVveHAuO.html",
       "folder": "20260911_雷峰网_025e3d45",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:23:41"
+      "captured_at": "2026-10-12T22:36:14"
     },
     {
       "url": "https://www.leiphone.com/category/industrynews/maJeT3wG8PATohRQ.html",
       "folder": "20261008_雷峰网_7190169b",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:37:30"
+      "captured_at": "2026-10-12T23:21:03"
     },
     {
       "url": "https://www.leiphone.com/category/industrynews/q5L3rs7dyTggYhLB.html",
       "folder": "20260928_雷峰网_d5ac5efe",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:35:16"
+      "captured_at": "2026-10-12T23:13:11"
     },
     {
       "url": "https://www.leiphone.com/category/industrynews/qCQ6peI7fBvGB3bC.html",
       "folder": "20261008_雷峰网_e5a06057",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:37:19"
+      "captured_at": "2026-10-12T23:20:08"
     },
     {
       "url": "https://www.leiphone.com/category/industrynews/wA8jx0ARGdT19yrC.html",
       "folder": "20261008_雷峰网_26a979f8",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:37:43"
+      "captured_at": "2026-10-12T23:21:51"
     },
     {
       "url": "https://www.leiphone.com/category/industrynews/yXoEADuBlQVbLjXU.html",
       "folder": "20261008_雷峰网_034e0461",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:37:33"
+      "captured_at": "2026-10-12T23:21:15"
     },
     {
       "url": "https://www.leiphone.com/category/industrynews/zWaIaM9e09Kmh5Rm.html",
       "folder": "20261008_雷峰网_bba97535",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:37:40"
+      "captured_at": "2026-10-12T23:21:39"
     },
     {
       "url": "https://www.leiphone.com/category/industrynews/zjq0L18W5NV7Y49M.html",
       "folder": "20261008_雷峰网_5daea4da",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:37:09"
+      "captured_at": "2026-10-12T23:19:17"
     },
     {
       "url": "https://www.rmzxw.com.cn/c/2026-09-16/3976199.shtml",
       "folder": "20260916_人民政协网_3378dbad",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:26:55"
+      "captured_at": "2026-10-12T22:45:41"
     },
     {
       "url": "https://www.rznews.cn/viscms/shehuider3/20210918/803257.html",
       "folder": "20260918_日照新闻网首发_5bdf601b",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:32:56"
+      "captured_at": "2026-10-12T23:08:23"
     },
     {
       "url": "https://www.zgcsb.com/news/pinDao/2026-09/17/a_691480.html",
       "folder": "20260918_人民日报社中国城市网首发_f4b9452b",
       "access": "CON",
-      "con_note": "源链接已失效，以归档本地存证材料为依据；HTTP 0",
-      "captured_at": "2026-10-12T19:01:13"
+      "con_note": "HTTP 0",
+      "captured_at": "2026-10-12T23:05:22"
     },
     {
       "url": "https://www.zgswcn.com/news.html?aid=373837",
       "folder": "20260928_中国商报网_076dc77b",
       "access": "CON",
       "con_note": "HTTP 403",
-      "captured_at": "2026-10-12T18:35:20"
+      "captured_at": "2026-10-12T23:13:26"
     },
     {
       "url": "https://www.zhonghongwang.com/show-140-472193-1.html",
       "folder": "20260914_中宏网（首发）_942fdfe9",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:24:57"
+      "captured_at": "2026-10-12T22:39:37"
     },
     {
       "url": "https://www.zhonghongwang.com/show-140-472258-1.html",
       "folder": "20260915_中宏网（首发）_a822d656",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:25:09"
+      "captured_at": "2026-10-12T22:40:58"
     },
     {
       "url": "https://www.zhonghongwang.com/show-140-473540-1.html",
       "folder": "20260928_中宏网（首发）_f61928c2",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:35:27"
+      "captured_at": "2026-10-12T23:13:34"
     },
     {
       "url": "https://www.zhonghongwang.com/show-140-474162-1.html",
       "folder": "20261007_中宏网（特殊稿）_970bc057",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:36:32"
+      "captured_at": "2026-10-12T23:17:04"
     },
     {
       "url": "https://www.zhonghongwang.com/show-140-474163-1.html",
       "folder": "20261007_中宏网（特殊稿）_5d731db2",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:36:35"
+      "captured_at": "2026-10-12T23:17:25"
     },
     {
       "url": "https://www.zhonghongwang.com/show-140-474164-1.html",
       "folder": "20261007_中宏网（特殊稿）_539afb67",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:36:28"
+      "captured_at": "2026-10-12T23:16:53"
     },
     {
       "url": "https://www.zhonghongwang.com/show-140-474165-1.html",
       "folder": "20261007_中宏网（特殊稿）_6a368da2",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:36:38"
+      "captured_at": "2026-10-12T23:17:38"
     },
     {
       "url": "https://www.zhonghongwang.com/show-140-474166-1.html",
       "folder": "20261007_中宏网（特殊稿）_14e24b57",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:36:25"
+      "captured_at": "2026-10-12T23:16:29"
     },
     {
       "url": "https://www.zhonghongwang.com/show-140-474207-1.html",
       "folder": "20261008_中宏网（特殊稿）_b9d0c676",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:37:01"
+      "captured_at": "2026-10-12T23:18:53"
     },
     {
       "url": "https://www.zhonghongwang.com/show-140-474208-1.html",
       "folder": "20261008_中宏网（特殊稿）_f67d14fe",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:36:58"
+      "captured_at": "2026-10-12T23:18:42"
     },
     {
       "url": "https://www.zhonghongwang.com/show-140-474209-1.html",
       "folder": "20261008_中宏网（特殊稿）_425ddd31",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:36:54"
+      "captured_at": "2026-10-12T23:18:32"
     },
     {
       "url": "https://www.zhonghongwang.com/show-140-474210-1.html",
       "folder": "20261008_中宏网（特殊稿）_e432f655",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:36:51"
+      "captured_at": "2026-10-12T23:18:22"
     },
     {
       "url": "https://www.zhonghongwang.com/show-140-474211-1.html",
       "folder": "20261008_中宏网（特殊稿）_02392fe8",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:36:48"
+      "captured_at": "2026-10-12T23:18:11"
     },
     {
       "url": "https://www.zhonghongwang.com/show-140-474212-1.html",
       "folder": "20261008_中宏网（特殊稿）_9f4daafc",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:36:45"
+      "captured_at": "2026-10-12T23:18:00"
     },
     {
       "url": "https://www.zhonghongwang.com/show-140-474213-1.html",
       "folder": "20261008_中宏网（特殊稿）_f0745e7e",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:36:41"
+      "captured_at": "2026-10-12T23:17:49"
     },
     {
       "url": "https://yrd.huanqiu.com/article/4THqdvtwiBl",
       "folder": "20260920_环球网随机_4aba0720",
       "access": "CON",
-      "con_note": "正文过短或不可读",
-      "captured_at": "2026-10-12T18:33:56"
+      "con_note": "源链接现场超时/不可达，已用同 URL 路由缓存渲染正文；以本地存证材料为依据",
+      "captured_at": "2026-10-12T23:10:52"
     },
     {
       "url": "https://yrd.huanqiu.com/article/4THqfNylCNE",
       "folder": "20260920_环球网随机_39197366",
       "access": "CON",
-      "con_note": "正文过短或不可读",
-      "captured_at": "2026-10-12T18:33:51"
+      "con_note": "源链接现场超时/不可达，已用同 URL 路由缓存渲染正文；以本地存证材料为依据",
+      "captured_at": "2026-10-12T23:10:28"
     },
     {
       "url": "https://yrd.huanqiu.com/article/4THqz2zCdtV",
       "folder": "20260921_环球网随机_5a2914f2",
       "access": "CON",
-      "con_note": "正文过短或不可读",
-      "captured_at": "2026-10-12T18:34:14"
+      "con_note": "源链接现场超时/不可达，已用同 URL 路由缓存渲染正文；以本地存证材料为依据",
+      "captured_at": "2026-10-12T23:11:45"
     },
     {
       "url": "https://zibo.dzwww.com/zxdt/202609/t20260916_18120524.htm",
       "folder": "20260916_大众网首发_147b1f27",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:26:02"
+      "captured_at": "2026-10-12T22:43:05"
     },
     {
       "url": "https://zibo.dzwww.com/zxdt/202609/t20260916_18121526.htm",
       "folder": "20260916_大众网首发_2104d584",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:26:07"
+      "captured_at": "2026-10-12T22:43:26"
     },
     {
       "url": "https://zibo.dzwww.com/zxdt/202609/t20260916_18121527.htm",
       "folder": "20260916_大众网首发_d6bf795e",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:26:15"
+      "captured_at": "2026-10-12T22:43:53"
     },
     {
       "url": "https://zibo.dzwww.com/zxdt/202609/t20260916_18121529.htm",
       "folder": "20260916_大众网首发_5cc15d1d",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:26:23"
+      "captured_at": "2026-10-12T22:44:22"
     },
     {
       "url": "https://zibo.dzwww.com/zxdt/202609/t20260916_18122769.htm",
       "folder": "20260916_大众网首发_707c2b1f",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:26:19"
+      "captured_at": "2026-10-12T22:44:06"
     },
     {
       "url": "https://zibo.dzwww.com/zxdt/202609/t20260916_18122771.htm",
       "folder": "20260916_大众网首发_cb974972",
       "access": "OK",
       "con_note": "",
-      "captured_at": "2026-10-12T18:26:11"
+      "captured_at": "2026-10-12T22:43:38"
     }
   ]
 }

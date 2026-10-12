@@ -5,15 +5,16 @@
   "media": "学习强国首发（好出）",
   "pub_date": "20260923",
   "access": "CON",
-  "captured_at": "2026-10-12T18:34:54",
+  "captured_at": "2026-10-12T23:12:13",
+  "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "ff9c17c09d9b03d525e04cd9a38a5df9d6e7407f20a166d84503e584f458131c",
-      "bytes": 222882
+      "sha256": "4579ce362c99e2b9ce4930c9b767cbe18052193e36d718c45ad07a489ea32318",
+      "bytes": 232990
     },
     "article_source.txt": {
-      "sha256": "84da6038a4cdbe9c798d5b2fbea6fdb3be63f6f4b4b0fe038549cc1ffaa3b463",
-      "bytes": 284
+      "sha256": "98490f224d89d6115585af44bca07b1be247b6b8d00408430045bddb6f84dbc3",
+      "bytes": 431
     }
   }
 }

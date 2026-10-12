@@ -5,15 +5,16 @@
   "media": "雷峰网",
   "pub_date": "20261008",
   "access": "OK",
-  "captured_at": "2026-10-12T18:37:43",
+  "captured_at": "2026-10-12T23:21:51",
+  "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "2b63a0ed776893562d37d7b52dfba631ae452c699f399e8ce8d873acf749a1f8",
-      "bytes": 414713
+      "sha256": "76b1428118e0102be51d9a5ddfa217d9381984db3dfc7715f95b8d9be630646e",
+      "bytes": 1276888
     },
     "article_source.txt": {
-      "sha256": "5a35d587746879f08609c92faa2324b6d7ef07e484f67eedc994ce4d5ed6e665",
-      "bytes": 8256
+      "sha256": "d870c01c80cfb60b757f7fa7e0ef1d462b99892a4c3e997b5ba9c9aa1e0f7a3b",
+      "bytes": 8387
     }
   }
 }

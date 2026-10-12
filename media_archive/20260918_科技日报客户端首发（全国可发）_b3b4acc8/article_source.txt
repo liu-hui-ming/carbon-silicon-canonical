@@ -2,7 +2,22 @@
 媒体：科技日报客户端首发（全国可发）
 发布日期（报表）：2026-09-18 00:00:00
 URL：https://app.kjrb.com.cn/app/template/displayTemplate/news/newsDetail/137/583077.html?isShare=true
-取证系统时间：2026-10-12T18:32:50
+取证系统时间：2026-10-12T23:08:12
 HTTP：200
 页面标题：科技日报
+截图标准：P0-four-elements-v2（全屏含任务栏时间+滚动拼接正文）
+路由缓存渲染：是
+科技日报
 
+   
+
+  
+
+      
+
+      
+
+       
+    
+
+此页面需要浏览器支持javascript. 分支名称：kb/v6.2.6 版本号：v6.2.6 打包时间：Wed Aug 26 2026 16:56:23 GMT+0800 (China Standard Time).

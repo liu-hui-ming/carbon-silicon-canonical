@@ -5,15 +5,16 @@
   "media": "中国新闻网新疆（全国）",
   "pub_date": "20260914",
   "access": "OK",
-  "captured_at": "2026-10-12T18:24:13",
+  "captured_at": "2026-10-12T22:37:53",
+  "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "5d743d06ed8a1d7dee23ccea61c204d752547d6e20792da2745eaa5894068005",
-      "bytes": 491602
+      "sha256": "ed37eabe98b313702ce5c45c798754a9c121bf0afc03dae84741bdb07297aec2",
+      "bytes": 1481729
     },
     "article_source.txt": {
-      "sha256": "c5d92a521ef289f725036bce1f330a8dea455b57143ee7ace869e79081854aa5",
-      "bytes": 5592
+      "sha256": "b01f208273842f697871f09d22b68c517ecb84e2b37b472e412e106486593fcb",
+      "bytes": 5701
     }
   }
 }

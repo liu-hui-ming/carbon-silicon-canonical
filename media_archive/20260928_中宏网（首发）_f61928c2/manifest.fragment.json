@@ -5,15 +5,16 @@
   "media": "中宏网（首发）",
   "pub_date": "20260928",
   "access": "OK",
-  "captured_at": "2026-10-12T18:35:27",
+  "captured_at": "2026-10-12T23:13:34",
+  "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "032279e20838f366a6d7db26651f1f6b0a05cacd42fa5d773cfa60425362ae72",
-      "bytes": 366940
+      "sha256": "b14c294972f290d7d49b61000366fffdc959bbc2421df06a28ed6ba5fa94c9da",
+      "bytes": 853877
     },
     "article_source.txt": {
-      "sha256": "2379e651a3ed595e291f9808e47712a5732a057061806acc1c13b81e522198df",
-      "bytes": 6258
+      "sha256": "681885a6c9afc8035ebe08291c4c30a57066b656e1c1e0a277cf83b8216342ba",
+      "bytes": 6367
     }
   }
 }

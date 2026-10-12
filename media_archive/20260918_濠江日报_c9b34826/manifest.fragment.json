@@ -5,15 +5,16 @@
   "media": "濠江日报",
   "pub_date": "20260918",
   "access": "OK",
-  "captured_at": "2026-10-12T18:32:45",
+  "captured_at": "2026-10-12T23:08:03",
+  "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "859643905cc2568d5f81847b3479e8334115df750a0868a49c8687dd8dc003ad",
-      "bytes": 266244
+      "sha256": "62aba6f55171ef1135a69488cce675939f6326917f7925e78f66e8f81cbe10d0",
+      "bytes": 845002
     },
     "article_source.txt": {
-      "sha256": "9da2f85231a8bde6582dbb6e31769e0a88d61a927fd2c78f31bff2d8b28bd7d2",
-      "bytes": 4991
+      "sha256": "516f9cf800ecf40773d6bb8172c6e82e5dae45e008d31197bdda400fded85f29",
+      "bytes": 5103
     }
   }
 }
