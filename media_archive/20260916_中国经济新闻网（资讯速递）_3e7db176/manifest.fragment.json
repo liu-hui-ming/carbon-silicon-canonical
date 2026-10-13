@@ -19,14 +19,6 @@
     "evidence_manual_save.html": {
       "sha256": "1f3f6c14daff30dcc5ade33fb9152c655a8bc9412236203b5ef705937d1422a0",
       "bytes": 71264
-    },
-    "manual_capture_01.png": {
-      "sha256": "d7cafcdc68c2d61b769a98001dc729c9b8cc371d76c7272f52e231bbae4bc7be",
-      "bytes": 908309
-    },
-    "manual_capture_02.png": {
-      "sha256": "60da38cdd4d80ae2e12c2a039e92bae70a75273ea3a4621748693d8230daf690",
-      "bytes": 438993
     }
   }
 }

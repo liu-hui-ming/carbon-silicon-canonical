@@ -2,7 +2,6 @@
 """Move manual PNG/TIFF into official folders; stitch to page_screenshot.png."""
 import importlib.util
 import json
-import shutil
 import stat
 from pathlib import Path
 
@@ -101,19 +100,12 @@ def main():
         frag_path = folder / "manifest.fragment.json"
         if frag_path.exists():
             files = dict(json.loads(frag_path.read_text(encoding="utf-8")).get("files", {}))
-        for i, p in enumerate(imgs, 1):
-            dest = folder / f"manual_capture_{i:02d}{p.suffix.lower()}"
-            chmod_writable(dest)
-            shutil.copy2(p, dest)
         txt_path = folder / "article_source.txt"
         html_path = folder / "evidence_manual_save.html"
         files["page_screenshot.png"] = {
             "sha256": batch.sha256_file(png),
             "bytes": png.stat().st_size,
         }
-        for i, p in enumerate(imgs, 1):
-            dest = folder / f"manual_capture_{i:02d}{p.suffix.lower()}"
-            files[dest.name] = {"sha256": batch.sha256_file(dest), "bytes": dest.stat().st_size}
         if txt_path.exists():
             files["article_source.txt"] = {
                 "sha256": batch.sha256_file(txt_path),
