@@ -5,16 +5,16 @@
   "media": "中国经济新闻网（资讯速递）",
   "pub_date": "20260916",
   "access": "CON",
-  "captured_at": "2026-10-12T22:46:48",
+  "captured_at": "2026-10-13T19:59:44",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "9502676f6096eea138b4810124f3de46170718a4afe95cfe1ee2b3966e45c5dd",
-      "bytes": 119832
+      "sha256": "5ca1c9534827af36626a482e9b5a1004ad077d4f264552df231f45f65385aa91",
+      "bytes": 1344166
     },
     "article_source.txt": {
-      "sha256": "cf972cedb23c9b519372a45e33f45e8b1508802284f3c7e59e4c7c3e3f5b3787",
-      "bytes": 380
+      "sha256": "9b3f1d0bf7ddcfdb159c98e205bbaae272a7b15e3638cfa5b8e7982aef3e5f06",
+      "bytes": 11429
     }
   }
 }

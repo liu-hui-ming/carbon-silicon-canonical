@@ -4,17 +4,17 @@
   "title": "碳硅道统：五级梯队的智能分级与十维标尺的对应",
   "media": "东方网",
   "pub_date": "20260916",
-  "access": "CON",
-  "captured_at": "2026-10-12T23:02:27",
+  "access": "OK",
+  "captured_at": "2026-10-13T20:04:53",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "a26d9459309376c532b5052bff4f328ff49b0dde1ad0094208cbe2e970a772b3",
-      "bytes": 145299
+      "sha256": "34f708ebbdf67a0b6b4c867b799beccec4d6ba77bb7e8d45f9e927a706fe173e",
+      "bytes": 140567
     },
     "article_source.txt": {
-      "sha256": "01f15330250c664fea3bbde5b904442a3e77ef1aa7566ce90d64c1374d8d890f",
-      "bytes": 655
+      "sha256": "d35e9160282f9df1b6c2f07d63316aefdd14930674402ab103ba514906989ec8",
+      "bytes": 709
     }
   }
 }

@@ -2,17 +2,18 @@
 媒体：东方网
 发布日期（报表）：2026-09-16 00:00:00
 URL：https://qiye.eastday.com/n34/20260916/0080c06e853242b5bd483bac64ed3532.html
-取证系统时间：2026-10-12T23:02:11
+导航URL：https://qiye.eastday.com/n34/20260916/0080c06e853242b5bd483bac64ed3532.html
+取证系统时间：2026-10-13T20:04:20
 HTTP：403
 页面标题：403错误
-截图标准：P0-four-elements-v2（全屏含任务栏时间+滚动拼接正文）
-路由缓存渲染：否
+截图标准：P0-four-elements-v2
+救援方式：live
 访问错误了哦，请重试！
 Request-ID:
-17086accf6732463c581b6c6a1f8ae24
+fd236ace1e437d7c0667950a28c641e2
 IP:
-104.238.221.106
+59.188.87.76
 User-Agent:
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
 Referer:
--
+https://www.eastday.com/

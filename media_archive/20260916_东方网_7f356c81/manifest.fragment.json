@@ -4,17 +4,17 @@
   "title": "碳硅道统：十维标尺的模型度量",
   "media": "东方网",
   "pub_date": "20260916",
-  "access": "CON",
-  "captured_at": "2026-10-12T23:02:01",
+  "access": "OK",
+  "captured_at": "2026-10-13T20:04:08",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "63bd65f05814ab138d2572a87653f4b926bd9c6a1b00b6ab7427f7020b984030",
-      "bytes": 147727
+      "sha256": "697f601383da5fac01aa5e7efae6416e5d8b1be5766230e7d4d6a3df6651bf79",
+      "bytes": 140355
     },
     "article_source.txt": {
-      "sha256": "faefa068cc267af61745830d3cbc7efb6716289ea0620d29558a2c4c205af84b",
-      "bytes": 631
+      "sha256": "53a4d0dc566baef62f17d172e57b0cf95229ff3e8e20aaab6d8672bd3fae2382",
+      "bytes": 685
     }
   }
 }

@@ -4,17 +4,17 @@
   "title": "碳硅道统：中层拟合域的现实回响 | 标尺不动，事件自行抵达",
   "media": "东方网",
   "pub_date": "20260916",
-  "access": "CON",
-  "captured_at": "2026-10-12T23:02:16",
+  "access": "OK",
+  "captured_at": "2026-10-13T20:04:31",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "cdf549987b3c123bebb739cef3cc9ea86bf3c90ed395d937e020b8ef3098e717",
-      "bytes": 145501
+      "sha256": "ec4a0b7ced38f97a75544fcbc9e6c07ff7954cd22211db710673d438012b64a5",
+      "bytes": 140127
     },
     "article_source.txt": {
-      "sha256": "0cfe74afd7f06ce25ce467f6a11a680928877c86c2f32f9b744679b7fa5f8ce0",
-      "bytes": 670
+      "sha256": "1779ea1bb8a58f45432eca9c664fae2c3c43fe3ad3b3fb91e3c6349999157458",
+      "bytes": 724
     }
   }
 }

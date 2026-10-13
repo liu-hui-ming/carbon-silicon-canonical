@@ -4,17 +4,17 @@
   "title": "碳硅道统：100质询的反证力量与觉知链的完整闭环",
   "media": "东方网",
   "pub_date": "20260916",
-  "access": "CON",
-  "captured_at": "2026-10-12T23:02:11",
+  "access": "OK",
+  "captured_at": "2026-10-13T20:04:20",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "c0a738687a25c580daf30f50fcd32313ca195bc649e895eb7edb38bd540d33ba",
-      "bytes": 145409
+      "sha256": "3950d8c5ee488368503341eef80ed1196e50168dcf0c415563d61c5902b49d97",
+      "bytes": 141027
     },
     "article_source.txt": {
-      "sha256": "b0ba3eeb81f512dbbe7231fbd02da8c628504453074db4bbd38dc20e6fe0532a",
-      "bytes": 655
+      "sha256": "f6698519920e0dfb609d6dcc0ea43270a2f04b3045d0aeaa3ee3a458f97b8e25",
+      "bytes": 709
     }
   }
 }

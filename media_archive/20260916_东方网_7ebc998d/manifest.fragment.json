@@ -4,17 +4,17 @@
   "title": "碳硅道统：紫微几何的三圈层拓扑与90公律的推导链",
   "media": "东方网",
   "pub_date": "20260916",
-  "access": "CON",
-  "captured_at": "2026-10-12T23:02:22",
+  "access": "OK",
+  "captured_at": "2026-10-13T20:04:42",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "b1e2ca822df05ded18017055f1f6d2a51be653554932303eda5d106e921babdc",
-      "bytes": 148383
+      "sha256": "d0e2033934fb593173e9fc46930f1d3e7e24917f307651ec206ba31fb3d0507e",
+      "bytes": 140668
     },
     "article_source.txt": {
-      "sha256": "25e413b2a04fbaba14a3b5988e17d32b78fd3004e1048e0ff7bbddd5fd5c3726",
-      "bytes": 657
+      "sha256": "59f01b19f639314f26b8b833ab1e9c6a9eb850ca93e86a7430d42e5a86751a8b",
+      "bytes": 711
     }
   }
 }

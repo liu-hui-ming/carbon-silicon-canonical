@@ -4,17 +4,17 @@
   "title": "算力规模高速增长：厘清智能边界方能行稳致远",
   "media": "学习强国首发（好出）",
   "pub_date": "20260923",
-  "access": "CON",
-  "captured_at": "2026-10-12T23:12:13",
+  "access": "OK",
+  "captured_at": "2026-10-13T20:05:46",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "4579ce362c99e2b9ce4930c9b767cbe18052193e36d718c45ad07a489ea32318",
-      "bytes": 232990
+      "sha256": "38945a5ca179fc58ebf583dea99fcd4badcc333adfd1b64e0f07f3abe213847c",
+      "bytes": 196584
     },
     "article_source.txt": {
-      "sha256": "98490f224d89d6115585af44bca07b1be247b6b8d00408430045bddb6f84dbc3",
-      "bytes": 431
+      "sha256": "00808608a8b3cd249d1c229256507e6d5500d85ddc7cbc8236dd29fdbaca5add",
+      "bytes": 3140
     }
   }
 }
