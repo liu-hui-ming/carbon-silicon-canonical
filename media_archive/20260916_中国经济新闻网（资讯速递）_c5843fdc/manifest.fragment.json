@@ -9,8 +9,8 @@
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "081d36a81048effaabcba25f4063e9d56e24f02698c043844bc7ea9c47b26040",
-      "bytes": 1402074
+      "sha256": "5bde7695a6ba4ee4f769d3909fdd15e6bd570b7ceebeaa8d1a63eb03ece235bc",
+      "bytes": 1390490
     },
     "article_source.txt": {
       "sha256": "8fa10b53aac4941f7b124b7612fe4e899f19ac7c52814ac5b8c4b2c95d6d0031",
@@ -19,6 +19,14 @@
     "evidence_manual_save.html": {
       "sha256": "74a308bc99bcff5ea1fad86bb40a930388c41e9567a286a8faaecf20d60fd664",
       "bytes": 63462
+    },
+    "manual_capture_01.tiff": {
+      "sha256": "8035b15a19449bfb51364195d7a8084b31d2ab5f2b925fc127d9c3399f89b3a8",
+      "bytes": 14882350
+    },
+    "manual_capture_02.tiff": {
+      "sha256": "0b787d6d4c4b375fdd201910e3905fd4417e36103cf7f9d998c7b7a4a531b79e",
+      "bytes": 14999742
     }
   }
 }

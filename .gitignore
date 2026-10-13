@@ -1,0 +1,10 @@
+# Local staging for manual uploads (not part of public archive)
+media_archive/MANUAL-UPLOAD-CON9/
+
+_tmp_media_evidence_state.json
+_tmp_*.json
+_tmp_*.log
+_tmp_*.txt
+_tmp_*.py
+
+.DS_Store
