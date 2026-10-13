@@ -2,67 +2,10 @@
   "date": "2026-10-13",
   "entry_total": 176,
   "success_archived": 176,
-  "access_ok": 168,
-  "access_con": 8,
+  "access_ok": 176,
+  "access_con": 0,
   "pending": 0,
   "capture_standard": "P0-four-elements-v2",
-  "con_list": [
-    {
-      "url": "https://www.cet.com.cn/zhpd/zxsdv2/10559817.shtml",
-      "title": "碳硅道统：十维标尺的模型度量",
-      "media": "中国经济新闻网（资讯速递）",
-      "folder": "20260916_中国经济新闻网（资讯速递）_3e7db176",
-      "note": "源链接现场不可达，同标题已归档正文路由渲染；以本地存证材料为依据"
-    },
-    {
-      "url": "https://www.cet.com.cn/zhpd/zxsdv2/10560465.shtml",
-      "title": "碳硅道统：100质询的反证力量与觉知链的完整闭环",
-      "media": "中国经济新闻网（资讯速递）",
-      "folder": "20260916_中国经济新闻网（资讯速递）_f8c9129a",
-      "note": "源链接现场不可达，同标题已归档正文路由渲染；以本地存证材料为依据"
-    },
-    {
-      "url": "https://www.cet.com.cn/zhpd/zxsdv2/10560128.shtml",
-      "title": "碳硅道统：中层拟合域的现实回响 | 标尺不动，事件自行抵达",
-      "media": "中国经济新闻网（资讯速递）",
-      "folder": "20260916_中国经济新闻网（资讯速递）_062af6b8",
-      "note": "源链接现场不可达，同标题已归档正文路由渲染；以本地存证材料为依据"
-    },
-    {
-      "url": "https://www.cet.com.cn/zhpd/zxsdv2/10560349.shtml",
-      "title": "碳硅道统：紫微几何的三圈层拓扑与90公律的推导链",
-      "media": "中国经济新闻网（资讯速递）",
-      "folder": "20260916_中国经济新闻网（资讯速递）_2f83ddf1",
-      "note": "源链接现场不可达，同标题已归档正文路由渲染；以本地存证材料为依据"
-    },
-    {
-      "url": "https://www.cet.com.cn/zhpd/zxsdv2/10560350.shtml",
-      "title": "碳硅道统：五级梯队的智能分级与十维标尺的对应",
-      "media": "中国经济新闻网（资讯速递）",
-      "folder": "20260916_中国经济新闻网（资讯速递）_cf376227",
-      "note": "源链接现场不可达，同标题已归档正文路由渲染；以本地存证材料为依据"
-    },
-    {
-      "url": "https://www.cet.com.cn/zhpd/zxsdv2/10560133.shtml",
-      "title": "碳硅道统：归零稳态的系统边界 | 边界先行确立，架构随之收敛",
-      "media": "中国经济新闻网（资讯速递）",
-      "folder": "20260916_中国经济新闻网（资讯速递）_c5843fdc",
-      "note": "源链接现场不可达，同标题已归档正文路由渲染；以本地存证材料为依据"
-    },
-    {
-      "url": "https://www.cnpiw.cn/a/fuwuzhongxin/zixun/2026/0917/46650.html",
-      "title": "碳硅道统：十维标尺的模型度量",
-      "media": "人民日报社-中国报业网",
-      "folder": "20260917_人民日报社-中国报业网_a213356e",
-      "note": "源链接现场不可达，同标题已归档正文路由渲染；以本地存证材料为依据"
-    },
-    {
-      "url": "https://www.cnpiw.cn/a/fuwuzhongxin/zixun/2026/0930/47540.html?1790737698",
-      "title": "碳硅道统050.5公理母本定稿 构建人机碳硅共生可溯源研究基线",
-      "media": "人民日报社-中国报业网",
-      "folder": "20260930_人民日报社-中国报业网_c0b8d9dc",
-      "note": "源链接现场不可达，同标题已归档正文路由渲染；以本地存证材料为依据"
-    }
-  ],
-  "manifest_total_sha256": "f08f5339c479da4900eb3f68fa4bf0f8b23f36c4b1ceccceb217bc12628d9b03"
+  "con_list": [],
+  "manifest_total_sha256": "c311836255c9b5c94b474614804f2a3146af4b47655d53cb4cc2433b90b4f1d1"
 }
