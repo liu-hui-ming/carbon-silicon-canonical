@@ -346,11 +346,49 @@ def page_looks_broken(page, body_text: str) -> bool:
     if len(body_text.strip()) < 120:
         return True
     title = page.title() or ""
-    if ERROR_HINTS.search(title):
+    if ERROR_HINTS.search(title) and len(body_text.strip()) < 400:
         return True
-    if ERROR_HINTS.search(body_text[:800]):
+    if ERROR_HINTS.search(body_text[:800]) and len(body_text.strip()) < 400:
         return True
     return False
+
+
+def read_body_text(page, entry) -> str:
+    host = entry["url"]
+    if "huanqiu.com" in host or "kjrb.com.cn" in host:
+        page.wait_for_timeout(8000)
+    try:
+        text = page.inner_text("body")
+    except Exception:
+        text = ""
+    if len(text.strip()) < 120:
+        try:
+            text = page.evaluate(
+                "() => document.body ? document.body.innerText || document.body.textContent || '' : ''"
+            )
+        except Exception:
+            pass
+    return text or ""
+
+
+def classify_access(entry, status: int, body_text: str, page, served_from_cache: bool):
+    title_key = entry["title"][:8]
+    page_title = page.title() or ""
+    substantive = (
+        len(body_text.strip()) >= 200
+        or title_key in body_text
+        or title_key in page_title
+    )
+    if served_from_cache:
+        return "CON", "源链接现场超时/不可达，已用同 URL 路由缓存渲染正文；以本地存证材料为依据"
+    if substantive and not page_looks_broken(page, body_text):
+        if status in (0, 403) or (200 <= status < 400):
+            return "OK", ""
+    if status >= 400 or status == 0:
+        return "CON", f"HTTP {status}"
+    if page_looks_broken(page, body_text):
+        return "CON", "正文过短或不可读"
+    return "OK", ""
 
 
 def save_evidence_png(img: Image.Image, path: Path):
@@ -377,7 +415,7 @@ def capture_one(page, entry, folder: Path):
         resp = navigate_with_retry(page, url)
         status = resp.status if resp else 0
         page_title = page.title()
-        body_text = page.inner_text("body")
+        body_text = read_body_text(page, entry)
     except Exception:
         body_text = ""
         status = 0
@@ -394,7 +432,7 @@ def capture_one(page, entry, folder: Path):
                 goto_with_cached_html(page, url, raw_html.encode("utf-8", errors="replace"))
                 page.wait_for_timeout(1200)
                 page_title = page.title() or entry["title"]
-                body_text = page.inner_text("body") or body_text
+                body_text = read_body_text(page, entry) or body_text
                 served_from_cache = True
         except Exception:
             pass
@@ -423,17 +461,7 @@ def capture_one(page, entry, folder: Path):
     txt_path = folder / "article_source.txt"
     txt_path.write_bytes(txt_bytes)
 
-    access = "OK"
-    con_note = ""
-    if served_from_cache:
-        access = "CON"
-        con_note = "源链接现场超时/不可达，已用同 URL 路由缓存渲染正文；以本地存证材料为依据"
-    elif status >= 400 or status == 0:
-        access = "CON"
-        con_note = f"HTTP {status}"
-    elif page_looks_broken(page, body_text):
-        access = "CON"
-        con_note = "正文过短或不可读"
+    access, con_note = classify_access(entry, status, body_text, page, served_from_cache)
 
     files = {
         "page_screenshot.png": {"sha256": sha256_file(png_path), "bytes": png_path.stat().st_size},
@@ -544,8 +572,18 @@ def browser_launch_args():
 
 def main():
     default_entries = Path(r"e:\hundred-crayfish-legion\_tmp_report_entries.json")
-    argv = [a for a in sys.argv[1:] if a != "--force"]
-    force = "--force" in sys.argv
+    raw_argv = sys.argv[1:]
+    force = "--force" in raw_argv
+    recapture_list = None
+    if "--recapture-list" in raw_argv:
+        idx = raw_argv.index("--recapture-list")
+        recapture_list = Path(raw_argv[idx + 1])
+    argv = [
+        a
+        for i, a in enumerate(raw_argv)
+        if a not in ("--force", "--recapture-list")
+        and not (i and raw_argv[i - 1] == "--recapture-list")
+    ]
     entries_path = Path(argv[0]) if argv else default_entries
     limit = int(argv[1]) if len(argv) > 1 else 0
     offset = int(argv[2]) if len(argv) > 2 else 0
@@ -553,7 +591,20 @@ def main():
     st = {"done": {}, "errors": []} if force else load_state()
     if force:
         save_state(st)
-    todo = entries if force else [e for e in entries if e["url"] not in st["done"]]
+    if recapture_list:
+        urls = {
+            line.strip()
+            for line in recapture_list.read_text(encoding="utf-8").splitlines()
+            if line.strip()
+        }
+        for u in urls:
+            st["done"].pop(u, None)
+        save_state(st)
+        todo = [e for e in entries if e["url"] in urls]
+    elif force:
+        todo = entries
+    else:
+        todo = [e for e in entries if e["url"] not in st["done"]]
     if offset:
         todo = todo[offset:]
     if limit:

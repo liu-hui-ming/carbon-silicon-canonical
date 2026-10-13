@@ -1,22 +1,15 @@
 {
   "canonical": "MEDIA-EVIDENCE-ARCHIVE",
-  "generated_at": "2026-10-12T23:27:14",
+  "generated_at": "2026-10-13T19:55:00",
   "source_workbook": "碳硅道统-发布报表.xlsx",
   "entry_total": 176,
   "archived_count": 176,
-  "access_ok": 149,
-  "access_con": 27,
-  "volume_sha256": "2232acda58b4b6418b92856c59f09c1805d65683f4a40ae33ea0e9163a08435a",
+  "access_ok": 159,
+  "access_con": 17,
+  "volume_sha256": "9ccc0a88983c1745b9403b8407eb3cc92ca07f8cee2da7b2668cdd114a0ce049",
   "volume_basis": "sorted sha256  path lines UTF-8 LF",
   "capture_standard": "P0-four-elements-v2",
   "con_entries": [
-    {
-      "url": "https://www.icsmart.cn/141930/",
-      "title": "碳硅道统：中层拟合域的现实回响 |  标尺不动，事件自行抵达",
-      "media": "芯智讯",
-      "folder": "20260911_芯智讯_d06db5f6",
-      "note": "HTTP 403"
-    },
     {
       "url": "https://www.cet.com.cn/zhpd/zxsdv2/10559817.shtml",
       "title": "碳硅道统：十维标尺的模型度量",
@@ -116,74 +109,11 @@
       "note": "源链接现场超时/不可达，已用同 URL 路由缓存渲染正文；以本地存证材料为依据"
     },
     {
-      "url": "https://www.zgcsb.com/news/pinDao/2026-09/17/a_691480.html",
-      "title": "划清人工智能“模拟智能”与“本源觉知”的边界——一套可量化的AI研判与治理框架",
-      "media": "人民日报社中国城市网首发",
-      "folder": "20260918_人民日报社中国城市网首发_f4b9452b",
-      "note": "HTTP 0"
-    },
-    {
-      "url": "https://app.kjrb.com.cn/app/template/displayTemplate/news/newsDetail/137/583077.html?isShare=true",
-      "title": "十维框架厘清AI“模拟”与“觉知”边界",
-      "media": "科技日报客户端首发（全国可发）",
-      "folder": "20260918_科技日报客户端首发（全国可发）_b3b4acc8",
-      "note": "源链接现场超时/不可达，已用同 URL 路由缓存渲染正文；以本地存证材料为依据"
-    },
-    {
-      "url": "https://ribao.xyxww.com.cn/html/2026-09/20/2078633.html",
-      "title": "统筹发展与安全：青年科技人才须厘清人工智能“模拟”与“本源”的边界",
-      "media": "信阳日报",
-      "folder": "20260920_信阳日报_fadaf2a0",
-      "note": "HTTP 502"
-    },
-    {
-      "url": "https://ribao.xyxww.com.cn/html/2026-09/20/2078634.html",
-      "title": "以人民为中心发展人工智能：教育场景下大模型幻觉的治理路径",
-      "media": "信阳日报",
-      "folder": "20260920_信阳日报_f45fac1d",
-      "note": "HTTP 502"
-    },
-    {
-      "url": "https://ribao.xyxww.com.cn/html/2026-09/20/2078636.html",
-      "title": "新质生产力背景下的人工智能伦理：从“工具赋能”到“价值引领”",
-      "media": "信阳日报",
-      "folder": "20260920_信阳日报_e374b1e6",
-      "note": "HTTP 502"
-    },
-    {
-      "url": "https://yrd.huanqiu.com/article/4THqfNylCNE",
-      "title": "以人民为中心发展人工智能：教育场景下大模型幻觉的治理路径",
-      "media": "环球网随机",
-      "folder": "20260920_环球网随机_39197366",
-      "note": "源链接现场超时/不可达，已用同 URL 路由缓存渲染正文；以本地存证材料为依据"
-    },
-    {
-      "url": "https://yrd.huanqiu.com/article/4THqdvtwiBl",
-      "title": "统筹发展与安全：青年科技人才须厘清人工智能“模拟”与“本源”的边界",
-      "media": "环球网随机",
-      "folder": "20260920_环球网随机_4aba0720",
-      "note": "源链接现场超时/不可达，已用同 URL 路由缓存渲染正文；以本地存证材料为依据"
-    },
-    {
-      "url": "https://yrd.huanqiu.com/article/4THqz2zCdtV",
-      "title": "新质生产力背景下的人工智能伦理：从“工具赋能”到“价值引领”",
-      "media": "环球网随机",
-      "folder": "20260921_环球网随机_5a2914f2",
-      "note": "源链接现场超时/不可达，已用同 URL 路由缓存渲染正文；以本地存证材料为依据"
-    },
-    {
       "url": "https://jinrongfuwu.libaokj.com/qgh5",
       "title": "算力规模高速增长：厘清智能边界方能行稳致远",
       "media": "学习强国首发（好出）",
       "folder": "20260923_学习强国首发（好出）_cc69918c",
       "note": "源链接现场超时/不可达，已用同 URL 路由缓存渲染正文；以本地存证材料为依据"
-    },
-    {
-      "url": "https://www.zgswcn.com/news.html?aid=373837",
-      "title": "碳硅道统050.5公理母本定稿 构建人机碳硅共生可溯源研究基线",
-      "media": "中国商报网",
-      "folder": "20260928_中国商报网_076dc77b",
-      "note": "HTTP 403"
     },
     {
       "url": "https://www.cnpiw.cn/a/fuwuzhongxin/zixun/2026/0930/47540.html?1790737698",
@@ -694,9 +624,9 @@
     {
       "url": "https://app.kjrb.com.cn/app/template/displayTemplate/news/newsDetail/137/583077.html?isShare=true",
       "folder": "20260918_科技日报客户端首发（全国可发）_b3b4acc8",
-      "access": "CON",
-      "con_note": "源链接现场超时/不可达，已用同 URL 路由缓存渲染正文；以本地存证材料为依据",
-      "captured_at": "2026-10-12T23:08:12"
+      "access": "OK",
+      "con_note": "",
+      "captured_at": "2026-10-13T19:53:01"
     },
     {
       "url": "https://article.xuexi.cn/articles/index.html?art_id=12414030212834665966&item_id=12414030212834665966&study_style_id=feeds_opaque&pid=&ptype=-1&source=share&share_to=wx_single",
@@ -883,23 +813,23 @@
     {
       "url": "https://ribao.xyxww.com.cn/html/2026-09/20/2078633.html",
       "folder": "20260920_信阳日报_fadaf2a0",
-      "access": "CON",
-      "con_note": "HTTP 502",
-      "captured_at": "2026-10-12T23:09:48"
+      "access": "OK",
+      "con_note": "",
+      "captured_at": "2026-10-13T19:53:19"
     },
     {
       "url": "https://ribao.xyxww.com.cn/html/2026-09/20/2078634.html",
       "folder": "20260920_信阳日报_f45fac1d",
-      "access": "CON",
-      "con_note": "HTTP 502",
-      "captured_at": "2026-10-12T23:10:02"
+      "access": "OK",
+      "con_note": "",
+      "captured_at": "2026-10-13T19:53:29"
     },
     {
       "url": "https://ribao.xyxww.com.cn/html/2026-09/20/2078636.html",
       "folder": "20260920_信阳日报_e374b1e6",
-      "access": "CON",
-      "con_note": "HTTP 502",
-      "captured_at": "2026-10-12T23:10:10"
+      "access": "OK",
+      "con_note": "",
+      "captured_at": "2026-10-13T19:53:35"
     },
     {
       "url": "https://share.app3.jyb.cn/news_d/54f5d3f3c5ca0fe8356be5122dea40b8?from=UC92azc3djZYbnBlb2NaNkRvdVR4UkFlaDRpOFJlUndaRmV2dS85SGpaVWNDOC9LcnEwSmxBa2tSOXV0YlFvUg==",
@@ -1037,9 +967,9 @@
     {
       "url": "https://www.icsmart.cn/141930/",
       "folder": "20260911_芯智讯_d06db5f6",
-      "access": "CON",
-      "con_note": "HTTP 403",
-      "captured_at": "2026-10-12T22:36:45"
+      "access": "OK",
+      "con_note": "",
+      "captured_at": "2026-10-13T19:52:40"
     },
     {
       "url": "https://www.icsmart.cn/141932/",
@@ -1254,16 +1184,16 @@
     {
       "url": "https://www.zgcsb.com/news/pinDao/2026-09/17/a_691480.html",
       "folder": "20260918_人民日报社中国城市网首发_f4b9452b",
-      "access": "CON",
-      "con_note": "HTTP 0",
-      "captured_at": "2026-10-12T23:05:22"
+      "access": "OK",
+      "con_note": "",
+      "captured_at": "2026-10-13T19:52:51"
     },
     {
       "url": "https://www.zgswcn.com/news.html?aid=373837",
       "folder": "20260928_中国商报网_076dc77b",
-      "access": "CON",
-      "con_note": "HTTP 403",
-      "captured_at": "2026-10-12T23:13:26"
+      "access": "OK",
+      "con_note": "",
+      "captured_at": "2026-10-13T19:54:51"
     },
     {
       "url": "https://www.zhonghongwang.com/show-140-472193-1.html",
@@ -1373,23 +1303,23 @@
     {
       "url": "https://yrd.huanqiu.com/article/4THqdvtwiBl",
       "folder": "20260920_环球网随机_4aba0720",
-      "access": "CON",
-      "con_note": "源链接现场超时/不可达，已用同 URL 路由缓存渲染正文；以本地存证材料为依据",
-      "captured_at": "2026-10-12T23:10:52"
+      "access": "OK",
+      "con_note": "",
+      "captured_at": "2026-10-13T19:54:06"
     },
     {
       "url": "https://yrd.huanqiu.com/article/4THqfNylCNE",
       "folder": "20260920_环球网随机_39197366",
-      "access": "CON",
-      "con_note": "源链接现场超时/不可达，已用同 URL 路由缓存渲染正文；以本地存证材料为依据",
-      "captured_at": "2026-10-12T23:10:28"
+      "access": "OK",
+      "con_note": "",
+      "captured_at": "2026-10-13T19:53:42"
     },
     {
       "url": "https://yrd.huanqiu.com/article/4THqz2zCdtV",
       "folder": "20260921_环球网随机_5a2914f2",
-      "access": "CON",
-      "con_note": "源链接现场超时/不可达，已用同 URL 路由缓存渲染正文；以本地存证材料为依据",
-      "captured_at": "2026-10-12T23:11:45"
+      "access": "OK",
+      "con_note": "",
+      "captured_at": "2026-10-13T19:54:27"
     },
     {
       "url": "https://zibo.dzwww.com/zxdt/202609/t20260916_18120524.htm",

@@ -4,17 +4,17 @@
   "title": "统筹发展与安全：青年科技人才须厘清人工智能“模拟”与“本源”的边界",
   "media": "信阳日报",
   "pub_date": "20260920",
-  "access": "CON",
-  "captured_at": "2026-10-12T23:09:48",
+  "access": "OK",
+  "captured_at": "2026-10-13T19:53:19",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "92cde112b5cd40332be986a79b3315eaa83b698133e8a572f755701299f1de56",
-      "bytes": 118265
+      "sha256": "43c99dbaa2e5e02fdf949fd579994421a39d2fc5fa0b7be2ca9f0f7fc69b352a",
+      "bytes": 679662
     },
     "article_source.txt": {
-      "sha256": "38b38d093f1ea5c8fd0db7cea3af4f93ffeb19a4163a59252c6925e3e4543404",
-      "bytes": 568
+      "sha256": "ced25af4f254b8d59ab94905a7e25244aad65685c44fc40db96c2c27335b6ec3",
+      "bytes": 3576
     }
   }
 }

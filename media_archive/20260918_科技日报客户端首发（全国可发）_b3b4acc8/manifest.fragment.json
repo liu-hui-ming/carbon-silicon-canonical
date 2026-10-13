@@ -4,17 +4,17 @@
   "title": "十维框架厘清AI“模拟”与“觉知”边界",
   "media": "科技日报客户端首发（全国可发）",
   "pub_date": "20260918",
-  "access": "CON",
-  "captured_at": "2026-10-12T23:08:12",
+  "access": "OK",
+  "captured_at": "2026-10-13T19:53:01",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "735ac124750907d9d07e4d3f452a833cc33d07de14e8ffd785c2d6e3124badb6",
-      "bytes": 127491
+      "sha256": "b95c63869b27d7f52fb7a3086aea45991cac707177f9e9c6b5dee107eb314792",
+      "bytes": 965611
     },
     "article_source.txt": {
-      "sha256": "ad6a826fe578609d4c1cf54aa006e44e60cacbfd045ee1a2d889eec071dbe322",
-      "bytes": 669
+      "sha256": "ee05ebc003107676e9ed0d4ffb8be0992bad62edc8d8bf19dc2475e396aa66b6",
+      "bytes": 4349
     }
   }
 }

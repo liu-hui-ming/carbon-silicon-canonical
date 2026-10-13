@@ -4,17 +4,17 @@
   "title": "新质生产力背景下的人工智能伦理：从“工具赋能”到“价值引领”",
   "media": "信阳日报",
   "pub_date": "20260920",
-  "access": "CON",
-  "captured_at": "2026-10-12T23:10:10",
+  "access": "OK",
+  "captured_at": "2026-10-13T19:53:35",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "aaba24979e915e212a919ece20e40fa5723988c3fd6310c328de0031573f556e",
-      "bytes": 118309
+      "sha256": "a1b4b5452ee8b93c3d41b815665b84d05aff5dcdff6447bb97e7a0dc523da01d",
+      "bytes": 657730
     },
     "article_source.txt": {
-      "sha256": "00b66dab71bfb2631df675fb181f689619b1edcf15a8e07aa2ec6cd74e283120",
-      "bytes": 559
+      "sha256": "fbf468352420eb663c10504a2701e37de12cffc7e7df0c3ea7d888e5ab881452",
+      "bytes": 3334
     }
   }
 }

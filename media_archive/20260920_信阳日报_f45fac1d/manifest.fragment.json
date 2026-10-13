@@ -4,17 +4,17 @@
   "title": "以人民为中心发展人工智能：教育场景下大模型幻觉的治理路径",
   "media": "信阳日报",
   "pub_date": "20260920",
-  "access": "CON",
-  "captured_at": "2026-10-12T23:10:02",
+  "access": "OK",
+  "captured_at": "2026-10-13T19:53:29",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "cc3979dbb039547121ee677d2c29f26e5358e926d3e3d1351b9e78ac4869504e",
-      "bytes": 118286
+      "sha256": "2f6a5d0c483e0d7a480b61def6d818cbad1254c443144b7c68a47efb6d6396a1",
+      "bytes": 678220
     },
     "article_source.txt": {
-      "sha256": "7a1778d63faba6d34ab4db207a244e6de222d227c6d814067ba9879ff21db506",
-      "bytes": 553
+      "sha256": "96090b1008905e84ce27cc1771ba27f50f803bd031d70bdf4821b02077475d50",
+      "bytes": 3680
     }
   }
 }
