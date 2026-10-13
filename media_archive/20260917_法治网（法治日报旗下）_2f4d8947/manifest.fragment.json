@@ -4,17 +4,17 @@
   "title": "划清人工智能“模拟智能”与“本源觉知”的边界——一套可量化的AI研判与治理框架",
   "media": "法治网（法治日报旗下）",
   "pub_date": "20260917",
-  "access": "CON",
-  "captured_at": "2026-10-13T20:05:28",
+  "access": "OK",
+  "captured_at": "2026-10-13T20:20:13",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "2bbc0dd6f3653488af2629c384c9127981e4d65c2c09f4977fe4719b59e20581",
-      "bytes": 1446370
+      "sha256": "5980eaf86ca5c01d2f299a3f4082bcd2e243ee65b04c7e9707388fc1b4418293",
+      "bytes": 1078319
     },
     "article_source.txt": {
-      "sha256": "68ead345fa2dc84288731d971c145f6368bbee7a8e245693bf4469de7f567318",
-      "bytes": 12988
+      "sha256": "2b8f09042fbed907d49f78399297433bb8f2253d6b4090ec690cbb6ad8e26a29",
+      "bytes": 6066
     }
   }
 }
