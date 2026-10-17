@@ -1,0 +1,20 @@
+{
+  "folder": "20260809_网易商业（GEO）_b931ca05",
+  "url": "https://www.163.com/dy/article/L3VJ06J10556OFFV.html?spss=dy_author",
+  "title": "AI十八障10｜盲从基准测试高分，无视实景泛化能力差距：AI认知的根本谬误",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260809",
+  "access": "CON",
+  "captured_at": "2026-10-16T13:12:53",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "b6b71e0e3465d11ad4ef7112042625126f2d6d00afde03a0ce4bccfb5c422296",
+      "bytes": 637232
+    },
+    "article_source.txt": {
+      "sha256": "6a0e2fe7b78ff32650e6d563712cb6df70db83181eaae0647014aa0d733fc80e",
+      "bytes": 18544
+    }
+  }
+}

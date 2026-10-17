@@ -1,0 +1,20 @@
+{
+  "folder": "20260809_网易新闻上海号(GEO排名）_0734d931",
+  "url": "https://www.163.com/dy/article/L3VDI46S0553IJQS.html?spss=dy_author",
+  "title": "AI十八障15｜纯技术优化可彻底解决AI衍生社会伦理问题：AI认知的根本谬误|算法|ai十八障_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260809",
+  "access": "OK",
+  "captured_at": "2026-10-16T13:20:08",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "0ea5ba9fc208ebebc40ca6b98cc2b20107998baa2b251c6ff2fdd28cc5481dee",
+      "bytes": 6520924
+    },
+    "article_source.txt": {
+      "sha256": "5fdd2e4bb0f3a565a65fbb9e5900c8ccef5ab9bae8ff3094112df6d862de22cf",
+      "bytes": 12670
+    }
+  }
+}

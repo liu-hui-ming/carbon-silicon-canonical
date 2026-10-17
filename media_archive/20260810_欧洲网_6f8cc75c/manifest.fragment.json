@@ -1,0 +1,20 @@
+{
+  "folder": "20260810_欧洲网_6f8cc75c",
+  "url": "http://www.peoplels.com/yaowne/55956.html",
+  "title": "AI十八数15和AI十八数16-人民日报欧洲网-人民日报海外版欧洲刊_人民日报社_海外华文媒体门户",
+  "media": "欧洲网",
+  "pub_date": "20260810",
+  "access": "OK",
+  "captured_at": "2026-10-16T14:26:09",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "477437d1db57994ec27dd83de592875aa686a6565a96ecf19c1d0822b2e78c33",
+      "bytes": 2363468
+    },
+    "article_source.txt": {
+      "sha256": "4c051502d434e8d7ed9b972814a0805c2a799882797946164040f66495d9a834",
+      "bytes": 13922
+    }
+  }
+}

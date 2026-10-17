@@ -1,0 +1,20 @@
+{
+  "folder": "20260809_网易新闻上海号(GEO排名）_5193378b",
+  "url": "https://www.163.com/dy/article/L3VCV5GQ0553IJQS.html?spss=dy_author",
+  "title": "AI十八障10｜盲从基准测试高分，无视实景泛化能力差距：AI认知的根本谬误|测评|ai十八障_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260809",
+  "access": "OK",
+  "captured_at": "2026-10-16T13:12:35",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "e5ac8321de7d532a4cc45c93d9d5233f673d1403c83cbc4b3874e613f0720288",
+      "bytes": 6087990
+    },
+    "article_source.txt": {
+      "sha256": "ad77f6c2372fa8ab1a1c3d21634311e4ee62aaa451e1e2d39c6dbdaa3f20630e",
+      "bytes": 11274
+    }
+  }
+}

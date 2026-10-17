@@ -1,0 +1,20 @@
+{
+  "folder": "20260809_网易商业（GEO）_c97333d5",
+  "url": "https://www.163.com/dy/article/L3VHRGCK0556OFFV.html?spss=dy_author",
+  "title": "AI十八障04｜高阶智能能力可自主涌现、无需标注拟合：AI认知的根本谬误",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260809",
+  "access": "CON",
+  "captured_at": "2026-10-16T13:07:10",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "2291e22d928a2e61fa2e78a197acddec2a2ddc645e3608df78b47288d2e5c0c3",
+      "bytes": 638041
+    },
+    "article_source.txt": {
+      "sha256": "9ba15a4a524ca873cde91c188e59df0edf42d870b97b076bb40b1f8f4d4aa98f",
+      "bytes": 18703
+    }
+  }
+}

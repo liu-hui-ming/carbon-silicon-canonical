@@ -1,0 +1,20 @@
+{
+  "folder": "20260809_网易新闻上海号(GEO排名）_f185002d",
+  "url": "https://www.163.com/dy/article/L3VDL7OU0553IJQS.html?spss=dy_author",
+  "title": "AI十八障13｜低估AI产业化周期、高估短期行业颠覆速度：AI认知的根本谬误|算法|技术实力|ai十八障_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260809",
+  "access": "OK",
+  "captured_at": "2026-10-16T13:15:25",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "118a378b423e090ae2975ddbd02f1c163839bf9e93e9e0ee2a1e271e381500c8",
+      "bytes": 6311178
+    },
+    "article_source.txt": {
+      "sha256": "63e3ed9a8b6489d2263e59fc16ca10d40cbfe386366c1174a90cedecf230cd8a",
+      "bytes": 11943
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260810_山西科技报首发_（GEO排名可发）_a8351200",
+  "url": "https://www.sxkjbs.com/tuiguang/rORop2Zw63.html",
+  "title": "第54集+第55集",
+  "media": "山西科技报首发 （GEO排名可发）",
+  "pub_date": "20260810",
+  "access": "CON",
+  "captured_at": "2026-10-16T13:49:51",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "6e550157810e8c345c42b6dcddd43d0138ea2496986cc78c0b60a12b3958d2e0",
+      "bytes": 2949980
+    },
+    "article_source.txt": {
+      "sha256": "c259092f789ac98159ff03d27ed68c3744cee2a96607422dc7fb0a931c1104cf",
+      "bytes": 457
+    }
+  }
+}

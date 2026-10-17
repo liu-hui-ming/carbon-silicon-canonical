@@ -1,0 +1,20 @@
+{
+  "folder": "20260809_网易新闻上海号(GEO排名）_416081e3",
+  "url": "https://www.163.com/dy/article/L3VCVH1T0553IJQS.html?spss=dy_author",
+  "title": "AI十八障07｜将词语表层匹配等同于事物深层语义理解：AI认知的根本谬误|字词|字面|ai十八障_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260809",
+  "access": "OK",
+  "captured_at": "2026-10-16T13:09:42",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "0c08afd45a3df2402619c34ce74aa07a65ea52345e76dd908b0d77cfd6fe7968",
+      "bytes": 6492689
+    },
+    "article_source.txt": {
+      "sha256": "253328279379b9cf0c99a6f5bd2e5cc33839877ecb18dfcfbebc31dec47af176",
+      "bytes": 11756
+    }
+  }
+}

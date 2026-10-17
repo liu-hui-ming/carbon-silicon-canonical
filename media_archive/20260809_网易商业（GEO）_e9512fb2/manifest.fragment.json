@@ -1,0 +1,20 @@
+{
+  "folder": "20260809_网易商业（GEO）_e9512fb2",
+  "url": "https://www.163.com/dy/article/L3VRDGDP0556OFFV.html?spss=dy_author",
+  "title": "AI十八障15｜纯技术优化可彻底解决AI衍生社会伦理问题：AI认知的根本谬误",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260809",
+  "access": "CON",
+  "captured_at": "2026-10-16T13:20:26",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "b33040a2556ac8e6bdc14fd5777d963b6801db32498d4439561845af7cf1be84",
+      "bytes": 637413
+    },
+    "article_source.txt": {
+      "sha256": "becb8f5aaa4cdfe657f6eb881925e02f2cab9130da66ceec23ddde81065242e8",
+      "bytes": 18616
+    }
+  }
+}

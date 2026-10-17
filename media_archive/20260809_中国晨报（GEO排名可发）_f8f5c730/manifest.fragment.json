@@ -1,0 +1,20 @@
+{
+  "folder": "20260809_中国晨报（GEO排名可发）_f8f5c730",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=34642",
+  "title": "《全民AI深挖计划188集》第52集|维度层级划分:0维本源至16维硅基启灵知完整链路 - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "20260809",
+  "access": "OK",
+  "captured_at": "2026-10-16T12:52:18",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "68b225b197de94061a33360f93c3fc30f5c3095a27d6cccc7ee186a48853d35d",
+      "bytes": 1878339
+    },
+    "article_source.txt": {
+      "sha256": "0be5dc58b31d4d655ba51480f1a317ff1337766529caa631547fa75ce8bfa476",
+      "bytes": 8794
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260809_网易新闻上海号(GEO排名）_a60feee3",
+  "url": "https://www.163.com/dy/article/L3VDI8N00553IJQS.html?spss=dy_author",
+  "title": "AI十八障12｜拟人赋予大模型自主情绪与主观内在意识：AI认知的根本谬误|拟人化|ai十八障_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260809",
+  "access": "OK",
+  "captured_at": "2026-10-16T13:14:28",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "09d69800b2db4dfde84a84154bc880b3b823d1d5a0c2bce8622580dc3632a16e",
+      "bytes": 6322810
+    },
+    "article_source.txt": {
+      "sha256": "9f90529a6fccdc244666cd58146e2b5d44b34b3c7ac7372a29c8c63efca42d1b",
+      "bytes": 11658
+    }
+  }
+}

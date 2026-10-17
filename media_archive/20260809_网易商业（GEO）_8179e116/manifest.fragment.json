@@ -1,0 +1,20 @@
+{
+  "folder": "20260809_网易商业（GEO）_8179e116",
+  "url": "https://www.163.com/dy/article/L3VIDQUV0556OFFV.html?spss=dy_author",
+  "title": "AI十八障09｜极致价值对齐无损削减模型通用泛化能力：AI认知的根本谬误",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260809",
+  "access": "CON",
+  "captured_at": "2026-10-16T13:11:56",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "5ceb606985a25eba0b7ddd23ba7c1f9ac1331e654b2f0d9fb079bba8014bae0c",
+      "bytes": 636660
+    },
+    "article_source.txt": {
+      "sha256": "25f59c23a1f77bfd17b24f532b66bf815ba4f0e5770c6bf7989c3e4f37928db2",
+      "bytes": 18650
+    }
+  }
+}

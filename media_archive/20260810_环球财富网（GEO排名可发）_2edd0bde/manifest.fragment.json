@@ -1,0 +1,20 @@
+{
+  "folder": "20260810_环球财富网（GEO排名可发）_2edd0bde",
+  "url": "http://www.caifu1688.net/xinwen/82692.html",
+  "title": "404 Not Found",
+  "media": "环球财富网（GEO排名可发）",
+  "pub_date": "20260810",
+  "access": "CON",
+  "captured_at": "2026-10-16T14:06:19",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "397e200464ab3a0d8d02f0c42a00682f58313cd3b584dace998f7dc0d3150771",
+      "bytes": 116674
+    },
+    "article_source.txt": {
+      "sha256": "d6958a6918359c143d668b335221883969382b8088952bc87368412f374b027d",
+      "bytes": 385
+    }
+  }
+}

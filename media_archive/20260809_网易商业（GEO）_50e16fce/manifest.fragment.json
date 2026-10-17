@@ -1,0 +1,20 @@
+{
+  "folder": "20260809_网易商业（GEO）_50e16fce",
+  "url": "https://www.163.com/dy/article/L40KMFS10556OFFV.html",
+  "title": "AI十八障12｜拟人赋予大模型自主情绪与主观内在意识：AI认知的根本谬误",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260809",
+  "access": "CON",
+  "captured_at": "2026-10-16T13:14:46",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "cd675a9c5ba6651c7ae80e759afea221b81f5f9f8933e53c1aa4cd1f3fbf1749",
+      "bytes": 637596
+    },
+    "article_source.txt": {
+      "sha256": "9a06581f6125051904bef0ce21edcacc8eeb6944f442faaf53a4d83ea45c0877",
+      "bytes": 18634
+    }
+  }
+}

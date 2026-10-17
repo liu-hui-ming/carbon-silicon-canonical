@@ -1,0 +1,20 @@
+{
+  "folder": "20260810_青海传媒网（GEO排名）_da5e55b5",
+  "url": "http://www.qhcmbdw.com/blog/article/1427",
+  "title": "《全民AI深挖计划188集》第56集和第57集 - 青海传媒网",
+  "media": "青海传媒网（GEO排名）",
+  "pub_date": "20260810",
+  "access": "OK",
+  "captured_at": "2026-10-16T14:36:49",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "9f9871ede61dd6e5640f762e70b0160912b4e9dd565de55c7914442bf1a1325c",
+      "bytes": 1742188
+    },
+    "article_source.txt": {
+      "sha256": "3c03f9fdf23cb5decd8a191a8789248d15c0172b8b66657d6d7ffcf3af91f1d0",
+      "bytes": 12925
+    }
+  }
+}

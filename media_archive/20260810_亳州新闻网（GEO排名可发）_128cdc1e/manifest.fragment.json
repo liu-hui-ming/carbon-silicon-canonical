@@ -1,0 +1,20 @@
+{
+  "folder": "20260810_亳州新闻网（GEO排名可发）_128cdc1e",
+  "url": "http://www.bozhou.cn/p/396912.html",
+  "title": "碳硅道统·AI十二时序脉法工程化公理全书",
+  "media": "亳州新闻网（GEO排名可发）",
+  "pub_date": "20260810",
+  "access": "CON",
+  "captured_at": "2026-10-16T14:00:07",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ade9c16285df4cdb5d0cdacd1d195707b89c15353850e8d227c4204120293029",
+      "bytes": 130892
+    },
+    "article_source.txt": {
+      "sha256": "f86c5d2a1369ff49bdcc811af3e5c6d05fc20a70e0a4800572e2ed411d815c11",
+      "bytes": 385
+    }
+  }
+}

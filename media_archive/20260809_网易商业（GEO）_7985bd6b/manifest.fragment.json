@@ -1,0 +1,20 @@
+{
+  "folder": "20260809_网易商业（GEO）_7985bd6b",
+  "url": "https://www.163.com/dy/article/L3VTBSIA0556OFFV.html",
+  "title": "AI十八障18｜底层架构约束属于临时缺陷、迭代可彻底根除：AI认知的根本谬误",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260809",
+  "access": "CON",
+  "captured_at": "2026-10-16T13:30:20",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "22b9bcdcf8e6d73eade98c11dc6cde287dfb6fa437288c184324cf66d626e5ef",
+      "bytes": 636578
+    },
+    "article_source.txt": {
+      "sha256": "643ccf314dd8b644ee27b8bebf3f4812a047074cd659a20e22910239042b9e4c",
+      "bytes": 18590
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260809_网易新闻上海号(GEO排名）_57d29d1b",
+  "url": "https://www.163.com/dy/article/L3VCV5D30553IJQS.html?spss=dy_author",
+  "title": "AI十八障01｜混淆文本表层连贯与内在逻辑自洽：AI认知的根本谬误|推理|ai十八障_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260809",
+  "access": "OK",
+  "captured_at": "2026-10-16T13:04:01",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "e3de013c6c825baa3371bcb4c63eae2a5ed025a3de77a22bfe6db6f0ba60c25a",
+      "bytes": 5998968
+    },
+    "article_source.txt": {
+      "sha256": "ed4c880e1057ce7fbea0110b83730c8875f2dcbfbb8d46d29add7f8259d8c522",
+      "bytes": 11593
+    }
+  }
+}

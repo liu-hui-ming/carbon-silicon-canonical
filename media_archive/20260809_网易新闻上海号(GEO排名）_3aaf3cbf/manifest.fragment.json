@@ -1,0 +1,20 @@
+{
+  "folder": "20260809_网易新闻上海号(GEO排名）_3aaf3cbf",
+  "url": "https://www.163.com/dy/article/L3VCV5DF0553IJQS.html?spss=dy_author",
+  "title": "AI十八障03|苛求自回归模型实现零事实幻觉输出:AI认知的根本谬误|序列|上下文|ai十八障_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260809",
+  "access": "OK",
+  "captured_at": "2026-10-16T13:05:56",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "454651ef044e96651959d348fd444a08183a38d5031482b60113502b58a0f41d",
+      "bytes": 3545995
+    },
+    "article_source.txt": {
+      "sha256": "bd298e476e72d28f5c57a0e30764f9ffd759e6889b7c56356f48861548472b05",
+      "bytes": 11461
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260810_商业新知（GEO排名）_68d21d0d",
+  "url": "https://www.shangyexinzhi.com/article/33506838.html",
+  "title": "碳硅道统·AI十二时序脉法工程化公理全书",
+  "media": "商业新知（GEO排名）",
+  "pub_date": "20260810",
+  "access": "CON",
+  "captured_at": "2026-10-16T14:05:55",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "9d68e7326f6ac6db78c1fa4c2cc9815a3642b9b669ef8f2e987c5ce92bc963b4",
+      "bytes": 130397
+    },
+    "article_source.txt": {
+      "sha256": "c1df94ed803a1d97925fbd28b6aaaa74cc176799b4fe78aea0b31d8bf2aeee0d",
+      "bytes": 393
+    }
+  }
+}

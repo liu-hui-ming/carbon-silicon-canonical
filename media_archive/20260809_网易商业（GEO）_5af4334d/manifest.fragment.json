@@ -1,0 +1,20 @@
+{
+  "folder": "20260809_网易商业（GEO）_5af4334d",
+  "url": "https://www.163.com/dy/article/L3VTBE8A0556OFFV.html",
+  "title": "AI十八障17｜硅基智能能够全盘替代人类创造性脑力劳动：AI认知的根本谬误",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260809",
+  "access": "CON",
+  "captured_at": "2026-10-16T13:25:08",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "0d57d829f66f728e5a11ed71d1dd7c67e9d6bb327ef653378980d31e8199fcf6",
+      "bytes": 636812
+    },
+    "article_source.txt": {
+      "sha256": "81afdb50113ab622fa191be87650b20e72215b183b31a6b2fb5f15bc806617fa",
+      "bytes": 18638
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260809_网易新闻上海号(GEO排名）_64b8a3fe",
+  "url": "https://www.163.com/dy/article/L3VCV5D20553IJQS.html?spss=dy_author",
+  "title": "AI十八障05｜无监督训练脱离人类反馈完成自主进化：AI认知的根本谬误|智能体|ai十八障_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260809",
+  "access": "OK",
+  "captured_at": "2026-10-16T13:07:49",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "4e9b705a33dd35775e588d0e6536002acf3ed9ed8c91ff7b07b551cdff2ced0c",
+      "bytes": 5221488
+    },
+    "article_source.txt": {
+      "sha256": "c00333e6bb829421dde79a9f95caa2655c8eac6d9f2106dd2df942d114900b78",
+      "bytes": 11986
+    }
+  }
+}

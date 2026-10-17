@@ -1,0 +1,20 @@
+{
+  "folder": "20260810_黄山新闻网_bc5c4c13",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110896.shtml",
+  "title": "第56集+第57集",
+  "media": "黄山新闻网",
+  "pub_date": "20260810",
+  "access": "CON",
+  "captured_at": "2026-10-16T14:31:26",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "5c25a43b8f0b27b28c04e4df74bbb3bf93aa95780ce9b5e519814365af6d34af",
+      "bytes": 128361
+    },
+    "article_source.txt": {
+      "sha256": "4febb8839ab0b6bf0c729c879fcf94f29495b1a31337c508574b271618d7ef7e",
+      "bytes": 364
+    }
+  }
+}

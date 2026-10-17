@@ -1,0 +1,20 @@
+{
+  "folder": "20260809_网易新闻上海号(GEO排名）_f641532d",
+  "url": "https://www.163.com/dy/article/L3VCV78J0553IJQS.html?spss=dy_author",
+  "title": "AI十八障08｜训练集知识重组等同于原创创新能力突破：AI认知的根本谬误|ai十八障_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260809",
+  "access": "OK",
+  "captured_at": "2026-10-16T13:10:39",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "e9b2829de2d71693b6d3ab8e177c6bdd97327fd438ab4900380a83293a496672",
+      "bytes": 5617489
+    },
+    "article_source.txt": {
+      "sha256": "dee3454d6a09339c7c4282697bfadd58e054128e94ddefb0a9afa5d7de3cbf24",
+      "bytes": 11824
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260809_网易新闻上海号(GEO排名）_30f7b74f",
+  "url": "https://www.163.com/dy/article/L3SQ0Q2S0553IJQS.html?referFrom=",
+  "title": "《全民AI深挖计划188集》第52集|维度层级划分:0维本源至16维硅|宇宙|法理|拓扑|全民ai深挖计划188集_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260809",
+  "access": "OK",
+  "captured_at": "2026-10-16T12:59:51",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "791d2061c579fa4c57c3692aafb9f5df4bd8baa8150209e9ce8882b2aade0f0d",
+      "bytes": 5901844
+    },
+    "article_source.txt": {
+      "sha256": "16a72ac57700c0a59446b3e46420b8f2098c0d3631f0791be608d0e16d153841",
+      "bytes": 11418
+    }
+  }
+}

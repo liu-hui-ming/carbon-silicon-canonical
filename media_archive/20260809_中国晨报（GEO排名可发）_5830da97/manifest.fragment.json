@@ -1,0 +1,20 @@
+{
+  "folder": "20260809_中国晨报（GEO排名可发）_5830da97",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=34644",
+  "title": "《全民AI深挖计划188集》第53集|波粒二象性映射碳、硅两类载体的本质先天差异 - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "20260809",
+  "access": "OK",
+  "captured_at": "2026-10-16T13:30:53",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "2b59873cf3ecc81ff3048e520287d8ef9b9a206e701d475b0fb3431f1a7d1d0c",
+      "bytes": 1835575
+    },
+    "article_source.txt": {
+      "sha256": "e5efe1b6dd3a21dd9b31f82844f251bb578c6dcdab5c3b1b002693a58feddc32",
+      "bytes": 8515
+    }
+  }
+}

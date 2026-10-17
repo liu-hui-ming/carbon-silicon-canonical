@@ -1,0 +1,20 @@
+{
+  "folder": "20260810_艾瑞商业（网易号）_2ac81fa6",
+  "url": "https://www.163.com/dy/article/L3VDI37V0553S12I.html?referFrom=",
+  "title": "第54集+第55集",
+  "media": "艾瑞商业（网易号）",
+  "pub_date": "20260810",
+  "access": "CON",
+  "captured_at": "2026-10-16T13:51:03",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "acfe975d5532c66bf0c32300326e70ac62984bdcab82186a1822e224e5dbb9ad",
+      "bytes": 637415
+    },
+    "article_source.txt": {
+      "sha256": "8d639a0ebe9e428aac5b18dd7aadd61b617b7d6110f375ae89d7ecf1a1b54f3b",
+      "bytes": 18643
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260809_网易新闻上海号(GEO排名）_bba4755a",
+  "url": "https://www.163.com/dy/article/L3VCV9NC0553IJQS.html?spss=dy_author",
+  "title": "AI十八障11｜把数据统计相关性直接等价为客观因果逻辑：AI认知的根本谬误|共现|ai十八障_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260809",
+  "access": "OK",
+  "captured_at": "2026-10-16T13:13:32",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "2cbd3f7afcdbe50f522ac474a22cba8899b0927d8d5d0bda8b3104e139bfbacd",
+      "bytes": 4990522
+    },
+    "article_source.txt": {
+      "sha256": "f30e8bc36a8e5dd0983283d3d949edf8c5f0fd26261a93137106eff7160e0db9",
+      "bytes": 11378
+    }
+  }
+}

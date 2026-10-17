@@ -1,0 +1,20 @@
+{
+  "folder": "20260810_红商网（广告排名可发）_54d27d51",
+  "url": "http://www.redsh.com/a/20260811/013810.shtml",
+  "title": "《全民AI深挖计划188集》第56集和第57集 - 红商网",
+  "media": "红商网（广告排名可发）",
+  "pub_date": "20260810",
+  "access": "OK",
+  "captured_at": "2026-10-16T14:38:03",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "5a35633eb10153e620220fd936bf0a629ef167091e5ce6248ca37447807377b2",
+      "bytes": 2651910
+    },
+    "article_source.txt": {
+      "sha256": "7f072ea0e0257899172f0ce912850aa39a85a80aa985970186ff17fe218ea447",
+      "bytes": 13907
+    }
+  }
+}

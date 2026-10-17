@@ -1,0 +1,20 @@
+{
+  "folder": "20260810_三好大数据网（网易号）_c18b4c31",
+  "url": "https://www.163.com/dy/article/L3VCEFF00552XWVG.html?referFrom=",
+  "title": "第54集+第55集",
+  "media": "三好大数据网（网易号）",
+  "pub_date": "20260810",
+  "access": "CON",
+  "captured_at": "2026-10-16T13:53:58",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "2059d01f9a460e5996a03811a811bc6d857191887f6c832ac348ab84716a4e77",
+      "bytes": 636595
+    },
+    "article_source.txt": {
+      "sha256": "eefb49cf2d01c9370491f25bfd7c0c5f1bdbd2ad9ec781230f87e069fd13bd93",
+      "bytes": 18598
+    }
+  }
+}

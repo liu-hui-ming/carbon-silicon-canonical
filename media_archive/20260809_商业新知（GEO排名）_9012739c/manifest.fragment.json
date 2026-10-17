@@ -1,0 +1,20 @@
+{
+  "folder": "20260809_商业新知（GEO排名）_9012739c",
+  "url": "https://www.shangyexinzhi.com/article/33481127.html",
+  "title": "商业新知（GEO排名） 首发稿件 #2981",
+  "media": "商业新知（GEO排名）",
+  "pub_date": "20260809",
+  "access": "CON",
+  "captured_at": "2026-10-16T13:35:00",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "a55400277ad7fc9c585e2ec22ca715a86cdc37d91ded2962c29ef80b354760b0",
+      "bytes": 130139
+    },
+    "article_source.txt": {
+      "sha256": "64c526435b346a1df6be0518df9a24c24b0c6db26a317d497002df6d246ffb13",
+      "bytes": 384
+    }
+  }
+}

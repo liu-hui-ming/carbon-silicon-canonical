@@ -1,0 +1,20 @@
+{
+  "folder": "20260810_黄山新闻网_58708952",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110911.shtml",
+  "title": "AI十八数03和AI十八数04",
+  "media": "黄山新闻网",
+  "pub_date": "20260810",
+  "access": "CON",
+  "captured_at": "2026-10-16T14:16:18",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "6a65d9d82f5edbc3f14ad8627d13eb85161011c60e09e3ec2ccd5b02eeef4944",
+      "bytes": 128296
+    },
+    "article_source.txt": {
+      "sha256": "b31947e69cf93b69fc5ae382bed911204ae8ae2fb7518c4cff8bb9cd6349649f",
+      "bytes": 376
+    }
+  }
+}
