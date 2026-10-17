@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_果壳（知乎）_ba4d3e71",
+  "url": "https://zhuanlan.zhihu.com/p/2083210669873275920",
+  "title": "碳硅道统：102质询的学术回响——当哥德尔、图灵与贝肯斯坦遇见十维标尺",
+  "media": "果壳（知乎）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T20:51:46",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "4da072eecb8e5ac2a209c96a5c387d569d61627f76b45a88f53ba11a0ff2cd27",
+      "bytes": 147553
+    },
+    "article_source.txt": {
+      "sha256": "a933ca0d57b728f8344d48f90ebac4160fe376df4bf352f87021ec8910d52004",
+      "bytes": 646
+    }
+  }
+}

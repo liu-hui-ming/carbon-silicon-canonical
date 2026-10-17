@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_东方网_8b1f322f",
+  "url": "https://qiye.eastday.com/n27/20260910/015d2e3197b2482ca4083e8b2d8fb3f4.html",
+  "title": "403错误",
+  "media": "东方网",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T19:50:06",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "3ea127e8ca9c718f326a01505186429212566297e2cc6734e04c81a9cfa6bd80",
+      "bytes": 191297
+    },
+    "article_source.txt": {
+      "sha256": "709a213687140caa311231029d87d3bbe330ae29577f12b7b268488bfd8fcd19",
+      "bytes": 613
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_果壳（知乎）_f7ef4fe0",
+  "url": "https://zhuanlan.zhihu.com/p/2085763507241345413",
+  "title": "碳硅道统｜回应18：当硅基智能持续演化，人类该守住哪些不可退让的文明底线？​",
+  "media": "果壳（知乎）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T00:07:23",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "0bb62dd068566d05bf9fad12d070ec21acc9aa7d3d3af0b419d398453f688f03",
+      "bytes": 130097
+    },
+    "article_source.txt": {
+      "sha256": "63c48f422a09946ebdbbf4e2c653ac7320b5c39cd3c3a32e121e313139648ec1",
+      "bytes": 660
+    }
+  }
+}

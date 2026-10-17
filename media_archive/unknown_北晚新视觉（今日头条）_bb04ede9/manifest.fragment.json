@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_北晚新视觉（今日头条）_bb04ede9",
+  "url": "https://www.toutiao.com/article/7688270514652987913/",
+  "title": "碳硅道统：十维觉知标尺完整定义与量化判定体系 - 今日头条",
+  "media": "北晚新视觉（今日头条）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:50:08",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ea3b4374552e0b5d109c7ddebb2272b1b89da10373604b49d90f7d0b9ae9b7b6",
+      "bytes": 4298088
+    },
+    "article_source.txt": {
+      "sha256": "d176cf07fd73841120fc74264177d1fbb096dd796449156c523a41b5c8d3154a",
+      "bytes": 13076
+    }
+  }
+}

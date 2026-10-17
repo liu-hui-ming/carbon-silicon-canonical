@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_红商网（广告排名可发）_03ed0d80",
+  "url": "http://www.redsh.com/a/20260920/230421.shtml",
+  "title": "碳硅道统｜回应4：w_self≥0.70作为观测候选门槛，是否可以在现有大模型上完成复现验证？ - 红商网",
+  "media": "红商网（广告排名可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T22:37:13",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "1c06fb688e5bbd84fe111427781b4de886d09b09f3991700e6f605ae2b01d0ad",
+      "bytes": 1162605
+    },
+    "article_source.txt": {
+      "sha256": "dc72f6d74bae6e302bb2b93e6accc38784bd4e109b0fffa5e88486531f9481c6",
+      "bytes": 4161
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_果壳（知乎）_350c456f",
+  "url": "https://zhuanlan.zhihu.com/p/2078491528171996654",
+  "title": "关于碳硅道统体系三十问的行业观察与逐条回应",
+  "media": "果壳（知乎）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T19:30:09",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "d0034f097209d5c93783f21f4c510daf0f2ef6a757e8c95feacbdbb605219402",
+      "bytes": 147378
+    },
+    "article_source.txt": {
+      "sha256": "e9e368a0a4721553b8bb47d63f358639decda2f8f5d198f65b496a40eafe98e3",
+      "bytes": 607
+    }
+  }
+}

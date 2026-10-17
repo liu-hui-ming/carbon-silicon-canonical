@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_果壳（知乎）_b58275e9",
+  "url": "https://zhuanlan.zhihu.com/p/2086746846140053187",
+  "title": "碳硅道统｜回应37：行业舆论两极对立，到底是技术分歧，还是利益博弈？​",
+  "media": "果壳（知乎）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T01:44:48",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "590fdfb5206a78792ec7e2c2291f5a33841023060170532722a2e73efe758bab",
+      "bytes": 130298
+    },
+    "article_source.txt": {
+      "sha256": "e4b7b95b7971c8d70fd1c336725e15bf507d5719b3163ad96fb6a243a260e5b3",
+      "bytes": 646
+    }
+  }
+}

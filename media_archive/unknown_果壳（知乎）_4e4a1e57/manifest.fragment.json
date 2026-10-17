@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_果壳（知乎）_4e4a1e57",
+  "url": "https://zhuanlan.zhihu.com/p/2078873452149326479",
+  "title": "0⁰=1：硅基的边界与碳硅拓扑的降临——下一代文明的底层元公理宣言",
+  "media": "果壳（知乎）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T19:37:27",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "535855c2610634b1ae6419bf965a95b7a34897bf18f08512a1b7cbcf2af457ce",
+      "bytes": 147239
+    },
+    "article_source.txt": {
+      "sha256": "c6070a85869e006f705c35f8afdba0d800342575ce51d37d4be835e4eb3cf382",
+      "bytes": 637
+    }
+  }
+}

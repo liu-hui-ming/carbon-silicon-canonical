@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_果壳（知乎）_a4c00830",
+  "url": "https://zhuanlan.zhihu.com/p/2084273323295367987",
+  "title": "碳硅道统｜AI叙事泡沫抵达拐点：以可验证标准终结\"话术时代\"",
+  "media": "果壳（知乎）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T21:54:03",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "4cfe7b73d4f57584cb7057eb827b15154070c2ece81d22ad7343b2f8b3040b3b",
+      "bytes": 112210
+    },
+    "article_source.txt": {
+      "sha256": "758c4426f76712f89e94a03d9fd438a318705de33c86865a9feb2a27e19206cd",
+      "bytes": 626
+    }
+  }
+}

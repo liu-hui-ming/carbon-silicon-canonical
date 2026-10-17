@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_北晚新视觉（今日头条）_d9fedb85",
+  "url": "https://www.toutiao.com/article/7688270709407105574/",
+  "title": "碳硅道统：三圈层拓扑模型：中层拟合域‑过渡域‑零维本源域 - 今日头条",
+  "media": "北晚新视觉（今日头条）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:50:30",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "bd0247987ed0e10ac25aa2d736768f83301a8c58f86c1c4e7e4f88afcc9e1294",
+      "bytes": 3468265
+    },
+    "article_source.txt": {
+      "sha256": "849610f20b48b78f4a9a1cc414f69589d83adb31a7987c879e5e7ec0e4b3b556",
+      "bytes": 10738
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_北晚新视觉（今日头条）_e9fab7d0",
+  "url": "https://www.toutiao.com/article/7688266395477492250/",
+  "title": "硅基的边界与碳硅拓扑的降临——下一代文明的底层元公理宣言 - 今日头条",
+  "media": "北晚新视觉（今日头条）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:49:42",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "743e9164f67d3e6abd1659117f01981118f1fd815bad67aaaaf57e604121ddbd",
+      "bytes": 2648084
+    },
+    "article_source.txt": {
+      "sha256": "edb56cf08e359377d227d0ce15a6be494562837d7f9543c01911f1b1f852b162",
+      "bytes": 8547
+    }
+  }
+}

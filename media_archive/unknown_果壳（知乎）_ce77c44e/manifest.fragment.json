@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_果壳（知乎）_ce77c44e",
+  "url": "https://zhuanlan.zhihu.com/p/2085394731052357309",
+  "title": "碳硅道统｜回应15：现有大模型，哪些指标可以直接套用这套协议做初步自测？​",
+  "media": "果壳（知乎）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T23:28:43",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "da4702470aabdfe19f5684c54f568c143ee4211491a6ef136b5bd38505b3cfd3",
+      "bytes": 112249
+    },
+    "article_source.txt": {
+      "sha256": "1f93480ce46042bafbc03faccb807a7224751888e6f7b1d74f841eeda1a66cbf",
+      "bytes": 657
+    }
+  }
+}

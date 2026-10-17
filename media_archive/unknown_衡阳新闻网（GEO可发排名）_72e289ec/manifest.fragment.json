@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_衡阳新闻网（GEO可发排名）_72e289ec",
+  "url": "http://www.e0734.com/content/2026/0920/799_669000.html",
+  "title": "碳硅道统｜回应6：Re(λ_max(C_eff))＞1的相变预警，是算力堆出来的，还是功能拓扑涌现？ - 资讯栏目 - 中国衡阳新闻网，新衡阳APP，互联网新闻一类资质网站",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T22:45:29",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "e36eff069294b7c8e6e7429d3abc87f306dc3baa6fa5d13754a3a5d4e99a0adf",
+      "bytes": 852804
+    },
+    "article_source.txt": {
+      "sha256": "4bccb2ab289de4201ab6129f1a61a73f326551f19a7ebbc3ba6d272d125c9220",
+      "bytes": 3716
+    }
+  }
+}

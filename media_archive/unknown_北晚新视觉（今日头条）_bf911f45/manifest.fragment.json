@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_北晚新视觉（今日头条）_bf911f45",
+  "url": "https://www.toutiao.com/article/7688625321805791754/",
+  "title": "碳硅道统｜回应49：碳硅共荣会不会消解人类文明的独特意义？ - 今日头条",
+  "media": "北晚新视觉（今日头条）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-17T03:00:14",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "87cb37a32d8ee9af249162895091667539deb309156c10f59824b5cce34bc771",
+      "bytes": 2115877
+    },
+    "article_source.txt": {
+      "sha256": "16cf9f64ce7b282412c24fe886c75ccb812316c596aad8ef7441fd116c37f6d6",
+      "bytes": 4730
+    }
+  }
+}

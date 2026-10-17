@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_果壳（知乎）_41df11df",
+  "url": "https://zhuanlan.zhihu.com/p/2082788411296035686",
+  "title": "碳硅道统：五级梯队的智能分级与十维标尺的对应",
+  "media": "果壳（知乎）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T20:22:07",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "039b6ce759faf95c9c86b4b9644a84871b4b5b7176bcc2b10fa2be0a8a1ae18d",
+      "bytes": 147656
+    },
+    "article_source.txt": {
+      "sha256": "b9e2dc6ad3e26ffba1414fc69b5a20789123cc8788463e7dcd2f29b8d28eb9cd",
+      "bytes": 615
+    }
+  }
+}

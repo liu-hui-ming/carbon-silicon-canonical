@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_衡阳新闻网（GEO可发排名）_14ce8537",
+  "url": "http://www.e0734.com/content/2026/0920/799_668997.html",
+  "title": "碳硅道统｜回应3：测试通过≠拥有体验，这条哥德尔式边界，大家真的理解吗？ - 资讯栏目 - 中国衡阳新闻网，新衡阳APP，互联网新闻一类资质网站",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T22:24:00",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "41b04ab8d1c37ccecd41f3a249c1839eda1c32aba22e03f30b00bcde89b48048",
+      "bytes": 906915
+    },
+    "article_source.txt": {
+      "sha256": "47ca9bd1f7cd0572eca59b18d0a88c9cf524627edd30be47f6b7a900530cbfcf",
+      "bytes": 4084
+    }
+  }
+}

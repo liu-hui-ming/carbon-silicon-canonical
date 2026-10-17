@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_果壳（知乎）_8f0d4b25",
+  "url": "https://zhuanlan.zhihu.com/p/2084961618790708932",
+  "title": "碳硅道统｜回应2：区分工程观测结果和本体论结论，是不是现在AI讨论最缺失的一环？",
+  "media": "果壳（知乎）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T22:16:52",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "48aeac7e5f7100f279dc906c1407713509b16579906e688fc7bfda22929e005d",
+      "bytes": 112472
+    },
+    "article_source.txt": {
+      "sha256": "b94f8a0dc387e76b3af67f86ed8ba2efadc8296b6dc58f0efc8f97ab00956d2c",
+      "bytes": 664
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_果壳（知乎）_4f8a0bff",
+  "url": "https://zhuanlan.zhihu.com/p/2087562590927046525",
+  "title": "碳硅道统｜回应49：碳硅共荣会不会消解人类文明的独特意义？​",
+  "media": "果壳（知乎）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T02:54:25",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "1f0e70b25f5e6f9a4a890111837033dc6bf2acb09bfad2ea1d6512568e36461e",
+      "bytes": 130448
+    },
+    "article_source.txt": {
+      "sha256": "2b2a52e1b50d8c03285e57d564f8c2c7c1837babf483870d78eb30d5a998c619",
+      "bytes": 631
+    }
+  }
+}

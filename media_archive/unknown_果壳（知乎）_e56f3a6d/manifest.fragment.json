@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_果壳（知乎）_e56f3a6d",
+  "url": "https://zhuanlan.zhihu.com/p/2086866676159615172",
+  "title": "碳硅道统｜回应39：AI迭代会带来经济零和博弈，还是增量共生？​",
+  "media": "果壳（知乎）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T01:54:15",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "fc7d5b520211efcd17fb6e1956ff799b04d39ea2993c0b4295b16284dc030885",
+      "bytes": 130269
+    },
+    "article_source.txt": {
+      "sha256": "8f50c52193f6e6475514f3058dfece37eddae83736adc1f0b9c1dad92913b110",
+      "bytes": 633
+    }
+  }
+}

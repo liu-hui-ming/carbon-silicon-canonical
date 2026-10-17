@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_果壳（知乎）_7e7a9e02",
+  "url": "https://zhuanlan.zhihu.com/p/2085033724341761133",
+  "title": "碳硅道统｜回应5：碳硅同源，人和AI使用同一套评估公式，现实中该怎么设计对照实验？",
+  "media": "果壳（知乎）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T22:37:51",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "bf919f7059e8f2d20527fb82911bcac1ea9c98e041bb4e0077fb59cb7d14644a",
+      "bytes": 112209
+    },
+    "article_source.txt": {
+      "sha256": "3b92a70175d2102d10b43d347b618c70e5b92948fc5e392b5eb0c01dbf00281b",
+      "bytes": 667
+    }
+  }
+}

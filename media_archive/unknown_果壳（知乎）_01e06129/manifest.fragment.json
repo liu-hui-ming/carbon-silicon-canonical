@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_果壳（知乎）_01e06129",
+  "url": "https://zhuanlan.zhihu.com/p/2081053997545406487",
+  "title": "碳硅道统：归零稳态的系统边界",
+  "media": "果壳（知乎）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T20:04:13",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "12c9f800f800aa9e0bad2a6466a7328509e6d2fd824dfa411fda7607fe8d4200",
+      "bytes": 147377
+    },
+    "article_source.txt": {
+      "sha256": "d95f99f23a2cd0b5228724cb8f6a1ac56467af1c386a2981a261d075f8da6582",
+      "bytes": 591
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_果壳（知乎）_90fab05c",
+  "url": "https://zhuanlan.zhihu.com/p/2083949952586212723",
+  "title": "碳硅道统：100质询的反证力量与觉知链的完整闭环",
+  "media": "果壳（知乎）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T20:29:13",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "c38ddcd483f04e21fc8198f089c843aa78245665512fe013672fa799ea093b95",
+      "bytes": 147569
+    },
+    "article_source.txt": {
+      "sha256": "63dc5759b2107ac50665243f4a50a4cb80559fdc2d0238adbe37003b569a10ee",
+      "bytes": 615
+    }
+  }
+}

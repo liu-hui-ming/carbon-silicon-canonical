@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_果壳网首发_a5262af4",
+  "url": "https://www.guokr.com/article/470181",
+  "title": "碳硅道统：归零稳态的系统边界| 果壳 科技有意思",
+  "media": "果壳网首发",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T20:02:26",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "622ee126861e44bd004528a5b3c3ca80abb053473502b648d91b3c1a55bb1b95",
+      "bytes": 1144622
+    },
+    "article_source.txt": {
+      "sha256": "45caa8c741302e44b9ee78220e3f67035cce07b80353028b4c9785a90f23af42",
+      "bytes": 6623
+    }
+  }
+}

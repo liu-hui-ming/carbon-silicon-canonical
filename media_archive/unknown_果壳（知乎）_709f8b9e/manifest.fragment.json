@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_果壳（知乎）_709f8b9e",
+  "url": "https://zhuanlan.zhihu.com/p/2073768042060952896",
+  "title": "碳硅道统六问：物理仿真与大模型融合的六大工程卡点与破局路径",
+  "media": "果壳（知乎）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T19:04:02",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "da09d6842db2b24af1f7471463d2ff1ad658c202781c8ad8d784115e1e86f808",
+      "bytes": 147554
+    },
+    "article_source.txt": {
+      "sha256": "00e345c7fc06cbfa47037a3603b99821a536db92a941a785f21e61fe2f4be776",
+      "bytes": 632
+    }
+  }
+}

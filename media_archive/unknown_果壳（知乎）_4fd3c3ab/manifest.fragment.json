@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_果壳（知乎）_4fd3c3ab",
+  "url": "https://zhuanlan.zhihu.com/p/2086935634468409828",
+  "title": "碳硅道统｜回应43：算力过剩时代，资源浪费的本质是什么？​",
+  "media": "果壳（知乎）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T02:18:11",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "d3d39411a8d1f27a89c94060a632bb4bc90d1a58f9e05cdab3f461f4786d7967",
+      "bytes": 130636
+    },
+    "article_source.txt": {
+      "sha256": "5c2d228354e70a6d583db0f27945a08b97d1f5401d0fb1017689675b19c9d6d2",
+      "bytes": 628
+    }
+  }
+}

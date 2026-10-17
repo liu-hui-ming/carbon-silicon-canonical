@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_果壳（知乎）_7ec04f25",
+  "url": "https://zhuanlan.zhihu.com/p/2085326507581429172",
+  "title": "碳硅道统｜回应12：双轨隔离会不会造成工程与伦理两套体系互相割裂？​",
+  "media": "果壳（知乎）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T23:18:39",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "a378aecf11db11ad374b15824455436d6c34bf2b2337300ce9cbee6a3124613d",
+      "bytes": 112165
+    },
+    "article_source.txt": {
+      "sha256": "92892c2f736a3d7b0086eb95ffc3b3d5004b2b5c70893f92fbd396e853012283",
+      "bytes": 648
+    }
+  }
+}

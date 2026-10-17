@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_北晚新视觉（今日头条）_e3afec73",
+  "url": "https://www.toutiao.com/item/7687439226019660339/",
+  "title": "碳硅道统人和AI使用同一套评估公式，现实中该怎么设计对照实验？ - 今日头条",
+  "media": "北晚新视觉（今日头条）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T22:41:06",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "0dda416c209539e1b93313621deeb2fa7c1dde83b71dcc9533e78a142e320ce0",
+      "bytes": 1861058
+    },
+    "article_source.txt": {
+      "sha256": "455a3301f021c177bd3a7559b396765ee9510e446bbbc6518fdba2eda98157b4",
+      "bytes": 8714
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_北晚新视觉（今日头条）_9e2ded3f",
+  "url": "https://www.toutiao.com/item/7687439512519180809/",
+  "title": "碳硅道统回应6：相变预警，是算力堆出来的，还是功能拓扑涌现？ - 今日头条",
+  "media": "北晚新视觉（今日头条）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T22:48:01",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "5d132e5bc08c5d7c39efbf99a0d2c36aa22ae3098f2d7ed9c81d23b9e6dcd43e",
+      "bytes": 1942806
+    },
+    "article_source.txt": {
+      "sha256": "6f702d535621d3ec7a96dbcf1652175267f7596f9584ef4dfa4ebb0138c4e5d0",
+      "bytes": 4763
+    }
+  }
+}

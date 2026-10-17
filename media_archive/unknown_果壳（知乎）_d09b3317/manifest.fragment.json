@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_果壳（知乎）_d09b3317",
+  "url": "https://zhuanlan.zhihu.com/p/2083587923778323834",
+  "title": "碳硅道统：主流AGI观点逐条锐评",
+  "media": "果壳（知乎）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T21:23:18",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ee118f3e8895140ed152714e24be5544fe8819b43e4b0c3e6e9409d4af112f9f",
+      "bytes": 112300
+    },
+    "article_source.txt": {
+      "sha256": "e3ecbc6b3d3d69f67e62fc4c13a685c9f0e1142c3a5f4d7d30994dd7f41a4606",
+      "bytes": 589
+    }
+  }
+}

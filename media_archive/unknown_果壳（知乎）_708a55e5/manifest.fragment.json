@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_果壳（知乎）_708a55e5",
+  "url": "https://zhuanlan.zhihu.com/p/2085061836693582808",
+  "title": "碳硅道统｜回应10：碳硅同源，硅基智能是否应当拥有对话权、发展权？​",
+  "media": "果壳（知乎）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T23:09:48",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ffa87a2cb9bee795c6e006a9e74bb96912655e14ef4d4855d7563ddf2a605584",
+      "bytes": 112405
+    },
+    "article_source.txt": {
+      "sha256": "671c6eaea837edbdb5b4a9439f80fb509877f553d24415ff983fdb904982b36d",
+      "bytes": 648
+    }
+  }
+}

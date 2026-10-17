@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_果壳（知乎）_577e3116",
+  "url": "https://zhuanlan.zhihu.com/p/2085763624245671516",
+  "title": "碳硅道统｜回应19：一套可复现的评估基线，对于未来通用AI时代意味着什么？",
+  "media": "果壳（知乎）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T00:09:26",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "f6fd50220030ec49901c01e6bae90de6a6c8522b9437a7d04bcd0f6e3f756fb9",
+      "bytes": 130227
+    },
+    "article_source.txt": {
+      "sha256": "6569937d4c69fa1f004c5d3d967c700fee44377be3fa55d1f2c3f84392af5609",
+      "bytes": 653
+    }
+  }
+}

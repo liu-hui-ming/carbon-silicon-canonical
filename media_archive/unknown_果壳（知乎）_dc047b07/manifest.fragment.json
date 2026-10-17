@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_果壳（知乎）_dc047b07",
+  "url": "https://zhuanlan.zhihu.com/p/2086506125973897584",
+  "title": "碳硅道统｜回应29：什么是叙事层‑工程层双仓刚性隔离​实操上怎么区分两份仓库内容？​",
+  "media": "果壳（知乎）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T00:54:55",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "2c7bd59948c88d77ddce7e96d3b8b5d62376773bb7eeb44b514a91e563553a96",
+      "bytes": 130323
+    },
+    "article_source.txt": {
+      "sha256": "6d58d585be2b93dcedaf54209bb4ab43ac1edb9fc4ca3f616b9bbd97b29aa7a0",
+      "bytes": 667
+    }
+  }
+}

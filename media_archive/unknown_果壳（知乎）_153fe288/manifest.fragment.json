@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_果壳（知乎）_153fe288",
+  "url": "https://zhuanlan.zhihu.com/p/2087176448138389481",
+  "title": "碳硅道统｜回应46：舆论为什么偏爱极端结论、排斥中道公理？​",
+  "media": "果壳（知乎）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T02:38:21",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "065250964fd55ffd6d3efe5ced2d08ed1e46c9f03b67e4e753025212c28a3923",
+      "bytes": 130154
+    },
+    "article_source.txt": {
+      "sha256": "c63531d31d5243f9984f5953689b38e41841dde189c6757708c61eb04ff039e6",
+      "bytes": 631
+    }
+  }
+}

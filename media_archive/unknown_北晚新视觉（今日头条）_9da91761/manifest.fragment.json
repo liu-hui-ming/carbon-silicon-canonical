@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_北晚新视觉（今日头条）_9da91761",
+  "url": "https://www.toutiao.com/item/7687441912932123145/",
+  "title": "回应13：阈值ε、δ、Φ_thresh的校准，会不会被人为篡改偏向？ - 今日头条",
+  "media": "北晚新视觉（今日头条）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:22:42",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "23aa641bb978ddec89be7a6baa59e46e0968f56acc4c9bbdf8175192ecbd8916",
+      "bytes": 1998935
+    },
+    "article_source.txt": {
+      "sha256": "984cba2bec8bbd0d66b387fdf3582a8d52904518d6d26f9c9ddba2722183dcee",
+      "bytes": 5299
+    }
+  }
+}

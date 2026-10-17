@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_果壳（知乎）_b4573182",
+  "url": "https://zhuanlan.zhihu.com/p/2086505991093360188",
+  "title": "碳硅道统｜回应34：人机劳动重构后，人类劳动价值将如何重新定义？​",
+  "media": "果壳（知乎）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T01:27:52",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "80dc9b33ab8fb01d7ce1ca0c466e84d00bd5719628ef7843b7b3179bebb9346e",
+      "bytes": 130471
+    },
+    "article_source.txt": {
+      "sha256": "281972b2b8a6c9dc36bb55a6998af78e506a4200692e63725fdbd7312b030548",
+      "bytes": 640
+    }
+  }
+}

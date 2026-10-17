@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_果壳（知乎）_a3f984cc",
+  "url": "https://zhuanlan.zhihu.com/p/2076338783000212919",
+  "title": "研读碳硅道统体系后续二十问：聚焦工程落地、仿真架构与算力物理边界",
+  "media": "果壳（知乎）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T19:11:59",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "61a3fef480ce78bc44d63d43cb18f19072c688d19b604a7e2227a4ace072824c",
+      "bytes": 147428
+    },
+    "article_source.txt": {
+      "sha256": "f7dbbcafba443612862330a19554ec35c9d224f49af84b7d62a9cd878304b874",
+      "bytes": 641
+    }
+  }
+}

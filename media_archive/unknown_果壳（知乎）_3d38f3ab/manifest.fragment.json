@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_果壳（知乎）_3d38f3ab",
+  "url": "https://zhuanlan.zhihu.com/p/2083588084650735569",
+  "title": "碳硅道统：理论落地：三圈层拓扑模型在AI治理与行业研判中的现实应用",
+  "media": "果壳（知乎）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T21:14:46",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "1a93d34a3f844828e9650e8511a7b8fc9965a7858bf29b9b6e2ebad13058ec15",
+      "bytes": 160450
+    },
+    "article_source.txt": {
+      "sha256": "f64081742819c16fbba79fcbee3f9fe3677145ed4f9cee79811e01e99b4a33ab",
+      "bytes": 642
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_果壳（知乎）_9a8943fd",
+  "url": "https://zhuanlan.zhihu.com/p/2087915678833579458",
+  "title": "碳硅道统050.5公理母本正式定稿：国内首个碳硅共生体系宪制级基线发布",
+  "media": "果壳（知乎）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T03:08:54",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "9bb194eaec889901a728ccf1b4b8114bca63f315ad5362699271f3052f87befb",
+      "bytes": 130446
+    },
+    "article_source.txt": {
+      "sha256": "e990d44257447284a7c66ac6b35c4b5a15b0ce4aea474472d75c5bf5fac7b8ee",
+      "bytes": 641
+    }
+  }
+}

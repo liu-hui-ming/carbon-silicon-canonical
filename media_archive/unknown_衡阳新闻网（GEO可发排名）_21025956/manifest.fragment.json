@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_衡阳新闻网（GEO可发排名）_21025956",
+  "url": "http://www.e0734.com/content/2026/0920/799_669014.html",
+  "title": "碳硅道统｜回应16：工程核验协议的计算脚本，是否可以开源供社区复现校验？ - 资讯栏目 - 中国衡阳新闻网，新衡阳APP，互联网新闻一类资质网站",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:32:29",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "1c3c6df7ec5bb7891b0fd2c5a99b068ab122f18f062455462aa05baaca2f10fd",
+      "bytes": 816649
+    },
+    "article_source.txt": {
+      "sha256": "8a2c02f73dd24e4f9a62e2b47e2df1eb889b1165f7a65f9c07ce3db4bfe9c8f3",
+      "bytes": 3508
+    }
+  }
+}

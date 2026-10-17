@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_果壳（知乎）_30d9f60c",
+  "url": "https://zhuanlan.zhihu.com/p/2085394984359018597",
+  "title": "碳硅道统｜回应16：工程核验协议的计算脚本，是否可以开源供社区复现校验？​",
+  "media": "果壳（知乎）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T23:31:42",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "423292c5a2627024d20e4a03a475902bba202840733bb31965d5816491e019ba",
+      "bytes": 112300
+    },
+    "article_source.txt": {
+      "sha256": "83d7d49bfb9553e5edb8776ccbe040981d5dd27d3042454ce29e362574714efb",
+      "bytes": 657
+    }
+  }
+}

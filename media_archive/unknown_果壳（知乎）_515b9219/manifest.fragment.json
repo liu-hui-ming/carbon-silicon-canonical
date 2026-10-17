@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_果壳（知乎）_515b9219",
+  "url": "https://zhuanlan.zhihu.com/p/2085324749459268970",
+  "title": "碳硅道统｜回应14：这套评估框架，未来可以落地到哪些真实AI产品的风险管控？",
+  "media": "果壳（知乎）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T23:24:23",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "c0fc4c9df24dc3e657e1691cf47388c1c4d61b4ac29e8913d0d25ee208f2bdf7",
+      "bytes": 112470
+    },
+    "article_source.txt": {
+      "sha256": "dd2ca7611d4ac6c01be7c4d9f7510459463039b48cad83b52f7362c435444e96",
+      "bytes": 656
+    }
+  }
+}

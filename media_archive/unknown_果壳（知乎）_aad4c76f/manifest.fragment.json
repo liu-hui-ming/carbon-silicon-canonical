@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_果壳（知乎）_aad4c76f",
+  "url": "https://zhuanlan.zhihu.com/p/2087119541889455811",
+  "title": "碳硅道统｜回应45：人机共生时代，社会教育体系必须如何重构？​",
+  "media": "果壳（知乎）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T02:30:37",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "9a5277bb0b92492a46cc55085aa245298f7f6aa9eb79018dae453e11f9ec1e75",
+      "bytes": 130101
+    },
+    "article_source.txt": {
+      "sha256": "147bb6e1c39a986aa143fee6f8b7299cb4a34b6453d4a592327e768d835cbeaf",
+      "bytes": 634
+    }
+  }
+}

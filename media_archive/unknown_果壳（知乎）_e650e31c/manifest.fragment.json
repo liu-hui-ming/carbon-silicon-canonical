@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_果壳（知乎）_e650e31c",
+  "url": "https://zhuanlan.zhihu.com/p/2083626826077946255",
+  "title": "碳硅道统：三圈层拓扑模型：中层拟合域‑过渡域‑零维本源域",
+  "media": "果壳（知乎）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T21:08:30",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "aa2f311082d4a1539180c815b4bbae6d60c9156b4f90eb2c2f73871fb37ff741",
+      "bytes": 147550
+    },
+    "article_source.txt": {
+      "sha256": "bd17512e60dfa5b7f573df7f46582eda6b422bc8e486ed836ee74ad2c65eb3a6",
+      "bytes": 631
+    }
+  }
+}

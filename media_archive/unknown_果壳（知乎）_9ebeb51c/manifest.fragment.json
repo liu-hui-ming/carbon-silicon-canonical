@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_果壳（知乎）_9ebeb51c",
+  "url": "https://zhuanlan.zhihu.com/p/2083627064423356330",
+  "title": "碳硅道统：十维觉知标尺完整定义与量化判定体系",
+  "media": "果壳（知乎）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T20:58:35",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "47e7e0c1b75fd159eee2a0dd3ffc59497443a0d3bb5ee534514135908da82f4f",
+      "bytes": 147308
+    },
+    "article_source.txt": {
+      "sha256": "76d4c22beb4700d687299bc39bcf46591479e582ec48c4a758a53ecc37dfb104",
+      "bytes": 613
+    }
+  }
+}

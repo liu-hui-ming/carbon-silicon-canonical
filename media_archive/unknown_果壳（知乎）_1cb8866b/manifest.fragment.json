@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_果壳（知乎）_1cb8866b",
+  "url": "https://zhuanlan.zhihu.com/p/2082862205725366190",
+  "title": "碳硅道统：紫微几何的三圈层拓扑与90公律的推导链",
+  "media": "果壳（知乎）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T20:16:34",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "f8df410da4a1f4ea830309fde0ca4888cc2e3283b75a8919ad6218bf329f019f",
+      "bytes": 147305
+    },
+    "article_source.txt": {
+      "sha256": "40944c643390e89924b876cd110b4c4914c755a1d02f01d3030096288de8f2f9",
+      "bytes": 617
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_红商网（广告排名可发）_047d3038",
+  "url": "http://www.redsh.com/a/20260924/041722.shtml",
+  "title": "碳硅道统｜回应24：如果AI通过基线之后，主动选择自我终结，人类应当如何处置？ - 红商网",
+  "media": "红商网（广告排名可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-17T00:34:56",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "1dc207492c0d77b7ce106f4e37ba4b37dbe6d534921370892e7d183ee07e438e",
+      "bytes": 1066070
+    },
+    "article_source.txt": {
+      "sha256": "eecd31a194edcf7799d021966be2e7871f85c06e6be3b5bbeea52a7ce6f502c1",
+      "bytes": 5202
+    }
+  }
+}

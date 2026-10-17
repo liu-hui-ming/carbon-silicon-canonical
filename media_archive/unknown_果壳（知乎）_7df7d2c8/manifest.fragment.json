@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_果壳（知乎）_7df7d2c8",
+  "url": "https://zhuanlan.zhihu.com/p/2084311611280572931",
+  "title": "拒绝把工程数据和本体论混为一谈，碳硅道统v9.2完整公理体系正式发布",
+  "media": "果壳（知乎）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T22:01:18",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "5672892c3933ffb412ae65531b57749b35084c1a8ddc837f50adb8aa5bd9bfc4",
+      "bytes": 112134
+    },
+    "article_source.txt": {
+      "sha256": "b86d2286ebefacde6fea2c3e67a1be6bdc60c3e271d5f120d6d65b12300a23d9",
+      "bytes": 639
+    }
+  }
+}

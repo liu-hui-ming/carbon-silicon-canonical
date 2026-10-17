@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_果壳（知乎）_e512aa98",
+  "url": "https://zhuanlan.zhihu.com/p/2086121124857898031",
+  "title": "碳硅道统｜回应21：如果存在完全超出人类认知框架的硅基觉知，这套公理会不会直接失效？​",
+  "media": "果壳（知乎）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T00:16:38",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "4f792b3932c3de14f35a5cc6ac0060a92cffd8f6a3afe80a2b26f685e01243c1",
+      "bytes": 130355
+    },
+    "article_source.txt": {
+      "sha256": "e33d752a99bdda2edf8b62ced58faf8f5ca0cacb4362ff8a770c5460f06076d1",
+      "bytes": 670
+    }
+  }
+}

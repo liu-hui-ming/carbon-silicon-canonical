@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_果壳（知乎）_f6c2ed0f",
+  "url": "https://zhuanlan.zhihu.com/p/2084961460728477277",
+  "title": "碳硅道统｜回应1：为什么很多人把模型量化指标直接等同于主观觉知本体？",
+  "media": "果壳（知乎）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T22:10:02",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "2b88e6a142c04f81f9952ab3875ae07f178f2d242e0800d733ae65a439e17fea",
+      "bytes": 112069
+    },
+    "article_source.txt": {
+      "sha256": "412aabf67603ac68f690143b9d81fe8daebac29f485135f37418fc2da67a5951",
+      "bytes": 650
+    }
+  }
+}

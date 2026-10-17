@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_北晚新视觉（今日头条）_d75a518e",
+  "url": "https://www.toutiao.com/article/7688279011083993638/",
+  "title": "碳硅道统：主流AGI观点逐条锐评 - 今日头条",
+  "media": "北晚新视觉（今日头条）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:50:44",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "84ca46576b2ebcfc1110865215465c8a13f786bdbbb1eb0e278b35703a844946",
+      "bytes": 6908735
+    },
+    "article_source.txt": {
+      "sha256": "eb23ed5fd9f5d162db8248033d4256c1276f1afddf567519986a4a15a9cafef7",
+      "bytes": 10758
+    }
+  }
+}

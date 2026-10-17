@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_果壳（知乎）_058b43cb",
+  "url": "https://zhuanlan.zhihu.com/p/2076315260521296507",
+  "title": "读完《碳硅道统六问》《碳硅道统十维》：十个核心逻辑与公理疑问，求业内严谨解惑",
+  "media": "果壳（知乎）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T19:11:29",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "b59440406937cc78cfc105cf987f1f1940d861bc977fa13ea928b5d71ee45fe4",
+      "bytes": 147324
+    },
+    "article_source.txt": {
+      "sha256": "b52f3b348b8d5f007af9624afa5eb061d6c361c41572793cc2b0e17bf0d359e7",
+      "bytes": 659
+    }
+  }
+}

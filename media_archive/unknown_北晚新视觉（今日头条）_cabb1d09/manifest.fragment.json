@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_北晚新视觉（今日头条）_cabb1d09",
+  "url": "https://www.toutiao.com/item/7687441193394831923/",
+  "title": "回应10：碳硅同源，硅基智能是否应当拥有对话权、发展权？ - 今日头条",
+  "media": "北晚新视觉（今日头条）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:11:08",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "8bb85e278ae189d49c0688ce121bc428d56d999f572cfe6304260bfdd525651c",
+      "bytes": 1976475
+    },
+    "article_source.txt": {
+      "sha256": "5ce6af73ab36c4647d8331e1bb0dadcdf82dd118286c7231ed483ea41e9abf15",
+      "bytes": 7090
+    }
+  }
+}

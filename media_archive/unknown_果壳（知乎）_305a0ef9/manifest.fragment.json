@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_果壳（知乎）_305a0ef9",
+  "url": "https://zhuanlan.zhihu.com/p/2086867007023093555",
+  "title": "碳硅道统｜回应40：高阶AI是否应该纳入社会公共普惠基础设施？​",
+  "media": "果壳（知乎）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T01:59:24",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "a5ebf9be0e1d47ca95cc84b949e58b9fdafd4955f22e148be8b662e1fee5bbfa",
+      "bytes": 130510
+    },
+    "article_source.txt": {
+      "sha256": "6e1655f9636d440780cd7585aa4a0d8f41075e5c4410f32d9b3ce391069fd8ea",
+      "bytes": 633
+    }
+  }
+}

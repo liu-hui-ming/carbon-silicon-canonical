@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_北晚新视觉（今日头条）_f119ecc0",
+  "url": "https://www.toutiao.com/item/7687439892259013130/",
+  "title": "碳硅道统回应7：主权漂移熔断机制，如何在真实系统中持续监控？ - 今日头条",
+  "media": "北晚新视觉（今日头条）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T22:54:20",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "1c38018b77689cf65797350a562bbd8fa56c7cb7415cfde0a637e4ff19ec9980",
+      "bytes": 1670126
+    },
+    "article_source.txt": {
+      "sha256": "9f2373cff23b0d93296f602134438a7bd73ebc0c0592ba955f81453aecf45af2",
+      "bytes": 8666
+    }
+  }
+}
