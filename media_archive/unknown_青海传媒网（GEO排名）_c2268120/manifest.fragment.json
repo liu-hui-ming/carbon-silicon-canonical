@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_青海传媒网（GEO排名）_c2268120",
+  "url": "http://www.qhcmbdw.com/blog/article/1622",
+  "title": "碳硅道统｜回应13：阈值ε、δ、Φ_thresh的校准，会不会被人为篡改偏向？ - 青海传媒网",
+  "media": "青海传媒网（GEO排名）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:22:53",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "21c5ddfa7ce111614911424f547a14cb29c2ef96500c862815aa94a4d202aba4",
+      "bytes": 514385
+    },
+    "article_source.txt": {
+      "sha256": "a43792daef058036cce119a8494f5ea14e79031044d1b9282c265c407ccfdd23",
+      "bytes": 3494
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_赛迪网首发_4025befc",
+  "url": "https://www.ccidnet.com/cpfwyjs/103358.jhtml",
+  "title": "碳硅道统｜回应4：w_self≥0.70作为观测候选门槛，是否可以在现有大模型上完成复现验证？",
+  "media": "赛迪网首发",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T22:33:43",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ae5adc07c783ca7e30c8a758ee43c6bafc2fa41268553f33c77c09dc3f9663d0",
+      "bytes": 128876
+    },
+    "article_source.txt": {
+      "sha256": "4ef648ebc8df2d29e2a7961b7df4a985e47d0b4a438da1d40d18aa390681bedd",
+      "bytes": 447
+    }
+  }
+}

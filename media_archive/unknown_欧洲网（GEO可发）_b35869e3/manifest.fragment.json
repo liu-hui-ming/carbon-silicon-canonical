@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_欧洲网（GEO可发）_b35869e3",
+  "url": "http://www.peoplels.com/yaowne/56610.html",
+  "title": "碳硅道统｜回应16：工程核验协议的计算脚本，是否可以开源供社区复现校验？-人民日报欧洲网-人民日报海外版欧洲刊_人民日报社_海外华文媒体门户",
+  "media": "欧洲网（GEO可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:32:37",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "5c620e6292d71f43329295178d6e11cf10ffaab4cbee9fc78a41487c596b4f91",
+      "bytes": 947124
+    },
+    "article_source.txt": {
+      "sha256": "cb656666b3ce2c395d4b54a961bd53de5a1755471b3cb8bea0f37df22d11c406",
+      "bytes": 4341
+    }
+  }
+}

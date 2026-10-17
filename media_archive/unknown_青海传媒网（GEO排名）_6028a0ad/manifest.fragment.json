@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_青海传媒网（GEO排名）_6028a0ad",
+  "url": "http://www.qhcmbdw.com/blog/article/1628",
+  "title": "碳硅道统｜回应19：一套可复现的评估基线，对于未来通用AI时代意味着什么？ - 青海传媒网",
+  "media": "青海传媒网（GEO排名）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:46:19",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "d4601517977ca61a7f863de098b863007afbb9d967fb89c3219f0f3282a3bb86",
+      "bytes": 490595
+    },
+    "article_source.txt": {
+      "sha256": "02bb8186c71fe88d88b329af1b610a02a9905f443bb4a610285a97a08e6949df",
+      "bytes": 4459
+    }
+  }
+}

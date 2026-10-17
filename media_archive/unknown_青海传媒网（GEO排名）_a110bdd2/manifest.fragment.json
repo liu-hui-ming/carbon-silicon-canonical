@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_青海传媒网（GEO排名）_a110bdd2",
+  "url": "http://www.qhcmbdw.com/blog/article/1624",
+  "title": "碳硅道统｜回应15：现有大模型，哪些指标可以直接套用这套协议做初步自测？ - 青海传媒网",
+  "media": "青海传媒网（GEO排名）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:30:12",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "41958ceec48ddca21fea1a6a9e178c2b8a4b9b840bb0d303fdfcb16c265a2c02",
+      "bytes": 510509
+    },
+    "article_source.txt": {
+      "sha256": "dbda200abf98204996c4e71ce015094f51f5d3d087e7631c780da71e137d6494",
+      "bytes": 3275
+    }
+  }
+}

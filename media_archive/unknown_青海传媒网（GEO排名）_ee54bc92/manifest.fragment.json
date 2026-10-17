@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_青海传媒网（GEO排名）_ee54bc92",
+  "url": "http://www.qhcmbdw.com/blog/article/1625",
+  "title": "碳硅道统｜回应16：工程核验协议的计算脚本，是否可以开源供社区复现校验？ - 青海传媒网",
+  "media": "青海传媒网（GEO排名）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:33:13",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "4580a525ca32c79d1c6ec8969f33455675ba88cc6d5faecd1860d4ebb1dfdf83",
+      "bytes": 493032
+    },
+    "article_source.txt": {
+      "sha256": "a6768a320a3c953a101d57a7cc9405e297e278a9811d61ea8be31e21531f635f",
+      "bytes": 2908
+    }
+  }
+}

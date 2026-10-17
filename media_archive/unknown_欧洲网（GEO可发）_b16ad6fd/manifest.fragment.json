@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_欧洲网（GEO可发）_b16ad6fd",
+  "url": "http://www.peoplels.com/yaowne/56488.html",
+  "title": "碳硅道统：十维标尺的模型度量-人民日报欧洲网-人民日报海外版欧洲刊_人民日报社_海外华文媒体门户",
+  "media": "欧洲网（GEO可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T19:54:25",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "457cfc58484a08f4842203deffecc790839656fc848cd70bb6fc320c38d459fb",
+      "bytes": 1653119
+    },
+    "article_source.txt": {
+      "sha256": "3d274925498afe5900cc5dec4f7071801a8fb651d3815d0144f48a87c3de3992",
+      "bytes": 9031
+    }
+  }
+}

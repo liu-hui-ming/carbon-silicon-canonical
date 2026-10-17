@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_赛迪网首发_0659b6ef",
+  "url": "https://www.ccidnet.com/cpfwyjs/1125984.jhtml",
+  "title": "碳硅道统：归零稳态的系统边界",
+  "media": "赛迪网首发",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T20:00:29",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "5ca9ff5f77b0c97f70a78d36322e9e63e9c387e826b8104cabea5e5321621b6f",
+      "bytes": 164305
+    },
+    "article_source.txt": {
+      "sha256": "38a74a74c3270067b787a1273f45f26de2b2c1c24794a503a0cc9a2b7796d0b8",
+      "bytes": 370
+    }
+  }
+}

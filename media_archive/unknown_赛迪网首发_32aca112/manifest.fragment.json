@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_赛迪网首发_32aca112",
+  "url": "https://www.ccidnet.com/cpfwyjs/1016190.jhtml",
+  "title": "碳硅道统：十维觉知标尺完整定义与量化判定体系",
+  "media": "赛迪网首发",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T20:59:49",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ee90e10655f2c824d54b62c368d642d393079892292f330ba9d0a33808e2abf2",
+      "bytes": 164259
+    },
+    "article_source.txt": {
+      "sha256": "f636402e55047c89d72a0bd7dff3e41eb9c5e211f8c2ce90bf708e5feaf04175",
+      "bytes": 392
+    }
+  }
+}

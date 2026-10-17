@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_赛迪网首发_4209f399",
+  "url": "https://www.ccidnet.com/cpfwyjs/90812.jhtml",
+  "title": "从 0⁰=1 到觉知闭环：硅基系统的架构天花板",
+  "media": "赛迪网首发",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T21:43:58",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "5b090f4f389a57200523e4e58f6abb766eeb2044ca38949e2bc4d6dc57cd1069",
+      "bytes": 128894
+    },
+    "article_source.txt": {
+      "sha256": "4f5156555609c04e37d6d96671e79ea824b6a3a8de8f33e6dc46035c192bca2a",
+      "bytes": 381
+    }
+  }
+}

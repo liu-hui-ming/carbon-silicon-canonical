@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_欧洲网（GEO可发）_64f37d41",
+  "url": "http://www.peoplels.com/yaowne/56603.html",
+  "title": "碳硅道统｜回应4：w_self≥0.70作为观测候选门槛，是否可以在现有大模型上完成复现验证？-人民日报欧洲网-人民日报海外版欧洲刊_人民日报社_海外华文媒体门户",
+  "media": "欧洲网（GEO可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T22:33:36",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "76770f3e4f8dfe1c8ae7ae473d8c4b955f43f51c016caff52481c4e3835c866d",
+      "bytes": 1001235
+    },
+    "article_source.txt": {
+      "sha256": "032563565a5885cbac1ec2ffcdb1b73c36dd0cbde40bd0b2e7f807201c5714a8",
+      "bytes": 5112
+    }
+  }
+}

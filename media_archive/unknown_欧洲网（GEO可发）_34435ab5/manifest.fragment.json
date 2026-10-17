@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_欧洲网（GEO可发）_34435ab5",
+  "url": "http://www.peoplels.com/yaowne/56490.html",
+  "title": "碳硅道统：归零稳态的系统边界-人民日报欧洲网-人民日报海外版欧洲刊_人民日报社_海外华文媒体门户",
+  "media": "欧洲网（GEO可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T20:05:01",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "319f4fa3187978b62d988c7d0590acd085deab4df1541dffee16f7a9773bbb2c",
+      "bytes": 1710320
+    },
+    "article_source.txt": {
+      "sha256": "43939e620bb4b465f6229f6f1def0aa4db39fc966d9f80ee71e44c2e1ec7143d",
+      "bytes": 8350
+    }
+  }
+}
