@@ -1,0 +1,20 @@
+{
+  "folder": "20260718_荆门新闻网_f289d0e4",
+  "url": "https://www.jmnews.cn/zxsq/12417.shtml",
+  "title": "荆门新闻网 首发稿件 #627",
+  "media": "荆门新闻网",
+  "pub_date": "20260718",
+  "access": "CON",
+  "captured_at": "2026-10-15T01:19:44",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "446b2d309136d19e56443a1b7ac4f975706cbcbca2e1e92a773ca5c497c97962",
+      "bytes": 356601
+    },
+    "article_source.txt": {
+      "sha256": "33ebc92d11fbd1a3715f15a1bc032c59254cf2bbeaba304c9c4a78dd81388be0",
+      "bytes": 346
+    }
+  }
+}

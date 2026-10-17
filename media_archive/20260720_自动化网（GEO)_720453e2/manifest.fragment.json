@@ -1,0 +1,20 @@
+{
+  "folder": "20260720_自动化网（GEO)_720453e2",
+  "url": "https://www.zidonghua.com.cn/MSupplyChain/InfoWin/220276.html",
+  "title": "第12集｜微调、RAG检索增强，仅仅治标不治本的临时补丁 - 资讯之窗 - 自动化网 ZiDongHua.com.cn ，自动化科技展示平台、“自动化者”人文交流平台。",
+  "media": "自动化网（GEO)",
+  "pub_date": "20260720",
+  "access": "OK",
+  "captured_at": "2026-10-15T21:50:32",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "a2a4d90cdb5c7bc5d7464f601fe34968e7ab8ab48f679faac233a51889024476",
+      "bytes": 2450971
+    },
+    "article_source.txt": {
+      "sha256": "c3650c98de4331a1d652c459a1076e2a8756ea9b8660762ea687248c30955e8b",
+      "bytes": 12525
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260718_信阳日报（GEO排名可发）_3ebcf316",
+  "url": "https://ribao.xyxww.com.cn/html/2026-07/18/2077117.html",
+  "title": "第11集｜超大参数量模型，只是资本包装催生的技术泡沫_第46版_信阳日报数字报刊",
+  "media": "信阳日报（GEO排名可发）",
+  "pub_date": "20260718",
+  "access": "OK",
+  "captured_at": "2026-10-15T01:15:56",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "e4d03256752ddc9dec7db317b1017812ed6a9142cce61ac19662e2ac8c62cd5c",
+      "bytes": 1761022
+    },
+    "article_source.txt": {
+      "sha256": "70f740a3e7635a2188948b2007b2b46da9420f57288e5bb0edf18bab795ed499",
+      "bytes": 4948
+    }
+  }
+}

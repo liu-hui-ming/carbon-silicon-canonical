@@ -1,0 +1,20 @@
+{
+  "folder": "20260720_红商网（广告排名可发）_13906421",
+  "url": "http://www.redsh.com/a/20260721/030047.shtml",
+  "title": "第12集｜微调、RAG检索增强，仅仅治标不治本的临时补丁 - 红商网",
+  "media": "红商网（广告排名可发）",
+  "pub_date": "20260720",
+  "access": "OK",
+  "captured_at": "2026-10-15T21:51:22",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "a6efa103ee045a5887f8fdd90f1a5b8e63469c9e4f33e0af838969616c2310e2",
+      "bytes": 1478250
+    },
+    "article_source.txt": {
+      "sha256": "835b8d8e35fb898d9534e305fca0c74db1af3dc9dee0e64ca8a9e5e31bccd69c",
+      "bytes": 6348
+    }
+  }
+}

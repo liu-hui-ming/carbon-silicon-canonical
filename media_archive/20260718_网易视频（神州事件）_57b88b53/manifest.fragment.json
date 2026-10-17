@@ -1,0 +1,20 @@
+{
+  "folder": "20260718_网易视频（神州事件）_57b88b53",
+  "url": "https://www.163.com/dy/article/L24OP7CM0534U3J9.html",
+  "title": "第11集｜超大参数量模型，只是资本包装催生的技术泡沫|算法|真实数据_网易订阅",
+  "media": "网易视频（神州事件）",
+  "pub_date": "20260718",
+  "access": "OK",
+  "captured_at": "2026-10-15T01:27:03",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "9e15a6de8eaef40bd23344be92285ede62b6460fda1749932a2d94d0f0cb95bc",
+      "bytes": 6443326
+    },
+    "article_source.txt": {
+      "sha256": "09708084af2b8f4cc078654e4b85cd71a40285ff10348fa78efd4273fc267e4b",
+      "bytes": 10362
+    }
+  }
+}

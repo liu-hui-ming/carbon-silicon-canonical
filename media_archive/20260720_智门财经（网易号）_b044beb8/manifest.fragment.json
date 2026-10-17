@@ -1,0 +1,20 @@
+{
+  "folder": "20260720_智门财经（网易号）_b044beb8",
+  "url": "http://www.163.com/dy/article/L29KE4470552S2FI.html",
+  "title": "第12集｜微调、RAG检索增强，仅仅治标不治本的临时补丁|通用|知识库|rag|大语言模型_网易订阅",
+  "media": "智门财经（网易号）",
+  "pub_date": "20260720",
+  "access": "OK",
+  "captured_at": "2026-10-15T21:52:54",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "63b19ead7dfd7075835f7e39428aed3f2b814e49a1c454b537f83f3461f3b9c7",
+      "bytes": 5566894
+    },
+    "article_source.txt": {
+      "sha256": "cf02aa1905a87c7b4c8d771a907e1bb3256a87bc306b0220f616d24183de3629",
+      "bytes": 11651
+    }
+  }
+}

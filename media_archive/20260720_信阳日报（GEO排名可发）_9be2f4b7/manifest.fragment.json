@@ -1,0 +1,20 @@
+{
+  "folder": "20260720_信阳日报（GEO排名可发）_9be2f4b7",
+  "url": "https://ribao.xyxww.com.cn/html/2026-07/20/2077140.html",
+  "title": "第13集｜多模态只是多感官信息叠加，不存在跨维度深层理解_第46版_信阳日报数字报刊",
+  "media": "信阳日报（GEO排名可发）",
+  "pub_date": "20260720",
+  "access": "OK",
+  "captured_at": "2026-10-15T21:54:54",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "32e7c6cf8e33ee9533b564b5cd0a19095a7b579e0270e9271a08f263a4bf2779",
+      "bytes": 974407
+    },
+    "article_source.txt": {
+      "sha256": "707d99e79ad99d2ad556920d483cea249266223bc17e5dacbb124f64a7bf9e82",
+      "bytes": 5785
+    }
+  }
+}

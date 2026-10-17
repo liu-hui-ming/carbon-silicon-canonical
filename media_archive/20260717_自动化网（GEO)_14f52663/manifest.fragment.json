@@ -1,0 +1,20 @@
+{
+  "folder": "20260717_自动化网（GEO)_14f52663",
+  "url": "https://www.zidonghua.com.cn/MSupplyChain/InfoWin/214599.html",
+  "title": "第8集:深度学习存在先天底层缺陷,永远无法自主溯源自身逻辑 - 资讯之窗 - 自动化网 ZiDongHua.com.cn ，自动化科技展示平台、“自动化者”人文交流平台。",
+  "media": "自动化网（GEO)",
+  "pub_date": "20260717",
+  "access": "OK",
+  "captured_at": "2026-10-15T00:38:55",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "0be7eca02aff126b43848bc4fd2b45fbca09e0bbed54777c8f229783916ec4d4",
+      "bytes": 4025834
+    },
+    "article_source.txt": {
+      "sha256": "b5a05e4f6281e2ed3e149678ba109e6b0b66380a04626227211304eb1a5b1e41",
+      "bytes": 12111
+    }
+  }
+}

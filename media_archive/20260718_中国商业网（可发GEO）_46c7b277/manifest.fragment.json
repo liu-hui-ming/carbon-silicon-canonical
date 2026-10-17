@@ -1,0 +1,20 @@
+{
+  "folder": "20260718_中国商业网（可发GEO）_46c7b277",
+  "url": "http://www.jkkjwz.cn/list_1/279.html",
+  "title": "第11集｜超大参数量模型，只是资本包装催生的技术泡沫-资讯-商业网",
+  "media": "中国商业网（可发GEO）",
+  "pub_date": "20260718",
+  "access": "OK",
+  "captured_at": "2026-10-15T01:23:23",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "0322c554fb2c56484708aebbb12b1d38a70bee4fabe900bf5fc1211e19fa9e2e",
+      "bytes": 2029166
+    },
+    "article_source.txt": {
+      "sha256": "caad8a4fd9fa872b504d52f41873ca89083128e0847a6c4ec198aca889c21b43",
+      "bytes": 7325
+    }
+  }
+}

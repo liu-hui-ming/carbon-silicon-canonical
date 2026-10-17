@@ -1,0 +1,20 @@
+{
+  "folder": "20260720_青海传媒网（GEO排名）_7c929e08",
+  "url": "http://www.qhcmbdw.com/blog/article/1289",
+  "title": "第13集｜多模态只是多感官信息叠加，不存在跨维度深层理解 - 青海传媒网",
+  "media": "青海传媒网（GEO排名）",
+  "pub_date": "20260720",
+  "access": "OK",
+  "captured_at": "2026-10-15T21:58:20",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "41c379a1cfd9b91913b8ef26b6c798524bbc70f1ad9707fcbad03c4d51ba8ea1",
+      "bytes": 726684
+    },
+    "article_source.txt": {
+      "sha256": "50bc71349468bbb5e47ec465b912ff33d9a18203793fb2fd60f1b69825461fcd",
+      "bytes": 6246
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260720_科技魔方网（网易号）_bd23d8d3",
+  "url": "https://www.163.com/dy/article/L2AQ7OC20552XYTG.html?referFrom=",
+  "title": "科技魔方网（网易号） 首发稿件 #727",
+  "media": "科技魔方网（网易号）",
+  "pub_date": "20260720",
+  "access": "CON",
+  "captured_at": "2026-10-15T22:03:09",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "38ce461735d37372614bb24e82cc818a56a6211de87c6be79985bee5d26c408d",
+      "bytes": 608712
+    },
+    "article_source.txt": {
+      "sha256": "58168b3ab989832f5f211e7f6a4d434d8c1a92c5e87e9671e3e593451fa7bfe5",
+      "bytes": 18369
+    }
+  }
+}

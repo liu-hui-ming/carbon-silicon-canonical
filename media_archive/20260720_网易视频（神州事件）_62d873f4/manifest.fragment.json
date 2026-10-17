@@ -1,0 +1,20 @@
+{
+  "folder": "20260720_网易视频（神州事件）_62d873f4",
+  "url": "https://www.163.com/dy/article/L29B6UG40534U3J9.html",
+  "title": "第12集｜微调、RAG检索增强，仅仅治标不治本的临时补丁|通用|黑盒|知识库|大模型_网易订阅",
+  "media": "网易视频（神州事件）",
+  "pub_date": "20260720",
+  "access": "OK",
+  "captured_at": "2026-10-15T21:53:46",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "d5ac47cfa17813188f09b06fe5e6f3aa6a74d1d3390fad1190d51fe8c830963f",
+      "bytes": 4202409
+    },
+    "article_source.txt": {
+      "sha256": "9f1315cd06baac5e09718e5c712ff3d37682627699d45234d729540f98f0d880",
+      "bytes": 11589
+    }
+  }
+}

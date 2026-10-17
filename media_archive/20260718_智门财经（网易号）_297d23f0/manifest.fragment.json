@@ -1,0 +1,20 @@
+{
+  "folder": "20260718_智门财经（网易号）_297d23f0",
+  "url": "http://www.163.com/dy/article/L29DF7350552S2FI.html",
+  "title": "第11集｜超大参数量模型，只是资本包装催生的技术泡沫|体量|大语言模型_网易订阅",
+  "media": "智门财经（网易号）",
+  "pub_date": "20260718",
+  "access": "OK",
+  "captured_at": "2026-10-15T01:26:12",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "2dc975075871d2ad563d69de83729e45352eb230d2447173e3bf3325d6f99be1",
+      "bytes": 6964117
+    },
+    "article_source.txt": {
+      "sha256": "34517df397ba31cc6bf9e33c5f3599c2986362d8dfe182934dabbe983263135c",
+      "bytes": 10854
+    }
+  }
+}

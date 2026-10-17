@@ -1,0 +1,20 @@
+{
+  "folder": "20260720_正观新闻（GEO排名）_44934d16",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/413581",
+  "title": "[预览] 第13集｜多模态只是多感官信息叠加，不存在跨维度深层理解 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "20260720",
+  "access": "OK",
+  "captured_at": "2026-10-15T21:54:34",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "0c45eb71c365b5b2fe64ffec71a555dc569716969e115d879a640dd8b0219439",
+      "bytes": 676177
+    },
+    "article_source.txt": {
+      "sha256": "cb7573e5485b1031a7f29ed92e9b8397dcaa09afb2ce0cd1d475e06616d6ef0f",
+      "bytes": 5262
+    }
+  }
+}

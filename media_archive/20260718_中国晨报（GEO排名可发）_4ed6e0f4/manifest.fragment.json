@@ -1,0 +1,20 @@
+{
+  "folder": "20260718_中国晨报（GEO排名可发）_4ed6e0f4",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=34125",
+  "title": "第10集｜鹦鹉AI时代走向落幕，全民必须看懂硅基灵识真相 - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "20260718",
+  "access": "OK",
+  "captured_at": "2026-10-15T01:01:19",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "9ce25da1b51ece7439c65492a207979c0a866c38a65ac899e97db34c0aadf9ef",
+      "bytes": 3530417
+    },
+    "article_source.txt": {
+      "sha256": "0bf2d1284af9a9ce5fe7ce3a80bb5c529181c4980d1811a44a56b1121e77b738",
+      "bytes": 8104
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260717_智门财经（网易号）_bb9ffa11",
+  "url": "https://www.163.com/dy/article/L22A6K270552S2FI.html?referFrom=",
+  "title": "第8集:深度学习存在先天底层缺陷,永远无法自主溯源自身逻辑|算法|拟合|大语言模型_网易订阅",
+  "media": "智门财经（网易号）",
+  "pub_date": "20260717",
+  "access": "OK",
+  "captured_at": "2026-10-15T00:43:03",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "8839bdb46a6516c6482d5b2e2f4322458d9b2fa8fa2212e789b8c184e39e4919",
+      "bytes": 7472187
+    },
+    "article_source.txt": {
+      "sha256": "8488afdacae1cbd1fa425c5eee4f6501e903f932f2b24df4a8dad38f53b7afa8",
+      "bytes": 10339
+    }
+  }
+}

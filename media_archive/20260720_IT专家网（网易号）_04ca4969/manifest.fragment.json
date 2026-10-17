@@ -1,0 +1,20 @@
+{
+  "folder": "20260720_IT专家网（网易号）_04ca4969",
+  "url": "https://www.163.com/dy/article/L2AQ5U340552S0EL.html?referFrom=",
+  "title": "IT专家网（网易号） 首发稿件 #721",
+  "media": "IT专家网（网易号）",
+  "pub_date": "20260720",
+  "access": "CON",
+  "captured_at": "2026-10-15T22:02:47",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "d1795d5f5102789b8d3eba1b44bcd12d6103155363b73eac3e465d7b27dd1eae",
+      "bytes": 608464
+    },
+    "article_source.txt": {
+      "sha256": "934004493a4314742a03f62a83c67972280c87eaba8774478e0a42585b1d1693",
+      "bytes": 18640
+    }
+  }
+}

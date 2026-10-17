@@ -1,0 +1,20 @@
+{
+  "folder": "20260718_中国晨报（GEO排名可发）_35efaf1e",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=34128",
+  "title": "第11集｜超大参数量模型，只是资本包装催生的技术泡沫 - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "20260718",
+  "access": "OK",
+  "captured_at": "2026-10-15T01:16:33",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "22d09c7a7c18673097af5cf0bae98d5d811f2c154da9a5d9444b3d44608eb9ff",
+      "bytes": 3128197
+    },
+    "article_source.txt": {
+      "sha256": "7c3cc8ee0aaf709a3488522d7eaf90bc635ea169936f2db5ee4a5be54e85321a",
+      "bytes": 8242
+    }
+  }
+}

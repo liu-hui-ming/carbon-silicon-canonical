@@ -1,0 +1,20 @@
+{
+  "folder": "20260720_网易视频（神州事件）_0c42d350",
+  "url": "https://www.163.com/dy/article/L2A1Q7TK0534U3J9.html",
+  "title": "网易视频（神州事件） 首发稿件 #725",
+  "media": "网易视频（神州事件）",
+  "pub_date": "20260720",
+  "access": "CON",
+  "captured_at": "2026-10-15T22:03:02",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "fdd51b353565e5a34b7eaa125cea87fbdced25acaaad4b332cf801d8f09f5474",
+      "bytes": 606923
+    },
+    "article_source.txt": {
+      "sha256": "8969ba59f187fbf0313d01994cbc24241c6e88506bfbc8d579175b91a6ca0c91",
+      "bytes": 18698
+    }
+  }
+}

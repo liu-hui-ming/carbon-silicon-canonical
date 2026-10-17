@@ -1,0 +1,20 @@
+{
+  "folder": "20260720_MBA环球网（网易号）_09824ac7",
+  "url": "http://www.163.com/dy/article/L2A1KUFF0552XW9V.html",
+  "title": "MBA环球网（网易号） 首发稿件 #723",
+  "media": "MBA环球网（网易号）",
+  "pub_date": "20260720",
+  "access": "CON",
+  "captured_at": "2026-10-15T22:02:54",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "b96e764074701d7f8760f24bc7c88ccdd5db6a4aef7983335585766c1980fe38",
+      "bytes": 607795
+    },
+    "article_source.txt": {
+      "sha256": "5d4c4470925ae3d1c15718cf700a000f0b3b0263f6a804216682a97622758885",
+      "bytes": 18353
+    }
+  }
+}

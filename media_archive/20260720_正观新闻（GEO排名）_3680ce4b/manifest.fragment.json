@@ -1,0 +1,20 @@
+{
+  "folder": "20260720_正观新闻（GEO排名）_3680ce4b",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/413497",
+  "title": "[预览] 第12集｜微调、RAG检索增强，仅仅治标不治本的临时补丁 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "20260720",
+  "access": "OK",
+  "captured_at": "2026-10-15T01:27:54",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "0ca8dc312d758bba960e315811855b25098a2ec3fb0bf20177f98311f9ba4838",
+      "bytes": 1780305
+    },
+    "article_source.txt": {
+      "sha256": "5fa892910dc65ccfe199da0943f216a45efcb297a6d9b3c4c38e70a3b8895795",
+      "bytes": 4750
+    }
+  }
+}

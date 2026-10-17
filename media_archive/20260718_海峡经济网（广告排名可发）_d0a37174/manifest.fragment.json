@@ -1,0 +1,20 @@
+{
+  "folder": "20260718_海峡经济网（广告排名可发）_d0a37174",
+  "url": "https://www.hxjjw.com.cn/roll/business/2026/0720/53745.html",
+  "title": "404 Not Found",
+  "media": "海峡经济网（广告排名可发）",
+  "pub_date": "20260718",
+  "access": "CON",
+  "captured_at": "2026-10-15T01:07:01",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "54206a6a3f1ee1b85f9092bf785fbe6728ebe3bd75e6dc9fd9b72f7dd8bf8054",
+      "bytes": 330250
+    },
+    "article_source.txt": {
+      "sha256": "bcb9551a1bf12e426cfad297d9ad3ddd23dfe07e037a5d9685259d3c00f73f04",
+      "bytes": 444
+    }
+  }
+}

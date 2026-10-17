@@ -1,0 +1,20 @@
+{
+  "folder": "20260720_科技魔方网（网易号）_8e4fdea4",
+  "url": "http://www.163.com/dy/article/L29KJL530552XYTG.html",
+  "title": "第12集｜微调、RAG检索增强，仅仅治标不治本的临时补丁|通用|知识库|rag|大语言模型_网易订阅",
+  "media": "科技魔方网（网易号）",
+  "pub_date": "20260720",
+  "access": "OK",
+  "captured_at": "2026-10-15T21:54:03",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "aab67bf51c8c88aa2c368287ebf7ec99f8e0e515d67cd0ff8f73f7ca2d36c145",
+      "bytes": 6016473
+    },
+    "article_source.txt": {
+      "sha256": "c4465aa12964863aa0e1d40dc8f55ac73bbff86e077288ee74b054e4f5bd3377",
+      "bytes": 11362
+    }
+  }
+}

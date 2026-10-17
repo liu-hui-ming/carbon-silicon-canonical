@@ -1,0 +1,20 @@
+{
+  "folder": "20260720_红商网（广告排名可发）_130ae466",
+  "url": "http://www.redsh.com/a/20260721/123242.shtml",
+  "title": "第13集｜多模态只是多感官信息叠加，不存在跨维度深层理解 - 红商网",
+  "media": "红商网（广告排名可发）",
+  "pub_date": "20260720",
+  "access": "OK",
+  "captured_at": "2026-10-15T21:59:26",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "961e8e9960e9a7fe1556e5ee4f4bd85515d245f9120bfe957109bce238a58ac2",
+      "bytes": 1172239
+    },
+    "article_source.txt": {
+      "sha256": "49e75bdc071034ce3837fe3cc0c670fc035396f5c616968b34659cc1e7e36a17",
+      "bytes": 6761
+    }
+  }
+}
