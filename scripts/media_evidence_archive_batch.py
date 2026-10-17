@@ -16,13 +16,18 @@ from playwright.sync_api import sync_playwright
 ROOT = Path(__file__).resolve().parents[1]
 ARCHIVE = ROOT / "media_archive"
 STATE = ROOT / "_tmp_media_evidence_state.json"
+SOURCE_WORKBOOK = "碳硅道统-发布报表.xlsx"
+REBUILD_EVERY = 25
+NAV_TIMEOUT_MS = 90000
+CAPTURE_MAX_WALL_SEC = 180
 PRICE_LINE = re.compile(
     r"(^|\n)\s*(价格|单价|费用|报价|稿酬|金额)\s*[:：].*$",
     re.M,
 )
 PRICE_YEN = re.compile(r"¥\s*[\d,.]+|[\d,.]+\s*元\s*(?:/篇|每篇)?")
 ERROR_HINTS = re.compile(
-    r"无法访问此网站|ERR_|404|Not Found|页面不存在|访问被拒绝",
+    r"无法访问此网站|ERR_|404|Not Found|页面不存在|访问被拒绝|"
+    r"资源不存在|您访问的资源不存在|抱歉",
     re.I,
 )
 
@@ -126,7 +131,7 @@ def stitch_vertical(images):
     return canvas
 
 
-def capture_p0_screenshot(page, max_panels: int = 35):
+def capture_p0_screenshot(page, max_panels: int = 35, deadline: float | None = None):
     """Full-screen panels (URL bar + taskbar clock) while scrolling for full body."""
     if not page_is_alive(page):
         raise RuntimeError("browser_page_closed")
@@ -145,6 +150,8 @@ def capture_p0_screenshot(page, max_panels: int = 35):
     panels = []
     y = 0
     for _ in range(max_panels):
+        if deadline and time.monotonic() > deadline:
+            break
         page.evaluate(f"window.scrollTo(0, {y})")
         page.wait_for_timeout(450)
         focus_browser(page)
@@ -157,7 +164,38 @@ def capture_p0_screenshot(page, max_panels: int = 35):
 
 def load_entries(path: Path):
     data = json.loads(path.read_text(encoding="utf-8"))
+    if isinstance(data, list):
+        return data
     return data["entries"]
+
+
+def load_prior_done() -> dict:
+    """Keep P0-176 (or prior manifest) in global index while batching DT5322."""
+    man = ARCHIVE / "manifest_total.json"
+    if not man.exists():
+        return {}
+    try:
+        total = json.loads(man.read_text(encoding="utf-8"))
+    except json.JSONDecodeError:
+        return {}
+    out = {}
+    for item in total.get("items") or []:
+        url = item.get("url")
+        if url:
+            out[url] = {
+                "folder": item.get("folder", ""),
+                "access": item.get("access", "OK"),
+                "con_note": item.get("con_note", ""),
+                "captured_at": item.get("captured_at", ""),
+            }
+    return out
+
+
+def merged_done(st: dict) -> dict:
+    prior = load_prior_done()
+    merged = dict(prior)
+    merged.update(st.get("done") or {})
+    return merged
 
 
 def load_state():
@@ -190,25 +228,28 @@ def write_fragment(folder: Path, meta: dict, files: dict):
     }
 
 
-def rebuild_total(entries, st):
+def entry_by_url(entries):
+    return {e["url"]: e for e in entries}
+
+
+def rebuild_total(catalog_entries, st):
+    done = merged_done(st)
+    catalog = entry_by_url(catalog_entries)
     rows = []
     con = []
     ok = 0
-    for e in entries:
-        key = e["url"]
-        rec = st["done"].get(key)
-        if not rec:
-            continue
+    for key, rec in sorted(done.items()):
         folder = ARCHIVE / rec["folder"]
         frag_path = folder / "manifest.fragment.json"
         if not frag_path.exists():
             continue
         frag = json.loads(frag_path.read_text(encoding="utf-8"))
+        meta = catalog.get(key, {})
         if rec["access"] == "CON":
             con.append({
-                "url": e["url"],
-                "title": e["title"],
-                "media": e["media"],
+                "url": key,
+                "title": meta.get("title", frag.get("title", "")),
+                "media": meta.get("media", frag.get("media", "")),
                 "folder": rec["folder"],
                 "note": rec.get("con_note", ""),
             })
@@ -221,9 +262,9 @@ def rebuild_total(entries, st):
     total = {
         "canonical": "MEDIA-EVIDENCE-ARCHIVE",
         "generated_at": datetime.now().strftime("%Y-%m-%dT%H:%M:%S"),
-        "source_workbook": "碳硅道统-发布报表.xlsx",
-        "entry_total": len(entries),
-        "archived_count": len(st["done"]),
+        "source_workbook": SOURCE_WORKBOOK,
+        "entry_total": len(catalog_entries),
+        "archived_count": len(done),
         "access_ok": ok,
         "access_con": len(con),
         "volume_sha256": sha256_bytes(body) if body else None,
@@ -233,9 +274,9 @@ def rebuild_total(entries, st):
         "items": [
             {
                 "url": u,
-                **st["done"][u],
+                **done[u],
             }
-            for u in sorted(st["done"].keys())
+            for u in sorted(done.keys())
         ],
     }
     man = (json.dumps(total, ensure_ascii=False, indent=2) + "\n").encode("utf-8")
@@ -243,11 +284,11 @@ def rebuild_total(entries, st):
     (ARCHIVE / "manifest_total.json").write_bytes(man)
     audit = {
         "date": datetime.now().strftime("%Y-%m-%d"),
-        "entry_total": len(entries),
-        "success_archived": len(st["done"]),
+        "entry_total": len(catalog_entries),
+        "success_archived": len(done),
         "access_ok": ok,
         "access_con": len(con),
-        "pending": len(entries) - len(st["done"]),
+        "pending": len(catalog_entries) - len([e for e in catalog_entries if e["url"] in done]),
         "capture_standard": "P0-four-elements-v2",
         "con_list": con,
         "manifest_total_sha256": sha256_bytes(man),
@@ -343,14 +384,22 @@ def write_mirror_html(folder: Path, entry, body_html: str, captured_at: str) -> 
 
 
 def page_looks_broken(page, body_text: str) -> bool:
+    title = page.title() or ""
+    if ERROR_HINTS.search(f"{title}\n{body_text[:1200]}"):
+        return True
     if len(body_text.strip()) < 120:
         return True
-    title = page.title() or ""
     if ERROR_HINTS.search(title) and len(body_text.strip()) < 400:
         return True
     if ERROR_HINTS.search(body_text[:800]) and len(body_text.strip()) < 400:
         return True
     return False
+
+
+def is_dead_link(status: int, body_text: str, page_title: str) -> bool:
+    if status in (404, 410):
+        return True
+    return bool(ERROR_HINTS.search(f"{page_title}\n{body_text[:1500]}"))
 
 
 def read_body_text(page, entry) -> str:
@@ -410,17 +459,22 @@ def capture_one(page, entry, folder: Path):
     page_title = ""
     body_text = ""
     served_from_cache = False
+    display_title = entry["title"]
 
     try:
         resp = navigate_with_retry(page, url)
         status = resp.status if resp else 0
         page_title = page.title()
+        if page_title and len(page_title.strip()) > 4:
+            display_title = page_title.strip()
         body_text = read_body_text(page, entry)
     except Exception:
         body_text = ""
         status = 0
 
-    if page_looks_broken(page, body_text):
+    dead_link = is_dead_link(status, body_text, page_title)
+
+    if not dead_link and page_looks_broken(page, body_text):
         try:
             fetch_status, fetched, raw_html = _http_fetch_body(url)
             if fetch_status and not status:
@@ -436,10 +490,11 @@ def capture_one(page, entry, folder: Path):
                 served_from_cache = True
         except Exception:
             pass
+        dead_link = is_dead_link(status, body_text, page_title)
 
     body_text = strip_prices(body_text)
     header = "\n".join([
-        f"标题：{entry['title']}",
+        f"标题：{display_title}",
         f"媒体：{entry['media']}",
         f"发布日期（报表）：{entry['pub_date_raw'] or entry['pub_date']}",
         f"URL：{url}",
@@ -448,6 +503,7 @@ def capture_one(page, entry, folder: Path):
         f"页面标题：{page_title}",
         f"截图标准：P0-four-elements-v2（全屏含任务栏时间+滚动拼接正文）",
         f"路由缓存渲染：{'是' if served_from_cache else '否'}",
+        f"链接失效：{'是' if dead_link else '否'}",
         "",
     ])
     txt = (header + body_text).replace("\r\n", "\n").replace("\r", "\n")
@@ -455,13 +511,22 @@ def capture_one(page, entry, folder: Path):
         txt += "\n"
     txt_bytes = txt.encode("utf-8")
 
-    img = capture_p0_screenshot(page)
+    maximize_browser_window(page)
+    focus_browser(page)
+    if dead_link:
+        img = grab_full_screen()
+    else:
+        deadline = time.monotonic() + CAPTURE_MAX_WALL_SEC
+        img = capture_p0_screenshot(page, deadline=deadline)
     png_path = folder / "page_screenshot.png"
     save_evidence_png(img, png_path)
     txt_path = folder / "article_source.txt"
     txt_path.write_bytes(txt_bytes)
 
     access, con_note = classify_access(entry, status, body_text, page, served_from_cache)
+    if dead_link:
+        access = "CON"
+        con_note = "源链接已失效（404/资源不存在），以归档本地存证材料为依据"
 
     files = {
         "page_screenshot.png": {"sha256": sha256_file(png_path), "bytes": png_path.stat().st_size},
@@ -469,6 +534,7 @@ def capture_one(page, entry, folder: Path):
     }
     meta = {
         **entry,
+        "title": display_title,
         "access": access,
         "con_note": con_note,
         "captured_at": captured_at,
@@ -484,6 +550,7 @@ def capture_fallback(page, entry, folder: Path, exc: Exception):
     status = 0
     page_title = ""
     body_text = ""
+    display_title = entry["title"]
     captured_at = datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
     raw_html = ""
     for _ in range(2):
@@ -492,6 +559,8 @@ def capture_fallback(page, entry, folder: Path, exc: Exception):
             page.wait_for_timeout(4000)
             status = resp.status if resp else 0
             page_title = page.title()
+            if page_title and len(page_title.strip()) > 4:
+                display_title = page_title.strip()
             body_text = page.inner_text("body")
             if body_text.strip():
                 break
@@ -512,13 +581,15 @@ def capture_fallback(page, entry, folder: Path, exc: Exception):
             page.wait_for_timeout(1200)
             served_from_cache = True
             page_title = page.title() or entry["title"]
+            if page_title and len(str(page_title).strip()) > 4:
+                display_title = str(page_title).strip()
             body_text = page.inner_text("body") or body_text
         except Exception:
             pass
 
     body_text = strip_prices(body_text)
     header = "\n".join([
-        f"标题：{entry['title']}",
+        f"标题：{display_title}",
         f"媒体：{entry['media']}",
         f"发布日期（报表）：{entry['pub_date_raw'] or entry['pub_date']}",
         f"URL：{url}",
@@ -553,11 +624,57 @@ def capture_fallback(page, entry, folder: Path, exc: Exception):
     }
     meta = {
         **entry,
+        "title": display_title,
         "access": access,
         "con_note": con_note,
         "captured_at": captured_at,
         "http_status": status,
         "page_title": page_title,
+    }
+    write_fragment(folder, meta, files)
+    return meta
+
+
+def load_skip_urls(path: Path | None) -> set:
+    if not path or not path.exists():
+        return set()
+    return {
+        line.strip().split("#", 1)[0].strip()
+        for line in path.read_text(encoding="utf-8").splitlines()
+        if line.strip() and not line.strip().startswith("#")
+    }
+
+
+def capture_skip_stub(entry, folder: Path, reason: str):
+    url = entry["url"]
+    captured_at = datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
+    header = "\n".join([
+        f"标题：{entry['title']}",
+        f"媒体：{entry['media']}",
+        f"发布日期（报表）：{entry['pub_date_raw'] or entry['pub_date']}",
+        f"URL：{url}",
+        f"取证系统时间：{captured_at}",
+        "备注：跳过已知卡顿链接，待人工补截或换链",
+        f"跳过原因：{reason}",
+        "",
+        "[正文未抓取：skip-list]\n",
+    ])
+    txt = header.encode("utf-8")
+    img = Image.new("RGB", (8, 8), (240, 240, 240))
+    png_path = folder / "page_screenshot.png"
+    img.save(png_path, format="PNG")
+    (folder / "article_source.txt").write_bytes(txt)
+    meta = {
+        **entry,
+        "access": "CON",
+        "con_note": f"skip-list：{reason}",
+        "captured_at": captured_at,
+        "http_status": 0,
+        "page_title": "",
+    }
+    files = {
+        "page_screenshot.png": {"sha256": sha256_file(png_path), "bytes": png_path.stat().st_size},
+        "article_source.txt": {"sha256": sha256_bytes(txt), "bytes": len(txt)},
     }
     write_fragment(folder, meta, files)
     return meta
@@ -570,24 +687,61 @@ def browser_launch_args():
     ]
 
 
-def main():
-    default_entries = Path(r"e:\hundred-crayfish-legion\_tmp_report_entries.json")
-    raw_argv = sys.argv[1:]
-    force = "--force" in raw_argv
+def parse_cli():
+    raw = sys.argv[1:]
+    force = "--force" in raw
     recapture_list = None
-    if "--recapture-list" in raw_argv:
-        idx = raw_argv.index("--recapture-list")
-        recapture_list = Path(raw_argv[idx + 1])
-    argv = [
-        a
-        for i, a in enumerate(raw_argv)
-        if a not in ("--force", "--recapture-list")
-        and not (i and raw_argv[i - 1] == "--recapture-list")
-    ]
+    state_path = STATE
+    catalog_path = None
+    skip_list = None
+    source_wb = SOURCE_WORKBOOK
+    i = 0
+    positional = []
+    while i < len(raw):
+        a = raw[i]
+        if a == "--force":
+            i += 1
+            continue
+        if a == "--recapture-list" and i + 1 < len(raw):
+            recapture_list = Path(raw[i + 1])
+            i += 2
+            continue
+        if a == "--state" and i + 1 < len(raw):
+            state_path = Path(raw[i + 1])
+            i += 2
+            continue
+        if a == "--catalog" and i + 1 < len(raw):
+            catalog_path = Path(raw[i + 1])
+            i += 2
+            continue
+        if a == "--source-workbook" and i + 1 < len(raw):
+            source_wb = raw[i + 1]
+            i += 2
+            continue
+        if a == "--skip-list" and i + 1 < len(raw):
+            skip_list = Path(raw[i + 1])
+            i += 2
+            continue
+        positional.append(a)
+        i += 1
+    return force, recapture_list, state_path, catalog_path, skip_list, source_wb, positional
+
+
+def main():
+    global STATE, SOURCE_WORKBOOK
+    default_entries = Path(r"e:\hundred-crayfish-legion\_tmp_dt5322_report_entries.json")
+    default_catalog = Path(r"e:\hundred-crayfish-legion\_tmp_media_evidence_catalog.json")
+    default_skip = ROOT / "_tmp_media_evidence_skip_urls.txt"
+    force, recapture_list, state_path, catalog_path, skip_list, source_wb, argv = parse_cli()
+    skip_list = skip_list or (default_skip if default_skip.exists() else None)
+    skip_urls = load_skip_urls(skip_list)
+    STATE = state_path
+    SOURCE_WORKBOOK = source_wb
     entries_path = Path(argv[0]) if argv else default_entries
     limit = int(argv[1]) if len(argv) > 1 else 0
     offset = int(argv[2]) if len(argv) > 2 else 0
     entries = load_entries(entries_path)
+    catalog_entries = load_entries(catalog_path or default_catalog if default_catalog.exists() else entries_path)
     st = {"done": {}, "errors": []} if force else load_state()
     if force:
         save_state(st)
@@ -623,10 +777,24 @@ def main():
             args=browser_launch_args(),
         )
         context = browser.new_context(no_viewport=True, locale="zh-CN")
+        context.set_default_timeout(NAV_TIMEOUT_MS)
         page = fresh_page(context)
         for i, entry in enumerate(todo, 1):
             folder = ARCHIVE / entry["folder"]
             folder.mkdir(parents=True, exist_ok=True)
+            if entry["url"] in skip_urls:
+                meta = capture_skip_stub(entry, folder, "known hang / manual skip list")
+                st["done"][entry["url"]] = {
+                    "folder": entry["folder"],
+                    "access": meta["access"],
+                    "con_note": meta.get("con_note", ""),
+                    "captured_at": meta["captured_at"],
+                }
+                save_state(st)
+                if i % REBUILD_EVERY == 0 or i == len(todo):
+                    rebuild_total(catalog_entries, st)
+                print(f"{i}/{len(todo)} SKIP-LIST {entry['url'][:60]}", flush=True)
+                continue
             if not page_is_alive(page):
                 page = fresh_page(context)
             try:
@@ -638,10 +806,19 @@ def main():
                     "captured_at": meta["captured_at"],
                 }
             except Exception as exc:
-                st["errors"].append({"url": entry["url"], "error": str(exc)})
-                if not page_is_alive(page):
+                page = fresh_page(context)
+                try:
+                    meta = capture_fallback(page, entry, folder, exc)
+                except Exception as exc2:
                     page = fresh_page(context)
-                meta = capture_fallback(page, entry, folder, exc)
+                    try:
+                        meta = capture_fallback(page, entry, folder, exc2)
+                    except Exception as exc3:
+                        st["errors"].append({"url": entry["url"], "error": str(exc3)})
+                        save_state(st)
+                        print(f"{i}/{len(todo)} SKIP {entry['url'][:60]}", flush=True)
+                        continue
+                st["errors"].append({"url": entry["url"], "error": str(exc)})
                 st["done"][entry["url"]] = {
                     "folder": entry["folder"],
                     "access": meta["access"],
@@ -649,10 +826,11 @@ def main():
                     "captured_at": meta["captured_at"],
                 }
             save_state(st)
-            rebuild_total(entries, st)
+            if i % REBUILD_EVERY == 0 or i == len(todo):
+                rebuild_total(catalog_entries, st)
             print(f"{i}/{len(todo)} {entry['url'][:60]}", flush=True)
         browser.close()
-    rebuild_total(entries, st)
+    rebuild_total(catalog_entries, st)
     print("done", len(st["done"]), "errors", len(st["errors"]), flush=True)
 
 

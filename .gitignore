@@ -3,6 +3,8 @@ media_archive/MANUAL-UPLOAD-CON9/
 media_archive/**/manual_capture_*
 
 _tmp_media_evidence_state.json
+_tmp_media_evidence_state_dt5322.json
+_tmp_dt5322_url_probe.json
 _tmp_*.json
 _tmp_*.log
 _tmp_*.txt
