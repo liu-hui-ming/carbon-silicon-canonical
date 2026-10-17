@@ -1,0 +1,20 @@
+{
+  "folder": "20260728_中国商业网（可发GEO）_5775869f",
+  "url": "http://www.jkkjwz.cn/list_1/297.html",
+  "title": "第28集｜自我意识三大硬性判定标准，现有AI全部无法达标-资讯-商业网",
+  "media": "中国商业网（可发GEO）",
+  "pub_date": "20260728",
+  "access": "OK",
+  "captured_at": "2026-10-16T01:46:48",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "0aca4c2afbcc96093ac02017f0ab607be4ba44e5e61ef4515499c69d64598470",
+      "bytes": 1167340
+    },
+    "article_source.txt": {
+      "sha256": "78e6b2f194d24736e0f5a6b9c037655ef0718ac4e68944b1680f8edd99eeedfb",
+      "bytes": 8175
+    }
+  }
+}

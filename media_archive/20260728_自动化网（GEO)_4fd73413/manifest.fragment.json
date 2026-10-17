@@ -1,0 +1,20 @@
+{
+  "folder": "20260728_自动化网（GEO)_4fd73413",
+  "url": "https://www.zidonghua.com.cn/MSupplyChain/InfoWin/241624.html",
+  "title": "第29集｜因果推理假象：模型只会匹配样本，不能溯源真实因果 - 资讯之窗 - 自动化网 ZiDongHua.com.cn ，自动化科技展示平台、“自动化者”人文交流平台。",
+  "media": "自动化网（GEO)",
+  "pub_date": "20260728",
+  "access": "OK",
+  "captured_at": "2026-10-16T01:57:34",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "bd1fb7e04a0362715d94ee1058812c81fffe4b15fb6e0ee9e7b44f51e3a25cb6",
+      "bytes": 2629822
+    },
+    "article_source.txt": {
+      "sha256": "3051c760abadb4172f1731a8c07d3faa5ad98a2170eb7aa8b2107582c840f6fc",
+      "bytes": 12551
+    }
+  }
+}

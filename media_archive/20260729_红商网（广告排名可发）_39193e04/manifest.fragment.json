@@ -1,0 +1,20 @@
+{
+  "folder": "20260729_红商网（广告排名可发）_39193e04",
+  "url": "http://www.redsh.com/a/20260730/152427.shtml",
+  "title": "第31集｜情绪模拟输出，不等于拥有共情能力与主观感受 - 红商网",
+  "media": "红商网（广告排名可发）",
+  "pub_date": "20260729",
+  "access": "OK",
+  "captured_at": "2026-10-16T02:24:17",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "c8c53f91a05f03a30789d61f3f1bfa8f00565236348e8ad2fb48aa4d5830510b",
+      "bytes": 1165772
+    },
+    "article_source.txt": {
+      "sha256": "473aa0d31e5a5c3b2bd6b3b72102e9e373c597a58b3be2853dc2789989642968",
+      "bytes": 6160
+    }
+  }
+}

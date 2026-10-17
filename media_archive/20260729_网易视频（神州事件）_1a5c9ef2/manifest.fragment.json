@@ -1,0 +1,20 @@
+{
+  "folder": "20260729_网易视频（神州事件）_1a5c9ef2",
+  "url": "https://www.163.com/dy/article/L3142KGK0534U3J9.html",
+  "title": "第31集｜情绪模拟输出，不等于拥有共情能力与主观感受_网易订阅",
+  "media": "网易视频（神州事件）",
+  "pub_date": "20260729",
+  "access": "OK",
+  "captured_at": "2026-10-16T02:28:30",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "d81954eaf0f88c503c5e8d5b25b64ce78c89479a71a9904438ec0840d73077c7",
+      "bytes": 5312111
+    },
+    "article_source.txt": {
+      "sha256": "669980c35cc66ace20c9ea3dcd8ae65ed7fafef7d0e00920890c407a09870467",
+      "bytes": 11286
+    }
+  }
+}

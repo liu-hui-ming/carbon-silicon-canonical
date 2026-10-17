@@ -1,0 +1,20 @@
+{
+  "folder": "20260729_网易商业（GEO）_a5e9b36f",
+  "url": "http://www.163.com/dy/article/L314BAO40552XW84.html",
+  "title": "第31集｜情绪模拟输出，不等于拥有共情能力与主观感受_网易订阅",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260729",
+  "access": "OK",
+  "captured_at": "2026-10-16T02:29:16",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "f7b140514bc117311a9bffa9996c2d1e36b3a80b97fe6c5bc89077773611e3d8",
+      "bytes": 5785192
+    },
+    "article_source.txt": {
+      "sha256": "154909402655e126753991c5704ec17c0df5131edb3897c2af0f71f286c84296",
+      "bytes": 11603
+    }
+  }
+}

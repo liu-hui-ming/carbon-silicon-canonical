@@ -1,0 +1,20 @@
+{
+  "folder": "20260727_上海讯息点播_49418087",
+  "url": "https://www.toutiao.com/item/7667036279527293440/",
+  "title": "404错误页",
+  "media": "上海讯息点播",
+  "pub_date": "20260727",
+  "access": "CON",
+  "captured_at": "2026-10-16T01:13:46",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "a91631e2349d72ec4bb49f22a0530e5db6eccdf8422afdb19f12f1628f15b0ac",
+      "bytes": 189550
+    },
+    "article_source.txt": {
+      "sha256": "ca17e6de785a028ab5090a4b2d5a87059655cccb74f4989ef61a9cfe1416d1b6",
+      "bytes": 353
+    }
+  }
+}

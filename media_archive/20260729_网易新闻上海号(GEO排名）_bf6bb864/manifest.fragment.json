@@ -1,0 +1,20 @@
+{
+  "folder": "20260729_网易新闻上海号(GEO排名）_bf6bb864",
+  "url": "http://www.163.com/dy/article/L314B3040553IJQS.html",
+  "title": "第31集｜情绪模拟输出，不等于拥有共情能力与主观感受_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260729",
+  "access": "OK",
+  "captured_at": "2026-10-16T02:28:11",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "eacc65904c9ee8b1f88367a2027edf496688aae136e9ea59ff345b1a4d5ef35a",
+      "bytes": 5680132
+    },
+    "article_source.txt": {
+      "sha256": "9ad7cda9797404ed0f97252d08421b7aa9bcc6acbd868ef9c0d3455694e34fc1",
+      "bytes": 11639
+    }
+  }
+}

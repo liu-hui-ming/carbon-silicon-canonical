@@ -1,0 +1,20 @@
+{
+  "folder": "20260728_红商网（广告排名可发）_5f32b655",
+  "url": "http://www.redsh.com/a/20260729/054237.shtml",
+  "title": "第29集｜因果推理假象：模型只会匹配样本，不能溯源真实因果 - 红商网",
+  "media": "红商网（广告排名可发）",
+  "pub_date": "20260728",
+  "access": "OK",
+  "captured_at": "2026-10-16T01:58:16",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "e262a5b5f119270ef46d86436e5330c4fdc2064515947c40997415fb080db8ce",
+      "bytes": 1148064
+    },
+    "article_source.txt": {
+      "sha256": "d3600290d4f127737aac966c94bbbc74183c9fc486cf327f1a251275df87d457",
+      "bytes": 6263
+    }
+  }
+}

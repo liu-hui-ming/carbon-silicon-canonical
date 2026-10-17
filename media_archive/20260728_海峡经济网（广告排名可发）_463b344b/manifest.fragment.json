@@ -1,0 +1,20 @@
+{
+  "folder": "20260728_海峡经济网（广告排名可发）_463b344b",
+  "url": "https://www.hxjjw.com.cn/roll/business/2026/0728/58177.html",
+  "title": "第29集｜因果推理假象：模型只会匹配样本，不能溯源真实因果_海峡经济网",
+  "media": "海峡经济网（广告排名可发）",
+  "pub_date": "20260728",
+  "access": "OK",
+  "captured_at": "2026-10-16T01:54:45",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "840c9910ac391c8887eb45085e60633e24841b6f390881c208fef37393a36b18",
+      "bytes": 1431896
+    },
+    "article_source.txt": {
+      "sha256": "ff6a882a66aa753fe444ed4be209e32e97ab6ed6923b4b927aa90a763d746748",
+      "bytes": 7135
+    }
+  }
+}

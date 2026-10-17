@@ -1,0 +1,20 @@
+{
+  "folder": "20260729_红商网（广告排名可发）_d9f4be54",
+  "url": "http://www.redsh.com/a/20260730/052846.shtml",
+  "title": "第30集｜想象力是碳基独有能力，AI仅能元素重组，无原生创造 - 红商网",
+  "media": "红商网（广告排名可发）",
+  "pub_date": "20260729",
+  "access": "OK",
+  "captured_at": "2026-10-16T02:12:03",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "bfe9adef8626bc9c5cb096888557b096920561a7498201edaf20852a73f95511",
+      "bytes": 1151690
+    },
+    "article_source.txt": {
+      "sha256": "7b79dab5149aace5626e7c21f0debb60de3911d96f63e9fc310ea7b879fef864",
+      "bytes": 6260
+    }
+  }
+}

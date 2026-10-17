@@ -1,0 +1,20 @@
+{
+  "folder": "20260728_中国晨报（GEO排名可发）_451caaa0",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=34364",
+  "title": "第28集｜自我意识三大硬性判定标准，现有AI全部无法达标 - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "20260728",
+  "access": "OK",
+  "captured_at": "2026-10-16T01:27:31",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "dbde9b8d1b2f98ae29c10757e2b38a926c91ed76534801549951666500252a6e",
+      "bytes": 1815601
+    },
+    "article_source.txt": {
+      "sha256": "19784b15820ab8318467496954f22ea9af9a5d1ee30336920c879efb01a480a9",
+      "bytes": 9158
+    }
+  }
+}

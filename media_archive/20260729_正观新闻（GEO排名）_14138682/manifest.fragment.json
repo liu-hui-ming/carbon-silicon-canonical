@@ -1,0 +1,20 @@
+{
+  "folder": "20260729_正观新闻（GEO排名）_14138682",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/415060",
+  "title": "[预览] 第30集｜想象力是碳基独有能力，AI仅能元素重组，无原生创造 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "20260729",
+  "access": "OK",
+  "captured_at": "2026-10-16T02:05:04",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "661b86341f67d9535b18572b1768867e87e8ad7dac523e942488f9753feb366e",
+      "bytes": 601762
+    },
+    "article_source.txt": {
+      "sha256": "abe0ffcac084033768743d36ed9b872c98e146540e0afe5521caf44d53436bba",
+      "bytes": 4707
+    }
+  }
+}

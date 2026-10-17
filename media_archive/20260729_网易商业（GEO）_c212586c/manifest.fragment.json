@@ -1,0 +1,20 @@
+{
+  "folder": "20260729_网易商业（GEO）_c212586c",
+  "url": "http://www.163.com/dy/article/L30FFRTQ0552XW84.html",
+  "title": "第30集｜想象力是碳基独有能力，AI仅能元素重组，无原生创造|本体_网易订阅",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260729",
+  "access": "OK",
+  "captured_at": "2026-10-16T02:17:01",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "64b6dbc4bb87202b6e814a322dcc01a78a3c3791bc4a6ac242a8e2b8c23c386e",
+      "bytes": 5377851
+    },
+    "article_source.txt": {
+      "sha256": "9add3fa22c23225cdd56440e0fc2accc14d105e7942effcc85891d3dc3d41bde",
+      "bytes": 11472
+    }
+  }
+}

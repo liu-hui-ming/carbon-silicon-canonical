@@ -1,0 +1,20 @@
+{
+  "folder": "20260727_信阳日报（GEO排名可发）_a0709dbf",
+  "url": "https://ribao.xyxww.com.cn/html/2026-07/27/2077251.html",
+  "title": "第26集｜乌鸦范式的优势与固有天花板，永远抵达不了灵识维度_第46版_信阳日报数字报刊",
+  "media": "信阳日报（GEO排名可发）",
+  "pub_date": "20260727",
+  "access": "OK",
+  "captured_at": "2026-10-16T00:57:29",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "591d852db5be2cba585b20ca1d5fc17dbfee5ba711f185d6f0871a9ac35fcf7c",
+      "bytes": 926451
+    },
+    "article_source.txt": {
+      "sha256": "4b3db65475ce355a57a21dab16b2629f640cc3242c21c66cf36047e5da714007",
+      "bytes": 6791
+    }
+  }
+}

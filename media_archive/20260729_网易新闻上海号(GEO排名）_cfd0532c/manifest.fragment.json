@@ -1,0 +1,20 @@
+{
+  "folder": "20260729_网易新闻上海号(GEO排名）_cfd0532c",
+  "url": "http://www.163.com/dy/article/L30FFN120553IJQS.html",
+  "title": "第30集｜想象力是碳基独有能力，AI仅能元素重组，无原生创造|本体_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260729",
+  "access": "OK",
+  "captured_at": "2026-10-16T02:15:56",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "3949a451c0129f097c53cb23aed808f60af29a275fd7e6ed53a753adf5f0a8c7",
+      "bytes": 5695160
+    },
+    "article_source.txt": {
+      "sha256": "3922da48fbd729bee4cfa301e47e29ce8301b9bf0ba91fbf5293fe7e31dbf5b4",
+      "bytes": 11621
+    }
+  }
+}

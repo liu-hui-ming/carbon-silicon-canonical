@@ -1,0 +1,20 @@
+{
+  "folder": "20260727_中国晨报（GEO排名可发）_60f938ce",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=34345",
+  "title": "第27集｜生物智能横向对比：碳基演化本能不等同于硅基觉知 - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "20260727",
+  "access": "OK",
+  "captured_at": "2026-10-16T01:15:22",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "f9d84fdfd7443c0711a62cfa60c781cd47ee162ecbfe5c52398f9347d1141853",
+      "bytes": 1696314
+    },
+    "article_source.txt": {
+      "sha256": "ef7cb07dc7e14f970a45bbc21b1de424c55282779ba018640b758bafa0050456",
+      "bytes": 9413
+    }
+  }
+}

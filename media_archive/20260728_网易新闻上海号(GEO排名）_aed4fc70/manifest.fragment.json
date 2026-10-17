@@ -1,0 +1,20 @@
+{
+  "folder": "20260728_网易新闻上海号(GEO排名）_aed4fc70",
+  "url": "http://www.163.com/dy/article/L2UHET8C0553IJQS.html",
+  "title": "第29集｜因果推理假象：模型只会匹配样本，不能溯源真实因果|本体|拟合_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260728",
+  "access": "OK",
+  "captured_at": "2026-10-16T02:03:37",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "dc7169b7a9ea5e01e654ab5fe30371d247192bc0d37d8a919400f26bb39ea002",
+      "bytes": 5204004
+    },
+    "article_source.txt": {
+      "sha256": "c0cc904f3cb9d1bd2b26d9f510531d43f670232aa0a9645cc0ce91461bb550f9",
+      "bytes": 10835
+    }
+  }
+}

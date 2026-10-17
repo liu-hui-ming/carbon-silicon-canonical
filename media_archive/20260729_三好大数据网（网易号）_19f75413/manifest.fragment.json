@@ -1,0 +1,20 @@
+{
+  "folder": "20260729_三好大数据网（网易号）_19f75413",
+  "url": "http://www.163.com/dy/article/L30FED3Q0552XWVG.html",
+  "title": "三好大数据网（网易号） 首发稿件 #1418",
+  "media": "三好大数据网（网易号）",
+  "pub_date": "20260729",
+  "access": "CON",
+  "captured_at": "2026-10-16T02:15:19",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "5dc6898f83f8a09495349432c7d9d3ec4c0f4c9ac7659b9700d281d945cdee90",
+      "bytes": 772311
+    },
+    "article_source.txt": {
+      "sha256": "e88c1ea099f76df92c8b06888b63482c9c49a690f7894f6c31aadc44883bb8e6",
+      "bytes": 18943
+    }
+  }
+}

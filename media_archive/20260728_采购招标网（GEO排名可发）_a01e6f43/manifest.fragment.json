@@ -1,0 +1,20 @@
+{
+  "folder": "20260728_采购招标网（GEO排名可发）_a01e6f43",
+  "url": "https://chinabidding.guozhaocai.com/shangji-item-13532.html",
+  "title": "请求已被拦截",
+  "media": "采购招标网（GEO排名可发）",
+  "pub_date": "20260728",
+  "access": "CON",
+  "captured_at": "2026-10-16T01:57:47",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "2ebc08b526a2342ac6ce4b4a59c7b3eeb475c78c45fb9db355e960f86aaece55",
+      "bytes": 190569
+    },
+    "article_source.txt": {
+      "sha256": "94d810fffd288e8fd9fba337f724b0ab040cbe62d286fad259b3877ce688ce78",
+      "bytes": 875
+    }
+  }
+}

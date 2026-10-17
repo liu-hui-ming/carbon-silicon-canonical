@@ -1,0 +1,20 @@
+{
+  "folder": "20260728_半岛网_697788a5",
+  "url": "http://kuaixun.bandao.cn/a/1785227332628027.html",
+  "title": "第29集｜因果推理假象：模型只会匹配样本，不能溯源真实因果",
+  "media": "半岛网",
+  "pub_date": "20260728",
+  "access": "OK",
+  "captured_at": "2026-10-16T01:55:27",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "19243c6839413fe8acb667158235e91725804764686b361e2c08bacd8cee5f62",
+      "bytes": 923540
+    },
+    "article_source.txt": {
+      "sha256": "5d9b39ad80ba221b18188dfb407fe7d610e8b11bebde2ec3bea47583da0b0b30",
+      "bytes": 6727
+    }
+  }
+}

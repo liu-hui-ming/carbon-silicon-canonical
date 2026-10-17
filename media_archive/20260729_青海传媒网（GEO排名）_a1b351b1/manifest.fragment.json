@@ -1,0 +1,20 @@
+{
+  "folder": "20260729_青海传媒网（GEO排名）_a1b351b1",
+  "url": "http://www.qhcmbdw.com/blog/article/1345",
+  "title": "第31集｜情绪模拟输出，不等于拥有共情能力与主观感受 - 青海传媒网",
+  "media": "青海传媒网（GEO排名）",
+  "pub_date": "20260729",
+  "access": "OK",
+  "captured_at": "2026-10-16T02:21:18",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "81cd4d81be3591dccc5c30e46069fdcf526ca4bbb7119c10badc4bf67682a96d",
+      "bytes": 680272
+    },
+    "article_source.txt": {
+      "sha256": "2594c621e1b4342038f39186e97c35e8bfc7f4bca31f166d2b26aedb311a50d3",
+      "bytes": 5625
+    }
+  }
+}

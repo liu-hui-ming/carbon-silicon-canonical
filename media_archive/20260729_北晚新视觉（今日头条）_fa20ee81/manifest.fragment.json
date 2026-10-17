@@ -1,0 +1,20 @@
+{
+  "folder": "20260729_北晚新视觉（今日头条）_fa20ee81",
+  "url": "https://www.toutiao.com/item/7667863946958864947/",
+  "title": "404错误页",
+  "media": "北晚新视觉（今日头条）",
+  "pub_date": "20260729",
+  "access": "CON",
+  "captured_at": "2026-10-16T02:18:12",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "b321e47cecaaf93ff3ce18e735e99fab11b09f661e37eef8301b64384d6fb468",
+      "bytes": 189779
+    },
+    "article_source.txt": {
+      "sha256": "783ab0ece07a9d10642d217728e048f8ed43d038cdb599ac9b3b562f023675f9",
+      "bytes": 368
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260729_IT专家网（网易号）_9ec44888",
+  "url": "http://www.163.com/dy/article/L314BEK50552S0EL.html",
+  "title": "第31集｜情绪模拟输出，不等于拥有共情能力与主观感受_网易订阅",
+  "media": "IT专家网（网易号）",
+  "pub_date": "20260729",
+  "access": "OK",
+  "captured_at": "2026-10-16T02:27:34",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "d4ca8c6e4d06b7ade61737e6c2f5fc79469ab24f029c074c26394b58b89b30ea",
+      "bytes": 5707653
+    },
+    "article_source.txt": {
+      "sha256": "5e6abd28a441224c2ac94249fb143727132bf7104ec49eae05cdc8d7379a1a25",
+      "bytes": 11321
+    }
+  }
+}

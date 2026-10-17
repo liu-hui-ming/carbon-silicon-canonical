@@ -1,0 +1,20 @@
+{
+  "folder": "20260728_智门财经（网易号）_d664338d",
+  "url": "http://www.163.com/dy/article/L2UHEEJI0552S2FI.html",
+  "title": "第29集｜因果推理假象：模型只会匹配样本，不能溯源真实因果|本体|拟合_网易订阅",
+  "media": "智门财经（网易号）",
+  "pub_date": "20260728",
+  "access": "OK",
+  "captured_at": "2026-10-16T02:03:20",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "21b94e172e561babcce5148e9af77ec7b34db6109977dcf3a8de8031e09e0d81",
+      "bytes": 4810606
+    },
+    "article_source.txt": {
+      "sha256": "64471b68c6214254b0e0421327ededf9ef074cd43e0bde51f795c294947b88f0",
+      "bytes": 11419
+    }
+  }
+}

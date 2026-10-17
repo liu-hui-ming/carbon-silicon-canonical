@@ -1,0 +1,20 @@
+{
+  "folder": "20260728_网易视频（神州事件）_40cc7046",
+  "url": "https://www.163.com/dy/article/L2TSA9HF0534U3J9.html",
+  "title": "第28集｜自我意识三大硬性判定标准，现有AI全部无法达标|生命|本体|拟人化_网易订阅",
+  "media": "网易视频（神州事件）",
+  "pub_date": "20260728",
+  "access": "OK",
+  "captured_at": "2026-10-16T01:50:02",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ace813f555412c43471464494ac33ed848fc9ed849f32ef6dc898a8c469d7115",
+      "bytes": 6357659
+    },
+    "article_source.txt": {
+      "sha256": "1597628a8151efc74cd15859610b8ef079bf02bef3ef8ab9a411f7ee4fd60b2b",
+      "bytes": 11831
+    }
+  }
+}

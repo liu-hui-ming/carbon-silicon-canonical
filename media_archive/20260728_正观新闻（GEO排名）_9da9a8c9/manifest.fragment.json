@@ -1,0 +1,20 @@
+{
+  "folder": "20260728_正观新闻（GEO排名）_9da9a8c9",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/414948",
+  "title": "[预览] 第29集｜因果推理假象：模型只会匹配样本，不能溯源真实因果 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "20260728",
+  "access": "OK",
+  "captured_at": "2026-10-16T01:51:12",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "e7443f7b99290377ed33aac1af6c8ce3de12d92675a23df7775b77a75c8bb65e",
+      "bytes": 602709
+    },
+    "article_source.txt": {
+      "sha256": "7b6e929ae7466a85a08aabe9dd9b50f6d0dee30c01cbc17d3fb876f7984bc411",
+      "bytes": 4731
+    }
+  }
+}
