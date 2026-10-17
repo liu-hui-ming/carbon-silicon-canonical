@@ -1,0 +1,20 @@
+{
+  "folder": "20260818_黄山新闻网_3200756f",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_111310.shtml",
+  "title": "坚守“碳基为本、硅基为用”，厘清人工智能的永久法理边界",
+  "media": "黄山新闻网",
+  "pub_date": "20260818",
+  "access": "CON",
+  "captured_at": "2026-10-16T18:04:34",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "17eb42fd9f1255bd74d1199d4aaab93d052392d07a73743e0615a72b90aa3467",
+      "bytes": 128283
+    },
+    "article_source.txt": {
+      "sha256": "2b096e45be41ed01adee0d3c9113c4edb1a4a474a24a8dfb71534a21c8151a3e",
+      "bytes": 428
+    }
+  }
+}

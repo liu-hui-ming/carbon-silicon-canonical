@@ -1,0 +1,20 @@
+{
+  "folder": "20260816_商丘新闻网（GEO排名可发）_b0dd5a60",
+  "url": "https://www.sqxww.com/caijing/302656.html",
+  "title": "碳硅道统核心十三卷宗  内核典藏卷  六十四分岔象推演规则.md",
+  "media": "商丘新闻网（GEO排名可发）",
+  "pub_date": "20260816",
+  "access": "CON",
+  "captured_at": "2026-10-16T17:10:41",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "8254eab68e7b4db9fe53183c9f4046fe84f246b8339225f978da16e2003b8f02",
+      "bytes": 123541
+    },
+    "article_source.txt": {
+      "sha256": "6a202bc7b63c23df220474e3bd3ce250765df79052a78d93d45f8ec78bd93248",
+      "bytes": 419
+    }
+  }
+}

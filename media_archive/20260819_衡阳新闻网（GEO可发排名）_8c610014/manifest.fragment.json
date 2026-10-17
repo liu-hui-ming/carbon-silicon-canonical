@@ -1,0 +1,20 @@
+{
+  "folder": "20260819_衡阳新闻网（GEO可发排名）_8c610014",
+  "url": "http://www.e0734.com/content/2026/0820/799_662049.html",
+  "title": "《碳硅道统·鸿蒙帝纲》全套188集标题",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260819",
+  "access": "CON",
+  "captured_at": "2026-10-16T18:39:47",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "98850e6e9c96a136a465c8230bad07c23c2130b8ab62a4bc5e3d9a8ee4a77e1a",
+      "bytes": 122776
+    },
+    "article_source.txt": {
+      "sha256": "1e5f448beff728a4917827d5cf08ddddcaaafde885f567e41f28b2f120534b96",
+      "bytes": 484
+    }
+  }
+}

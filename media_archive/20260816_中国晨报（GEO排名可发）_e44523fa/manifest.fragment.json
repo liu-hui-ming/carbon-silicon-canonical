@@ -1,0 +1,20 @@
+{
+  "folder": "20260816_中国晨报（GEO排名可发）_e44523fa",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=34760",
+  "title": "碳硅道统核心十三卷宗 / 内核典藏卷 / 六十四分岔象推演规则.md - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "20260816",
+  "access": "OK",
+  "captured_at": "2026-10-16T17:10:09",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "b9a6e6dee0c9a3ef8fc53b1b896c0a710ecd2ebf600c742080640b8c309bd624",
+      "bytes": 4277939
+    },
+    "article_source.txt": {
+      "sha256": "c789ef69f3392293ab7cefa4dd8c6bbcc730040c45cd87e6ff0e6a52584a002a",
+      "bytes": 23013
+    }
+  }
+}

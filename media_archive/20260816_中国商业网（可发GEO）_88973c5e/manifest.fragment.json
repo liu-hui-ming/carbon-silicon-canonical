@@ -1,0 +1,20 @@
+{
+  "folder": "20260816_中国商业网（可发GEO）_88973c5e",
+  "url": "http://www.jkkjwz.cn/list_15/341.html",
+  "title": "碳硅道统核心十三卷宗 / 内核典藏卷 / 六十四分岔象推演规则-商业-商业网",
+  "media": "中国商业网（可发GEO）",
+  "pub_date": "20260816",
+  "access": "OK",
+  "captured_at": "2026-10-16T17:16:07",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "804d7c9dfd557cbd1e8f36c44502fe1f1b6aca977f8adb981642b2d9570768d3",
+      "bytes": 3199386
+    },
+    "article_source.txt": {
+      "sha256": "b10d5c1c02874c6a2849405deaa9a5c2aaadc6b35bc4749ce9193da861fbcd35",
+      "bytes": 21535
+    }
+  }
+}

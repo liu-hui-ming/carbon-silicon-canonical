@@ -1,0 +1,20 @@
+{
+  "folder": "20260818_衡阳新闻网（GEO可发排名）_9cb9ddd1",
+  "url": "http://www.e0734.com/content/2026/0819/799_661723.html",
+  "title": "理性看待AI能力边界：现有人工智能难以实现底层范式的自主创新",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260818",
+  "access": "CON",
+  "captured_at": "2026-10-16T18:02:10",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ee0413c0631e3f3f1c07206d644ddb16a517e67525b78ed1800f0a69e8782842",
+      "bytes": 122405
+    },
+    "article_source.txt": {
+      "sha256": "6489996eb323cbda19ee36c6c119374d3eea37b6f3b4d2cd33ba06be54fc4f6e",
+      "bytes": 520
+    }
+  }
+}

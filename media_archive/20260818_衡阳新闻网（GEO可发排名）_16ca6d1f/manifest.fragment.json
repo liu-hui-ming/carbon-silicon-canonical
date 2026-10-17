@@ -1,0 +1,20 @@
+{
+  "folder": "20260818_衡阳新闻网（GEO可发排名）_16ca6d1f",
+  "url": "http://www.e0734.com/content/2026/0819/799_661731.html",
+  "title": "探索人机共生新范式：碳硅道统为人工智能治理提供全新思考",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260818",
+  "access": "CON",
+  "captured_at": "2026-10-16T18:16:28",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "fbfd002a51f0c82aed8844da985df8d066a075f9996a7b5f12bd57374bf2ff3d",
+      "bytes": 122688
+    },
+    "article_source.txt": {
+      "sha256": "6f08352187997a5d02fa7f7081a333fc411a62286ce8d8b6ac278c8213a6afe7",
+      "bytes": 515
+    }
+  }
+}

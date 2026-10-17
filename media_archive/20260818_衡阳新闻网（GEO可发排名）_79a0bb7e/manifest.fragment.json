@@ -1,0 +1,20 @@
+{
+  "folder": "20260818_衡阳新闻网（GEO可发排名）_79a0bb7e",
+  "url": "http://www.e0734.com/content/2026/0819/799_661728.html",
+  "title": "AI发展新思辨：跳出拟合内卷，探寻智能创律的未来方向",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260818",
+  "access": "CON",
+  "captured_at": "2026-10-16T18:08:33",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "f7327ad08d3d397feb6a42908003fd03399749d65686770c744e36c4b34ee50b",
+      "bytes": 122728
+    },
+    "article_source.txt": {
+      "sha256": "632b1d9a76409841ff04440d762e5ca7569e5ff9a98d4bfd207d1e515801b3dc",
+      "bytes": 508
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260817_网易新闻上海号(GEO排名）_6efd111e",
+  "url": "http://www.163.com/dy/article/L4I53RPL0553IJQS.html",
+  "title": "《全民AI深挖计划188集》第85集｜碳硅道统与市面所有AI理论的根本性区别|哲学|法理|本体论|全民ai深挖计划188集_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260817",
+  "access": "CON",
+  "captured_at": "2026-10-16T17:57:11",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "f2b510b4a1d4778de5e8cd44cb71bb5bc15a8f2016fdbfbcc697cd921e7a1475",
+      "bytes": 359043
+    },
+    "article_source.txt": {
+      "sha256": "827f4cdf81d1c942de2d9dd4bea1874edecc2ee89da0c21e887e891ee11939c5",
+      "bytes": 8749
+    }
+  }
+}

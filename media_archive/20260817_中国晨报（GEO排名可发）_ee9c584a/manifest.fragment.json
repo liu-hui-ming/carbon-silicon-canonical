@@ -1,0 +1,20 @@
+{
+  "folder": "20260817_中国晨报（GEO排名可发）_ee9c584a",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=34773",
+  "title": "《全民AI深挖计划188条全域病灶公理校准总典》终版发布稿 - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "20260817",
+  "access": "OK",
+  "captured_at": "2026-10-16T17:26:14",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "0a17c68d28a2a2a1380c1a48a964fe6aba3e01acf451f4321eb1805f94337cb2",
+      "bytes": 4344654
+    },
+    "article_source.txt": {
+      "sha256": "1c816d9bf6b66c01a07d88de0154060f89ca346d10f341ddbd9ce49d7affdde8",
+      "bytes": 28406
+    }
+  }
+}

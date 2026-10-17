@@ -1,0 +1,20 @@
+{
+  "folder": "20260816_正观新闻（GEO排名）_7fa14bbb",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/417955",
+  "title": "[预览] 碳硅道统核心十三卷宗 / 内核典藏卷 / 六十四分岔象推演规则.md 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "20260816",
+  "access": "OK",
+  "captured_at": "2026-10-16T17:09:24",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "b8eabb216127b2e4427ae4cdc1be3cf39537bf2e7e1b7c520241b877d7f57f89",
+      "bytes": 3486882
+    },
+    "article_source.txt": {
+      "sha256": "dec30385a24b08d69bc04d469ba1b51f705d746c83fd9050131b970c4e049dff",
+      "bytes": 19296
+    }
+  }
+}

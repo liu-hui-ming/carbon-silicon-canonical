@@ -1,0 +1,20 @@
+{
+  "folder": "20260818_衡阳新闻网（GEO可发排名）_7e72c9e1",
+  "url": "http://www.e0734.com/content/2026/0818/799_661698.html",
+  "title": "硅基觉知的冷思考：AI仿真不等于真正的主观意识",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260818",
+  "access": "CON",
+  "captured_at": "2026-10-16T18:01:16",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "486d91f3eb4b291d61ade63e68f75e5035e4e92091f0f0ddd32a40be416e2c98",
+      "bytes": 122600
+    },
+    "article_source.txt": {
+      "sha256": "d8e4b67edc155cbfe6b189258b4ab8a1d7365178bc82f22890bcc97bbd556821",
+      "bytes": 499
+    }
+  }
+}

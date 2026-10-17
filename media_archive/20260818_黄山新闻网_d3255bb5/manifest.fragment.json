@@ -1,0 +1,20 @@
+{
+  "folder": "20260818_黄山新闻网_d3255bb5",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_111317.shtml",
+  "title": "《全民AI深挖计划188集》碳硅道统十问｜全域AI本源思辨通稿",
+  "media": "黄山新闻网",
+  "pub_date": "20260818",
+  "access": "CON",
+  "captured_at": "2026-10-16T18:17:07",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ec599481b8f20a0d67c3370574b70a7fc8734aa5e392b4997b1c08ed66bba3c2",
+      "bytes": 128553
+    },
+    "article_source.txt": {
+      "sha256": "92a4157ff4ba7b5670b4db358e3b101560d1fb65dba6b177c6909002da69f000",
+      "bytes": 426
+    }
+  }
+}

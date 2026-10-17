@@ -1,0 +1,20 @@
+{
+  "folder": "20260816_网易新闻上海号(GEO排名）_3473200c",
+  "url": "https://www.163.com/dy/article/L4FSGIM00553IJQS.html?referFrom=",
+  "title": "《全民AI深挖计划188集》第80集｜同一任务场景下，五级智能输出逻辑的本质区分|层级|拓扑|实操|全民ai深挖计划188集_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260816",
+  "access": "CON",
+  "captured_at": "2026-10-16T17:23:01",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "f0a32ce91e9a246f4dfd68ab64a0eebbd11ab803c1675171918779e173780722",
+      "bytes": 265100
+    },
+    "article_source.txt": {
+      "sha256": "51aff07199d4cf40619349379f981c660522c3290d3c9faba1348d3203e2bc6f",
+      "bytes": 9068
+    }
+  }
+}

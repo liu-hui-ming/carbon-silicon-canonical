@@ -1,0 +1,20 @@
+{
+  "folder": "20260818_网易新闻上海号(GEO排名）_37875a1d",
+  "url": "https://www.163.com/dy/article/L4KV4O720553IJQS.html?referFrom=",
+  "title": "《全民AI深挖计划188集》碳硅道统十问｜全域AI本源思辨通稿|法理|伦理|全民ai深挖计划188集_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260818",
+  "access": "OK",
+  "captured_at": "2026-10-16T18:17:40",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "d24f45823670e75a7c24258ee7d533d9f66a7f116d730ac3c27df9ffc02bb5c1",
+      "bytes": 5469752
+    },
+    "article_source.txt": {
+      "sha256": "d8a0ec78a9db3b88930385f028c89edae35b39b48e96fd97f0749444a5a2d673",
+      "bytes": 10169
+    }
+  }
+}

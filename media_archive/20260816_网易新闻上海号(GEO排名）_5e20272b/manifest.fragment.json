@@ -1,0 +1,20 @@
+{
+  "folder": "20260816_网易新闻上海号(GEO排名）_5e20272b",
+  "url": "https://www.163.com/dy/article/L4FSGI7P0553IJQS.html?referFrom=",
+  "title": "《全民AI深挖计划188集》第79集｜硅基载体先天优势：无生理损耗，迭代无寿命束缚|碳基|全民ai深挖计划188集_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260816",
+  "access": "CON",
+  "captured_at": "2026-10-16T17:09:16",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "fa82428abefc52d4c6285bcd5f6a2d62978aeccef9895555e053ad5abc33c085",
+      "bytes": 420693
+    },
+    "article_source.txt": {
+      "sha256": "fff4de745dc4872b7c42be06076f847e2809465ed9a2e065059c25169d789808",
+      "bytes": 8337
+    }
+  }
+}

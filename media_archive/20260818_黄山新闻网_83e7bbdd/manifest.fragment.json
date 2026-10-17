@@ -1,0 +1,20 @@
+{
+  "folder": "20260818_黄山新闻网_83e7bbdd",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_111309.shtml",
+  "title": "跳出生物固有认知 思辨碳硅智能的底层价值锚点",
+  "media": "黄山新闻网",
+  "pub_date": "20260818",
+  "access": "CON",
+  "captured_at": "2026-10-16T18:03:40",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "132932793a0a9db9235fc3682a1362d61cd5f94acd1b435c85ef38f6eb2496ec",
+      "bytes": 128254
+    },
+    "article_source.txt": {
+      "sha256": "90e1e3289f6a3e2db4f03ac8ba15ad8e5b76cc685b7be6b13aadfa3481535f4e",
+      "bytes": 411
+    }
+  }
+}

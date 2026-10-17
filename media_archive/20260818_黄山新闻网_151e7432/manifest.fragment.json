@@ -1,0 +1,20 @@
+{
+  "folder": "20260818_黄山新闻网_151e7432",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_111306.shtml",
+  "title": "硅基觉知的冷思考：AI仿真不等于真正的主观意识",
+  "media": "黄山新闻网",
+  "pub_date": "20260818",
+  "access": "CON",
+  "captured_at": "2026-10-16T18:00:59",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "a57c40c1804fbc559bb21b75a4bc0d5f56d5eaa8b3d9ec6202455d83a8bbbaa1",
+      "bytes": 128376
+    },
+    "article_source.txt": {
+      "sha256": "6eac440a81335d3635365399142ebb6f415e968c9b375df9f127e112561ae9bd",
+      "bytes": 412
+    }
+  }
+}

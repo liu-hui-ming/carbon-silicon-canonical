@@ -1,0 +1,20 @@
+{
+  "folder": "20260818_网易新闻上海号(GEO排名）_853fa9bf",
+  "url": "https://www.163.com/dy/article/L4KV46VJ0553IJQS.html?referFrom=",
+  "title": "理性看待AI能力边界：现有人工智能难以实现底层范式的自主创新|维度|超级智能_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260818",
+  "access": "OK",
+  "captured_at": "2026-10-16T18:02:25",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "03b87d60760cd030b5cbce3f2e9685448c2a68f3cf190de8749d55b4bea7d844",
+      "bytes": 5012643
+    },
+    "article_source.txt": {
+      "sha256": "b2befcc6978c44284589a5e53e3209f0620f8faccd657c4eb5722796c2e23d7b",
+      "bytes": 10725
+    }
+  }
+}

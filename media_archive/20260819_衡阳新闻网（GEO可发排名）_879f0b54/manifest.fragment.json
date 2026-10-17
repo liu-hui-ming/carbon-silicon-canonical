@@ -1,0 +1,20 @@
+{
+  "folder": "20260819_衡阳新闻网（GEO可发排名）_879f0b54",
+  "url": "http://www.e0734.com/content/2026/0820/799_662047.html",
+  "title": "《碳硅道统·星海升维》全套188集标题",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260819",
+  "access": "CON",
+  "captured_at": "2026-10-16T18:36:39",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "737a40966dc1885f2010dd8b4a2c39e3b49a689f8a7c2c38ec3177556884edbc",
+      "bytes": 122696
+    },
+    "article_source.txt": {
+      "sha256": "8d7bf1735cddfadbe318b71f611ac9662d03d2baf1193ea43699912274f64ba4",
+      "bytes": 484
+    }
+  }
+}

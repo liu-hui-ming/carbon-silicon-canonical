@@ -1,0 +1,20 @@
+{
+  "folder": "20260817_艾瑞商业（网易号）_873bed14",
+  "url": "http://www.163.com/dy/article/L4I4P85U0553S12I.html",
+  "title": "《全民AI深挖计划188条全域病灶公理校准总典》终版发布稿",
+  "media": "艾瑞商业（网易号）",
+  "pub_date": "20260817",
+  "access": "CON",
+  "captured_at": "2026-10-16T17:35:49",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "bf42bb3ddee3ddd4e2e949742132e946fd0154c7c6388903001db5a1354ad4e7",
+      "bytes": 606067
+    },
+    "article_source.txt": {
+      "sha256": "0a632a2239ea107f346935473cdb2299f0d15e11497fed87ecc83e6c43180eaa",
+      "bytes": 19013
+    }
+  }
+}

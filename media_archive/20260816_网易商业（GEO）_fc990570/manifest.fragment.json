@@ -1,0 +1,20 @@
+{
+  "folder": "20260816_网易商业（GEO）_fc990570",
+  "url": "http://www.163.com/dy/article/L4FUENAP0553S12I.html",
+  "title": "网易商业（GEO） 首发稿件 #3657",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260816",
+  "access": "CON",
+  "captured_at": "2026-10-16T17:23:06",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "f63327c80df1ae77133996df14e788598ae82fb2b019e8dde85fb70b8ef8df44",
+      "bytes": 605517
+    },
+    "article_source.txt": {
+      "sha256": "6a73b994e72fb3cda560f7ade4ce316bbbc6781cc9094ce6491335dce1ca22cf",
+      "bytes": 18429
+    }
+  }
+}

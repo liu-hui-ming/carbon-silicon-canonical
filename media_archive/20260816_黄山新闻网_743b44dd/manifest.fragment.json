@@ -1,0 +1,20 @@
+{
+  "folder": "20260816_黄山新闻网_743b44dd",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_111211.shtml",
+  "title": "碳硅道统核心十三卷宗  内核典藏卷  六十四分岔象推演规则.md",
+  "media": "黄山新闻网",
+  "pub_date": "20260816",
+  "access": "CON",
+  "captured_at": "2026-10-16T17:10:59",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "af8fd2a2d641be9cdcab0003b9d7d7c4cbc5e036fc3079ad1ac7a1af2dcb7161",
+      "bytes": 128207
+    },
+    "article_source.txt": {
+      "sha256": "b76d71bbefa115cbee51d5dd142fedb35e121c964c0febf69386b7ba5f4aba11",
+      "bytes": 429
+    }
+  }
+}

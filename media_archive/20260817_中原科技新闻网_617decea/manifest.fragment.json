@@ -1,0 +1,20 @@
+{
+  "folder": "20260817_中原科技新闻网_617decea",
+  "url": "http://kjb.kjxww.cn/120630.html",
+  "title": "未找到页面 – 中原科技新闻网",
+  "media": "中原科技新闻网",
+  "pub_date": "20260817",
+  "access": "CON",
+  "captured_at": "2026-10-16T17:33:31",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ad532b0c093e59c84bde20cfd33e6ea5ce7af46e6c5db01eb35ac8765a5bd661",
+      "bytes": 159695
+    },
+    "article_source.txt": {
+      "sha256": "7d3793840205d991218fded9e29753a89fee660d8ef5f8c2bd05215ccb40a492",
+      "bytes": 686
+    }
+  }
+}

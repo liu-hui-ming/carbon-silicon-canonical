@@ -1,0 +1,20 @@
+{
+  "folder": "20260817_商丘新闻网（GEO排名可发）_c1ea2de6",
+  "url": "https://www.sqxww.com/caijing/302693.html",
+  "title": "《全民AI深挖计划188条全域病灶公理校准总典》终版发布稿",
+  "media": "商丘新闻网（GEO排名可发）",
+  "pub_date": "20260817",
+  "access": "CON",
+  "captured_at": "2026-10-16T17:26:45",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "8dc4984ffd1d3a30634f45f8f6204528ac2aaeafe8ff9bdd803c8c66252924c9",
+      "bytes": 123475
+    },
+    "article_source.txt": {
+      "sha256": "d1d7759a990629a16a0b9b1281c79ccf80d84bf6f92fe35c66afe383b92d543b",
+      "bytes": 414
+    }
+  }
+}

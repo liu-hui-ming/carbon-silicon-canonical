@@ -1,0 +1,20 @@
+{
+  "folder": "20260818_黄山新闻网_cba41cbe",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_111308.shtml",
+  "title": "新视角探讨人工智能：封闭算力体系下的自指意识可能性",
+  "media": "黄山新闻网",
+  "pub_date": "20260818",
+  "access": "CON",
+  "captured_at": "2026-10-16T18:02:46",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "4180365a517a182092539b9e1a5d96fc4db62dc16fe0409b2558badb2627fe53",
+      "bytes": 128392
+    },
+    "article_source.txt": {
+      "sha256": "2bbd17c139898806796b83cfd78a8e4bac6958ddab13d06d13f5f374a574d4fb",
+      "bytes": 422
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260818_网易新闻上海号(GEO排名）_d5fc47c0",
+  "url": "http://www.163.com/dy/article/L4KN3K900553IJQS.html",
+  "title": "《全民AI深挖计划188集》第88集｜普通人掌握道统最简学习路径，无需复杂数理公式|宇宙|全民ai深挖计划188集_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260818",
+  "access": "OK",
+  "captured_at": "2026-10-16T17:59:42",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "0b7443775c42a2a0cf0b282eb8af90c46766646cff73015dcbe88d57b6220a59",
+      "bytes": 5510904
+    },
+    "article_source.txt": {
+      "sha256": "6cb281a83f541f435d6165f9d898baf71805362fd57464f7e2ca7ccedc957353",
+      "bytes": 9102
+    }
+  }
+}

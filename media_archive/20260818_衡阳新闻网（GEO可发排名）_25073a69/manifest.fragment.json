@@ -1,0 +1,20 @@
+{
+  "folder": "20260818_衡阳新闻网（GEO可发排名）_25073a69",
+  "url": "http://www.e0734.com/content/2026/0818/799_661699.html",
+  "title": "拨开AI幻觉迷雾：厘清概率拟合与逻辑推演，探索可信AI发展新方向",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260818",
+  "access": "CON",
+  "captured_at": "2026-10-16T18:12:14",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "f519442a54894e38f470084cb54f5c8eab621aa258a42ef414b9530067a5b365",
+      "bytes": 122899
+    },
+    "article_source.txt": {
+      "sha256": "21bdd193bbd743a1ade4e7b0d4cab86af92f925f04809bccb4db7e2c9e960aaf",
+      "bytes": 522
+    }
+  }
+}

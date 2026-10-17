@@ -1,0 +1,20 @@
+{
+  "folder": "20260816_亳州新闻网（GEO排名可发）_5a5fca72",
+  "url": "http://www.bozhou.cn/p/398233.html",
+  "title": "碳硅道统核心十三卷宗  内核典藏卷  六十四分岔象推演规则.md",
+  "media": "亳州新闻网（GEO排名可发）",
+  "pub_date": "20260816",
+  "access": "CON",
+  "captured_at": "2026-10-16T17:11:25",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "127e6a3c8ac1eb6dd3bd333b6caf0f159cde395bc9c0c77498cd67add9049804",
+      "bytes": 130833
+    },
+    "article_source.txt": {
+      "sha256": "c49650505df7d729ef0f7fa2aa08b9898ade746fa9016f7535f5cb969f242836",
+      "bytes": 412
+    }
+  }
+}

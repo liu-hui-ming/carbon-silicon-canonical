@@ -1,0 +1,20 @@
+{
+  "folder": "20260818_衡阳新闻网（GEO可发排名）_b9bd0176",
+  "url": "http://www.e0734.com/content/2026/0819/799_661729.html",
+  "title": "0⁰=1创世公理：面向人机文明的全新理论探索",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260818",
+  "access": "CON",
+  "captured_at": "2026-10-16T18:14:38",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "8b83ce8bde3a89c31f565d8bbe0dfb0c735de55ceb24152fcb0d6740fe49b359",
+      "bytes": 122747
+    },
+    "article_source.txt": {
+      "sha256": "2eb3005fe858ddec797962903c56d6f2ee17a9174d5a7d2b532e5028139dcd9a",
+      "bytes": 494
+    }
+  }
+}

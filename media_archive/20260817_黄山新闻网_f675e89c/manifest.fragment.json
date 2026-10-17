@@ -1,0 +1,20 @@
+{
+  "folder": "20260817_黄山新闻网_f675e89c",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_111244.shtml",
+  "title": "《全民AI深挖计划188条全域病灶公理校准总典》终版发布稿",
+  "media": "黄山新闻网",
+  "pub_date": "20260817",
+  "access": "CON",
+  "captured_at": "2026-10-16T17:27:03",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "31f8efa60f6a71cdd0d0a382f4b4c2311beb1f9af4d2f48a0785d6541befb2c0",
+      "bytes": 128183
+    },
+    "article_source.txt": {
+      "sha256": "5dda99ddeb65f5daa4374208146691fcdfea0f86f64fa32afa9b76d1699bee06",
+      "bytes": 424
+    }
+  }
+}

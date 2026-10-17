@@ -1,0 +1,20 @@
+{
+  "folder": "20260818_黄山新闻网_b0ec1fc6",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_111307.shtml",
+  "title": "理性看待AI能力边界：现有人工智能难以实现底层范式的自主创新",
+  "media": "黄山新闻网",
+  "pub_date": "20260818",
+  "access": "CON",
+  "captured_at": "2026-10-16T18:01:52",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "1e02640541bc344c3080fad9fb3dff81c6c6100cfaeed35ab2c02b6aa1bbb17e",
+      "bytes": 128177
+    },
+    "article_source.txt": {
+      "sha256": "734bd1ba3f7679343a86e9db715c641ca5eee5b4a5fc106868f8938f60d6abb0",
+      "bytes": 433
+    }
+  }
+}
