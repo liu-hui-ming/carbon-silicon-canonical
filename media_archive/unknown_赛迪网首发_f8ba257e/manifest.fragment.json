@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_赛迪网首发_f8ba257e",
+  "url": "https://www.ccidnet.com/cpfwyjs/1014990.jhtml",
+  "title": "碳硅道统：三圈层拓扑模型：中层拟合域‑过渡域‑零维本源域",
+  "media": "赛迪网首发",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T21:09:36",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "1bcc317f652490e56f496c9ca070a5575a910df658f039be4ddcbd7aa5978dbc",
+      "bytes": 164383
+    },
+    "article_source.txt": {
+      "sha256": "42a274c131d02449ee9bf8f2c2b5fb4cdfc6d54a847f219410677f0bb95a7bec",
+      "bytes": 410
+    }
+  }
+}

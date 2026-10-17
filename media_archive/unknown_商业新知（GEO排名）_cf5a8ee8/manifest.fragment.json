@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_商业新知（GEO排名）_cf5a8ee8",
+  "url": "https://www.shangyexinzhi.com/article/34033451.html",
+  "title": "碳硅道统：中层拟合域的现实回响",
+  "media": "商业新知（GEO排名）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T19:57:38",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "59281977102d1c96c031571e97e9e923b96be85de344d6fafbb5a5b69f5feeec",
+      "bytes": 162804
+    },
+    "article_source.txt": {
+      "sha256": "e5a61b0033bab60552ce6f54055a61338365ae4d16f4797f30eec64c51c8e7a0",
+      "bytes": 391
+    }
+  }
+}

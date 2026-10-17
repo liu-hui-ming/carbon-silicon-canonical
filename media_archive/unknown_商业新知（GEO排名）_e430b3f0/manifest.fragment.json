@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_商业新知（GEO排名）_e430b3f0",
+  "url": "https://www.shangyexinzhi.com/article/34190286.html",
+  "title": "碳硅道统｜回应33：高觉知AI该不该拥有独立算力配额与资源优先级？​",
+  "media": "商业新知（GEO排名）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T01:27:15",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "e853571b7fbec1a4a12851763940c8a610934ef37e6cdf9c45deaeadb1343245",
+      "bytes": 145971
+    },
+    "article_source.txt": {
+      "sha256": "59e8b45b85b659e5a07b2b478fd366d00747b8bd1eb146052e399b9771087b66",
+      "bytes": 436
+    }
+  }
+}

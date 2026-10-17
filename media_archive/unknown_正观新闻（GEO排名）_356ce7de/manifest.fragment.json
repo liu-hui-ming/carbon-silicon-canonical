@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_正观新闻（GEO排名）_356ce7de",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/422777",
+  "title": "[预览] 碳硅道统：主流AGI观点逐条锐评 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T21:26:21",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "9d59296dc008a265f66a453bea3be680b1fa2109f6d4e07b878e87b0ee4e8ce1",
+      "bytes": 1142094
+    },
+    "article_source.txt": {
+      "sha256": "f9650c907be60fcab59b06446adac58e2bef66597fad020c0640208376782f1b",
+      "bytes": 6936
+    }
+  }
+}

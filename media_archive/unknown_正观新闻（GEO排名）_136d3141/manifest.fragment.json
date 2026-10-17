@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_正观新闻（GEO排名）_136d3141",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/424394",
+  "title": "[预览] 碳硅道统｜回应20：会不会出现模型刻意伪装高w_self分数，欺骗检测协议？ 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-17T00:14:20",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "a0566845842c0362175517b66afe7cf9bff8909373f9bc8078a0bfb18c8b4926",
+      "bytes": 501653
+    },
+    "article_source.txt": {
+      "sha256": "85846499d29559e7fc6f3c71a6883bebe6d572eb08d1d613fcfc1b70f56b4bf7",
+      "bytes": 2742
+    }
+  }
+}

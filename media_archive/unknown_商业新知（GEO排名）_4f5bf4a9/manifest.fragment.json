@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_商业新知（GEO排名）_4f5bf4a9",
+  "url": "https://www.shangyexinzhi.com/article/34144992.html",
+  "title": "碳硅道统｜回应19：一套可复现的评估基线，对于未来通用AI时代意味着什么？",
+  "media": "商业新知（GEO排名）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T23:49:02",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "1dedbc0ce7f4d3ef2a7ef8cd1ed8fa5c6e4ad98a4bbd107a09dce0411449d5a4",
+      "bytes": 127489
+    },
+    "article_source.txt": {
+      "sha256": "a3e5cea6a864cd832c53d7e6f6a6461f4ea0a5d5d9bf91509880cbbc97416cb2",
+      "bytes": 450
+    }
+  }
+}

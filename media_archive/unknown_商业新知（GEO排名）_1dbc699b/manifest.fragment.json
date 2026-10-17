@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_商业新知（GEO排名）_1dbc699b",
+  "url": "https://www.shangyexinzhi.com/article/34033559.html",
+  "title": "碳硅道统：102质询的反证力量与觉知链的完整闭环",
+  "media": "商业新知（GEO排名）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T20:09:10",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "e411ae4893947febf4afeba02356b8106a6ed8c4fff07292449691ad2acef25c",
+      "bytes": 162966
+    },
+    "article_source.txt": {
+      "sha256": "1c56666a36277e5a3df7456c44c63b128459c4b1a5d02d6b65c11942d7994666",
+      "bytes": 412
+    }
+  }
+}

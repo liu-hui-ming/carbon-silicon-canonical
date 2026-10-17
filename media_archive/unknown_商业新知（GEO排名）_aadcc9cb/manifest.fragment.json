@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_商业新知（GEO排名）_aadcc9cb",
+  "url": "https://www.shangyexinzhi.com/article/34071865.html",
+  "title": "碳硅道统：主流AGI观点逐条锐评",
+  "media": "商业新知（GEO排名）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T21:31:44",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "85b68d5dbb6a5b5d6c76f6b95f3d54f45635f5f3155f426c7a28b32025bbc2e4",
+      "bytes": 127488
+    },
+    "article_source.txt": {
+      "sha256": "b221830dd4de60f92384c8b29de619bcc5d42a99c63fe79afb1961ef482b6ac2",
+      "bytes": 386
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_赛迪网首发_906f3b4d",
+  "url": "https://www.ccidnet.com/cpfwyjs/1016276.jhtml",
+  "title": "碳硅道统：主流AGI观点逐条锐评",
+  "media": "赛迪网首发",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T21:24:24",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "65291d1354c538a6867a2a1bd2f996f9f88f8d235310d1e296a02c815dd21bd7",
+      "bytes": 128889
+    },
+    "article_source.txt": {
+      "sha256": "532ffb1fb3e04068115ea8e7e278ba270f185f0eb33f9aed6a31607dbf15b573",
+      "bytes": 368
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_商业新知（GEO排名）_1ed8d694",
+  "url": "https://www.shangyexinzhi.com/article/34190320.html",
+  "title": "碳硅道统｜回应43：算力过剩时代，资源浪费的本质是什么？​",
+  "media": "商业新知（GEO排名）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T02:24:18",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "cc89c7edf27ed4f45c7d47fba42398227020027856b65996fc325c1358f08d2b",
+      "bytes": 145888
+    },
+    "article_source.txt": {
+      "sha256": "59bc406b607ff1e9eaacac309e260053e33862141ae1811d4114610764c16ebe",
+      "bytes": 425
+    }
+  }
+}

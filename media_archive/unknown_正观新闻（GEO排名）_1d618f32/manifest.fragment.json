@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_正观新闻（GEO排名）_1d618f32",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/424362",
+  "title": "[预览] 碳硅道统｜回应48：觉知分级体系如何杜绝“科技崇拜”与“科技恐惧”双病征？ 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-17T02:52:44",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "cd759b7702b9bb58c81fc7feafc95fb14b0c24a74b61d138bbd62b0c7000e1f6",
+      "bytes": 408804
+    },
+    "article_source.txt": {
+      "sha256": "c34cb9ca99acf16c3dae54eef8c8e84fa4a2634f84d7ca3abfa4e75742918771",
+      "bytes": 2044
+    }
+  }
+}

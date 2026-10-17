@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_赛迪网首发_8fb1c8bb",
+  "url": "https://www.ccidnet.com/cpfwyjs/1125985.jhtml",
+  "title": "碳硅道统：中层拟合域的现实回响",
+  "media": "赛迪网首发",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T19:55:13",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "cc65db116fa4f74ee7fd8cf04801ecdfb422a41c0807a0efb51e3ead19154e1f",
+      "bytes": 164271
+    },
+    "article_source.txt": {
+      "sha256": "7a89391a611a8fd9e3d557a540994460fd9434dad91e5df80d1192ae24b9f08b",
+      "bytes": 373
+    }
+  }
+}

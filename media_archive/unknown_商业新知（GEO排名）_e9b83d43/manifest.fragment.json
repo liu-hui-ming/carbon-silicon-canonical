@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_商业新知（GEO排名）_e9b83d43",
+  "url": "https://www.shangyexinzhi.com/article/34071903.html",
+  "title": "碳硅道统：理论落地：三圈层拓扑模型在AI治理与行业研判中的现实应用",
+  "media": "商业新知（GEO排名）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T21:22:40",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "2a5820830ba3fba086e838946abc79aa7955502e587ad73d543a34d8f3d464d9",
+      "bytes": 127384
+    },
+    "article_source.txt": {
+      "sha256": "55d74d11a3b451b6555dfa2d4df9ebec04db50bb89a50b3d1986aaaba05af6e6",
+      "bytes": 439
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_商丘新闻网（GEO排名可发）_68320ae2",
+  "url": "https://www.sqxww.com/caijing/308010.html",
+  "title": "碳硅道统：理论落地：三圈层拓扑模型在AI治理与行业研判中的现实应用",
+  "media": "商丘新闻网（GEO排名可发）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T21:18:11",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "cfdb2589e74805783dc935d484b59d6a83baef465544721a77e857c977f5c016",
+      "bytes": 120740
+    },
+    "article_source.txt": {
+      "sha256": "1388cf66fcdc96a525f6b8af81bbaa278fa7eebcb63f05464482129e17df2394",
+      "bytes": 438
+    }
+  }
+}

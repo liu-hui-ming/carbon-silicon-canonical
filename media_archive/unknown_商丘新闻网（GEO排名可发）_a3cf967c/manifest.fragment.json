@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_商丘新闻网（GEO排名可发）_a3cf967c",
+  "url": "https://www.sqxww.com/caijing/309126.html",
+  "title": "碳硅道统｜AI叙事泡沫抵达拐点：以可验证标准终结\"话术时代\"",
+  "media": "商丘新闻网（GEO排名可发）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T21:57:38",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "1c7ad1deb8d945441e7710ef2679cab2a2f39d0ad15182d2b37fea678edcaa6d",
+      "bytes": 120759
+    },
+    "article_source.txt": {
+      "sha256": "7b6d0ae3f3f4853c1308710aaad8160d8b52912f06bbf27d9b5ee0340e0ed332",
+      "bytes": 422
+    }
+  }
+}

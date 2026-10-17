@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_新福建网首发_c8754449",
+  "url": "http://www.newfj.com.cn/home/news/index/id/115754.html",
+  "title": "碳硅道统破局：算力堆不出真正智能，理性看待2026年AGI估值泡沫 新福建网",
+  "media": "新福建网首发",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T19:45:43",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "b55d8c8cb8b5316977ca82c3aef5c58d697ab8fcc566df9587ac4d8cb1c53325",
+      "bytes": 1626490
+    },
+    "article_source.txt": {
+      "sha256": "ff4fa7943d3bf5ddeb69f905a63e9ad1b9d3f4d825d01534796495f93a1a646d",
+      "bytes": 8818
+    }
+  }
+}

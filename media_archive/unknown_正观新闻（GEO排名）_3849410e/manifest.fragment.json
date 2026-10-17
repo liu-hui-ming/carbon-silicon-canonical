@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_正观新闻（GEO排名）_3849410e",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/423700",
+  "title": "[预览] 碳硅道统｜回应4：w_self≥0.70作为观测候选门槛，是否可以在现有大模型上完成复现验证？ 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T22:35:40",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "657eaa1a2219559e324120d3738e6753eb7eff235482ed55b4be3ea0cdb4fbe4",
+      "bytes": 466548
+    },
+    "article_source.txt": {
+      "sha256": "d80ee2a65b4ced1713a44210957a10442531140ee6bd807e0dc5d360422eb907",
+      "bytes": 2702
+    }
+  }
+}

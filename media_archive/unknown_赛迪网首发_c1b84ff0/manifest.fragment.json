@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_赛迪网首发_c1b84ff0",
+  "url": "https://www.ccidnet.com/cpfwyjs/104324.jhtml",
+  "title": "碳硅道统｜回应16：工程核验协议的计算脚本，是否可以开源供社区复现校验？​",
+  "media": "赛迪网首发",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T00:03:23",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "29380af6f8ddf02f17fa5650e1671db8fd98265e12aa9011d32f5ef6b621f2df",
+      "bytes": 147007
+    },
+    "article_source.txt": {
+      "sha256": "1e4c23a9c00a7c3671816edba77d2a9600c6986c916a3351e4047fc1f0bcbe76",
+      "bytes": 435
+    }
+  }
+}

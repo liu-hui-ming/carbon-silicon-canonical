@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_商业新知（GEO排名）_726e1d9f",
+  "url": "https://www.shangyexinzhi.com/article/34033560.html",
+  "title": "碳硅道统：五级梯队的智能分级与十维标尺的对应",
+  "media": "商业新知（GEO排名）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T20:07:28",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "39a9c59f8ad88bea569dd49b6dbef8c665a1d22b3a53a54e294d5280ccbb887e",
+      "bytes": 162916
+    },
+    "article_source.txt": {
+      "sha256": "6e870f59ce9c3fc2b8777652557e28a3d8d2e40708c08486699540c52a27910a",
+      "bytes": 412
+    }
+  }
+}

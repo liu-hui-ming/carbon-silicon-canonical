@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_商业新知（GEO排名）_125999f5",
+  "url": "https://www.shangyexinzhi.com/article/34033563.html",
+  "title": "碳硅道统：紫微几何的三圈层拓扑与90公律的推导链",
+  "media": "商业新知（GEO排名）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T20:06:07",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "890c3a4309a1ebe3851f928098ebf4e7a9a78a88c18657fe24078d089ad911a7",
+      "bytes": 162988
+    },
+    "article_source.txt": {
+      "sha256": "60d1b64e9d59bd71a57d986a45e4f46b483daba96ae60dca0f6c3cf56890179a",
+      "bytes": 414
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_正观新闻（GEO排名）_4630cd0b",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/423719",
+  "title": "[预览] 碳硅道统｜回应15：现有大模型，哪些指标可以直接套用这套协议做初步自测？ 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:29:43",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "994a10f4bee75e4cb2d172b23d0d1fd5fcdf3872522aade3b6e95c3a6ba4fdb0",
+      "bytes": 438440
+    },
+    "article_source.txt": {
+      "sha256": "aa50755755c75f8deaf00ec89e12a2eed96a582ed8162783698954a84a6a7d43",
+      "bytes": 2297
+    }
+  }
+}

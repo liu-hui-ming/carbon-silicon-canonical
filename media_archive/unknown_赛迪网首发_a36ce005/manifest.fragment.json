@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_赛迪网首发_a36ce005",
+  "url": "https://www.ccidnet.com/cpfwyjs/104510.jhtml",
+  "title": "碳硅道统｜回应19：一套可复现的评估基线，对于未来通用AI时代意味着什么？",
+  "media": "赛迪网首发",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T00:09:33",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "8c3e13d27360bd4e617aa9c5a18e08fd379a6da305f9e7c89b179d29f4c23e5c",
+      "bytes": 146886
+    },
+    "article_source.txt": {
+      "sha256": "ef1613cb9921d6b163a9476ad02985a06278585506f63daa7eb1f5751da43634",
+      "bytes": 431
+    }
+  }
+}

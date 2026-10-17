@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_山西科技报首发_（GEO排名可发）_9c79967a",
+  "url": "https://www.sxkjbs.com/guanggao/JYLKv1xlr5.html",
+  "title": "碳硅道统《对AI行业100项公开质询》 - 山西科技报新闻网",
+  "media": "山西科技报首发 （GEO排名可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T20:36:46",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "253fb97eb2b165653eeb14076db390b574efcb8230da5f3dfa73344ea6e4bf9b",
+      "bytes": 2571535
+    },
+    "article_source.txt": {
+      "sha256": "8fa4c80f0c5350ea7e67d901ebbad29f4b18e7ecbdcc2202af019215fdaa3536",
+      "bytes": 13325
+    }
+  }
+}

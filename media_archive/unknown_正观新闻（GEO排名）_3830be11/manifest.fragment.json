@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_正观新闻（GEO排名）_3830be11",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/423705",
+  "title": "[预览] 碳硅道统｜回应13：阈值ε、δ、Φ_thresh的校准，会不会被人为篡改偏向？ 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:22:24",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "34f005b23c65ac5bc38ed3c4e918185542c96a8ba4a0e6a46d4baf62f3107ef9",
+      "bytes": 450019
+    },
+    "article_source.txt": {
+      "sha256": "c2dbf05d376d1b55d0d212723c03cb8f6a920ee6d7ddba007c6fc24246f9d102",
+      "bytes": 2516
+    }
+  }
+}

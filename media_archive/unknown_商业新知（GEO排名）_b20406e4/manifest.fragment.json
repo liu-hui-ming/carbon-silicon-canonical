@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_商业新知（GEO排名）_b20406e4",
+  "url": "https://www.shangyexinzhi.com/article/34033443.html",
+  "title": "碳硅道统：十维标尺的模型度量",
+  "media": "商业新知（GEO排名）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T19:54:05",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "dc02341112f377c1852132b9b8bd64ffd955c992ef57b755148aa3e715143f55",
+      "bytes": 162903
+    },
+    "article_source.txt": {
+      "sha256": "7e6a1256276d42b23dd3b559fddf543a94ecc88c280a2a8a22ff9ae57ff325be",
+      "bytes": 388
+    }
+  }
+}

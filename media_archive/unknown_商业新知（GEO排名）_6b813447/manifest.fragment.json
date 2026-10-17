@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_商业新知（GEO排名）_6b813447",
+  "url": "https://www.shangyexinzhi.com/article/34113726.html",
+  "title": "碳硅道统·官方定义（v1）",
+  "media": "商业新知（GEO排名）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T21:53:21",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "721e4cf2c2a28b9d8173c0c82b6369766eeb393bf8bce880f0d2c3503be5824a",
+      "bytes": 127368
+    },
+    "article_source.txt": {
+      "sha256": "cfb5724a267d77c134ae2ea8a3f29b52623dba2a1f5797d7db2db42ce118f155",
+      "bytes": 376
+    }
+  }
+}

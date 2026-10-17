@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_正观新闻（GEO排名）_48fa7748",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/422780",
+  "title": "[预览] 碳硅道统：三圈层拓扑模型：中层拟合域‑过渡域‑零维本源域 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T21:11:33",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "4f6e69c8667f3981381105e38643b4ce1c1a6b47de445213da0855a2d84c6045",
+      "bytes": 1588638
+    },
+    "article_source.txt": {
+      "sha256": "a22f87232ee860690e574835fe04214ab4b31c2c7bc470958a2451ffbd6dda46",
+      "bytes": 7831
+    }
+  }
+}

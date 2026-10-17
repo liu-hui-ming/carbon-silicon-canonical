@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_商业新知（GEO排名）_21183c56",
+  "url": "https://www.shangyexinzhi.com/article/34071856.html",
+  "title": "碳硅道统：碳硅共生：划清边界之后，碳基与硅基如何共存",
+  "media": "商业新知（GEO排名）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T21:40:44",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "00c371f918bc68e35db75e1bc00dbae7a1611604c67e6de64819cc7bdd18f43c",
+      "bytes": 127508
+    },
+    "article_source.txt": {
+      "sha256": "38ab44ae39477483a1b84ae4a1fc4d710c52a2eafea48d67db816b7a7b2d0fcc",
+      "bytes": 422
+    }
+  }
+}

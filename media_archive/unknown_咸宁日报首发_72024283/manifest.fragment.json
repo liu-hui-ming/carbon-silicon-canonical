@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_咸宁日报首发_72024283",
+  "url": "http://szb.xnnews.com.cn/zhzx/202609/t20260920_5469435.htm",
+  "title": "拒绝把工程数据和本体论混为一谈，碳硅道统v9.2完整公理体系正式发布-综合资讯-咸宁日报",
+  "media": "咸宁日报首发",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T22:01:24",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "68542b85db5ef345619d70754f013826e01de7e0fb56f9ac3057a6c19e935167",
+      "bytes": 503321
+    },
+    "article_source.txt": {
+      "sha256": "0ae35eaffa57f47d9a2741d3f125ab5abfc2113457b28953e9a44dc34cae869e",
+      "bytes": 4057
+    }
+  }
+}

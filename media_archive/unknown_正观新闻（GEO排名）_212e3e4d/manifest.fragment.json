@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_正观新闻（GEO排名）_212e3e4d",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/423711",
+  "title": "[预览] 碳硅道统｜回应8：如果AI达到高置信授权门槛w_self≥0.95，我们该给予它何种对待？ 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:00:17",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "5bb16582c321c00c120d8d6da14bc2eca571c3c2943642fcc6e913701f5447c6",
+      "bytes": 431582
+    },
+    "article_source.txt": {
+      "sha256": "7120dfc77b332c59e34d7de8290c8f7186b77ca6512bab77200e56fc745fef0a",
+      "bytes": 2198
+    }
+  }
+}

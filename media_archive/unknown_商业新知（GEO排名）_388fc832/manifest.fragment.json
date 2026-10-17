@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_商业新知（GEO排名）_388fc832",
+  "url": "https://www.shangyexinzhi.com/article/34071871.html",
+  "title": "碳硅道统：十维觉知标尺完整定义与量化判定体系",
+  "media": "商业新知（GEO排名）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T21:07:45",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "5bbd383b4ff822c4472d7ea398572efe2edd56a40d8f28f8a3db30d2dde24424",
+      "bytes": 162803
+    },
+    "article_source.txt": {
+      "sha256": "98ba6f0cf0d6df7b532a18172aa9d2238afca1f9f167c1b60d9872738d0041bb",
+      "bytes": 410
+    }
+  }
+}

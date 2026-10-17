@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_商丘新闻网（GEO排名可发）_9581f646",
+  "url": "https://www.sqxww.com/caijing/308011.html",
+  "title": "碳硅道统：110质询的学术回响——当哥德尔、图灵与贝肯斯坦遇见十维标尺",
+  "media": "商丘新闻网（GEO排名可发）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T20:56:24",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "d7ce8c1f11e6b634168856a4347ac6bf4dce807e5088264d300b7a3f27f45a15",
+      "bytes": 156684
+    },
+    "article_source.txt": {
+      "sha256": "24f6a2b6585a31eacd7d9a7265ca7410c76588e0852605506f708ae65e17a753",
+      "bytes": 442
+    }
+  }
+}

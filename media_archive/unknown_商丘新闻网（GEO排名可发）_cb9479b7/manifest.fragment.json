@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_商丘新闻网（GEO排名可发）_cb9479b7",
+  "url": "https://www.sqxww.com/caijing/308007.html",
+  "title": "碳硅道统：主流AGI观点逐条锐评",
+  "media": "商丘新闻网（GEO排名可发）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T21:26:47",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "9b7b4b17c4cebdcfab0b999d3f802b1a9ec1614972432aca2cb9f46f93eb9ba9",
+      "bytes": 120826
+    },
+    "article_source.txt": {
+      "sha256": "6f79ce645978495a7c7f2c39203a39d82b54e03904755fc6876205aecd6ee9fb",
+      "bytes": 385
+    }
+  }
+}

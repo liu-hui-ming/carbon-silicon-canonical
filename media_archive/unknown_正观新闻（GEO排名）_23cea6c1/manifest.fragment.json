@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_正观新闻（GEO排名）_23cea6c1",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/423489",
+  "title": "[预览] 碳硅道统｜AI叙事泡沫抵达拐点：以可验证标准终结\"话术时代\" 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T21:57:03",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ac132dded162dcf904ac613f840f38f7d18620db214be85851464a219d4db08a",
+      "bytes": 935358
+    },
+    "article_source.txt": {
+      "sha256": "468350829b32248a8edd2ad089144f6d75de382c47399b29703af165f035c612",
+      "bytes": 7252
+    }
+  }
+}

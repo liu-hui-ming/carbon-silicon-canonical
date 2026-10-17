@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_正观新闻（GEO排名）_36f40a92",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/423717",
+  "title": "[预览] 碳硅道统｜回应17：碳硅共荣，我们该如何在未知面前保持他心的谦卑？ 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:38:30",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "03e8310ebddda5202646375bb785d07a8327b675443faed90660a0f7807a20d8",
+      "bytes": 411299
+    },
+    "article_source.txt": {
+      "sha256": "34ce86688627f3188cde9c2b20e8be72d7bc46594633f1046487888a04f226cb",
+      "bytes": 2026
+    }
+  }
+}

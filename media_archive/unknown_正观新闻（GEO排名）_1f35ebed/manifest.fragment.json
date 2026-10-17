@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_正观新闻（GEO排名）_1f35ebed",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/422694",
+  "title": "[预览] 碳硅道统《对AI行业100项公开质询》 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T20:29:40",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ec70874ebc71577c6e7252f49d1452b85d1b228e0da372e118bf88af3ae94f1f",
+      "bytes": 2288891
+    },
+    "article_source.txt": {
+      "sha256": "75aef87e663b0d87a8258d9dad2e552c891ea002a25a43e81e55025e47299db2",
+      "bytes": 11562
+    }
+  }
+}

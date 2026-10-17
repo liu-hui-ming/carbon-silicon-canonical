@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_商业新知（GEO排名）_138e4f39",
+  "url": "https://www.shangyexinzhi.com/article/34190276.html",
+  "title": "碳硅道统｜回应47：算力资源未来会不会形成全球地缘博弈新战场？",
+  "media": "商业新知（GEO排名）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T02:49:29",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "f860ea155f800f32f80ccb6f41f11442673360a6f060d726d73ef9a42a144d63",
+      "bytes": 145949
+    },
+    "article_source.txt": {
+      "sha256": "8e0fb14bab0fc985975cc547512dbc1fc72983f61ad8f7b9520965bad3f695c9",
+      "bytes": 431
+    }
+  }
+}
