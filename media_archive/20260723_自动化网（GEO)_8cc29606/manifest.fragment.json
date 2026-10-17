@@ -1,0 +1,20 @@
+{
+  "folder": "20260723_自动化网（GEO)_8cc29606",
+  "url": "https://www.zidonghua.com.cn/MSupplyChain/InfoWin/229617.html",
+  "title": "第18集｜行业宣称的自主进化，全部是提前预设的迭代脚本 - 资讯之窗 - 自动化网 ZiDongHua.com.cn ，自动化科技展示平台、“自动化者”人文交流平台。",
+  "media": "自动化网（GEO)",
+  "pub_date": "20260723",
+  "access": "OK",
+  "captured_at": "2026-10-15T23:07:49",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "d04912e50065efeafd1994296588fbc83aedaf3bc5938e1234b48db72d8b1de5",
+      "bytes": 2298340
+    },
+    "article_source.txt": {
+      "sha256": "2b0a7e7a78f8601ec6a1c0513e7db2c8cc5fd80bd0b270fa3bee3fe568ccb35a",
+      "bytes": 12628
+    }
+  }
+}

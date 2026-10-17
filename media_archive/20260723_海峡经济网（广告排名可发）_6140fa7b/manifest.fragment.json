@@ -1,0 +1,20 @@
+{
+  "folder": "20260723_海峡经济网（广告排名可发）_6140fa7b",
+  "url": "https://www.hxjjw.com.cn/roll/business/2026/0724/56126.html",
+  "title": "第18集｜行业宣称的自主进化，全部是提前预设的迭代脚本_海峡经济网",
+  "media": "海峡经济网（广告排名可发）",
+  "pub_date": "20260723",
+  "access": "OK",
+  "captured_at": "2026-10-15T23:04:42",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "d46f0e30ec949e854872d962319539a4f0189357bbad42c487e913e00c0a37a5",
+      "bytes": 1568852
+    },
+    "article_source.txt": {
+      "sha256": "cf77c936d66dfa071b51fb9e757fe457b520dccc1851485ccda676177a9f8f9c",
+      "bytes": 7387
+    }
+  }
+}

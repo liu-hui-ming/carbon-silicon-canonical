@@ -1,0 +1,20 @@
+{
+  "folder": "20260723_正观新闻（GEO排名）_1e9d5036",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/414111",
+  "title": "[预览] 第18集｜行业宣称的自主进化，全部是提前预设的迭代脚本 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "20260723",
+  "access": "OK",
+  "captured_at": "2026-10-15T23:01:08",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "42536b8d408d84f4a817b103354f0e97eb463d99b08c252d7b07464a6b7c74e2",
+      "bytes": 616505
+    },
+    "article_source.txt": {
+      "sha256": "9b0f0bd4a2d1678840ca0a9e98fea2aad8fdc021e96fa0ed8121db566e0cb1f9",
+      "bytes": 4959
+    }
+  }
+}

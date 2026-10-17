@@ -1,0 +1,20 @@
+{
+  "folder": "20260723_智门财经（网易号）_c3845418",
+  "url": "http://www.163.com/dy/article/L2HKNL0R0552S2FI.html",
+  "title": "第19集｜人机协同伪命题：碳硅并未共生，只是人类单向调用工具|本体_网易订阅",
+  "media": "智门财经（网易号）",
+  "pub_date": "20260723",
+  "access": "OK",
+  "captured_at": "2026-10-15T23:26:13",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "3e4ea33a00c5d793d8488537b5cfb58220882c5870a9ce5c2f0c14f7fb4720bc",
+      "bytes": 5589624
+    },
+    "article_source.txt": {
+      "sha256": "d465cebf68598697746d19ebf16e2ebdff519c6ce24d17e38ab92829d5119605",
+      "bytes": 11698
+    }
+  }
+}

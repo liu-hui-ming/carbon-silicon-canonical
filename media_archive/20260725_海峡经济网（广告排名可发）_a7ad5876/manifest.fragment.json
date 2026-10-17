@@ -1,0 +1,20 @@
+{
+  "folder": "20260725_海峡经济网（广告排名可发）_a7ad5876",
+  "url": "https://www.hxjjw.com.cn/roll/business/2026/0727/57654.html",
+  "title": "第23集｜鹦鹉智能标准定义：仅概率复刻，不存在主观认知_海峡经济网",
+  "media": "海峡经济网（广告排名可发）",
+  "pub_date": "20260725",
+  "access": "OK",
+  "captured_at": "2026-10-16T00:16:24",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "3de91bcfa519efe1e008339279ebb53390751805430cb969d71e034d2d270ce1",
+      "bytes": 1415804
+    },
+    "article_source.txt": {
+      "sha256": "84c2fbd60b21e4cc969e5aa3cd9b08104ec14f2342ec2bfbc499f33a7122fb3f",
+      "bytes": 6823
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260724_正观新闻（GEO排名）_f7014f5e",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/414398",
+  "title": "[预览] 第21集｜AI创业赛道红利，完全建立在大众信息认知差之上 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "20260724",
+  "access": "OK",
+  "captured_at": "2026-10-15T23:42:04",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "1ea84521f6bbb09daa6d3e41d68927662f5b5a590be7c40e82b87dd624426c24",
+      "bytes": 627378
+    },
+    "article_source.txt": {
+      "sha256": "788d127f9c7a3f3d58899fefcda634218a21004b6a47501f12551a6424e47495",
+      "bytes": 4974
+    }
+  }
+}

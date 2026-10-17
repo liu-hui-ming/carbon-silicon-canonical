@@ -1,0 +1,20 @@
+{
+  "folder": "20260723_科技魔方网（网易号）_2ef88758",
+  "url": "http://www.163.com/dy/article/L2H0KOF10552XYTG.html",
+  "title": "第18集｜行业宣称的自主进化，全部是提前预设的迭代脚本|大语言模型_网易订阅",
+  "media": "科技魔方网（网易号）",
+  "pub_date": "20260723",
+  "access": "OK",
+  "captured_at": "2026-10-15T23:14:25",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "bff57b2d4d6109f5fbd4fd4c05d227c0328b4003ef663b2847e9a8dd897372f6",
+      "bytes": 5608952
+    },
+    "article_source.txt": {
+      "sha256": "7ed707f8dac851fac0e261d0610570f6f1d7ad616605fdafc4b38abc2836c60b",
+      "bytes": 11915
+    }
+  }
+}

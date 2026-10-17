@@ -1,0 +1,20 @@
+{
+  "folder": "20260724_商业新知（GEO可发）_7943d45a",
+  "url": "https://www.shangyexinzhi.com/article/33209743.html",
+  "title": "商业新知（GEO可发） 首发稿件 #1004",
+  "media": "商业新知（GEO可发）",
+  "pub_date": "20260724",
+  "access": "CON",
+  "captured_at": "2026-10-15T23:36:44",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "95f1def9ff2dbf63d3fbc3ee376f77fee79f9efee91aadf575a06f6498badd05",
+      "bytes": 116864
+    },
+    "article_source.txt": {
+      "sha256": "87981b4feaf7ecb206343bed1efd828ef86d0759f676fa1d13988c202c24faeb",
+      "bytes": 384
+    }
+  }
+}

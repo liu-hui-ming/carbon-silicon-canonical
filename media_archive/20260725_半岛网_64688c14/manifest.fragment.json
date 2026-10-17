@@ -1,0 +1,20 @@
+{
+  "folder": "20260725_半岛网_64688c14",
+  "url": "http://kuaixun.bandao.cn/a/1785049084579883.html",
+  "title": "第23集｜鹦鹉智能标准定义：仅概率复刻，不存在主观认知",
+  "media": "半岛网",
+  "pub_date": "20260725",
+  "access": "OK",
+  "captured_at": "2026-10-16T00:17:35",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "9fa9364214faf939497c0ecadb187fb28664523522f342255a6e14c895048ebe",
+      "bytes": 949396
+    },
+    "article_source.txt": {
+      "sha256": "8d084a2f0bceba4f1da2a6b29cdb5860ecaefb150b585e195cc2efa247bc76ee",
+      "bytes": 6106
+    }
+  }
+}

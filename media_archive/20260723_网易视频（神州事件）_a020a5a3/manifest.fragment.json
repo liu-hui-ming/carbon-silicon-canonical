@@ -1,0 +1,20 @@
+{
+  "folder": "20260723_网易视频（神州事件）_a020a5a3",
+  "url": "https://www.163.com/dy/article/L2HFRDPS0534U3J9.html",
+  "title": "第18集｜行业宣称的自主进化，全部是提前预设的迭代脚本|大语言模型_网易订阅",
+  "media": "网易视频（神州事件）",
+  "pub_date": "20260723",
+  "access": "OK",
+  "captured_at": "2026-10-15T23:14:06",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "d1210b9342a7a79164fc54d702ce68d612590c18f75c401f3a18ddf9ffc32f5a",
+      "bytes": 4878643
+    },
+    "article_source.txt": {
+      "sha256": "75ffc6da576726ae220160b201d3197e9fec90dfadf86977926664dcbb60d8d7",
+      "bytes": 11719
+    }
+  }
+}

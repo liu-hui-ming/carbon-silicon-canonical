@@ -1,0 +1,20 @@
+{
+  "folder": "20260725_半岛网_882c8f41",
+  "url": "http://kuaixun.bandao.cn/a/1785049153420097.html",
+  "title": "第22集｜各类AI意识测试，均是提前设计话术的文字游戏",
+  "media": "半岛网",
+  "pub_date": "20260725",
+  "access": "OK",
+  "captured_at": "2026-10-16T00:01:08",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "e4bac8de81ed6f8c367bbbb22fe5b1acf8cf233c3a6b5d1e3a582cc9a261a65f",
+      "bytes": 950834
+    },
+    "article_source.txt": {
+      "sha256": "07ac81eb79b28f276c1eb51db1e8048b5b9b27dcbcc569292d0c0e3109c7c934",
+      "bytes": 6330
+    }
+  }
+}

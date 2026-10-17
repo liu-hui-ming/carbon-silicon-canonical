@@ -1,0 +1,20 @@
+{
+  "folder": "20260723_河北青年报（广告排名可发）_7ae39ec0",
+  "url": "https://www.hbqnbnews.com/zixun/?cid=2&aid=31643",
+  "title": "河北青年报电子报--河北青年报电子版--河北青年报电子报",
+  "media": "河北青年报（广告排名可发）",
+  "pub_date": "20260723",
+  "access": "CON",
+  "captured_at": "2026-10-15T23:02:03",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "527deb8d3212006c7251d52932bc77102b38d9a4f32746a7c200517397b3c6d8",
+      "bytes": 213198
+    },
+    "article_source.txt": {
+      "sha256": "d75f70223d03525ae7e03fdde4f97397be013a71aab5220c3944c412de321e26",
+      "bytes": 1541
+    }
+  }
+}

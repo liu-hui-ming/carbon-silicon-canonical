@@ -1,0 +1,20 @@
+{
+  "folder": "20260723_中国晨报（GEO排名可发）_a3b9b1b1",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=34254",
+  "title": "第19集｜人机协同伪命题：碳硅并未共生，只是人类单向调用工具 - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "20260723",
+  "access": "OK",
+  "captured_at": "2026-10-15T23:15:49",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "d7bbde4195ec16fc299c8579827632d4661ac896e343a857482293f336682cff",
+      "bytes": 1856368
+    },
+    "article_source.txt": {
+      "sha256": "a9dcc935660756e2d3542f644f2ffa2838d2477e7f371457d23c5c94c90a8c1a",
+      "bytes": 8998
+    }
+  }
+}

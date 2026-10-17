@@ -1,0 +1,20 @@
+{
+  "folder": "20260723_中国商业网（可发GEO）_3dcaf0c7",
+  "url": "http://www.jkkjwz.cn/list_1/286.html",
+  "title": "第18集｜行业宣称的自主进化，全部是提前预设的迭代脚本-资讯-商业网",
+  "media": "中国商业网（可发GEO）",
+  "pub_date": "20260723",
+  "access": "OK",
+  "captured_at": "2026-10-15T23:10:46",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "b11970641cb13f43eba602f7c66893fad9383e4a4c69d6a5702009e940913b91",
+      "bytes": 1060863
+    },
+    "article_source.txt": {
+      "sha256": "9bb18e9439edce056373a4d934903909976e02e682c4b318031572361d693212",
+      "bytes": 7907
+    }
+  }
+}

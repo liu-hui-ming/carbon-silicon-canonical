@@ -1,0 +1,20 @@
+{
+  "folder": "20260724_信阳日报（GEO排名可发）_da96353b",
+  "url": "https://ribao.xyxww.com.cn/html/2026-07/24/2077220.html",
+  "title": "第20集｜科技媒体刻意隐瞒AI底层短板的核心利益逻辑_第46版_信阳日报数字报刊",
+  "media": "信阳日报（GEO排名可发）",
+  "pub_date": "20260724",
+  "access": "OK",
+  "captured_at": "2026-10-15T23:27:53",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "23e64f776c14634683c7526c8bd26ea869142d2a77e05d04cbf5dbc625bd1d8a",
+      "bytes": 935419
+    },
+    "article_source.txt": {
+      "sha256": "4251c54f1c9b87434110d005a6944a0517c1e1428219e1d42be2d1fe6d6c13fb",
+      "bytes": 5375
+    }
+  }
+}

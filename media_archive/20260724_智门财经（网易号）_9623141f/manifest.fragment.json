@@ -1,0 +1,20 @@
+{
+  "folder": "20260724_智门财经（网易号）_9623141f",
+  "url": "http://www.163.com/dy/article/L2JINK1P0552S2FI.html",
+  "title": "第20集｜科技媒体刻意隐瞒AI底层短板的核心利益逻辑|大众|单向度_网易订阅",
+  "media": "智门财经（网易号）",
+  "pub_date": "20260724",
+  "access": "OK",
+  "captured_at": "2026-10-15T23:40:13",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "e3209655606625c396445485b8073b6357cbaeb8d75d75423d19e4dac622b18d",
+      "bytes": 5622763
+    },
+    "article_source.txt": {
+      "sha256": "21df133f1246cfc6d8caf4689f46e48ce952bb88653a2429b8015ecec80f4137",
+      "bytes": 11763
+    }
+  }
+}

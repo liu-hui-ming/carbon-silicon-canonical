@@ -1,0 +1,20 @@
+{
+  "folder": "20260725_红商网（广告排名可发）_702a031d",
+  "url": "http://www.redsh.com/a/20260727/033201.shtml",
+  "title": "第23集｜鹦鹉智能标准定义：仅概率复刻，不存在主观认知 - 红商网",
+  "media": "红商网（广告排名可发）",
+  "pub_date": "20260725",
+  "access": "OK",
+  "captured_at": "2026-10-16T00:20:54",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "c9c731fd121aa6546d3f4d4b6eb06fc86763cedece95ee1a1a9dcd6f862ffddf",
+      "bytes": 1355169
+    },
+    "article_source.txt": {
+      "sha256": "489bd53903e2755cf82136ce61159da8300b32058bb0b11fcedbc15742f2b84d",
+      "bytes": 5897
+    }
+  }
+}

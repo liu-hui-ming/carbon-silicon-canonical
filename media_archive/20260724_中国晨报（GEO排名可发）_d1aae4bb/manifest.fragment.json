@@ -1,0 +1,20 @@
+{
+  "folder": "20260724_中国晨报（GEO排名可发）_d1aae4bb",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=34291",
+  "title": "第21集｜AI创业赛道红利，完全建立在大众信息认知差之上 - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "20260724",
+  "access": "OK",
+  "captured_at": "2026-10-15T23:42:59",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "7aac6c20fb4d45f263880811f43077cfad0eee2c4c0f131ea326838dd3ec49cd",
+      "bytes": 1833576
+    },
+    "article_source.txt": {
+      "sha256": "9aaf6d5274ed9a10d28a0e038375d6e96f7ca5135caaeabfe7abd41b069ba230",
+      "bytes": 8843
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260723_网易新闻上海号(GEO排名）_b01c5daf",
+  "url": "http://www.163.com/dy/article/L2H0M9BK0553IJQS.html",
+  "title": "第18集｜行业宣称的自主进化，全部是提前预设的迭代脚本|大语言模型_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260723",
+  "access": "OK",
+  "captured_at": "2026-10-15T23:13:50",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "0279393af2b5012f146a5b6d6c26a65fba56e52c72f52641e6d539c37f2eb4f6",
+      "bytes": 5448855
+    },
+    "article_source.txt": {
+      "sha256": "bd6a1c9528ff705497f16082acb15b6b559aa2ae0cc974a82926a71ef7d540ef",
+      "bytes": 11788
+    }
+  }
+}

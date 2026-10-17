@@ -1,0 +1,20 @@
+{
+  "folder": "20260723_正观新闻（GEO排名）_1b17fb0f",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/414170",
+  "title": "[预览] 第19集｜人机协同伪命题：碳硅并未共生，只是人类单向调用工具 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "20260723",
+  "access": "OK",
+  "captured_at": "2026-10-15T23:14:56",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "d446d5f8a830a7634712f18fb429a57f601ea423feaeb19ceaecea44bcea1cd7",
+      "bytes": 635708
+    },
+    "article_source.txt": {
+      "sha256": "ee03d5e2cf69e0a4a78d82688fc3717b819f533675af063d986e38ed133ee2b9",
+      "bytes": 5091
+    }
+  }
+}

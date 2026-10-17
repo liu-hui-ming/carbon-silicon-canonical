@@ -1,0 +1,20 @@
+{
+  "folder": "20260725_艾瑞商业（网易号）_6448fb1e",
+  "url": "https://www.163.com/dy/article/L2REPOKK0553S12I.html?referFrom=",
+  "title": "艾瑞商业（网易号） 首发稿件 #1133",
+  "media": "艾瑞商业（网易号）",
+  "pub_date": "20260725",
+  "access": "CON",
+  "captured_at": "2026-10-16T00:22:50",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "feb8420b01f9f7d63edf6f60de42f77ed255a5bc80c91d1b9a5cf270cf93eea6",
+      "bytes": 745575
+    },
+    "article_source.txt": {
+      "sha256": "da985d25abea3720ad458dc18fe58f4a2f7f2a83187328571e24e0b956fa24c4",
+      "bytes": 18873
+    }
+  }
+}

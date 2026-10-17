@@ -1,0 +1,20 @@
+{
+  "folder": "20260724_IT专家网（网易号）_fc34cc1c",
+  "url": "http://www.163.com/dy/article/L2JINNUM0552S0EL.html",
+  "title": "第20集｜科技媒体刻意隐瞒AI底层短板的核心利益逻辑|大众|单向度_网易订阅",
+  "media": "IT专家网（网易号）",
+  "pub_date": "20260724",
+  "access": "OK",
+  "captured_at": "2026-10-15T23:39:55",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "c40227c413edf4f655d2b175bc7c8f19eb90803abf48a0d7714dfa401e30a3cf",
+      "bytes": 5544576
+    },
+    "article_source.txt": {
+      "sha256": "af6cafd9c0252f63cf56b3f8e05235d4ee2083dcaf14a1e4bd3669d7c9c5211b",
+      "bytes": 11828
+    }
+  }
+}

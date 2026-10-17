@@ -1,0 +1,20 @@
+{
+  "folder": "20260724_中国商业网（可发GEO）_39a0560b",
+  "url": "http://www.jkkjwz.cn/list_1/288.html",
+  "title": "第20集｜科技媒体刻意隐瞒AI底层短板的核心利益逻辑-资讯-商业网",
+  "media": "中国商业网（可发GEO）",
+  "pub_date": "20260724",
+  "access": "OK",
+  "captured_at": "2026-10-15T23:37:21",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "499cead1b3d30de54d344559f630056557e8263eee5c5e7386d1aaba1f1a88a0",
+      "bytes": 1176854
+    },
+    "article_source.txt": {
+      "sha256": "d7c4641c98b348cdc04fb9e6db0d713fe913f1f8111a65b6790e84a6c3e6c627",
+      "bytes": 7833
+    }
+  }
+}

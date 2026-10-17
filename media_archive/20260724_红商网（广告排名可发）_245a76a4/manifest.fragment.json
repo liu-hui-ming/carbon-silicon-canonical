@@ -1,0 +1,20 @@
+{
+  "folder": "20260724_红商网（广告排名可发）_245a76a4",
+  "url": "http://www.redsh.com/a/20260726/011926.shtml",
+  "title": "红商网（广告排名可发） 首发稿件 #1045",
+  "media": "红商网（广告排名可发）",
+  "pub_date": "20260724",
+  "access": "CON",
+  "captured_at": "2026-10-15T23:49:40",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "f52b63412f59f49f964967fab20fce7316073553e67f380b83c6e35db09633f0",
+      "bytes": 100809
+    },
+    "article_source.txt": {
+      "sha256": "5b2b938e684bf551b7f2b5456970946ec5ad6f8ff58a6fd7a380c76a572d4799",
+      "bytes": 400
+    }
+  }
+}

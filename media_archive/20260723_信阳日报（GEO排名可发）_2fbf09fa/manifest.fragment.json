@@ -1,0 +1,20 @@
+{
+  "folder": "20260723_信阳日报（GEO排名可发）_2fbf09fa",
+  "url": "https://ribao.xyxww.com.cn/html/2026-07/23/2077207.html",
+  "title": "第19集｜人机协同伪命题：碳硅并未共生，只是人类单向调用工具_第46版_信阳日报数字报刊",
+  "media": "信阳日报（GEO排名可发）",
+  "pub_date": "20260723",
+  "access": "OK",
+  "captured_at": "2026-10-15T23:15:13",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "901f546adcc668db8891bc2ada1eb53f3ff88b1672c9ce88bb9b6756b7994041",
+      "bytes": 934956
+    },
+    "article_source.txt": {
+      "sha256": "6e065465915badc3676510cc5a0c0abb6bc5f2f7c5f1a0ef161bde10174cc71e",
+      "bytes": 5644
+    }
+  }
+}

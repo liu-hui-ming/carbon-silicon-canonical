@@ -1,0 +1,20 @@
+{
+  "folder": "20260723_红商网（广告排名可发）_0dc7aff0",
+  "url": "http://www.redsh.com/a/20260724/122925.shtml",
+  "title": "第19集｜人机协同伪命题：碳硅并未共生，只是人类单向调用工具 - 红商网",
+  "media": "红商网（广告排名可发）",
+  "pub_date": "20260723",
+  "access": "OK",
+  "captured_at": "2026-10-15T23:22:29",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "923c9ef88fb2ca9e62463a084431a9ffc0c2f680241457c3e1c9cbfef58cb09c",
+      "bytes": 1230983
+    },
+    "article_source.txt": {
+      "sha256": "3f317933621c81b7bd3b9dba899b7e614dbf5bed027481dbf89f80f747820ff6",
+      "bytes": 6599
+    }
+  }
+}

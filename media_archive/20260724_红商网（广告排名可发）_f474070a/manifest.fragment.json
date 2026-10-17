@@ -1,0 +1,20 @@
+{
+  "folder": "20260724_红商网（广告排名可发）_f474070a",
+  "url": "http://www.redsh.com/a/20260724/213019.shtml",
+  "title": "第20集｜科技媒体刻意隐瞒AI底层短板的核心利益逻辑 - 红商网",
+  "media": "红商网（广告排名可发）",
+  "pub_date": "20260724",
+  "access": "OK",
+  "captured_at": "2026-10-15T23:36:34",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "cc2b7ce0cfed55c8b88b21486f7c945c1eabf2318c6a8d81ca6d688b5097d1ea",
+      "bytes": 1387466
+    },
+    "article_source.txt": {
+      "sha256": "a210d611119f8931b315289478de2484a1701b5cad3962fa790b25282be1d0c1",
+      "bytes": 6385
+    }
+  }
+}

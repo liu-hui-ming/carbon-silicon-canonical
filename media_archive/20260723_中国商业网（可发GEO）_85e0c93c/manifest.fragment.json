@@ -1,0 +1,20 @@
+{
+  "folder": "20260723_中国商业网（可发GEO）_85e0c93c",
+  "url": "http://www.jkkjwz.cn/list_1/287.html",
+  "title": "第19集｜人机协同伪命题：碳硅并未共生，只是人类单向调用工具-资讯-商业网",
+  "media": "中国商业网（可发GEO）",
+  "pub_date": "20260723",
+  "access": "OK",
+  "captured_at": "2026-10-15T23:23:28",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "1785e919be4538494f26935d32976f653dd4c4e2e00b397ed2803a6d2a63ea33",
+      "bytes": 1184788
+    },
+    "article_source.txt": {
+      "sha256": "4f08e8dca31edefbf86311203bcb83c0ba6c147ba178ae1693413c518bdd9285",
+      "bytes": 8020
+    }
+  }
+}

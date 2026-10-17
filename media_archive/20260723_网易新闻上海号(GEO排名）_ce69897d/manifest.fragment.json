@@ -1,0 +1,20 @@
+{
+  "folder": "20260723_网易新闻上海号(GEO排名）_ce69897d",
+  "url": "http://www.163.com/dy/article/L2HKMGH00553IJQS.html",
+  "title": "第19集｜人机协同伪命题：碳硅并未共生，只是人类单向调用工具|本体_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260723",
+  "access": "OK",
+  "captured_at": "2026-10-15T23:26:33",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "6ea40d52a28d4d9907a01fd5dce605ec208d6c75125128aae635e64de836da29",
+      "bytes": 4829153
+    },
+    "article_source.txt": {
+      "sha256": "a24e610bfc04a20cb5e72b45ce6f22c475d8fca87d7c4b05ca48b4be8961b226",
+      "bytes": 11891
+    }
+  }
+}

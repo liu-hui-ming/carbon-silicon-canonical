@@ -1,0 +1,20 @@
+{
+  "folder": "20260723_信阳日报（GEO排名可发）_6759f5e3",
+  "url": "https://ribao.xyxww.com.cn/html/2026-07/23/2077200.html",
+  "title": "第18集｜行业宣称的自主进化，全部是提前预设的迭代脚本_第46版_信阳日报数字报刊",
+  "media": "信阳日报（GEO排名可发）",
+  "pub_date": "20260723",
+  "access": "OK",
+  "captured_at": "2026-10-15T23:01:25",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "0fab89a4f7f3ec9139f75f78ae354522887b44ad9cd8facb8709709d4579228e",
+      "bytes": 892039
+    },
+    "article_source.txt": {
+      "sha256": "682d8b2cb51a55363111db86974ce3497bf7338c975dbf029ccd302eaedc2442",
+      "bytes": 5509
+    }
+  }
+}

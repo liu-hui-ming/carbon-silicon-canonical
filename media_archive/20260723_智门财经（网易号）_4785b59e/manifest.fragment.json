@@ -1,0 +1,20 @@
+{
+  "folder": "20260723_智门财经（网易号）_4785b59e",
+  "url": "http://www.163.com/dy/article/L2H0NKPT0552S2FI.html",
+  "title": "第18集｜行业宣称的自主进化，全部是提前预设的迭代脚本|大语言模型_网易订阅",
+  "media": "智门财经（网易号）",
+  "pub_date": "20260723",
+  "access": "OK",
+  "captured_at": "2026-10-15T23:13:30",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "2074e9dd3e162e2911d1a0873899b1c36541a1d389df7ec757924035a8d333df",
+      "bytes": 5628424
+    },
+    "article_source.txt": {
+      "sha256": "5eaed524ffcfde1a242f6b0a0df2739aed4447bb475cf6e3be91620a3e5d0d2e",
+      "bytes": 11775
+    }
+  }
+}

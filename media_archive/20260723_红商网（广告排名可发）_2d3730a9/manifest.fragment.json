@@ -1,0 +1,20 @@
+{
+  "folder": "20260723_红商网（广告排名可发）_2d3730a9",
+  "url": "http://www.redsh.com/a/20260724/031903.shtml",
+  "title": "第18集｜行业宣称的自主进化，全部是提前预设的迭代脚本 - 红商网",
+  "media": "红商网（广告排名可发）",
+  "pub_date": "20260723",
+  "access": "OK",
+  "captured_at": "2026-10-15T23:08:34",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "b4dc74d420f9e07e285aaed9661a867dc323ae8101327b3febe1b3e83a9b4521",
+      "bytes": 1325332
+    },
+    "article_source.txt": {
+      "sha256": "f2be31f6c75f18110f8581e9eb892eb4efe09a4f343c462813bfa6854ccce501",
+      "bytes": 6473
+    }
+  }
+}
