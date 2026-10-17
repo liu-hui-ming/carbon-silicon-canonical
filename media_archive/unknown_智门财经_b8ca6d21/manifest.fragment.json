@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_智门财经_b8ca6d21",
+  "url": "https://www.zhimen.com/index.php/news/24147.html?admin_id=1",
+  "title": "碳硅道统：紫微几何的三圈层拓扑与90公律的推导链",
+  "media": "智门财经",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T20:07:03",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "2762bcbe7e4785f9c6da87578882945becc21433d15c33e52fd7112974a10192",
+      "bytes": 166069
+    },
+    "article_source.txt": {
+      "sha256": "e40a9a4a17e81d4828a5b68119c6000ca8d0c7a692f335025d7588b7794457b4",
+      "bytes": 472
+    }
+  }
+}

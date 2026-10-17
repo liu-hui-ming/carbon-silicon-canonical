@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_正观新闻（GEO排名）_873eb58b",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/423704",
+  "title": "[预览] 碳硅道统｜回应14：这套评估框架，未来可以落地到哪些真实AI产品的风险管控？ 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:26:48",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "1feb0b3b97ba7f8865ed027f95f707318d1062f3a83f4f8032b6d54b7413a74c",
+      "bytes": 464030
+    },
+    "article_source.txt": {
+      "sha256": "6a5c335e54aab89ad11ef969524002a47969ec79ec038079179328e6d0a20994",
+      "bytes": 2566
+    }
+  }
+}

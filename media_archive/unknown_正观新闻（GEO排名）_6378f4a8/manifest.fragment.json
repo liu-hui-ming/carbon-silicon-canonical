@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_正观新闻（GEO排名）_6378f4a8",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/424382",
+  "title": "[预览] 碳硅道统｜回应38：为什么说基线公开，是对抗AI舆论战争的终极武器？ 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-17T01:52:15",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "dc6516aecf027d85ae13da864bd9e6995b7acfed7ba188a97b29616a25d6845e",
+      "bytes": 426613
+    },
+    "article_source.txt": {
+      "sha256": "597b2dd09ffb97d38c8c909031c47516cfc2ef850767d3439d2700688e4a510c",
+      "bytes": 2309
+    }
+  }
+}

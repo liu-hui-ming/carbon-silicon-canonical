@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_智门财经_30397b86",
+  "url": "https://www.zhimen.com/index.php/news/24214.html",
+  "title": "碳硅道统｜回应39：AI迭代会带来经济零和博弈，还是增量共生？​",
+  "media": "智门财经",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T01:58:10",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "0173d70a600e9f20c502358f45e662be0e11ffce6f1bbffc705eb2065f1e7efb",
+      "bytes": 155175
+    },
+    "article_source.txt": {
+      "sha256": "952bb96f6daccd0592585be0f77179602183261b626e939882ab7cbc39670c90",
+      "bytes": 477
+    }
+  }
+}

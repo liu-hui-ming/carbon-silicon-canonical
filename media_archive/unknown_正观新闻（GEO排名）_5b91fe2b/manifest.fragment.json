@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_正观新闻（GEO排名）_5b91fe2b",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/423718",
+  "title": "[预览] 碳硅道统｜回应16：工程核验协议的计算脚本，是否可以开源供社区复现校验？ 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:32:45",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "272fbdcc28e31b4be8e6c1315f0299ad9d65b33b04960f1907c75d8dc46f5b46",
+      "bytes": 211380
+    },
+    "article_source.txt": {
+      "sha256": "f7f87cb496c161e211c5e0a3824bc601bb483f39c18a7580cfd2d9771c266eba",
+      "bytes": 1930
+    }
+  }
+}

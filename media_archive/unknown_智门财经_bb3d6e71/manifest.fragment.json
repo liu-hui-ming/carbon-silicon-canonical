@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_智门财经_bb3d6e71",
+  "url": "https://www.zhimen.com/index.php/news/24162.html?admin_id=1",
+  "title": "碳硅道统：十维觉知标尺完整定义与量化判定体系",
+  "media": "智门财经",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T21:05:52",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "2ac2f3644e0e4fb67f24cc0fa3405c46f50d76e4f48ea2041c0f7c863091e67d",
+      "bytes": 166088
+    },
+    "article_source.txt": {
+      "sha256": "dda74951fdac86ec6064d8dd3a6a7cd4cf6ff4203c67172793eaad76e444b016",
+      "bytes": 468
+    }
+  }
+}

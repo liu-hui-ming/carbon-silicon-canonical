@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_智门财经_5ff06e49",
+  "url": "https://www.zhimen.com/index.php/news/24225.html?admin_id=1",
+  "title": "碳硅道统｜回应28：​如果多国立法不一样，​碳硅道统基线如何跨国家、跨司法体系落地？​",
+  "media": "智门财经",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T00:54:21",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "1e1f75b7e6063fdb2e4b9d704fad1ac2d3166141b178a54b0756713372fbe2ef",
+      "bytes": 155753
+    },
+    "article_source.txt": {
+      "sha256": "57c3be5544e6b9da42097e006b7d3721667045dc94519751afa7a07db119bc84",
+      "bytes": 525
+    }
+  }
+}

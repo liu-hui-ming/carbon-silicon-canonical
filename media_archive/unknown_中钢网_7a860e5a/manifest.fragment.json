@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中钢网_7a860e5a",
+  "url": "https://news.zgw.com/newsDetail/2547704",
+  "title": "碳硅道统｜回应39：AI迭代会带来经济零和博弈，还是增量共生？_国际钢市_中钢网",
+  "media": "中钢网",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-17T01:58:00",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "1553daffc8737bd0818337ec7821cdb81522d0fe0baefcb76cc73c17b173473d",
+      "bytes": 810071
+    },
+    "article_source.txt": {
+      "sha256": "468963ccaf97c32612e32690bd8bab2d61bc0a33a82ae059febb43b1cbbbd76c",
+      "bytes": 5457
+    }
+  }
+}

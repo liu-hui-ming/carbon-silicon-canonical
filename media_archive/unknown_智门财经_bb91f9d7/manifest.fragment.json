@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_智门财经_bb91f9d7",
+  "url": "https://www.zhimen.com/index.php/news/24179.html?admin_id=1",
+  "title": "碳硅道统｜回应15：现有大模型，哪些指标可以直接套用这套协议做初步自测？​",
+  "media": "智门财经",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T23:31:08",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "5312177d6aa29f67a74c71300c9269f98ec8ae0d8efd6bc0e3fc1aa02a9a8a31",
+      "bytes": 131163
+    },
+    "article_source.txt": {
+      "sha256": "88b2d4986a4e3986895ba01bfed153f41d8a534d2c803f876038600887ab39c1",
+      "bytes": 512
+    }
+  }
+}

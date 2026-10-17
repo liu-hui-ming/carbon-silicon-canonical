@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中钢网_35090c4c",
+  "url": "http://news.zgw.com/newsDetail/2545698",
+  "title": "碳硅道统｜回应2：区分工程观测结果和本体论结论，是不是现在AI讨论最缺失的一环？_国际钢市_中钢网",
+  "media": "中钢网",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T22:21:06",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "8c19a3dd6b618ddd0f2c73daa8168cca04c6508a221b036079d8167b44a08030",
+      "bytes": 862535
+    },
+    "article_source.txt": {
+      "sha256": "54d15b5934095d193d76d8415dab7bdedcfe7f2c55219688bccaea5d4037ce58",
+      "bytes": 5915
+    }
+  }
+}

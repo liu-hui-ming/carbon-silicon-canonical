@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_正观新闻（GEO排名）_c51e52b3",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/423534",
+  "title": "[预览] 拒绝把工程数据和本体论混为一谈，碳硅道统v9.2完整公理体系正式发布 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T22:05:56",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "0d533a4ce11a5b9fdb2a02c97ff79bd2d8d735ad56e4f514e615a3dde9325254",
+      "bytes": 425189
+    },
+    "article_source.txt": {
+      "sha256": "00160d4a92af5d7b057e37aa2a541fb9cb35885cfaa8ccd7883f5a1b2838880c",
+      "bytes": 3277
+    }
+  }
+}

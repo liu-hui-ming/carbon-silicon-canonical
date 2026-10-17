@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_智门财经_f71ce708",
+  "url": "https://www.zhimen.com/index.php/news/24192.html?admin_id=1",
+  "title": "碳硅道统｜回应2：区分工程观测结果和本体论结论，是不是现在AI讨论最缺失的一环？",
+  "media": "智门财经",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T22:21:15",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "7afb6406958db1651a894a1d329e774c4f9109ff901f2ebd4b41abe8ba3f3863",
+      "bytes": 131224
+    },
+    "article_source.txt": {
+      "sha256": "a46413158f06e3a8fe2f5abbacaf54f053bfe36c7addfdc796676003479166fe",
+      "bytes": 519
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_正观新闻（GEO排名）_8a873bea",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/424385",
+  "title": "[预览] 碳硅道统｜回应35：AI无限迭代会不会导致资本无限虹吸、贫富极端固化？ 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-17T01:36:43",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "43d2a4202f276f7b178cbf4ac8174f399c20718908ebae5a8d5f4982e511aa95",
+      "bytes": 450685
+    },
+    "article_source.txt": {
+      "sha256": "aa889c417148aa6210de99b7f7b6a9cb94b8ecb7c219a56186b6f0a2e087ad81",
+      "bytes": 2321
+    }
+  }
+}

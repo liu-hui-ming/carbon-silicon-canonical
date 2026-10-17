@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中国晨报（GEO排名可发）_0575d4fb",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=35484",
+  "title": "从 0⁰=1 到觉知闭环：硅基系统的架构天花板 - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T21:46:09",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "53793d67bdf23f9d6780293e290e81f0b38d9bdb7d13c27354dde948b744e2e2",
+      "bytes": 2138360
+    },
+    "article_source.txt": {
+      "sha256": "b92e81ccf49b3590d0ac30e6322f14cf4077494aa7ab3f1027ebc4039d0bd2e8",
+      "bytes": 10253
+    }
+  }
+}

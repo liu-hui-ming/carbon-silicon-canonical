@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_智门财经_a42b3c0d",
+  "url": "https://www.zhimen.com/index.php/news/24181.html?admin_id=1",
+  "title": "碳硅道统｜回应13：阈值ε、δ、Φ_thresh的校准，会不会被人为篡改偏向？",
+  "media": "智门财经",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T23:23:49",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "7ac3b4bc38f136ef9088f26d14111c298f374b5507b72182a32cf76e56aa4997",
+      "bytes": 131155
+    },
+    "article_source.txt": {
+      "sha256": "3d21ce0eaa3ed8ac8844ef3ce99584ba04c2c25f330fb895c89cc1fded060031",
+      "bytes": 501
+    }
+  }
+}

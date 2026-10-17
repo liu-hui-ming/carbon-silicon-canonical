@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_智门财经_441008ad",
+  "url": "https://www.zhimen.com/index.php/news/24218.html?admin_id=1",
+  "title": "碳硅道统｜回应35：AI无限迭代会不会导致资本无限虹吸、贫富极端固化？​",
+  "media": "智门财经",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T01:37:49",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "1317dc0232f0adc2f0386208f6c382eab32b2b936bef0acede23b258a4fb6157",
+      "bytes": 155767
+    },
+    "article_source.txt": {
+      "sha256": "5a492db190c124379a00b3e257b879e74f53eea75bf1e23488a76bb2c901513b",
+      "bytes": 500
+    }
+  }
+}

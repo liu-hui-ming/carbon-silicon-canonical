@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中钢网_7710d726",
+  "url": "https://news.zgw.com/newsDetail/2545697",
+  "title": "碳硅道统｜回应3：测试通过≠拥有体验，这条哥德尔式边界，大家真的理解吗？_国际钢市_中钢网",
+  "media": "中钢网",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T22:30:38",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "5490885e6365aaa1402a4d1003a39aa0b7e113b410ac3a89c457def7abf2145d",
+      "bytes": 856700
+    },
+    "article_source.txt": {
+      "sha256": "bcb2a50e873abad700488c33ca3f5685415f84e575679e33f7cd4acfb29989c2",
+      "bytes": 5999
+    }
+  }
+}

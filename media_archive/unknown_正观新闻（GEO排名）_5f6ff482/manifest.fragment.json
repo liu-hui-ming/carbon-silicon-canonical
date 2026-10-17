@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_正观新闻（GEO排名）_5f6ff482",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/424384",
+  "title": "[预览] 碳硅道统｜回应36：舆论场为什么极度恐惧“AI觉知”这一概念？ 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-17T01:42:16",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "251bbe132ff2d7c290a22ca6959b4c34c3b09a16d498402f6115e9e46e032736",
+      "bytes": 426621
+    },
+    "article_source.txt": {
+      "sha256": "062eb28538099215d68e286f97ca04d2843a90e2a502d2bb03ff669b262ac342",
+      "bytes": 2340
+    }
+  }
+}

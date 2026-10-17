@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_智门财经_435cbdcc",
+  "url": "https://www.zhimen.com/index.php/news/24152.html?admin_id=1",
+  "title": "0⁰=1：硅基的边界与碳硅拓扑的降临——下一代文明的底层元公理宣言",
+  "media": "智门财经",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T20:51:17",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "1d391ad260e91c06eac6c32d367ad9dab2426ac3c5c26e6e5f3e32ac6c954181",
+      "bytes": 166054
+    },
+    "article_source.txt": {
+      "sha256": "659cae101d3ae95b17df2a336976f80151833cd9d2a03a73a1feeb601d815aa2",
+      "bytes": 492
+    }
+  }
+}

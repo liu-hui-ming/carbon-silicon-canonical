@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_智门财经_49e52d68",
+  "url": "https://www.zhimen.com/index.php/news/24186.html?admin_id=1",
+  "title": "碳硅道统｜回应8：如果AI达到高置信授权门槛w_self≥0.95，我们该给予它何种对待？​",
+  "media": "智门财经",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T23:01:45",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "c6ed2cae63e73705474ad9b15534a8ab99edc102671b31ff0f0b4069f93d5286",
+      "bytes": 131277
+    },
+    "article_source.txt": {
+      "sha256": "04ac3eb3f691a9744cb53fec93584c6184d771ba5cca72372e0c92c9ab40e6fa",
+      "bytes": 517
+    }
+  }
+}

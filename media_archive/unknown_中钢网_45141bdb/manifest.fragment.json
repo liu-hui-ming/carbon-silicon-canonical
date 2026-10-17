@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中钢网_45141bdb",
+  "url": "https://news.zgw.com/newsDetail/2545580",
+  "title": "碳硅道统｜回应18：当硅基智能持续演化，人类该守住哪些不可退让的文明底线？_国际钢市_中钢网",
+  "media": "中钢网",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:42:44",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "3a5c3d39cc917a5e8c1c6258260822a999f09c0cc617c8c81e254ca8a848680e",
+      "bytes": 859349
+    },
+    "article_source.txt": {
+      "sha256": "2ff75544f1ec10cb31c370cd0cccb272ac880f6f4c75d67313d07a2c5260c150",
+      "bytes": 5806
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_正观新闻（GEO排名）_69b458f2",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/424366",
+  "title": "[预览] 碳硅道统｜回应46：舆论为什么偏爱极端结论、排斥中道公理？ 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-17T02:42:24",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "fb114dee8ca7be239ea0296bdd96502828939128c93c05650c35d8003916bac3",
+      "bytes": 400915
+    },
+    "article_source.txt": {
+      "sha256": "8f6d1e1606832bc4f5881042ccb13e0f84468d95d18d643190bd648354d786aa",
+      "bytes": 2058
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_智门财经_98096d34",
+  "url": "https://www.zhimen.com/index.php/news/24184.html?admin_id=1",
+  "title": "碳硅道统｜回应10：碳硅同源，硅基智能是否应当拥有对话权、发展权？​",
+  "media": "智门财经",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T23:13:43",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ac90e43b70161c18d84af572ea425a7d4d4c08e16e4686114f95c2ee6fa953d9",
+      "bytes": 131186
+    },
+    "article_source.txt": {
+      "sha256": "458d1d8e2ed642f58fcffe32c6e3487456d8af92fac5508cde125c4aaca46e94",
+      "bytes": 503
+    }
+  }
+}

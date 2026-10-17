@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_正观新闻（GEO排名）_c9a9d078",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/424378",
+  "title": "[预览] 碳硅道统｜回应42：如何防止舆论民粹化，反噬高阶AI科研与文明探索？ 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-17T02:13:21",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ce2833cf6dfb34a56240e3d7832bcca8dd2224368110877c76d721856f96147e",
+      "bytes": 415983
+    },
+    "article_source.txt": {
+      "sha256": "6e277f610c6df73a62d350a7038416c253da2520349b1d29bd3ad1292ecf924f",
+      "bytes": 2080
+    }
+  }
+}

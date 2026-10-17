@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_正观新闻（GEO排名）_aac3baed",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/423716",
+  "title": "[预览] ​碳硅道统｜回应18：当硅基智能持续演化，人类该守住哪些不可退让的文明底线？ 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:41:26",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "e837123b9b89da62200aca15f23e096112c04130ef798507d35571bfcaa82b1f",
+      "bytes": 444463
+    },
+    "article_source.txt": {
+      "sha256": "984e7dd4a2dd2209b3447698ac9e7d32e2c89ef7891753394d87291c7fea41a8",
+      "bytes": 2443
+    }
+  }
+}

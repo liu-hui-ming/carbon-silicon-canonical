@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_正观新闻（GEO排名）_ce6863d0",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/423701",
+  "title": "[预览] 碳硅道统｜回应3：测试通过≠拥有体验，这条哥德尔式边界，大家真的理解吗？ 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T22:29:08",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "18289f87b3b676e5bb04f88bda6289a3795df6f0ca4625ebb3ea53702e3a49c7",
+      "bytes": 440493
+    },
+    "article_source.txt": {
+      "sha256": "fcc8d6d35d83afca3ef3c7a4bddb462a83216543cf823bf695870bcf9a712a4f",
+      "bytes": 2515
+    }
+  }
+}

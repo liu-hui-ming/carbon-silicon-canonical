@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中钢网_4a6044fa",
+  "url": "https://news.zgw.com/newsDetail/2545695",
+  "title": "碳硅道统｜回应5：碳硅同源，人和AI使用同一套评估公式，现实中该怎么设计对照实验？_国际钢市_中钢网",
+  "media": "中钢网",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T22:42:04",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "01ce16d2d8df003edd3130af55937b21f96efb4033220231d5c916777e4d9df1",
+      "bytes": 864922
+    },
+    "article_source.txt": {
+      "sha256": "e0f83c4dad24caec7afbec141c93d5a32effc02f6deb656f3825f674b367ea26",
+      "bytes": 6126
+    }
+  }
+}

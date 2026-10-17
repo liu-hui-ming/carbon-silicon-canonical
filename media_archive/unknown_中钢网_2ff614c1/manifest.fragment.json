@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中钢网_2ff614c1",
+  "url": "https://news.zgw.com/newsDetail/2547734",
+  "title": "碳硅道统｜回应28：如果多国立法不一样，碳硅道统基线如何跨国家、跨司法体系落地？_国际钢市_中钢网",
+  "media": "中钢网",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-17T00:54:11",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "e28c9ff97459e7710f7c452240f42e88f0a9956520f1180b823c1f6141ab2724",
+      "bytes": 871917
+    },
+    "article_source.txt": {
+      "sha256": "651ed4afc61310f2af1e789dc04328da7c9637816a0306ed6bbde237cc1a3b55",
+      "bytes": 6136
+    }
+  }
+}

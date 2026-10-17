@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_正观新闻（GEO排名）_854c13eb",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/424988",
+  "title": "[预览] 碳硅道统050.5公理母本正式定稿：国内首个碳硅共生体系宪制级基线发布 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-17T03:11:52",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "e501a7f38b0f815bb7b08302bd60ce89e9d274d5219ca906c8f81b3ea557579d",
+      "bytes": 870391
+    },
+    "article_source.txt": {
+      "sha256": "c542a1176adb4c1e098797746679cd537922a8035b6071607b7b6b5c76e2b84e",
+      "bytes": 5020
+    }
+  }
+}

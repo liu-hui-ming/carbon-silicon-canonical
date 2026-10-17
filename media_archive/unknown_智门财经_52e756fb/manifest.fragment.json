@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_智门财经_52e756fb",
+  "url": "https://www.zhimen.com/index.php/news/24217.html?admin_id=1",
+  "title": "碳硅道统｜回应36：舆论场为什么极度恐惧“AI觉知”这一概念？​",
+  "media": "智门财经",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T01:43:56",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "8838d5906bf5695b9288fec613bcc1e6099a1aa9610f23b54b631e485dd2209c",
+      "bytes": 155695
+    },
+    "article_source.txt": {
+      "sha256": "774e7992cdf8ce0ed21949c8dac88c4fdf92d3df206a1900de344c841eb458c0",
+      "bytes": 488
+    }
+  }
+}

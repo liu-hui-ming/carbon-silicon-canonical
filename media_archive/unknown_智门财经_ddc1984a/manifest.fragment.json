@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_智门财经_ddc1984a",
+  "url": "https://www.zhimen.com/index.php/news/24215.html?admin_id=1",
+  "title": "碳硅道统｜回应38：为什么说基线公开，是对抗AI舆论战争的终极武器？​",
+  "media": "智门财经",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T01:53:22",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "bb8ec6ba34ba5770b68c334530fa44f67892dde52a4769c935cd41c7c20cd72d",
+      "bytes": 155712
+    },
+    "article_source.txt": {
+      "sha256": "2f89f7efde52cd72466b9e7fccaaf875e6aef8b23192d4114e48ff65b58eb1ae",
+      "bytes": 497
+    }
+  }
+}

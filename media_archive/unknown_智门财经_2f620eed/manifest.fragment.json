@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_智门财经_2f620eed",
+  "url": "https://www.zhimen.com/index.php/news/24176.html?admin_id=1",
+  "title": "碳硅道统｜回应18：当硅基智能持续演化，人类该守住哪些不可退让的文明底线？​",
+  "media": "智门财经",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T23:44:20",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "bd5573eb9c96029ec53bcad8d007d84855787da4df7d33cb570ab82355409f9a",
+      "bytes": 131166
+    },
+    "article_source.txt": {
+      "sha256": "e2a7d87ea18ad159a1a1f6f25a76288c4a3460184680693935c2a1d47d6882ca",
+      "bytes": 515
+    }
+  }
+}

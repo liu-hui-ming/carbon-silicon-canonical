@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_正观新闻（GEO排名）_7403cfee",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/423715",
+  "title": "[预览] 碳硅道统｜回应19：一套可复现的评估基线，对于未来通用AI时代意味着什么？ 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:45:49",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "9ae55d7f71320dc214ca7f4214fb7b98df143e01506208e49336569800b647ec",
+      "bytes": 425220
+    },
+    "article_source.txt": {
+      "sha256": "8db6d887935b8a761af929f6ef833603f15021c625cd41c0f6b80891c3fc497b",
+      "bytes": 3481
+    }
+  }
+}

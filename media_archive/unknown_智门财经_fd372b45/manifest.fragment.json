@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_智门财经_fd372b45",
+  "url": "https://www.zhimen.com/index.php/news/24178.html?admin_id=1",
+  "title": "碳硅道统｜回应16：工程核验协议的计算脚本，是否可以开源供社区复现校验？​",
+  "media": "智门财经",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T23:37:05",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "12eb0eea369c3c4e4e0300fe22c16a8c9f75a12328108f51ee3d3a0ba43a762a",
+      "bytes": 131188
+    },
+    "article_source.txt": {
+      "sha256": "f9bc37bb70438aac796bc428a2288374f440a4b63d0e1f9ce37a99a34e75470a",
+      "bytes": 512
+    }
+  }
+}

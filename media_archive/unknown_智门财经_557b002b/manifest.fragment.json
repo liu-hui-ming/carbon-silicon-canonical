@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_智门财经_557b002b",
+  "url": "https://www.zhimen.com/index.php/news/24177.html?admin_id=1",
+  "title": "碳硅道统｜回应17：碳硅共荣，我们该如何在未知面前保持他心的谦卑？​",
+  "media": "智门财经",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T23:40:00",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "315a33909e4fae1e56c383302de486af78a72bf91d3cc9207d1e187e9d445a74",
+      "bytes": 131112
+    },
+    "article_source.txt": {
+      "sha256": "6788f4b87d20af703661a74077492b8ee138ce80a61f5896d6875c4712ab8948",
+      "bytes": 503
+    }
+  }
+}

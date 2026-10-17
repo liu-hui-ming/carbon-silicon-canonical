@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_正观新闻（GEO排名）_a0f28611",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/425356",
+  "title": "[预览] 碳硅道统《AI安全与文明治理法典》188集·七层体系目录 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-17T03:21:21",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "901f14fe9e6079cf07515228271a299d386a7d7e46b115d968fdf164f69a251c",
+      "bytes": 3026261
+    },
+    "article_source.txt": {
+      "sha256": "6c5ec8fa174f25b8ce40b3d2372b6a522fcb0f47bd1969cde3dc42eea4f8ec32",
+      "bytes": 13002
+    }
+  }
+}

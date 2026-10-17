@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_智门财经_061d2bb9",
+  "url": "https://www.zhimen.com/index.php/news/24221.html?admin_id=1",
+  "title": "碳硅道统｜回应32：未来算力会不会成为人类社会第一核心生产资料？​",
+  "media": "智门财经",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T01:16:11",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "fae4dc4b71862b584b374b7e959d6c7863cb003c4f46203b11cf12985ef61e0c",
+      "bytes": 155727
+    },
+    "article_source.txt": {
+      "sha256": "f1ff8bcf6503af63a9360ea833d2ee3950d1b847cc692946af887d9116287e19",
+      "bytes": 495
+    }
+  }
+}

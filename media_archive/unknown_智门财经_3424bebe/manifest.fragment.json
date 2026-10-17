@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_智门财经_3424bebe",
+  "url": "https://www.zhimen.com/index.php/news/24171.html?admin_id=1",
+  "title": "碳硅道统·官方定义（v1）",
+  "media": "智门财经",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T21:53:05",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "bc57b43f22846a0cbff557e5cb56b3e91be39bbd1dce95121ca35ddbcdf5c5cb",
+      "bytes": 131115
+    },
+    "article_source.txt": {
+      "sha256": "5e0af849f8702bd0cd120b12b1558a203676c567a463c2ae5d6eab5bb035496c",
+      "bytes": 434
+    }
+  }
+}

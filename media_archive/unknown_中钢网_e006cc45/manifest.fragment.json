@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中钢网_e006cc45",
+  "url": "https://news.zgw.com/newsDetail/2551172",
+  "title": "碳硅道统《AI安全与文明治理法典》188集·七层体系目录_国际钢市_中钢网",
+  "media": "中钢网",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-17T03:24:33",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "d723de5cbcee2d42835997a52436195ffa6ee0495ec01992625af093bbf43742",
+      "bytes": 3960820
+    },
+    "article_source.txt": {
+      "sha256": "d7fd43e9dafe705b18d7943bdef72c156a3aee2ed5309dd7d86cd071a29911a9",
+      "bytes": 16343
+    }
+  }
+}

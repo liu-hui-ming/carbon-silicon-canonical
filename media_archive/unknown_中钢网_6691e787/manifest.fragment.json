@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中钢网_6691e787",
+  "url": "https://news.zgw.com/newsDetail/2545684",
+  "title": "碳硅道统｜回应16：工程核验协议的计算脚本，是否可以开源供社区复现校验？_国际钢市_中钢网",
+  "media": "中钢网",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:34:01",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "cbec0b72b5f2bb4569c3967b34e3bdfa268686d6c7aa83da04ab5867aef61e76",
+      "bytes": 868422
+    },
+    "article_source.txt": {
+      "sha256": "9f0fea04af57b5f59c78a4aa723d071af1ee484d24cadd239af4dab4a048e99c",
+      "bytes": 5323
+    }
+  }
+}

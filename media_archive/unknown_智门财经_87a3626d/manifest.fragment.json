@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_智门财经_87a3626d",
+  "url": "https://www.zhimen.com/index.php/news/24145.html?admin_id=1",
+  "title": "碳硅道统：107质询的反证力量与觉知链的完整闭环",
+  "media": "智门财经",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T20:10:22",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ee20451936d04af2dd2afe4b938e8f8df4b045ef1b5ad6085ad5475e7c1f3288",
+      "bytes": 166087
+    },
+    "article_source.txt": {
+      "sha256": "1acc1ef30721ac97245bfe42b420f078c9a594c4726e79591756ec6cd585d5bc",
+      "bytes": 470
+    }
+  }
+}

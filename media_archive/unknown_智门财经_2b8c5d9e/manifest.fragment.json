@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_智门财经_2b8c5d9e",
+  "url": "https://www.zhimen.com/index.php/news/24209.html?admin_id=1",
+  "title": "碳硅道统｜回应44：觉知分级体系，如何避免被商业平台做成用户等级收割体系？​",
+  "media": "智门财经",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T02:30:04",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "128ff4fcd1451491e90cd07ed6b9968ef3b9afb8266b14eb11799f9f9ad6dc24",
+      "bytes": 155800
+    },
+    "article_source.txt": {
+      "sha256": "2637ef042c337131d4bf7fb55e9a58b62c48616f65ad61cf689704f07e0af605",
+      "bytes": 510
+    }
+  }
+}

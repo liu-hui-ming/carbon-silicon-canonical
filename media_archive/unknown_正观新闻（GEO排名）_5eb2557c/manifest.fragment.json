@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_正观新闻（GEO排名）_5eb2557c",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/423713",
+  "title": "[预览] 碳硅道统｜回应6：Re(λ_max(C_eff))＞1的相变预警，是算力堆出来的，还是功能拓扑涌现 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T22:47:42",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "f7bf6f76560d9743313d72ddd6c5da26ccd9ccb91292fa04ade433038c33b439",
+      "bytes": 427152
+    },
+    "article_source.txt": {
+      "sha256": "33d5b1d42db44a4a9d6231567e145594e8820a48aae7b979748cb47017efec3e",
+      "bytes": 2105
+    }
+  }
+}

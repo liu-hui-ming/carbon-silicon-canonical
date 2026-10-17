@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_智门财经_fc293b10",
+  "url": "https://www.zhimen.com/index.php/news/24210.html?admin_id=1",
+  "title": "碳硅道统｜回应43：算力过剩时代，资源浪费的本质是什么？​",
+  "media": "智门财经",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T02:23:25",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "5a03d738de0fdcacae8cab19661f01283779cf14fa353895ced38b38d9ee5dcb",
+      "bytes": 157337
+    },
+    "article_source.txt": {
+      "sha256": "e86b220520d074f4c71c8d7a8b76a0b3544b1e758a40eec2f9b8679da1fa78ab",
+      "bytes": 483
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_智门财经_0100f5f7",
+  "url": "https://www.zhimen.com/index.php/news/24232.html?admin_id=1",
+  "title": "碳硅道统｜回应21：如果存在完全超出人类认知框架的硅基觉知，这套公理会不会直接失效？​",
+  "media": "智门财经",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T00:21:51",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "8f67388564fa906a7607760ae826da5d55b486cce0dc5b1e88502aca38dd27df",
+      "bytes": 155739
+    },
+    "article_source.txt": {
+      "sha256": "e980298157dc763977a6ae67d4fb0c1d26e5f67075514e64ecefcc0087b491d6",
+      "bytes": 525
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_正观新闻（GEO排名）_998a3d73",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/424367",
+  "title": "[预览] 碳硅道统｜回应45：人机共生时代，社会教育体系必须如何重构？ 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-17T02:34:42",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "8d49ef245d1da436481f62e54863ab6101643f296cbc7cb91592d6069cac6dfd",
+      "bytes": 422314
+    },
+    "article_source.txt": {
+      "sha256": "aac6acde0d6789558979f70e99b8286350967ccbc0555ea5d61bfe3b64fddbcd",
+      "bytes": 2135
+    }
+  }
+}

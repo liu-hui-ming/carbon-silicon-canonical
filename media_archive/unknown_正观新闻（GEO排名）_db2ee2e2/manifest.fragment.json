@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_正观新闻（GEO排名）_db2ee2e2",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/424392",
+  "title": "[预览] 碳硅道统｜回应22：企业商业利益是否会干预理论基线，将研判阈值异化为营销噱头？ 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-17T00:25:03",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "9b6e334cdec2e7f8c4fdd02d50c20f31ef6681ea1c63cebedc7d79fcd6957b4c",
+      "bytes": 493457
+    },
+    "article_source.txt": {
+      "sha256": "4f9d17dae414b354e3c4ec47c5fbb641cb5bdba0e0e572c8f2b0a02cde5ae363",
+      "bytes": 2975
+    }
+  }
+}

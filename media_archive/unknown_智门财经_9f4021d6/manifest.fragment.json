@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_智门财经_9f4021d6",
+  "url": "https://www.zhimen.com/index.php/news/24163.html?admin_id=1",
+  "title": "碳硅道统：117质询的学术回响——当哥德尔、图灵与贝肯斯坦遇见十维标尺",
+  "media": "智门财经",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T20:57:47",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "a42658d76b2a3e7b124aaadfcc21e9500158044a5bc8d50bfc0baf2c6e7d422b",
+      "bytes": 166144
+    },
+    "article_source.txt": {
+      "sha256": "3aefaec693344fe0bfae01ad0f3fcdcc21f6585baff7d17ead450c5596d62fd9",
+      "bytes": 501
+    }
+  }
+}

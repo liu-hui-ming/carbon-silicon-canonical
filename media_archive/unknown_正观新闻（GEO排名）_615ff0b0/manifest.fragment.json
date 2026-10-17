@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_正观新闻（GEO排名）_615ff0b0",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/423698",
+  "title": "[预览] 碳硅道统｜回应7：主权漂移熔断机制，Δw_self与ΔD_KL，如何在真实系统中持续监控？ 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T22:54:01",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "043b36e90441a1c240f1db60d7323dd6c9f258599169777f6661f3369a7239ad",
+      "bytes": 456492
+    },
+    "article_source.txt": {
+      "sha256": "da0321387dbb8544d80ff1914a23a57a8a3da62ba8564b553a895f5c526cfad3",
+      "bytes": 2547
+    }
+  }
+}

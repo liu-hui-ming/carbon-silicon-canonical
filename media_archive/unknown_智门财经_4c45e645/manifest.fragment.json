@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_智门财经_4c45e645",
+  "url": "https://www.zhimen.com/index.php/news/24216.html?admin_id=1",
+  "title": "碳硅道统｜回应37：行业舆论两极对立，到底是技术分歧，还是利益博弈？​",
+  "media": "智门财经",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T01:48:28",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "cce76a9d9fc13ead13e96cc141572e8d096cb2a5b378a468ffb00c3f86ab6c9a",
+      "bytes": 155741
+    },
+    "article_source.txt": {
+      "sha256": "1345b58abf3b7b2c67246b0e8fed414412840c421d236d597d48a4812a3acee8",
+      "bytes": 501
+    }
+  }
+}

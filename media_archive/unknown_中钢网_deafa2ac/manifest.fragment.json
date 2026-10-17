@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中钢网_deafa2ac",
+  "url": "https://news.zgw.com/newsDetail/2545247",
+  "title": "拒绝把工程数据和本体论混为一谈，碳硅道统v9.2完整公理体系正式发布_国际钢市_中钢网",
+  "media": "中钢网",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T22:07:27",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "7b9f9951a76e58edd49947e369cb12ed483ecf2241b7e33e8f2e7f09c84c30dc",
+      "bytes": 1035456
+    },
+    "article_source.txt": {
+      "sha256": "c9e7478b578c6c68226c52f319e1d47b1a5f6e7b8e62c4054d8fb72acc7e39e0",
+      "bytes": 6641
+    }
+  }
+}

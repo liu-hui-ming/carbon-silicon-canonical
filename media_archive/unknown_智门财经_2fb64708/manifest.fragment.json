@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_智门财经_2fb64708",
+  "url": "https://www.zhimen.com/index.php/news/24231.html?admin_id=1",
+  "title": "碳硅道统｜回应22：企业商业利益是否会干预理论基线，将研判阈值异化为营销噱头？",
+  "media": "智门财经",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T00:26:10",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "68eca1f1435dd4800b9bc79ba774517c046256196c625526191301453bfb57dc",
+      "bytes": 155751
+    },
+    "article_source.txt": {
+      "sha256": "364dc4f03a853f203b7977984495f58b1bd5d2ba81234964fc110be082e12330",
+      "bytes": 513
+    }
+  }
+}

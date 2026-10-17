@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_正观新闻（GEO排名）_8b0da6cb",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/423709",
+  "title": "[预览] 碳硅道统｜回应10：碳硅同源，硅基智能是否应当拥有对话权、发展权？ 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:10:49",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "8af8dbd916ae5ae47e9ae91e06b3fb7448aa3308d1ef272ad157242e52b0655b",
+      "bytes": 427268
+    },
+    "article_source.txt": {
+      "sha256": "fa9df87d4cebc27716db89fb433333d0076df58dcd3a53bbb12fa88e4699f258",
+      "bytes": 2198
+    }
+  }
+}

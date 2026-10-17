@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_智门财经_b1fbd58f",
+  "url": "https://www.zhimen.com/index.php/news/24207.html?admin_id=1",
+  "title": "碳硅道统｜回应46：舆论为什么偏爱极端结论、排斥中道公理？​",
+  "media": "智门财经",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T02:43:43",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ae94a7dde0402939df417c1ddc6e2b191c1c970a0b1bbdafb05d1186404f0384",
+      "bytes": 155736
+    },
+    "article_source.txt": {
+      "sha256": "fdad47550dffb6e350c5a8e113c812d37565797d089d9e1c5bf0380c570e67de",
+      "bytes": 486
+    }
+  }
+}

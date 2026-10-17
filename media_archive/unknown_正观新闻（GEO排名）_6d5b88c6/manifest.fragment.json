@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_正观新闻（GEO排名）_6d5b88c6",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/424391",
+  "title": "[预览] 碳硅道统｜回应28：如果多国立法不一样，碳硅道统基线如何跨国家、跨司法体系落地？ 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-17T00:53:16",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "02ef863702f39ebe8fa2c9db45baf0183b471a4d66b54e678a9d9adbe954a2b2",
+      "bytes": 452970
+    },
+    "article_source.txt": {
+      "sha256": "602c58a3c1d4c96b17ff046194b58fcb6820876cd9e8ff1cd1d9a2d44fe8c0b0",
+      "bytes": 2695
+    }
+  }
+}

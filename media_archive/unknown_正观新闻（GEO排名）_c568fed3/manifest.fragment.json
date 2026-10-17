@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_正观新闻（GEO排名）_c568fed3",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/424379",
+  "title": "[预览] 碳硅道统｜回应41：人机共生时代，人类的核心竞争力是什么？ 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-17T02:08:43",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "17d6cdb254f6ba89fae4170e3df56db691c29fea7eb377b203addc7910223c60",
+      "bytes": 406932
+    },
+    "article_source.txt": {
+      "sha256": "77b433774f5bebb8df4006fbdc8f2828e0ccf84f39bd80ce184e2811dee0c448",
+      "bytes": 2256
+    }
+  }
+}

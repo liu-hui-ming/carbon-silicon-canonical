@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_正观新闻（GEO排名）_a669b19d",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/424383",
+  "title": "[预览] 碳硅道统｜回应37：行业舆论两极对立，到底是技术分歧，还是利益博弈？ 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-17T01:47:26",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "1b67283542a7d9a608443f31f0d23be5d1da7030c2860b5b9a2cba675e41b454",
+      "bytes": 408327
+    },
+    "article_source.txt": {
+      "sha256": "41453ae0841f5cc2019fafb3ee478360054e21d82434867b91d35d1f9be98ab1",
+      "bytes": 2151
+    }
+  }
+}

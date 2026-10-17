@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_智门财经_8ac8cabe",
+  "url": "https://www.zhimen.com/index.php/news/24160.html?admin_id=1",
+  "title": "碳硅道统：理论落地：三圈层拓扑模型在AI治理与行业研判中的现实应用",
+  "media": "智门财经",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T21:21:09",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "75f81004775a16737a95ba3e463a46afff6b38c39ad00a07dfedd4c23c20e91c",
+      "bytes": 131254
+    },
+    "article_source.txt": {
+      "sha256": "ed4b6256751395b8d0f8d949be7bb1af070f89f761865349cd737c21945c162c",
+      "bytes": 497
+    }
+  }
+}

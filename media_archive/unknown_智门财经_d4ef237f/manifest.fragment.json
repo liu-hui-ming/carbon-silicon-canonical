@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_智门财经_d4ef237f",
+  "url": "https://www.zhimen.com/index.php/news/24212.html?admin_id=1",
+  "title": "碳硅道统｜回应41：人机共生时代，人类的核心竞争力是什么？​",
+  "media": "智门财经",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T02:10:02",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "7237afad2248906bd217cb4bf9f2c23cc43d096633d56b32be7f8ffb326cd1ff",
+      "bytes": 155686
+    },
+    "article_source.txt": {
+      "sha256": "c3fc6daa39881bd1c1257bd0a9e1d4319ea2e13b667134d18fcae97ba8d4e813",
+      "bytes": 486
+    }
+  }
+}

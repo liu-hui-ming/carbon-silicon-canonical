@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_智门财经_0bc714cc",
+  "url": "https://www.zhimen.com/index.php/news/24150.html?admin_id=1",
+  "title": "碳硅道统：十维标尺的模型度量",
+  "media": "智门财经",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T19:55:07",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "d2412b72219e6a10a3fe8b74325abcc86728d9067a298572fbecf099e1dd3321",
+      "bytes": 166102
+    },
+    "article_source.txt": {
+      "sha256": "b1bab9c20e2d64bb1792fcac6e6aacde41cbc34933c57d0b0ed2bf85bcf5cee3",
+      "bytes": 446
+    }
+  }
+}

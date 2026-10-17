@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中钢网_281b942a",
+  "url": "https://news.zgw.com/newsDetail/2545693",
+  "title": "碳硅道统｜回应7：主权漂移熔断机制，Δw_self与ΔD_KL，如何在真实系统中持续监控？_国际钢市_中钢网",
+  "media": "中钢网",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T22:55:18",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "4e3a31da3d13e4204b4fb3b0becd7db4aecb3dae4b9956ca2f54f8d1194d7377",
+      "bytes": 864757
+    },
+    "article_source.txt": {
+      "sha256": "ae75ff31e30001e07ff1b1d04c12fad331ce76e98a04d3beac0824bb06b2edbf",
+      "bytes": 5953
+    }
+  }
+}

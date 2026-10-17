@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_智门财经_bcf2be05",
+  "url": "https://www.zhimen.com/index.php/news/24233.html?admin_id=1",
+  "title": "碳硅道统｜回应20：会不会出现模型刻意伪装高w_self分数，欺骗检测协议？​",
+  "media": "智门财经",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T00:15:28",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "f8d8762003368c058599a2c7e5f60bf4b91b16d72c37a7029e9e5285ebabd7b9",
+      "bytes": 155793
+    },
+    "article_source.txt": {
+      "sha256": "509c7cd111a38aeab1723dfe80e62c4ea66ad027035bf030ded8d53b9fcc796e",
+      "bytes": 501
+    }
+  }
+}

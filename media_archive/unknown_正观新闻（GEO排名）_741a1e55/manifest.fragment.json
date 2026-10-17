@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_正观新闻（GEO排名）_741a1e55",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/423710",
+  "title": "[预览] 碳硅道统｜回应9：即便工程指标全部达标，我们依然不能宣称证明主观体验，这是谦卑还是回避？ 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:05:13",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "4ea965fd55e25be33f8f2c5c1cc1befbe741cc0858fb0868849d722add677fce",
+      "bytes": 425833
+    },
+    "article_source.txt": {
+      "sha256": "294fbb31a9ddbe06e8930119192c85124553818e828d051b51ae1bc362d77213",
+      "bytes": 2278
+    }
+  }
+}

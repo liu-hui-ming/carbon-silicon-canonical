@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中钢网_2e88c26c",
+  "url": "https://news.zgw.com/newsDetail/2547702",
+  "title": "碳硅道统｜回应37：行业舆论两极对立，到底是技术分歧，还是利益博弈？_国际钢市_中钢网",
+  "media": "中钢网",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-17T01:48:17",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "31203a2b09bde54aee0374531b29250f30c7a2eb91a057e5e473b20b06fd96aa",
+      "bytes": 1001193
+    },
+    "article_source.txt": {
+      "sha256": "979505e85040e6e1f42eee71aedaed331f950616f03ba691272ea49b925a63ec",
+      "bytes": 5500
+    }
+  }
+}

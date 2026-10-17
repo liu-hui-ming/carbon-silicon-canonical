@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中钢网_eff4127d",
+  "url": "https://news.zgw.com/newsDetail/2542513",
+  "title": "碳硅道统：理论落地：三圈层拓扑模型在AI治理与行业研判中的现实应用_国际钢市_中钢网",
+  "media": "中钢网",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T21:19:26",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "dce390a3bb2b023abd54339f6571376a8757763a52d11d9482feeee590c17382",
+      "bytes": 1975962
+    },
+    "article_source.txt": {
+      "sha256": "dbbfe4001f03dbd066c210c21e8a83bafbad5d428a7b4089e0705bf82d03d6c6",
+      "bytes": 11326
+    }
+  }
+}

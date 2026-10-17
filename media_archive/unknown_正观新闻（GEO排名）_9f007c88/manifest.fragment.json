@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_正观新闻（GEO排名）_9f007c88",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/422778",
+  "title": "[预览] 碳硅道统：理论落地：三圈层拓扑模型在AI治理与行业研判中的现实应用 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T21:17:46",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "9195e67ace147ce29422a26b3814fd77352fc8990f1ce0557cb63a6d6fe3ee7d",
+      "bytes": 1390730
+    },
+    "article_source.txt": {
+      "sha256": "dea4176591165834b5af2c55e65e53f6bb7d8d7e30a0030e16e469a5856f89f0",
+      "bytes": 8077
+    }
+  }
+}

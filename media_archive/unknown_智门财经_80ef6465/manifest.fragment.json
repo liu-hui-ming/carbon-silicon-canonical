@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_智门财经_80ef6465",
+  "url": "https://www.zhimen.com/index.php/news/24175.html?admin_id=1",
+  "title": "碳硅道统｜回应19：一套可复现的评估基线，对于未来通用AI时代意味着什么？",
+  "media": "智门财经",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T23:47:19",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "a6fc6f64ca85444ce6b71ad30ce3e0f222930413fd1a4f8ec1f24f8c125caadc",
+      "bytes": 131113
+    },
+    "article_source.txt": {
+      "sha256": "35483e85124adbba88f7bdc6775af15a69e1d09e9cf6edbbfb3a904600e2ec9e",
+      "bytes": 508
+    }
+  }
+}

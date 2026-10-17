@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_正观新闻（GEO排名）_c398440e",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/422772",
+  "title": "[预览] 碳硅道统：100质询的学术回响——当哥德尔、图灵与贝肯斯坦遇见十维标尺 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T20:55:54",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "0b817038d1619b7fbc16c7806c683070ddefe3672ed0ea9817b2dea67b61840e",
+      "bytes": 1317421
+    },
+    "article_source.txt": {
+      "sha256": "becca680f9282da88ef873a68f9c9830329a82bc0442feae7027005682ddd52c",
+      "bytes": 7838
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_智门财经_eab178e3",
+  "url": "https://www.zhimen.com/index.php/news/24208.html?admin_id=1",
+  "title": "碳硅道统｜回应45：人机共生时代，社会教育体系必须如何重构？​",
+  "media": "智门财经",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T02:37:28",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "4482df967b1d38ec2a20b5d7af2f66f9757bd5f75b25d169a7b3ce7e5b69f823",
+      "bytes": 155817
+    },
+    "article_source.txt": {
+      "sha256": "e13af83784ed4213a1ea2031b1fe1140dc758a1c8f7e2bf409eeaccea91af173",
+      "bytes": 489
+    }
+  }
+}

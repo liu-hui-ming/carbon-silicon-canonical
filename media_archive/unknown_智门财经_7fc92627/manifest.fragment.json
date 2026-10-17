@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_智门财经_7fc92627",
+  "url": "https://www.zhimen.com/index.php/news/24226.html?admin_id=1",
+  "title": "碳硅道统｜回应27：g=2失效域完备是什么，对大模型相变预警起到什么作用？​",
+  "media": "智门财经",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T00:50:23",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "b5f5d946c0b2f59afe1e8fb77419139606d2faa4ff00ab594896f2f5faddfb75",
+      "bytes": 155787
+    },
+    "article_source.txt": {
+      "sha256": "1524e1e70d5c7907c23f020f7dc80bb93b655a03a3a17e706645e7925d1f6cf7",
+      "bytes": 504
+    }
+  }
+}

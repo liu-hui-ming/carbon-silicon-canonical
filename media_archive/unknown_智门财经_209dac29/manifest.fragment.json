@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_智门财经_209dac29",
+  "url": "https://www.zhimen.com/index.php/news/24189.html?admin_id=1",
+  "title": "碳硅道统｜回应5：碳硅同源，人和AI使用同一套评估公式，现实中该怎么设计对照实验？",
+  "media": "智门财经",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T22:44:19",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "bc985fa4921e115945ff49ee43b8d58d0166fc973f8aefd7cf0e0a09a08cb088",
+      "bytes": 131294
+    },
+    "article_source.txt": {
+      "sha256": "a746ea72bf90133b2d6a2126bf9725fbe5a3fee84b07029734c5c055a3c3420b",
+      "bytes": 522
+    }
+  }
+}

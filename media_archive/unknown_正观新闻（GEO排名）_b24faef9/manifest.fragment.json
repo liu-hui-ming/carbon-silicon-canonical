@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_正观新闻（GEO排名）_b24faef9",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/423359",
+  "title": "[预览] 碳硅道统 · 官方定义（v1） 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T21:51:55",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "02357f47cb7f0deedd74040a9b6bdb7ce8012756fdeaf49617fd7a620a86137f",
+      "bytes": 417043
+    },
+    "article_source.txt": {
+      "sha256": "73c2642c29fafdaca64ab5eb6e0a8f9e575e7109eb58e13e16e95918e61a996d",
+      "bytes": 2581
+    }
+  }
+}

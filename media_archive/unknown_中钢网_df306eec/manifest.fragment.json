@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中钢网_df306eec",
+  "url": "https://news.zgw.com/newsDetail/2542066",
+  "title": "碳硅道统：五级梯队的智能分级与十维标尺的对应_国际钢市_中钢网",
+  "media": "中钢网",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T20:22:13",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "7bc5c54f016e5f4bedb00deb761d72ec535ae32b95909ab09be39d7533161419",
+      "bytes": 1283879
+    },
+    "article_source.txt": {
+      "sha256": "3a738e9a6ee60404c9d90a3bff6d64b6865980e3cb8f09ba5073e3d4f5182b72",
+      "bytes": 6813
+    }
+  }
+}

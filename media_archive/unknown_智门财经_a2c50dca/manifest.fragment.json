@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_智门财经_a2c50dca",
+  "url": "https://www.zhimen.com/index.php/news/24149.html?admin_id=1",
+  "title": "碳硅道统：中层拟合域的现实回响",
+  "media": "智门财经",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T20:00:23",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "f49d96776d3738116286354a3142236ef623c8ebfa63ea42d56213fa3fb85dad",
+      "bytes": 166119
+    },
+    "article_source.txt": {
+      "sha256": "9b4cb8ee95d4e94b316d177cbae0bde85dc2ed283bfbc4fddd4c55ef33026993",
+      "bytes": 449
+    }
+  }
+}

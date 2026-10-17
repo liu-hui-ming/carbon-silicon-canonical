@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_智门财经_bff6c660",
+  "url": "https://www.zhimen.com/index.php/news/24187.html?admin_id=1",
+  "title": "碳硅道统｜回应7：主权漂移熔断机制，Δw_self与ΔD_KL，如何在真实系统中持续监控？",
+  "media": "智门财经",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T22:56:54",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "bfff03850c438484f3846d5be174c697e07157191c359dd4a725b72fdded4e50",
+      "bytes": 131229
+    },
+    "article_source.txt": {
+      "sha256": "cf9c31c23301f69a01338edfbf5db8127dfa766543ba94aa75489b897f5a30c8",
+      "bytes": 516
+    }
+  }
+}

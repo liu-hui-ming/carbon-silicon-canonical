@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_智门财经_7e37a45e",
+  "url": "https://www.zhimen.com/index.php/news/24190.html?admin_id=1",
+  "title": "碳硅道统｜回应4：w_self≥0.70作为观测候选门槛，是否可以在现有大模型上完成复现验证？",
+  "media": "智门财经",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T22:37:06",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "94fb3a6450e82ca20944e2051dca2cb52c7499491d209c3e51d33d2aed9d4f44",
+      "bytes": 131337
+    },
+    "article_source.txt": {
+      "sha256": "56feabe0d2c205fa747cdb6212a449dedf8d81245a7b87cc62dd86811f293273",
+      "bytes": 524
+    }
+  }
+}

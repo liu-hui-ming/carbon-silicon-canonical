@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_智门财经_8626c118",
+  "url": "https://www.zhimen.com/index.php/news/24165.html?admin_id=1",
+  "title": "从 0⁰=1 到觉知闭环：硅基系统的架构天花板",
+  "media": "智门财经",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T21:47:57",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "9e0740fdfbbfe6709f94ce6e3835eea3727807f9aba9a26654c096efdd94e793",
+      "bytes": 131248
+    },
+    "article_source.txt": {
+      "sha256": "e2238b32851523fc3be3710b3379b8809903a13952a48a3d87597ab02685540e",
+      "bytes": 459
+    }
+  }
+}

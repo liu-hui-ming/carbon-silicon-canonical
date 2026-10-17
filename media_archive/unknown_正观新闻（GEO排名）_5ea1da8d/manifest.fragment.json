@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_正观新闻（GEO排名）_5ea1da8d",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/424381",
+  "title": "[预览] 碳硅道统｜回应39：AI迭代会带来经济零和博弈，还是增量共生？ 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-17T01:56:53",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "c3ee9cb302da7ef9ad3a9d98ea065a6f5a406c2e32fef33a20660c7cede00b30",
+      "bytes": 410247
+    },
+    "article_source.txt": {
+      "sha256": "724fb0d08c6f0f720cb6ebe44b5f937f9f632e41420b2fce3a030d72402e4b2c",
+      "bytes": 2092
+    }
+  }
+}

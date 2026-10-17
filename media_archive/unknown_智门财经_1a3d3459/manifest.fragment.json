@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_智门财经_1a3d3459",
+  "url": "https://www.zhimen.com/index.php/news/24219.html?admin_id=1",
+  "title": "碳硅道统｜回应34：人机劳动重构后，人类劳动价值将如何重新定义？​",
+  "media": "智门财经",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T01:33:12",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "07c080efd518b26abed96b3939db9759390efe6c493e1bb1aa83108ef3a01622",
+      "bytes": 155754
+    },
+    "article_source.txt": {
+      "sha256": "a09514c3b4a25dff5cea051ea29fdda07039e8a236f784a4fe465a28c3548f02",
+      "bytes": 495
+    }
+  }
+}

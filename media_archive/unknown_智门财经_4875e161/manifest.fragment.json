@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_智门财经_4875e161",
+  "url": "https://www.zhimen.com/index.php/news/24180.html?admin_id=1",
+  "title": "碳硅道统｜回应14：这套评估框架，未来可以落地到哪些真实AI产品的风险管控？",
+  "media": "智门财经",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T23:28:08",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "0042bdc30fbbc8d5d76706fc032a15ee23f55d342813ccf9d72384a0f5502ddc",
+      "bytes": 131252
+    },
+    "article_source.txt": {
+      "sha256": "75e8a5f5a404275ddf6951941f338ba3b07f5d3c1e944ca2d1101f1f41c95991",
+      "bytes": 511
+    }
+  }
+}

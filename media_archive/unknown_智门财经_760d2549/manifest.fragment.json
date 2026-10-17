@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_智门财经_760d2549",
+  "url": "https://www.zhimen.com/index.php/news/24191.html?admin_id=1",
+  "title": "碳硅道统｜回应3：测试通过≠拥有体验，这条哥德尔式边界，大家真的理解吗？",
+  "media": "智门财经",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T22:30:49",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "4205bd93fb413d2bf1d35efba42943835466d9956c12ef559e04fa56213116d3",
+      "bytes": 131248
+    },
+    "article_source.txt": {
+      "sha256": "1e8630539d5def77dfc79eb5c15d872befc2965f236ee8063427428291b540ad",
+      "bytes": 511
+    }
+  }
+}
