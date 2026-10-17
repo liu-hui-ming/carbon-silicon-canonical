@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_廊坊新闻网_f32e4207",
+  "url": "https://www.lfnews.cn/portal.php?mod=view&aid=129634",
+  "title": "拒绝把工程数据和本体论混为一谈，碳硅道统v9.2完整公理体系正式发布",
+  "media": "廊坊新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T22:01:57",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "3e7bc66ecdd3c7d2fcf5082810a2ee2eca4c13fad28567b3524319ecdb5f88eb",
+      "bytes": 123895
+    },
+    "article_source.txt": {
+      "sha256": "5b729a4648d9a355d63e4697f0bfdedc690c1a6509225e035ba21950f1104d54",
+      "bytes": 425
+    }
+  }
+}

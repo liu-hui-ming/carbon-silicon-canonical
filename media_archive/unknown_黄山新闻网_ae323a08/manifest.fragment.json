@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_黄山新闻网_ae323a08",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_112726.shtml",
+  "title": "碳硅道统｜回应29：什么是叙事层‑工程层双仓刚性隔离​实操上怎么区分两份仓库内容？​",
+  "media": "黄山新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T00:55:01",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "404eb7a62ffecf209e380ba16772eabe6c3dcae02af9ca106c1df446273f51f9",
+      "bytes": 144307
+    },
+    "article_source.txt": {
+      "sha256": "3f1c694bc0f9eb4f6dcdbdcf1618cbb3af1bbf50e87dbee0f6c8e8421e3818ae",
+      "bytes": 473
+    }
+  }
+}

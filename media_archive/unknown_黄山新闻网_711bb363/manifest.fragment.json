@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_黄山新闻网_711bb363",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_112219.shtml",
+  "title": "碳硅道统：十维标尺的模型度量",
+  "media": "黄山新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T19:54:48",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "b42b40e6543e61c43af34722ef9b4666cf5223f10c980b40d92667af6980bb0b",
+      "bytes": 161159
+    },
+    "article_source.txt": {
+      "sha256": "791792456ec4282e80a17d8a55188a4c4bafe02adf1c1a5424091d4c0acc4a3d",
+      "bytes": 397
+    }
+  }
+}

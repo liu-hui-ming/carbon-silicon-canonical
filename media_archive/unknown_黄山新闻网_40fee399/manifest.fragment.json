@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_黄山新闻网_40fee399",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_112720.shtml",
+  "title": "碳硅道统｜回应35：AI无限迭代会不会导致资本无限虹吸、贫富极端固化？​",
+  "media": "黄山新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T01:34:12",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "388648951d150d7fce55ba96133bf753f2fdcfea17325c4eb35abdac82de08fe",
+      "bytes": 144294
+    },
+    "article_source.txt": {
+      "sha256": "301aaee8d1515aa9c273787814ac40f401375af105a0ee44ef5fb81f9663b10d",
+      "bytes": 451
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_红商网（广告排名可发）_bc309064",
+  "url": "http://www.redsh.com/a/20260924/031532.shtml",
+  "title": "504 Gateway Time-out",
+  "media": "红商网（广告排名可发）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T02:23:48",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "7b0c12a39b5ac14a05140664a13d774d1b28a7d0fc09a44121eaa5ff4f37aa91",
+      "bytes": 143290
+    },
+    "article_source.txt": {
+      "sha256": "301f58b1223abbec822b6af311dc75a24135caede35366730c68638c846a8571",
+      "bytes": 511
+    }
+  }
+}

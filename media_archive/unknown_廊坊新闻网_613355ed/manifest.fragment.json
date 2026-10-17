@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_廊坊新闻网_613355ed",
+  "url": "https://lfnews.cn/portal.php?mod=view&aid=128917",
+  "title": "从 0⁰=1 到觉知闭环：硅基系统的架构天花板",
+  "media": "廊坊新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T21:41:47",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "f0f0ba27ecf14fbb15f82493ed077dce992a8aca26bda94313ddd38a34574d24",
+      "bytes": 123596
+    },
+    "article_source.txt": {
+      "sha256": "bc95cdcddf7bf14a611916e9937536faea101233af73bfea2998836596eb23ea",
+      "bytes": 386
+    }
+  }
+}

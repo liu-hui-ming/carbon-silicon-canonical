@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_黄山新闻网_9fdbd37b",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_112743.shtml",
+  "title": "碳硅道统｜回应39：AI迭代会带来经济零和博弈，还是增量共生？​",
+  "media": "黄山新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T01:54:22",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ab219c516f507714eca9fc1eeb0002a1d313a669cb153302d71ea634c6c7d582",
+      "bytes": 144302
+    },
+    "article_source.txt": {
+      "sha256": "2c477d1fe7910506530447092fe28ef4bcd34a4e38422ccf5090b1bfeea8f6ca",
+      "bytes": 439
+    }
+  }
+}

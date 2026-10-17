@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_黄山新闻网_2f4ac79f",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_112744.shtml",
+  "title": "碳硅道统｜回应40：高阶AI是否应该纳入社会公共普惠基础设施？​",
+  "media": "黄山新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T01:59:31",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "d8a3c0423acad230f63fb10aead3852c9fbbb75ecaeb95f7b587913da04b6033",
+      "bytes": 144246
+    },
+    "article_source.txt": {
+      "sha256": "fb678d77c4bdb5377d8f9b85d1c13ed201888155ffa83d8f931952670611418e",
+      "bytes": 439
+    }
+  }
+}

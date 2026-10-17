@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_黄山新闻网_424c429e",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_112729.shtml",
+  "title": "碳硅道统｜回应27：g=2失效域完备是什么，对大模型相变预警起到什么作用？​",
+  "media": "黄山新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T00:46:42",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "f27a5f8c5071bfd018a96a5aa1e725869c4b80e741987aa474e4c127c8b4a1e5",
+      "bytes": 144302
+    },
+    "article_source.txt": {
+      "sha256": "5f9141f201d4eb9e9f54a450aadcd8ebab548b7abafb1fdb4ca7f84d03b94971",
+      "bytes": 455
+    }
+  }
+}

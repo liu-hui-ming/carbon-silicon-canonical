@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_黄山新闻网_ab66a754",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_112570.shtml",
+  "title": "碳硅道统｜回应17：碳硅共荣，我们该如何在未知面前保持他心的谦卑？​",
+  "media": "黄山新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T23:37:37",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "6e43956d35b3f6ff68923415a2055cb85fdfc9aa3643524595df6c26fe418696",
+      "bytes": 125587
+    },
+    "article_source.txt": {
+      "sha256": "2b7457e40e7c1ef8b06c9cf579156fea371fa2038811d2fe4cdf5e7300217440",
+      "bytes": 454
+    }
+  }
+}

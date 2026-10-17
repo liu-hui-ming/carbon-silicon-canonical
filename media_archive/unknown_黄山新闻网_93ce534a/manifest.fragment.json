@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_黄山新闻网_93ce534a",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_112223.shtml",
+  "title": "碳硅道统：归零稳态的系统边界",
+  "media": "黄山新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T20:05:23",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "1def2b05e6c69c07ec03a9c1640c355422766861feda76fde8c8c49000e811ef",
+      "bytes": 161218
+    },
+    "article_source.txt": {
+      "sha256": "ebbc8f2b6c787a926bbf4916a2aa666ed823d1107bd717356e38b4342ddb8e78",
+      "bytes": 397
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_廊坊新闻网_18f62041",
+  "url": "https://www.lfnews.cn/portal.php?mod=view&aid=128898",
+  "title": "碳硅道统：十维觉知标尺完整定义与量化判定体系",
+  "media": "廊坊新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T20:59:00",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "f262b2ea7f97b85be7d463c4a03b56d5017fdeed50d8d3c36d4a9981a4e2bca5",
+      "bytes": 159895
+    },
+    "article_source.txt": {
+      "sha256": "71c298eaac7041639440cd3b5c678f47f2ff22c6639c41db3c38705331f77994",
+      "bytes": 399
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_廊坊新闻网_c99913a8",
+  "url": "https://www.lfnews.cn/portal.php?mod=view&aid=129846",
+  "title": "碳硅道统｜回应10：碳硅同源，硅基智能是否应当拥有对话权、发展权？​",
+  "media": "廊坊新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T23:10:12",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "61b3adc8fefbffb97b67ed3fd28ca28703f1d97775b644ff15019c832f684690",
+      "bytes": 123952
+    },
+    "article_source.txt": {
+      "sha256": "a1919c9e4bc0133063f97ec2db2927527ab01f1e15fd85bfe265bf8ef4da6afc",
+      "bytes": 434
+    }
+  }
+}

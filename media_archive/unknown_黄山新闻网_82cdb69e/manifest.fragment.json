@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_黄山新闻网_82cdb69e",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_112578.shtml",
+  "title": "碳硅道统｜回应10：碳硅同源，硅基智能是否应当拥有对话权、发展权？​",
+  "media": "黄山新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T23:09:54",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "9c2fa4112bee97f182458dfe9d4d8351ab2e21ff13a3da182661ee09d6fa2810",
+      "bytes": 125771
+    },
+    "article_source.txt": {
+      "sha256": "0215c3304a19ecca64793ceb024c5f2ac58a68c13a0d44e4b86c8d0a59a1af74",
+      "bytes": 454
+    }
+  }
+}

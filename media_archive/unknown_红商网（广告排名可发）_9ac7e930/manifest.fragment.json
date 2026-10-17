@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_红商网（广告排名可发）_9ac7e930",
+  "url": "http://www.redsh.com/a/20260912/024304.shtml",
+  "title": "碳硅道统：十维标尺的模型度量 - 红商网",
+  "media": "红商网（广告排名可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T20:11:13",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "30951dace43c92734e88d76f859aad183cea2734037038fbbbd935c2d76e2249",
+      "bytes": 2144628
+    },
+    "article_source.txt": {
+      "sha256": "a3154cc8bf8ed5831fae769abf49e78507bca02fb69265f2c4777e5562f13756",
+      "bytes": 8464
+    }
+  }
+}

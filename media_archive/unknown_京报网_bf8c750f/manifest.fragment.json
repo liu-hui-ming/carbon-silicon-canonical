@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_京报网_bf8c750f",
+  "url": "https://news.bjd.com.cn//2026/09/08/11950716.shtml",
+  "title": "关于碳硅道统体系三十问的行业观察与逐条回应_京报网",
+  "media": "京报网",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T19:50:39",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "3db26e1b3346f3de971fbf63f44be1b3524dbb1da9aba5b174e11592f2f329ba",
+      "bytes": 2385886
+    },
+    "article_source.txt": {
+      "sha256": "1174df5d56c93e6b56d09b8d46a1edcb1b36825e8ecd4cdccd5afc5b07349a58",
+      "bytes": 16161
+    }
+  }
+}

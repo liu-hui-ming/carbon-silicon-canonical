@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_黄山新闻网_e08c6542",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_112576.shtml",
+  "title": "碳硅道统｜回应12：双轨隔离会不会造成工程与伦理两套体系互相割裂？​",
+  "media": "黄山新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T23:18:45",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "60c98f83cee6a32f79ee46eb9d21224f323b1fd612476d743f55c0d47b59201c",
+      "bytes": 125680
+    },
+    "article_source.txt": {
+      "sha256": "34c24fb8e82be9589bbbb7afb85504fe13b268ccc1a0418ab41dfdf22861cc26",
+      "bytes": 454
+    }
+  }
+}

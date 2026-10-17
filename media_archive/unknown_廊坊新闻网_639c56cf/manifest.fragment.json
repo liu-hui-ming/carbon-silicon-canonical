@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_廊坊新闻网_639c56cf",
+  "url": "https://www.lfnews.cn/portal.php?mod=view&aid=129838",
+  "title": "碳硅道统｜回应2：区分工程观测结果和本体论结论，是不是现在AI讨论最缺失的一环？",
+  "media": "廊坊新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T22:17:16",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "a72b061ac07587abc1eaf7adeaf76066bfbc476884e793555bba4b6c002149da",
+      "bytes": 124069
+    },
+    "article_source.txt": {
+      "sha256": "4d3410053fe398026da4a82859638c90b820488bf7b79fe43ea26b3ea1ef5036",
+      "bytes": 450
+    }
+  }
+}

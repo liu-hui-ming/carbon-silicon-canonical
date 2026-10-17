@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_廊坊新闻网_dbfe25c3",
+  "url": "https://www.lfnews.cn/portal.php?mod=view&aid=129856",
+  "title": "碳硅道统｜回应19：一套可复现的评估基线，对于未来通用AI时代意味着什么？",
+  "media": "廊坊新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T23:45:13",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "3122c7378b3268f86f092e57e21dcf70a740e7d038176c87699e9abd7482772c",
+      "bytes": 123892
+    },
+    "article_source.txt": {
+      "sha256": "688c4b1ed77995f546e58548c7cc96b7f27e3b6d5c0f2427ea8f49d4bdf4d8c8",
+      "bytes": 439
+    }
+  }
+}

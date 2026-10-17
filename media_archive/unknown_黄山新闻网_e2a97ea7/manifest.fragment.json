@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_黄山新闻网_e2a97ea7",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_112739.shtml",
+  "title": "碳硅道统｜回应36：舆论场为什么极度恐惧“AI觉知”这一概念？​",
+  "media": "黄山新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T01:39:45",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "5eb84827ba59cc1df342b3a1e0257012b4caae4b3d4b4526d324948950825534",
+      "bytes": 144319
+    },
+    "article_source.txt": {
+      "sha256": "1b95647ae1e5b3cddf0b0f867bae0581950f128b51a18ee1a923984bd47bb5a1",
+      "bytes": 439
+    }
+  }
+}

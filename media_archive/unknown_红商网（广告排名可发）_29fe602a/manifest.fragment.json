@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_红商网（广告排名可发）_29fe602a",
+  "url": "http://www.redsh.com/a/20260920/212857.shtml",
+  "title": "碳硅道统｜回应8：如果AI达到高置信授权门槛w_self≥0.95，我们该给予它何种对待？ - 红商网",
+  "media": "红商网（广告排名可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:01:51",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "91208d60e08d7e85d5b2a6160d4fe10bec049e30f81d74a45956de5594a1a472",
+      "bytes": 744965
+    },
+    "article_source.txt": {
+      "sha256": "1203559ca8dbe1dbc0c9d9030bbe4094811aeaba707ccb9768b044409f8ffb79",
+      "bytes": 3619
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_廊坊新闻网_2431d886",
+  "url": "https://www.lfnews.cn/portal.php?mod=view&aid=127169",
+  "title": "碳硅道统：五级梯队的智能分级与十维标尺的对应",
+  "media": "廊坊新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T20:08:24",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "93ed32843ab6e29f0bf7ad8c96ce0d956128db20f1c44ae5a9c4a035afb47c3b",
+      "bytes": 159520
+    },
+    "article_source.txt": {
+      "sha256": "d543146f5ba232e248e6586df41754eba009bab6d77a4a16943fca7bf672c828",
+      "bytes": 401
+    }
+  }
+}

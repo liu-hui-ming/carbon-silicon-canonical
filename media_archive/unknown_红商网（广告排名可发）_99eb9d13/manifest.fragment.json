@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_红商网（广告排名可发）_99eb9d13",
+  "url": "http://www.redsh.com/a/20260915/005353.shtml",
+  "title": "碳硅道统：碳硅共生：划清边界之后，碳基与硅基如何共存 - 红商网",
+  "media": "红商网（广告排名可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T21:40:31",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "dd3a8e6a06dc16c90dd4a8bbd51cab9b01f348c34d7da4aed916e9d5b5c2dea8",
+      "bytes": 1536476
+    },
+    "article_source.txt": {
+      "sha256": "36a3ed303cd1dd1dc688db43856a2f9cdaaabf77de4446dd20e4ef239b0c5aa2",
+      "bytes": 7711
+    }
+  }
+}

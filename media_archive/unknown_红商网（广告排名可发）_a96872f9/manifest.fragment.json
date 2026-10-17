@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_红商网（广告排名可发）_a96872f9",
+  "url": "http://www.redsh.com/a/20260916/015748.shtml",
+  "title": "从 0⁰=1 到觉知闭环：硅基系统的架构天花板 - 红商网",
+  "media": "红商网（广告排名可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T21:48:03",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "86252d22496293b30c91d8a59a4492033a3154e8021d8118410b22c3a54fa6bf",
+      "bytes": 2017790
+    },
+    "article_source.txt": {
+      "sha256": "c0a0270bc51da455cbdfa59896365ff86b849ad7961a6cbf465e16d02011a566",
+      "bytes": 8269
+    }
+  }
+}

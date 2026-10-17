@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_红商网（广告排名可发）_190cc0ab",
+  "url": "http://www.redsh.com/a/20260915/042825.shtml",
+  "title": "碳硅道统：十维觉知标尺完整定义与量化判定体系 - 红商网",
+  "media": "红商网（广告排名可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T21:05:58",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "6436a2ef213eaf04b4d1928ae5689dab262b5c014f1fc3af753338648083a251",
+      "bytes": 3213563
+    },
+    "article_source.txt": {
+      "sha256": "266a28198af93c9e04c0a38da90d86cd88697ca04a85653f36292980fe30f830",
+      "bytes": 12112
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_湖北日报客户端首发_a0b7efa7",
+  "url": "https://news.hubeidaily.net/hbrbsharenew/news_detail/5/5958221/5376428/0?w=1789033579027&uik=bb7c872d&share_plat=android&sec=d40276b6&historyback=1",
+  "title": "碳硅道统破局：算力堆不出真正智能，理性看待2026年AGI估值泡沫",
+  "media": "湖北日报客户端首发",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T19:45:55",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "bf25f43a50e5f58e092f091b25ee92bb953825d45824a4ec5cc7420c0570e31b",
+      "bytes": 287018
+    },
+    "article_source.txt": {
+      "sha256": "c78b84fbd199a8c4bdd31b5644e88320e03baf7930dcb0dc420612862293a280",
+      "bytes": 6972
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_黄山新闻网_ead873ca",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_112719.shtml",
+  "title": "碳硅道统｜回应33：高觉知AI该不该拥有独立算力配额与资源优先级？​",
+  "media": "黄山新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T01:17:12",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "f88b16b69cca35b28e83b357ca7836154c3c613b89f9c55ee4f8483c3566f043",
+      "bytes": 144251
+    },
+    "article_source.txt": {
+      "sha256": "16ec1e2db8ee275dcb2a6263a0031a78d688aedfdcf17ed486fc52faca7518b8",
+      "bytes": 445
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_黄山新闻网_65e35b8c",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_112469.shtml",
+  "title": "从 0⁰=1 到觉知闭环：硅基系统的架构天花板",
+  "media": "黄山新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T21:41:29",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "72781e9e6384681ead0a9eb709e28d88392ea0ebfc8fa7fb18bf4e55e190f149",
+      "bytes": 125689
+    },
+    "article_source.txt": {
+      "sha256": "3da7afcded772739ce28a14d4d7d03649762ed3fba74a214713529940bb535f4",
+      "bytes": 410
+    }
+  }
+}

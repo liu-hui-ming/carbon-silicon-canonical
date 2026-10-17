@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_黄山新闻网_5f1f555c",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_112569.shtml",
+  "title": "碳硅道统｜回应16：工程核验协议的计算脚本，是否可以开源供社区复现校验？​",
+  "media": "黄山新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T23:31:48",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "1ec2bb99c6a50074b6b8286a08485b881acdbbf610aef9f6346b3a37551f5379",
+      "bytes": 125655
+    },
+    "article_source.txt": {
+      "sha256": "0f89c91ddcbb881ec979b9a320a31284bec1f7d614493a853360fc421c1d4bdf",
+      "bytes": 463
+    }
+  }
+}

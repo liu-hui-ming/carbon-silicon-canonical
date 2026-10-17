@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_红商网（广告排名可发）_583d7ea9",
+  "url": "http://www.redsh.com/a/20260920/164148.shtml",
+  "title": "碳硅道统｜回应16：工程核验协议的计算脚本，是否可以开源供社区复现校验？ - 红商网",
+  "media": "红商网（广告排名可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:37:11",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "43bdb1cc119a8a2a18485237f5d7681d2b95e62cf669b036a4613c5e44ccd1e6",
+      "bytes": 736832
+    },
+    "article_source.txt": {
+      "sha256": "a6f37ee791483193edfe79859d63ea7c9e9c0f311396caaa9e366ee124021e60",
+      "bytes": 3363
+    }
+  }
+}

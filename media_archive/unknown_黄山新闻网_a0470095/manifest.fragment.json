@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_黄山新闻网_a0470095",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_112573.shtml",
+  "title": "碳硅道统｜回应18：当硅基智能持续演化，人类该守住哪些不可退让的文明底线？​",
+  "media": "黄山新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T23:40:34",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "67de952a89afa1a0cccb1c9db73dc35f5076d40d3672ebd9b9c7544abf367a47",
+      "bytes": 125684
+    },
+    "article_source.txt": {
+      "sha256": "1c92d3b57e0416eb84c783c750d2e07c112c25010b4dc010b67c13efec8754dd",
+      "bytes": 466
+    }
+  }
+}

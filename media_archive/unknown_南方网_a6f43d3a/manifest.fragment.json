@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_南方网_a6f43d3a",
+  "url": "https://economy.southcn.com/node_71505a4d28/468083e0b2.shtml",
+  "title": "关于碳硅道统体系三十问的行业观察与逐条回应_南方网",
+  "media": "南方网",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T19:50:53",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "c0cfc8c53bdd180399bc057313a55d87b694b11ed8044c489f07355e42dbb7dd",
+      "bytes": 2639392
+    },
+    "article_source.txt": {
+      "sha256": "82174e92ffd7f5329f0db55658998a90445976d7b621df9d4911624335f1e153",
+      "bytes": 15257
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_黄山新闻网_69b8ff81",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_112351.shtml",
+  "title": "碳硅道统《对AI行业100项公开质询》",
+  "media": "黄山新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T20:30:33",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "f49584b3eee1a3a321009044432b0b3d0427bbd1c8e6db0d9ac73c3dd419f3d9",
+      "bytes": 161127
+    },
+    "article_source.txt": {
+      "sha256": "b864679c91ae41da88a894b211282396350fffe84c9cb412d713410b8772fb97",
+      "bytes": 397
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_黄山新闻网_47f2b921",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_112736.shtml",
+  "title": "碳硅道统｜回应21：如果存在完全超出人类认知框架的硅基觉知，这套公理会不会直接失效？​",
+  "media": "黄山新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T00:16:45",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "29c3ef072fc979fe83bf407a045672bd11915d96a82abadb4c0e6602158ee375",
+      "bytes": 144312
+    },
+    "article_source.txt": {
+      "sha256": "86f8f12cb4b6823cc5a077fce702efdf19deaf4d9f0f1830dfa708842b976f13",
+      "bytes": 476
+    }
+  }
+}

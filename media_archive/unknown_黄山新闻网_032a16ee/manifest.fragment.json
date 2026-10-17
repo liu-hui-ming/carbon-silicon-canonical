@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_黄山新闻网_032a16ee",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_112581.shtml",
+  "title": "碳硅道统｜回应7：主权漂移熔断机制，Δw_self与ΔD_KL，如何在真实系统中持续监控？",
+  "media": "黄山新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T22:51:11",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "71ab602d4d45454724426eadc8d81457346d7972b81fcdb731b6210520def033",
+      "bytes": 125752
+    },
+    "article_source.txt": {
+      "sha256": "ec897a40d84d3de4da57dc475752bb927ffae136dd43a97512045e3729ab69fb",
+      "bytes": 467
+    }
+  }
+}

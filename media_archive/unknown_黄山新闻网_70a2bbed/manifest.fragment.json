@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_黄山新闻网_70a2bbed",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_112579.shtml",
+  "title": "碳硅道统｜回应9：即便工程指标全部达标，我们依然不能宣称证明主观体验，这是谦卑还是回避？​",
+  "media": "黄山新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T23:02:24",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "121e8c5edf60d70dc13621787e7dba8f68db23b499bdfa125c14f0ae40c7fd4d",
+      "bytes": 125666
+    },
+    "article_source.txt": {
+      "sha256": "1f45d1a6164a4568240c16b57f0f2a4e73df37cf36a48a82739b506ee4178a68",
+      "bytes": 489
+    }
+  }
+}

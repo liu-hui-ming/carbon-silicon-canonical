@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_廊坊新闻网_1c82d086",
+  "url": "https://www.lfnews.cn/portal.php?mod=view&aid=129853",
+  "title": "碳硅道统｜回应16：工程核验协议的计算脚本，是否可以开源供社区复现校验？​",
+  "media": "廊坊新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T23:32:06",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "7c5950e3e6ff1f4d62e22dde79d0800703d4a31cc53fd9c11b7aa0e4eb7f6211",
+      "bytes": 123850
+    },
+    "article_source.txt": {
+      "sha256": "1346419741539ce3656d80846a60545cc86bfed062bd00109814bfa4c4d78e59",
+      "bytes": 443
+    }
+  }
+}

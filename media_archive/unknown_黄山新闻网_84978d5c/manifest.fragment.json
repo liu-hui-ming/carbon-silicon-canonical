@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_黄山新闻网_84978d5c",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_112723.shtml",
+  "title": "碳硅道统｜回应32：未来算力会不会成为人类社会第一核心生产资料？​",
+  "media": "黄山新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T01:10:57",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "dd56c1c30e7ff1e57048abfea450d15dac585c0b0ed8fd11fff08d1c280d18d4",
+      "bytes": 144303
+    },
+    "article_source.txt": {
+      "sha256": "bb37fb5fefbc1c1affb6c821139535ebb5ea46729baee3971517a0e0375c3897",
+      "bytes": 446
+    }
+  }
+}

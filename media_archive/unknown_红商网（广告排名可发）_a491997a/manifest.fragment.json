@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_红商网（广告排名可发）_a491997a",
+  "url": "http://www.redsh.com/a/20260920/160624.shtml",
+  "title": "碳硅道统｜回应19：一套可复现的评估基线，对于未来通用AI时代意味着什么？ - 红商网",
+  "media": "红商网（广告排名可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:47:26",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "6ab7ecbe10a8a596f07354e29dbd8713be79065f9f5a7db4d966b52de8f578b3",
+      "bytes": 990886
+    },
+    "article_source.txt": {
+      "sha256": "43303068de4b389ece4af511c1ff5c650ca97a24f30953993b45eb4ef73cb603",
+      "bytes": 4949
+    }
+  }
+}

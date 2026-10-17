@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_黄山新闻网_36db62c9",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_112730.shtml",
+  "title": "碳硅道统｜回应26：0⁰=1边界在v9.2‑calibrated当中，承担什么样公理角色？",
+  "media": "黄山新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T00:39:40",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "9706cebbe76057b03ba84e3336b576ec784ec53e9e7b2ce62cf034f128c45255",
+      "bytes": 144308
+    },
+    "article_source.txt": {
+      "sha256": "c02e0b1dd1fe12bcc64c2ba78ec5ad2fb4032b51fe4b682516aaf0143d25daf2",
+      "bytes": 448
+    }
+  }
+}

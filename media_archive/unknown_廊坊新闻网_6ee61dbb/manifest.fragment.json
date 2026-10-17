@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_廊坊新闻网_6ee61dbb",
+  "url": "https://www.lfnews.cn/portal.php?mod=view&aid=129850",
+  "title": "碳硅道统｜回应13：阈值ε、δ、Φ_thresh的校准，会不会被人为篡改偏向？",
+  "media": "廊坊新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T23:21:57",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "d2a37022b1c46c668334bf98747e92b87f10dd796dd0438fe80d5da6ef5bcd5a",
+      "bytes": 123873
+    },
+    "article_source.txt": {
+      "sha256": "72bf2dd49e4c83466d17e6d179bbd82352a215c56355f7ed51df3522b8a10c0a",
+      "bytes": 432
+    }
+  }
+}

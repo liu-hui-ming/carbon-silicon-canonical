@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_黄山新闻网_ec0b07bf",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_112583.shtml",
+  "title": "碳硅道统｜回应5：碳硅同源，人和AI使用同一套评估公式，现实中该怎么设计对照实验？",
+  "media": "黄山新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T22:37:57",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "811e15742173552df10fd62268234f0da31333634ecbb1463b686691a236e04a",
+      "bytes": 125844
+    },
+    "article_source.txt": {
+      "sha256": "b44385a45d38066995cdb16323b4ddebaf8d1a35f8cd4387261654266bde6569",
+      "bytes": 473
+    }
+  }
+}

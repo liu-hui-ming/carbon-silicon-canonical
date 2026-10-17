@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_廊坊新闻网_c3cb0b63",
+  "url": "https://www.lfnews.cn/portal.php?mod=view&aid=129849",
+  "title": "碳硅道统｜回应12：双轨隔离会不会造成工程与伦理两套体系互相割裂？​",
+  "media": "廊坊新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T23:19:03",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "da079df5de0d26d22847b73ddd524075f3d0849fcd9f2054dff0762f534f5ae0",
+      "bytes": 124002
+    },
+    "article_source.txt": {
+      "sha256": "6a329a5fb023fad3fc1e5ba1a0aa502398fcba00775a71ad39a6c5e3921de9e7",
+      "bytes": 434
+    }
+  }
+}

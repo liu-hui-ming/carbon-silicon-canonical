@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_黄山新闻网_32f9c9d0",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_112375.shtml",
+  "title": "碳硅道统：三圈层拓扑模型：中层拟合域‑过渡域‑零维本源域",
+  "media": "黄山新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T21:08:36",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "d3b2cd02f814fb66ec9a6eee197ebcb388e75b75f82ace98730b42f3214204a0",
+      "bytes": 161158
+    },
+    "article_source.txt": {
+      "sha256": "cbd57f0b917071c23dc6aed07a5d617277f4cfd4153234824967b6786e14bbe3",
+      "bytes": 437
+    }
+  }
+}

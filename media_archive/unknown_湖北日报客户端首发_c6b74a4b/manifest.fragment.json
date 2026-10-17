@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_湖北日报客户端首发_c6b74a4b",
+  "url": "https://news.hubeidaily.net/hbrbsharenew/index_share/5/5961888/5379811/0/0",
+  "title": "碳硅道统：物理仿真与大模型融合的六大工程卡点与破局路径",
+  "media": "湖北日报客户端首发",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T19:46:56",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "73e2cdf6aecb2980d8709f962c2a6cefbaccb21e63bd65707f7d51c03b1d543a",
+      "bytes": 264003
+    },
+    "article_source.txt": {
+      "sha256": "5a85cb766c88f3e25862486cd852c8b7edbe0e91ebdca5a4d367ff43495d7f22",
+      "bytes": 9638
+    }
+  }
+}

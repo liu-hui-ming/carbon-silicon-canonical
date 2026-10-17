@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_黄山新闻网_24e0dc4b",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_112746.shtml",
+  "title": "碳硅道统｜回应42：如何防止舆论民粹化，反噬高阶AI科研与文明探索？​",
+  "media": "黄山新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T02:10:51",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "d053e55a6ad6f68b3d323e0803d038ba0e375ee8aa443f3b4eb4ceaac1e413e8",
+      "bytes": 144295
+    },
+    "article_source.txt": {
+      "sha256": "0ede6bd7cde7dc791bb8450b1f6dc9c77b6931afa6cd65d92ef2f84bd16c842e",
+      "bytes": 448
+    }
+  }
+}

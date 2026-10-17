@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_黄山新闻网_3a52ef9a",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_112742.shtml",
+  "title": "碳硅道统｜回应38：为什么说基线公开，是对抗AI舆论战争的终极武器？​",
+  "media": "黄山新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T01:49:44",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "887ebd2397c6987fec78d1cb87178ef217fd02bc73fa2f15b63fac124d2c784a",
+      "bytes": 144279
+    },
+    "article_source.txt": {
+      "sha256": "9b45734ea1b677dab6f0f77560ea26117c35672547e6b0a6d2706f8d2cb0f45f",
+      "bytes": 448
+    }
+  }
+}

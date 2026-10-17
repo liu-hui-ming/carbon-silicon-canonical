@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_红商网（广告排名可发）_796f2363",
+  "url": "http://www.redsh.com/a/20260918/113218.shtml",
+  "title": "碳硅道统 · 官方定义（v1） - 红商网",
+  "media": "红商网（广告排名可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T21:53:12",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "c55a57521856af5e387e983c0d77f64f07b64e1916264962b4582b644deeddbe",
+      "bytes": 945227
+    },
+    "article_source.txt": {
+      "sha256": "16efb9e9f55e7321a07dfb624940f9503bd974909b440901626ce2354f9ac4d2",
+      "bytes": 4050
+    }
+  }
+}

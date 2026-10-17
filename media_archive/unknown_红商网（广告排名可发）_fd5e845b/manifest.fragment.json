@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_红商网（广告排名可发）_fd5e845b",
+  "url": "http://www.redsh.com/a/20260920/185140.shtml",
+  "title": "碳硅道统｜回应13：阈值ε、δ、Φ_thresh的校准，会不会被人为篡改偏向？ - 红商网",
+  "media": "红商网（广告排名可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:23:55",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "09c10f7647045e42cfadf4ab926a1cf4154723519ab9ad7cd1dfc647544b8149",
+      "bytes": 1141696
+    },
+    "article_source.txt": {
+      "sha256": "f139750a29b6e1af9785c6428b616bf485aeed69c45190c5fd335b21972559be",
+      "bytes": 3961
+    }
+  }
+}

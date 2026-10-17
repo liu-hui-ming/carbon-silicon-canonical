@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_廊坊新闻网_5e3af145",
+  "url": "https://www.lfnews.cn/portal.php?mod=view&aid=129837",
+  "title": "碳硅道统｜回应1：为什么很多人把模型量化指标直接等同于主观觉知本体？",
+  "media": "廊坊新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T22:10:26",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "a8a3427a3d24659ee0840a026eb9f9ac84f5b950a6f037610369ad05affc50cf",
+      "bytes": 123881
+    },
+    "article_source.txt": {
+      "sha256": "26eb963dd34a60e7201dfa5f300059789a74d5b1906c645aad2d3b41f77a0448",
+      "bytes": 436
+    }
+  }
+}

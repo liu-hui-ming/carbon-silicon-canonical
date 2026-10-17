@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_红商网（广告排名可发）_f8439bad",
+  "url": "http://www.redsh.com/a/20260921/002100.shtml",
+  "title": "碳硅道统｜回应1：为什么很多人把模型量化指标直接等同于主观觉知本体？ - 红商网",
+  "media": "红商网（广告排名可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T22:16:22",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "3874d70177d879060e8b25c4143593220dc0f5f7496a08277edc95f6e9fbdb7f",
+      "bytes": 1320662
+    },
+    "article_source.txt": {
+      "sha256": "fae770ba680e08af3fc82114546ab948106199242e2f3345ef6d50528afcf0dd",
+      "bytes": 6096
+    }
+  }
+}

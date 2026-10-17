@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_廊坊新闻网_b99d1ca7",
+  "url": "https://www.lfnews.cn/portal.php?mod=view&aid=128915",
+  "title": "碳硅道统：主流AGI观点逐条锐评",
+  "media": "廊坊新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T21:23:42",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ce0828c144171cf43cc14d439b7bc759284da3fcd63d5a4a51fed9ccf50447df",
+      "bytes": 123804
+    },
+    "article_source.txt": {
+      "sha256": "3cd1bd305ae57f6fd4ded91f0bb6f73bc2d52a2b097f103011efab15e6725115",
+      "bytes": 375
+    }
+  }
+}

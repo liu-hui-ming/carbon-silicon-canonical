@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_廊坊新闻网_77e3b18b",
+  "url": "https://www.lfnews.cn/portal.php?mod=view&aid=129855",
+  "title": "碳硅道统｜回应18：当硅基智能持续演化，人类该守住哪些不可退让的文明底线？​",
+  "media": "廊坊新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T23:40:52",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "b24e260ec323eb79621908c9d4d3c4ecc5420f36270119c901aab1de56353d2d",
+      "bytes": 123777
+    },
+    "article_source.txt": {
+      "sha256": "582d9cfb24a1535abb8707e7fd4c45c37146f416290e848b265e3d175bcbfdbe",
+      "bytes": 446
+    }
+  }
+}

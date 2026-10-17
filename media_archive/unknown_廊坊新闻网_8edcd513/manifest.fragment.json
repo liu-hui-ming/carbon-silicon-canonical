@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_廊坊新闻网_8edcd513",
+  "url": "https://www.lfnews.cn/portal.php?mod=view&aid=129845",
+  "title": "碳硅道统｜回应9：即便工程指标全部达标，我们依然不能宣称证明主观体验，这是谦卑还是回避？​",
+  "media": "廊坊新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T23:02:42",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "fa081f03d90ccfc3342f6b6f011bc66fc5827b30a411084825ee6b83c5b56800",
+      "bytes": 123881
+    },
+    "article_source.txt": {
+      "sha256": "bb52117b4cf223e086b9ef4973f8910c033f4e70b40040b9d0c93af84f967195",
+      "bytes": 469
+    }
+  }
+}

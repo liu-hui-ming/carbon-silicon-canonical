@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_黄山新闻网_e02dcdd2",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_112568.shtml",
+  "title": "碳硅道统｜回应15：现有大模型，哪些指标可以直接套用这套协议做初步自测？​",
+  "media": "黄山新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T23:28:50",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "5c8e21a1b1eb231dc5698720887d7303e9854524ff21c265a48b7b24b9ff2d0e",
+      "bytes": 125761
+    },
+    "article_source.txt": {
+      "sha256": "3d5b5d5cc9ff735415918e8fdadf952c8fd907b875e8f34817207c475c9ea557",
+      "bytes": 463
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_黄山新闻网_13a83584",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_112749.shtml",
+  "title": "碳硅道统｜回应45：人机共生时代，社会教育体系必须如何重构？​",
+  "media": "黄山新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T02:30:44",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "eaf0456e893317023df8a8727ffc9b8e7eedac41575a778ce274eaa61d667752",
+      "bytes": 144313
+    },
+    "article_source.txt": {
+      "sha256": "9fb5c2c66d76dae4035d0c4c7aa3a6f273cbca0a6fadfd4498c93b88288132a4",
+      "bytes": 440
+    }
+  }
+}

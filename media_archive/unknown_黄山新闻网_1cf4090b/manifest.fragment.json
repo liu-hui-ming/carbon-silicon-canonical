@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_黄山新闻网_1cf4090b",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_112225.shtml",
+  "title": "碳硅道统：紫微几何的三圈层拓扑与90公律的推导链",
+  "media": "黄山新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T20:06:45",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "faa30be59f1ef8ff9d04a04e1a583b5af7d3b8582097594b3a9034309f20bdd9",
+      "bytes": 161181
+    },
+    "article_source.txt": {
+      "sha256": "bcb835fad313b7dbd29a417d1727fc083a4ef4635248e395712bee748718f92b",
+      "bytes": 423
+    }
+  }
+}

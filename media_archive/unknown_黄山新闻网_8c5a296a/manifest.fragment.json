@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_黄山新闻网_8c5a296a",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_112747.shtml",
+  "title": "碳硅道统｜回应43：算力过剩时代，资源浪费的本质是什么？​",
+  "media": "黄山新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T02:18:18",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "f9628857b573076ed79ddfad2d4b2693c7fca983c1465f2079c0791c61dbd4b6",
+      "bytes": 144248
+    },
+    "article_source.txt": {
+      "sha256": "251ee75b32a35c34ed062c993844a7f778a57e467d41978ef0b9a50b1d66bb28",
+      "bytes": 434
+    }
+  }
+}

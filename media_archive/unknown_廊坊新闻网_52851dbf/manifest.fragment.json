@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_廊坊新闻网_52851dbf",
+  "url": "https://www.lfnews.cn/portal.php?mod=view&aid=129511",
+  "title": "碳硅道统｜AI叙事泡沫抵达拐点：以可验证标准终结\"话术时代\"",
+  "media": "廊坊新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T21:54:27",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "6f70b02096d22f5f234166fbf6699466c7fedc829beeb9f9a12d52067709f5bf",
+      "bytes": 123533
+    },
+    "article_source.txt": {
+      "sha256": "9830aa96c96ea0670a295c3352a7b2c30267fd28a967581e1c9b1efe5aa5c3cf",
+      "bytes": 412
+    }
+  }
+}

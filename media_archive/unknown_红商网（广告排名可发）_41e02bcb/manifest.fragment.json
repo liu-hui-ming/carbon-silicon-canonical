@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_红商网（广告排名可发）_41e02bcb",
+  "url": "http://www.redsh.com/a/20260920/230311.shtml",
+  "title": "碳硅道统｜回应5：碳硅同源，人和AI使用同一套评估公式，现实中该怎么设计对照实验？ - 红商网",
+  "media": "红商网（广告排名可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T22:44:25",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "76dd38f21c43cc32527457dd27b0727c03d5067589a7e86f04d3ef073dabe39b",
+      "bytes": 1148665
+    },
+    "article_source.txt": {
+      "sha256": "0c5196f3d769f443fd09da3d85a726ecbea0289aa482fa75700764c8606f1148",
+      "bytes": 4081
+    }
+  }
+}

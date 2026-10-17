@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_黄山新闻网_ece9751e",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_112750.shtml",
+  "title": "碳硅道统｜回应46：舆论为什么偏爱极端结论、排斥中道公理？​",
+  "media": "黄山新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T02:38:27",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "fbe5fc3d589a3c8eb772df88a69c46dbaa5ea789ea6e08413a5a4ac32f8aad62",
+      "bytes": 144290
+    },
+    "article_source.txt": {
+      "sha256": "62a7e71198d0a93ae053534f3f88c8ab8019286cfc14adb21b644c7d81a6d0cd",
+      "bytes": 437
+    }
+  }
+}

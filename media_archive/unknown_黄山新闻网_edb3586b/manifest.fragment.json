@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_黄山新闻网_edb3586b",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_112721.shtml",
+  "title": "碳硅道统｜回应34：人机劳动重构后，人类劳动价值将如何重新定义？​",
+  "media": "黄山新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T01:27:58",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "947dab990d050b1d335081a64c7cf2b1bff583c71394d3053212049cbb0862e5",
+      "bytes": 144223
+    },
+    "article_source.txt": {
+      "sha256": "1bcf0ec0346fd491aaa9cc2a8086585fc2c333c50ad8d3d7ee7d6776a0b90e20",
+      "bytes": 446
+    }
+  }
+}

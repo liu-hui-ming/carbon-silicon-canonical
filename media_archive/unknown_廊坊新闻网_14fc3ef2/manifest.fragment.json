@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_廊坊新闻网_14fc3ef2",
+  "url": "https://www.lfnews.cn/portal.php?mod=view&aid=129842",
+  "title": "碳硅道统｜回应6：Re(λ_max(C_eff))＞1的相变预警，是算力堆出来的，还是功能拓扑涌现？​",
+  "media": "廊坊新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T22:45:10",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ab6513389a1a983e60d99485e027745da3a79087a5c8304aa814e58b309fc1b4",
+      "bytes": 123932
+    },
+    "article_source.txt": {
+      "sha256": "fb868a261424f69ba67c601c843a3a3c17dad785c31c19a81985f64fa8c0120d",
+      "bytes": 454
+    }
+  }
+}

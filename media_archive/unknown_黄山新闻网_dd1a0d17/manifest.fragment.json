@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_黄山新闻网_dd1a0d17",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_112574.shtml",
+  "title": "碳硅道统｜回应19：一套可复现的评估基线，对于未来通用AI时代意味着什么？",
+  "media": "黄山新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T23:44:55",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "b26b7009c724ffed28cc0b9746ba22bd4a81125cba36210194537cb5f6630111",
+      "bytes": 125587
+    },
+    "article_source.txt": {
+      "sha256": "3acc56c9d3aaf65b0dcae022ef9e8c9d2791a8c436b1a43dcf97ac466e90a7e6",
+      "bytes": 459
+    }
+  }
+}

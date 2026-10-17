@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_黄山新闻网_dc667789",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_112741.shtml",
+  "title": "碳硅道统｜回应37：行业舆论两极对立，到底是技术分歧，还是利益博弈？​",
+  "media": "黄山新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T01:44:54",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "6e25b979a5312f3f028091445e4dba593603e75cd2e0eb34e58c4932bdf2b8f6",
+      "bytes": 144223
+    },
+    "article_source.txt": {
+      "sha256": "8e5cf3916aa13d684b9b5caa38d941900533843c72495f07ca3ee7d9e50c4ff5",
+      "bytes": 452
+    }
+  }
+}

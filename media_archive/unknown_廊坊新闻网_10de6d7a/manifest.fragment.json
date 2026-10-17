@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_廊坊新闻网_10de6d7a",
+  "url": "https://www.lfnews.cn/portal.php?mod=view&aid=129841",
+  "title": "碳硅道统｜回应5：碳硅同源，人和AI使用同一套评估公式，现实中该怎么设计对照实验？",
+  "media": "廊坊新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T22:38:15",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "7d8a1c9147eb63246f2a1d4d8be41a0b69b3320aef86046fdacba827c2f2b434",
+      "bytes": 123823
+    },
+    "article_source.txt": {
+      "sha256": "2ce2399ded5948189c15bd7011effe26c63643b0ec07049b48e53a84694dd2af",
+      "bytes": 453
+    }
+  }
+}

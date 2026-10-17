@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_黄山新闻网_cbd8bc51",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_112376.shtml",
+  "title": "碳硅道统：十维觉知标尺完整定义与量化判定体系",
+  "media": "黄山新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T20:58:42",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "0f6115f4551d28e12fa12c4de4c48d64d50cfa9c6411e416e4c9f44832b24eec",
+      "bytes": 161180
+    },
+    "article_source.txt": {
+      "sha256": "1c7f890f026bff3da65972b97d51eab9cdd6d4caf62f29b87b696df599d046dc",
+      "bytes": 419
+    }
+  }
+}

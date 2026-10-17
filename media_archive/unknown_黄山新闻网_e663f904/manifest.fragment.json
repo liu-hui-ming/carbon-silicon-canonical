@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_黄山新闻网_e663f904",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_112524.shtml",
+  "title": "拒绝把工程数据和本体论混为一谈，碳硅道统v9.2完整公理体系正式发布",
+  "media": "黄山新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T22:01:40",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "a716e2c96506a35ffd6155d109231e4409a623e64b301296538eef437d77aa62",
+      "bytes": 125647
+    },
+    "article_source.txt": {
+      "sha256": "59767fa8c2e2b3fab10767032fe8ee23716c70b103f29d975f93a00a2d46e85a",
+      "bytes": 445
+    }
+  }
+}

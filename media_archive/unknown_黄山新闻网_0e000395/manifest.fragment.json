@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_黄山新闻网_0e000395",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_112567.shtml",
+  "title": "碳硅道统｜回应14：这套评估框架，未来可以落地到哪些真实AI产品的风险管控？",
+  "media": "黄山新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T23:24:29",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "02f879c9f5ee8f0ffe6fd82adc50796525a0d7281d89200ef5034c0969d52e5e",
+      "bytes": 125671
+    },
+    "article_source.txt": {
+      "sha256": "24dbb3fd4b7629a2c11b50d4e68397f638d07946db075423833e6c50d0ddf34d",
+      "bytes": 462
+    }
+  }
+}

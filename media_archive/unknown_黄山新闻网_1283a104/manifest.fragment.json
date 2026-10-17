@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_黄山新闻网_1283a104",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_112753.shtml",
+  "title": "碳硅道统｜回应49：碳硅共荣会不会消解人类文明的独特意义？​",
+  "media": "黄山新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T02:54:31",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "85d4e4934c22883c10d67b9036f3342721886e60142340344b5219d913eff7d2",
+      "bytes": 144288
+    },
+    "article_source.txt": {
+      "sha256": "312b1d5e4a9cc9df0de6b092e004ab098f0d33a4616b3589069cd5fc3af0d82f",
+      "bytes": 437
+    }
+  }
+}

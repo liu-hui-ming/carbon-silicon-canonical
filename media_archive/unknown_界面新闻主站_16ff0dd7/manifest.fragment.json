@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_界面新闻主站_16ff0dd7",
+  "url": "https://www.jiemian.com/article/15050893.html",
+  "title": "碳硅道统：从六问到十维：一套被行业忽视的AI产业研判体系，正在戳破AGI泡沫",
+  "media": "界面新闻主站",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T19:40:23",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "e67db92ea1c50b9bd28e6b8ab2a661f30620a7437b24f7f58e6bd476950048e8",
+      "bytes": 167715
+    },
+    "article_source.txt": {
+      "sha256": "afe1e114c5845f167db15eb2cab96318b023718a3e5dfcc3ac9d7b45302fa374",
+      "bytes": 628
+    }
+  }
+}

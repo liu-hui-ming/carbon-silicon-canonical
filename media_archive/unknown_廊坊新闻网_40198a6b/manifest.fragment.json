@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_廊坊新闻网_40198a6b",
+  "url": "https://www.lfnews.cn/portal.php?mod=view&aid=129844",
+  "title": "碳硅道统｜回应8：如果AI达到高置信授权门槛w_self≥0.95，我们该给予它何种对待？​",
+  "media": "廊坊新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T22:57:46",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "e8dc95dc1ad348a6b8fc5815bfacfa98fddc862d16cadcc6833df05323047aa6",
+      "bytes": 123949
+    },
+    "article_source.txt": {
+      "sha256": "4e013d30759f67804cd76a59557679fe423e34ae720af6e619a63bb391f17ebc",
+      "bytes": 448
+    }
+  }
+}

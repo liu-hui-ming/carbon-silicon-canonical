@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_黄山新闻网_e0429db6",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_112727.shtml",
+  "title": "碳硅道统｜回应28：​如果多国立法不一样，​碳硅道统基线如何跨国家、跨司法体系落地？​",
+  "media": "黄山新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T00:50:46",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "0e3249bf3e4b9914b406e9811de0c906a169e0dafaab0f4befd3bb9bf65820f3",
+      "bytes": 144261
+    },
+    "article_source.txt": {
+      "sha256": "70706c8536af4d58deef46c08aa2442fc4c3e1e553c231260cc60d08cc37801a",
+      "bytes": 476
+    }
+  }
+}

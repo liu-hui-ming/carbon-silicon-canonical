@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_红商网（广告排名可发）_2cfbbfc4",
+  "url": "http://www.redsh.com/a/20260920/164258.shtml",
+  "title": "碳硅道统｜回应15：现有大模型，哪些指标可以直接套用这套协议做初步自测？ - 红商网",
+  "media": "红商网（广告排名可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:31:14",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "e31d8452bca47b1fc2f0d60625a304b1971a78e7e9b81d7ea207a731b39f805e",
+      "bytes": 1129991
+    },
+    "article_source.txt": {
+      "sha256": "fec9133604efb4f01398ae5d5d75358de9ba3e75e3e6ffed5e8efe3fff2efaa0",
+      "bytes": 3727
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_黄山新闻网_71cd5217",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_112226.shtml",
+  "title": "碳硅道统：五级梯队的智能分级与十维标尺的对应",
+  "media": "黄山新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T20:08:06",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "cc10d7d68f807ec25afe370f9c75ad60af87bb9553d44f620d5493f7bf39525e",
+      "bytes": 161207
+    },
+    "article_source.txt": {
+      "sha256": "e5272e182b83ce24b369311587c624e8ac7fd9c4b90565e2d251d523de4e9d03",
+      "bytes": 421
+    }
+  }
+}

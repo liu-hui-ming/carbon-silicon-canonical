@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_黄山新闻网_bf25eb8e",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_112529.shtml",
+  "title": "碳硅道统·官方定义（v1）",
+  "media": "黄山新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T21:49:24",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "51e3b0c63476ee75f974bfa7353a8f22c8e371213307d1093df11736da952107",
+      "bytes": 125663
+    },
+    "article_source.txt": {
+      "sha256": "5a7f75e570c760d3b6a90473dcd02c97898dcdfafd3c8440405bf3782af01edf",
+      "bytes": 385
+    }
+  }
+}

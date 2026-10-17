@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_黄山新闻网_67702577",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_112751.shtml",
+  "title": "碳硅道统｜回应47：算力资源未来会不会形成全球地缘博弈新战场？",
+  "media": "黄山新闻网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-17T02:45:02",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "c09bda35670d455504be483d956b54f54b3694483b6d5d1b777f3f67d05b3780",
+      "bytes": 144222
+    },
+    "article_source.txt": {
+      "sha256": "a0795435896bba2e9d7e37cbc2b3bc3fa889baaf69fa059a6022a0dbd8da9ccc",
+      "bytes": 440
+    }
+  }
+}
