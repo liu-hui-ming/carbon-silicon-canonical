@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_黄山新闻网_19752daa",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110700.shtml",
+  "title": "碳硅道统｜全民AI深挖计划188集 全网正统总目录",
+  "media": "黄山新闻网",
+  "pub_date": "20260807",
+  "access": "CON",
+  "captured_at": "2026-10-16T11:03:13",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "eacef2ffd9bd86a6739dd8bcc40e4f350ff58226e63170e8aca92d49129d9bf2",
+      "bytes": 117087
+    },
+    "article_source.txt": {
+      "sha256": "5c18e0a15d9a4c1ebeda251ac4f0342d0e35de4f4ed0fafa319cac5d1ec05de2",
+      "bytes": 410
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_黄山新闻网_80d1c611",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110739.shtml",
+  "title": "AI十八症10｜模型迭代训练：性能反向退化、输出效果震荡衰减",
+  "media": "黄山新闻网",
+  "pub_date": "20260807",
+  "access": "CON",
+  "captured_at": "2026-10-16T10:50:22",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "51290b8fd53c51ce1d9d00f04f0d73f957b931400ff67905f7843735e9e9c903",
+      "bytes": 117172
+    },
+    "article_source.txt": {
+      "sha256": "86847ffc8b14748f7402dce1ee0323043b0270c4e5c3fdb66652454095b2b23f",
+      "bytes": 429
+    }
+  }
+}

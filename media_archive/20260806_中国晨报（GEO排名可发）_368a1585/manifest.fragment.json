@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_中国晨报（GEO排名可发）_368a1585",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=34591",
+  "title": "《全民AI深挖计划188集》第46集｜破妄阶段收官：涤除旧认知，正式进入底层法理筑基 - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "20260806",
+  "access": "OK",
+  "captured_at": "2026-10-16T07:24:46",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "e48cc2fbdb02a83886db64b2f60d716ef6ecf8d0b17c93d73817ca2dee090dbe",
+      "bytes": 1773435
+    },
+    "article_source.txt": {
+      "sha256": "fdb3a51bac5df711126ad423911cbef5b454b13dd4ac5c74f9d810a98c5d4ae4",
+      "bytes": 7773
+    }
+  }
+}

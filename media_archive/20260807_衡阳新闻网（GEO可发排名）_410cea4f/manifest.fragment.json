@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_衡阳新闻网（GEO可发排名）_410cea4f",
+  "url": "http://www.e0734.com/content/2026/0807/799_657923.html",
+  "title": "AI十八症04｜超长上下文会话：关键信息遗忘、时序记忆丢失",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260807",
+  "access": "CON",
+  "captured_at": "2026-10-16T10:39:24",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "32d27f6a41380ce30306cd70ff9c76fe75e43200d53252df9e631e56cee48e49",
+      "bytes": 111420
+    },
+    "article_source.txt": {
+      "sha256": "cf20ac1d838909d6bb2b48854443157cecc901001995d76bfe9d22c2ebaf9ef2",
+      "bytes": 513
+    }
+  }
+}

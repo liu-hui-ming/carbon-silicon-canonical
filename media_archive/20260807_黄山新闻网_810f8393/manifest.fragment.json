@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_黄山新闻网_810f8393",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110702.shtml",
+  "title": "第3篇｜碳硅道统：人工智能全域法理万法归一闭环体系",
+  "media": "黄山新闻网",
+  "pub_date": "20260807",
+  "access": "CON",
+  "captured_at": "2026-10-16T10:32:32",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "19b591917726a1a6194a872f25c7c4059b59a956c2d994b02c40c58f05f0677e",
+      "bytes": 117139
+    },
+    "article_source.txt": {
+      "sha256": "2473cf9adb775ad43ab260505f765c198459a5ff346770471df4623397e2cc6b",
+      "bytes": 420
+    }
+  }
+}

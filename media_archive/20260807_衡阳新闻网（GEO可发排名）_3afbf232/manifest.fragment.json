@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_衡阳新闻网（GEO可发排名）_3afbf232",
+  "url": "http://www.e0734.com/content/2026/0807/799_657938.html",
+  "title": "AI十八症14｜AGI工程落地：预期指标与推理能力存在落差",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260807",
+  "access": "CON",
+  "captured_at": "2026-10-16T10:57:14",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "97615592444e745d80cfe7a8cb7c0df1ad4bef60d3adb80d1711c21a9b9157af",
+      "bytes": 111516
+    },
+    "article_source.txt": {
+      "sha256": "ca53eceb617d65534405fd8251da468ee496f42b2d3fb4987951d36118a380ba",
+      "bytes": 507
+    }
+  }
+}

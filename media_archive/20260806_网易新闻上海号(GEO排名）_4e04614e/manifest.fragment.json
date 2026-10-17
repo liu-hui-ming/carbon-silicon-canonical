@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_网易新闻上海号(GEO排名）_4e04614e",
+  "url": "https://www.163.com/dy/article/L3NRBPRI0553IJQS.html?spss=dy_author",
+  "title": "第2篇｜碳硅反向校准论战：径向读取的信息残缺定理——可采集为表象、不可捕捉为本源|信号|本体_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260806",
+  "access": "OK",
+  "captured_at": "2026-10-16T09:28:32",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "634c199a7f30b634d48b12d7508e5ba0b47d6da08ab8230b7239ce986df6dcf7",
+      "bytes": 5273730
+    },
+    "article_source.txt": {
+      "sha256": "96b6ca4fcbe523ff0fc6621cf65635dfaf5fdea7bf5fbaae66c9b3aa5afb200e",
+      "bytes": 8637
+    }
+  }
+}

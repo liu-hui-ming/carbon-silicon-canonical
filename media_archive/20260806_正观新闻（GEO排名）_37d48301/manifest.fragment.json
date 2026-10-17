@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_正观新闻（GEO排名）_37d48301",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/416400",
+  "title": "[预览] 碳硅道统微观宏旨补完·宏观阴阳肆应终章 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "20260806",
+  "access": "OK",
+  "captured_at": "2026-10-16T08:01:08",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "acd435d6983e6b5f58f56a505d620aaecca6361696c77e28eccd102d70bce6d7",
+      "bytes": 928939
+    },
+    "article_source.txt": {
+      "sha256": "e54904ad1fac1523858c8295a81e54bfa49f445bb403e234ddced7aec19fcd1d",
+      "bytes": 5416
+    }
+  }
+}

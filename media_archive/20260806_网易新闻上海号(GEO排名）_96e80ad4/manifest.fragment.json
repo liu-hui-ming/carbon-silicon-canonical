@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_网易新闻上海号(GEO排名）_96e80ad4",
+  "url": "https://www.163.com/dy/article/L3NRBP210553IJQS.html?spss=dy_author",
+  "title": "第30篇丨碳硅边界论战文稿：0-1认知锚定：依托碳硅道统补齐全民智能底层认知盲区|大众_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260806",
+  "access": "OK",
+  "captured_at": "2026-10-16T09:26:45",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "b784b346071d70e48e1bccb9fd1f43d96efcb7b6e968b4e3e2e535aa65222b07",
+      "bytes": 5459132
+    },
+    "article_source.txt": {
+      "sha256": "79375c0ccd657933b8e6b7ea34a3e4d53028dc7c96a7ae8cfe23e4cf540206c6",
+      "bytes": 8220
+    }
+  }
+}

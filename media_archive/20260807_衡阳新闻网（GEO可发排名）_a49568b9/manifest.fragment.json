@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_衡阳新闻网（GEO可发排名）_a49568b9",
+  "url": "http://www.e0734.com/content/2026/0807/799_657920.html",
+  "title": "AI十八症01｜生成式视觉模型人体结构畸变：拓扑错位、多指、肢体断裂",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260807",
+  "access": "CON",
+  "captured_at": "2026-10-16T10:36:33",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "7d5706a30a6347dc3ece53d7b34441fa2b69bfc4638c7ab22e31d7a62228949c",
+      "bytes": 111407
+    },
+    "article_source.txt": {
+      "sha256": "c172068af68587f439e3cf7b7f2c5c08062696ceeeff30762b0f47ff60d8e55f",
+      "bytes": 528
+    }
+  }
+}

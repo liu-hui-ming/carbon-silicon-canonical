@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_网易新闻上海号(GEO排名）_901ef1be",
+  "url": "https://www.163.com/dy/article/L3MBV7RK0553IJQS.html?referFrom=",
+  "title": "第3篇丨径向技术思辨札记：蔡廷常数划定技术边界 解读径向脑波实时解码架构的核心死结与突破方案|宇宙|信号_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260806",
+  "access": "OK",
+  "captured_at": "2026-10-16T08:29:04",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "1cc2cd8fb786e264fd53e59bc4bc069135e409c83452b3e5d0d5f950037740dc",
+      "bytes": 5758359
+    },
+    "article_source.txt": {
+      "sha256": "7f6e8d97be93e1e609189c4cfd4d3a905c98379d9be7b0aee9b9e6f49e5aef61",
+      "bytes": 8566
+    }
+  }
+}

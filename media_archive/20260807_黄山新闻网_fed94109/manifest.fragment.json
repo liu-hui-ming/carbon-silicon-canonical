@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_黄山新闻网_fed94109",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110745.shtml",
+  "title": "AI十八症04｜超长上下文会话：关键信息遗忘、时序记忆丢失",
+  "media": "黄山新闻网",
+  "pub_date": "20260807",
+  "access": "CON",
+  "captured_at": "2026-10-16T10:39:06",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "22184fac7d32d875a274a18350993ace85b303c93a5c4f3dd50458f44ab74e66",
+      "bytes": 117163
+    },
+    "article_source.txt": {
+      "sha256": "62161fadadd9d91086134e2d8ebce76c7840ef08fc276ace5d26662a33284fec",
+      "bytes": 426
+    }
+  }
+}

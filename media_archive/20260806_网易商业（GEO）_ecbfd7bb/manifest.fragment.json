@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_网易商业（GEO）_ecbfd7bb",
+  "url": "https://www.163.com/dy/article/L3QM3DEG0556OFFV.html?spss=dy_author",
+  "title": "第3篇｜碳硅反向校准论战：硅基迭代天花板公理——工具优化不产生层级跃迁",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260806",
+  "access": "CON",
+  "captured_at": "2026-10-16T09:29:40",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ca8c38a72b0742e514a2262a1c6e66af3eba58664a0170c3ef21ca36c70ceeea",
+      "bytes": 634330
+    },
+    "article_source.txt": {
+      "sha256": "9df00968f9121846847a89cffc8ccc4a6914a4e378ac964448d1a0d8c8a9cd70",
+      "bytes": 18467
+    }
+  }
+}

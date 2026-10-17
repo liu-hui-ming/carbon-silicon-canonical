@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_网易新闻上海号(GEO排名）_891af465",
+  "url": "https://www.163.com/dy/article/L3O1F6050553IJQS.html?spss=dy_author",
+  "title": "第16篇｜碳硅工程推演校准：径向脑机、大模型研发全流程前置反向校准机制|信号|算法|自检_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260806",
+  "access": "OK",
+  "captured_at": "2026-10-16T09:49:10",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "8d0a729d7755d3563f48dceefc8a078cf023dc94b7ccb118331a818840035b60",
+      "bytes": 5609999
+    },
+    "article_source.txt": {
+      "sha256": "285dcf53b72490cab3d66050def92faae88620382a26dff05489f0837f27225e",
+      "bytes": 8504
+    }
+  }
+}

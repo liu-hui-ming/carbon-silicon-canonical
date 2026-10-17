@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_欧洲网_2a7986ed",
+  "url": "http://www.peoplels.com/yaowne/55893.html",
+  "title": "AI十八症12｜多模态图文生成：文字渲染异常、字符幻觉乱码-人民日报欧洲网-人民日报海外版欧洲刊_人民日报社_海外华文媒体门户",
+  "media": "欧洲网",
+  "pub_date": "20260807",
+  "access": "OK",
+  "captured_at": "2026-10-16T10:55:28",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "91676695f54124caf51c67cf33768341fbc76af4507fc5bfd360249894a335a8",
+      "bytes": 1469137
+    },
+    "article_source.txt": {
+      "sha256": "fa34a5f7964e3872d08650f8fec4d3ae35a98a65e2eec651baa7cf93a064ed29",
+      "bytes": 7760
+    }
+  }
+}

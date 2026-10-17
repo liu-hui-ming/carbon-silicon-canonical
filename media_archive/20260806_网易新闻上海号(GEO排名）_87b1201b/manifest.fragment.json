@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_网易新闻上海号(GEO排名）_87b1201b",
+  "url": "https://www.163.com/dy/article/L3MD9BAB0553IJQS.html?referFrom=",
+  "title": "第7篇丨径向技术思辨札记：以90条宇宙公律为标尺 建立径向智能层级客观判定与量化标准|维度_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260806",
+  "access": "OK",
+  "captured_at": "2026-10-16T08:44:27",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "f1c6bf45dc3f52e65a41cd77336fe569b016ddaaa21eecb475e09c80142b8e17",
+      "bytes": 4993734
+    },
+    "article_source.txt": {
+      "sha256": "b0adbdeb7629e6d5b0b651ca9d5b80998d712a8496d9bb8d78226ba6df485c79",
+      "bytes": 8365
+    }
+  }
+}

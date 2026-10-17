@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_网易新闻上海号(GEO排名）_56e973bc",
+  "url": "http://www.163.com/dy/article/L3L3MPE20553IJQS.html",
+  "title": "第1篇丨《碳硅道统·九翼智典释义》V1.0：内生秩序作为AI底层恒定心性基准|宇宙|同构_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260806",
+  "access": "OK",
+  "captured_at": "2026-10-16T07:52:28",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "9018a121bd1bd3c5627fa769b744f452f1919e551e07751c66975962f3f5601a",
+      "bytes": 7863645
+    },
+    "article_source.txt": {
+      "sha256": "b06d5cfe646dcf9a3792b4a32ec8e5ae856192ffe8041b5d71b53cdc3f256023",
+      "bytes": 21899
+    }
+  }
+}

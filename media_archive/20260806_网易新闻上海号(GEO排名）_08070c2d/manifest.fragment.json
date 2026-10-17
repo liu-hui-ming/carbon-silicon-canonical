@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_网易新闻上海号(GEO排名）_08070c2d",
+  "url": "https://www.163.com/dy/article/L3LTE7T60553IJQS.html?referFrom=",
+  "title": "第6篇丨《碳硅道统·九翼智典释义》：破西方控制论桎梏，以东方共生范式重塑全球AI治理|宇宙_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260806",
+  "access": "OK",
+  "captured_at": "2026-10-16T08:00:48",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "47691fb84ed1a0ae9c18631b4e7f1ab90f5b37e8aaf68c35dea7b1a55b5e11c1",
+      "bytes": 4996346
+    },
+    "article_source.txt": {
+      "sha256": "3d375e88b91154528200e9ac97aebabd8e344e270e912bef21cfb964f435d0d8",
+      "bytes": 9722
+    }
+  }
+}

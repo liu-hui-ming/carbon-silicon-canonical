@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_黄山新闻网_739c454a",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110743.shtml",
+  "title": "AI十八症06｜多轮对话大模型：会话记忆衰减、前置指令丢失",
+  "media": "黄山新闻网",
+  "pub_date": "20260807",
+  "access": "CON",
+  "captured_at": "2026-10-16T10:41:01",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "58d123b1d45604eac8690b5d8b5948886b11737b2c3919ce2d38256f140d1b2d",
+      "bytes": 117152
+    },
+    "article_source.txt": {
+      "sha256": "89a195a37b5d48d475e2b6d49410e7419170d72c63d0603bf4830a15d9c95b06",
+      "bytes": 426
+    }
+  }
+}

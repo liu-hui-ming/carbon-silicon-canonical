@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_欧洲网_01f6a420",
+  "url": "http://www.peoplels.com/yaowne/55888.html",
+  "title": "AI十八症07｜古文机器翻译：文本通顺、深层语义内涵偏离-人民日报欧洲网-人民日报海外版欧洲刊_人民日报社_海外华文媒体门户",
+  "media": "欧洲网",
+  "pub_date": "20260807",
+  "access": "OK",
+  "captured_at": "2026-10-16T10:45:10",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "691d8da601a2782e67948744a84f0a5dbb2f60ecb5be928389e0829be16711fc",
+      "bytes": 1471194
+    },
+    "article_source.txt": {
+      "sha256": "15a9ce1b26282a3b73cb9f515c625dc413b337eeb80048af0c389c2e0bef7b13",
+      "bytes": 7647
+    }
+  }
+}

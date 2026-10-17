@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_衡阳新闻网（GEO可发排名）_7ccf4266",
+  "url": "http://www.e0734.com/content/2026/0807/799_657933.html",
+  "title": "AI十八症12｜多模态图文生成：文字渲染异常、字符幻觉乱码",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260807",
+  "access": "CON",
+  "captured_at": "2026-10-16T10:55:19",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "9dcd260ec1a73e33e7dcdd823f31a9d52890aaa4aaf359d258f274d3f2cdb655",
+      "bytes": 111488
+    },
+    "article_source.txt": {
+      "sha256": "f4dd5f88d9ed52483cfb43fde673104c26c08e1dc27fbd33dd31ddb2faf33863",
+      "bytes": 513
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_欧洲网_08e7af21",
+  "url": "http://www.peoplels.com/yaowne/55883.html",
+  "title": "AI十八症02｜长文本代码模型变量漂移：长逻辑链路断裂失效-人民日报欧洲网-人民日报海外版欧洲刊_人民日报社_海外华文媒体门户",
+  "media": "欧洲网",
+  "pub_date": "20260807",
+  "access": "OK",
+  "captured_at": "2026-10-16T10:37:39",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "5b403f1fc1f61c5da2dd4deffe3db9e64931d5517fe2129dbe43c3e6e825a378",
+      "bytes": 1502040
+    },
+    "article_source.txt": {
+      "sha256": "cca819df5d1a58943d5acd883aa0718ec6a2c33678e426acdcc3cc2438ea3b92",
+      "bytes": 7996
+    }
+  }
+}

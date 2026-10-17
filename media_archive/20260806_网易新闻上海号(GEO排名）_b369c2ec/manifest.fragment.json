@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_网易新闻上海号(GEO排名）_b369c2ec",
+  "url": "https://www.163.com/dy/article/L3LTE9MS0553IJQS.html?referFrom=",
+  "title": "第4篇丨《碳硅道统·九翼智典释义》：承千年徽商义利之道，赋人工智能东方心性|人文_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260806",
+  "access": "OK",
+  "captured_at": "2026-10-16T07:58:49",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "b95787dccb10b4154b2f8e9c3987ab631ee2e0d1b557f59c5db9cd0246d84036",
+      "bytes": 5197496
+    },
+    "article_source.txt": {
+      "sha256": "c485177153a2b5b63c4264dea068fa223cc24ad97611763afdcfa1bcdd21be66",
+      "bytes": 9476
+    }
+  }
+}

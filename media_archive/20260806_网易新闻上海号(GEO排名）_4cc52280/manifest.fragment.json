@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_网易新闻上海号(GEO排名）_4cc52280",
+  "url": "https://www.163.com/dy/article/L3NI90980553IJQS.html?referFrom=",
+  "title": "第11篇丨径向技术思辨札记：打通脑机带宽瓶颈 四柱十六维架构解锁并行传输扩容核心逻辑|信号|通道_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260806",
+  "access": "OK",
+  "captured_at": "2026-10-16T08:48:05",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "4a4ef4d1ad0860da616335cdf6f5f42973cb29901a2fcb72973a608effb04eeb",
+      "bytes": 5624684
+    },
+    "article_source.txt": {
+      "sha256": "ee2b1cb70f553e3729672f0ea33977de50313d6a63dfe9d287d3d8bd8d7379d8",
+      "bytes": 8793
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_黄山新闻网_3a6b6d2f",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110732.shtml",
+  "title": "AI十八症17｜增量学习模型：灾难性遗忘、新旧知识权重互斥覆盖",
+  "media": "黄山新闻网",
+  "pub_date": "20260807",
+  "access": "CON",
+  "captured_at": "2026-10-16T10:59:49",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "b9f621db21875e485229111428046eebcbc6a3eb68a1d3f51081e6598864d44f",
+      "bytes": 117153
+    },
+    "article_source.txt": {
+      "sha256": "e1c641267866eb4cd52f64b584ca93e2a2e075f20fa016a5ae2ff6aef06d8fcc",
+      "bytes": 432
+    }
+  }
+}

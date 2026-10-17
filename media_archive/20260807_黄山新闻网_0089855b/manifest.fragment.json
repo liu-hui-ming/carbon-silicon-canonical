@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_黄山新闻网_0089855b",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110731.shtml",
+  "title": "AI十八症18｜多模态大模型：实验室指标与产业实景表现背离",
+  "media": "黄山新闻网",
+  "pub_date": "20260807",
+  "access": "CON",
+  "captured_at": "2026-10-16T11:00:47",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "b162c9e76c68adbe57e346df1d00f02731e60b2efee3bcdaff54378a14e040e5",
+      "bytes": 117093
+    },
+    "article_source.txt": {
+      "sha256": "84b42c04ddb8f0e1ed03916df67cd955e3de5362441efee659a898779eb18ebf",
+      "bytes": 426
+    }
+  }
+}

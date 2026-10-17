@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_黄山新闻网_9e08815d",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110735.shtml",
+  "title": "AI十八症14｜AGI工程落地：预期指标与推理能力存在落差",
+  "media": "黄山新闻网",
+  "pub_date": "20260807",
+  "access": "CON",
+  "captured_at": "2026-10-16T10:56:56",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "b6f63953b6850a0e0292015091d9e9fad85655d9b79b771b94f8fdf28483dcef",
+      "bytes": 117176
+    },
+    "article_source.txt": {
+      "sha256": "9d9bce69061354cca99a13462f2cc46d517f12248d6882e4fa47ced26ace3c45",
+      "bytes": 420
+    }
+  }
+}

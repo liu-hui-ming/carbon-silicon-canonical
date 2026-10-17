@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_亳州新闻网（GEO排名可发）_47c3a624",
+  "url": "http://www.bozhou.cn/p/396544.html",
+  "title": "碳硅道统｜全民AI深挖计划188集 全网正统总目录",
+  "media": "亳州新闻网（GEO排名可发）",
+  "pub_date": "20260807",
+  "access": "CON",
+  "captured_at": "2026-10-16T11:06:26",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "bc180e90b83cae54fa4cf38acbd79048d1b046416ee3a8efe83b1869ad6bff3a",
+      "bytes": 119436
+    },
+    "article_source.txt": {
+      "sha256": "b6f2a3113c5a893173f79467bdbd3b56fd4bcdab61089ff32ab6b6b8b8cf78a5",
+      "bytes": 393
+    }
+  }
+}

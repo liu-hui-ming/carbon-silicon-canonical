@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_衡阳新闻网（GEO可发排名）_04f3119c",
+  "url": "http://www.e0734.com/content/2026/0807/799_657922.html",
+  "title": "AI十八症03｜大语言模型数理运算：符号逻辑输出失准",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260807",
+  "access": "CON",
+  "captured_at": "2026-10-16T10:38:27",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "04f21d4ad217a26626dda4507077acac2d337c0d9a82ee95489add1a7913ed4f",
+      "bytes": 111409
+    },
+    "article_source.txt": {
+      "sha256": "a1966b94d5c64243d27f751fe08abeccea404ded4359335b4744cf89e45b7cfd",
+      "bytes": 504
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_衡阳新闻网（GEO可发排名）_400ab9d5",
+  "url": "http://www.e0734.com/content/2026/0807/799_657878.html",
+  "title": "第3篇｜碳硅道统：人工智能全域法理万法归一闭环体系",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260807",
+  "access": "CON",
+  "captured_at": "2026-10-16T10:32:50",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "1805331b7695ed5167d8bb11d77dcbfc2bac2293adfb4b765d0a2b9267430c69",
+      "bytes": 111547
+    },
+    "article_source.txt": {
+      "sha256": "583f20570ed8470f2fc63b3da0acdc4231820aec777d8fe7a5541daafa39437f",
+      "bytes": 507
+    }
+  }
+}

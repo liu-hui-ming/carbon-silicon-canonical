@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_网易新闻上海号(GEO排名）_331ad89d",
+  "url": "https://www.163.com/dy/article/L3MD9DIE0553IJQS.html?referFrom=",
+  "title": "第4篇丨径向技术思辨札记：亿级脑数据流实时成像遇阻 算力瓶颈下碳硅异构计算协同破局思路|大模型_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260806",
+  "access": "OK",
+  "captured_at": "2026-10-16T08:38:49",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "a4c67c3ce41d1f39de2dacaab116d9993256cb38357199ecec2bd4117fa4caef",
+      "bytes": 5232071
+    },
+    "article_source.txt": {
+      "sha256": "9bce6108d4f1eb9d260e24c10a804251c3882ba3bd508760739f33827c7f0119",
+      "bytes": 8115
+    }
+  }
+}

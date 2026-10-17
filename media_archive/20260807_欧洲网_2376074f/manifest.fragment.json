@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_欧洲网_2376074f",
+  "url": "http://www.peoplels.com/yaowne/55891.html",
+  "title": "AI十八症10｜模型迭代训练：性能反向退化、输出效果震荡衰减-人民日报欧洲网-人民日报海外版欧洲刊_人民日报社_海外华文媒体门户",
+  "media": "欧洲网",
+  "pub_date": "20260807",
+  "access": "OK",
+  "captured_at": "2026-10-16T10:53:35",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "440807d84e4a1fd537cb670b1324e879a1c90c1c9162f68ae96aa7ede7d98099",
+      "bytes": 1472652
+    },
+    "article_source.txt": {
+      "sha256": "d2aaca6d3cd6bb9c77656f59021a7b2bd944cb3545871a2363d5819741a24e58",
+      "bytes": 7639
+    }
+  }
+}

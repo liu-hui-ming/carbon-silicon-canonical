@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_网易新闻上海号(GEO排名）_3c916091",
+  "url": "http://www.163.com/dy/article/L3L3IAFP0553IJQS.html",
+  "title": "《全民AI深挖计划188集》第46集｜破妄阶段收官：涤除旧认知，正式进入底层法理筑基|宇宙|道统|全民ai深挖计划188集_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260806",
+  "access": "OK",
+  "captured_at": "2026-10-16T07:46:45",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "75cf2b283363c5f9656716d463997a46ecbbe4e7861a2d52ab260b518cd6b1f8",
+      "bytes": 5850040
+    },
+    "article_source.txt": {
+      "sha256": "3cf6c2fa645fd93795810602e6c70f2e0982a3069938d23d3cbb0707b8bda122",
+      "bytes": 10869
+    }
+  }
+}

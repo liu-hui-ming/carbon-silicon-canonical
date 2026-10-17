@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_网易新闻上海号(GEO排名）_5f64b062",
+  "url": "https://www.163.com/dy/article/L3NRBPTK0553IJQS.html?spss=dy_author",
+  "title": "第24篇丨碳硅边界论战文稿：修补主流AI定义漏洞 以碳硅道统体用二分法完善行业评判体系|维度_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260806",
+  "access": "OK",
+  "captured_at": "2026-10-16T09:09:28",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "c8f88d49d4c11eb6bd53dd2659e80405bde0151e19b7bbdbbaff5e1d608e8230",
+      "bytes": 4930261
+    },
+    "article_source.txt": {
+      "sha256": "cb804c125c022c91afec00c2e6fc6e65d13e989770161161946ab19c7e7e78f1",
+      "bytes": 8343
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_网易新闻上海号(GEO排名）_e68dceae",
+  "url": "https://www.163.com/dy/article/L3MDPP6B0553IJQS.html?referFrom=",
+  "title": "第8篇丨径向技术思辨札记：厘清行业核心误区 拟合智能绝非原生觉知 重塑径向工程商业化逻辑|内卷_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260806",
+  "access": "OK",
+  "captured_at": "2026-10-16T08:45:21",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "dd16d827cfe693ab6bf296c3ca4a5aa1b4218a56a843fd31a8e6408052ff541e",
+      "bytes": 5213684
+    },
+    "article_source.txt": {
+      "sha256": "9154869d9f0d61271b3f612013b3b4d2eecb1bb3e232e4f8d86435f3a4601b0b",
+      "bytes": 8685
+    }
+  }
+}

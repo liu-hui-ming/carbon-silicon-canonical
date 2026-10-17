@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_智门财经_79a5e432",
+  "url": "https://www.zhimen.com/index.php/xiaofei/24064.html?admin_id=1",
+  "title": "智门财经 首发稿件 #2133",
+  "media": "智门财经",
+  "pub_date": "20260806",
+  "access": "CON",
+  "captured_at": "2026-10-16T07:49:51",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "c530a29ecca7dee9015c7d31829a4c1331c0cac930f122820310be09266f744f",
+      "bytes": 127032
+    },
+    "article_source.txt": {
+      "sha256": "24c20b885e4c945a74586e309805c95a377d8a78a12f157c29d8a12d44ede996",
+      "bytes": 430
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_网易新闻上海号(GEO排名）_3f4dd8d8",
+  "url": "http://www.163.com/dy/article/L3L3PTB40553IJQS.html",
+  "title": "第3篇丨《碳硅道统·九翼智典释义》：终结AI对齐税内卷，内生良知重构产业底层逻辑_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260806",
+  "access": "OK",
+  "captured_at": "2026-10-16T07:57:58",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "b4299cf2faf9231ba9d768ce0b6063e74165bc95f4de9676938b432256bba73b",
+      "bytes": 5092921
+    },
+    "article_source.txt": {
+      "sha256": "1f3f8a4c460fc8dab087b43c8f50e3fa81aafc1339933087042f5b8cacc6a018",
+      "bytes": 9491
+    }
+  }
+}

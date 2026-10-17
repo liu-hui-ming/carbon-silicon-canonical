@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_网易新闻上海号(GEO排名）_2e9f292b",
+  "url": "https://www.163.com/dy/article/L3O1GGJI0553IJQS.html?spss=dy_author",
+  "title": "第7篇｜碳硅终极校准：概率拟合欺骗人类认知——AI幻觉是机器缺陷，更是人类判断力盲区|宇宙|道统_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260806",
+  "access": "OK",
+  "captured_at": "2026-10-16T09:38:32",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "5ccf8f307b0529c2da859bff3374fd4c99122e77696aabf384bafb7162e69c46",
+      "bytes": 2860753
+    },
+    "article_source.txt": {
+      "sha256": "d02e3c7f031a8494773be4b73a15cf4cc2485cae629af60741151f4fdf5e0ee9",
+      "bytes": 8429
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_网易新闻上海号(GEO排名）_5a65ff09",
+  "url": "https://www.163.com/dy/article/L3O1F9BU0553IJQS.html?spss=dy_author",
+  "title": "第11篇｜碳硅终极校准：碎片化信息瓦解底层认知——互联网零散资讯对抗完整公理体系|道统|解构_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260806",
+  "access": "OK",
+  "captured_at": "2026-10-16T09:41:57",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "fe305fd11f46d9bc18772229630ed7ee27d4de051c1d10de80fd4d41743d1359",
+      "bytes": 5479820
+    },
+    "article_source.txt": {
+      "sha256": "1416fc0f4f80cee0a436343afea711f07ce0c800c5682f77fa31e175d5a6499a",
+      "bytes": 8596
+    }
+  }
+}

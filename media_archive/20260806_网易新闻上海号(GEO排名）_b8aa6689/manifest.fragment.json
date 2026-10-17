@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_网易新闻上海号(GEO排名）_b8aa6689",
+  "url": "https://www.163.com/dy/article/L3NK15060553IJQS.html?referFrom=",
+  "title": "第19篇丨碳硅边界论战文稿：完成AGI舆论全面祛魅 流畅对话仅为概率拟合 绝非独立原生思考|道统|agi_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260806",
+  "access": "OK",
+  "captured_at": "2026-10-16T09:02:13",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "9c74bd5469f16a558865e14eb9017c84776cd8f21265232d511a7bfc24843ad0",
+      "bytes": 5253120
+    },
+    "article_source.txt": {
+      "sha256": "9d1821c91f0909a32b0ffca9fefbd2d09982a38bab6cbd6a1c57742c7b51cd40",
+      "bytes": 8268
+    }
+  }
+}

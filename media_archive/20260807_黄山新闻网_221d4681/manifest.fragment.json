@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_黄山新闻网_221d4681",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110736.shtml",
+  "title": "AI十八症13｜通用对话系统：复杂意图识别失效、业务依赖人工兜底",
+  "media": "黄山新闻网",
+  "pub_date": "20260807",
+  "access": "CON",
+  "captured_at": "2026-10-16T10:55:59",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "27294e18e8b5feb194901b11c7079f799d4437103cb3cb6220abbb04f62ff29f",
+      "bytes": 117183
+    },
+    "article_source.txt": {
+      "sha256": "88b5e868f9a2d99027e9550730c27d0b1cf807bb0799f5346c6f7a195b53d65d",
+      "bytes": 435
+    }
+  }
+}

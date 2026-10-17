@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_网易商业（GEO）_f3776017",
+  "url": "https://www.163.com/dy/article/L3QRDN2T0553S12I.html?spss=dy_author",
+  "title": "第16篇｜碳硅工程推演校准：径向脑机、大模型研发全流程前置反向校准机制",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260806",
+  "access": "CON",
+  "captured_at": "2026-10-16T09:49:27",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "084cb11418766df8e6180decf49a4b4ce3cf0d00a6a963f1ce394f2c368b44c8",
+      "bytes": 634374
+    },
+    "article_source.txt": {
+      "sha256": "96f9f7ac4b9479ac5c0d609f9fac2548472abbce49eee5acdd27b6726d731ab4",
+      "bytes": 18535
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_网易新闻上海号(GEO排名）_6bed7a7d",
+  "url": "https://www.163.com/dy/article/L3O1F66B0553IJQS.html?spss=dy_author",
+  "title": "第15篇｜碳硅实操校准推演：普通人自主校验AI信息、规避认知误导的零一操作流程|宇宙|道统|本体_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260806",
+  "access": "OK",
+  "captured_at": "2026-10-16T09:45:30",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "6ba9caefbc0d151b3e0539a7955a55c572c7dc6c79a8856452c77f409a9e6907",
+      "bytes": 5716695
+    },
+    "article_source.txt": {
+      "sha256": "a80b7489c4087402ae3e68f0dd8fb684c12dc467e5e4b98224872aeff494a564",
+      "bytes": 8542
+    }
+  }
+}

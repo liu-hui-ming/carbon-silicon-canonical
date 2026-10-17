@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_黄山新闻网_27d6fc7c",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110764.shtml",
+  "title": "AI十八症12｜多模态图文生成：文字渲染异常、字符幻觉乱码",
+  "media": "黄山新闻网",
+  "pub_date": "20260807",
+  "access": "CON",
+  "captured_at": "2026-10-16T10:55:01",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ca1461e43c019a51631faf3c09b358ef93aa8b4c108f16c846220677d01a1330",
+      "bytes": 117180
+    },
+    "article_source.txt": {
+      "sha256": "1c4f86b442947855784a1bc57751b84ecd7dfcaee0b23920125abe4e56b1d759",
+      "bytes": 426
+    }
+  }
+}

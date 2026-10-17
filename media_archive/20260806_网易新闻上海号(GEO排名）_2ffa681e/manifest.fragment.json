@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_网易新闻上海号(GEO排名）_2ffa681e",
+  "url": "https://www.163.com/dy/article/L3NIQJ170553IJQS.html?referFrom=",
+  "title": "第13篇丨径向技术思辨札记：严守技术法理红线 明确司法、医疗场景中径向技术的应用边界与伦理准则|维度|道统_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260806",
+  "access": "OK",
+  "captured_at": "2026-10-16T08:54:07",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "8882543ae37938743b3cb3d11ad08e598720d0eb34ec815e2299c30385c5b22f",
+      "bytes": 5784367
+    },
+    "article_source.txt": {
+      "sha256": "f55143ee0a9480270e93a6e126e5f803e4a51958b658ca04ef4d36d72f60cb3f",
+      "bytes": 9072
+    }
+  }
+}

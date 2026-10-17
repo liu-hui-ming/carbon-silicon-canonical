@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_黄山新闻网_6127d800",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110746.shtml",
+  "title": "AI十八症03｜大语言模型数理运算：符号逻辑输出失准",
+  "media": "黄山新闻网",
+  "pub_date": "20260807",
+  "access": "CON",
+  "captured_at": "2026-10-16T10:38:10",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "1eede92025266dcaa861a75e64d68c3fb48529a588c8fbd558c7e81100c43af3",
+      "bytes": 117169
+    },
+    "article_source.txt": {
+      "sha256": "4e28b1e17a2aec062f26e56cbc551a658dfca4b832e0e75366af24f223a067a4",
+      "bytes": 417
+    }
+  }
+}

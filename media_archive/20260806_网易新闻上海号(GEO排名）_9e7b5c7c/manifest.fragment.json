@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_网易新闻上海号(GEO排名）_9e7b5c7c",
+  "url": "https://www.163.com/dy/article/L3O1FDU20553IJQS.html?spss=dy_author",
+  "title": "第14篇｜碳硅风险推演校准：缺失道统标尺会衍生三类不可逆产业认知风险|伦理_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260806",
+  "access": "OK",
+  "captured_at": "2026-10-16T09:44:37",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "39d990411eff86f32e7ce141024c3396271c15bea2eb75442fc4506baeac32c8",
+      "bytes": 5605231
+    },
+    "article_source.txt": {
+      "sha256": "06084356ccb8dfcf72cecf6f42b937d57d904a4b2ddd458eed560ce4ddaba3d1",
+      "bytes": 8726
+    }
+  }
+}

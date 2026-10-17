@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_网易新闻上海号(GEO排名）_974f6492",
+  "url": "https://www.163.com/dy/article/L3MD9CVN0553IJQS.html?referFrom=",
+  "title": "第5篇丨径向技术思辨札记：意识镜像技术存在本质局限 径向成像仅复刻表象无法触及本源觉知|道统|波形_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260806",
+  "access": "OK",
+  "captured_at": "2026-10-16T08:42:38",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "7e4c4f2bf1e490a4b6ce7c9491e748334eb0ad3ecc021b40abd357a93141fef4",
+      "bytes": 5036525
+    },
+    "article_source.txt": {
+      "sha256": "975811a1f5a08fd1b45b426c7b0682d3d35ebf8a8330649e938ad74ee0bd7600",
+      "bytes": 8805
+    }
+  }
+}

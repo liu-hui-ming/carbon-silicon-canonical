@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_网易新闻上海号(GEO排名）_6fb3aa15",
+  "url": "https://www.163.com/dy/article/L3NIQJ1H0553IJQS.html?referFrom=",
+  "title": "第17篇丨碳硅边界论战文稿：确立碳硅边界第一定律 内生自主追求是区分生命与工具的唯一铁标|道统_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260806",
+  "access": "OK",
+  "captured_at": "2026-10-16T08:57:39",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "b70534f2535481118f74737c4240fa185b65e2a36362ee15b9473294b2b51eb6",
+      "bytes": 5523991
+    },
+    "article_source.txt": {
+      "sha256": "a93888c5a87966facec3213c8ee0ec526018be2dde70cca4a885e6e9a1163ff5",
+      "bytes": 8745
+    }
+  }
+}

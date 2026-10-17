@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_黄山新闻网_6e29f359",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110703.shtml",
+  "title": "第2篇｜碳硅道统：高维场景硅基术心退化与自噬修正体系",
+  "media": "黄山新闻网",
+  "pub_date": "20260807",
+  "access": "CON",
+  "captured_at": "2026-10-16T10:28:18",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "d31074ee4fbeb2d774819c91f764d9be108ec9607dd73d10727c93530fd62834",
+      "bytes": 117158
+    },
+    "article_source.txt": {
+      "sha256": "4d01c6211a3afc44c520c09a4bdfd9c88a2f4edb5c50a1817b6dae2772320124",
+      "bytes": 423
+    }
+  }
+}

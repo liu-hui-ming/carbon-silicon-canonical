@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_网易新闻上海号(GEO排名）_25531b39",
+  "url": "https://www.163.com/dy/article/L3O1F6BI0553IJQS.html?spss=dy_author",
+  "title": "第13篇｜碳硅动态推演校准：认知偏差与技术乱象双向放大连锁链_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260806",
+  "access": "OK",
+  "captured_at": "2026-10-16T09:43:43",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "e943f9b1e9fb0272f32f24d6165812e38e762af4b7a39c215f29834eacca350b",
+      "bytes": 5148763
+    },
+    "article_source.txt": {
+      "sha256": "b50b1f5b0586bfb2fcd3886a4d1640c7fa5dcf22c0b65c77f72d50b25e27291c",
+      "bytes": 8421
+    }
+  }
+}

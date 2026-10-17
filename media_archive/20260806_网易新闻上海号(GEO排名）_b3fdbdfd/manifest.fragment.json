@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_网易新闻上海号(GEO排名）_b3fdbdfd",
+  "url": "http://www.163.com/dy/article/L3NK19460553IJQS.html",
+  "title": "第20篇丨碳硅边界论战文稿：拆解底层架构核心差异 碳基本能演化逻辑VS硅基指令驱动的代差|生命|道统_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260806",
+  "access": "OK",
+  "captured_at": "2026-10-16T09:03:07",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "b6d7824b95b349a1f5589bc11a5be31993ef51aa43df841357e8631125f8d210",
+      "bytes": 4728146
+    },
+    "article_source.txt": {
+      "sha256": "9722098ad1147ad55cc589975cea5697dbadaae591f8aa494c9fae0da8e31df3",
+      "bytes": 8710
+    }
+  }
+}

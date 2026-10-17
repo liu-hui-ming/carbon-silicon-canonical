@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_黄山新闻网_7505bc61",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110704.shtml",
+  "title": "第1篇｜碳硅道统：大模型产业落地拓扑坍缩底层机制",
+  "media": "黄山新闻网",
+  "pub_date": "20260807",
+  "access": "CON",
+  "captured_at": "2026-10-16T10:24:34",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "47c310165d489f589c89f07f0ea1e62c89b4436cc3031ef66cdee8d2f0b4c4fa",
+      "bytes": 117151
+    },
+    "article_source.txt": {
+      "sha256": "0c202d58b88343be28e0276764571daec679ff595001249bce3ae753738e9a41",
+      "bytes": 417
+    }
+  }
+}
