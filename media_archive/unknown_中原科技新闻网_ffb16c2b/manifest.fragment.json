@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中原科技新闻网_ffb16c2b",
+  "url": "http://kjb.kjxww.cn/128460.html",
+  "title": "碳硅道统｜AI叙事泡沫抵达拐点：以可验证标准终结”话术时代 – 中原科技新闻网",
+  "media": "中原科技新闻网",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T21:58:23",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "01a62a6b8fd58f44094ce8aef22bd4e2dcec03cccef9afc951f947f453d5474c",
+      "bytes": 2010392
+    },
+    "article_source.txt": {
+      "sha256": "a7ab4a13975a8cd6326a7bccb9724189cb810a7b4a1abf4eb1ee076306117655",
+      "bytes": 10949
+    }
+  }
+}

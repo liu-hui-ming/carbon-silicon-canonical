@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中原科技新闻网_c2e6bab0",
+  "url": "http://kjb.kjxww.cn/128800.html",
+  "title": "碳硅道统｜回应12：双轨隔离会不会造成工程与伦理两套体系互相割裂？ – 中原科技新闻网",
+  "media": "中原科技新闻网",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:20:38",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "38f8293d1bc9d53d97e8aea92fa119b9fe51f35bc58c5ed0821ce6caa34f2265",
+      "bytes": 1919279
+    },
+    "article_source.txt": {
+      "sha256": "6a99fa0aa8312f1f34acc3e59db8878f77d3e869b2e3ba3d29787fcb365824f1",
+      "bytes": 5932
+    }
+  }
+}

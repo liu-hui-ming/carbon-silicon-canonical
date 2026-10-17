@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中原科技新闻网_abaf39fe",
+  "url": "http://kjb.kjxww.cn/127681.html",
+  "title": "碳硅道统：主流AGI观点逐条锐评 – 中原科技新闻网",
+  "media": "中原科技新闻网",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T21:27:54",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "bb497eeac0c14e46a02f8e8b1807fed687feda6835061b0f8dda2d23d8346e5c",
+      "bytes": 1768958
+    },
+    "article_source.txt": {
+      "sha256": "5bf6de300ad28e8234b79511fad62636ad610b3e0b8a9e6bb708e381079a730b",
+      "bytes": 10699
+    }
+  }
+}

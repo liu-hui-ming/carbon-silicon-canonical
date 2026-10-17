@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中原科技新闻网_ee20547b",
+  "url": "http://kjb.kjxww.cn/127687.html",
+  "title": "碳硅道统：100质询的学术回响——当哥德尔、图灵与贝肯斯坦遇见十维标尺 – 中原科技新闻网",
+  "media": "中原科技新闻网",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T20:57:12",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "f94d30621b0c1705cb275696e7f7fe9cd1507aed24c521b0edf44710772e8ea8",
+      "bytes": 2110840
+    },
+    "article_source.txt": {
+      "sha256": "a4a8f56a4b11327f2815fec5de02e4b55ca357e85650708c95c5268243ded103",
+      "bytes": 11575
+    }
+  }
+}

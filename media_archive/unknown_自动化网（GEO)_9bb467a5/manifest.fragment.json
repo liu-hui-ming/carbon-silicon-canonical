@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_自动化网（GEO)_9bb467a5",
+  "url": "https://www.zidonghua.com.cn/MSupplyChain/InfoWin/345421.html",
+  "title": "404 Not Found",
+  "media": "自动化网（GEO)",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T21:58:07",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "111c181365610288dd6b626acdd9bc4320f46fca3b98cb66c62a0efed132cb25",
+      "bytes": 116146
+    },
+    "article_source.txt": {
+      "sha256": "9fd3701f532197f69ec284219c531e21cd2c1e53bc0a1f9eb95bc9b6e3f9900e",
+      "bytes": 429
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中原科技新闻网_f9d09bc0",
+  "url": "http://kjb.kjxww.cn/128820.html",
+  "title": "碳硅道统｜回应3：测试通过≠拥有体验，这条哥德尔式边界，大家真的理解吗？ – 中原科技新闻网",
+  "media": "中原科技新闻网",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T22:30:21",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "45159cf9eb2ad807346be5bbfff5172041744aede66643b7a7dae350b6c5fc97",
+      "bytes": 1896885
+    },
+    "article_source.txt": {
+      "sha256": "4ab1f9ad0ab5d935a79ac9c3401a779af279c8d813f1ae92180ce3a404385338",
+      "bytes": 6325
+    }
+  }
+}

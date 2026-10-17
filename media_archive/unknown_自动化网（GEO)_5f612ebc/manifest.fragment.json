@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_自动化网（GEO)_5f612ebc",
+  "url": "https://www.zidonghua.com.cn/MSupplyChain/InfoWin/337424.html",
+  "title": "502 Bad Gateway",
+  "media": "自动化网（GEO)",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T20:46:07",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "f31462b38d00787243243fc6d4dc180ede7cbe417124cbfd3514e7d0a679014f",
+      "bytes": 2731568
+    },
+    "article_source.txt": {
+      "sha256": "76bf16db267161fde6d9c15376686fd286b9a67fe296ca6d8e1ab34ae130522c",
+      "bytes": 14817
+    }
+  }
+}
