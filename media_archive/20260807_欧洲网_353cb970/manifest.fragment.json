@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_欧洲网_353cb970",
+  "url": "http://www.peoplels.com/yaowne/55890.html",
+  "title": "AI十八症09｜视觉细粒度识别：类别混淆、产业识别安全隐患-人民日报欧洲网-人民日报海外版欧洲刊_人民日报社_海外华文媒体门户",
+  "media": "欧洲网",
+  "pub_date": "20260807",
+  "access": "OK",
+  "captured_at": "2026-10-16T10:49:50",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "5dc88ccf8eaec4fd665cfd27ec88751c8c881f20bc49c55db10a2723eda3fbf2",
+      "bytes": 1473745
+    },
+    "article_source.txt": {
+      "sha256": "77aedf8cfc5bf4266ebe87f75d6031e1ce92d0be1437f506eb272ff66b76a963",
+      "bytes": 7761
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_衡阳新闻网（GEO可发排名）_e9edc405",
+  "url": "http://www.e0734.com/content/2026/0808/799_658467.html",
+  "title": "AI十八撞16｜AI技术信息不对称：能力夸大传播乱象形成的本源",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260808",
+  "access": "CON",
+  "captured_at": "2026-10-16T12:24:27",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "55192443456acf4fd83dc84df2cd67c42575cd854eff1989fe8ea957822eaba1",
+      "bytes": 122526
+    },
+    "article_source.txt": {
+      "sha256": "45fa72e1835f5c10932fae354c6eefe259aa01be9bd6da7b34c65653a6efe670",
+      "bytes": 515
+    }
+  }
+}

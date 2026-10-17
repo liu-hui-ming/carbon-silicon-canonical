@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_衡阳新闻网（GEO可发排名）_6a6c0f6d",
+  "url": "http://www.e0734.com/content/2026/0808/799_658466.html",
+  "title": "AI十八撞15｜物种脑波频谱特异性：通用脑波解码适配失效的本源",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260808",
+  "access": "CON",
+  "captured_at": "2026-10-16T12:23:29",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "438a8d339ee7e264d32b1a12faff8e76022c9deae108ebfdf8083ef478c85927",
+      "bytes": 122512
+    },
+    "article_source.txt": {
+      "sha256": "1dcce81df812b58b2151cb657a3692a6c79d59d5ab7070c5706e2f814cd82269",
+      "bytes": 519
+    }
+  }
+}

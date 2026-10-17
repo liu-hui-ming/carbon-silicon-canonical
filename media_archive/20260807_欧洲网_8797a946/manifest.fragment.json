@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_欧洲网_8797a946",
+  "url": "http://www.peoplels.com/yaowne/55876.html",
+  "title": "AI十八症18｜多模态大模型：实验室指标与产业实景表现背离-人民日报欧洲网-人民日报海外版欧洲刊_人民日报社_海外华文媒体门户",
+  "media": "欧洲网",
+  "pub_date": "20260807",
+  "access": "OK",
+  "captured_at": "2026-10-16T11:01:14",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "06b879358676eb0190390949738557928d1144a55668b95b92bd15a8b8a52bc8",
+      "bytes": 1502749
+    },
+    "article_source.txt": {
+      "sha256": "62dfabc24c3d3283d92b7694a7df8ca873ccac53504848ec680c35805e11e81e",
+      "bytes": 8248
+    }
+  }
+}

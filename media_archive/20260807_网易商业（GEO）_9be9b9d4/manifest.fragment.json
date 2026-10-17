@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_网易商业（GEO）_9be9b9d4",
+  "url": "http://www.163.com/dy/article/L3QLDCOV0553S12I.html",
+  "title": "AI十八症17｜增量学习模型：灾难性遗忘、新旧知识权重互斥覆盖",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260807",
+  "access": "CON",
+  "captured_at": "2026-10-16T11:00:43",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "d5039ad5449e85185d53e60833ab38f714e05d7b17a43d1f4277e324dcb7fe24",
+      "bytes": 636733
+    },
+    "article_source.txt": {
+      "sha256": "3ac42afa87aaa82b07b4792ad8692a9acf35c71d16594a36380e3302f120514c",
+      "bytes": 18560
+    }
+  }
+}

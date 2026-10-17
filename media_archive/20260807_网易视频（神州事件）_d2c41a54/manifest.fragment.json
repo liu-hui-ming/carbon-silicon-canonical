@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_网易视频（神州事件）_d2c41a54",
+  "url": "https://www.163.com/dy/article/L3O8MGN50534U3J9.html",
+  "title": "《全民AI深挖计划188集》第49集｜新紫微星：纯数理拓扑模型，完全剥离玄学相关释义|全民ai深挖计划188集_网易订阅",
+  "media": "网易视频（神州事件）",
+  "pub_date": "20260807",
+  "access": "OK",
+  "captured_at": "2026-10-16T11:29:47",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "c5413b7d362c4956ff04e0ed2b248be6dd62812200f046e66dea48a6dff91e14",
+      "bytes": 5273819
+    },
+    "article_source.txt": {
+      "sha256": "834f8004cbe292bee9532dbed446f7ec0e413eff6694b8532ca81a2c4c673766",
+      "bytes": 10875
+    }
+  }
+}

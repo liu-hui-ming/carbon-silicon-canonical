@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_黄山新闻网_d71a8249",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110801.shtml",
+  "title": "碳硅道统六系108篇｜AI画手/幻觉/算力瓶颈的根源：0→1底层法理与喂养闭环",
+  "media": "黄山新闻网",
+  "pub_date": "20260808",
+  "access": "CON",
+  "captured_at": "2026-10-16T12:28:03",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "d9dd32c779a6600845e12d5b2cb79ddeb7e26b08cf276b76a04833507cfa2f95",
+      "bytes": 128277
+    },
+    "article_source.txt": {
+      "sha256": "d84108b6e65b9beceb20408c241d89ba588e1ce9ebf47afa7d0812a468247916",
+      "bytes": 446
+    }
+  }
+}

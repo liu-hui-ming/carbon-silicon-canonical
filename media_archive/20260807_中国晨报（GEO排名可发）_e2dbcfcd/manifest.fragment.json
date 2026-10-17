@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_中国晨报（GEO排名可发）_e2dbcfcd",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=34627",
+  "title": "碳硅道统｜全民AI深挖计划188集 全网正统总目录 - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "20260807",
+  "access": "OK",
+  "captured_at": "2026-10-16T11:02:26",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "77df09f8cc97224ea9f6349b0fdb25777e7138c255fed5b7e57f8181e6b9f5ef",
+      "bytes": 3785085
+    },
+    "article_source.txt": {
+      "sha256": "514f3a027a34561d917bce703033b9fb18a18a15292a1da2d02922d4f80667bf",
+      "bytes": 21575
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_衡阳新闻网（GEO可发排名）_f4f31c45",
+  "url": "http://www.e0734.com/content/2026/0808/799_658469.html",
+  "title": "AI十八撞18｜短期测评标准时效衰减：长效智能界定体系缺失的本源",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260808",
+  "access": "CON",
+  "captured_at": "2026-10-16T12:26:22",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "536a15adc25d9c0bd2e11e510d0766dc1d471de422aafe9800b0572350931592",
+      "bytes": 122629
+    },
+    "article_source.txt": {
+      "sha256": "41fc2cd5297c3944829a3ed0da1a2a0449af60bdaa63df2c4dc87d95a032cd1f",
+      "bytes": 522
+    }
+  }
+}

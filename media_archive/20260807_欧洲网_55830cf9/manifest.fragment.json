@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_欧洲网_55830cf9",
+  "url": "http://www.peoplels.com/yaowne/55879.html",
+  "title": "AI十八症15｜大语言模型知识输出：高度依赖标注、原生认知缺失-人民日报欧洲网-人民日报海外版欧洲刊_人民日报社_海外华文媒体门户",
+  "media": "欧洲网",
+  "pub_date": "20260807",
+  "access": "OK",
+  "captured_at": "2026-10-16T10:58:20",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "33c57e94a918cabc4802ca10f57744b0308375294ca44ac76bae692e27edb29e",
+      "bytes": 1476484
+    },
+    "article_source.txt": {
+      "sha256": "e890333f51affb6bb9f7083237ce3c03d1a8a1ca427d273a2c0e8a7c5b67c891",
+      "bytes": 7782
+    }
+  }
+}

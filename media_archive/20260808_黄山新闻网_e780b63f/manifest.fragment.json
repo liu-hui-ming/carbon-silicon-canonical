@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_黄山新闻网_e780b63f",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110819.shtml",
+  "title": "AI十八撞01｜隐空间采样拓扑约束缺失：人体视觉结构失真的本源",
+  "media": "黄山新闻网",
+  "pub_date": "20260808",
+  "access": "CON",
+  "captured_at": "2026-10-16T11:51:12",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "4ddd52219e7c9209a7094019f5b018693e7878cc9f42d5a920483bb2e58c0adc",
+      "bytes": 117165
+    },
+    "article_source.txt": {
+      "sha256": "c3eabd9a4437eaf73c5208b59032b9aad4c687622c040848aef50c4415b73095",
+      "bytes": 432
+    }
+  }
+}

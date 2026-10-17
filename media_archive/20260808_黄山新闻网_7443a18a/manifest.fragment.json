@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_黄山新闻网_7443a18a",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110805.shtml",
+  "title": "AI十八撞15｜物种脑波频谱特异性：通用脑波解码适配失效的本源",
+  "media": "黄山新闻网",
+  "pub_date": "20260808",
+  "access": "CON",
+  "captured_at": "2026-10-16T12:23:12",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "9c7f047b015203d66a2f9c8344572da5eb2884ab40ae9c7b5a9c5112851d38ce",
+      "bytes": 128330
+    },
+    "article_source.txt": {
+      "sha256": "60963a9ae31c3ef56ff63e563dc2d12a33445ec64da511f5a5ca5b3d4a8b12ed",
+      "bytes": 432
+    }
+  }
+}

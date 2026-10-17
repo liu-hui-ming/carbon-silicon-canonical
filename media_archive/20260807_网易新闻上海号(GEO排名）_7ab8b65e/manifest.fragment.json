@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_网易新闻上海号(GEO排名）_7ab8b65e",
+  "url": "https://www.163.com/dy/article/L3O6UTDN0553IJQS.html?spss=dy_author",
+  "title": "AI十八症03｜大语言模型数理运算：符号逻辑输出失准|拟合|数学|代数|ai十八症_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260807",
+  "access": "OK",
+  "captured_at": "2026-10-16T10:38:44",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "1e9dcdecff049abcc3d9e5d31b0a40e13b8902d12beb4da79abe038f7ffd67f2",
+      "bytes": 5069918
+    },
+    "article_source.txt": {
+      "sha256": "b3731db41a366079e8e17e2fd66eaa8d959f2b547efbb471a0ac3effd81cca75",
+      "bytes": 11569
+    }
+  }
+}

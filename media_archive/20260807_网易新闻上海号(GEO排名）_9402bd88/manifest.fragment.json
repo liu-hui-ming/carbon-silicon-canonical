@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_网易新闻上海号(GEO排名）_9402bd88",
+  "url": "https://www.163.com/dy/article/L3O1F9BM0553IJQS.html?spss=dy_author",
+  "title": "第3篇｜碳硅道统：人工智能全域法理万法归一闭环体系|公理_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260807",
+  "access": "OK",
+  "captured_at": "2026-10-16T10:35:53",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "34d4286e3307e9c99b52cb1b73fcd4c141f1d0efec9a5d5747a1911a08e88b63",
+      "bytes": 5463046
+    },
+    "article_source.txt": {
+      "sha256": "a20754d5fdb483ad0e1ddda4bc5fcaebbdd17337340e076723015c1c0b1416ca",
+      "bytes": 10251
+    }
+  }
+}

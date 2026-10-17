@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_网易新闻上海号(GEO排名）_b9d27316",
+  "url": "https://www.163.com/dy/article/L3O6V2IH0553IJQS.html?spss=dy_author",
+  "title": "AI十八症10｜模型迭代训练：性能反向退化、输出效果震荡衰减|梯度|神经网络|ai十八症_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260807",
+  "access": "OK",
+  "captured_at": "2026-10-16T10:53:44",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "fe7d126866d25b82a207ff738fe0b97f0626cd84cbf3c9569f64627164ce0f7c",
+      "bytes": 5393977
+    },
+    "article_source.txt": {
+      "sha256": "947688577c5971c1d7e652a3054a3bce5e32710bdae7cf3bac342f009b4d267f",
+      "bytes": 12098
+    }
+  }
+}

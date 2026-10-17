@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_网易商业（GEO）_96d944ef",
+  "url": "http://www.163.com/dy/article/L3QLDB5O0553S12I.html",
+  "title": "AI十八症07｜古文机器翻译：文本通顺、深层语义内涵偏离",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260807",
+  "access": "CON",
+  "captured_at": "2026-10-16T10:45:37",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ba59ee1910e4976d454b9fea1bb0f7fc2e2d38bb2f2293983ecb017c2e31db59",
+      "bytes": 640419
+    },
+    "article_source.txt": {
+      "sha256": "57551029a50b5d9c2c8e966a78e4f348882d998ef76db7bcbfaec9df42108484",
+      "bytes": 18751
+    }
+  }
+}

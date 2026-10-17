@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_黄山新闻网_304d3590",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110808.shtml",
+  "title": "AI十八撞12｜智能主观评估标尺空白：人工评分分布自带偏差的本源",
+  "media": "黄山新闻网",
+  "pub_date": "20260808",
+  "access": "CON",
+  "captured_at": "2026-10-16T12:17:34",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "31a6373408c130fad91ca67d1b5ba64b78d2ef592faff96f71ee697f1ac78bb6",
+      "bytes": 128363
+    },
+    "article_source.txt": {
+      "sha256": "ad89fb6ed1d8b3d9a43f7e9c8d120411615f5c0c59c5ede8927b995d12871e42",
+      "bytes": 435
+    }
+  }
+}

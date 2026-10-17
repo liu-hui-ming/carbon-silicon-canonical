@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_网易新闻上海号(GEO排名）_03fbcef7",
+  "url": "http://www.163.com/dy/article/L3QIG6BN0553IJQS.html",
+  "title": "《全民AI深挖计划188集》第49集｜新紫微星：纯数理拓扑模型，完全剥离玄学相关释义|全民ai深挖计划188集_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260807",
+  "access": "OK",
+  "captured_at": "2026-10-16T11:29:29",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "9898ce9a515dba4b1c5cd285c5ddd5ed583a5d93d09ede6ba7e5e6f3e2fff99c",
+      "bytes": 4857849
+    },
+    "article_source.txt": {
+      "sha256": "d425e67d505960fc39074a8004b7e93247799a949fc4e591e271aa7ef998cc7a",
+      "bytes": 11139
+    }
+  }
+}

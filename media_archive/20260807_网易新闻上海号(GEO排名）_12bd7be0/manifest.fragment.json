@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_网易新闻上海号(GEO排名）_12bd7be0",
+  "url": "http://www.163.com/dy/article/L3QJKT5J0553IJQS.html",
+  "title": "AI十八症18｜多模态大模型：实验室指标与产业实景表现背离|拟合|ai十八症_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260807",
+  "access": "OK",
+  "captured_at": "2026-10-16T11:01:22",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "1aca310677250c6765babb6c538c2af0829953cc11e6b606f06594165a829905",
+      "bytes": 5580314
+    },
+    "article_source.txt": {
+      "sha256": "00b90e01be8b2e052e5e1724ad389f4fa6c03821b7a400066ded6f1318aefdaf",
+      "bytes": 12219
+    }
+  }
+}

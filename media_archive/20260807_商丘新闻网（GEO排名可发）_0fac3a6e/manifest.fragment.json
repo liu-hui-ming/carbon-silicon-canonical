@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_商丘新闻网（GEO排名可发）_0fac3a6e",
+  "url": "https://www.sqxww.com/caijing/301276.html",
+  "title": "碳硅道统｜全民AI深挖计划188集 全网正统总目录",
+  "media": "商丘新闻网（GEO排名可发）",
+  "pub_date": "20260807",
+  "access": "CON",
+  "captured_at": "2026-10-16T11:02:55",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ffd6f6ac849e8bf6f2bad8a60dcebe1f49bf40bcaf36c763e095add710b7f3f2",
+      "bytes": 112483
+    },
+    "article_source.txt": {
+      "sha256": "384259b6cc8dc429206b68d88e5207768682ec9a6273420c685d994c53a108a9",
+      "bytes": 400
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_网易新闻上海号(GEO排名）_00f1822d",
+  "url": "https://www.163.com/dy/article/L3O6UTKN0553IJQS.html?spss=dy_author",
+  "title": "AI十八症07｜古文机器翻译：文本通顺、深层语义内涵偏离|语料|文言|ai十八症_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260807",
+  "access": "OK",
+  "captured_at": "2026-10-16T10:45:19",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "18664054d2af7bae32629fab85a7c6b910e017334e19f5b8387f8c2532b22039",
+      "bytes": 5767726
+    },
+    "article_source.txt": {
+      "sha256": "8823fc6537c4a0f270217f6fb78fd31ef808ef4eb73fc35bd69cdd3bbc7fd8ed",
+      "bytes": 11681
+    }
+  }
+}

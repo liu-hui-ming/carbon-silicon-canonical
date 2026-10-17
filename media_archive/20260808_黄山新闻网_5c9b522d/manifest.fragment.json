@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_黄山新闻网_5c9b522d",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110809.shtml",
+  "title": "AI十八撞11｜微调领域权重锁定：跨场景迁移输出失真的本源",
+  "media": "黄山新闻网",
+  "pub_date": "20260808",
+  "access": "CON",
+  "captured_at": "2026-10-16T12:16:38",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "d578bd7d0dd92de0b134d9918bce34f373e57b42c0342f00cd56ca6060ed069a",
+      "bytes": 128348
+    },
+    "article_source.txt": {
+      "sha256": "02730d82d2fb710d274056d63f34c9af443ed1e0ff9707a8fedc2d3ed277d4f3",
+      "bytes": 426
+    }
+  }
+}

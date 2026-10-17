@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_衡阳新闻网（GEO可发排名）_35275548",
+  "url": "http://www.e0734.com/content/2026/0808/799_658455.html",
+  "title": "AI十八撞04｜无创脑机传输信噪比损耗：深层神经采集存在物理极限的本源",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260808",
+  "access": "CON",
+  "captured_at": "2026-10-16T11:57:00",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "84b453c308c4b6ec100ef4a4a50d354e394caeb4893a28a1845f9cce1a831d03",
+      "bytes": 111533
+    },
+    "article_source.txt": {
+      "sha256": "2839bd55fdd47081f3327e90d58987f0bad85d2566c4d30ceb396bf9fb8453ae",
+      "bytes": 531
+    }
+  }
+}

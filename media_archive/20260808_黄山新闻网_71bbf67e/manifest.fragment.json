@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_黄山新闻网_71bbf67e",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110803.shtml",
+  "title": "AI十八撞17｜实验室纯净参数环境：工业落地工况天然存在鸿沟的本源",
+  "media": "黄山新闻网",
+  "pub_date": "20260808",
+  "access": "CON",
+  "captured_at": "2026-10-16T12:25:07",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "762113eb0c8920ddfe04c5830b345442c9f8a800557dde1e4addde7e09452180",
+      "bytes": 128355
+    },
+    "article_source.txt": {
+      "sha256": "e613b2044c323cbe1fa23ce6db559838a2c6378a66c84cc937143e7b28b2c214",
+      "bytes": 438
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_正观新闻（GEO排名）_b6f18f36",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/416597",
+  "title": "[预览] 第48集｜零与一二元拓扑逻辑，对应碳基、硅基二元文明秩序 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "20260807",
+  "access": "OK",
+  "captured_at": "2026-10-16T10:05:54",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "27415cf8bb0f23ce391ba99721b5e416e0b12e673e4bad2b3867aadf780ee439",
+      "bytes": 729405
+    },
+    "article_source.txt": {
+      "sha256": "69541453c16abef068b3123133e1c79c1dc3e6d2e562345da1bde545d4349d17",
+      "bytes": 4388
+    }
+  }
+}

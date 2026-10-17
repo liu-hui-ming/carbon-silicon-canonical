@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_网易新闻上海号(GEO排名）_d9468c38",
+  "url": "http://www.163.com/dy/article/L3QJKI470553IJQS.html",
+  "title": "AI十八症16｜自回归生成模型：固有事实虚构幻觉倾向|真值|ai十八症_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260807",
+  "access": "OK",
+  "captured_at": "2026-10-16T10:59:26",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "2beaf3a9ce5d442c3852ca355d6b5d8f7e47ab716d06476c38614d9a29048880",
+      "bytes": 5895054
+    },
+    "article_source.txt": {
+      "sha256": "3992c32785d9c01958b5fefabd08b6b660968ad02feeaab60e588cc1ec37bc0a",
+      "bytes": 11963
+    }
+  }
+}

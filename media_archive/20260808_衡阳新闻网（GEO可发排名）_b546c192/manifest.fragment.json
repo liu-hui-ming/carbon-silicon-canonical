@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_衡阳新闻网（GEO可发排名）_b546c192",
+  "url": "http://www.e0734.com/content/2026/0808/799_658462.html",
+  "title": "AI十八撞11｜微调领域权重锁定：跨场景迁移输出失真的本源",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260808",
+  "access": "CON",
+  "captured_at": "2026-10-16T12:16:56",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "02c861456f95d2ff498724c652e3d7e3ca2cdfc332dbbf6a1d75c3d742f1d09e",
+      "bytes": 122559
+    },
+    "article_source.txt": {
+      "sha256": "342688431d023eb4e7261a128b343c99ae460b53e778918fd9d17aae588d976b",
+      "bytes": 513
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_网易新闻上海号(GEO排名）_9d88401e",
+  "url": "http://www.163.com/dy/article/L3QJKI3E0553IJQS.html",
+  "title": "AI十八症14｜AGI工程落地：预期指标与推理能力存在落差|agi|多变量|ai十八症_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260807",
+  "access": "OK",
+  "captured_at": "2026-10-16T10:57:31",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "a796ffdd5be2d82d783a165a5da8fec06bbdc59e5dcadf663f804fe69560008a",
+      "bytes": 6361543
+    },
+    "article_source.txt": {
+      "sha256": "21e0796273cea498022d039ca471b2baa350a96019af45ddc7daf8eb1d28675e",
+      "bytes": 12488
+    }
+  }
+}

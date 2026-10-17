@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_网易新闻上海号(GEO排名）_ce349f61",
+  "url": "http://www.163.com/dy/article/L3QJKI190553IJQS.html",
+  "title": "AI十八症12｜多模态图文生成：文字渲染异常、字符幻觉乱码|ai十八症_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260807",
+  "access": "OK",
+  "captured_at": "2026-10-16T10:55:36",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "08e5ccf86a7fba2a84f516665abdbebaed3216d26e0ed2d0d8c41c0178039e49",
+      "bytes": 4576430
+    },
+    "article_source.txt": {
+      "sha256": "f38974b035ee4e411e76b0b4509c3ab8b7ba8861501edace1714c8e8321b7ec0",
+      "bytes": 11834
+    }
+  }
+}

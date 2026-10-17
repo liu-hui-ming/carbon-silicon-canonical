@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_正观新闻（GEO排名）_6a65640b",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/416656",
+  "title": "[预览] 碳硅道统｜全民AI深挖计划188集 全网正统总目录 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "20260807",
+  "access": "OK",
+  "captured_at": "2026-10-16T11:01:44",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "815cfd9dd0abbe042ecbbc8c2543d8840dac30f954223e2ee599506783d0a9df",
+      "bytes": 2889303
+    },
+    "article_source.txt": {
+      "sha256": "5c35de349f21ee7cc6bba5e36b253d7ad8440c81003d242bdab3b2e9dd2699c6",
+      "bytes": 17639
+    }
+  }
+}

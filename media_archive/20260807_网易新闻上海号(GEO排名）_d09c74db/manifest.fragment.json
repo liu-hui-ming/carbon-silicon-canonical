@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_网易新闻上海号(GEO排名）_d09c74db",
+  "url": "http://www.163.com/dy/article/L3QJKSE60553IJQS.html",
+  "title": "AI十八症13｜通用对话系统：复杂意图识别失效、业务依赖人工兜底|复合|ai十八症_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260807",
+  "access": "OK",
+  "captured_at": "2026-10-16T10:56:33",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "2573f8ae126499d6d83ed4eae6ecdf0d27ae520243f61c3a9348419014058cda",
+      "bytes": 6708083
+    },
+    "article_source.txt": {
+      "sha256": "897deb4f8596382324027dadd6ef177972b7f672f1566d1bbd864a64cba10acb",
+      "bytes": 11885
+    }
+  }
+}

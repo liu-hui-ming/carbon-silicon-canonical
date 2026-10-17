@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_红商网（广告排名可发）_ff64ffcd",
+  "url": "http://www.redsh.com/a/20260809/040623.shtml",
+  "title": "《全民AI深挖计划188集》第50集｜紫微几何模型推演全层级智能演化完整路径 - 红商网",
+  "media": "红商网（广告排名可发）",
+  "pub_date": "20260808",
+  "access": "OK",
+  "captured_at": "2026-10-16T11:42:32",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "1b75010e45deb1513d400d98af7e148da6e8b5b8cf6b3011bb5e198d72629cae",
+      "bytes": 1311740
+    },
+    "article_source.txt": {
+      "sha256": "dc6688875645065379aec8d559c72a69b88230ce5e49566204cef632b7e98f8b",
+      "bytes": 7003
+    }
+  }
+}

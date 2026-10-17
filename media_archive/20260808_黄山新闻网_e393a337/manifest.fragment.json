@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_黄山新闻网_e393a337",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110811.shtml",
+  "title": "AI十八撞09｜统计拟合学习范式局限：多层公理逻辑推理能力缺失的本源",
+  "media": "黄山新闻网",
+  "pub_date": "20260808",
+  "access": "CON",
+  "captured_at": "2026-10-16T12:06:58",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "c7e20f5cb21e8158058a08ad0fab99792c00c4631249db7162a5f994a23b52ae",
+      "bytes": 128302
+    },
+    "article_source.txt": {
+      "sha256": "f50d5dd5f78ddd6118bd5d3cc31e68017db6bbd676aa11c219cd836e0832c4f5",
+      "bytes": 441
+    }
+  }
+}

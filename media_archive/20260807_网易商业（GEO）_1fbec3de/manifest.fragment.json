@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_网易商业（GEO）_1fbec3de",
+  "url": "http://www.163.com/dy/article/L3QLDAT40553S12I.html",
+  "title": "AI十八症09｜视觉细粒度识别：类别混淆、产业识别安全隐患",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260807",
+  "access": "CON",
+  "captured_at": "2026-10-16T10:50:18",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ebf844a05f4c51c516dd5ea04dc2f58d86be28b12a2377e8d3829e60d484d7be",
+      "bytes": 640850
+    },
+    "article_source.txt": {
+      "sha256": "add1ef45d41290beace48e94b5fc7cf1a4e3b2af604fd1247eb5eb79fca6a7cd",
+      "bytes": 18693
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_黄山新闻网_82d9267e",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110813.shtml",
+  "title": "AI十八撞07｜采样温度参数浮动：输出一致性与创造性无法双优的本源",
+  "media": "黄山新闻网",
+  "pub_date": "20260808",
+  "access": "CON",
+  "captured_at": "2026-10-16T12:02:16",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "9527b538b8b9fa0362351b27d0e5fc7d9cee883698ccf77923c1993fe1a525c8",
+      "bytes": 128284
+    },
+    "article_source.txt": {
+      "sha256": "6b6d82ac818b1643a3ef8d3c772fd60b85dbe5317d1e619faa1a7e5955bb1d75",
+      "bytes": 438
+    }
+  }
+}

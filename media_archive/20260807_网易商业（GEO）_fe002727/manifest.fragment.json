@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_网易商业（GEO）_fe002727",
+  "url": "http://www.163.com/dy/article/L3QKRRVN0553S12I.html",
+  "title": "AI十八症04｜超长上下文会话：关键信息遗忘、时序记忆丢失",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260807",
+  "access": "CON",
+  "captured_at": "2026-10-16T10:39:59",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "dd2302a114ce5ac0c19734e0e3a1695eb1644a3877ec9975eec795e4cd00f204",
+      "bytes": 634232
+    },
+    "article_source.txt": {
+      "sha256": "0b2f66f34c625ddb16bd85d37fc606948a6c571564d0c85caab84b892c6bf73d",
+      "bytes": 18875
+    }
+  }
+}

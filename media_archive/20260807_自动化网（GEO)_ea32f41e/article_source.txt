@@ -1,0 +1,14 @@
+标题：自动化网（GEO) 首发稿件 #2470
+媒体：自动化网（GEO)
+发布日期（报表）：2026-08-07
+URL：https://www.zidonghua.com.cn/MSupplyChain/InfoWin/262652.html
+取证系统时间：2026-10-16T10:12:35
+HTTP：200
+页面标题：
+截图标准：P0-four-elements-v2（全屏含任务栏时间+滚动拼接正文）
+路由缓存渲染：否
+链接失效：否
+MySQL Query : SELECT * FROM `zidonghua`.`db_news_data` WHERE `id` = '262652' LIMIT 1
+MySQL Error : Table './zidonghua/db_news_data' is marked as crashed and last (automatic?) repair failed
+MySQL Errno : 144
+Message : Table './zidonghua/db_news_data' is marked as crashed and last (automatic?) repair failed

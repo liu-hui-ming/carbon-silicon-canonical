@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_网易新闻上海号(GEO排名）_f85d150d",
+  "url": "https://www.163.com/dy/article/L3O6V1200553IJQS.html?spss=dy_author",
+  "title": "AI十八症09｜视觉细粒度识别：类别混淆、产业识别安全隐患|拟合|ai十八症_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260807",
+  "access": "OK",
+  "captured_at": "2026-10-16T10:49:59",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ca772edf8e6811f235153c88279eb52d69df1e316a9550856f9261be79214436",
+      "bytes": 6524706
+    },
+    "article_source.txt": {
+      "sha256": "1c7dc9468c1fb9768385d95c8a9b3484ea05a62e88b5e95568791676813c5b0c",
+      "bytes": 12100
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_欧洲网_b23a6498",
+  "url": "http://www.peoplels.com/yaowne/55877.html",
+  "title": "AI十八症13｜通用对话系统：复杂意图识别失效、业务依赖人工兜底-人民日报欧洲网-人民日报海外版欧洲刊_人民日报社_海外华文媒体门户",
+  "media": "欧洲网",
+  "pub_date": "20260807",
+  "access": "OK",
+  "captured_at": "2026-10-16T10:56:25",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "cf4e8c7a32fbe64cf9f609dd2cfded25067874b4585b43ce708bc62e3329cefb",
+      "bytes": 1495051
+    },
+    "article_source.txt": {
+      "sha256": "53a3345746150e141885e3f2bf6f154e8b77edd6b1a1a21f2976b27aa61a9239",
+      "bytes": 7851
+    }
+  }
+}

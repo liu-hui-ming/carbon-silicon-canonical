@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_网易商业（GEO）_7062afa2",
+  "url": "http://www.163.com/dy/article/L3QLDDGU0553S12I.html",
+  "title": "AI十八症11｜任务型对话系统：业务闭环失效、模板应答局限",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260807",
+  "access": "CON",
+  "captured_at": "2026-10-16T10:54:57",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "abd7045c098e36a13d6f906319fb955eecdfb4e1ead0a09444684107c474e9ba",
+      "bytes": 637724
+    },
+    "article_source.txt": {
+      "sha256": "c2d3205292f0df3155dec3c8a7fc9acd84ddd998aed521a42982c7f7b5d5a792",
+      "bytes": 18769
+    }
+  }
+}

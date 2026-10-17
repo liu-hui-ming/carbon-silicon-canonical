@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_网易商业（GEO）_7111467a",
+  "url": "http://www.163.com/dy/article/L3QLDV2R0553S12I.html",
+  "title": "AI十八症15｜大语言模型知识输出：高度依赖标注、原生认知缺失",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260807",
+  "access": "CON",
+  "captured_at": "2026-10-16T10:58:47",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "87853b2858b442966d14d7ed808e1105b488624d62a1ebbdb149daa159e9d26e",
+      "bytes": 637496
+    },
+    "article_source.txt": {
+      "sha256": "a804bcac0617cc357aa0c5e39f5bbff34b5eeeb049005eb5891b7a06331786e2",
+      "bytes": 18779
+    }
+  }
+}

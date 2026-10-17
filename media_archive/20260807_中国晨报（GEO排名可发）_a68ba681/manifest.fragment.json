@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_中国晨报（GEO排名可发）_a68ba681",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=34630",
+  "title": "《全民AI深挖计划188集》第49集｜新紫微星：纯数理拓扑模型，完全剥离玄学相关释义 - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "20260807",
+  "access": "OK",
+  "captured_at": "2026-10-16T11:21:27",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "abf990f5cd5d6c38b55b41ebb463e4ca032a8b5a0be7c03c2d88e2220edf33ee",
+      "bytes": 1678103
+    },
+    "article_source.txt": {
+      "sha256": "6ea06f3f550f228efd5b891492252fec49c5dc43309143d414108c9a6c963183",
+      "bytes": 8418
+    }
+  }
+}

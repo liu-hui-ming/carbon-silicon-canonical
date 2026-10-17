@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_网易商业（GEO）_a159e243",
+  "url": "http://www.163.com/dy/article/L3QLDB4F0553S12I.html",
+  "title": "AI十八症08｜地理场景生成模型：空间比例失衡、地理逻辑错乱",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260807",
+  "access": "CON",
+  "captured_at": "2026-10-16T10:46:34",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "f34cb295a6713f6a422835dc7796abc091f88858650f5cde0176bd57c5e7e092",
+      "bytes": 639412
+    },
+    "article_source.txt": {
+      "sha256": "127365bf53c815dcb21d0f43948c7c47a90cab29ad42d23e327a78d50aa5de32",
+      "bytes": 18794
+    }
+  }
+}

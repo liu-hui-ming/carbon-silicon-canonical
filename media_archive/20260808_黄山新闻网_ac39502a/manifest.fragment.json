@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_黄山新闻网_ac39502a",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110806.shtml",
+  "title": "AI十八撞14｜大模型架构内禀熵增：缺陷优化存在不可突破下限的本源",
+  "media": "黄山新闻网",
+  "pub_date": "20260808",
+  "access": "CON",
+  "captured_at": "2026-10-16T12:22:15",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "7a25f150d917e0453f56ac43fab2894ed58b18a1f9d715c8ebe9c9324ac72aad",
+      "bytes": 128352
+    },
+    "article_source.txt": {
+      "sha256": "84fbfd9dcdf92591913723df2402fc5d1d39c58066de7ba67651e781ef9118ae",
+      "bytes": 438
+    }
+  }
+}

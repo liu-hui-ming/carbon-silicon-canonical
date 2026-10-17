@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_黄山新闻网_3e47938f",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110816.shtml",
+  "title": "AI十八撞04｜无创脑机传输信噪比损耗：深层神经采集存在物理极限的本源",
+  "media": "黄山新闻网",
+  "pub_date": "20260808",
+  "access": "CON",
+  "captured_at": "2026-10-16T11:56:42",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "d0b43365627a24e76bc69fae4878950e90ca0964e606e05a18f7517bec0874c7",
+      "bytes": 117162
+    },
+    "article_source.txt": {
+      "sha256": "bd58fcf3cc5e381a612219523a3edb37ddab5c8bb34874bb6d81f742c641f750",
+      "bytes": 444
+    }
+  }
+}

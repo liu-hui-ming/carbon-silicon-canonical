@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_网易商业（GEO）_156d9012",
+  "url": "http://www.163.com/dy/article/L3QLVKG10553S12I.html",
+  "title": "AI十八症18｜多模态大模型：实验室指标与产业实景表现背离",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260807",
+  "access": "CON",
+  "captured_at": "2026-10-16T11:01:40",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "399b165fb8374fc8c99bbadb503f5c7f7e3f0285b2b85c2c16131fecf4159b6b",
+      "bytes": 637337
+    },
+    "article_source.txt": {
+      "sha256": "68cc9647f0f68cf09242b224eaa98347559bd40c138f1adf48000e636bcabb0b",
+      "bytes": 18580
+    }
+  }
+}

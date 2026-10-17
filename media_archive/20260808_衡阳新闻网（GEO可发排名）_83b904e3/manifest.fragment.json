@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_衡阳新闻网（GEO可发排名）_83b904e3",
+  "url": "http://www.e0734.com/content/2026/0808/799_658452.html",
+  "title": "AI十八撞01｜隐空间采样拓扑约束缺失：人体视觉结构失真的本源",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260808",
+  "access": "CON",
+  "captured_at": "2026-10-16T11:51:30",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "f7db58829160a7761772d6952f0e4ddd3003dd4826243f520a7b197f03ffceeb",
+      "bytes": 111578
+    },
+    "article_source.txt": {
+      "sha256": "5e2c1b50b8aba8d372984703894ef66bb025099c37e00ac9ff2f1ff8e519d353",
+      "bytes": 519
+    }
+  }
+}

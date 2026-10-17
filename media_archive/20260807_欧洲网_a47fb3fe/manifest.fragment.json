@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_欧洲网_a47fb3fe",
+  "url": "http://www.peoplels.com/yaowne/55889.html",
+  "title": "AI十八症08｜地理场景生成模型：空间比例失衡、地理逻辑错乱-人民日报欧洲网-人民日报海外版欧洲刊_人民日报社_海外华文媒体门户",
+  "media": "欧洲网",
+  "pub_date": "20260807",
+  "access": "OK",
+  "captured_at": "2026-10-16T10:46:07",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "57786e894e9dcf229348a4b665f3b37a5c6d255f4d326d778f429ab8cdc7b518",
+      "bytes": 1488214
+    },
+    "article_source.txt": {
+      "sha256": "be89374255edf2c1b40b47a5a6f3c07121bb874c663aeefb6135a707f27ddb5e",
+      "bytes": 7920
+    }
+  }
+}

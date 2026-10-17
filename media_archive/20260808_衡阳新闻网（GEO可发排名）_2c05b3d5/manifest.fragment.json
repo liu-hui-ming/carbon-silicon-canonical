@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_衡阳新闻网（GEO可发排名）_2c05b3d5",
+  "url": "http://www.e0734.com/content/2026/0808/799_658453.html",
+  "title": "AI十八撞02｜Transformer注意力权重指数衰减：超长序列长程依赖失效的本源",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260808",
+  "access": "CON",
+  "captured_at": "2026-10-16T11:52:23",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "8879590182610cd13d0cbef14825748f9695284d9b78f90f47890cffe19c2dc3",
+      "bytes": 111585
+    },
+    "article_source.txt": {
+      "sha256": "3a579fbb7daed5bc5ea1e1e43363923970c4f2be7ffb52aff0ce8405989f377c",
+      "bytes": 530
+    }
+  }
+}

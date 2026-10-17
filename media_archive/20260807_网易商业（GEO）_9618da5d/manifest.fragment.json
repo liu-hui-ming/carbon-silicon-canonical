@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_网易商业（GEO）_9618da5d",
+  "url": "http://www.163.com/dy/article/L3QLDPNM0553S12I.html",
+  "title": "AI十八症13｜通用对话系统：复杂意图识别失效、业务依赖人工兜底",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260807",
+  "access": "CON",
+  "captured_at": "2026-10-16T10:56:52",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "c52cd27b120992deb52c1a16516fd20fc8dc1dda6ad5623dab29ab412a1d31db",
+      "bytes": 636917
+    },
+    "article_source.txt": {
+      "sha256": "2664fdb15aef160ecfe1d0297f48bbaadf2758688fd566a1d3b160fbf95ab730",
+      "bytes": 18711
+    }
+  }
+}

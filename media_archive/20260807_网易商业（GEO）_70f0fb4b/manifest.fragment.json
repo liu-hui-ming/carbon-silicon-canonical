@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_网易商业（GEO）_70f0fb4b",
+  "url": "http://www.163.com/dy/article/L3QLDC4Q0553S12I.html",
+  "title": "AI十八症16｜自回归生成模型：固有事实虚构幻觉倾向",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260807",
+  "access": "CON",
+  "captured_at": "2026-10-16T10:59:45",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "b2d4c11b5e3e6d02d148e11c01550e54f12c8b28709c551cf6272d4eab2bdbae",
+      "bytes": 637379
+    },
+    "article_source.txt": {
+      "sha256": "e41d1dc6108f0abc116f508c03f4783b03e6591664c237841a8eaa29d2090820",
+      "bytes": 18762
+    }
+  }
+}

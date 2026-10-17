@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_网易商业（GEO）_246df3d7",
+  "url": "http://www.163.com/dy/article/L3QLDQCI0553S12I.html",
+  "title": "AI十八症12｜多模态图文生成：文字渲染异常、字符幻觉乱码",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260807",
+  "access": "CON",
+  "captured_at": "2026-10-16T10:55:55",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "035f6329ad87bdc8801b8542eeb80254a20102ef3eb9c8c15499ecb4e3d60ecd",
+      "bytes": 637995
+    },
+    "article_source.txt": {
+      "sha256": "cd6f2237dc55d72417dc5e7e7ff92d8a94bb536bbad3945d393e75b80cf102b2",
+      "bytes": 18769
+    }
+  }
+}

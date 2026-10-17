@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_欧洲网_efacac66",
+  "url": "http://www.peoplels.com/yaowne/55880.html",
+  "title": "AI十八症16｜自回归生成模型：固有事实虚构幻觉倾向-人民日报欧洲网-人民日报海外版欧洲刊_人民日报社_海外华文媒体门户",
+  "media": "欧洲网",
+  "pub_date": "20260807",
+  "access": "OK",
+  "captured_at": "2026-10-16T10:59:18",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "a16a3ae14f5ae2cc2522c77c057df6979a05b4deb88d7bf5a31a6703c7e466b3",
+      "bytes": 1469791
+    },
+    "article_source.txt": {
+      "sha256": "c9fa3d49e136fce0f98b08019ba171b94e62e0d04e29a193a758947ee5f03e64",
+      "bytes": 7899
+    }
+  }
+}

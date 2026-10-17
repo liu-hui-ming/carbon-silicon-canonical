@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_网易商业（GEO）_a0435448",
+  "url": "http://www.163.com/dy/article/L3QLDC960553S12I.html",
+  "title": "AI十八症10｜模型迭代训练：性能反向退化、输出效果震荡衰减",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260807",
+  "access": "CON",
+  "captured_at": "2026-10-16T10:54:02",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "c04ba3cbbe860d216920a6673c1292706561bc3302e3c6f66832d9fd1bb60ecb",
+      "bytes": 638478
+    },
+    "article_source.txt": {
+      "sha256": "56af6e81761bd1f21f40c5531b0fa12a353ca19bd82dc87b0769a2cf6b81ba23",
+      "bytes": 18842
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_网易新闻上海号(GEO排名）_f8ba41f1",
+  "url": "https://www.163.com/dy/article/L3O6VBIE0553IJQS.html?spss=dy_author",
+  "title": "AI十八症08｜地理场景生成模型：空间比例失衡、地理逻辑错乱|尺度|拟合|模态|水文|ai十八症_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260807",
+  "access": "OK",
+  "captured_at": "2026-10-16T10:46:15",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "32e6adbdf73aa140c1be7b4eb81bdcdcaf7eb4e5e95fc840f5dc71e6f8b62ffa",
+      "bytes": 6652280
+    },
+    "article_source.txt": {
+      "sha256": "5e658bb661f8a0cecfc931279a6eed433bdf96b4c59d11667f01a49abae3cadb",
+      "bytes": 12141
+    }
+  }
+}

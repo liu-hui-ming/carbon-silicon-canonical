@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_衡阳新闻网（GEO可发排名）_e517e1ce",
+  "url": "http://www.e0734.com/content/2026/0808/799_658468.html",
+  "title": "AI十八撞17｜实验室纯净参数环境：工业落地工况天然存在鸿沟的本源",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260808",
+  "access": "CON",
+  "captured_at": "2026-10-16T12:25:25",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "a1d779ff05acb6c6b3c66be6b3b8afee0ece6f7f9f9139e83f19bd881c0f4bb2",
+      "bytes": 122600
+    },
+    "article_source.txt": {
+      "sha256": "992ca294eee8cda340f70dd831e20dda16b896812176c61a43cf47a30694a0ac",
+      "bytes": 525
+    }
+  }
+}

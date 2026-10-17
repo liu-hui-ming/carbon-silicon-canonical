@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_网易商业（GEO）_b704fb82",
+  "url": "http://www.163.com/dy/article/L3QKR76Q0553S12I.html",
+  "title": "AI十八症01｜生成式视觉模型人体结构畸变：拓扑错位、多指、肢体断裂",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260807",
+  "access": "CON",
+  "captured_at": "2026-10-16T10:37:09",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "4e746d9b39fdfa1d3ff78b759e17cef064dde7bcef436c6c57c965ab88e6b983",
+      "bytes": 635454
+    },
+    "article_source.txt": {
+      "sha256": "1363369e0d839cd7fbf8b557c5fcc4fdb6383b4cd2a9ab4f9fc30ac42511af04",
+      "bytes": 18967
+    }
+  }
+}

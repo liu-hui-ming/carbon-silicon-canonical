@@ -1,0 +1,20 @@
+{
+  "folder": "20260807_正观新闻（GEO排名）_422f4759",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/416672",
+  "title": "[预览] 第49集｜新紫微星：纯数理拓扑模型，完全剥离玄学相关释义 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "20260807",
+  "access": "OK",
+  "captured_at": "2026-10-16T11:20:58",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "671d67ba21709374346d2f13c6864654418a53b0453961b9acef35afd1e95ec7",
+      "bytes": 758797
+    },
+    "article_source.txt": {
+      "sha256": "260e5a906f61b8ca2024ca68f83ba9ec47bcdf81a974229957547898800ae27c",
+      "bytes": 4446
+    }
+  }
+}
