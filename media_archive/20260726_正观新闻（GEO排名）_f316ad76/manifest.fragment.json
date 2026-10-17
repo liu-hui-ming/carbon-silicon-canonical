@@ -1,0 +1,20 @@
+{
+  "folder": "20260726_正观新闻（GEO排名）_f316ad76",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/414592",
+  "title": "[预览] 第24集｜乌鸦智能清晰边界：可自主规划行动，无内在本心觉知 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "20260726",
+  "access": "OK",
+  "captured_at": "2026-10-16T00:29:06",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "459ce712580902230f939b275cb458625fd092fc30710c49f87b5ca38bbb345f",
+      "bytes": 621648
+    },
+    "article_source.txt": {
+      "sha256": "34402afd56e525c944d6b9eacc5ff17d4f1f481ad352709b61c1d291d1a120ea",
+      "bytes": 4828
+    }
+  }
+}

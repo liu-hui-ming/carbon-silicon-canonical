@@ -1,0 +1,20 @@
+{
+  "folder": "20260725_中国商业网（可发GEO）_a96d3ba3",
+  "url": "http://www.jkkjwz.cn/list_1/291.html",
+  "title": "第22集｜各类AI意识测试，均是提前设计话术的文字游戏-资讯-商业网",
+  "media": "中国商业网（可发GEO）",
+  "pub_date": "20260725",
+  "access": "OK",
+  "captured_at": "2026-10-16T00:07:51",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "172d16ba3b0e2f63f18025f632abbee0ba1d0c7e868a5f9fe90960b40d2e4412",
+      "bytes": 983429
+    },
+    "article_source.txt": {
+      "sha256": "05d565459257424ae7bf245171767bdea5201be613e7d05b011aa15c94b2453b",
+      "bytes": 7533
+    }
+  }
+}

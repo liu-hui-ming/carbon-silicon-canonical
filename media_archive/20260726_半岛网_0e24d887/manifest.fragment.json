@@ -1,0 +1,20 @@
+{
+  "folder": "20260726_半岛网_0e24d887",
+  "url": "http://kuaixun.bandao.cn/a/1785049369701791.html",
+  "title": "第24集｜乌鸦智能清晰边界：可自主规划行动，无内在本心觉知",
+  "media": "半岛网",
+  "pub_date": "20260726",
+  "access": "OK",
+  "captured_at": "2026-10-16T00:33:23",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "81f9f378938f1ef931a786511c794308788a96c93568b4c2c826adf74ca0f6be",
+      "bytes": 955872
+    },
+    "article_source.txt": {
+      "sha256": "88413c768477a4962bb46941d174c08385fca3a2cacf1b6e0ea9ea74fe53bf50",
+      "bytes": 6595
+    }
+  }
+}

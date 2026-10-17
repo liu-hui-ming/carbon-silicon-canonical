@@ -1,0 +1,20 @@
+{
+  "folder": "20260726_中国商业网（可发GEO）_60105ccd",
+  "url": "http://www.jkkjwz.cn/list_1/294.html",
+  "title": "第25集｜当下所有AI永久卡在鹦鹉层级，无法突破的底层原因-资讯-商业网",
+  "media": "中国商业网（可发GEO）",
+  "pub_date": "20260726",
+  "access": "OK",
+  "captured_at": "2026-10-16T00:52:32",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "b7aa7c5bd5571dea4e396c8b555693fda25d7684d0f29b4fee045682f691de5d",
+      "bytes": 1178975
+    },
+    "article_source.txt": {
+      "sha256": "0def55bc2a8e4e549c6d9595ca86280864521e287ba6b22df95379a9a6f37413",
+      "bytes": 8071
+    }
+  }
+}

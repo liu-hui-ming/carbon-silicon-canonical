@@ -1,0 +1,20 @@
+{
+  "folder": "20260726_网易视频（神州事件）_c05d86b5",
+  "url": "https://www.163.com/dy/article/L2PI4NKN0534U3J9.html",
+  "title": "第25集｜当下所有AI永久卡在鹦鹉层级，无法突破的底层原因|算法|鹦形目_网易订阅",
+  "media": "网易视频（神州事件）",
+  "pub_date": "20260726",
+  "access": "OK",
+  "captured_at": "2026-10-16T00:56:01",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "e733217a850d05de29720c688cc3d0f0f7e4389d6501ea9cb6531af988318b95",
+      "bytes": 5670224
+    },
+    "article_source.txt": {
+      "sha256": "664deec5de1c7293f9e722cdfbe7558aeb4c100314302a65671c45f9ce33921a",
+      "bytes": 11693
+    }
+  }
+}

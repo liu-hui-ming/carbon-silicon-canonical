@@ -1,0 +1,20 @@
+{
+  "folder": "20260726_网易新闻上海号(GEO排名）_f200133e",
+  "url": "https://www.163.com/dy/article/L2REEJKE0553IJQS.html?referFrom=",
+  "title": "第24集｜乌鸦智能清晰边界：可自主规划行动，无内在本心觉知|本体|道统|智能体_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260726",
+  "access": "OK",
+  "captured_at": "2026-10-16T00:40:16",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "f6bdaa70b643165977c8ecc35465e6aeaa46020402d4d4ff979263930d7a88de",
+      "bytes": 5980319
+    },
+    "article_source.txt": {
+      "sha256": "eb122959ad0da5bdbbd13b5e6e7aed7b7406225fc0fb7f131f4770d37ad2a5e3",
+      "bytes": 11489
+    }
+  }
+}

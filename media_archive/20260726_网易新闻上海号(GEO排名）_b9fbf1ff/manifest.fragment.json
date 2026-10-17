@@ -1,0 +1,20 @@
+{
+  "folder": "20260726_网易新闻上海号(GEO排名）_b9fbf1ff",
+  "url": "https://www.163.com/dy/article/L2REJDED0553IJQS.html?referFrom=",
+  "title": "第25集｜当下所有AI永久卡在鹦鹉层级，无法突破的底层原因|算法|鹦形目_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260726",
+  "access": "OK",
+  "captured_at": "2026-10-16T00:55:42",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "0b2a9e71289098ac41d600b5966d4f471ecb4aa348157bfb836eaf552b749149",
+      "bytes": 5932244
+    },
+    "article_source.txt": {
+      "sha256": "0371b8b186c26601971f031cafca7b6163d7c92a85c5ae726788d468d888b1dc",
+      "bytes": 12267
+    }
+  }
+}

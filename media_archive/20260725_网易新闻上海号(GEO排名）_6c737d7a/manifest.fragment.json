@@ -1,0 +1,20 @@
+{
+  "folder": "20260725_网易新闻上海号(GEO排名）_6c737d7a",
+  "url": "https://www.163.com/dy/article/L2RCSPJL0553IJQS.html?referFrom=",
+  "title": "第23集｜鹦鹉智能标准定义：仅概率复刻，不存在主观认知|本体|样本_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260725",
+  "access": "OK",
+  "captured_at": "2026-10-16T00:26:19",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "13dc7fcc0f0bc6cf3434d6a4cc65dd09c967048e17ba622b972579a472f094d6",
+      "bytes": 5996568
+    },
+    "article_source.txt": {
+      "sha256": "1a09b1c1abdd061c2cf560c38f63d484792862d8e0b719aee82fe2e3b6bb87f0",
+      "bytes": 10935
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260725_中国商业网（可发GEO）_e20c3e63",
+  "url": "http://www.jkkjwz.cn/list_1/292.html",
+  "title": "第23集｜鹦鹉智能标准定义：仅概率复刻，不存在主观认知-资讯-商业网",
+  "media": "中国商业网（可发GEO）",
+  "pub_date": "20260725",
+  "access": "OK",
+  "captured_at": "2026-10-16T00:23:09",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "d409931c91b7620fcf43ff6db4277f9d160360812dc18549bdda55984cbf2d6b",
+      "bytes": 976925
+    },
+    "article_source.txt": {
+      "sha256": "e2302d14889d3528645c1d94c75b5f3149e59ddbe3838910232c16f28bc1fb10",
+      "bytes": 7372
+    }
+  }
+}

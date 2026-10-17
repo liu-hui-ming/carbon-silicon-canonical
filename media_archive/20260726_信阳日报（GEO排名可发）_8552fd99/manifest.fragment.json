@@ -1,0 +1,20 @@
+{
+  "folder": "20260726_信阳日报（GEO排名可发）_8552fd99",
+  "url": "https://ribao.xyxww.com.cn/html/2026-07/27/2077243.html",
+  "title": "第24集｜乌鸦智能清晰边界：可自主规划行动，无内在本心觉知_第46版_信阳日报数字报刊",
+  "media": "信阳日报（GEO排名可发）",
+  "pub_date": "20260726",
+  "access": "OK",
+  "captured_at": "2026-10-16T00:29:24",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "96cb7b4e5e3888ead9cffd1184e78881e1f61ec1afe9b17987a1c3b5894f7844",
+      "bytes": 923812
+    },
+    "article_source.txt": {
+      "sha256": "5cf67d502eaa3bbd21f5a175762ac8c2a93887932905de545052b698343e40fa",
+      "bytes": 5377
+    }
+  }
+}

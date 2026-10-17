@@ -1,0 +1,20 @@
+{
+  "folder": "20260725_网易新闻上海号(GEO排名）_bc2ba51b",
+  "url": "https://www.163.com/dy/article/L2R93TTS0553IJQS.html?referFrom=",
+  "title": "第22集｜各类AI意识测试，均是提前设计话术的文字游戏|本体|ai意识测试_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260725",
+  "access": "OK",
+  "captured_at": "2026-10-16T00:11:01",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "37a286c180d8f28a2066a50fcc0aecd172479399fa91a9bf9e01bdad2ada5604",
+      "bytes": 6196300
+    },
+    "article_source.txt": {
+      "sha256": "828383c4696632caf314a74e953ae266f0c10c86f7449f62c807e998d97907bc",
+      "bytes": 11517
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260725_网易商业（GEO）_761151f4",
+  "url": "https://www.163.com/dy/article/L2R7JU2E0552XW84.html?referFrom=",
+  "title": "第23集｜鹦鹉智能标准定义：仅概率复刻，不存在主观认知|本体|样本_网易订阅",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260725",
+  "access": "OK",
+  "captured_at": "2026-10-16T00:27:17",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "bdbe68aeeee5ea3b7857d39613a1cdbf1ff54b3134f0ec6075eae73bfeb55b0c",
+      "bytes": 5627667
+    },
+    "article_source.txt": {
+      "sha256": "b1157cb423ebb7468f69952ad30146201c60c1ca9b2a8d15bdd249e438e66585",
+      "bytes": 11328
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260725_青海传媒网（GEO排名）_96c2673f",
+  "url": "http://www.qhcmbdw.com/blog/article/1312",
+  "title": "第22集｜各类AI意识测试，均是提前设计话术的文字游戏 - 青海传媒网",
+  "media": "青海传媒网（GEO排名）",
+  "pub_date": "20260725",
+  "access": "OK",
+  "captured_at": "2026-10-16T00:00:42",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "958d20b84d31b0ad8014e3237bdbb51f0f7ece180242c19a7d5633dd49e07335",
+      "bytes": 729191
+    },
+    "article_source.txt": {
+      "sha256": "7980fa1fca8ca82789ed68c97565715a14c850f909c1dee05c88b87feadb1491",
+      "bytes": 5579
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260726_信阳日报（GEO排名可发）_fc4cffa1",
+  "url": "https://ribao.xyxww.com.cn/html/2026-07/27/2077246.html",
+  "title": "第25集｜当下所有AI永久卡在鹦鹉层级，无法突破的底层原因_第46版_信阳日报数字报刊",
+  "media": "信阳日报（GEO排名可发）",
+  "pub_date": "20260726",
+  "access": "OK",
+  "captured_at": "2026-10-16T00:43:24",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "fe3cc15e385ab5bfebd4c92745f954c1c5dfcea1dd64f15b9ae832e8c4fe8401",
+      "bytes": 1011910
+    },
+    "article_source.txt": {
+      "sha256": "d863b7f522d70cde7d938d51196f972e18b5612d438d31899b295c7ffbefbb62",
+      "bytes": 5581
+    }
+  }
+}

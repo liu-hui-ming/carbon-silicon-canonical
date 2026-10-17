@@ -1,0 +1,20 @@
+{
+  "folder": "20260725_咸宁日报首发_1349483e",
+  "url": "http://www.xnnews.com.cn/zhzx/202607/t20260727_5142931.htm",
+  "title": "502 Bad Gateway",
+  "media": "咸宁日报首发",
+  "pub_date": "20260725",
+  "access": "CON",
+  "captured_at": "2026-10-16T00:12:56",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "cef7ade25e89e13e1bc04bfea71859d1dc4664b284f3271b87d68917ce4b0e11",
+      "bytes": 132212
+    },
+    "article_source.txt": {
+      "sha256": "8a91bb9310f7d765e61afc9041203d061eb7d3bb19feb4801200be12d25a9d50",
+      "bytes": 493
+    }
+  }
+}

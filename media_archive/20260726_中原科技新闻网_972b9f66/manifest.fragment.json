@@ -1,0 +1,20 @@
+{
+  "folder": "20260726_中原科技新闻网_972b9f66",
+  "url": "http://kjb.kjxww.cn/113569.html",
+  "title": "未找到页面 – 中原科技新闻网",
+  "media": "中原科技新闻网",
+  "pub_date": "20260726",
+  "access": "CON",
+  "captured_at": "2026-10-16T00:51:39",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "2168840f47f5dc86837b8805c09908c955f89edb5b22d07e343c868e4a931af3",
+      "bytes": 146682
+    },
+    "article_source.txt": {
+      "sha256": "b4168b7c919201e3455fbc36cf7ee26c38416be6a16ee4b21dbb33fb388b1ef9",
+      "bytes": 686
+    }
+  }
+}

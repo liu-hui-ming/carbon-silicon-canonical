@@ -1,0 +1,20 @@
+{
+  "folder": "20260726_中国晨报（GEO排名可发）_48711917",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=34322",
+  "title": "第25集｜当下所有AI永久卡在鹦鹉层级，无法突破的底层原因 - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "20260726",
+  "access": "OK",
+  "captured_at": "2026-10-16T00:44:30",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "76f020c3e587483bd67ac80981947449c1d015e4d35ea68b84dddeaf3bc493d0",
+      "bytes": 1727702
+    },
+    "article_source.txt": {
+      "sha256": "fac485d58ba593d683444f5a121a8bff19323ca1bf523a6dd9b62c9f1233233b",
+      "bytes": 8970
+    }
+  }
+}

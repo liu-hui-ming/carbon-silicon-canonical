@@ -1,0 +1,20 @@
+{
+  "folder": "20260726_红商网（广告排名可发）_a989d1d3",
+  "url": "http://www.redsh.com/a/20260727/190608.shtml",
+  "title": "第25集｜当下所有AI永久卡在鹦鹉层级，无法突破的底层原因 - 红商网",
+  "media": "红商网（广告排名可发）",
+  "pub_date": "20260726",
+  "access": "OK",
+  "captured_at": "2026-10-16T00:51:44",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "5a95b6c7f06fa0c3d1828aad3817766a45e3569c39f5a7e281bc4aaef1a7edc5",
+      "bytes": 1194503
+    },
+    "article_source.txt": {
+      "sha256": "e00563a09c5b763576b83f84e33c7647a9fe311fa922b08117fc257b8dd40e5e",
+      "bytes": 6630
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260725_中国晨报（GEO排名可发）_87608bbd",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=34312",
+  "title": "第23集｜鹦鹉智能标准定义：仅概率复刻，不存在主观认知 - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "20260725",
+  "access": "OK",
+  "captured_at": "2026-10-16T00:13:28",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "c37679756e3720595e1dc87fb40d66cb6e1d1eb9f46a6ad4ef768d5ee80303e0",
+      "bytes": 1772669
+    },
+    "article_source.txt": {
+      "sha256": "306942eaa280aa1dc1ac1e17a7b3b17b38ef626925d2361c69304c0575f31e05",
+      "bytes": 8182
+    }
+  }
+}

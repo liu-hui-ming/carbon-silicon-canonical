@@ -1,0 +1,20 @@
+{
+  "folder": "20260726_三好大数据网（网易号）_e8852ebe",
+  "url": "https://www.163.com/dy/article/L2REIFP80552XWVG.html?referFrom=",
+  "title": "三好大数据网（网易号） 首发稿件 #1220",
+  "media": "三好大数据网（网易号）",
+  "pub_date": "20260726",
+  "access": "CON",
+  "captured_at": "2026-10-16T00:55:00",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "01ebb8857952e98994abdb4b81fcae3a780482b91a24f5a3dff4a202385f111b",
+      "bytes": 614841
+    },
+    "article_source.txt": {
+      "sha256": "11c77929a630375d7f72cd04e039a71b7fec463c4f815bdfcc688ef378afc82e",
+      "bytes": 18968
+    }
+  }
+}
