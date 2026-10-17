@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_CSDN_53ba8935",
+  "url": "https://www.csdn.net/article/2026-08-27/164117659",
+  "title": "研读碳硅道统体系后续二十问：聚焦工程落地、仿真架构与算力物理边界-CSDN.NET",
+  "media": "CSDN",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T19:11:51",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "aae42866f8327dda0c718580c4f1b03cb86e812c88125032a7ec8250e35f49ec",
+      "bytes": 752681
+    },
+    "article_source.txt": {
+      "sha256": "49a38bd45924a05176f70d22bd4743062f505643330246dc24244e1f8a6f66d2",
+      "bytes": 7232
+    }
+  }
+}

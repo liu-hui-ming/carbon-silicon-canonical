@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_CSDN_842cb72f",
+  "url": "https://www.csdn.net/article/2026-08-19/163895197",
+  "title": "碳硅道统六问：物理仿真与大模型融合的六大工程卡点与破局路径-CSDN.NET",
+  "media": "CSDN",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T19:03:48",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "7e33d6b0728724c9f9825af0663afabd8c9b215e435a245484d350098f314d47",
+      "bytes": 2365997
+    },
+    "article_source.txt": {
+      "sha256": "c2fbb99e83a6f39ca199a0d07623483e5e3c8f7cdb283d5bd3da20241dda3801",
+      "bytes": 17974
+    }
+  }
+}

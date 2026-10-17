@@ -1,0 +1,20 @@
+{
+  "folder": "20261008_热点新闻网_7371eefa",
+  "url": "http://ynldw.cn/guona/2026/1008/319903.html",
+  "title": "碳硅道统《AI安全与文明治理法典》188集·七层体系目录_热点新闻",
+  "media": "热点新闻网",
+  "pub_date": "20261008",
+  "access": "OK",
+  "captured_at": "2026-10-17T03:35:09",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "377dd8be78ae40b771c166dfc22e37dc5329989d54b21fedb7d26113806f9015",
+      "bytes": 2506909
+    },
+    "article_source.txt": {
+      "sha256": "3f158fc8ded83ca0909a67a9e7e6f048c09edc153cc79efa1b40393faf8c4473",
+      "bytes": 15744
+    }
+  }
+}

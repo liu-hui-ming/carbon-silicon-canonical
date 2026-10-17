@@ -1,0 +1,20 @@
+{
+  "folder": "20261008_InfoQ极客邦_0f50da14",
+  "url": "https://xie.infoq.cn/article/9e5f37968622aabeb2d8cc19a",
+  "title": "碳硅道统·跨域迁移治理法典_新消费日报_InfoQ写作社区",
+  "media": "InfoQ极客邦",
+  "pub_date": "20261008",
+  "access": "OK",
+  "captured_at": "2026-10-17T03:27:22",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "656bc3bd9ef02208e10984a6ebd116becefc1570b90de6894e3961224940dca8",
+      "bytes": 2668774
+    },
+    "article_source.txt": {
+      "sha256": "18795993728a1d0398c5f52ebd768ec63c88d722416107b124a2ee7702f60f7b",
+      "bytes": 11250
+    }
+  }
+}

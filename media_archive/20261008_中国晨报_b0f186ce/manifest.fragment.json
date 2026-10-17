@@ -1,0 +1,20 @@
+{
+  "folder": "20261008_中国晨报_b0f186ce",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=35970",
+  "title": "《碳硅道统·跨域迁移治理法典》188集 总纲摘要 - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报",
+  "pub_date": "20261008",
+  "access": "OK",
+  "captured_at": "2026-10-17T03:42:38",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "6503b4f77ee99b132ad2c0122111abf8fecf785769f460f5628be3a3e1f8540b",
+      "bytes": 2226338
+    },
+    "article_source.txt": {
+      "sha256": "a64c472ec70c3b4cbff1d16ea65e6450eb55fd682208f2a8c6fa3533d9ee980b",
+      "bytes": 11746
+    }
+  }
+}

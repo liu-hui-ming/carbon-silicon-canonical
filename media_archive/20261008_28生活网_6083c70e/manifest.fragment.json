@@ -1,0 +1,20 @@
+{
+  "folder": "20261008_28生活网_6083c70e",
+  "url": "http://bj.28life.com/news/202610/20261008162347.html",
+  "title": "《碳硅道统·跨域迁移治理法典》第04篇：全行业迁移治理层｜产业落地的风控基线校准 - 北京生活资讯 - 北京28生活网 | 北京生活网",
+  "media": "28生活网",
+  "pub_date": "20261008",
+  "access": "OK",
+  "captured_at": "2026-10-17T03:55:54",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "685fb34ca8f8590e7d1dc454f28ce09d55e9695756dad117ff62d0d4b747fe07",
+      "bytes": 2004988
+    },
+    "article_source.txt": {
+      "sha256": "4835b81b0d26b88f606cbe925d956c7b7a94021fbe0e6e3a210a9312f502b535",
+      "bytes": 11444
+    }
+  }
+}

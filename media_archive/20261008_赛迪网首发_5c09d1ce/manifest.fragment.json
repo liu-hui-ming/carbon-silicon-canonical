@@ -1,0 +1,20 @@
+{
+  "folder": "20261008_赛迪网首发_5c09d1ce",
+  "url": "https://www.ccidnet.com/zn/99741.jhtml",
+  "title": "《碳硅道统·跨域迁移治理法典》第01篇：迁移事故解剖层｜事故熵增的归因边界",
+  "media": "赛迪网首发",
+  "pub_date": "20261008",
+  "access": "CON",
+  "captured_at": "2026-10-17T03:45:47",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "81f777550c34d3b1bf09d5836f28725f353c0d9e87bc0762df031ba77d1be9cb",
+      "bytes": 146384
+    },
+    "article_source.txt": {
+      "sha256": "ddea577a32e5b754b1286481dbe1edaccc13d8317a87c1687e7b2803a75df72e",
+      "bytes": 419
+    }
+  }
+}

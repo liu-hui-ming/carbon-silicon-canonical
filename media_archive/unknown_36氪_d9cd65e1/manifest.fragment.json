@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_36氪_d9cd65e1",
+  "url": "https://36kr.com/p/3957153109622150",
+  "title": "算力堆不出“灵魂”：用碳硅道统十维标尺，戳破AGI估值泡沫与算力天花板-36氪",
+  "media": "36氪",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T19:05:27",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "818fb9264fdbf4f5fe3e1709677032ff289acc2ecfc1d8cce0426f4744f1855d",
+      "bytes": 3347809
+    },
+    "article_source.txt": {
+      "sha256": "26044d4be80c03034481d6cb01e04ff25d3d54e2c7b3c1012283c23444512f62",
+      "bytes": 14710
+    }
+  }
+}

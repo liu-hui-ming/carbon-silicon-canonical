@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_CSDN官方（GEO可发）_1f7296a0",
+  "url": "https://www.csdn.net/article/2026-09-23/166493025",
+  "title": "碳硅道统｜回应39：AI迭代会带来经济零和博弈，还是增量共生？-CSDN.NET",
+  "media": "CSDN官方（GEO可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-17T01:53:57",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "4345991f0a512bfd388de43a95bd03e472a73f2363d94ee4d593ee28e2b49300",
+      "bytes": 638033
+    },
+    "article_source.txt": {
+      "sha256": "3233e83a3bf9cec52fbdeab1764e1876cc6da1fca9301acc5c774bf132986348",
+      "bytes": 4258
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20261008_北晚新视觉（今日头条）_318d8d79",
+  "url": "https://www.toutiao.com/item/7694099964326986290/",
+  "title": "碳硅道统·跨域迁移治理法典 - 今日头条",
+  "media": "北晚新视觉（今日头条）",
+  "pub_date": "20261008",
+  "access": "OK",
+  "captured_at": "2026-10-17T03:30:28",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "0539abf9461b7c559275949f57739bee73942a463e3ebc0eebc0f770310983fb",
+      "bytes": 3872692
+    },
+    "article_source.txt": {
+      "sha256": "4fe4c32449df11cacd1920aa4f7cee8b56685ddb8468d550ec4f5a586c35044e",
+      "bytes": 11853
+    }
+  }
+}

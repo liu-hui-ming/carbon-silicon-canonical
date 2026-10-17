@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_36氪_14ae209b",
+  "url": "https://36kr.com/p/3948977352965248",
+  "title": "碳硅道统六问：物理仿真与大模型融合的六大工程卡点与破局路径-36氪",
+  "media": "36氪",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T19:04:08",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "5f3d68be7bff9a84e67befc11ba70994e67ef68fe0b7a273a0de6485a3bae7bd",
+      "bytes": 4558422
+    },
+    "article_source.txt": {
+      "sha256": "3f12eeb521651d567f1276900ec610c69abe07fca0d2f8a96e161f0a58601b53",
+      "bytes": 18358
+    }
+  }
+}

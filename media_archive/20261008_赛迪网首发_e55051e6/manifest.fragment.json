@@ -1,0 +1,20 @@
+{
+  "folder": "20261008_赛迪网首发_e55051e6",
+  "url": "https://www.ccidnet.com/zn/99764.jhtml",
+  "title": "碳硅道统《AI安全与文明治理法典》第189集｜全法典总目录索引终卷",
+  "media": "赛迪网首发",
+  "pub_date": "20261008",
+  "access": "CON",
+  "captured_at": "2026-10-17T03:30:46",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "e8d9156e444225d95e6430d83ba8c42bfd4db0ac91d4d88983ec2890ae97c1ac",
+      "bytes": 146465
+    },
+    "article_source.txt": {
+      "sha256": "63bd76d07a1aed42cd232f413fd61189b26987c8ccb24ccafe535a33fe6196df",
+      "bytes": 402
+    }
+  }
+}

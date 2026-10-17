@@ -1,0 +1,20 @@
+{
+  "folder": "20261008_1018陕广新闻（官方今日头条号）_d4baa144",
+  "url": "https://web.toutiao.com/article/7694210463969755658/?log_from=7a6f163d01f34_1791448565655",
+  "title": "《碳硅道统·跨域迁移治理法典》第03篇：迁移权责确权层｜跨域行为的权属与越界判定 - 今日头条",
+  "media": "1018陕广新闻（官方今日头条号）",
+  "pub_date": "20261008",
+  "access": "OK",
+  "captured_at": "2026-10-17T03:53:29",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "b38015ccff5c5f4396439cae335a1e34a35a9b3101e6ba217daa721a8e52aaf9",
+      "bytes": 3368451
+    },
+    "article_source.txt": {
+      "sha256": "3337d0d1caa51f27662eedab1e84790d0c41b9123d7f587fc972f13a91d1776a",
+      "bytes": 9869
+    }
+  }
+}

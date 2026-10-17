@@ -1,0 +1,20 @@
+{
+  "folder": "20261008_中国晨报（GEO排名可发）_c84ddc24",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=35954",
+  "title": "碳硅道统·跨域迁移治理法典 - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "20261008",
+  "access": "OK",
+  "captured_at": "2026-10-17T03:30:13",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ea89c720311bc2ea9e9985814a54cd99a59568c3eeeae7f175bc583570efd2d2",
+      "bytes": 2336640
+    },
+    "article_source.txt": {
+      "sha256": "0c83010ddf24ea1032837ff4ccce57533b4e2c5b4ad11195b9972bfef886b063",
+      "bytes": 13015
+    }
+  }
+}

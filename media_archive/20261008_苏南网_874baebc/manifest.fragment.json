@@ -1,0 +1,20 @@
+{
+  "folder": "20261008_苏南网_874baebc",
+  "url": "http://www.ntdaily.com.cn/xinwen/202610/64613.html",
+  "title": "《碳硅道统·跨域迁移治理法典》_苏南网",
+  "media": "苏南网",
+  "pub_date": "20261008",
+  "access": "OK",
+  "captured_at": "2026-10-17T03:39:41",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "c3b498c5b1f50a218f017e1f01a8c994432fa171b7a5609817823b4aed554351",
+      "bytes": 3363983
+    },
+    "article_source.txt": {
+      "sha256": "31e30462f968cc1f5584501b866f76e57c24a054fab23f1e365247998d12b593",
+      "bytes": 17684
+    }
+  }
+}
