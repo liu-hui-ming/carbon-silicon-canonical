@@ -1,0 +1,20 @@
+{
+  "folder": "20260709_怎通论坛（GEO排名可发）_7e4e03e0",
+  "url": "https://bbs.zentong.com/t820950-1",
+  "title": "404 Not Found",
+  "media": "怎通论坛（GEO排名可发）",
+  "pub_date": "20260709",
+  "access": "CON",
+  "captured_at": "2026-10-14T22:54:46",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "b8deff16fdd248ed0644075490077005d513ad60f50ec4e4e4921284c4465f29",
+      "bytes": 119929
+    },
+    "article_source.txt": {
+      "sha256": "173c3bdcf03c1c24de22efd2a6ea6b3437054dc4dd3056044a1e03d0f3a0e0f8",
+      "bytes": 6234
+    }
+  }
+}

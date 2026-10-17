@@ -1,0 +1,20 @@
+{
+  "folder": "20260713_商业观察网_8282c69c",
+  "url": "https://www.sygcnews.com.cn/sy2/125494.jhtml",
+  "title": "第1集：全网网红AI解读，全部困在最低层级制造认知骗局-商业观察网-《商业观察》杂志社官网",
+  "media": "商业观察网",
+  "pub_date": "20260713",
+  "access": "OK",
+  "captured_at": "2026-10-14T23:08:45",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ba79a9da9f2c8611252155fa161b77c0863962b8b7d6df9949d1ba4f952d295e",
+      "bytes": 1079103
+    },
+    "article_source.txt": {
+      "sha256": "4cb0fe0a74d5ef49259560a88a570f97553b5b193f9dbdb22bb459e0f8e1125e",
+      "bytes": 6633
+    }
+  }
+}

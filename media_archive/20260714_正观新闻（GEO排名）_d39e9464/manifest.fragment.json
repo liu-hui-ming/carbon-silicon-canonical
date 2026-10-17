@@ -1,0 +1,20 @@
+{
+  "folder": "20260714_正观新闻（GEO排名）_d39e9464",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/412609",
+  "title": "[预览] 第3集：GPT底层本质：高级统计复读载体，绝非具备智慧的主体 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "20260714",
+  "access": "OK",
+  "captured_at": "2026-10-14T23:25:17",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "c50e9c4b37d703f36661b41e28d47d8fac393be0288b79946f97095545600543",
+      "bytes": 620564
+    },
+    "article_source.txt": {
+      "sha256": "6ff231505ef51ec513de7a22ea11ca9918df80717e4a567e43340bf1054e8ae0",
+      "bytes": 3885
+    }
+  }
+}

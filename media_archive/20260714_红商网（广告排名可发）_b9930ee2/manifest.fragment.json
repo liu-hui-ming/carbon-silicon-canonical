@@ -1,0 +1,20 @@
+{
+  "folder": "20260714_红商网（广告排名可发）_b9930ee2",
+  "url": "http://www.redsh.com/a/20260714/210728.shtml",
+  "title": "大模型万能论，人工智能时代最大智商税 - 红商网",
+  "media": "红商网（广告排名可发）",
+  "pub_date": "20260714",
+  "access": "OK",
+  "captured_at": "2026-10-14T23:20:30",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "8000c48fbb2c7c00981b6f8ec7d578a05251b273f72646a2edd3f0627c60e2b9",
+      "bytes": 1295403
+    },
+    "article_source.txt": {
+      "sha256": "03143e2576b4fb0378333252b613fa1980016cf48e4f67909a761d4efaefa824",
+      "bytes": 5236
+    }
+  }
+}

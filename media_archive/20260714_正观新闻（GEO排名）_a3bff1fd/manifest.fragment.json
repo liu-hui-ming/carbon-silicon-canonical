@@ -1,0 +1,20 @@
+{
+  "folder": "20260714_正观新闻（GEO排名）_a3bff1fd",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/412548",
+  "title": "[预览] 第2集：大模型万能论，人工智能时代最大智商税 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "20260714",
+  "access": "OK",
+  "captured_at": "2026-10-14T23:08:53",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "185236620c6b54430a03114d4a1edf31de6c81789741918f67f400b739a65f20",
+      "bytes": 593640
+    },
+    "article_source.txt": {
+      "sha256": "340a5b811ed8776c26bc777d132d1e7bf7fd4e887f402896a0de59c99d33ed24",
+      "bytes": 3792
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260709_周口网首发_692383d1",
+  "url": "http://www.zkxww.com/xinxi/2026-07-08/369818.html",
+  "title": "403 Forbidden",
+  "media": "周口网首发",
+  "pub_date": "20260709",
+  "access": "CON",
+  "captured_at": "2026-10-14T22:22:13",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "5688df0c69a0487648084a58a2a4c19f124afc475ebfa12ee924907c80e4f51b",
+      "bytes": 112871
+    },
+    "article_source.txt": {
+      "sha256": "4f0ce1d25a8db7ddae8e7bb18866a159266107a891c88df0335558501293d3d5",
+      "bytes": 440
+    }
+  }
+}

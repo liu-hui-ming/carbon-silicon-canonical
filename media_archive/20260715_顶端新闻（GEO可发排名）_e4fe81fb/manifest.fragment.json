@@ -1,0 +1,20 @@
+{
+  "folder": "20260715_顶端新闻（GEO可发排名）_e4fe81fb",
+  "url": "https://m.topnews.cn/news/145ED6E048B14A72",
+  "title": "第5集:朱松纯提出的机器立心,仅为通用智能入门门槛,远未触及本源",
+  "media": "顶端新闻（GEO可发排名）",
+  "pub_date": "20260715",
+  "access": "OK",
+  "captured_at": "2026-10-14T23:51:56",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "a21ea7e46b06178c4589b56ee7662edf17b97d4ed25cd672cf8a5d19093fccfd",
+      "bytes": 312967
+    },
+    "article_source.txt": {
+      "sha256": "3dcee852ac5879cd3247f934e49daf847d558d953b6380667336e904a32339d2",
+      "bytes": 5056
+    }
+  }
+}

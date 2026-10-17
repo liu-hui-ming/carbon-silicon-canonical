@@ -1,0 +1,20 @@
+{
+  "folder": "20260715_亳州新闻网（GEO排名可发）_df021ad0",
+  "url": "http://www.bozhou.cn/p/390127.html",
+  "title": "亳州新闻网（GEO排名可发） 首发稿件 #381",
+  "media": "亳州新闻网（GEO排名可发）",
+  "pub_date": "20260715",
+  "access": "CON",
+  "captured_at": "2026-10-14T23:56:07",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "62ad043116b6d36c05fa3b85058a4b67a1e7c92c85dc3bc316827b50e270301a",
+      "bytes": 114392
+    },
+    "article_source.txt": {
+      "sha256": "7b32dfbf16518a7fe0ae2dd742a395f3f230ea67be18b77b5b6cb5ecbe6a65ad",
+      "bytes": 384
+    }
+  }
+}

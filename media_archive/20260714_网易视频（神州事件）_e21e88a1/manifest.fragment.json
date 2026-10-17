@@ -1,0 +1,20 @@
+{
+  "folder": "20260714_网易视频（神州事件）_e21e88a1",
+  "url": "https://www.163.com/dy/article/L1QH1N2H0534U3J9.html",
+  "title": "第2集：大模型万能论，人工智能时代最大智商税|维度|本体|系列模型_网易订阅",
+  "media": "网易视频（神州事件）",
+  "pub_date": "20260714",
+  "access": "OK",
+  "captured_at": "2026-10-14T23:24:22",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "c2012fae799ffb726706569ba2c8a4d231524c75388be70f15708cbcae83ecfa",
+      "bytes": 2725164
+    },
+    "article_source.txt": {
+      "sha256": "6fdf6a637e67d1c25f9ccc44361bf67c755b6110ec76fd4768c2c48fae42d8b3",
+      "bytes": 9727
+    }
+  }
+}

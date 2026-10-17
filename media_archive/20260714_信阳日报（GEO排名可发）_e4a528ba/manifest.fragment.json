@@ -1,0 +1,20 @@
+{
+  "folder": "20260714_信阳日报（GEO排名可发）_e4a528ba",
+  "url": "https://ribao.xyxww.com.cn/html/2026-07/14/2077021.html",
+  "title": "第3集：GPT底层本质：高级统计复读载体，绝非具备智慧的主体_第46版_信阳日报数字报刊",
+  "media": "信阳日报（GEO排名可发）",
+  "pub_date": "20260714",
+  "access": "OK",
+  "captured_at": "2026-10-14T23:25:33",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "f4b564d79dfaa99954c732c463e786a5dd45a0dfbd5b26f34214e06a984bf924",
+      "bytes": 599811
+    },
+    "article_source.txt": {
+      "sha256": "3c035cf7cb46c7e89673f919444ebeb0e1fbffa46efded05cc07c01f11f8c0e4",
+      "bytes": 4413
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260713_欧洲网_5fc383ae",
+  "url": "http://www.peoplels.com/yaowne/55475.html",
+  "title": "404 Not Found",
+  "media": "欧洲网",
+  "pub_date": "20260713",
+  "access": "CON",
+  "captured_at": "2026-10-14T22:59:39",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "f0256e114bf1d34ee4460f5127ca9dde652e0f0e52821d72008fa9e62c707154",
+      "bytes": 122723
+    },
+    "article_source.txt": {
+      "sha256": "ba43ddb6196a7952ebbb955a402f9ebe8c669910065c1a64ca34f1d67d6a4ed8",
+      "bytes": 357
+    }
+  }
+}

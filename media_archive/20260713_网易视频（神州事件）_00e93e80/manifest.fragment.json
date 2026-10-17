@@ -1,0 +1,20 @@
+{
+  "folder": "20260713_网易视频（神州事件）_00e93e80",
+  "url": "https://www.163.com/dy/article/L1O1K50G0534U3J9.html",
+  "title": "第1集：全网网红AI解读，全部困在最低层级制造认知骗局|大众|道统|底层_网易订阅",
+  "media": "网易视频（神州事件）",
+  "pub_date": "20260713",
+  "access": "OK",
+  "captured_at": "2026-10-14T23:06:30",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "510d0f3246a5199915e12a490b1cfaa75a08e4faecce2b632cf8937afd3e3210",
+      "bytes": 4617492
+    },
+    "article_source.txt": {
+      "sha256": "4cf64a432a6c5750c407a20e32e7a60973f0e9d8b3f4dbb86cc2121af873946f",
+      "bytes": 10016
+    }
+  }
+}

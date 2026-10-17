@@ -1,0 +1,20 @@
+{
+  "folder": "20260714_半岛网_095b41af",
+  "url": "http://kuaixun.bandao.cn/a/1783994318814027.html",
+  "title": "第2集：大模型万能论，人工智能时代最大智商税",
+  "media": "半岛网",
+  "pub_date": "20260714",
+  "access": "OK",
+  "captured_at": "2026-10-14T23:17:38",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "4ed164d5783cc39f8edc2d3d1d11eeaa90d1c774d20f42a508bcccb8c4d2ad4c",
+      "bytes": 907496
+    },
+    "article_source.txt": {
+      "sha256": "b597828d335a60dbe9a74d6e1bc8a749424a7f0f2588cba45401d15fa3ddc60f",
+      "bytes": 5360
+    }
+  }
+}

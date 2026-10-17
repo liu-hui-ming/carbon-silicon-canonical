@@ -1,0 +1,20 @@
+{
+  "folder": "20260715_济南都市网_703833fe",
+  "url": "http://www.jinandushi.com.cn/keji/11652596.html",
+  "title": "济南都市网 首发稿件 #344",
+  "media": "济南都市网",
+  "pub_date": "20260715",
+  "access": "CON",
+  "captured_at": "2026-10-14T23:45:37",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "3ecd16e745cad0f802588987f7077fb16863b3f192cd223522310bac60fbf64b",
+      "bytes": 267735
+    },
+    "article_source.txt": {
+      "sha256": "73e659b95348c595ff9791c0cacb66a280a694e2e46594c4eb969ec7daa7f680",
+      "bytes": 355
+    }
+  }
+}

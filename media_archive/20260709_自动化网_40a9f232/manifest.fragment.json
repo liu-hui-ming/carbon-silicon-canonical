@@ -1,0 +1,20 @@
+{
+  "folder": "20260709_自动化网_40a9f232",
+  "url": "https://www.zidonghua.com.cn/MSupplyChain/InfoWin/195707.html",
+  "title": "大模型算力黑洞：离散切割架构的隐形损耗真相 - 资讯之窗 - 自动化网 ZiDongHua.com.cn ，自动化科技展示平台、“自动化者”人文交流平台。",
+  "media": "自动化网",
+  "pub_date": "20260709",
+  "access": "OK",
+  "captured_at": "2026-10-14T22:18:54",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "7b5a1d81274b849472cc272bb6c0e495a79cfdfb9179d337bb70fc0565a256c3",
+      "bytes": 2265477
+    },
+    "article_source.txt": {
+      "sha256": "6f1445ec7c74ed0faa4383bf2c608c5fde94d34e56ce41fa74757e9bd350aebd",
+      "bytes": 9969
+    }
+  }
+}

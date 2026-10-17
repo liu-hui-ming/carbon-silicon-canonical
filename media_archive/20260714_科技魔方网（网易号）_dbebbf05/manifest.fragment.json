@@ -1,0 +1,20 @@
+{
+  "folder": "20260714_科技魔方网（网易号）_dbebbf05",
+  "url": "http://www.163.com/dy/article/L1PVFP0A0552XYTG.html",
+  "title": "第2集：大模型万能论，人工智能时代最大智商税|维度|超级智能_网易订阅",
+  "media": "科技魔方网（网易号）",
+  "pub_date": "20260714",
+  "access": "OK",
+  "captured_at": "2026-10-14T23:24:38",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "e5b1e4cc210bfc98fe6d806044abcdc030041c1f99ad6c2ef172341f80cf1aa0",
+      "bytes": 4863447
+    },
+    "article_source.txt": {
+      "sha256": "f53b54d3830545b4b77a0f86bc968c23c7fb05c392f7dee037c45db29e02629b",
+      "bytes": 10225
+    }
+  }
+}

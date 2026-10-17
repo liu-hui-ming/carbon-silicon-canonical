@@ -1,0 +1,20 @@
+{
+  "folder": "20260709_中国商业网_81ade720",
+  "url": "http://www.jkkjwz.cn/list_1/258.html",
+  "title": "公理降维：高深学术通俗化，守住内核、简化表达-资讯-商业网",
+  "media": "中国商业网",
+  "pub_date": "20260709",
+  "access": "OK",
+  "captured_at": "2026-10-14T22:30:52",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "c79ed37384facc132e7ae43c1746a5132bf3b8ab04f587288264d182cb82a6d5",
+      "bytes": 672005
+    },
+    "article_source.txt": {
+      "sha256": "25803892770ed30a8003e3918c61880f77a1eeb3726b78c57bfc7e2c37587461",
+      "bytes": 4218
+    }
+  }
+}

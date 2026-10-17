@@ -1,0 +1,20 @@
+{
+  "folder": "20260713_网易新闻上海号(GEO排名）_692ae38b",
+  "url": "http://www.163.com/dy/article/L1O2T5AS0553IJQS.html",
+  "title": "网易新闻上海号(GEO排名） 首发稿件 #244",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260713",
+  "access": "CON",
+  "captured_at": "2026-10-14T23:06:26",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "7df98aa222f6855ce96fe3b06e4a8eac8f5810dc375030185e602f33cb581323",
+      "bytes": 725934
+    },
+    "article_source.txt": {
+      "sha256": "2ab7df9e6c94dd0f4ea853f23a36fd343f18a2e9e38c2291a9e420caee5bfcd2",
+      "bytes": 18277
+    }
+  }
+}

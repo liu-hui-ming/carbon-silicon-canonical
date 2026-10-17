@@ -1,0 +1,20 @@
+{
+  "folder": "20260714_中国晨报（GEO排名可发）_fad255ee",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=34019",
+  "title": "第3集：GPT底层本质：高级统计复读载体，绝非具备智慧的主体 - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "20260714",
+  "access": "OK",
+  "captured_at": "2026-10-14T23:26:47",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "aa69585f416df68de4d464cacab5e250329993ed88b3326e81977d85cc92f834",
+      "bytes": 1679411
+    },
+    "article_source.txt": {
+      "sha256": "49d5cefd4264d8ac9d3facfac01e99088884ca9f4c2bfe804eb3e77a3c8110a4",
+      "bytes": 7815
+    }
+  }
+}

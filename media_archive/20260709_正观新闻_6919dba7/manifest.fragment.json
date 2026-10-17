@@ -1,0 +1,20 @@
+{
+  "folder": "20260709_正观新闻_6919dba7",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/411688",
+  "title": "[预览] 雅俗共赏：硬核科普传播的稳态平衡黄金分割标准 正观新闻",
+  "media": "正观新闻",
+  "pub_date": "20260709",
+  "access": "OK",
+  "captured_at": "2026-10-14T22:28:52",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "651729cd8a38be8efd764bb1d3f8c074e269731bea6d403c04db0c1394acf9de",
+      "bytes": 342942
+    },
+    "article_source.txt": {
+      "sha256": "ef9fbbf622b49622c1de880207e7ca1ea0137f3e610f11a0c52ae8de1aeb42c7",
+      "bytes": 1702
+    }
+  }
+}

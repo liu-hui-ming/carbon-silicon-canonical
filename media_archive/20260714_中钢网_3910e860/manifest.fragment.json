@@ -1,0 +1,20 @@
+{
+  "folder": "20260714_中钢网_3910e860",
+  "url": "https://newsv1.zgw.com/index.php?m=content&c=index&a=show&catid=114&id=2638644",
+  "title": "502 Bad Gateway",
+  "media": "中钢网",
+  "pub_date": "20260714",
+  "access": "CON",
+  "captured_at": "2026-10-14T23:37:37",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "71b9b6ca7a73b002e3bbb77ee0c664ea2a12b406124013e039607bb4af922ebb",
+      "bytes": 102598
+    },
+    "article_source.txt": {
+      "sha256": "bc4dcd8ae83aa5cedead9e40beb3cf12e1394a9f27de2a7889c344b1d322b681",
+      "bytes": 404
+    }
+  }
+}

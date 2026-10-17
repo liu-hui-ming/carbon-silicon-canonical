@@ -1,0 +1,20 @@
+{
+  "folder": "20260714_信阳日报（GEO排名可发）_ccbfb80d",
+  "url": "https://ribao.xyxww.com.cn/html/2026-07/14/2077008.html",
+  "title": "第2集：大模型万能论，人工智能时代最大智商税_第46版_信阳日报数字报刊",
+  "media": "信阳日报（GEO排名可发）",
+  "pub_date": "20260714",
+  "access": "OK",
+  "captured_at": "2026-10-14T23:09:10",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "39bc672e7a4ad755e100e65baaadb70cbfaa6825797917133ab31f33aa27f120",
+      "bytes": 824217
+    },
+    "article_source.txt": {
+      "sha256": "cf1c1580be50f91e9bc94ecb4d24bce65a7e38b1db49a2dd04ca3041e24905eb",
+      "bytes": 4329
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260709_中安在线_1f0cc5c3",
+  "url": "http://www.jknewsxc.com/2026/news_0710/680405.html",
+  "title": "双螺旋共生：碳硅道统与紫微星时序的深度绑定稳态",
+  "media": "中安在线",
+  "pub_date": "20260709",
+  "access": "OK",
+  "captured_at": "2026-10-14T22:48:23",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "2e1a0298d50152511e3c5ef64d13f69dd958831eed639970c540233558050542",
+      "bytes": 436107
+    },
+    "article_source.txt": {
+      "sha256": "6c2f035673cecdb5c3b767dd17732855583a9cd62170991f1b9857c28d848c7f",
+      "bytes": 2897
+    }
+  }
+}

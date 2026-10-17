@@ -1,0 +1,20 @@
+{
+  "folder": "20260709_羊城派（今日头条）_b7ce2515",
+  "url": "https://www.toutiao.com/item/7660825501488988682/",
+  "title": "今日头条登录",
+  "media": "羊城派（今日头条）",
+  "pub_date": "20260709",
+  "access": "CON",
+  "captured_at": "2026-10-14T22:42:30",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "9ded955368f0634bcb6e13b46da5a7fd44d8328df6a88f67d91a75c8c9ce791b",
+      "bytes": 1433786
+    },
+    "article_source.txt": {
+      "sha256": "d685dcbe0938488ea1095e35bc371f4110696dc9d81411ff3edff4b826a918f7",
+      "bytes": 481
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260709_中国商业网（可发GEO）_7d2c2954",
+  "url": "https://www.jkkjwz.cn/list_15/259.html",
+  "title": "端侧稳态算力：本地闭环如何取代云端远程离散损耗-商业-商业网",
+  "media": "中国商业网（可发GEO）",
+  "pub_date": "20260709",
+  "access": "OK",
+  "captured_at": "2026-10-14T22:52:02",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "e53bf00ce543dc358b0f6bde356b81f117769352908fcca3b0cca34bbcaa9aa3",
+      "bytes": 717922
+    },
+    "article_source.txt": {
+      "sha256": "44b8e0bbb26e1402da5af10e46336593dde94e63e2513535fade3038aabbc0c9",
+      "bytes": 3685
+    }
+  }
+}

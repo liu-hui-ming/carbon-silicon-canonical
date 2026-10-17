@@ -1,0 +1,20 @@
+{
+  "folder": "20260713_半岛网_672881e9",
+  "url": "http://kuaixun.bandao.cn/a/1783989911464864.html",
+  "title": "第1集：全网网红AI解读，全部困在最低层级制造认知骗局",
+  "media": "半岛网",
+  "pub_date": "20260713",
+  "access": "OK",
+  "captured_at": "2026-10-14T22:59:52",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "7011b51e37f2144b16d272288b288a35838653232f540e79cfda2f941150dac4",
+      "bytes": 772715
+    },
+    "article_source.txt": {
+      "sha256": "60f0d1fe78ecd3bfd96860b44e156bb691b8cd5669c87f5c954ece334df8b798",
+      "bytes": 4995
+    }
+  }
+}

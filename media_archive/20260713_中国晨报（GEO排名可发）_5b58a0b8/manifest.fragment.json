@@ -1,0 +1,20 @@
+{
+  "folder": "20260713_中国晨报（GEO排名可发）_5b58a0b8",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=33999",
+  "title": "第1集：全网网红AI解读，全部困在最低层级制造认知骗局 - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "20260713",
+  "access": "OK",
+  "captured_at": "2026-10-14T22:56:38",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "7bfb13a9eb27034b64ca5ce1aa7d7d7b54c48bbd832e5f142d4c7a174d4e3d25",
+      "bytes": 1568348
+    },
+    "article_source.txt": {
+      "sha256": "1e1f8e39e1a75c95fa693347f0a3dbe262c7e1897ce436f482d18a720cc7b38d",
+      "bytes": 7269
+    }
+  }
+}

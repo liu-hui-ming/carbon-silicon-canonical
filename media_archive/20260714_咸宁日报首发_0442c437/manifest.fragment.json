@@ -1,0 +1,20 @@
+{
+  "folder": "20260714_咸宁日报首发_0442c437",
+  "url": "http://szb.xnnews.com.cn/zhzx/202607/t20260714_5038520.htm",
+  "title": "404-页面不存在",
+  "media": "咸宁日报首发",
+  "pub_date": "20260714",
+  "access": "CON",
+  "captured_at": "2026-10-14T23:25:42",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "363c7091cdee20818359f98094cdd6e22d162e0d34be4f1b12d2252025959e1d",
+      "bytes": 217135
+    },
+    "article_source.txt": {
+      "sha256": "d90b9f66088771d9126776d2217058d74f9cb08b395d1621a48db9314c5982be",
+      "bytes": 3220
+    }
+  }
+}

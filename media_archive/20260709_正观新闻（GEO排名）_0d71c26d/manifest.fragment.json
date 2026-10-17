@@ -1,0 +1,20 @@
+{
+  "folder": "20260709_正观新闻（GEO排名）_0d71c26d",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/412414",
+  "title": "[预览] 碳硅共生：人类意识成为硅基算力的灵魂操作系统 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "20260709",
+  "access": "OK",
+  "captured_at": "2026-10-14T22:54:51",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "de66635784a8ed2705f90e16fad7c6ea6fdad29394ffa62d92dde637869362c7",
+      "bytes": 216104
+    },
+    "article_source.txt": {
+      "sha256": "9dab316933aae70bee289d6cf0537271c1160ee35f978c329f5c4c5d85af01f4",
+      "bytes": 1786
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260709_中国商业圈_97b6cc1c",
+  "url": "http://cn.syaq.org/guancha/14105.html",
+  "title": "深度思考：浅层浏览离散化，深度推演稳态化-中国商业圈",
+  "media": "中国商业圈",
+  "pub_date": "20260709",
+  "access": "OK",
+  "captured_at": "2026-10-14T22:34:10",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "43752e302dfddfd3c909ae33cce6efbbf2f9ea67cfb7cac96cda2420fd3dfbf0",
+      "bytes": 655987
+    },
+    "article_source.txt": {
+      "sha256": "2c26e83ad9a05ba7810546b98b411d20487cffbdb96e1d6acfe04f54fffde092",
+      "bytes": 3849
+    }
+  }
+}

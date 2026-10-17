@@ -1,0 +1,20 @@
+{
+  "folder": "20260709_正观新闻（GEO排名）_336b777e",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/412135",
+  "title": "[预览] 认知降噪：循序渐进稳态输出，杜绝受众认知过载 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "20260709",
+  "access": "OK",
+  "captured_at": "2026-10-14T22:45:45",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "5e943b93c675304972a6ac8af2d99941b6572df0e16dbd6110fae3774684106b",
+      "bytes": 187392
+    },
+    "article_source.txt": {
+      "sha256": "5f13c0d2f0f21bd4c87706fc8cd07e0b6c422250dae59da277c18a23d638038b",
+      "bytes": 1674
+    }
+  }
+}
