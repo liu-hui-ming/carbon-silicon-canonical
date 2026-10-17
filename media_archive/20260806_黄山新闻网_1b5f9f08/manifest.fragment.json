@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_黄山新闻网_1b5f9f08",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110760.shtml",
+  "title": "第14篇｜碳硅风险推演校准：缺失道统标尺会衍生三类不可逆产业认知风险",
+  "media": "黄山新闻网",
+  "pub_date": "20260806",
+  "access": "CON",
+  "captured_at": "2026-10-16T09:44:03",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "27bef849a15a5964011b76fe7744af3c6955471b27d2d3e4606578dbaaa05213",
+      "bytes": 117293
+    },
+    "article_source.txt": {
+      "sha256": "eebc59652f4bfa642507b02219c759abe6638dad00cc372c9eb8d01f85ae0213",
+      "bytes": 445
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_黄山新闻网_446c75e0",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110768.shtml",
+  "title": "第4篇丨《碳硅道统·九翼智典释义》：承千年徽商义利之道，赋人工智能东方心性",
+  "media": "黄山新闻网",
+  "pub_date": "20260806",
+  "access": "CON",
+  "captured_at": "2026-10-16T07:58:31",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "bf43d4e30c9b95d27448ee53826781b700c5fc97c579dc0b54fada0731c803ff",
+      "bytes": 116688
+    },
+    "article_source.txt": {
+      "sha256": "b98a92d8e27e3e6e1da74ab77fd2a47d591b51e1bb3f1813d46ff5f74d4189c9",
+      "bytes": 455
+    }
+  }
+}

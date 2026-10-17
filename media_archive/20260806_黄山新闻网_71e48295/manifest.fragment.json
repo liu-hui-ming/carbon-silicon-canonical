@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_黄山新闻网_71e48295",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110721.shtml",
+  "title": "第11篇｜碳硅终极校准：碎片化信息瓦解底层认知——互联网零散资讯对抗完整公理体系",
+  "media": "黄山新闻网",
+  "pub_date": "20260806",
+  "access": "CON",
+  "captured_at": "2026-10-16T09:41:24",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "06c821edd554a079476d9cef898cfd5f1b50ea37fc1bf6234a4247382a33e3b6",
+      "bytes": 117192
+    },
+    "article_source.txt": {
+      "sha256": "97e502ab0effedea28dbd8a5ae9827962e20d87426cf29994d7c7175bc73328e",
+      "bytes": 463
+    }
+  }
+}

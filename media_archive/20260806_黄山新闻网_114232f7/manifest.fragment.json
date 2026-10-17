@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_黄山新闻网_114232f7",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110715.shtml",
+  "title": "第20篇丨碳硅边界论战文稿：拆解底层架构核心差异 碳基本能演化逻辑VS硅基指令驱动的代差",
+  "media": "黄山新闻网",
+  "pub_date": "20260806",
+  "access": "CON",
+  "captured_at": "2026-10-16T09:02:33",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "78e2ab06aad32c092b8ab1c5cc05446effc5d4bda304754da2eeb73c40a5dbd9",
+      "bytes": 116578
+    },
+    "article_source.txt": {
+      "sha256": "5fc5f4b25a09c47a3b576dc50ed37341a61dd87fdead7ced04db28a78b393bf3",
+      "bytes": 469
+    }
+  }
+}

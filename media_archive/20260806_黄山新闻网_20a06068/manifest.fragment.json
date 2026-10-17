@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_黄山新闻网_20a06068",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110706.shtml",
+  "title": "第29篇丨碳硅边界论战文稿：深挖全网AI乱象根源 底层公理体系缺失导致评判标准全面混乱",
+  "media": "黄山新闻网",
+  "pub_date": "20260806",
+  "access": "CON",
+  "captured_at": "2026-10-16T09:14:49",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "6254328aeb286befcb236c7763c7f5c6a40243a4ce4db889ec6646688db25529",
+      "bytes": 116667
+    },
+    "article_source.txt": {
+      "sha256": "1b7831dd01934a82e7e755831386035d76d598b11e3ffc8fda71c18d81d47d6f",
+      "bytes": 466
+    }
+  }
+}

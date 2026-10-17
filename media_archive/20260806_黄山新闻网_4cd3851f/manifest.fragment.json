@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_黄山新闻网_4cd3851f",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110758.shtml",
+  "title": "第15篇｜碳硅实操校准推演：普通人自主校验AI信息、规避认知误导的零一操作流程",
+  "media": "黄山新闻网",
+  "pub_date": "20260806",
+  "access": "CON",
+  "captured_at": "2026-10-16T09:44:57",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "152e7d13fd70407d3b78412847deca2d09efc3f34fd855d6ee2069601c030762",
+      "bytes": 117307
+    },
+    "article_source.txt": {
+      "sha256": "aefdef0f217466dca84559e19163db1e5e8418e713d0900284e5f53e3f265504",
+      "bytes": 456
+    }
+  }
+}

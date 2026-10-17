@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_黄山新闻网_a3c5868f",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110754.shtml",
+  "title": "第13篇丨径向技术思辨札记：严守技术法理红线 明确司法、医疗场景中径向技术的应用边界与伦理准则",
+  "media": "黄山新闻网",
+  "pub_date": "20260806",
+  "access": "CON",
+  "captured_at": "2026-10-16T08:52:07",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ea612dbbebe1bbb7ef375a67e506ca7153298c3d6b3d2ee81458f58721af9eb5",
+      "bytes": 116643
+    },
+    "article_source.txt": {
+      "sha256": "0aced6df6a673c434c10287cd58954b256f0b5888451679cbc958ae98d109325",
+      "bytes": 482
+    }
+  }
+}

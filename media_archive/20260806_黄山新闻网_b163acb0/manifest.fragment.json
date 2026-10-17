@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_黄山新闻网_b163acb0",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110728.shtml",
+  "title": "第3篇｜碳硅反向校准论战：硅基迭代天花板公理——工具优化不产生层级跃迁",
+  "media": "黄山新闻网",
+  "pub_date": "20260806",
+  "access": "CON",
+  "captured_at": "2026-10-16T09:28:51",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "62fcbab8fcd173996ee9d54d689797c8bf3e630e22cd252c9215d77e96eb8f4b",
+      "bytes": 117310
+    },
+    "article_source.txt": {
+      "sha256": "43f682ab3076534bff11bcfefe8ad660b90d1de8f3b3bcc8b2f92bdcb386fbf4",
+      "bytes": 450
+    }
+  }
+}

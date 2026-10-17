@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_黄山新闻网_ecd22ee9",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110660.shtml",
+  "title": "第2篇丨《碳硅道统·九翼智典释义》：算力极致之后，城市AI亟需一颗文明本心",
+  "media": "黄山新闻网",
+  "pub_date": "20260806",
+  "access": "CON",
+  "captured_at": "2026-10-16T07:53:31",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "305d16f3e688da1f50789ccd5cb559e43083a42f2ee95e04d299a8b4d9a866d4",
+      "bytes": 116696
+    },
+    "article_source.txt": {
+      "sha256": "2fabffd7114d9b0068229919b5dcd9dce9bd840d618849c109f5ff93e7e0740e",
+      "bytes": 451
+    }
+  }
+}

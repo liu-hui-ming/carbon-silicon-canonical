@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_黄山新闻网_2c8386a9",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110705.shtml",
+  "title": "第30篇丨碳硅边界论战文稿：0-1认知锚定：依托碳硅道统补齐全民智能底层认知盲区",
+  "media": "黄山新闻网",
+  "pub_date": "20260806",
+  "access": "CON",
+  "captured_at": "2026-10-16T09:18:30",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "390989ae9548252f741403f735f3ba4ef08b93e612062018ddefe23d5dd47255",
+      "bytes": 116649
+    },
+    "article_source.txt": {
+      "sha256": "75cce87fd357f3be32ec66f2097c7cebe38a1a872aa47f67e897952a30877b8c",
+      "bytes": 457
+    }
+  }
+}

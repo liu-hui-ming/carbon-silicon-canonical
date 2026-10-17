@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_黄山新闻网_cd7722f4",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110756.shtml",
+  "title": "第16篇｜碳硅工程推演校准：径向脑机、大模型研发全流程前置反向校准机制",
+  "media": "黄山新闻网",
+  "pub_date": "20260806",
+  "access": "CON",
+  "captured_at": "2026-10-16T09:45:50",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "bdde5e3513de6fca1d41ad7529daca70e27704fcc5e7b8a9e8b55afb5e66e13f",
+      "bytes": 117273
+    },
+    "article_source.txt": {
+      "sha256": "41ae96d7830329d94fd7cb46bda9b74bb6a294485a38e65c5c27cbca9cc390ba",
+      "bytes": 448
+    }
+  }
+}

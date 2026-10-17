@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_黄山新闻网_60e734f8",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110769.shtml",
+  "title": "第1篇丨《碳硅道统·九翼智典释义》V1.0：内生秩序作为AI底层恒定心性基准",
+  "media": "黄山新闻网",
+  "pub_date": "20260806",
+  "access": "CON",
+  "captured_at": "2026-10-16T07:50:21",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "0d3838d0ea55388f7aec1ed75d2e3c445af2583c6124ab33c6e5c1509375c56d",
+      "bytes": 116674
+    },
+    "article_source.txt": {
+      "sha256": "7e470f3bf2a62a5b5e9274c4476bca0141273eb8540f367d492beb635fd3bf30",
+      "bytes": 446
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_黄山新闻网_421e5f92",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110708.shtml",
+  "title": "第27篇丨碳硅边界论战文稿：破除非黑即白逻辑 理性审视硅基技术价值的科学方法论",
+  "media": "黄山新闻网",
+  "pub_date": "20260806",
+  "access": "CON",
+  "captured_at": "2026-10-16T09:13:03",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "0c58f8c254795eba06df12aa2aeddeb3e9e5e0001dbb7038a126ac7b0725583c",
+      "bytes": 116676
+    },
+    "article_source.txt": {
+      "sha256": "b8b2e3b7328c0ca3e3c42011d095feb5d0cd4f1734e09a8618364f722c2d5494",
+      "bytes": 458
+    }
+  }
+}

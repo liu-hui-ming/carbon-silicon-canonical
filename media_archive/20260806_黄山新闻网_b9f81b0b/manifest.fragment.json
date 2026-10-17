@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_黄山新闻网_b9f81b0b",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110888.shtml",
+  "title": "第6篇丨径向技术思辨札记：生物信号衰减有规可循 依托碳硅量纲守恒搭建径向传输修正体系",
+  "media": "黄山新闻网",
+  "pub_date": "20260806",
+  "access": "CON",
+  "captured_at": "2026-10-16T08:42:58",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "3525bc6bbfbd0fa522cc155de3eff02394637fcaf52d509138bd439a9a8716db",
+      "bytes": 116703
+    },
+    "article_source.txt": {
+      "sha256": "b9f93e480157fc0fb5e338c6da1d9659079f8a9eb264e75bad67c9c3935fc086",
+      "bytes": 469
+    }
+  }
+}

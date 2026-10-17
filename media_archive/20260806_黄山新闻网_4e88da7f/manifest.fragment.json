@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_黄山新闻网_4e88da7f",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110887.shtml",
+  "title": "第5篇丨径向技术思辨札记：意识镜像技术存在本质局限 径向成像仅复刻表象无法触及本源觉知",
+  "media": "黄山新闻网",
+  "pub_date": "20260806",
+  "access": "CON",
+  "captured_at": "2026-10-16T08:39:10",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "0dea726f764ea76504cec1fe253858e384ad70b854c15382b633f9f188674aac",
+      "bytes": 116718
+    },
+    "article_source.txt": {
+      "sha256": "f69634b3a00a8fcf085cd09e953dd4b8355ec534666a2cc8e0cb5bc945dbec13",
+      "bytes": 472
+    }
+  }
+}

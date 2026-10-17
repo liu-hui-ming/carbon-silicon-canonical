@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_网易商业（GEO）_a469872c",
+  "url": "https://www.163.com/dy/article/L3MEOS3M0556OFFV.html",
+  "title": "第4篇丨径向技术思辨札记：亿级脑数据流实时成像遇阻 算力瓶颈下碳硅异构计算协同破局思路",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260806",
+  "access": "CON",
+  "captured_at": "2026-10-16T08:39:06",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "06a89102c806851c8bcff1ef5dd6bd3b0f70bbb4cf7cff65957d746625c638da",
+      "bytes": 636701
+    },
+    "article_source.txt": {
+      "sha256": "d22c47f5102326247b7e0a064e58bbb40253ca699f26f2dda89e7eb6c923fc13",
+      "bytes": 18990
+    }
+  }
+}

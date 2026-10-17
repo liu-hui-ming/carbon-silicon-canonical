@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_黄山新闻网_7f955ab1",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110720.shtml",
+  "title": "第12篇｜碳硅终极校准·零一双向归一终章：硅基全部局限，都是碳基文明升维的天然校准标尺",
+  "media": "黄山新闻网",
+  "pub_date": "20260806",
+  "access": "CON",
+  "captured_at": "2026-10-16T09:42:17",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "35fd4bc403708b589a53d016e4bab5b2cfbb51a761cf18a64e699fd74622cafc",
+      "bytes": 117279
+    },
+    "article_source.txt": {
+      "sha256": "446ce1d15afd3c6cd930861e9f54d28b20a848c3f17577d2bd17b3c9df5e6b84",
+      "bytes": 471
+    }
+  }
+}

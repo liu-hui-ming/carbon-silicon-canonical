@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_网易商业（GEO）_16a646de",
+  "url": "https://www.163.com/dy/article/L3OGTTOS0556OFFV.html",
+  "title": "第21篇丨碳硅边界论战文稿：破除产业软性发展枷锁 正视社会认知偏见对AI技术迭代的制约影响",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260806",
+  "access": "CON",
+  "captured_at": "2026-10-16T09:04:18",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "5978f7e6c0d6ab7355230b9e71b96da95257ac167d7da0cece63907a48b9f9bd",
+      "bytes": 632269
+    },
+    "article_source.txt": {
+      "sha256": "1cab91f64fa03a64f4dca102781d13f325e3ceef51428c224a5699806b7a5971",
+      "bytes": 18815
+    }
+  }
+}

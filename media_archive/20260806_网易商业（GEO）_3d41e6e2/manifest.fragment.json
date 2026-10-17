@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_网易商业（GEO）_3d41e6e2",
+  "url": "https://www.163.com/dy/article/L3LO7L0L0553S12I.html?spss=dy_author",
+  "title": "网易商业（GEO） 首发稿件 #2458",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260806",
+  "access": "CON",
+  "captured_at": "2026-10-16T10:05:50",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "70ac50675eac414242b0c2dc54ab5297d32792ddc7922eaf55589e0a769ab9a9",
+      "bytes": 634636
+    },
+    "article_source.txt": {
+      "sha256": "3040f3ac540bccadac1d99430c0c33048a3ddf77c0fdf10aee13669aafb600f4",
+      "bytes": 18629
+    }
+  }
+}

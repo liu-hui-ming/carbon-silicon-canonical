@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_黄山新闻网_9480b705",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110765.shtml",
+  "title": "第13篇｜碳硅动态推演校准：认知偏差与技术乱象双向放大连锁链",
+  "media": "黄山新闻网",
+  "pub_date": "20260806",
+  "access": "CON",
+  "captured_at": "2026-10-16T09:43:10",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "129c725bd4b2c97a5826b5a11114d91055e9ef431f6885b73026dd17741d3c02",
+      "bytes": 117281
+    },
+    "article_source.txt": {
+      "sha256": "47a90da89332549d85d293cfad92e9adb230a7e77a06ded49ad594017dd6dea0",
+      "bytes": 433
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_黄山新闻网_80ddb6cc",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110752.shtml",
+  "title": "第15篇丨径向技术思辨札记：预判三年技术发展拐点 径向技术迭代终将与碳硅底层法理实现终极交汇",
+  "media": "黄山新闻网",
+  "pub_date": "20260806",
+  "access": "CON",
+  "captured_at": "2026-10-16T08:55:22",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "a8e9c0f9cc49736a5a187645f73f36e683f17d8b38ad7a4f5d64a29fc990393d",
+      "bytes": 116628
+    },
+    "article_source.txt": {
+      "sha256": "084ba97d78b5ad62084bfe785446445b82fc8bad8a9cb04a26b8c554e95d1a63",
+      "bytes": 479
+    }
+  }
+}

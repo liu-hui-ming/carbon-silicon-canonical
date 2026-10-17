@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_网易商业（GEO）_69d552a9",
+  "url": "https://www.163.com/dy/article/L3MDIURR0556OFFV.html",
+  "title": "第2篇丨径向技术思辨札记：破解脑波信号干扰难题 九翼内生秩序实现技术长周期自适应校准",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260806",
+  "access": "CON",
+  "captured_at": "2026-10-16T08:25:40",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "0bd07beaea3da56485295125c3ba02e29a14d7abd2511dd12cc4caafd7493bfd",
+      "bytes": 635969
+    },
+    "article_source.txt": {
+      "sha256": "ffec01e584997536174a34f78637d22329d38d0c29665e8a0020971d575a93a5",
+      "bytes": 18311
+    }
+  }
+}

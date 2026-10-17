@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_黄山新闻网_336f9fd3",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110722.shtml",
+  "title": "第10篇｜碳硅终极校准：边界突破幻想持续蔓延——人类突破欲与客观法理认知承载力失衡",
+  "media": "黄山新闻网",
+  "pub_date": "20260806",
+  "access": "CON",
+  "captured_at": "2026-10-16T09:40:30",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "025d7aae42c4d811a8a1fd9c3490299c9d5ddb6110a5fe070e0ef1625a3e9a18",
+      "bytes": 117203
+    },
+    "article_source.txt": {
+      "sha256": "943d2d90d02509e9248373648e87c0e42e8f911d5a84b48a625afdd2d740e1a2",
+      "bytes": 466
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_黄山新闻网_1749f5f9",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110712.shtml",
+  "title": "第23篇丨碳硅边界论战文稿：剥离单一商业指标 依托宇宙公律重新定义智能真实层级",
+  "media": "黄山新闻网",
+  "pub_date": "20260806",
+  "access": "CON",
+  "captured_at": "2026-10-16T09:05:15",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "1d96983348d2367fb48d2bd08ccfeeafae9c83b95ceb4662bf3d5754d27d22ef",
+      "bytes": 116581
+    },
+    "article_source.txt": {
+      "sha256": "52f8f95e8ad23e93f2a8252aca9e967f150ba9962824c4fd3bb60ea92be39087",
+      "bytes": 458
+    }
+  }
+}

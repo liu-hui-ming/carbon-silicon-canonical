@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_黄山新闻网_d2632054",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110711.shtml",
+  "title": "第24篇丨碳硅边界论战文稿：修补主流AI定义漏洞 以碳硅道统体用二分法完善行业评判体系",
+  "media": "黄山新闻网",
+  "pub_date": "20260806",
+  "access": "CON",
+  "captured_at": "2026-10-16T09:06:09",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "9ad23dd4cee548e24160017c1b660ea0f162309b561968b9f3d9bfc814507d17",
+      "bytes": 116508
+    },
+    "article_source.txt": {
+      "sha256": "fcfbf318bdc0956d60c714b34aa12f23ef12e0844f0a33ff1f2ed67c8c7a618b",
+      "bytes": 466
+    }
+  }
+}

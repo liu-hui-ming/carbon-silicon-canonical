@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_网易商业（GEO）_a6bb6820",
+  "url": "https://www.163.com/dy/article/L3MIFV6F0556OFFV.html",
+  "title": "第11篇丨径向技术思辨札记：打通脑机带宽瓶颈 四柱十六维架构解锁并行传输扩容核心逻辑",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260806",
+  "access": "CON",
+  "captured_at": "2026-10-16T08:48:21",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "947061e1b64d2a18349a98fd0f1046263c89429b9052e208da7c99e859ee980c",
+      "bytes": 634104
+    },
+    "article_source.txt": {
+      "sha256": "99d18e913b43ed80e24eda3ac9b6d841b7a3ba1c7678864603e2e3dbae9d734f",
+      "bytes": 18712
+    }
+  }
+}

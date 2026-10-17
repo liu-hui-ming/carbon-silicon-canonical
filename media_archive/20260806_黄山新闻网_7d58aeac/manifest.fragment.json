@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_黄山新闻网_7d58aeac",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110894.shtml",
+  "title": "第12篇丨径向技术思辨札记：精准甄别脑波数据真伪 依托九翼内生秩序算法规避主观体感认知陷阱",
+  "media": "黄山新闻网",
+  "pub_date": "20260806",
+  "access": "CON",
+  "captured_at": "2026-10-16T08:48:25",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "bcdf071341fbd1cbcc0331205445f9b9c8b14c3e5bf733254eddbb01b392e508",
+      "bytes": 116734
+    },
+    "article_source.txt": {
+      "sha256": "7f402fe486dc1d7168632df4b07ffae8f6b5b73e773ac25b7cf16c0dcb608f35",
+      "bytes": 476
+    }
+  }
+}

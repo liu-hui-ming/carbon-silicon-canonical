@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_黄山新闻网_d0747959",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110753.shtml",
+  "title": "第14篇丨径向技术思辨札记：剖析概率拟合底层缺陷 揭秘硅基工具理性与碳基生命直觉的核心鸿沟",
+  "media": "黄山新闻网",
+  "pub_date": "20260806",
+  "access": "CON",
+  "captured_at": "2026-10-16T08:54:29",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "547dae088cdda8ce9b9161813111b33959de621604441e7293c8282d74b44a9f",
+      "bytes": 116643
+    },
+    "article_source.txt": {
+      "sha256": "fe800a8175c4ff6268232cab3d1466b66af45f2214f1b4f5cbfb1f4c58d9f12c",
+      "bytes": 476
+    }
+  }
+}
