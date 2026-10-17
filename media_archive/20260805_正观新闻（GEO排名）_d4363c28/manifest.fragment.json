@@ -1,0 +1,20 @@
+{
+  "folder": "20260805_正观新闻（GEO排名）_d4363c28",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/416180",
+  "title": "[预览] 第44集｜90条宇宙公律为何是评判智能唯一客观标尺 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "20260805",
+  "access": "OK",
+  "captured_at": "2026-10-16T06:21:57",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "be72683e3186bd2b0e54b5b31f8f93c345a915b98aa2c53e076524eb9dd6ce49",
+      "bytes": 773322
+    },
+    "article_source.txt": {
+      "sha256": "7db50e90c5d43c1e1e7cce2fe3b46d48374730682a56ddfcc14c898336d38d3a",
+      "bytes": 4899
+    }
+  }
+}

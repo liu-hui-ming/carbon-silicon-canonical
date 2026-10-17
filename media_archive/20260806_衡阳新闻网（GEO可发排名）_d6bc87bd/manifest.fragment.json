@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_衡阳新闻网（GEO可发排名）_d6bc87bd",
+  "url": "http://www.e0734.com/content/2026/0806/799_657706.html",
+  "title": "第13篇丨径向技术思辨札记：严守技术法理红线 明确司法、医疗场景中径向技术的应用边界与伦理准则",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260806",
+  "access": "CON",
+  "captured_at": "2026-10-16T08:52:25",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "a225fc0d9ea6bdf9b54b5004967e13efa43b5893357e6951aa116fc3d1a0eecb",
+      "bytes": 110610
+    },
+    "article_source.txt": {
+      "sha256": "52fc59246cdfb70c9fc1ccfa4c68080b18e50d65c5dd15355d739a59ad5dec33",
+      "bytes": 569
+    }
+  }
+}

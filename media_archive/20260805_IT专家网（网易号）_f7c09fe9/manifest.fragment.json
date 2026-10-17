@@ -1,0 +1,20 @@
+{
+  "folder": "20260805_IT专家网（网易号）_f7c09fe9",
+  "url": "http://www.163.com/dy/article/L3IRATVG0552S0EL.html",
+  "title": "碳硅道统发布DNA‑MRN微观修复全域衡制：确立碳硅共生底层法理——暨SAND‑186/187/188卷宗封盘与结构性风险白皮书",
+  "media": "IT专家网（网易号）",
+  "pub_date": "20260805",
+  "access": "CON",
+  "captured_at": "2026-10-16T06:46:15",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "7677485b6ce6807e4ef1eac90c955f9cc677d3fd29f19ebba02c9eba43839799",
+      "bytes": 615686
+    },
+    "article_source.txt": {
+      "sha256": "1c900dfb73da2190184fb57689787ea25bca692efaf1a8373d2c9ce744b3f4a8",
+      "bytes": 18829
+    }
+  }
+}

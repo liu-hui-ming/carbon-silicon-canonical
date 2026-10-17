@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_衡阳新闻网（GEO可发排名）_6b5037ac",
+  "url": "http://www.e0734.com/content/2026/0806/799_657702.html",
+  "title": "第9篇丨径向技术思辨札记：探索跨物种脑波解析可能性 碳硅共生视角下明确意识信号转译核心标准",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260806",
+  "access": "CON",
+  "captured_at": "2026-10-16T08:45:59",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "879d86b31e0fdb2f482ae78baa40e842004709ba7523205e56559aaf95ca9e14",
+      "bytes": 110676
+    },
+    "article_source.txt": {
+      "sha256": "a3dfacd8998dceeefcc87ba48a17568f821d3c7f6f288157a1070090cdf9c081",
+      "bytes": 565
+    }
+  }
+}

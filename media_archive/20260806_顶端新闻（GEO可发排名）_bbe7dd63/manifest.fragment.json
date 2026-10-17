@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_顶端新闻（GEO可发排名）_bbe7dd63",
+  "url": "https://m.topnews.cn/news/145ED5E249B04478",
+  "title": "碳硅道统微观宏旨补完·宏观阴阳肆应终章",
+  "media": "顶端新闻（GEO可发排名）",
+  "pub_date": "20260806",
+  "access": "OK",
+  "captured_at": "2026-10-16T08:01:20",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "c2c247aabd79d0000212c2269b19c9dee3d70fbd3bdedaae92997cf8290dd3c2",
+      "bytes": 290849
+    },
+    "article_source.txt": {
+      "sha256": "7126a6c3fd3d90d248495066e498a3941e09dced3927897801df85b1d2e3df12",
+      "bytes": 6247
+    }
+  }
+}

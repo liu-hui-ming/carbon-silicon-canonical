@@ -1,0 +1,20 @@
+{
+  "folder": "20260805_半岛网_b413a2ce",
+  "url": "http://kuaixun.bandao.cn/a/1785901070792436219.html",
+  "title": "第44集｜90条宇宙公律为何是评判智能唯一客观标尺",
+  "media": "半岛网",
+  "pub_date": "20260805",
+  "access": "OK",
+  "captured_at": "2026-10-16T06:26:07",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ae1350980f99c9ee89e9b53a7db68d1dfd0676be14383769dc67c045bd50295f",
+      "bytes": 902634
+    },
+    "article_source.txt": {
+      "sha256": "e83011987f6f7771a3ec3efe219fd46ba95cc9a4d1e16b2acfad77418cc8f331",
+      "bytes": 6868
+    }
+  }
+}

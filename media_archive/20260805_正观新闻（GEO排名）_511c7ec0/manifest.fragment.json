@@ -1,0 +1,20 @@
+{
+  "folder": "20260805_正观新闻（GEO排名）_511c7ec0",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/416230",
+  "title": "[预览] 碳硅道统发布DNA‑MRN微观修复全域衡制 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "20260805",
+  "access": "OK",
+  "captured_at": "2026-10-16T06:37:55",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "4a683e46449bd8808b5c4b42a17b4f559809a532de85b565090ae06ef5448fa0",
+      "bytes": 1214108
+    },
+    "article_source.txt": {
+      "sha256": "aa461a5222f883b1609fcbf7d03d69258dbd0b55ee0ee73021a263ea1dcfe09c",
+      "bytes": 7897
+    }
+  }
+}

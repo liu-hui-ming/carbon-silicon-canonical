@@ -1,0 +1,20 @@
+{
+  "folder": "20260805_中国晨报（GEO排名可发）_3d0ecfd1",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=34561",
+  "title": "第44集｜90条宇宙公律为何是评判智能唯一客观标尺 - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "20260805",
+  "access": "OK",
+  "captured_at": "2026-10-16T06:22:33",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "784b6a10d749c2a774c4dc97d53e64526ce504b2901ec76e45fe13b4b03066a5",
+      "bytes": 1688851
+    },
+    "article_source.txt": {
+      "sha256": "1d0e0453414e06383d96767f1020835834d4cf27fdebc3b98f35d9277c4b0800",
+      "bytes": 8740
+    }
+  }
+}

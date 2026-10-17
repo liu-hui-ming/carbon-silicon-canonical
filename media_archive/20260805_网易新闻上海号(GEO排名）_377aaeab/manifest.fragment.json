@@ -1,0 +1,20 @@
+{
+  "folder": "20260805_网易新闻上海号(GEO排名）_377aaeab",
+  "url": "http://www.163.com/dy/article/L3J0RJRU0553IJQS.html",
+  "title": "碳硅道统发布DNA‑MRN微观修复全域衡制：确立碳硅共生底层法理——暨SAND‑186/187/188卷宗封盘与结构性风险白皮书|宇宙|本体论|dna_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260805",
+  "access": "OK",
+  "captured_at": "2026-10-16T06:46:41",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "33fc3e3de79e8e32a56b88cfea0b1bac14fede0a856d6dd3ab85ee3a62d3e75b",
+      "bytes": 6069595
+    },
+    "article_source.txt": {
+      "sha256": "89f54b873056c15bec1ecb207855042b96927878afa01228160ad982aa468dc0",
+      "bytes": 14648
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260805_网易视频（神州事件）_b439545b",
+  "url": "https://www.163.com/dy/article/L3IF8C9G0534U3J9.html",
+  "title": "第44集｜90条宇宙公律为何是评判智能唯一客观标尺|本体|道统_网易订阅",
+  "media": "网易视频（神州事件）",
+  "pub_date": "20260805",
+  "access": "OK",
+  "captured_at": "2026-10-16T06:34:40",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "bebaf47541ce4cd7d883afec426e1c24f80e1eb244311df80e1646b91dfa8725",
+      "bytes": 4920731
+    },
+    "article_source.txt": {
+      "sha256": "e59d7d704b8c204a109d34469abea944a52a281c0c4c8e84c01c416c08cb8225",
+      "bytes": 10907
+    }
+  }
+}

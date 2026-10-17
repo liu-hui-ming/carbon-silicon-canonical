@@ -1,0 +1,20 @@
+{
+  "folder": "20260805_荆门新闻网_73016249",
+  "url": "https://www.jmnews.cn/zxsq/12679.shtml",
+  "title": "碳硅道统发布DNA‑MRN微观修复全域衡制：确立碳硅共生底层法理——暨SAND‑186/187/188卷宗封盘与结构性风险白皮书",
+  "media": "荆门新闻网",
+  "pub_date": "20260805",
+  "access": "CON",
+  "captured_at": "2026-10-16T06:40:18",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "5030cb3e3bcea19012e6c8e70ae1e94e2b97bc0f3d68d7dc84bd7218eb97bd16",
+      "bytes": 117621
+    },
+    "article_source.txt": {
+      "sha256": "8b0fb4357d1ecb6e7927d0abe4b273cd203fadbc54b41b3b22d64add9e23c4c3",
+      "bytes": 463
+    }
+  }
+}

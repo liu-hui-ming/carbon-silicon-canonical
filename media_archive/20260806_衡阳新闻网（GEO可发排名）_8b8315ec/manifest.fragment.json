@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_衡阳新闻网（GEO可发排名）_8b8315ec",
+  "url": "http://www.e0734.com/content/2026/0806/799_657714.html",
+  "title": "第21篇丨碳硅边界论战文稿：破除产业软性发展枷锁 正视社会认知偏见对AI技术迭代的制约影响",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260806",
+  "access": "CON",
+  "captured_at": "2026-10-16T09:03:46",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "05a4c9806c72e8e7d6bd06dc45108dea68661aaf5bf55b70a6aaac22ad2ea73a",
+      "bytes": 110631
+    },
+    "article_source.txt": {
+      "sha256": "9924bf33834ebc61c5e248bc1964c8b6819bcfb1fc1f70d6782c92eaba48cd93",
+      "bytes": 559
+    }
+  }
+}

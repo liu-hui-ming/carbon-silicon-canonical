@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_衡阳新闻网（GEO可发排名）_f3161daf",
+  "url": "http://www.e0734.com/content/2026/0806/799_657697.html",
+  "title": "第4篇丨径向技术思辨札记：亿级脑数据流实时成像遇阻 算力瓶颈下碳硅异构计算协同破局思路",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260806",
+  "access": "CON",
+  "captured_at": "2026-10-16T08:29:42",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "cac6d7eb4374d597fb32acda0936e7c26e69757a736336c7ef5c28b49b4be084",
+      "bytes": 110707
+    },
+    "article_source.txt": {
+      "sha256": "6d83a5f6e84794c87be4298935aa374752bc0e1d8a76d029653a6960cee85df5",
+      "bytes": 475
+    }
+  }
+}

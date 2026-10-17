@@ -1,0 +1,20 @@
+{
+  "folder": "20260805_黄山新闻网_2bea9dca",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110623.shtml",
+  "title": "碳硅道统发布DNA‑MRN微观修复全域衡制：确立碳硅共生底层法理——暨SAND‑186/187/188卷宗封盘与结构性风险白皮书",
+  "media": "黄山新闻网",
+  "pub_date": "20260805",
+  "access": "CON",
+  "captured_at": "2026-10-16T06:39:09",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "629d10acd72d1647928846080de651943e4729914f66c78d2570be4bac910997",
+      "bytes": 115068
+    },
+    "article_source.txt": {
+      "sha256": "3d85511275953dccaa780e7a27d823268c08be963927c15a5eee0e4eed86b7eb",
+      "bytes": 497
+    }
+  }
+}

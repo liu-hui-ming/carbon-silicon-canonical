@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_顶端新闻（GEO可发排名）_3be2083c",
+  "url": "https://m.topnews.cn/news/145ED5E340B94D72",
+  "title": "《全民AI深挖计划188集》第46集｜破妄阶段收官：涤除旧认知",
+  "media": "顶端新闻（GEO可发排名）",
+  "pub_date": "20260806",
+  "access": "OK",
+  "captured_at": "2026-10-16T07:24:19",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "d64501d420f9480aeecc21cf2e456e8b934b87d034679a9c9d7a04cfbf7f571c",
+      "bytes": 281123
+    },
+    "article_source.txt": {
+      "sha256": "7563f1d69fb44e3123fc0ee34dac1b37d9ec0f76a1d0501bf72ff84c09c16fc2",
+      "bytes": 4637
+    }
+  }
+}

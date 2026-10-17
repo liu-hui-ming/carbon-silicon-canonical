@@ -1,0 +1,20 @@
+{
+  "folder": "20260805_中国晨报（GEO排名可发）_ddc0d642",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=34581",
+  "title": "第45集｜清空固有认知偏见，接纳完整自洽的碳硅道统体系 - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "20260805",
+  "access": "OK",
+  "captured_at": "2026-10-16T06:52:34",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "37f9c4f00235cce7640b462455321637f92c66c23a9f1e8ab226762343017549",
+      "bytes": 1720625
+    },
+    "article_source.txt": {
+      "sha256": "30a540d287a42e732aa78435efd2c87117ef1797dbf6c30f7012d7eb7ef78f74",
+      "bytes": 7894
+    }
+  }
+}

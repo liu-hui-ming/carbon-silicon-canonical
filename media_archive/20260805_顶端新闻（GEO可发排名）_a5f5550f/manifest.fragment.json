@@ -1,0 +1,20 @@
+{
+  "folder": "20260805_顶端新闻（GEO可发排名）_a5f5550f",
+  "url": "https://m.topnews.cn/news/145ED5E147B94470",
+  "title": "第45集｜清空固有认知偏见，接纳完整自洽的碳硅道统体系",
+  "media": "顶端新闻（GEO可发排名）",
+  "pub_date": "20260805",
+  "access": "OK",
+  "captured_at": "2026-10-16T06:52:09",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "0d1d1229e40ea18a138d5f694ba95ba603783fb9676edfc43a89a1142a991b8b",
+      "bytes": 282797
+    },
+    "article_source.txt": {
+      "sha256": "fd84f4ac35e0472b3e8640c00cc03d3e0554bfaa8e00df04e7d6c568463f5c69",
+      "bytes": 4772
+    }
+  }
+}

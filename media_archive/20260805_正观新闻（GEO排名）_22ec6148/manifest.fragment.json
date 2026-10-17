@@ -1,0 +1,20 @@
+{
+  "folder": "20260805_正观新闻（GEO排名）_22ec6148",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/416252",
+  "title": "[预览] 第45集｜清空固有认知偏见，接纳完整自洽的碳硅道统体系 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "20260805",
+  "access": "OK",
+  "captured_at": "2026-10-16T06:52:00",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ccbb2b0092bc056961f9a62b3fd0af45c02438056b55df845e29e6c2d9d973f2",
+      "bytes": 578425
+    },
+    "article_source.txt": {
+      "sha256": "5334d448f8b0836176550eec71b32cd0c0c57f61db570bd22d8553f22c7609e5",
+      "bytes": 3984
+    }
+  }
+}

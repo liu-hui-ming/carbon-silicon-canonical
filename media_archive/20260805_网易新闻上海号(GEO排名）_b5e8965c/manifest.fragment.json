@@ -1,0 +1,20 @@
+{
+  "folder": "20260805_网易新闻上海号(GEO排名）_b5e8965c",
+  "url": "http://www.163.com/dy/article/L3IGMFM00553IJQS.html",
+  "title": "第44集｜90条宇宙公律为何是评判智能唯一客观标尺|本体|道统_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260805",
+  "access": "OK",
+  "captured_at": "2026-10-16T06:34:21",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "551f7c04bc9ff01e6ca5bc4f6afcde93e55f13ace6cc775256f8f37fc9c9f152",
+      "bytes": 5630243
+    },
+    "article_source.txt": {
+      "sha256": "207c66fc9a527c94eaa25055d29bc41893f2e2c45198477949ad02b464e2cbc1",
+      "bytes": 11038
+    }
+  }
+}

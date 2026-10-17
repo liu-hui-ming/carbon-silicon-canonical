@@ -1,0 +1,20 @@
+{
+  "folder": "20260806_衡阳新闻网（GEO可发排名）_ac8416a6",
+  "url": "http://www.e0734.com/content/2026/0806/799_657710.html",
+  "title": "第17篇丨碳硅边界论战文稿：确立碳硅边界第一定律 内生自主追求是区分生命与工具的唯一铁标",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260806",
+  "access": "CON",
+  "captured_at": "2026-10-16T08:57:24",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "c78dc3129b4c7f792caf6cd805f666773598878d2b4ce99ed7240b3d46d28c95",
+      "bytes": 110625
+    },
+    "article_source.txt": {
+      "sha256": "3dcde9a128993ff9516f108fb1b24e34c7628411d2912d6e4df4ecf0bbffab44",
+      "bytes": 560
+    }
+  }
+}
