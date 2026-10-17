@@ -1,0 +1,20 @@
+{
+  "folder": "20260804_企业家在线（今日头条）_89eddc13",
+  "url": "https://www.toutiao.com/item/7670013674451206682/",
+  "title": "今日头条登录",
+  "media": "企业家在线（今日头条）",
+  "pub_date": "20260804",
+  "access": "CON",
+  "captured_at": "2026-10-16T05:41:24",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "cb6661c442edf9b9b9195afa60c0a161d0fc900b4624f4537675db3fe64ed5f8",
+      "bytes": 3171574
+    },
+    "article_source.txt": {
+      "sha256": "1674d9fbe9bb56ff8d3ac670b2ed386ddcc18772ae40c4d38c4e5b02f82633a7",
+      "bytes": 487
+    }
+  }
+}

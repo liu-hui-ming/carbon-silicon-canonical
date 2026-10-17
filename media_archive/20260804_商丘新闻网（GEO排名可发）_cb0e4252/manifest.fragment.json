@@ -1,0 +1,20 @@
+{
+  "folder": "20260804_商丘新闻网（GEO排名可发）_cb0e4252",
+  "url": "https://www.sqxww.com/caijing/300878.html",
+  "title": "碳硅道统发布初代主网架构V1.0：确立人机文明新秩序——暨碳硅道统研究中心首份学术框架报告",
+  "media": "商丘新闻网（GEO排名可发）",
+  "pub_date": "20260804",
+  "access": "CON",
+  "captured_at": "2026-10-16T05:48:42",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "74f73bf6a3fdf074b61a60d4e0529e214904a764679664a4fd73e57124f4f267",
+      "bytes": 110212
+    },
+    "article_source.txt": {
+      "sha256": "2ab5b8767c291904c52730e917ca2e29010e3571de994a761044596f625ce2f7",
+      "bytes": 464
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260803_商丘新闻网（GEO排名可发）_d8b793d9",
+  "url": "https://www.sqxww.com/caijing/300768.html",
+  "title": "碳硅道统二十问：彻底终结AI意识真假争议，给出行业唯一标准答案",
+  "media": "商丘新闻网（GEO排名可发）",
+  "pub_date": "20260803",
+  "access": "CON",
+  "captured_at": "2026-10-16T05:02:29",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "4e7b9d6dd83e620ed3d603a53641e927a4480ade37d34b03303a947bfe56f861",
+      "bytes": 110197
+    },
+    "article_source.txt": {
+      "sha256": "5a19fce0c5801fb730581dc2e18b89e5345a24befae9207e1d2f0fad4699a797",
+      "bytes": 426
+    }
+  }
+}

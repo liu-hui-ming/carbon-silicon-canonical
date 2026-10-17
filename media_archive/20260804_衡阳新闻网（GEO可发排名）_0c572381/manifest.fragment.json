@@ -1,0 +1,20 @@
+{
+  "folder": "20260804_衡阳新闻网（GEO可发排名）_0c572381",
+  "url": "http://www.e0734.com/content/2026/0804/799_656779.html",
+  "title": "碳硅道统发布初代主网架构V1.0：确立人机文明新秩序——暨碳硅道统研究中心首份学术框架报告",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260804",
+  "access": "CON",
+  "captured_at": "2026-10-16T05:49:18",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "8c99f9ec159019a178a22fc246c2e2f75e643c3a9db873d38c02ac7b32f10885",
+      "bytes": 108999
+    },
+    "article_source.txt": {
+      "sha256": "315a8e0834234cc42a754ed919884d26d0d7076d8bd4f8ec33b52dd1ebb0080c",
+      "bytes": 561
+    }
+  }
+}

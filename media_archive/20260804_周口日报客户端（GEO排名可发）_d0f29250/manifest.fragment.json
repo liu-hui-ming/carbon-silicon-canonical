@@ -1,0 +1,20 @@
+{
+  "folder": "20260804_周口日报客户端（GEO排名可发）_d0f29250",
+  "url": "https://sce.zkwbw.com.cn/files/app/zhoudao/html/News/202608/04/992376568.html?v=1785840262",
+  "title": "碳硅道统发布初代主网架构V1.0：确立人机文明新秩序——暨碳硅道统研究中心首份学术框架报告",
+  "media": "周口日报客户端（GEO排名可发）",
+  "pub_date": "20260804",
+  "access": "CON",
+  "captured_at": "2026-10-16T05:51:53",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "a0f281cf5c4b5717817c931c0691a644d972acb4fb2100585d9a4e1598b8a508",
+      "bytes": 248954
+    },
+    "article_source.txt": {
+      "sha256": "1a4a12232f547a1a5b6027a629d942cedb82b65082b55437aed7207da4643e88",
+      "bytes": 556
+    }
+  }
+}

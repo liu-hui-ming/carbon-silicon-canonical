@@ -1,0 +1,20 @@
+{
+  "folder": "20260803_信阳日报（GEO排名可发）_9d4e9525",
+  "url": "https://ribao.xyxww.com.cn/html/2026-08/03/2077325.html",
+  "title": "第40集｜现有科研体系规则，从根源限制真正智能方向突破_第46版_信阳日报数字报刊",
+  "media": "信阳日报（GEO排名可发）",
+  "pub_date": "20260803",
+  "access": "OK",
+  "captured_at": "2026-10-16T04:47:01",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "b3d0129aa13af7c37ca6d8b42d58e3c0a840de3f97579bb945d1422c945385e1",
+      "bytes": 868100
+    },
+    "article_source.txt": {
+      "sha256": "8b6795bff0879fed1a86bff89d0c21924183a22b912e95b637644c9130b469ea",
+      "bytes": 4676
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260803_正观新闻（GEO排名）_a4be450f",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/415869",
+  "title": "[预览] 碳硅道统二十问：彻底终结AI意识真假争议，给出行业唯一标准答案 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "20260803",
+  "access": "OK",
+  "captured_at": "2026-10-16T05:01:28",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "75bf6fdc79bada5305ab2055bd8cca99a2f6734f873cd92eeff3d243780819fa",
+      "bytes": 1639861
+    },
+    "article_source.txt": {
+      "sha256": "344399c87b2991e03100411fa6e38e7d76d0a7554be5205f44815384db07c1f3",
+      "bytes": 11486
+    }
+  }
+}

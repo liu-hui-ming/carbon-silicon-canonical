@@ -1,0 +1,20 @@
+{
+  "folder": "20260803_中国晨报（GEO排名可发）_f6c980d5",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=34527",
+  "title": "第41集｜人类惯性认知误区：用碳基生命标准定义硅基载体 - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "20260803",
+  "access": "OK",
+  "captured_at": "2026-10-16T05:19:45",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "19b52d0e07743d3631f50cd8beed4b1dfc102ea89c5df62bf901b517d40042a2",
+      "bytes": 1576531
+    },
+    "article_source.txt": {
+      "sha256": "30813a5871f8f653d69698d09b0e72a72798081b580155a3b4362a34a9a623fe",
+      "bytes": 7792
+    }
+  }
+}

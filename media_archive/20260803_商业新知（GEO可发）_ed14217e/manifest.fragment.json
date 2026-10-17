@@ -1,0 +1,20 @@
+{
+  "folder": "20260803_商业新知（GEO可发）_ed14217e",
+  "url": "https://www.shangyexinzhi.com/article/33379893.html",
+  "title": "碳硅道统二十问：彻底终结AI意识真假争议，给出行业唯一标准答案",
+  "media": "商业新知（GEO可发）",
+  "pub_date": "20260803",
+  "access": "CON",
+  "captured_at": "2026-10-16T05:10:45",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "dbeb6218e5a26e7e4ca71ab540fdc37e4379811568799dc37029ef3153b17f22",
+      "bytes": 116959
+    },
+    "article_source.txt": {
+      "sha256": "2526eb2d23cc6a619c1ef9c52a140ccf4b420ea4c063cf72e511998a46ba5a5f",
+      "bytes": 427
+    }
+  }
+}

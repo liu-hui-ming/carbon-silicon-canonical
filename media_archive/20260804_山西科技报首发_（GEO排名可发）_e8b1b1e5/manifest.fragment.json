@@ -1,0 +1,20 @@
+{
+  "folder": "20260804_山西科技报首发_（GEO排名可发）_e8b1b1e5",
+  "url": "https://www.sxkjbs.com/tuiguang/8nleEDGloN.html",
+  "title": "碳硅道统发布初代主网架构V1.0：确立人机文明新秩序——暨碳硅道统研究中心首份学术框架报告",
+  "media": "山西科技报首发 （GEO排名可发）",
+  "pub_date": "20260804",
+  "access": "CON",
+  "captured_at": "2026-10-16T05:52:13",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ca6ac4d1edc605afccceae297508e2dea2175b8fa4765e57ef4a35bce256a0f0",
+      "bytes": 2526138
+    },
+    "article_source.txt": {
+      "sha256": "8bb71ecc63ee81d3c0874b5bf943874ff74ce55b36e6aabf9279ec7c6d4f5918",
+      "bytes": 567
+    }
+  }
+}

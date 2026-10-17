@@ -1,0 +1,20 @@
+{
+  "folder": "20260803_网易商业（GEO）_b73a9c17",
+  "url": "https://www.163.com/dy/article/L3DC1P760553UZX0.html?referFrom=",
+  "title": "碳硅道统二十问：彻底终结AI意识真假争议，给出行业唯一标准答案",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260803",
+  "access": "CON",
+  "captured_at": "2026-10-16T05:18:48",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "071f4a7d988a330dfd3fc1db4c2e2cc55895f38529e4cab4e6dcc5725be5d803",
+      "bytes": 615695
+    },
+    "article_source.txt": {
+      "sha256": "1be767cb371111a77009147c7f43353e4e1dd18be7f7b00ce93d18189818c1e3",
+      "bytes": 18901
+    }
+  }
+}

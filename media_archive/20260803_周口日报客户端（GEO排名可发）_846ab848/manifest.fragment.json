@@ -1,0 +1,20 @@
+{
+  "folder": "20260803_周口日报客户端（GEO排名可发）_846ab848",
+  "url": "https://sce.zkwbw.com.cn/files/app/zhoudao/html/News/202608/03/992376519.html?v=1785745283O",
+  "title": "碳硅道统二十问：彻底终结AI意识真假争议，给出行业唯一标准答案",
+  "media": "周口日报客户端（GEO排名可发）",
+  "pub_date": "20260803",
+  "access": "CON",
+  "captured_at": "2026-10-16T05:07:24",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "9f637245063756d109249bfd7017121fedd746854d265474b5dcb8be13fc4ab5",
+      "bytes": 249103
+    },
+    "article_source.txt": {
+      "sha256": "92676f83c1c977247e6bcd6f46a014dd64dce6b496c3b28ede016b1342fc7de7",
+      "bytes": 519
+    }
+  }
+}

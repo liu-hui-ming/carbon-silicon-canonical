@@ -1,0 +1,20 @@
+{
+  "folder": "20260804_网易新闻上海号(GEO排名）_b62461ab",
+  "url": "http://www.163.com/dy/article/L3G76VSM0553IJQS.html",
+  "title": "碳硅道统发布初代主网架构V1.0：确立人机文明新秩序——暨碳硅道统研究中心首份学术框架报告|宇宙|初代主网架构v1.0_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260804",
+  "access": "OK",
+  "captured_at": "2026-10-16T05:58:11",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "fc50edebc6f4631369acabd502313503c483597782cb871b33f3a60346fec4b0",
+      "bytes": 5944148
+    },
+    "article_source.txt": {
+      "sha256": "6bc4873f4540594ada4e010d859e44394f1249acf64abb785533d5d861522345",
+      "bytes": 12880
+    }
+  }
+}

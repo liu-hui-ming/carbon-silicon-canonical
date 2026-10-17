@@ -1,0 +1,20 @@
+{
+  "folder": "20260803_上海讯息点播_8dcaeaf0",
+  "url": "https://www.toutiao.com/item/7669627819252515378/",
+  "title": "今日头条登录",
+  "media": "上海讯息点播",
+  "pub_date": "20260803",
+  "access": "CON",
+  "captured_at": "2026-10-16T04:58:31",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "9a397d85101e8116ba890a2f563b69fbba1312bc9bc9d3bff566120ea300b8ef",
+      "bytes": 2899968
+    },
+    "article_source.txt": {
+      "sha256": "cedccd16cb3a3650b26d08a9b137624e426dc3c4985e3801eef78d71f230e5c6",
+      "bytes": 472
+    }
+  }
+}

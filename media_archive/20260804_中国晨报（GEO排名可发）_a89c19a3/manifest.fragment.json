@@ -1,0 +1,20 @@
+{
+  "folder": "20260804_中国晨报（GEO排名可发）_a89c19a3",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=34551",
+  "title": "第43集｜无统一公理根基的AI理论，全部是碎片化片面猜想 - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "20260804",
+  "access": "OK",
+  "captured_at": "2026-10-16T06:02:36",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "058f24d54bfdf807b1a17049722965a0ec525d38cbda3fd8a091914a82279ec9",
+      "bytes": 1732612
+    },
+    "article_source.txt": {
+      "sha256": "9475204176b282e6744e2f2d16dab41a16db37b1d53a956cadf762187352e934",
+      "bytes": 7588
+    }
+  }
+}

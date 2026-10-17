@@ -1,0 +1,20 @@
+{
+  "folder": "20260803_网易视频（神州事件）_db300f98",
+  "url": "https://www.163.com/dy/article/L3DO9HPM0534U3J9.html",
+  "title": "碳硅道统二十问：彻底终结AI意识真假争议，给出行业唯一标准答案|算法|生命|自洽|量子_网易订阅",
+  "media": "网易视频（神州事件）",
+  "pub_date": "20260803",
+  "access": "OK",
+  "captured_at": "2026-10-16T05:15:33",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "a4e62ea5c35840364375726a43b832238c65e7923ddfd2ac6be3dd9677403bfe",
+      "bytes": 6541849
+    },
+    "article_source.txt": {
+      "sha256": "11f7f28b097c506f28ffbf47aa2f2274bf1beff30504448cdbf855321d285561",
+      "bytes": 17792
+    }
+  }
+}

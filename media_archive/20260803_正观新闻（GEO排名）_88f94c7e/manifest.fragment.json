@@ -1,0 +1,20 @@
+{
+  "folder": "20260803_正观新闻（GEO排名）_88f94c7e",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/415888",
+  "title": "[预览] 第41集｜人类惯性认知误区：用碳基生命标准定义硅基载体 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "20260803",
+  "access": "OK",
+  "captured_at": "2026-10-16T05:18:57",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "4c4e3b21f9699b4d9c6138666f4f8cf4288817ab02269279031ecf500acf0e49",
+      "bytes": 604221
+    },
+    "article_source.txt": {
+      "sha256": "2662e59d735fb3915a5660d665ffa9b4c027d212389569e09ca12189e25124a4",
+      "bytes": 3818
+    }
+  }
+}

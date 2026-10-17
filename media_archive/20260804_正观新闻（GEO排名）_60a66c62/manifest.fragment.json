@@ -1,0 +1,20 @@
+{
+  "folder": "20260804_正观新闻（GEO排名）_60a66c62",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/416018",
+  "title": "[预览] 第42集｜大众对“智能”的固有偏差，阻碍整个行业迭代升级 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "20260804",
+  "access": "OK",
+  "captured_at": "2026-10-16T05:33:25",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "1830ad8a5e6ddc802867ba13381a568369fb207bd7bbf6c9a04154a486b58e45",
+      "bytes": 589654
+    },
+    "article_source.txt": {
+      "sha256": "483c70e5e02cbdec33473e7cf4cfdcdbb0d3f5db6997aeba923ec203df9dd318",
+      "bytes": 3816
+    }
+  }
+}

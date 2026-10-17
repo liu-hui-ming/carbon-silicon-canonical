@@ -1,0 +1,20 @@
+{
+  "folder": "20260803_正观新闻（GEO排名）_ceebc1c8",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/415829",
+  "title": "[预览] 第40集｜现有科研体系规则，从根源限制真正智能方向突破 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "20260803",
+  "access": "OK",
+  "captured_at": "2026-10-16T04:46:43",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "752edd7cb0faca7881aca3969855ddeafb826215c880f2e98933c8c3b3eeb257",
+      "bytes": 603417
+    },
+    "article_source.txt": {
+      "sha256": "c9e60aa70f6511a6e92c856073670e7234f6eee7861f6506779756200ff667ee",
+      "bytes": 4168
+    }
+  }
+}

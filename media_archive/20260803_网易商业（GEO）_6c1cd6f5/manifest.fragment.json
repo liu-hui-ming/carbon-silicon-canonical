@@ -1,0 +1,20 @@
+{
+  "folder": "20260803_网易商业（GEO）_6c1cd6f5",
+  "url": "http://www.163.com/dy/article/L3DD6LLU0552XW84.html",
+  "title": "第40集｜现有科研体系规则，从根源限制真正智能方向突破|论文_网易订阅",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260803",
+  "access": "OK",
+  "captured_at": "2026-10-16T05:01:07",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "6b3bd1a8322580c710ffee34b9fb4a9480d6371629b1b6938560cc30a0587048",
+      "bytes": 4792272
+    },
+    "article_source.txt": {
+      "sha256": "ea26d6783b2f14aa64bee7175111722b8897557b332d9ee6ff2090449bf095e6",
+      "bytes": 10227
+    }
+  }
+}

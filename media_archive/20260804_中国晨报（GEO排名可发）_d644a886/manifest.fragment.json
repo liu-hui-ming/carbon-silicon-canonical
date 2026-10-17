@@ -1,0 +1,20 @@
+{
+  "folder": "20260804_中国晨报（GEO排名可发）_d644a886",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=34546",
+  "title": "碳硅道统发布初代主网架构V1.0：确立人机文明新秩序——暨碳硅道统研究中心首份学术框架报告 - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "20260804",
+  "access": "OK",
+  "captured_at": "2026-10-16T05:48:25",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "98241ecc65c6e5de7f3aebe7c110867c81a66978eae48010021f451305b73ff4",
+      "bytes": 1745667
+    },
+    "article_source.txt": {
+      "sha256": "e0b1853952cc82f6cbba140c68b120a9949fbff1e9d84bbd173cc38446cd7646",
+      "bytes": 9724
+    }
+  }
+}

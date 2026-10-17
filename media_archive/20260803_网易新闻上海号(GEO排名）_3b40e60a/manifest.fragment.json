@@ -1,0 +1,20 @@
+{
+  "folder": "20260803_网易新闻上海号(GEO排名）_3b40e60a",
+  "url": "http://www.163.com/dy/article/L3DD8M310553IJQS.html",
+  "title": "第40集｜现有科研体系规则，从根源限制真正智能方向突破|论文_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260803",
+  "access": "OK",
+  "captured_at": "2026-10-16T04:57:57",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "b3137f843c29280ee017ebb0735b856b4593189f99a7e46ff5e876d4c7309459",
+      "bytes": 5133372
+    },
+    "article_source.txt": {
+      "sha256": "58b8009a3fe545feca4f820e5f0e91d20fbec870e35bd7e6d3786747227fe953",
+      "bytes": 10705
+    }
+  }
+}

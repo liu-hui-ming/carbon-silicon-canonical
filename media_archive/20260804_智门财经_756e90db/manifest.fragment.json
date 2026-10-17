@@ -1,0 +1,20 @@
+{
+  "folder": "20260804_智门财经_756e90db",
+  "url": "https://www.zhimen.com/index.php/caijing/24049.html?admin_id=1",
+  "title": "智门财经 首发稿件 #1921",
+  "media": "智门财经",
+  "pub_date": "20260804",
+  "access": "CON",
+  "captured_at": "2026-10-16T05:47:26",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "0288746fc544c8a9ee388e35f2954522e9112f6dcc4a42978a33b5874b70a802",
+      "bytes": 125514
+    },
+    "article_source.txt": {
+      "sha256": "4ed81a14115e2dd6ae7171ecf536e656e6ed1e57c9caae3879b4ac67af8cd0d3",
+      "bytes": 430
+    }
+  }
+}

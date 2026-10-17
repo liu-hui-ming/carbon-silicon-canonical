@@ -1,0 +1,20 @@
+{
+  "folder": "20260803_中国商业网（可发GEO）_1fcb610b",
+  "url": "http://www.jkkjwz.cn/list_1/315.html",
+  "title": "第41集｜人类惯性认知误区：用碳基生命标准定义硅基载体-资讯-商业网",
+  "media": "中国商业网（可发GEO）",
+  "pub_date": "20260803",
+  "access": "OK",
+  "captured_at": "2026-10-16T05:27:00",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "a9e6e3117828a5f91d6ae4d99628147f3a83ce62c3612173557f03297eb31cf3",
+      "bytes": 968460
+    },
+    "article_source.txt": {
+      "sha256": "353c7b5acdcba9840ab969d6e7b9b66fde6837fcd55b6ad1674119c33065df1c",
+      "bytes": 6772
+    }
+  }
+}

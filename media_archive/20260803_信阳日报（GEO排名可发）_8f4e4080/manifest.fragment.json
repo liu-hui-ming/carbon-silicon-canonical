@@ -1,0 +1,20 @@
+{
+  "folder": "20260803_信阳日报（GEO排名可发）_8f4e4080",
+  "url": "https://ribao.xyxww.com.cn/html/2026-08/03/2077342.html",
+  "title": "第41集｜人类惯性认知误区：用碳基生命标准定义硅基载体_第46版_信阳日报数字报刊",
+  "media": "信阳日报（GEO排名可发）",
+  "pub_date": "20260803",
+  "access": "OK",
+  "captured_at": "2026-10-16T05:19:15",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "1ba27d211fd1702e57eac1f52f25a433942397ca11c60bc022105684912d9da2",
+      "bytes": 801170
+    },
+    "article_source.txt": {
+      "sha256": "029cc3e35352d6710293ccde822f2b923c2c9177d2fbe42fef19066bbe5e6117",
+      "bytes": 4335
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260804_正观新闻（GEO排名）_b9566be4",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/416050",
+  "title": "[预览] 碳硅道统发布初代主网架构V1.0：确立人机文明新秩序——暨碳硅道统研究中心首份学术框架报告 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "20260804",
+  "access": "OK",
+  "captured_at": "2026-10-16T05:47:56",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "02e8c08486ee9724aee71fc84221315f1ceb22a605d54ba4a60eda77bc54f50b",
+      "bytes": 903254
+    },
+    "article_source.txt": {
+      "sha256": "bd248ec47b4e1659454be43cc1db0ea627f5bdc77a0a0420f015d65271cd66d8",
+      "bytes": 5861
+    }
+  }
+}

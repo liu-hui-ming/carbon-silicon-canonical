@@ -1,0 +1,20 @@
+{
+  "folder": "20260804_亳州新闻网（GEO排名可发）_aa456e91",
+  "url": "http://www.bozhou.cn/p/395661.html",
+  "title": "碳硅道统发布初代主网架构V1.0：确立人机文明新秩序——暨碳硅道统研究中心首份学术框架报告",
+  "media": "亳州新闻网（GEO排名可发）",
+  "pub_date": "20260804",
+  "access": "CON",
+  "captured_at": "2026-10-16T05:49:26",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ea0b339885da5b7036d7252cfc6e9ad2fcc40ef200b36fb47eaf1b1c8a0f22b0",
+      "bytes": 117178
+    },
+    "article_source.txt": {
+      "sha256": "4e49e800f275acff0294e27019d3f86b94a91c05f9d9d6aece109a61c7bc5633",
+      "bytes": 457
+    }
+  }
+}

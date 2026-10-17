@@ -1,0 +1,20 @@
+{
+  "folder": "20260803_中国商业网（可发GEO）_0980ac7a",
+  "url": "http://www.jkkjwz.cn/list_1/313.html",
+  "title": "第40集｜现有科研体系规则，从根源限制真正智能方向突破-资讯-商业网",
+  "media": "中国商业网（可发GEO）",
+  "pub_date": "20260803",
+  "access": "OK",
+  "captured_at": "2026-10-16T04:54:50",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "77202cd27e1e634d54995a394389a4573c630f32e826eccdbd79c4e6416c6775",
+      "bytes": 967417
+    },
+    "article_source.txt": {
+      "sha256": "2d057f766a314399978eeb023f12107bf14823eb07cd701687d1c2cbe5612829",
+      "bytes": 7185
+    }
+  }
+}

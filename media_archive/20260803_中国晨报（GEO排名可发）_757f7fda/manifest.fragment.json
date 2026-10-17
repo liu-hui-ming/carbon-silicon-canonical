@@ -1,0 +1,20 @@
+{
+  "folder": "20260803_中国晨报（GEO排名可发）_757f7fda",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=34513",
+  "title": "第40集｜现有科研体系规则，从根源限制真正智能方向突破 - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "20260803",
+  "access": "OK",
+  "captured_at": "2026-10-16T04:47:31",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "6d4ede0a7f63c58ed55b9b49592f075ecbeb0dc624395cc44ccd560b47e63109",
+      "bytes": 1711512
+    },
+    "article_source.txt": {
+      "sha256": "b378bf2c47cf38fa0fdc73155b3cb82f4e9dd91b5a1a903e75f24caa83fa76db",
+      "bytes": 7990
+    }
+  }
+}
