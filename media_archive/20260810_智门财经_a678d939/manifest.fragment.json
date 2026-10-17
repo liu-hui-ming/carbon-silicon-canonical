@@ -1,0 +1,20 @@
+{
+  "folder": "20260810_智门财经_a678d939",
+  "url": "https://www.zhimen.com/index.php/caijing/24081.html?admin_id=1",
+  "title": "第56集+第57集",
+  "media": "智门财经",
+  "pub_date": "20260810",
+  "access": "CON",
+  "captured_at": "2026-10-16T14:46:09",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "9bb26f2fa94a16810050a069a065c2fb3923ed1247ed8000a9fe8196720d1658",
+      "bytes": 133784
+    },
+    "article_source.txt": {
+      "sha256": "3c7afe38e6eb2781494a528310bf9ba65c675fa1edc677f4583827f2fcdad246",
+      "bytes": 416
+    }
+  }
+}

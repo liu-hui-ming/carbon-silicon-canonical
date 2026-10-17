@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_衡阳新闻网（GEO可发排名）_4bf3d628",
+  "url": "http://www.e0734.com/content/2026/0811/799_659713.html",
+  "title": "碳硅道统AI十八术14｜缺陷分级场景筛选策略：匹配底层约束筛选安全落地业务",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:33:06",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "f951349f94be7fb837a54bfda593ad44598420933a642931dfc92eb53c67d41c",
+      "bytes": 122316
+    },
+    "article_source.txt": {
+      "sha256": "f1dcc9997e4031729c7306a490ffeb31c4a7b83fa2025b2f090334372836d09e",
+      "bytes": 537
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260810_网易新闻上海号(GEO排名）_49239ffe",
+  "url": "http://www.163.com/dy/article/L400R7TE0553IJQS.html",
+  "title": "AI十八数15和AI十八数16|算法|信号|差值|频带_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260810",
+  "access": "OK",
+  "captured_at": "2026-10-16T14:26:21",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "22689f2bae52109a8503334e1420bb7fa7359fd34c290ed7405bb470fcdb305c",
+      "bytes": 7231770
+    },
+    "article_source.txt": {
+      "sha256": "bfa4bb2c3cebea88a2c7f0b8bc5e93fcb5d7914ae4cf5ca21755a6a0e6b41257",
+      "bytes": 17322
+    }
+  }
+}

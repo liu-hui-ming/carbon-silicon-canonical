@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_黄山新闻网_a717f683",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110943.shtml",
+  "title": "碳硅道统AI十八数02｜超长序列“时序衰减”铁律：注意力误差随距离指数上涨",
+  "media": "黄山新闻网",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T14:56:43",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "0922f67f8ca7f458feb993ab9066dd23337854032fdb6b1964918d9ffe836aeb",
+      "bytes": 128332
+    },
+    "article_source.txt": {
+      "sha256": "e6d65f498eeddd437b5e2c46d84a2e39b27c8637ccb81bfccb6dc99a701de646",
+      "bytes": 450
+    }
+  }
+}

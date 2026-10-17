@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_黄山新闻网_c68bdba7",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110939.shtml",
+  "title": "碳硅道统AI十八数06｜算力扩容“收益递减”铁律：资源投入存在增益归零临界点",
+  "media": "黄山新闻网",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:03:27",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "cfc7a9eadcbd7b839f0efb4dbe2a52d761f4ca354c4fa912a51c0e2a10ff9e16",
+      "bytes": 128336
+    },
+    "article_source.txt": {
+      "sha256": "7c4deefae40266cf6c5eb8bbe28b6c76cfcc2ef41288b80f7ac4c1d4d06e5630",
+      "bytes": 453
+    }
+  }
+}

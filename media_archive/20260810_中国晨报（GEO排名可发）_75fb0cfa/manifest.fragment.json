@@ -1,0 +1,20 @@
+{
+  "folder": "20260810_中国晨报（GEO排名可发）_75fb0cfa",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=34649",
+  "title": "《全民AI深挖计划188集》第54集和第55集 - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "20260810",
+  "access": "OK",
+  "captured_at": "2026-10-16T13:42:57",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "72964dc8b0f8603a750eac2ae6bf49374816989330bd24863c02030c949edefe",
+      "bytes": 2325234
+    },
+    "article_source.txt": {
+      "sha256": "8e5b013478908e3b54ee6647eb618181834f036e4bf61da3465f88f76ddf4723",
+      "bytes": 13319
+    }
+  }
+}

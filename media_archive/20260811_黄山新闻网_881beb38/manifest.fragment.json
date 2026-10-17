@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_黄山新闻网_881beb38",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110967.shtml",
+  "title": "碳硅道统AI十八术09｜分段公理前置校验范式：拦截数理推导跳步逻辑谬误",
+  "media": "黄山新闻网",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:23:45",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "2b95a5293a6e2ef9338898e2417ead13acb8d006a84043cd110080cd55266059",
+      "bytes": 128320
+    },
+    "article_source.txt": {
+      "sha256": "898fea5dae18038ab5bfd31ae14a622d3ae76ca4a8ecdddb14a7033dbdf2d9d5",
+      "bytes": 444
+    }
+  }
+}

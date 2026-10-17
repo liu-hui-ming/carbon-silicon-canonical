@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_黄山新闻网_211ccd9d",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110992.shtml",
+  "title": "碳硅道统AI十八式18｜底层智能恒定法理判定标尺：长效界定不受迭代扰动的智能边界",
+  "media": "黄山新闻网",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T16:07:27",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "af9203f5448f4c8173d7e251848ac0f8715b8d7cefc8706e6a21df658f1b1ac8",
+      "bytes": 128334
+    },
+    "article_source.txt": {
+      "sha256": "caececcd44bcd2dc526579a43e17afd44f02c0f0f9b0ec4689ba62b32cf30385",
+      "bytes": 459
+    }
+  }
+}

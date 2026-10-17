@@ -1,0 +1,20 @@
+{
+  "folder": "20260810_网易商业（GEO）_8a182365",
+  "url": "https://www.163.com/dy/article/L40N5TB80553S12I.html?referFrom=",
+  "title": "AI十八数07和AI十八数08",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260810",
+  "access": "CON",
+  "captured_at": "2026-10-16T14:19:37",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "2af3a3e44af32eb93e4d6076dc47269e001b562203173a11e05612d2802d7850",
+      "bytes": 636258
+    },
+    "article_source.txt": {
+      "sha256": "ab8d5e2cf72ec79e453cc0f1bba96f16ef4ef2238c21c46ba9f3e0a3ffb13f36",
+      "bytes": 18402
+    }
+  }
+}

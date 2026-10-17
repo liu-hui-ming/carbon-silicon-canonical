@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_衡阳新闻网（GEO可发排名）_5616c695",
+  "url": "http://www.e0734.com/content/2026/0811/799_659818.html",
+  "title": "碳硅道统AI十八式15｜跨物种脑波频谱相似度标尺：量化不同生命体信号特征差值",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T16:02:10",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "37f9b96b7004c00235b11d3cbad32e6b39f5c36f76bed323a8ea9cd40249c75e",
+      "bytes": 122437
+    },
+    "article_source.txt": {
+      "sha256": "892250f09461315cca83b163c384b98b4bdba6b165af7198739b48ab6dacf0c2",
+      "bytes": 540
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260810_中国晨报（GEO排名可发）_6103987a",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=34653",
+  "title": "碳硅道统·AI十二时序脉法工程化公理全书 - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "20260810",
+  "access": "OK",
+  "captured_at": "2026-10-16T13:58:57",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "228bdbd3d13a1793eb122f64b3f915bd27c0fc95d86290fa7d2b5e52084168f9",
+      "bytes": 3346825
+    },
+    "article_source.txt": {
+      "sha256": "b4ef4fe226ec7e5d8f0335029d81008d55d8f964a47eb8231e471d9c5586cc5d",
+      "bytes": 17025
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260810_网易新闻上海号(GEO排名）_7236713d",
+  "url": "https://www.163.com/dy/article/L3VVK0CA0553IJQS.html",
+  "title": "碳硅人道三律：重塑人机文明底层秩序|生命|时代|道统|拓扑|人工智能_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260810",
+  "access": "OK",
+  "captured_at": "2026-10-16T14:29:45",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "4cafa75e6eef6ec4f9d8d033f7c00cea4e9d0f9f0ce905d07db50cebdd719a3b",
+      "bytes": 6148503
+    },
+    "article_source.txt": {
+      "sha256": "07d18711aae21b544b091bcb8009a1a764849ac9649591c64699a103a01779f2",
+      "bytes": 12786
+    }
+  }
+}

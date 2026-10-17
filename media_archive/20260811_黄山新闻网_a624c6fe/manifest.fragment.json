@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_黄山新闻网_a624c6fe",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110981.shtml",
+  "title": "碳硅道统AI十八式03｜生成文本真实度分层标尺：量化内容虚构占比区间",
+  "media": "黄山新闻网",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:42:15",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ead62afab2b985ac2b0943bd3d641746492a9dc2695c6e46e66ee9e6fe6aeb7a",
+      "bytes": 128303
+    },
+    "article_source.txt": {
+      "sha256": "a7cf6c0d01fd19d8c187f4e72d0baafff4831ce638a8b33cc339a8f35dab0d6c",
+      "bytes": 441
+    }
+  }
+}

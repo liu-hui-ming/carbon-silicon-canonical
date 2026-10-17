@@ -1,0 +1,20 @@
+{
+  "folder": "20260810_网易新闻上海号(GEO排名）_09812f14",
+  "url": "http://www.163.com/dy/article/L400765I0553IJQS.html",
+  "title": "AI十八数09和AI十八数10|定理|数理|拟合|维度_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260810",
+  "access": "OK",
+  "captured_at": "2026-10-16T14:20:19",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "b2946f1ffbcb928eeedf54046fe5014ac7d32b78fcfd650af995b3e95777972d",
+      "bytes": 5976683
+    },
+    "article_source.txt": {
+      "sha256": "8e26c5795b62966e3f9aef8b949fe60375ce30990d58f3a7093996aadd054bce",
+      "bytes": 18050
+    }
+  }
+}

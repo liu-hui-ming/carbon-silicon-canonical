@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_黄山新闻网_6db45014",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110956.shtml",
+  "title": "碳硅道统AI十八数18｜测评迭代“时效衰减”铁律：表层评测更迭不改底层智能法理",
+  "media": "黄山新闻网",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:15:05",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "5d9f498a6c877561e3fb52999e9d32b1369cf2c9ee38178bf55845aef7c06549",
+      "bytes": 128320
+    },
+    "article_source.txt": {
+      "sha256": "924a116ea1cf0aab2b981dc8eb66ffcc37dfd001874208525e1a68df44f1cf87",
+      "bytes": 456
+    }
+  }
+}

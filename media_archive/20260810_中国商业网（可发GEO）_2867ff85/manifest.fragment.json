@@ -1,0 +1,20 @@
+{
+  "folder": "20260810_中国商业网（可发GEO）_2867ff85",
+  "url": "http://www.jkkjwz.cn/list_15/339.html",
+  "title": "《全民AI深挖计划188集》第56集和第57集-商业-商业网",
+  "media": "中国商业网（可发GEO）",
+  "pub_date": "20260810",
+  "access": "OK",
+  "captured_at": "2026-10-16T14:39:03",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "4f5144c5b537d72a2ec782d8735aabf0d88f5edc33e71a5ba45e98f50e3b8dd5",
+      "bytes": 2043316
+    },
+    "article_source.txt": {
+      "sha256": "50de3fd53268fd63295ac3e53edb15a36ff3da2cceca010df8ea7242b42de54a",
+      "bytes": 14055
+    }
+  }
+}

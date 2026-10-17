@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_黄山新闻网_2c248592",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110988.shtml",
+  "title": "碳硅道统AI十八式10｜通用智能落地风险计量标尺：量化长周期工程隐患等级",
+  "media": "黄山新闻网",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:54:22",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "880195e803810974f340e4d44da4371cda69d0665ead806785748f142ea76b7f",
+      "bytes": 128317
+    },
+    "article_source.txt": {
+      "sha256": "ad20c5ad52d90c2d1705d976055cb7f980da0e4dd2c9bb898e814235a8f304a8",
+      "bytes": 447
+    }
+  }
+}

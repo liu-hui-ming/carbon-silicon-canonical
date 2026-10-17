@@ -1,0 +1,20 @@
+{
+  "folder": "20260810_智门财经_41ef624d",
+  "url": "https://www.zhimen.com/index.php/caijing/24080.html?admin_id=1",
+  "title": "碳硅道统·AI十二时序脉法工程化公理全书",
+  "media": "智门财经",
+  "pub_date": "20260810",
+  "access": "CON",
+  "captured_at": "2026-10-16T14:14:26",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "e7d82652dbf334be23ada27abf69ed9045e7ab010f6ddf8ad33fc0b0bab3f21a",
+      "bytes": 133842
+    },
+    "article_source.txt": {
+      "sha256": "75850ea160778aa0e074e7e151aa582b9a1c4ebf69287569e90c43ebe75d6f3b",
+      "bytes": 454
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_黄山新闻网_455d8b4a",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110982.shtml",
+  "title": "碳硅道统AI十八式02｜长文本时序记忆计量标尺：预判信息遗忘风险节点",
+  "media": "黄山新闻网",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:41:19",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "1f70df367523f1d4b47acc1f127f41363731ed59e25365019a2cd413d323fec7",
+      "bytes": 128364
+    },
+    "article_source.txt": {
+      "sha256": "2cf04cbe4fc7d43eeaf4be0112c80b69e53b28d4adef16cef5f3e64f41147064",
+      "bytes": 441
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260810_网易新闻上海号(GEO排名）_923c09ee",
+  "url": "http://www.163.com/dy/article/L400RCNP0553IJQS.html",
+  "title": "AI十八数13和AI十八数14|维度_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260810",
+  "access": "OK",
+  "captured_at": "2026-10-16T14:22:30",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "580e28d4b8e98589f561e0ebc807dff35e153c34420fbfcf7d410d6382805154",
+      "bytes": 6297402
+    },
+    "article_source.txt": {
+      "sha256": "0d049291f43e568cc2b0f024d2f5e203be5eb0b32e6bc30d1a772b8b9ac1f603",
+      "bytes": 17871
+    }
+  }
+}

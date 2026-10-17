@@ -1,0 +1,20 @@
+{
+  "folder": "20260810_网易商业（GEO）_b0474102",
+  "url": "https://www.163.com/dy/article/L40KNSFG0556OFFV.html",
+  "title": "第54集+第55集",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260810",
+  "access": "CON",
+  "captured_at": "2026-10-16T13:58:06",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "a25d04f8fa0dd23053a082ad4fb13ad573555e486b9a29df5639cba11a186483",
+      "bytes": 636494
+    },
+    "article_source.txt": {
+      "sha256": "cfb1d7b5ef912c1e7eb368a1cf3e4cf1f54c493e860a7a6ca9d34fb77916e200",
+      "bytes": 18500
+    }
+  }
+}

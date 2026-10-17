@@ -1,0 +1,20 @@
+{
+  "folder": "20260810_网易新闻上海号(GEO排名）_fabb0b83",
+  "url": "http://www.163.com/dy/article/L3VVJ1UB0553IJQS.html",
+  "title": "AI十八数05和AI十八数06|算法_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260810",
+  "access": "OK",
+  "captured_at": "2026-10-16T14:18:05",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "eb11911647a29d2f15cece330ced3537dd1e36524ebe836e48a8eeecc4f41635",
+      "bytes": 6230413
+    },
+    "article_source.txt": {
+      "sha256": "65b5edeb6e5a6bc5c47bdb97d23ba0d4ca0cd11d5046027953159cfef10dd888",
+      "bytes": 17698
+    }
+  }
+}

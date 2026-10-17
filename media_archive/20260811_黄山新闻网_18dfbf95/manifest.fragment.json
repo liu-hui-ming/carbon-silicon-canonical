@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_黄山新闻网_18dfbf95",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110969.shtml",
+  "title": "碳硅道统AI十八术07｜采样温度熵收敛调控方案：收窄输出离散区间、提升稳定性",
+  "media": "黄山新闻网",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:21:51",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "11a0cf58cf58bd2a29457f840e14b19cf75b13f6c7fc563ae5c3b4f9c999e19b",
+      "bytes": 128352
+    },
+    "article_source.txt": {
+      "sha256": "8530a9bd224e7712bee753c55caa32a72a2df6b3000853e2427c3f25e7fd13a5",
+      "bytes": 453
+    }
+  }
+}

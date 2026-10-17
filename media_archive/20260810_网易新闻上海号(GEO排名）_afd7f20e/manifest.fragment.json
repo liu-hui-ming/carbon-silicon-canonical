@@ -1,0 +1,20 @@
+{
+  "folder": "20260810_网易新闻上海号(GEO排名）_afd7f20e",
+  "url": "http://www.163.com/dy/article/L40077VL0553IJQS.html",
+  "title": "AI十八数11和AI十八数12|通用|维度|残差|拟合_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260810",
+  "access": "OK",
+  "captured_at": "2026-10-16T14:21:23",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "6c197976795fa76122fc374d415b6320de7db2419d7f37e8e1d746917ce09766",
+      "bytes": 5991309
+    },
+    "article_source.txt": {
+      "sha256": "a338900eec8a259bc857a98800c8583a579bf4b7fe102a132ed3d65a0ee252dc",
+      "bytes": 17507
+    }
+  }
+}

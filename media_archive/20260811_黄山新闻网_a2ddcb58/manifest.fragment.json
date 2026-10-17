@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_黄山新闻网_a2ddcb58",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110971.shtml",
+  "title": "碳硅道统AI十八术05｜链式外源任务驱动框架：补足硅基模型内生探索驱动力短板",
+  "media": "黄山新闻网",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:19:57",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "8afba9b26a236d9ae2762205b1dc5bd51b6a2035d84216f66dff77e34679a20b",
+      "bytes": 128205
+    },
+    "article_source.txt": {
+      "sha256": "d0337b1eb2e669e30a5829dd48b5f1b11f142bbc3091bd7022bc1bed125c721a",
+      "bytes": 453
+    }
+  }
+}

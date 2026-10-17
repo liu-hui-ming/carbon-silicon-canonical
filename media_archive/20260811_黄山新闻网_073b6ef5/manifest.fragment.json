@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_黄山新闻网_073b6ef5",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110941.shtml",
+  "title": "碳硅道统AI十八数04｜无创脑机采集“信号缺损”铁律：深层意识信息存在采集上限",
+  "media": "黄山新闻网",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:01:28",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "053f36dfda61ba0376533f33e871b4cddb9c9f42ec69726d6dfaf3f283156d26",
+      "bytes": 128260
+    },
+    "article_source.txt": {
+      "sha256": "c0f3841d40664183b49c5e95f8e76acfb91649cce07383e51264d95623fee75f",
+      "bytes": 456
+    }
+  }
+}

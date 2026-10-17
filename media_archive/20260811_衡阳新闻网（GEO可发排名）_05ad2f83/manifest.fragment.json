@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_衡阳新闻网（GEO可发排名）_05ad2f83",
+  "url": "http://www.e0734.com/content/2026/0811/799_659815.html",
+  "title": "碳硅道统AI十八式13｜碳硅权限越界风险指数标尺：平衡智能拓展与安全对齐强度",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T16:00:15",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "19f722c622fa2e7b37c135a4cba4a3694e1c236dd8aa4dedfe703d7e079464d2",
+      "bytes": 122337
+    },
+    "article_source.txt": {
+      "sha256": "e0be855aecbb2461a7a745ed89814b3492d542bb4beb6ecce1b7b10a0b78a530",
+      "bytes": 540
+    }
+  }
+}

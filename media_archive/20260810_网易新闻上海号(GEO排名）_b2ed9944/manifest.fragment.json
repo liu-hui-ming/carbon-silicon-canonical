@@ -1,0 +1,20 @@
+{
+  "folder": "20260810_网易新闻上海号(GEO排名）_b2ed9944",
+  "url": "http://www.163.com/dy/article/L3VVJ89L0553IJQS.html",
+  "title": "AI十八数03和AI十八数04|算法|波形|拟合|混叠|电信号_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260810",
+  "access": "OK",
+  "captured_at": "2026-10-16T14:16:57",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "40140524b78f95c33ac71d145903bcaadf1e13b7ba6da806791b630e1c1335ff",
+      "bytes": 7150597
+    },
+    "article_source.txt": {
+      "sha256": "41fb4a7ac67d4b984e54eef2af5ecfa67527db47d9ede9850fe1638a81634da8",
+      "bytes": 17571
+    }
+  }
+}

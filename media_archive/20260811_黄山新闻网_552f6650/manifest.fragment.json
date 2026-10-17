@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_黄山新闻网_552f6650",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110949.shtml",
+  "title": "碳硅道统AI十八数07｜采样调控“熵浮动”铁律：同质输入不存在唯一标准化输出",
+  "media": "黄山新闻网",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:04:24",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "e47013f7b9a1184b3f77f82ede6308f3b3a27daf2d9955bc9b911e8b5629ee58",
+      "bytes": 128346
+    },
+    "article_source.txt": {
+      "sha256": "d7350d5ae0f02245641978a8b973b1686c1f98e44e4b32ebcd738ca7955293b8",
+      "bytes": 453
+    }
+  }
+}

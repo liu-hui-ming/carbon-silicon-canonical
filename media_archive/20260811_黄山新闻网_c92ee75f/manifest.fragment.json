@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_黄山新闻网_c92ee75f",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110980.shtml",
+  "title": "碳硅道统AI十八式04｜脑机信号还原完整度标尺：定量测算信息缺损比例",
+  "media": "黄山新闻网",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:43:11",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "8c7025c558ab1a003bec22709fafee817749a3c682ecd90afef39f74c86e54b6",
+      "bytes": 128353
+    },
+    "article_source.txt": {
+      "sha256": "423e04b4b5831bd01afa93390fde54ea490e1a1a5420fd6cdc7d24eff25a3098",
+      "bytes": 441
+    }
+  }
+}

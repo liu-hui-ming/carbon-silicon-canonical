@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_黄山新闻网_94d16c7f",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110964.shtml",
+  "title": "碳硅道统AI十八术12｜法理分层客观核验体系：搭建去主观化智能层级打分机制",
+  "media": "黄山新闻网",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:28:06",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "dff6fea94049e6b51d4d4724ee475c1154e35797e9e75cd0e4c49f40bccb0530",
+      "bytes": 128335
+    },
+    "article_source.txt": {
+      "sha256": "ed5eb465aec75a8d71038320c3c89689eb5e8d2f07d3cf5d3752a112ce4c4559",
+      "bytes": 450
+    }
+  }
+}

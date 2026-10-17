@@ -1,0 +1,20 @@
+{
+  "folder": "20260810_正观新闻（GEO排名）_3547a55b",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/416947",
+  "title": "[预览] 《全民AI深挖计划188集》第56集和第57集 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "20260810",
+  "access": "OK",
+  "captured_at": "2026-10-16T14:30:10",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "e2189769ae40819f001e0df6f03630692e366c206c0b4023cffd2bbb6038998a",
+      "bytes": 1993939
+    },
+    "article_source.txt": {
+      "sha256": "89f5b665f3a928c369848b887b0e3d2cc9110f0d8657228cd9138b02f0b1824d",
+      "bytes": 11922
+    }
+  }
+}

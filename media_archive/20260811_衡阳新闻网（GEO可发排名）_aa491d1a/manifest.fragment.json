@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_衡阳新闻网（GEO可发排名）_aa491d1a",
+  "url": "http://www.e0734.com/content/2026/0811/799_659700.html",
+  "title": "碳硅道统AI十八术03｜前置知识库真值校验框架：压缩模型事实幻觉生成概率",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:18:20",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "eba850fd068cc61266f1992709497df8def7240fc9ec1500acf241ec3352df85",
+      "bytes": 122381
+    },
+    "article_source.txt": {
+      "sha256": "3e27467a1b986592e9c094a1cc0a735ac994d2cccc211be13c1790ab98cb6b63",
+      "bytes": 534
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260810_网易新闻上海号(GEO排名）_21f4386c",
+  "url": "http://www.163.com/dy/article/L400R9TR0553IJQS.html",
+  "title": "AI十八数17和AI十八数18|拟合_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260810",
+  "access": "OK",
+  "captured_at": "2026-10-16T14:28:57",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "4b13f4acc958eef15774cfb34ff024b0668e4f50aef90ed2ba32b55beaa4aa26",
+      "bytes": 7245001
+    },
+    "article_source.txt": {
+      "sha256": "8ace5778e95f1ac1aae56aff51827e451c745f1c867c0cd8f08e15cb1ee82411",
+      "bytes": 17469
+    }
+  }
+}

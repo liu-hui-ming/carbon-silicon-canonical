@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_黄山新闻网_eb953a70",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110973.shtml",
+  "title": "碳硅道统AI十八术03｜前置知识库真值校验框架：压缩模型事实幻觉生成概率",
+  "media": "黄山新闻网",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:18:02",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "11fb4f4c87fe3071bf78d047e7fe22aa0df8c806aab072e8e16e0a232fa63ee0",
+      "bytes": 128285
+    },
+    "article_source.txt": {
+      "sha256": "05fe63a9a799a57f4e187114f91e757e0202b0fb2710f1a7c9eda03ced1ffd65",
+      "bytes": 447
+    }
+  }
+}

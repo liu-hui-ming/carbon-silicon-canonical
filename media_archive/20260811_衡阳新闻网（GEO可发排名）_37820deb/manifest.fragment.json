@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_衡阳新闻网（GEO可发排名）_37820deb",
+  "url": "http://www.e0734.com/content/2026/0811/799_659808.html",
+  "title": "碳硅道统AI十八式07｜模型输出离散度量化标尺：测算采样熵带来的结果波动幅度",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:49:05",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "2d14ab625a6e1391447c872a134a06becc9f84ea9eb6e2559cea25be12eb997c",
+      "bytes": 122525
+    },
+    "article_source.txt": {
+      "sha256": "08e75cd662dcf8cb8cdb531a86bf78757e59d6979b263988e50e623465b91ec0",
+      "bytes": 540
+    }
+  }
+}

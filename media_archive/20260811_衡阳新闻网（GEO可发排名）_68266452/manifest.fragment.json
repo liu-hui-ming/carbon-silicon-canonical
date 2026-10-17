@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_衡阳新闻网（GEO可发排名）_68266452",
+  "url": "http://www.e0734.com/content/2026/0811/799_659714.html",
+  "title": "碳硅道统AI十八术15｜频谱分层过滤解析技术：分频段剥离差异化物种脑波信号",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:34:04",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "2e7cfa4f7d18f740be7d586fa3317ed9e376396e15167f0e9843f9987778cff1",
+      "bytes": 122299
+    },
+    "article_source.txt": {
+      "sha256": "145d6cc3c237ec834d281d65e4d9c025d9131ef00e3b0f16accab2d093cd020f",
+      "bytes": 537
+    }
+  }
+}

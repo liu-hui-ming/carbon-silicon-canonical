@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_黄山新闻网_36915f7e",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110993.shtml",
+  "title": "碳硅道统AI十八式17｜理论落地偏差动态补偿标尺：匹配产业场景自适应优化幅度",
+  "media": "黄山新闻网",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T16:06:32",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "f2af9d6a48384f7f2ea31859d42613cb2494647ac1f5ecdcec4d48f9916c510b",
+      "bytes": 128345
+    },
+    "article_source.txt": {
+      "sha256": "926a353ae16734432d00bdf09ec1cb534a4629bceff557875c4fb2b7d18f93d5",
+      "bytes": 453
+    }
+  }
+}

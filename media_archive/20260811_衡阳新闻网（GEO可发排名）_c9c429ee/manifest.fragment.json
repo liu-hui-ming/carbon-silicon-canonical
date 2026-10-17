@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_衡阳新闻网（GEO可发排名）_c9c429ee",
+  "url": "http://www.e0734.com/content/2026/0811/799_659461.html",
+  "title": "碳硅道统AI十八数16｜技术科普“失真偏差”铁律：浅层传播弱化底层客观技术边界",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:13:26",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "be1c4a67d527393b784c923aadae98c15f24a092460f67f82bf8f832674c9c00",
+      "bytes": 122407
+    },
+    "article_source.txt": {
+      "sha256": "ce2fda38bb3f16d1aa293e0e31526af1b74aed760b11af74831a45e4717c85bd",
+      "bytes": 543
+    }
+  }
+}

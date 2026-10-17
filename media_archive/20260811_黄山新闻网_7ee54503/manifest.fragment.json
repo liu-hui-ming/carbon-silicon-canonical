@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_黄山新闻网_7ee54503",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110944.shtml",
+  "title": "碳硅道统AI十八数01｜生成视觉“拟合-失真”铁律：拓扑误差恒定下限，算力无法清零",
+  "media": "黄山新闻网",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T14:55:45",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "7acfc92e60468cecff8eeb5af1b64bd81b9f4bf5a4bf5fa2cfb7cd5ed8cf1e27",
+      "bytes": 128284
+    },
+    "article_source.txt": {
+      "sha256": "890447d9a347f219017b3aa7dde355e96dfc74ed55247328019279f2c7f82275",
+      "bytes": 460
+    }
+  }
+}

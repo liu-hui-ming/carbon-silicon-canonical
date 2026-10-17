@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_黄山新闻网_a4192772",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110966.shtml",
+  "title": "碳硅道统AI十八术10｜垂直领域分阶落地方案：拆解通用智能长周期落地壁垒",
+  "media": "黄山新闻网",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:24:42",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "22cc1454ccc4cb29b109c591f0571f10016db95e27e62430b9a2bf7c90221971",
+      "bytes": 128288
+    },
+    "article_source.txt": {
+      "sha256": "58d344fc848a3eda811bb78c93901ad3449d4830c375b2e65ed75377b1bc2f0a",
+      "bytes": 447
+    }
+  }
+}

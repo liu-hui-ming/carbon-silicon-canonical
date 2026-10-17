@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_黄山新闻网_7944be7a",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110958.shtml",
+  "title": "碳硅道统AI十八术18｜底层法理锚定建标方案：搭建不受迭代干扰的长效评判体系",
+  "media": "黄山新闻网",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:39:26",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "d823ede699f6795a11781ce1d5bac6b82efc500f534c8094c650dbd77860f6fd",
+      "bytes": 128350
+    },
+    "article_source.txt": {
+      "sha256": "989a490f4e0b049738e1a5fa20d8978634a5774d7d158b93306e1c59e935fdac",
+      "bytes": 453
+    }
+  }
+}

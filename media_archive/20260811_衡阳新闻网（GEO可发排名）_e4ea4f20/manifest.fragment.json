@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_衡阳新闻网（GEO可发排名）_e4ea4f20",
+  "url": "http://www.e0734.com/content/2026/0811/799_659456.html",
+  "title": "碳硅道统AI十八数11｜跨域微调“权重损耗”铁律：场景切换必然产生固定适配误差",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:08:34",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "905aa204a79f0a1f60f911ea96d1a25f66e9b8703fe15ebb95200ebcad12b560",
+      "bytes": 122375
+    },
+    "article_source.txt": {
+      "sha256": "72e89f0ddde635250a500b0485ce864daeb888813bb1bf1e2305085d4a9f955e",
+      "bytes": 543
+    }
+  }
+}

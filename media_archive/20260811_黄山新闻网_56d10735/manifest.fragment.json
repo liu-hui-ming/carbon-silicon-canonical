@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_黄山新闻网_56d10735",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110954.shtml",
+  "title": "碳硅道统AI十八数16｜技术科普“失真偏差”铁律：浅层传播弱化底层客观技术边界",
+  "media": "黄山新闻网",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:13:09",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "db811a60445cb7d9c2f2baeb09709dccda93c6705d530c886df95051873d1091",
+      "bytes": 128310
+    },
+    "article_source.txt": {
+      "sha256": "e76a707cd7a6e00dd6c9529eeeeb1ec0b8dc288e034cdf0564361b8d396af1c5",
+      "bytes": 456
+    }
+  }
+}

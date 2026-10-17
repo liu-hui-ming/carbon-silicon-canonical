@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_黄山新闻网_448b04f6",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110945.shtml",
+  "title": "碳硅道统AI十八数11｜跨域微调“权重损耗”铁律：场景切换必然产生固定适配误差",
+  "media": "黄山新闻网",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:08:17",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "6e2a9aca5632444265da68a3480413a7e72af7c06aea042af0503736d16431f1",
+      "bytes": 128319
+    },
+    "article_source.txt": {
+      "sha256": "c289490da6b55ecf3a31e19dad8611f9aa9b9582b4cd03e56c68272f026787eb",
+      "bytes": 456
+    }
+  }
+}

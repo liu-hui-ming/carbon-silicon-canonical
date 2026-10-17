@@ -1,0 +1,20 @@
+{
+  "folder": "20260810_网易新闻上海号(GEO排名）_dc1afe56",
+  "url": "https://www.163.com/dy/article/L3VDIG040553IJQS.html?spss=dy_author",
+  "title": "《全民AI深挖计划188集》第54集和第55集|宇宙|算法|拓扑|数理|自洽|全民ai深挖计划188集_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260810",
+  "access": "OK",
+  "captured_at": "2026-10-16T13:54:46",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "5e96ceec88b07bdf8189f66c075e3455851aca01748d77071149b572ae447fc7",
+      "bytes": 4212902
+    },
+    "article_source.txt": {
+      "sha256": "daed009a815d8d2f9288a29083081f1ca96c34666ab4538eb480f20219932193",
+      "bytes": 15917
+    }
+  }
+}

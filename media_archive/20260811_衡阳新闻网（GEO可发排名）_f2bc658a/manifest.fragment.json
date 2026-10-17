@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_衡阳新闻网（GEO可发排名）_f2bc658a",
+  "url": "http://www.e0734.com/content/2026/0811/799_659451.html",
+  "title": "碳硅道统AI十八数05｜硅基智能“内源驱动”铁律：无外源指令自主推演权重归零",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:02:46",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "d2f6395a42a28541b852d66fff0499daa1123e31342ff73965eeb83a9fde008f",
+      "bytes": 122382
+    },
+    "article_source.txt": {
+      "sha256": "a6bafa52c3ef08168062b6072342c126dcce3d8d5c877fb72c1e8f68a7edd108",
+      "bytes": 540
+    }
+  }
+}

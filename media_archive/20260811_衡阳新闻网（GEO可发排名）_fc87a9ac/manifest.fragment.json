@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_衡阳新闻网（GEO可发排名）_fc87a9ac",
+  "url": "http://www.e0734.com/content/2026/0811/799_659820.html",
+  "title": "碳硅道统AI十八式17｜理论落地偏差动态补偿标尺：匹配产业场景自适应优化幅度",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T16:06:49",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "90c2206db6c8506c18eac666d27cd5f2b0d43bf3fe6b39627ee2f51c97466647",
+      "bytes": 122397
+    },
+    "article_source.txt": {
+      "sha256": "c09d1391aabe320cbba7001bf3ddf37007f8fa0c63cfc69a0de5a2dfd6c53612",
+      "bytes": 540
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_黄山新闻网_d1228495",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110983.shtml",
+  "title": "碳硅道统AI十八式01｜图像拓扑保真误差标尺：畸变超限自动熔断拦截",
+  "media": "黄山新闻网",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:40:24",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "de5cceb02b63a5f8ece828b7b0156958c88c30a479896ef750392851252d5083",
+      "bytes": 128373
+    },
+    "article_source.txt": {
+      "sha256": "7c69eb49a361ecd164d45caa7693d7bbdd296c32cb54bb05e2b3c09dc8aa6caa",
+      "bytes": 438
+    }
+  }
+}

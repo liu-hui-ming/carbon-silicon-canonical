@@ -1,0 +1,20 @@
+{
+  "folder": "20260810_元宇宙官网_d2484a97",
+  "url": "https://yyznb.com/13887.html",
+  "title": "502 Bad Gateway",
+  "media": "元宇宙官网",
+  "pub_date": "20260810",
+  "access": "CON",
+  "captured_at": "2026-10-16T14:03:32",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "e6f3087372f5213675d6a2c8faf12ac4c637b367543dc04daf3748bdd548f230",
+      "bytes": 5934933
+    },
+    "article_source.txt": {
+      "sha256": "84433dfd26d9bc236be764034e99910e042d07b02103c301f6b5dd44fb1f8ba4",
+      "bytes": 15259
+    }
+  }
+}

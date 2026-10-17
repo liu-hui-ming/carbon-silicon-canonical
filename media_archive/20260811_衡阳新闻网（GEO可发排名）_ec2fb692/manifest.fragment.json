@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_衡阳新闻网（GEO可发排名）_ec2fb692",
+  "url": "http://www.e0734.com/content/2026/0811/799_659460.html",
+  "title": "碳硅道统AI十八数15｜跨物种脑波“频谱差值”铁律：通用解码无法抹平物种信号隔阂",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:12:30",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "877d3cb2279c5fceb7eb412af07dfbd7f475faf96468503a0905666a1f03c4a7",
+      "bytes": 122462
+    },
+    "article_source.txt": {
+      "sha256": "3d5f1a9ff44d65e02dbd942fbc89417710376c56d5144df1dc52c0a058004b04",
+      "bytes": 546
+    }
+  }
+}

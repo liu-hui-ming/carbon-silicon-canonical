@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_衡阳新闻网（GEO可发排名）_cd7daf8f",
+  "url": "http://www.e0734.com/content/2026/0811/799_659801.html",
+  "title": "碳硅道统AI十八式02｜长文本时序记忆计量标尺：预判信息遗忘风险节点",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:41:37",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "b39ebba3d38ffcd9fff9e136d62e0f65a800b3c8cebb75a31895f20917f26906",
+      "bytes": 122425
+    },
+    "article_source.txt": {
+      "sha256": "80dcfd001da7cf30c9870c0ab0134d5bac246b47d78635235e322e946d85d9f9",
+      "bytes": 528
+    }
+  }
+}

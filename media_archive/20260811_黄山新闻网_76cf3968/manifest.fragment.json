@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_黄山新闻网_76cf3968",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110963.shtml",
+  "title": "碳硅道统AI十八术13｜碳硅二元权限隔离架构：刚性划分人类裁决与AI执行边界",
+  "media": "黄山新闻网",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:31:51",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "3ad58ac37c0d383f45ea9821a07c1ba5d5d90ed5b311a4558b60dae104cf9158",
+      "bytes": 128341
+    },
+    "article_source.txt": {
+      "sha256": "ae6b419b54bb27b31cac17d055881a4d9ac464e3e7728bdb14783d6fc6a0d105",
+      "bytes": 449
+    }
+  }
+}

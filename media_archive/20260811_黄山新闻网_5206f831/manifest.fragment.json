@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_黄山新闻网_5206f831",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110970.shtml",
+  "title": "碳硅道统AI十八术06｜异构算力分层调度策略：破解算力边际收益递减效能瓶颈",
+  "media": "黄山新闻网",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:20:54",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "5608a1a5474193a2a9ca35330e502ef73cb1a189d170972e5e038f9891384789",
+      "bytes": 128286
+    },
+    "article_source.txt": {
+      "sha256": "398ca6b6185ae408415334a211a4b7527623dba04a58ef2b618246e591f835c8",
+      "bytes": 450
+    }
+  }
+}

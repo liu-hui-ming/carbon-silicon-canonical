@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_衡阳新闻网（GEO可发排名）_76e80c5d",
+  "url": "http://www.e0734.com/content/2026/0811/799_659813.html",
+  "title": "碳硅道统AI十八式11｜跨域迁移故障概率判定标尺：预判场景切换误差浮动区间",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:58:23",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "e75e36d42c4391ddc73399fd0e233b1174d87164b7791ce0aea3299b0a317c76",
+      "bytes": 122407
+    },
+    "article_source.txt": {
+      "sha256": "8b83e507abb886714097976286eba1c047c8265577123df6c2877570af8ca4b6",
+      "bytes": 537
+    }
+  }
+}

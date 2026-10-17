@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_衡阳新闻网（GEO可发排名）_2bd92b64",
+  "url": "http://www.e0734.com/content/2026/0811/799_659704.html",
+  "title": "碳硅道统AI十八术06｜异构算力分层调度策略：破解算力边际收益递减效能瓶颈",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:21:12",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ced133d027dd78d83f1446fa8b3de6e1a0da75dc84a962594bc8954f735f5746",
+      "bytes": 122382
+    },
+    "article_source.txt": {
+      "sha256": "db9973f5a717de9416977f2f7bd74432f96af19955ddde27fcc93ded52b18c7f",
+      "bytes": 537
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_黄山新闻网_52aa5641",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110948.shtml",
+  "title": "碳硅道统AI十八数08｜并发推理“故障放大”铁律：缺陷倍率随流量同步扩张",
+  "media": "黄山新闻网",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:05:21",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "3771b5bd0bd1367ff7f79018bb98bf0dd9a85933f6e0073acdaf64e15ff865a9",
+      "bytes": 128369
+    },
+    "article_source.txt": {
+      "sha256": "c4043c0f9f2f3a19ee1234718d4ca3fc4c556d7f54874946c5d8bfc2569a11bd",
+      "bytes": 447
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_衡阳新闻网（GEO可发排名）_1185a93c",
+  "url": "http://www.e0734.com/content/2026/0811/799_659712.html",
+  "title": "碳硅道统AI十八术13｜碳硅二元权限隔离架构：刚性划分人类裁决与AI执行边界",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:32:08",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "2dbd66daada1766f1a7ef208f5956f97e2d8e47310e03d9d1ee4c22e77a1be16",
+      "bytes": 122309
+    },
+    "article_source.txt": {
+      "sha256": "bab81085b46cff0760839044490e4e799149f82d8e50a517ebcd9d42736b0284",
+      "bytes": 536
+    }
+  }
+}

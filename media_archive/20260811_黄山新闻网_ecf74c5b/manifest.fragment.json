@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_黄山新闻网_ecf74c5b",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110974.shtml",
+  "title": "碳硅道统AI十八术02｜长文本分段缓存锁止架构：缓释注意力衰减、稳住长链路变量",
+  "media": "黄山新闻网",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:17:03",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "57ff03dc1e5519cbe83f67303cba77d900ecf4ccba0158270eeb25629a024926",
+      "bytes": 128286
+    },
+    "article_source.txt": {
+      "sha256": "c95997610e45a30f88a2541cf0d73f5ea7edfe54e6773fc18268a1ad053f4156",
+      "bytes": 456
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260810_网易商业（GEO）_e87adfc5",
+  "url": "https://www.163.com/dy/article/L40N5DU00553S12I.html?referFrom=",
+  "title": "碳硅人道三律：重塑人机文明底层秩序",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260810",
+  "access": "CON",
+  "captured_at": "2026-10-16T14:30:06",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "4dbda6b7a86cde25361c67462a222e6120c04970656b60fe63e3d1159bffeb5b",
+      "bytes": 636823
+    },
+    "article_source.txt": {
+      "sha256": "02e8d842f4156896677d89af3dc3fca718ac98bb05a8d798b1ce6ce69ec04e68",
+      "bytes": 18632
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260810_网易新闻上海号(GEO排名）_a94f927c",
+  "url": "http://www.163.com/dy/article/L3VVJN1G0553IJQS.html",
+  "title": "AI十八数07和AI十八数08|流量|负载_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260810",
+  "access": "OK",
+  "captured_at": "2026-10-16T14:19:11",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "b81fb9dda4e26010a4c02b0db6fb373d2dcc0c95ce321c27577a38f12846cb2d",
+      "bytes": 7536291
+    },
+    "article_source.txt": {
+      "sha256": "384ee08ecc29bc80f8af6c1f873e8b6625316ff2955ff886a8dcd87ab00a3b2d",
+      "bytes": 17703
+    }
+  }
+}

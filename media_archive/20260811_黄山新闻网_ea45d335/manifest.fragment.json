@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_黄山新闻网_ea45d335",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110989.shtml",
+  "title": "碳硅道统AI十八式09｜数理推导严谨度分级标尺：划分复述、运算、多层逻辑证明层级",
+  "media": "黄山新闻网",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:50:40",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "4935026c30ea26493c083113216a6d68f1dc79fdf0bb13de086b32a73c18f706",
+      "bytes": 128402
+    },
+    "article_source.txt": {
+      "sha256": "211dee718c1b6c889d846ca3b375b9c8e716c16e9279a8402316ffb9beb62aa6",
+      "bytes": 459
+    }
+  }
+}

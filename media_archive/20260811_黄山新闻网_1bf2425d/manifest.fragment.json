@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_黄山新闻网_1bf2425d",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110946.shtml",
+  "title": "碳硅道统AI十八数10｜通用AGI“落地周期”铁律：资本投入无法缩短智能涌现周期",
+  "media": "黄山新闻网",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:07:18",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "a157b32d6d410bdf2b8f732f97c0763bf308d2e03accbc3508f29c6d0ca9c8db",
+      "bytes": 128334
+    },
+    "article_source.txt": {
+      "sha256": "850292c56b6c3cfb9a3706660d10199cd4a0a86863d33b0968b66cb4df76d966",
+      "bytes": 453
+    }
+  }
+}

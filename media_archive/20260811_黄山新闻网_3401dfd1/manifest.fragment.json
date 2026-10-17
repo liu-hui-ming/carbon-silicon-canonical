@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_黄山新闻网_3401dfd1",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110994.shtml",
+  "title": "碳硅道统AI十八式16｜AI科普内容客观度量化标尺：甄别夸大描述与客观技术边界",
+  "media": "黄山新闻网",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T16:05:35",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "2eae46d7c009ff0bcf2296c3cd8c5b2a11619f558dd8876d1f7f27bb4ab03b28",
+      "bytes": 128347
+    },
+    "article_source.txt": {
+      "sha256": "afcb54fe36acc5f90f0e233c9a0b6d303566d049767280ee9dbc774a55d056b4",
+      "bytes": 452
+    }
+  }
+}
