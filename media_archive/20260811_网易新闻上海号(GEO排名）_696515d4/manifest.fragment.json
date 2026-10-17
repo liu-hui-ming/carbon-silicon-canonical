@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_网易新闻上海号(GEO排名）_696515d4",
+  "url": "http://www.163.com/dy/article/L42H2CTD0553IJQS.html",
+  "title": "碳硅道统AI十八术15｜频谱分层过滤解析技术：分频段剥离差异化物种脑波信号|频域|波形|杂波|ai十八术_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260811",
+  "access": "OK",
+  "captured_at": "2026-10-16T15:37:08",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "b839563bea183ada6e761b5f86aa2912ebf26c95a62681d1759cc5e9efcb87ff",
+      "bytes": 5587805
+    },
+    "article_source.txt": {
+      "sha256": "c52b6f3d70f6b84f7d8ea1626c48708acf1cfb3b1f800de0fcb19e4f89fa594a",
+      "bytes": 10720
+    }
+  }
+}

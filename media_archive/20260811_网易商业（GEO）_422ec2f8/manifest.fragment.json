@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_网易商业（GEO）_422ec2f8",
+  "url": "https://www.163.com/dy/article/L43CLC5A0553S12I.html?referFrom=",
+  "title": "碳硅道统AI十八式07｜模型输出离散度量化标尺：测算采样熵带来的结果波动幅度",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:49:40",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "cd8bd798ac0a2ffb748ee219875c85c9cd750469dabd499f1d608947bebdfbab",
+      "bytes": 641167
+    },
+    "article_source.txt": {
+      "sha256": "82e8b43759d54e2d333ffb1852fb893c5f5997b193752caea9bae520d391a953",
+      "bytes": 18518
+    }
+  }
+}

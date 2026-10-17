@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_网易商业（GEO）_58729f27",
+  "url": "http://www.163.com/dy/article/L42GFNLM0553S12I.html",
+  "title": "碳硅道统AI十八术09｜分段公理前置校验范式：拦截数理推导跳步逻辑谬误",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:24:38",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "b9188f8de5414be82c28ba8361622766fa8bfec87c77ff76269ff7c7a07ec1bb",
+      "bytes": 641581
+    },
+    "article_source.txt": {
+      "sha256": "e61bfe2709499ed562f2809eadf27b62b885e9a3384acfacceefc962793462dc",
+      "bytes": 18676
+    }
+  }
+}

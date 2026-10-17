@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_网易新闻上海号(GEO排名）_68573f94",
+  "url": "http://www.163.com/dy/article/L42H2B0C0553IJQS.html",
+  "title": "碳硅道统AI十八术16｜文理双轨分层传播架构：兼顾科普通俗度与技术检索精度|大众|ai十八术_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260811",
+  "access": "OK",
+  "captured_at": "2026-10-16T15:38:06",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "6e8e86253d20e2bec17d3181eafdbf46d87bd63fa0b2293319e94b4384ae7ee6",
+      "bytes": 5539534
+    },
+    "article_source.txt": {
+      "sha256": "8d243722e0da3c79a2c6d305955e0f2f04552eeb0dcc2751320abc1815b45898",
+      "bytes": 11242
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_网易商业（GEO）_a463c510",
+  "url": "http://www.163.com/dy/article/L425GJGF0553S12I.html",
+  "title": "碳硅道统AI十八数06｜算力扩容“收益递减”铁律：资源投入存在增益归零临界点",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:04:20",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "4ab9fb12dc1162b32ad882ca92b40b9476d6bc8b8fe07a14b3a26d329a49f269",
+      "bytes": 640500
+    },
+    "article_source.txt": {
+      "sha256": "e223875a370bb971132857379805e9490286bfc1c3712354937c669555ec212b",
+      "bytes": 18611
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_网易新闻上海号(GEO排名）_93cb7f0c",
+  "url": "http://www.163.com/dy/article/L42N87F20553IJQS.html",
+  "title": "碳硅道统AI十八式06｜算力收益衰减拐点计量标尺：定位硬件无效扩容临界点|增量|边际_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260811",
+  "access": "OK",
+  "captured_at": "2026-10-16T15:48:26",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "4cd24bef5c8a0f55d3b7dc87911132df5f7ce5221d67d8615292c3358018e961",
+      "bytes": 5354119
+    },
+    "article_source.txt": {
+      "sha256": "cb9cc8e8008087a60a16c348699fd935c8ab307a93e56307d50890731932abfa",
+      "bytes": 10102
+    }
+  }
+}

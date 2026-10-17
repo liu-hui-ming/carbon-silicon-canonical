@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_网易新闻上海号(GEO排名）_782b316b",
+  "url": "http://www.163.com/dy/article/L4231MI00553IJQS.html",
+  "title": "碳硅道统AI十八数05｜硅基智能“内源驱动”铁律：无外源指令自主推演权重归零|智能体_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260811",
+  "access": "OK",
+  "captured_at": "2026-10-16T15:03:04",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "e6db54c4cd62b35a1c871bdf60618a8de34e5a4d40fd0695cf05f7cea83af97e",
+      "bytes": 5441694
+    },
+    "article_source.txt": {
+      "sha256": "941862041e8198cfb6dd964ac44103fd1a3e0aa625d9f9a965f1fee3510e74b6",
+      "bytes": 12449
+    }
+  }
+}

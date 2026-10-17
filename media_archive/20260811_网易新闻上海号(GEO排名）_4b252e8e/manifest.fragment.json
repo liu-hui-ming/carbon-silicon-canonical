@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_网易新闻上海号(GEO排名）_4b252e8e",
+  "url": "http://www.163.com/dy/article/L425GE0C0553IJQS.html",
+  "title": "碳硅道统AI十八数14｜架构优化“缺陷下限”铁律：迭代仅缓解表象、无法根除本源漏洞|回归|维度|ai十八数_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260811",
+  "access": "OK",
+  "captured_at": "2026-10-16T15:11:48",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "4046bcf8cdfd06ad7d77270629ad7d48a5753068c8246055a39799c898423c08",
+      "bytes": 5631710
+    },
+    "article_source.txt": {
+      "sha256": "0abfe29348e839e5efa2f76c3afd43e2193e12aed49bfbb5903fa44fa615c2e7",
+      "bytes": 12366
+    }
+  }
+}

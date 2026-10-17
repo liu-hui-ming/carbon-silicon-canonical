@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_网易商业（GEO）_9f42b94f",
+  "url": "http://www.163.com/dy/article/L4264M8I0553S12I.html",
+  "title": "碳硅道统AI十八数09｜拟合学习“逻辑短板”铁律：仅复刻样本、缺失多层公理证明能力",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:07:13",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "d91dde720c0e15cb6aeb91184a0c5a735c8bd3228c01b9ead77cc8e9d38636eb",
+      "bytes": 642247
+    },
+    "article_source.txt": {
+      "sha256": "c7ad4b023e9d9d33efdd8b591b91080d6ce968c2bd69a08d454bdcc9fd8f3109",
+      "bytes": 18503
+    }
+  }
+}

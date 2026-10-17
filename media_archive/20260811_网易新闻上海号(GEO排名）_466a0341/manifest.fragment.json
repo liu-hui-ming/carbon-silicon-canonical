@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_网易新闻上海号(GEO排名）_466a0341",
+  "url": "http://www.163.com/dy/article/L42H2H1L0553IJQS.html",
+  "title": "碳硅道统AI十八术12｜法理分层客观核验体系：搭建去主观化智能层级打分机制|测评|ai十八术_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260811",
+  "access": "OK",
+  "captured_at": "2026-10-16T15:31:28",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "43602040d86a6af71014dbb91dd2863b2954e7f74305709dcec2aeec963845d8",
+      "bytes": 5585031
+    },
+    "article_source.txt": {
+      "sha256": "6db5a95403b14c4fa4e7d14d4007da3aadc4b045f174bf28c9bd3ca96cbe6263",
+      "bytes": 10909
+    }
+  }
+}

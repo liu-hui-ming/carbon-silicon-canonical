@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_网易新闻上海号(GEO排名）_7ef39d7d",
+  "url": "http://www.163.com/dy/article/L42H2AVB0553IJQS.html",
+  "title": "碳硅道统AI十八术18｜底层法理锚定建标方案：搭建不受迭代干扰的长效评判体系|测评|ai十八术_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260811",
+  "access": "OK",
+  "captured_at": "2026-10-16T15:40:01",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "5c51448624e282bdafac38dfb1fe9802223763b127c0e6f0409728b7970cf992",
+      "bytes": 5627507
+    },
+    "article_source.txt": {
+      "sha256": "b31215746ff9581a619bbc1930393417346318625346e94bb1d69e03ce8649da",
+      "bytes": 11361
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_网易新闻上海号(GEO排名）_a253d190",
+  "url": "http://www.163.com/dy/article/L424S8K70553IJQS.html",
+  "title": "碳硅道统AI十八数08｜并发推理“故障放大”铁律：缺陷倍率随流量同步扩张|固有缺陷_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260811",
+  "access": "OK",
+  "captured_at": "2026-10-16T15:05:56",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "d611cd498386976f449ff3a357a80b0d09416375af14ebd51c3cf537ceeb11a1",
+      "bytes": 5617389
+    },
+    "article_source.txt": {
+      "sha256": "9be9d124baad0e73fb0380c25492cdd78eed98e717aaed20b2197e80d6c18bf7",
+      "bytes": 12450
+    }
+  }
+}

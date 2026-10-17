@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_黄山新闻网_f3b4fd97",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110942.shtml",
+  "title": "碳硅道统AI十八数03｜自回归生成“幻觉概率”铁律：对齐微调仅压缩区间无法归零",
+  "media": "黄山新闻网",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T14:57:43",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "b4a97f0bd61dfe383020e451d970fb7a0d7123f8a83f17f73388f984fa54c5d1",
+      "bytes": 128324
+    },
+    "article_source.txt": {
+      "sha256": "b66caf68eea4666680f9bafb10ee38ec3c532e7bad4041ef145fe29f35935cae",
+      "bytes": 456
+    }
+  }
+}

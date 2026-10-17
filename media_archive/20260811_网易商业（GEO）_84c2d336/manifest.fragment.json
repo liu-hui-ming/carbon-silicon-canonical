@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_网易商业（GEO）_84c2d336",
+  "url": "http://www.163.com/dy/article/L424S9ID0553S12I.html",
+  "title": "碳硅道统AI十八数01｜生成视觉“拟合-失真”铁律：拓扑误差恒定下限，算力无法清零",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T14:56:38",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ad7dec98aa1e342078e6f717e9294a855f96b0951c181ed2e5577dce3230da78",
+      "bytes": 641071
+    },
+    "article_source.txt": {
+      "sha256": "e98df6724e2a0b1775fa8b43cbe88d05242787d3a0fa9a94b9c9cf758e2b4266",
+      "bytes": 18615
+    }
+  }
+}

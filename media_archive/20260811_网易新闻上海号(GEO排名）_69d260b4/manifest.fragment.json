@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_网易新闻上海号(GEO排名）_69d260b4",
+  "url": "http://www.163.com/dy/article/L4231M8R0553IJQS.html",
+  "title": "碳硅道统AI十八数03｜自回归生成“幻觉概率”铁律：对齐微调仅压缩区间无法归零|拟合|维度|真值|复杂程度|ai十八数03_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260811",
+  "access": "OK",
+  "captured_at": "2026-10-16T15:01:04",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "96ba27a83f70138f393b3d92c9ea6068eee8213fdf665a5a36ec291cb60062e1",
+      "bytes": 6030132
+    },
+    "article_source.txt": {
+      "sha256": "5992d8c4736323424b17272b5d06ba6abc70b81e4b7172a296361855de41761e",
+      "bytes": 11862
+    }
+  }
+}

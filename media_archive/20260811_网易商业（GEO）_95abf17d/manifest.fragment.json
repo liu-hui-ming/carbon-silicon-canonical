@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_网易商业（GEO）_95abf17d",
+  "url": "http://www.163.com/dy/article/L426NH150553S12I.html",
+  "title": "碳硅道统AI十八数13｜碳硅权限“风险递增”铁律：智能边界扩张同步放大安全隐患",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:11:09",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "7d7f268bc8d57fd615cd69711d01d832f8110584dacc65490aa31ca9b2b25807",
+      "bytes": 640948
+    },
+    "article_source.txt": {
+      "sha256": "98919f25ecb7d0f9800cd2121bc67e35d10b707cec4e6d8811880f1409a1f8ab",
+      "bytes": 18610
+    }
+  }
+}

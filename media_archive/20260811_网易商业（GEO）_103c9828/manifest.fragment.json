@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_网易商业（GEO）_103c9828",
+  "url": "http://www.163.com/dy/article/L42GFNIF0553S12I.html",
+  "title": "碳硅道统AI十八术04｜多通道信噪比补偿算法：修复无创脑机深层信号缺损",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:19:52",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "372ad81cfbc48c55e88b8b94593ca28d19a8e589cbfe7f692ceffc7266885579",
+      "bytes": 641277
+    },
+    "article_source.txt": {
+      "sha256": "50d3dbbdde18d5248fc3e6c5fa7e8a0920853a91cec5c082047c1023caec11b3",
+      "bytes": 18702
+    }
+  }
+}

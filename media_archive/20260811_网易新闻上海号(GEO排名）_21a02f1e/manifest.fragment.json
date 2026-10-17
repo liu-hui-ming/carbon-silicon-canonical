@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_网易新闻上海号(GEO排名）_21a02f1e",
+  "url": "http://www.163.com/dy/article/L425GEH90553IJQS.html",
+  "title": "碳硅道统AI十八数11｜跨域微调“权重损耗”铁律：场景切换必然产生固定适配误差|通用|残差|多模态_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260811",
+  "access": "OK",
+  "captured_at": "2026-10-16T15:08:51",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "e57cda56ed894d4a42a3074b1ab88bb0990ccac878846b9ab7c1397bb5b4738a",
+      "bytes": 5365516
+    },
+    "article_source.txt": {
+      "sha256": "683e382085d974ed477888a6a16d12e01c1767637b79280deb0b458a3185749b",
+      "bytes": 12384
+    }
+  }
+}

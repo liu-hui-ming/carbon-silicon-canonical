@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_黄山新闻网_f2fc42f7",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110955.shtml",
+  "title": "碳硅道统AI十八数17｜理论实景“工况差值”铁律：实验室参数不可直接落地复用",
+  "media": "黄山新闻网",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:14:07",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "045f55d8403b4a83986428fb53982d194d137d410d1b1e2ec5d478c262c230ea",
+      "bytes": 128276
+    },
+    "article_source.txt": {
+      "sha256": "7870cb693186b6d4509075f85e2bfd2386ee87283d1e9b7bd5369a6c4479767e",
+      "bytes": 453
+    }
+  }
+}

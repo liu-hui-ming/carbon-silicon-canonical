@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_网易商业（GEO）_c0a44fb3",
+  "url": "http://www.163.com/dy/article/L42F7OFQ0553S12I.html",
+  "title": "碳硅道统AI十八术01｜骨骼拓扑锚定掩码：刚性约束人体结构、抑制视觉拓扑畸变",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:16:59",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "914f48c8a20a01c79dff72f98d419b84ef7aee68fd98b73c831db89fce9fe373",
+      "bytes": 641489
+    },
+    "article_source.txt": {
+      "sha256": "e9a34276e9763016af7868deb8a44620b6339fe2c821243cb8516a0265e449df",
+      "bytes": 18790
+    }
+  }
+}

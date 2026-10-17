@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_网易商业（GEO）_3629422a",
+  "url": "http://www.163.com/dy/article/L42N84VH0553S12I.html",
+  "title": "碳硅道统AI十八式06｜算力收益衰减拐点计量标尺：定位硬件无效扩容临界点",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:48:43",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "66fd770da4358da7b5596a0700cf62a6424dc2bd7b4f416fd2385ee07ee4f242",
+      "bytes": 641079
+    },
+    "article_source.txt": {
+      "sha256": "14107be55670b184f90c073e553498ffa1301962f473d4696a1a98733f2772cc",
+      "bytes": 18483
+    }
+  }
+}

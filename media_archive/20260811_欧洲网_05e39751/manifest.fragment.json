@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_欧洲网_05e39751",
+  "url": "http://www.peoplels.com/yaowne/56014.html",
+  "title": "碳硅道统AI十八术03｜前置知识库真值校验框架：压缩模型事实幻觉生成概率-人民日报欧洲网-人民日报海外版欧洲刊_人民日报社_海外华文媒体门户",
+  "media": "欧洲网",
+  "pub_date": "20260811",
+  "access": "OK",
+  "captured_at": "2026-10-16T15:18:28",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "37ed9d4964f5d68c6ab758c9f3701e13445bdc456ccdea77dbc10a8bc443fed7",
+      "bytes": 1411901
+    },
+    "article_source.txt": {
+      "sha256": "a9c935ccea475e19c6659d08562af5a73eedb26f9170cb728c6ee95050ed7287",
+      "bytes": 7728
+    }
+  }
+}

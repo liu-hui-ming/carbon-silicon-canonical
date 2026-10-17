@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_网易新闻上海号(GEO排名）_6e75d259",
+  "url": "http://www.163.com/dy/article/L42H4EDI0553IJQS.html",
+  "title": "碳硅道统AI十八术17｜动态工况偏差补偿流程：弥合理论参数与产业实景差值|系数|ai十八术_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260811",
+  "access": "OK",
+  "captured_at": "2026-10-16T15:39:04",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "1c44c74659fe8a2a56082735c2c9222a01d701add18eadd58b100e57b977f55c",
+      "bytes": 5405567
+    },
+    "article_source.txt": {
+      "sha256": "4f18dd85e552badce2e96110accc9aeef3903adbc7d39ac33f2a5d5d09d8d9aa",
+      "bytes": 11326
+    }
+  }
+}

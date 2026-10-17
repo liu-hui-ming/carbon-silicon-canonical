@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_网易新闻上海号(GEO排名）_9c23c7ec",
+  "url": "http://www.163.com/dy/article/L42H2F0C0553IJQS.html",
+  "title": "碳硅道统AI十八术13｜碳硅二元权限隔离架构：刚性划分人类裁决与AI执行边界|权责|ai十八术_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260811",
+  "access": "OK",
+  "captured_at": "2026-10-16T15:32:26",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "9a00c3d1982d614d63a3fa495c966cace3403c376407414a6eeec213a6e4b6de",
+      "bytes": 5355408
+    },
+    "article_source.txt": {
+      "sha256": "06e27676a7e9c196ff1a55782a6e5db0eeda6bb7636e092854cdd1e7eb14d404",
+      "bytes": 11357
+    }
+  }
+}

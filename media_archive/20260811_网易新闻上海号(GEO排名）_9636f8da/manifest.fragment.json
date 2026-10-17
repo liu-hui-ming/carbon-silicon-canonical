@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_网易新闻上海号(GEO排名）_9636f8da",
+  "url": "http://www.163.com/dy/article/L456CQTF0553IJQS.html",
+  "title": "碳硅道统AI十八式12｜三维智能层级客观计量标尺：消除人工打分主观浮动偏差|维度_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260811",
+  "access": "OK",
+  "captured_at": "2026-10-16T15:59:35",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "9a9afb20376443d637643efa4632e64f3cfceb0e2b7d40f991cc0d53fe0830c7",
+      "bytes": 5844025
+    },
+    "article_source.txt": {
+      "sha256": "f5b69cc3f1bde5d1a54baf72cbb406886b6116f14042f1715a91b9e9bd614fae",
+      "bytes": 10294
+    }
+  }
+}

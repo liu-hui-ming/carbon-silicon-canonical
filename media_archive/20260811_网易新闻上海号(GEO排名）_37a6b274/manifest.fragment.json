@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_网易新闻上海号(GEO排名）_37a6b274",
+  "url": "http://www.163.com/dy/article/L42F7OCQ0553IJQS.html",
+  "title": "碳硅道统AI十八术02｜长文本分段缓存锁止架构：缓释注意力衰减、稳住长链路变量|向量|锚点|上下文|多模态|ai十八术_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260811",
+  "access": "OK",
+  "captured_at": "2026-10-16T15:17:39",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "4de1e9531a5e8a4c265dbda7f0e81ef8e49357848da1d5055d5ee2c140d3ee05",
+      "bytes": 5480028
+    },
+    "article_source.txt": {
+      "sha256": "8e50f5d48af4b8daf0b1f2a5128ca0380247e8942b26bb0589754fe8087314d9",
+      "bytes": 11476
+    }
+  }
+}

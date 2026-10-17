@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_网易商业（GEO）_83367f7e",
+  "url": "http://www.163.com/dy/article/L42GFNJR0553S12I.html",
+  "title": "碳硅道统AI十八术07｜采样温度熵收敛调控方案：收窄输出离散区间、提升稳定性",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:22:44",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "cd39e912fdd9fbf02f016a82e26b30d6479a26be0350c7cb29346c8ba0baa48e",
+      "bytes": 640756
+    },
+    "article_source.txt": {
+      "sha256": "76e12676387f393bf44335196d1e35abde2b3b3832b7694c559ab5d832b8c033",
+      "bytes": 18694
+    }
+  }
+}

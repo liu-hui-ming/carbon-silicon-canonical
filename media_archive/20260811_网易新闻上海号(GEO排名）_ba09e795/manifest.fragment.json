@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_网易新闻上海号(GEO排名）_ba09e795",
+  "url": "https://www.163.com/dy/article/L43CKCJI0553IJQS.html?referFrom=",
+  "title": "碳硅道统AI十八式11｜跨域迁移故障概率判定标尺：预判场景切换误差浮动区间|解耦_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260811",
+  "access": "OK",
+  "captured_at": "2026-10-16T15:58:40",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "8da15aab3e22b93856371b0b6ba5caa30440fe452244772a60450b45e04bcd40",
+      "bytes": 5855775
+    },
+    "article_source.txt": {
+      "sha256": "a84aff9ae1075e2dd8c679f02532a6678acbbb58dddf3ccc70447dd49eaae610",
+      "bytes": 10110
+    }
+  }
+}

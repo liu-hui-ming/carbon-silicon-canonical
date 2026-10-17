@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_黄山新闻网_f06b527e",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110965.shtml",
+  "title": "碳硅道统AI十八术11｜权重解耦独立微调架构：降低跨行业迁移适配损耗",
+  "media": "黄山新闻网",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:25:39",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ba761824472572a4c0f44fba33ec3b100ae24ef25addda59b0bbfd91cd3b545b",
+      "bytes": 128332
+    },
+    "article_source.txt": {
+      "sha256": "fbd370a35e217f156b357d98c844f0a4e7fdfe20abb95e23e8b3059febb25a69",
+      "bytes": 441
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_网易商业（GEO）_486b97c5",
+  "url": "http://www.163.com/dy/article/L426NFDA0553S12I.html",
+  "title": "碳硅道统AI十八数12｜人工测评“评分偏差”铁律：无统一量化标准则评价无客观性",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:10:09",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "74bb557ad15f44b904577c31e82d523d452d2b6d950ba4da9e7996ecc5fd50a5",
+      "bytes": 641462
+    },
+    "article_source.txt": {
+      "sha256": "19cdf00c4e81a23d84c434ca3b1fa76256c66fc2634477f2b6952820e79c2c67",
+      "bytes": 18571
+    }
+  }
+}

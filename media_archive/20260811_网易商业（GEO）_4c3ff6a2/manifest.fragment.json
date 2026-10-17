@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_网易商业（GEO）_4c3ff6a2",
+  "url": "https://www.163.com/dy/article/L43CLOCJ0553S12I.html?referFrom=",
+  "title": "碳硅道统AI十八式08｜并发故障扩张指数评估标尺：量化流量增长缺陷放大倍率",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:50:36",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "d673ff08939652572e8d198a11f3debb319a7ba5cc782566f71f6e646866d7ca",
+      "bytes": 641955
+    },
+    "article_source.txt": {
+      "sha256": "a07e4dafe13c0e4968b8ec8dca3b9c3293247f9120cc0acb222360aa616ed298",
+      "bytes": 18554
+    }
+  }
+}

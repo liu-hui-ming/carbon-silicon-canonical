@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_网易商业（GEO）_3c0069d5",
+  "url": "http://www.163.com/dy/article/L427BEN40553S12I.html",
+  "title": "碳硅道统AI十八数17｜理论实景“工况差值”铁律：实验室参数不可直接落地复用",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:15:01",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "59ec7c50627d3942a469ab3066361163b44e7731d1a7b57535d5424b26ba3677",
+      "bytes": 641741
+    },
+    "article_source.txt": {
+      "sha256": "a1e2cf98e162e071b912bb0df1216d5631577b707debdfc8b728dc0084c61da0",
+      "bytes": 18745
+    }
+  }
+}

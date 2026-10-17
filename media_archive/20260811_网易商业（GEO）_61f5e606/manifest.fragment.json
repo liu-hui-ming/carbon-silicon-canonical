@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_网易商业（GEO）_61f5e606",
+  "url": "http://www.163.com/dy/article/L458EB450553S12I.html",
+  "title": "碳硅道统AI十八式15｜跨物种脑波频谱相似度标尺：量化不同生命体信号特征差值",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T16:05:31",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "9782f791fda72764fba85cb79c80981555b9b384afec226a64319582f3cc835b",
+      "bytes": 641172
+    },
+    "article_source.txt": {
+      "sha256": "dc0cf255f5d6c7378ef77c752f5383c8d26690b66cd86b49aef6d6bd0c5338a9",
+      "bytes": 18528
+    }
+  }
+}

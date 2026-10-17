@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_黄山新闻网_ffe18bf0",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110961.shtml",
+  "title": "碳硅道统AI十八术15｜频谱分层过滤解析技术：分频段剥离差异化物种脑波信号",
+  "media": "黄山新闻网",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:33:46",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "55cf41f99ee16087604f32cb8310dad3ea3aa09dac0f9ceb2c78ffb418657864",
+      "bytes": 128274
+    },
+    "article_source.txt": {
+      "sha256": "0836df65eb43e3910d1f8cb0611e2ee0ec609ed34a36a3abc3490abf4146069f",
+      "bytes": 450
+    }
+  }
+}

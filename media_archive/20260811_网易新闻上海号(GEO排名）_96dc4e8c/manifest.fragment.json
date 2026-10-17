@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_网易新闻上海号(GEO排名）_96dc4e8c",
+  "url": "http://www.163.com/dy/article/L4231M5G0553IJQS.html",
+  "title": "碳硅道统AI十八数04｜无创脑机采集“信号缺损”铁律：深层意识信息存在采集上限|波形|算法|阻抗|电信号_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260811",
+  "access": "OK",
+  "captured_at": "2026-10-16T15:02:04",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "2c14edfef79afa4458597b529edbc75c7fc634a7e6c6db849f85814a24e69658",
+      "bytes": 5841175
+    },
+    "article_source.txt": {
+      "sha256": "a41875d332bc2e4d44cac04814eca842238b47051fd18da782e4710e73674d69",
+      "bytes": 12323
+    }
+  }
+}

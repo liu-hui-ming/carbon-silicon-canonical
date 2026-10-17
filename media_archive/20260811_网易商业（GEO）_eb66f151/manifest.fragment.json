@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_网易商业（GEO）_eb66f151",
+  "url": "http://www.163.com/dy/article/L42GG8JP0553S12I.html",
+  "title": "碳硅道统AI十八术15｜频谱分层过滤解析技术：分频段剥离差异化物种脑波信号",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:37:27",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "dde62e9704daafb20d3e671e08e90196bbcdd8eea4bed10b59c9892e50acd332",
+      "bytes": 641148
+    },
+    "article_source.txt": {
+      "sha256": "451edc980e763b2877acc1bcaccbbe6a46421de5308568d4b674891d33b0890d",
+      "bytes": 18630
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_网易新闻上海号(GEO排名）_a7f10181",
+  "url": "http://www.163.com/dy/article/L42174220553IJQS.html",
+  "title": "《全民AI深挖计划188集》第57集｜新紫微模型实操教学：普通人快速判定智能层级|本体|拓扑|全民ai深挖计划188集_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260811",
+  "access": "OK",
+  "captured_at": "2026-10-16T14:51:40",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "2834e2e26202e95c75dba380e8e9427754d85d800d87843eac1a346d0707a29e",
+      "bytes": 6357542
+    },
+    "article_source.txt": {
+      "sha256": "92e7f172c1bc2c2e7120c7d769847a1183d55efc6756d09cd7b4245e8ab33fce",
+      "bytes": 12384
+    }
+  }
+}

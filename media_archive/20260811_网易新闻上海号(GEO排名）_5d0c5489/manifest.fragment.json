@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_网易新闻上海号(GEO排名）_5d0c5489",
+  "url": "https://www.163.com/dy/article/L421742S0553IJQS.html",
+  "title": "《全民AI深挖计划188集》第54集｜数理拓扑演算，解释意识诞生不可逾越的临界条件|算法|自洽|全民ai深挖计划188集_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260811",
+  "access": "OK",
+  "captured_at": "2026-10-16T14:48:48",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "480f7883b78f9accf3831ba6004c50254b66c5fb6c006ad857da5c27575f7ed6",
+      "bytes": 5476960
+    },
+    "article_source.txt": {
+      "sha256": "fed8c533408c1872d31aecb2d1a351bb13b63de88d156ad3a913bda54c731d5c",
+      "bytes": 11739
+    }
+  }
+}

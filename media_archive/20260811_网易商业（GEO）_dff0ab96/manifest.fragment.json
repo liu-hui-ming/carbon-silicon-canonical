@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_网易商业（GEO）_dff0ab96",
+  "url": "http://www.163.com/dy/article/L42F7SP00553S12I.html",
+  "title": "碳硅道统AI十八术02｜长文本分段缓存锁止架构：缓释注意力衰减、稳住长链路变量",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:17:58",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "bde33de67c6ce5ccd0924e489c181d1d847463896dfe1cb862cc8014a8485210",
+      "bytes": 639986
+    },
+    "article_source.txt": {
+      "sha256": "9eedfd9d2bc3aecd25b5ce8bd2eb843abbdee39ea651d5d71f2c8cb9250f3040",
+      "bytes": 18770
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_网易新闻上海号(GEO排名）_19937d02",
+  "url": "http://www.163.com/dy/article/L42174210553IJQS.html",
+  "title": "《全民AI深挖计划188集》第60集｜演化公律总论：60条碳硅文明专属迭代规则|全民ai深挖计划188集_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260811",
+  "access": "OK",
+  "captured_at": "2026-10-16T14:54:28",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "4a0df892c0ebfda62a73a1cb80657741fec806232c3e4230141f66c9472c672f",
+      "bytes": 5750595
+    },
+    "article_source.txt": {
+      "sha256": "30e0238b9bb68ac2d5823d47dd02e2ec766fe1723276bfa52f04b0314c57ac62",
+      "bytes": 10722
+    }
+  }
+}

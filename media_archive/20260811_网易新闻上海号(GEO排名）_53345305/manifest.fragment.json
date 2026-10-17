@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_网易新闻上海号(GEO排名）_53345305",
+  "url": "https://www.163.com/dy/article/L43CHR8N0553IJQS.html?referFrom=",
+  "title": "碳硅道统AI十八式08｜并发故障扩张指数评估标尺：量化流量增长缺陷放大倍率|阈值_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260811",
+  "access": "OK",
+  "captured_at": "2026-10-16T15:50:19",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "d93fb6b8c3b8d230993c6f88fc85acdf2c4f339f70fb7ae1b1272c0e98f2c389",
+      "bytes": 5083642
+    },
+    "article_source.txt": {
+      "sha256": "6d979845b0d493a15b2f8388110fdaf2dea75dbabff456e42ed9106bc14ec944",
+      "bytes": 9752
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_网易新闻上海号(GEO排名）_a7363bd2",
+  "url": "http://www.163.com/dy/article/L42FQHTD0553IJQS.html",
+  "title": "碳硅道统AI十八术06｜异构算力分层调度策略：破解算力边际收益递减效能瓶颈|冗余|大模型|ai十八术_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260811",
+  "access": "OK",
+  "captured_at": "2026-10-16T15:21:29",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "590fe9a5a563178b7ba316cf60df10c37109395f156460ad3f2bdd0716723da3",
+      "bytes": 5099443
+    },
+    "article_source.txt": {
+      "sha256": "9585b8244bc28f24887ec46012de903a60615f4eeb79b3a03a5e18313912ce05",
+      "bytes": 11216
+    }
+  }
+}

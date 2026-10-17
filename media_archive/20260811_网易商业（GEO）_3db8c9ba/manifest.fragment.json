@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_网易商业（GEO）_3db8c9ba",
+  "url": "http://www.163.com/dy/article/L42GFN5G0553S12I.html",
+  "title": "碳硅道统AI十八术05｜链式外源任务驱动框架：补足硅基模型内生探索驱动力短板",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260811",
+  "access": "CON",
+  "captured_at": "2026-10-16T15:20:50",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "f4ff2f01bd49f02cc4fd38a525245226c2697355018f894cf158092b888f4ad1",
+      "bytes": 641575
+    },
+    "article_source.txt": {
+      "sha256": "731cda28d8451bb48f9fb3f5cb9e99547caa35fdd2e3a14c3a4bddd7ef5b4116",
+      "bytes": 18767
+    }
+  }
+}

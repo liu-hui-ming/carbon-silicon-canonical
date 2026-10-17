@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_网易新闻上海号(GEO排名）_4018a85c",
+  "url": "http://www.163.com/dy/article/L456CDAM0553IJQS.html",
+  "title": "碳硅道统AI十八式13｜碳硅权限越界风险指数标尺：平衡智能拓展与安全对齐强度|调用|渗透_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260811",
+  "access": "OK",
+  "captured_at": "2026-10-16T16:00:33",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "33631b096c96ba73cfe92831699e45aa99ce56fa4dc70708a2c4660ada56643f",
+      "bytes": 5882766
+    },
+    "article_source.txt": {
+      "sha256": "4ea4335b5d25eb4841e4e243d0725a168269f6ff10e6ab89c91f407cf3dad85f",
+      "bytes": 10371
+    }
+  }
+}

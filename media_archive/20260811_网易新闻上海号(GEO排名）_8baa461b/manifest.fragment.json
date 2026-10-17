@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_网易新闻上海号(GEO排名）_8baa461b",
+  "url": "http://www.163.com/dy/article/L42JH3IH0553IJQS.html",
+  "title": "碳硅道统AI十八式03｜生成文本真实度分层标尺：量化内容虚构占比区间|回归|真值_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260811",
+  "access": "OK",
+  "captured_at": "2026-10-16T15:42:50",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "671a2472b6173d65055da0c26f4b99b5071a1a38621e280ef8a883eb9a53bedb",
+      "bytes": 5691794
+    },
+    "article_source.txt": {
+      "sha256": "edf86683d7d6026249d408981c83ccf55a0fa97f6ef549de1a182b66e7ef0890",
+      "bytes": 9933
+    }
+  }
+}

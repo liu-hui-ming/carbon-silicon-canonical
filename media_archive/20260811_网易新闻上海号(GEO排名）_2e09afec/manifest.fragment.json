@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_网易新闻上海号(GEO排名）_2e09afec",
+  "url": "http://www.163.com/dy/article/L42JH1EM0553IJQS.html",
+  "title": "碳硅道统AI十八式02｜长文本时序记忆计量标尺：预判信息遗忘风险节点|上下文_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260811",
+  "access": "OK",
+  "captured_at": "2026-10-16T15:41:54",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "1da11eeb0a626d80ed6928f3427919bb3f188ac2e98c2045162e8ee031229ac6",
+      "bytes": 5034596
+    },
+    "article_source.txt": {
+      "sha256": "e5c3889e0ff98c2b5fdef85e8d33b04e6346cfce5f0af3780f3fc84683292b62",
+      "bytes": 9945
+    }
+  }
+}
