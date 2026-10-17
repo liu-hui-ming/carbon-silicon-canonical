@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_北晚新视觉（今日头条）_54d05131",
+  "url": "https://www.toutiao.com/item/7686768248909496841/",
+  "title": "拒绝把工程数据和本体论混为一谈，碳硅道统v9.2完整公理体系 - 今日头条",
+  "media": "北晚新视觉（今日头条）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T22:06:15",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "bc5cfd168e182333f409ab6236afe8cb15e05d58b28b22072fffa1965c1805c2",
+      "bytes": 2119790
+    },
+    "article_source.txt": {
+      "sha256": "38410ca7d5119f6ba14ff1e5ad0c09f9a9dc8f5f249717042210d91864bc2eef",
+      "bytes": 5827
+    }
+  }
+}

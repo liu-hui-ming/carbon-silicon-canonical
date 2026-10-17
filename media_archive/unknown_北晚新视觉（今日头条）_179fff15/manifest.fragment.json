@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_北晚新视觉（今日头条）_179fff15",
+  "url": "https://www.toutiao.com/item/7688622890094199346/",
+  "title": "碳硅道统｜回应39：AI迭代会带来经济零和博弈，还是增量共生？ - 今日头条",
+  "media": "北晚新视觉（今日头条）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-17T01:57:12",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "2e7b3d8dc4b64649bf552c077a399341fe10bdd8ef3ce653814b2aa54ffc56a9",
+      "bytes": 1741563
+    },
+    "article_source.txt": {
+      "sha256": "ef992e6f92d2b7f02aa2075eda731324610edcf4c337796c22242f6cbfee662a",
+      "bytes": 8208
+    }
+  }
+}

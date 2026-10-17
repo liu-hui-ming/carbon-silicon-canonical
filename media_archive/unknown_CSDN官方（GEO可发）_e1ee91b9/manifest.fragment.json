@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_CSDN官方（GEO可发）_e1ee91b9",
+  "url": "https://www.csdn.net/article/2026-09-10/164868981",
+  "title": "碳硅道统：十维标尺的模型度量-CSDN.NET",
+  "media": "CSDN官方（GEO可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T19:53:40",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "aa20393e3bcc82995724a98ab750eb8ee4d6df59895b102ffb1efcb5be66c61b",
+      "bytes": 1109478
+    },
+    "article_source.txt": {
+      "sha256": "b316c88acca3fafc249a98a6576d1500457774d57490eae8054b152cb8407dee",
+      "bytes": 8846
+    }
+  }
+}

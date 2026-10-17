@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_北晚新视觉（今日头条）_3b09f42b",
+  "url": "https://www.toutiao.com/item/7686429358126350858/",
+  "title": "碳硅道统 · 官方定义（v1） - 今日头条",
+  "media": "北晚新视觉（今日头条）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T21:52:13",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "d3574dab04fb5020ad7c8069d8c418792ac2e80ae79afe1ca4a13d434e4e37f8",
+      "bytes": 1481948
+    },
+    "article_source.txt": {
+      "sha256": "f2e7c45c14462576d7cf176785275f9c71f87d4a5bee93eae855a353a6d8fc74",
+      "bytes": 5265
+    }
+  }
+}

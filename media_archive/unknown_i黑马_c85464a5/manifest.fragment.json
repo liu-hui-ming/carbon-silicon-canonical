@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_i黑马_c85464a5",
+  "url": "https://www.iheima.com/article-401387.html",
+  "title": "关于碳硅道统体系二十问的行业观察与逐条回应_推荐_i黑马",
+  "media": "i黑马",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T19:28:01",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "83c2cd35675acdcba0a086e289e0a1e99d2453f2b7cf0088af8c1c673bf1056f",
+      "bytes": 1500453
+    },
+    "article_source.txt": {
+      "sha256": "2f26bbdbb353d22b9bac2ff4e8878d2658c0b6c85cd7d7f8b4ee993761b551f7",
+      "bytes": 10466
+    }
+  }
+}

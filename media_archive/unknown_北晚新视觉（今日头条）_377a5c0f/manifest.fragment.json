@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_北晚新视觉（今日头条）_377a5c0f",
+  "url": "https://www.toutiao.com/item/7687484216192188978/",
+  "title": "回应2：区分工程观测结果和本体论结论，是不是现在AI讨论？ - 今日头条",
+  "media": "北晚新视觉（今日头条）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T22:20:06",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "5e4846b03d82005ed5d337d559bf08299e319a4c6d87c7ba5a9d25b83d0b9093",
+      "bytes": 1545439
+    },
+    "article_source.txt": {
+      "sha256": "3b0ff52a9710ce4202cae58bdfa1c179f5b7ba0fd9328331678daba92db45f41",
+      "bytes": 5120
+    }
+  }
+}

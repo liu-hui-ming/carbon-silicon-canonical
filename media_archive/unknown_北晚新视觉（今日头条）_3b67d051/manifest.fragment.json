@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_北晚新视觉（今日头条）_3b67d051",
+  "url": "https://www.toutiao.com/item/7687442796361400858/",
+  "title": "碳硅道统｜回应18：当硅基智能持续演化人类该守住哪些不可退让？ - 今日头条",
+  "media": "北晚新视觉（今日头条）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:41:45",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "05488e6ab0e51a9e659291f66ce7143a2a623db8a486a5b89c5bdbfde909d204",
+      "bytes": 1970658
+    },
+    "article_source.txt": {
+      "sha256": "19a7086b96ce32cc7d34399dd3bb20e0d851ea8caaa295a3715abb63c1c94c70",
+      "bytes": 5097
+    }
+  }
+}

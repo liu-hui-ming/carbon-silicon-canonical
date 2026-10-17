@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_北晚新视觉（今日头条）_3d306d19",
+  "url": "https://www.toutiao.com/item/7687442676639187482/",
+  "title": "碳硅道统｜回应17：碳硅共荣，我们该如何在未知面前保持的谦卑？ - 今日头条",
+  "media": "北晚新视觉（今日头条）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:38:49",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "c9a42c980653e3db49ec6b4d8673533c67ad0eb33629a044a7c0a3625a7780da",
+      "bytes": 2004370
+    },
+    "article_source.txt": {
+      "sha256": "136a60f41863da39cb41b2a37999bac13f7b7157e7a178f69dd4c0ffb15e53a3",
+      "bytes": 4912
+    }
+  }
+}

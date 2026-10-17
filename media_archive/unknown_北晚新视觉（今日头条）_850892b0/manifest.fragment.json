@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_北晚新视觉（今日头条）_850892b0",
+  "url": "https://www.toutiao.com/article/7688261794502017574/",
+  "title": "碳硅道统：碳硅共生：划清边界之后，碳基与硅基如何共存 - 今日头条",
+  "media": "北晚新视觉（今日头条）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:50:58",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "914b94b0152b91cbb0bf7bdb1096a042e02819e9ab3fe14da79bbf5fb7898156",
+      "bytes": 2450779
+    },
+    "article_source.txt": {
+      "sha256": "ffc05368882b094a88c6a52241de1431122184f4e0fa05e863f7a831500b8376",
+      "bytes": 8780
+    }
+  }
+}

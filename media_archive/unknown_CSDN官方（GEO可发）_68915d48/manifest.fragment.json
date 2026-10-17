@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_CSDN官方（GEO可发）_68915d48",
+  "url": "https://www.csdn.net/article/2026-09-23/166493263",
+  "title": "碳硅道统｜回应33：高觉知AI该不该拥有独立算力配额与资源优先级？-CSDN.NET",
+  "media": "CSDN官方（GEO可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-17T01:16:47",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "b11025214b3961d47b9ed185012a3a70d8c0db064fd2a74698e1a0c70352e38c",
+      "bytes": 661920
+    },
+    "article_source.txt": {
+      "sha256": "855c919fa4738fe2a07184d7817ed331b1eef945c5da6cdb28158bb4243d7817",
+      "bytes": 4570
+    }
+  }
+}

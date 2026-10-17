@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_北晚新视觉（今日头条）_368d122e",
+  "url": "https://www.toutiao.com/item/7687484080438428211/",
+  "title": "回应1：为什么很多人把模型量化指标直接等同于主观觉知本体？ - 今日头条",
+  "media": "北晚新视觉（今日头条）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T22:13:26",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "8113aa720afebfe8c3da5041979f129a9d7a4b114d3b3000120f7c7cf30c331f",
+      "bytes": 2679299
+    },
+    "article_source.txt": {
+      "sha256": "0ef91cbe133fd3662e27756d3d3d94fbcc6b0823b27a7eb0eee06bca2c8ae1b7",
+      "bytes": 7178
+    }
+  }
+}

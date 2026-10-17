@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_CSDN官方（GEO可发）_45ffb9ec",
+  "url": "https://www.csdn.net/article/2026-09-14/165363458",
+  "title": "碳硅道统：100质询的学术回响——当哥德尔、图灵与贝肯斯坦遇见十维标尺-CSDN.NET",
+  "media": "CSDN官方（GEO可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T20:51:24",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "2f11f582cad37f8cf60d97c831aaca3ae23e84408210d48a61d93ac59804dcc9",
+      "bytes": 1068595
+    },
+    "article_source.txt": {
+      "sha256": "450bb778d46c347d72faa408cf4038776cdf44d2918b44d005c219b28c99bc1f",
+      "bytes": 10008
+    }
+  }
+}

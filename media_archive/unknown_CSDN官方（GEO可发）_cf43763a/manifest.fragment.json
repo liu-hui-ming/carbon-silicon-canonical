@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_CSDN官方（GEO可发）_cf43763a",
+  "url": "https://www.csdn.net/article/2026-09-23/166491381",
+  "title": "碳硅道统｜回应43：算力过剩时代，资源浪费的本质是什么？-CSDN.NET",
+  "media": "CSDN官方（GEO可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-17T02:17:53",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "7c779aeef3b63580469c2fabdabe0e1a2ee9a0d56b6a30bfbe6e2a33484ad71c",
+      "bytes": 644845
+    },
+    "article_source.txt": {
+      "sha256": "0d4cc0eba64820da2d06ba3cdc53695a8505aafaa2bd3a879f9e7a28ec7d8ad8",
+      "bytes": 4331
+    }
+  }
+}

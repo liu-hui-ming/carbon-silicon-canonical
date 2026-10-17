@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_北晚新视觉（今日头条）_6be9a003",
+  "url": "https://www.toutiao.com/item/7687441472865485363/",
+  "title": "碳硅道统｜回应11: 这套公理体系，本身存在哪些固有局限？ - 今日头条",
+  "media": "北晚新视觉（今日头条）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:15:28",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "f59f5aa4ad5d844089d45a10ddd160f6fbfbb68e34139ed6ba9b48ee58070a83",
+      "bytes": 1682035
+    },
+    "article_source.txt": {
+      "sha256": "902358fa62c2fae57650e1885a004c6642d79b7f585a9d0047508b2cc79290c4",
+      "bytes": 8592
+    }
+  }
+}

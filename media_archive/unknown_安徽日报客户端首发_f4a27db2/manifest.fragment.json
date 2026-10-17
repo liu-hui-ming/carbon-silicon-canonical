@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_安徽日报客户端首发_f4a27db2",
+  "url": "https://web.ahnews.com.cn/news?id=537412",
+  "title": "碳硅道统破局：算力堆不出真正智能，理性看待2026年AGI估值泡沫",
+  "media": "安徽日报客户端首发",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T19:45:15",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "978b19756b7247d225abbf7e525700ae8e41bb629144c1da21d1cb4dcbdfab22",
+      "bytes": 7028447
+    },
+    "article_source.txt": {
+      "sha256": "790079320435bc5671d80e78e0ac8d21bee1c775d2ee1ba475993733ef46c71a",
+      "bytes": 6944
+    }
+  }
+}

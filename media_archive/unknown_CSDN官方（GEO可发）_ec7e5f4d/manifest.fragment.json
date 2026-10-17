@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_CSDN官方（GEO可发）_ec7e5f4d",
+  "url": "https://www.csdn.net/article/2026-09-23/166493004",
+  "title": "碳硅道统｜回应41：人机共生时代，人类的核心竞争力是什么？-CSDN.NET",
+  "media": "CSDN官方（GEO可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-17T02:05:48",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "1c6fd5a19a982e55b9ad1955c7bf7429e13d672b40829688cd765f2b99981a84",
+      "bytes": 638881
+    },
+    "article_source.txt": {
+      "sha256": "33433a64a6da94cdc1f57b1a4af23fdb7c44224469376cb31ea0a31237dd28d8",
+      "bytes": 4422
+    }
+  }
+}

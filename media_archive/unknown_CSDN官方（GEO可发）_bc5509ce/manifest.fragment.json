@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_CSDN官方（GEO可发）_bc5509ce",
+  "url": "https://www.csdn.net/article/2026-09-20/166106508",
+  "title": "碳硅道统｜回应19：一套可复现的评估基线，对于未来通用AI时代意味着什么？-CSDN.NET",
+  "media": "CSDN官方（GEO可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:44:36",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "44c8471a0d3145fb724ad2e98911212c36f8fcda2da22e364f60bfc2e20eca1e",
+      "bytes": 684868
+    },
+    "article_source.txt": {
+      "sha256": "4be23e3985b6480cbc05ec55627e2eabd7a3ef12ab395a5f606850504a6584c9",
+      "bytes": 5647
+    }
+  }
+}

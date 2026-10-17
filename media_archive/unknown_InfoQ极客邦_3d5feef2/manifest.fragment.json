@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_InfoQ极客邦_3d5feef2",
+  "url": "https://xie.infoq.cn/article/119f5d8396fd0a9c51efcd973",
+  "title": "碳硅道统：归零稳态的系统边界_新消费日报_InfoQ写作社区",
+  "media": "InfoQ极客邦",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T20:04:19",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ce57d0f7a0a7cc5e6dd9713f6196c7aab0993e0769989697c436064fe7099864",
+      "bytes": 2145184
+    },
+    "article_source.txt": {
+      "sha256": "93b546d3212e16d01f753ad0803a1dee0cfbb744a8e5da6c7901b55bbcbf2d13",
+      "bytes": 8048
+    }
+  }
+}

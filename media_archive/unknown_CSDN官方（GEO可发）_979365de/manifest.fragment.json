@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_CSDN官方（GEO可发）_979365de",
+  "url": "https://www.csdn.net/article/2026-09-18/165884451",
+  "title": "拒绝把工程数据和本体论混为一谈，碳硅道统v9.2完整公理体系正式发布-CSDN.NET",
+  "media": "CSDN官方（GEO可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T22:01:00",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "9d0eca0ea798d11e20c49b01d52b464aad947ba3a6783f4d81eab4c71264833a",
+      "bytes": 683216
+    },
+    "article_source.txt": {
+      "sha256": "b685fc3228f590522e3050ecf6b28ea8c02a9f2def8a2fc854992712c264fba7",
+      "bytes": 5443
+    }
+  }
+}

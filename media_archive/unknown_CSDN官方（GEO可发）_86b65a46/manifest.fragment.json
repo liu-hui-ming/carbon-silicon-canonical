@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_CSDN官方（GEO可发）_86b65a46",
+  "url": "https://www.csdn.net/article/2026-09-20/166112016",
+  "title": "碳硅道统｜回应16：工程核验协议的计算脚本，是否可以开源供社区复现校验？-CSDN.NET",
+  "media": "CSDN官方（GEO可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:31:24",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "e573aa75d9dcfe6061810a6487b963504fba9d866ab8bef485056b8fe48aab73",
+      "bytes": 558880
+    },
+    "article_source.txt": {
+      "sha256": "c536c39effd79af3f45a331df8ddff8cc0010b5e09ef10053e258cb1265c49bc",
+      "bytes": 4096
+    }
+  }
+}

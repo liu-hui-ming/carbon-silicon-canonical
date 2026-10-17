@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_InfoQ极客邦_51d122e8",
+  "url": "https://xie.infoq.cn/article/caab4b4dd5d2881c10d3dcc68",
+  "title": "碳硅道统｜回应15：现有大模型，哪些指标可以直接套用这套协议做初步自测？_新消费日报_InfoQ写作社区",
+  "media": "InfoQ极客邦",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:28:34",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "864349b3fce83fb09afa7cc9d0f966ee2c6715f265fc5c4943d0c19a15c5b969",
+      "bytes": 1407774
+    },
+    "article_source.txt": {
+      "sha256": "03eb63d3686837001c8e7cbf0b5cd8728432e567169c363ab1197bfa2bcf6890",
+      "bytes": 4337
+    }
+  }
+}

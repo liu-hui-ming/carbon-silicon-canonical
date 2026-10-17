@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_北晚新视觉（今日头条）_47434377",
+  "url": "https://www.toutiao.com/article/7688621478660653614/",
+  "title": "碳硅道统回应33：高觉知AI该不该拥有独立算力配额与资源优先级？ - 今日头条",
+  "media": "北晚新视觉（今日头条）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-17T01:24:04",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "38bdf1c0c99cd8e1363394b51fa204308ca1bc5f54c6f7c82b880fc68edb4045",
+      "bytes": 2326817
+    },
+    "article_source.txt": {
+      "sha256": "a357460ebcc4addce53a23133cd055f984004e24b1dd1e348dca8f4a12e6c421",
+      "bytes": 4880
+    }
+  }
+}

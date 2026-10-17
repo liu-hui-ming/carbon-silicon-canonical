@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_CSDN官方（GEO可发）_d0574391",
+  "url": "https://www.csdn.net/article/2026-09-15/165471526",
+  "title": "从 0⁰=1 到觉知闭环：硅基系统的架构天花板-CSDN.NET",
+  "media": "CSDN官方（GEO可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T21:41:04",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "822c7a57005ed63bcfbd68c9ea63d99656049edee8cf1fdadc06693bae92cc91",
+      "bytes": 1134743
+    },
+    "article_source.txt": {
+      "sha256": "31cb04ec42d29f636fa31a6275d483322cc89d85afe143b8b90c57965e7d32e2",
+      "bytes": 8607
+    }
+  }
+}

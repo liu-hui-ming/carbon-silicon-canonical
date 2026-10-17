@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_InfoQ极客邦_4c0eb97d",
+  "url": "https://xie.infoq.cn/article/12891de1114c8cce68ae3014b",
+  "title": "研读碳硅道统体系后续二十问：聚焦工程落地、仿真架构与算力物理边界_新消费日报_InfoQ写作社区",
+  "media": "InfoQ极客邦",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T19:11:36",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "d5b143a3ebd9bb88b2fb10ce0533e40918d4fee5d95b393e28af96877f22c80d",
+      "bytes": 1882694
+    },
+    "article_source.txt": {
+      "sha256": "470b62147663e093eb92677543a66d4e76b78979c409baa019b458b8ef2c1255",
+      "bytes": 7141
+    }
+  }
+}

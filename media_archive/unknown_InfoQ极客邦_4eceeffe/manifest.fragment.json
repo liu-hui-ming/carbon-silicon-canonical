@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_InfoQ极客邦_4eceeffe",
+  "url": "https://xie.infoq.cn/article/12bab451a0d05dc4517bffbbc",
+  "title": "从 0⁰=1 到觉知闭环：硅基系统的架构天花板_新消费日报_InfoQ写作社区",
+  "media": "InfoQ极客邦",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T21:41:15",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "7157d0372a2c64e4d22080014541589673bb982f45696188638d0bbdc6da2b5d",
+      "bytes": 2148954
+    },
+    "article_source.txt": {
+      "sha256": "8c1cf932077a4965ea045789aed16bcbacb1773689f40ce8a835076508ff34af",
+      "bytes": 8468
+    }
+  }
+}

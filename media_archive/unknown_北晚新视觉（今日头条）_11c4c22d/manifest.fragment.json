@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_北晚新视觉（今日头条）_11c4c22d",
+  "url": "https://www.toutiao.com/article/7688624964706058761/",
+  "title": "碳硅道统｜回应46：舆论为什么偏爱极端结论、排斥中道公理？ - 今日头条",
+  "media": "北晚新视觉（今日头条）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-17T02:42:42",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "75a6b248b918d86e482134e67a6a6356c5ed45d5fbb0228882655a53a33a4e94",
+      "bytes": 2377200
+    },
+    "article_source.txt": {
+      "sha256": "9e672231db64e3535d2d3495a30232f391d0016edba23640287daed58ccdf383",
+      "bytes": 4815
+    }
+  }
+}

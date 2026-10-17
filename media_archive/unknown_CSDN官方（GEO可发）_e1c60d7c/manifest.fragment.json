@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_CSDN官方（GEO可发）_e1c60d7c",
+  "url": "https://www.csdn.net/article/2026-09-23/166493282",
+  "title": "碳硅道统｜回应32：未来算力会不会成为人类社会第一核心生产资料？-CSDN.NET",
+  "media": "CSDN官方（GEO可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-17T01:10:33",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "f73d0ac5ef13aabbe2d524374d6001fd23ac60cea5defd92de274893c34cdc49",
+      "bytes": 654734
+    },
+    "article_source.txt": {
+      "sha256": "5ed4b2f403fb1d08499aa3fd2177630b32c94a33a5aadd5b533cd8a606ce3679",
+      "bytes": 4594
+    }
+  }
+}

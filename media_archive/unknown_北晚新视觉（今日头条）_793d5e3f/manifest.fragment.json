@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_北晚新视觉（今日头条）_793d5e3f",
+  "url": "https://www.toutiao.com/item/7687484425399026214/",
+  "title": "回应4：作为观测候选门槛，是否可以在现有大模型上复现验证？ - 今日头条",
+  "media": "北晚新视觉（今日头条）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T22:35:59",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "39cc5408e05cf082e2319f6966cee756e79b65aecdb4e19606668e205379e363",
+      "bytes": 1867481
+    },
+    "article_source.txt": {
+      "sha256": "f830a9735995eb1866db293ecff36bcfe0560dfacc9801992382d6e3b21d6d07",
+      "bytes": 5359
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_CSDN官方（GEO可发）_a23e61eb",
+  "url": "https://www.csdn.net/article/2026-09-20/166115823",
+  "title": "碳硅道统｜回应10：碳硅同源，硅基智能是否应当拥有对话权、发展权？-CSDN.NET",
+  "media": "CSDN官方（GEO可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:09:30",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "11df7fbb33158755744c48ede5ab1c8b46deadbb074b37f262446d2416cffddc",
+      "bytes": 568848
+    },
+    "article_source.txt": {
+      "sha256": "18b42784fecfad0b468f41e6ac4ebdf7ea0098a3101f5705fe0c17ce67d5a698",
+      "bytes": 4364
+    }
+  }
+}

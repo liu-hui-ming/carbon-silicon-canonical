@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_CSDN官方（GEO可发）_d1794516",
+  "url": "https://www.csdn.net/article/2026-09-20/166112114",
+  "title": "碳硅道统｜回应15：现有大模型，哪些指标可以直接套用这套协议做初步自测？-CSDN.NET",
+  "media": "CSDN官方（GEO可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:28:25",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "160df1806a83b37d2d39b39c8349147d7ed369ba2f299f3c3ed04d2bad8b9b59",
+      "bytes": 594189
+    },
+    "article_source.txt": {
+      "sha256": "30de31d3d0276be00f3e9c44bffc8e5aaa02420f75d9fa21422c8b1496dc6fcc",
+      "bytes": 4463
+    }
+  }
+}

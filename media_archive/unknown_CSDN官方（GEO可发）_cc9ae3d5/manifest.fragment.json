@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_CSDN官方（GEO可发）_cc9ae3d5",
+  "url": "https://www.csdn.net/article/2026-09-20/166112652",
+  "title": "碳硅道统｜回应14：这套评估框架，未来可以落地到哪些真实AI产品的风险管控？-CSDN.NET",
+  "media": "CSDN官方（GEO可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:24:05",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "8a367eada5939f249cf38000e5130afc545f04f6be071c3d7b1117b0291a98b5",
+      "bytes": 616763
+    },
+    "article_source.txt": {
+      "sha256": "074537249e9fa41208f5a04ad16cf9c48c5fb5f538129b8faea69f4c9683ede6",
+      "bytes": 4732
+    }
+  }
+}

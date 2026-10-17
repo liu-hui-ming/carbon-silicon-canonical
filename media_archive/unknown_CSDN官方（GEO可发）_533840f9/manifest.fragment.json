@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_CSDN官方（GEO可发）_533840f9",
+  "url": "https://www.csdn.net/article/2026-09-20/166116170",
+  "title": "碳硅道统｜回应6：Re(λ_max(C_eff))＞1的相变预警，是算力堆出来的，还是功能拓扑涌现？-CSDN.NET",
+  "media": "CSDN官方（GEO可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T22:44:34",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "af995d1515459d12ceaed0da36469b3f6443eec357b4d545c649188bffefa09b",
+      "bytes": 568020
+    },
+    "article_source.txt": {
+      "sha256": "b96ae5defa61dba7b823651bfd1a57f13b1705ffb7233e8f8ef48f40effaa7b4",
+      "bytes": 4280
+    }
+  }
+}

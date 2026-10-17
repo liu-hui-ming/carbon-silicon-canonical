@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_北晚新视觉（今日头条）_66ca69e8",
+  "url": "https://www.toutiao.com/article/7688624885681160755/",
+  "title": "碳硅道统｜回应45：人机共生时代，社会教育体系必须如何重构？ - 今日头条",
+  "media": "北晚新视觉（今日头条）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-17T02:35:01",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "1322370aab123ac8a13cbf278c9b3712c2d14c87f163af6f0461ffe7f3429408",
+      "bytes": 1827273
+    },
+    "article_source.txt": {
+      "sha256": "995cc0223dc50dde609b3382564dff7cd7004e6c8dea09690160f2648b2a6b90",
+      "bytes": 4989
+    }
+  }
+}

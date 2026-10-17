@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_北晚新视觉（今日头条）_37629b6c",
+  "url": "https://www.toutiao.com/item/7687441827179381298/",
+  "title": "回应12：双轨隔离会不会造成工程与伦理两套体系互相割裂？ - 今日头条",
+  "media": "北晚新视觉（今日头条）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:19:59",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "a3b21be72a46617ee7d2ef9f4da532563377609eb2988869099fabd74189c6d3",
+      "bytes": 1744027
+    },
+    "article_source.txt": {
+      "sha256": "7472ce91250d51e91efb334cb6283c0b38709dfd95dba76a038b8a57c5152b8e",
+      "bytes": 8376
+    }
+  }
+}

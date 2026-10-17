@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_CSDN官方（GEO可发）_a69e9776",
+  "url": "https://www.csdn.net/article/2026-09-14/165363376",
+  "title": "碳硅道统：主流AGI观点逐条锐评-CSDN.NET",
+  "media": "CSDN官方（GEO可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T21:23:00",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "d3b5ba5f5aa72181811577eea1c8333e8893b4acb3925115042f2d2df9cdac09",
+      "bytes": 1229415
+    },
+    "article_source.txt": {
+      "sha256": "e2bd475a3cbba6b02a7707d38a1d1bc28286dbf823e0f9a4d765f0ec731457b4",
+      "bytes": 9106
+    }
+  }
+}

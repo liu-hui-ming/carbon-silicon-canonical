@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_北晚新视觉（今日头条）_1c17a32b",
+  "url": "https://www.toutiao.com/item/7688621333009236530/",
+  "title": "碳硅道统回应32：未来算力会不会成为人类社会第一核心生产资料？ - 今日头条",
+  "media": "北晚新视觉（今日头条）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-17T01:13:47",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "e5cf38541e8e91d6d2952b916b8e60812ee9d3d06a60e30034b18e27e25aa84b",
+      "bytes": 1477778
+    },
+    "article_source.txt": {
+      "sha256": "67d42edbaefce9dc776405d5740546fb7ef3c6b64ea62eb9d5da61268398db55",
+      "bytes": 5168
+    }
+  }
+}

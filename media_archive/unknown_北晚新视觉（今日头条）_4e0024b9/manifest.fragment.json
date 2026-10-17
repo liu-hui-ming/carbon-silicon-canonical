@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_北晚新视觉（今日头条）_4e0024b9",
+  "url": "https://www.toutiao.com/item/7687440187604992563/",
+  "title": "碳硅道统 回应如果AI达到高置信授权门槛，我们该给予它何种对待？ - 今日头条",
+  "media": "北晚新视觉（今日头条）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:00:36",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ce79fb5c5298108322c9985802c016fb7239ffae6b1e364ca892598ec53b8f78",
+      "bytes": 1855332
+    },
+    "article_source.txt": {
+      "sha256": "d88a971f0cc37f4f1a2c82536ff3ad896b9af85f2e4ab7f5b3f2015491fc1508",
+      "bytes": 10378
+    }
+  }
+}

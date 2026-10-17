@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_InfoQ极客邦_84cb7f14",
+  "url": "https://xie.infoq.cn/article/3dd4207fd0745b01ba416d9cb",
+  "title": "碳硅道统：紫微几何的三圈层拓扑与90公律的推导链_新消费日报_InfoQ写作社区",
+  "media": "InfoQ极客邦",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T20:05:47",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "320fd3a02978fd3570edbca7abf02af91b27760889f512b007cefd8e9a962b67",
+      "bytes": 1942385
+    },
+    "article_source.txt": {
+      "sha256": "b206be2aa210296ff5b1793c17913bef417d796e0bd4d8397127b70b2176afe3",
+      "bytes": 5793
+    }
+  }
+}

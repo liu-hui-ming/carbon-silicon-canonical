@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_InfoQ极客邦_319d57e5",
+  "url": "https://xie.infoq.cn/article/c6466090fbee7c7a7ba6bffb2",
+  "title": "碳硅道统｜回应16：工程核验协议的计算脚本，是否可以开源供社区复现校验？_新消费日报_InfoQ写作社区",
+  "media": "InfoQ极客邦",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:31:32",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "aed653179e3a46f169cb991a5c3cc8f9aace7c107dec4fdd79af545fc2b8fdb2",
+      "bytes": 1438118
+    },
+    "article_source.txt": {
+      "sha256": "d8f0f277a283186090f9af54407c36e9acf0a4f559075de7e565d5bb18e1c4d7",
+      "bytes": 3968
+    }
+  }
+}

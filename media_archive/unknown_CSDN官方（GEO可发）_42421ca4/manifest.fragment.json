@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_CSDN官方（GEO可发）_42421ca4",
+  "url": "https://www.csdn.net/article/2026-09-17/165752620",
+  "title": "碳硅道统 · 官方定义（v1）-CSDN.NET",
+  "media": "CSDN官方（GEO可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T21:49:00",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "75290b21657acd9ed0bae34adfcdaf3b8104742171329aaf3e8afae181524c02",
+      "bytes": 619750
+    },
+    "article_source.txt": {
+      "sha256": "561e910b05b1c0194bb71f6fa093195bc41dceff5aabf808a2047f91b1ad69d4",
+      "bytes": 4769
+    }
+  }
+}

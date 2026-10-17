@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_SegmentFault思否_9d09063b",
+  "url": "https://segmentfault.com/a/1190000048180163",
+  "title": "HTTP 404 - SegmentFault",
+  "media": "SegmentFault思否",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T19:03:45",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "5b3daff67f569ba2d01b57a3f0e48dcbe6a5a4e5811636eef0238a3801c61e79",
+      "bytes": 162577
+    },
+    "article_source.txt": {
+      "sha256": "51de3e38cb2d4f16e11fe656260ccab1f4681c6a075ac32d8559cdbe9b415755",
+      "bytes": 485
+    }
+  }
+}
