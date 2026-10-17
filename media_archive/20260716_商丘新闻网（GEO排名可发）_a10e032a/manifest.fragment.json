@@ -1,0 +1,20 @@
+{
+  "folder": "20260716_商丘新闻网（GEO排名可发）_a10e032a",
+  "url": "https://www.sqxww.com/caijing/298260.html",
+  "title": "商丘新闻网（GEO排名可发） 首发稿件 #460",
+  "media": "商丘新闻网（GEO排名可发）",
+  "pub_date": "20260716",
+  "access": "CON",
+  "captured_at": "2026-10-15T00:19:22",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "28a36ac319de3698b0a6a131ded69ad93008932973088f87e5a54996b4fa1d55",
+      "bytes": 378316
+    },
+    "article_source.txt": {
+      "sha256": "9ed5eaef7ccf9f6d45ecff795cbc73c95a7f1414595ee11571b606822758e260",
+      "bytes": 391
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260716_IT专家网（网易号）_ec2dcb52",
+  "url": "http://www.163.com/dy/article/L1V41TSE0552S0EL.html",
+  "title": "第6集:能做题、能生成内容,不代表AI拥有独立自主思维|道统|本体_网易订阅",
+  "media": "IT专家网（网易号）",
+  "pub_date": "20260716",
+  "access": "OK",
+  "captured_at": "2026-10-15T00:16:55",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "526d153c4530016b7532ba045fc63437e6229a5097f20328d4539b91f57f1298",
+      "bytes": 5915097
+    },
+    "article_source.txt": {
+      "sha256": "bac39675cad55d9b49a5805ce3762e230cbcdea8c23f2ef4ad5ff7afd21f2d98",
+      "bytes": 10364
+    }
+  }
+}

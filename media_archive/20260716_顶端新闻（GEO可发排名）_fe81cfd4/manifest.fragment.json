@@ -1,0 +1,20 @@
+{
+  "folder": "20260716_顶端新闻（GEO可发排名）_fe81cfd4",
+  "url": "https://m.topnews.cn/news/145ED6E048B14B76",
+  "title": "第7集:AGI行业骗局:全球无任何一款AI触及真正通用智能标准",
+  "media": "顶端新闻（GEO可发排名）",
+  "pub_date": "20260716",
+  "access": "OK",
+  "captured_at": "2026-10-15T00:18:34",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "977868e1d400dc435c67f1c794e7ae5447158ac02098eab433a219dd34f20b1e",
+      "bytes": 486641
+    },
+    "article_source.txt": {
+      "sha256": "0c11ce534c4f72b080db7088627616fd92534c743e2fef29e804139a548e8fbf",
+      "bytes": 4950
+    }
+  }
+}

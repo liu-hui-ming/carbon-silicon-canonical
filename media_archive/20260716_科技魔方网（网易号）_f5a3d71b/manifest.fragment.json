@@ -1,0 +1,20 @@
+{
+  "folder": "20260716_科技魔方网（网易号）_f5a3d71b",
+  "url": "http://www.163.com/dy/article/L1V42V4N0552XYTG.html",
+  "title": "第6集:能做题、能生成内容,不代表AI拥有独立自主思维|道统|本体_网易订阅",
+  "media": "科技魔方网（网易号）",
+  "pub_date": "20260716",
+  "access": "OK",
+  "captured_at": "2026-10-15T00:18:04",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "15ab0b36a58cef7f6e6da94d14a5f56ce26e7124c56ed37470b99fa22fdcbef1",
+      "bytes": 6837421
+    },
+    "article_source.txt": {
+      "sha256": "95e32c44cd8efb9e9369be3066d4fa9d2ac32eb5d2f81f06c3e4b172ffac7afc",
+      "bytes": 10211
+    }
+  }
+}

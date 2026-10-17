@@ -1,0 +1,20 @@
+{
+  "folder": "20260716_红商网（广告排名可发）_4059c369",
+  "url": "http://www.redsh.com/a/20260717/004750.shtml",
+  "title": "第6集:能做题、能生成内容,不代表AI拥有独立自主思维 - 红商网",
+  "media": "红商网（广告排名可发）",
+  "pub_date": "20260716",
+  "access": "OK",
+  "captured_at": "2026-10-15T00:13:40",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "111d821faba47ada16d8ae0e128072bbb6f329970661ea9abd89d586a6cbc049",
+      "bytes": 1733156
+    },
+    "article_source.txt": {
+      "sha256": "1a6b365168a551838588e458f0906ff48f31baf912660bc6c73b033ba7c34e89",
+      "bytes": 5231
+    }
+  }
+}

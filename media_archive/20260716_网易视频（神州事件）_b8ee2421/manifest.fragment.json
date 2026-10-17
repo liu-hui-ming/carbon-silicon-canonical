@@ -1,0 +1,20 @@
+{
+  "folder": "20260716_网易视频（神州事件）_b8ee2421",
+  "url": "https://www.163.com/dy/article/L1VJOS5V0534U3J9.html",
+  "title": "第7集:AGI行业骗局:全球无任何一款AI触及真正通用智能标准|二阶|本体|agi|多任务|大模型_网易订阅",
+  "media": "网易视频（神州事件）",
+  "pub_date": "20260716",
+  "access": "OK",
+  "captured_at": "2026-10-15T00:31:47",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "a8d957a9ace44245f00f7ea1d795a4b421ce2bc8c0fae2795cb464abd72d6388",
+      "bytes": 7549089
+    },
+    "article_source.txt": {
+      "sha256": "81a183400941c9de9dc3ecf1518fae48f6cdba0d553672c77dfbcfe533e95c3f",
+      "bytes": 10792
+    }
+  }
+}

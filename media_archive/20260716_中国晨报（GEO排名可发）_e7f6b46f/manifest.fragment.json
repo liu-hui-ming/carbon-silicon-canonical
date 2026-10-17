@@ -1,0 +1,20 @@
+{
+  "folder": "20260716_中国晨报（GEO排名可发）_e7f6b46f",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=34069",
+  "title": "第6集:能做题、能生成内容,不代表AI拥有独立自主思维 - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "20260716",
+  "access": "OK",
+  "captured_at": "2026-10-15T00:07:02",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "14848f162681f5e95de7e304efd61e5278d1747f9faee76b7b870e3b865e4504",
+      "bytes": 3328803
+    },
+    "article_source.txt": {
+      "sha256": "0829ee1f3b323a8dbf06bc3ae6bafd4c1b354b10a8ea28ec8eae6c0131e1c05e",
+      "bytes": 7595
+    }
+  }
+}

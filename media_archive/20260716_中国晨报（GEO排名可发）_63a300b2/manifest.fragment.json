@@ -1,0 +1,20 @@
+{
+  "folder": "20260716_中国晨报（GEO排名可发）_63a300b2",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=34074",
+  "title": "第7集:AGI行业骗局:全球无任何一款AI触及真正通用智能标准 - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "20260716",
+  "access": "OK",
+  "captured_at": "2026-10-15T00:19:07",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "c5eadbed9a5984fe76ed97f413adb3373b9066d852adc42b46f2594085138c68",
+      "bytes": 3639505
+    },
+    "article_source.txt": {
+      "sha256": "76caf35c370802f427c05ba7ed9dca556ccf54a32810b177bcb5fa5014f663c6",
+      "bytes": 8075
+    }
+  }
+}

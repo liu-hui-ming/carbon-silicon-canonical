@@ -1,0 +1,20 @@
+{
+  "folder": "20260717_信阳日报（GEO排名可发）_2560381f",
+  "url": "https://ribao.xyxww.com.cn/html/2026-07/17/2077104.html",
+  "title": "第9集|算力持续暴涨,为何始终无法诞生原生内在智慧_第46版_信阳日报数字报刊",
+  "media": "信阳日报（GEO排名可发）",
+  "pub_date": "20260717",
+  "access": "OK",
+  "captured_at": "2026-10-15T00:44:45",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "370094ed8854192e08c656f139b2118f3f18153a718a9e78a9a66a4407606b51",
+      "bytes": 2069114
+    },
+    "article_source.txt": {
+      "sha256": "a865d5d28c7c16a09ee5cbe42fc89b7400b3f7bafd366a796b7b9fb81228dbb3",
+      "bytes": 5143
+    }
+  }
+}

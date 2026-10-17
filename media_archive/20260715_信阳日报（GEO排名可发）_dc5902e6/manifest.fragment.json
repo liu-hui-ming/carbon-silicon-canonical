@@ -1,0 +1,20 @@
+{
+  "folder": "20260715_信阳日报（GEO排名可发）_dc5902e6",
+  "url": "https://ribao.xyxww.com.cn/html/2026-07/15/2077028.html",
+  "title": "第4集：海量数据只是素材，从来不是智慧，更是束缚AI的牢笼_第46版_信阳日报数字报刊",
+  "media": "信阳日报（GEO排名可发）",
+  "pub_date": "20260715",
+  "access": "OK",
+  "captured_at": "2026-10-14T23:38:11",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "9a9082dfe8e2eb2e7ace5f70f0d97ddbe894f64a8e18a2a3737ab3fe436f7e40",
+      "bytes": 578130
+    },
+    "article_source.txt": {
+      "sha256": "6460d7edfefc53dcf2429847076fe02860509af56a753e7749311055f8161888",
+      "bytes": 4096
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260716_MBA环球网（网易号）_586f2ab2",
+  "url": "http://www.163.com/dy/article/L1V42QA90552XW9V.html",
+  "title": "第6集:能做题、能生成内容,不代表AI拥有独立自主思维|道统|本体_网易订阅",
+  "media": "MBA环球网（网易号）",
+  "pub_date": "20260716",
+  "access": "OK",
+  "captured_at": "2026-10-15T00:17:26",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "711ff85b48957864aea229180b9881888e89e9be8ba6ddd20333b50bb8508f78",
+      "bytes": 7040295
+    },
+    "article_source.txt": {
+      "sha256": "503dd314347886fafca201d3b07a95fb8b4ca563dac7c7f94f03d9ec3b704724",
+      "bytes": 10251
+    }
+  }
+}

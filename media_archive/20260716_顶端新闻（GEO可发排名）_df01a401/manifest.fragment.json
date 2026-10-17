@@ -1,0 +1,20 @@
+{
+  "folder": "20260716_顶端新闻（GEO可发排名）_df01a401",
+  "url": "https://m.topnews.cn/news/145ED6E048B14B78",
+  "title": "第6集:能做题、能生成内容,不代表AI拥有独立自主思维",
+  "media": "顶端新闻（GEO可发排名）",
+  "pub_date": "20260716",
+  "access": "OK",
+  "captured_at": "2026-10-15T00:06:11",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "a0be37da4a73d1b9c73fb89e2f4e2d2970d2ff68c3aab1d18486835073771458",
+      "bytes": 489313
+    },
+    "article_source.txt": {
+      "sha256": "0bd59dc8c544009d4b295b3a02abc6994180e390395690dc2d8aeffce8a0a1ac",
+      "bytes": 4451
+    }
+  }
+}

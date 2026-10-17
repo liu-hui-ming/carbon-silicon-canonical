@@ -1,0 +1,20 @@
+{
+  "folder": "20260716_网易商业（GEO）_e57c398e",
+  "url": "https://www.163.com/dy/article/L1VO51GM0553G1OF.html?referFrom=",
+  "title": "第7集:AGI行业骗局:全球无任何一款AI触及真正通用智能标准|二阶|本体|agi|多任务|大模型_网易订阅",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260716",
+  "access": "OK",
+  "captured_at": "2026-10-15T00:32:30",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "594689417020870231310c3ed112d6ef9a8234691d52822aadb241ca0f678591",
+      "bytes": 8202531
+    },
+    "article_source.txt": {
+      "sha256": "93d075ca32395cb0f5d77dde28ca8bf7ec93e88d950bd41f4a87274d803e8ccd",
+      "bytes": 10800
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260716_红商网（广告排名可发）_25b6f180",
+  "url": "http://www.redsh.com/a/20260717/035124.shtml",
+  "title": "第7集:AGI行业骗局:全球无任何一款AI触及真正通用智能标准 - 红商网",
+  "media": "红商网（广告排名可发）",
+  "pub_date": "20260716",
+  "access": "OK",
+  "captured_at": "2026-10-15T00:27:33",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "8b3c34404233f2b152ef1ec0800a0d4d107e3a14b771f397f3b2544c38d93451",
+      "bytes": 2289763
+    },
+    "article_source.txt": {
+      "sha256": "fa130dfe82fd23390556d89a1502ff87fe13a42ac9a134c6e61e6dc550cc4d57",
+      "bytes": 5699
+    }
+  }
+}

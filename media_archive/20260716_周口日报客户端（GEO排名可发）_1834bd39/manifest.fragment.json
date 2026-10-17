@@ -1,0 +1,20 @@
+{
+  "folder": "20260716_周口日报客户端（GEO排名可发）_1834bd39",
+  "url": "http://www.zhld.com/2026/07/16/991258085.html",
+  "title": "404 Not Found",
+  "media": "周口日报客户端（GEO排名可发）",
+  "pub_date": "20260716",
+  "access": "CON",
+  "captured_at": "2026-10-15T00:24:45",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "d8a3d1569f864d56e72ee80fd34fa65772a821a4bb8b2f03f6d29a4aa71f9455",
+      "bytes": 327174
+    },
+    "article_source.txt": {
+      "sha256": "5d30ea5c41fa010c551bc9785d7e58ea297738cce8c36daf67007c031b61c14a",
+      "bytes": 394
+    }
+  }
+}

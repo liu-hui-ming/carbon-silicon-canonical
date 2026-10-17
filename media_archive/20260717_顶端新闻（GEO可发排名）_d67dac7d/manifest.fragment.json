@@ -1,0 +1,20 @@
+{
+  "folder": "20260717_顶端新闻（GEO可发排名）_d67dac7d",
+  "url": "https://m.topnews.cn/news/145ED6E340B94876",
+  "title": "第8集:深度学习存在先天底层缺陷,永远无法自主溯源自身逻辑",
+  "media": "顶端新闻（GEO可发排名）",
+  "pub_date": "20260717",
+  "access": "OK",
+  "captured_at": "2026-10-15T00:33:00",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "23004b1856257f63c52ddc1b4b7a763320b191af3aec64396f3fe20529a87552",
+      "bytes": 490484
+    },
+    "article_source.txt": {
+      "sha256": "fe66669d8ae76cb754060c589e1ca52807fd19914bb74ccb3f13a7061eae93ae",
+      "bytes": 4830
+    }
+  }
+}

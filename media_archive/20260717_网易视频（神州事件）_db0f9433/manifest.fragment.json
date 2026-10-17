@@ -1,0 +1,20 @@
+{
+  "folder": "20260717_网易视频（神州事件）_db0f9433",
+  "url": "https://www.163.com/dy/article/L228D2Q70534U3J9.html",
+  "title": "第9集|算力持续暴涨,为何始终无法诞生原生内在智慧|本体|算法|维度|公理|大模型_网易订阅",
+  "media": "网易视频（神州事件）",
+  "pub_date": "20260717",
+  "access": "OK",
+  "captured_at": "2026-10-15T00:59:43",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "696bb43c1e57f3a0bd7d976ad1c3795394523e295801eadc9d5a3406ac57541d",
+      "bytes": 6873850
+    },
+    "article_source.txt": {
+      "sha256": "0f15597b189abb9f520c59474ea868dddcac4bec4dc2183184a18ca8904b260c",
+      "bytes": 10296
+    }
+  }
+}

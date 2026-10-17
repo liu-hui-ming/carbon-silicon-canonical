@@ -1,0 +1,20 @@
+{
+  "folder": "20260717_青海传媒网（GEO排名）_a99758cb",
+  "url": "http://www.qhcmbdw.com/blog/article/1278",
+  "title": "青海传媒网（GEO排名） 首发稿件 #542",
+  "media": "青海传媒网（GEO排名）",
+  "pub_date": "20260717",
+  "access": "CON",
+  "captured_at": "2026-10-15T00:49:52",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "e54316b98b82143d08369006a4821269171a778a4e263469b2762633aff94eac",
+      "bytes": 441211
+    },
+    "article_source.txt": {
+      "sha256": "da76d590820209554ca11af7fbdf99006f34225448bb3728566617ac7b1f36d8",
+      "bytes": 482
+    }
+  }
+}

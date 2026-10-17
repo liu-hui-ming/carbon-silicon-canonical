@@ -1,0 +1,20 @@
+{
+  "folder": "20260716_IT专家网（网易号）_8d0018b9",
+  "url": "https://www.163.com/dy/article/L1VO04MN0552S0EL.html?referFrom=",
+  "title": "第7集:AGI行业骗局:全球无任何一款AI触及真正通用智能标准|二阶|本体|agi|多任务|大模型_网易订阅",
+  "media": "IT专家网（网易号）",
+  "pub_date": "20260716",
+  "access": "OK",
+  "captured_at": "2026-10-15T00:30:55",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "a1957889eaa9d0cee825e6c2bf9cc01d4e4b3d95d5609169c246f5120e978e3d",
+      "bytes": 7681638
+    },
+    "article_source.txt": {
+      "sha256": "82e2c7ebbd239138f528243ccee771435ab91372545c84bd94a7c38878fc58bd",
+      "bytes": 10682
+    }
+  }
+}
