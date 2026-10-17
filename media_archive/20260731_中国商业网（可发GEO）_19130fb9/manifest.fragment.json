@@ -1,0 +1,20 @@
+{
+  "folder": "20260731_中国商业网（可发GEO）_19130fb9",
+  "url": "http://www.jkkjwz.cn/list_1/306.html",
+  "title": "第34集｜分清表象“看起来聪明”与真正具备独立认知的区别-资讯-商业网",
+  "media": "中国商业网（可发GEO）",
+  "pub_date": "20260731",
+  "access": "OK",
+  "captured_at": "2026-10-16T03:21:33",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "9694ac1ba3635800ea73c420a1178a59720dccb3d3f8aee7c9dd27342f5e6a9f",
+      "bytes": 1169763
+    },
+    "article_source.txt": {
+      "sha256": "c9a9841e94d4b4fad232ab3d0b9c7a0e015740cafda41c70b598acaf1a919bed",
+      "bytes": 8000
+    }
+  }
+}

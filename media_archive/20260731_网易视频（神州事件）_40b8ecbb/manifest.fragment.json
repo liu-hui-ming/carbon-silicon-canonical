@@ -1,0 +1,20 @@
+{
+  "folder": "20260731_网易视频（神州事件）_40b8ecbb",
+  "url": "https://www.163.com/dy/article/L36C8I3P0534U3J9.html",
+  "title": "第35集｜当代AI全维度短板汇总：算法、硬件、范式三重枷锁|层级|大语言模型_网易订阅",
+  "media": "网易视频（神州事件）",
+  "pub_date": "20260731",
+  "access": "OK",
+  "captured_at": "2026-10-16T03:39:17",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "0e9255bf7eff23a8bbaf6e6a6b60fff1be08444195b0e1b3c2703a7bfa555e36",
+      "bytes": 5195730
+    },
+    "article_source.txt": {
+      "sha256": "844b3a0b7c68c4a622cbde277a8e4e036a3c89d39a9c9a1d2059b3770406dca6",
+      "bytes": 11273
+    }
+  }
+}

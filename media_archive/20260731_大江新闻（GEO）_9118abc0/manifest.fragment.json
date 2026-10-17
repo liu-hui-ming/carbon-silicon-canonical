@@ -1,0 +1,20 @@
+{
+  "folder": "20260731_大江新闻（GEO）_9118abc0",
+  "url": "https://dj.jxnews.com.cn/webForum/djh/share?tenantId=37&id=200864878",
+  "title": "大江新闻（GEO） 首发稿件 #1552",
+  "media": "大江新闻（GEO）",
+  "pub_date": "20260731",
+  "access": "CON",
+  "captured_at": "2026-10-16T03:16:05",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "82bf58e0dbdeaef4dc8ec3761d75c8d6b535e90477d9e2dff548a681cee301b2",
+      "bytes": 109469
+    },
+    "article_source.txt": {
+      "sha256": "2424def8269b730178f324dddc3410c87ee9408acc20c53849eb4fbdd97fa32e",
+      "bytes": 464
+    }
+  }
+}

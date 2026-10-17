@@ -1,0 +1,20 @@
+{
+  "folder": "20260729_中国商业网（可发GEO）_755b4819",
+  "url": "http://www.jkkjwz.cn/list_1/302.html",
+  "title": "第30集｜想象力是碳基独有能力，AI仅能元素重组，无原生创造-资讯-商业网",
+  "media": "中国商业网（可发GEO）",
+  "pub_date": "20260729",
+  "access": "OK",
+  "captured_at": "2026-10-16T02:12:51",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "b2f75283a22e4b612971bab6de07deeb5d2141bd3d8c880c49f9f579337c1059",
+      "bytes": 1152925
+    },
+    "article_source.txt": {
+      "sha256": "210e9c158416bff82d67fa2e5db43297212c4bc5271dbca7689e7d1330f7c1b4",
+      "bytes": 7650
+    }
+  }
+}

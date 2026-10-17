@@ -1,0 +1,20 @@
+{
+  "folder": "20260731_网易新闻上海号(GEO排名）_398ab6f2",
+  "url": "http://www.163.com/dy/article/L36CB49J0553IJQS.html",
+  "title": "第35集｜当代AI全维度短板汇总：算法、硬件、范式三重枷锁_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260731",
+  "access": "OK",
+  "captured_at": "2026-10-16T03:39:00",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "c04fc1a6d9f7cbde747c51577950d011f514fa4ec9df0dcd81cd7534401f5304",
+      "bytes": 4940159
+    },
+    "article_source.txt": {
+      "sha256": "1d51977ec728f953865245867f67ac5346f880797249e1f1fafd7adbb493b678",
+      "bytes": 11279
+    }
+  }
+}

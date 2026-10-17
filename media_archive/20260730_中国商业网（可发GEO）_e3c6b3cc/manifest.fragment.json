@@ -1,0 +1,20 @@
+{
+  "folder": "20260730_中国商业网（可发GEO）_e3c6b3cc",
+  "url": "http://www.jkkjwz.cn/list_1/305.html",
+  "title": "第33集｜目标驱动底层局限：依靠外部指令，无内生自主追求-资讯-商业网",
+  "media": "中国商业网（可发GEO）",
+  "pub_date": "20260730",
+  "access": "OK",
+  "captured_at": "2026-10-16T03:02:08",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "9908c6443e0703db2093732c0cb062ef6e03074db3ef555fb111169a560d5883",
+      "bytes": 1137179
+    },
+    "article_source.txt": {
+      "sha256": "6956b5f3014250d85c93165f50275ba96d7e7a8784d719b43d94acbe7f05d797",
+      "bytes": 7474
+    }
+  }
+}

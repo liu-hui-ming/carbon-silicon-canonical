@@ -1,0 +1,20 @@
+{
+  "folder": "20260730_红商网（广告排名可发）_91a3f301",
+  "url": "http://www.redsh.com/a/20260731/034143.shtml",
+  "title": "第32集｜AI记忆机制致命缺陷：无连贯、持续的自我存续记忆 - 红商网",
+  "media": "红商网（广告排名可发）",
+  "pub_date": "20260730",
+  "access": "OK",
+  "captured_at": "2026-10-16T02:47:03",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "0b19e0fc51ca8f2daaf2efe94e017ec169ea8b05b99e93faad9e0e3454a14313",
+      "bytes": 1131129
+    },
+    "article_source.txt": {
+      "sha256": "1bc538b7b8885c7b2cc64e50756bde230cc7bbca635d005de44fda65abe09233",
+      "bytes": 6287
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260730_半岛网_3d9551a2",
+  "url": "http://kuaixun.bandao.cn/a/1785377906984113.html",
+  "title": "第32集｜AI记忆机制致命缺陷：无连贯、持续的自我存续记忆",
+  "media": "半岛网",
+  "pub_date": "20260730",
+  "access": "OK",
+  "captured_at": "2026-10-16T02:33:44",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "fe77df640e73f4ceb58b4e445a9238eb1e4bef05ec8dfba33485f899e8bbc47f",
+      "bytes": 899151
+    },
+    "article_source.txt": {
+      "sha256": "7228e2fef87d255fea479511f72f75054995a58b3065f0ae24b39620fa19439a",
+      "bytes": 6457
+    }
+  }
+}

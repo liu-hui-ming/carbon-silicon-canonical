@@ -1,0 +1,20 @@
+{
+  "folder": "20260801_半岛网_8dcb32b3",
+  "url": "http://kuaixun.bandao.cn/a/1785653185206276859.html",
+  "title": "第36集｜行业全部技术路线，均无法脱离鹦鹉智能底层框架",
+  "media": "半岛网",
+  "pub_date": "20260801",
+  "access": "OK",
+  "captured_at": "2026-10-16T03:45:17",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "73e4b3dac45bbdfdf2ea56d6ddf863408a2ee06e9e2b336a701771f54f1b5b5b",
+      "bytes": 937707
+    },
+    "article_source.txt": {
+      "sha256": "fdb6400ee9317e740787738a3b0ea5700059b2c2a91849c0e3c533b30ed11c9f",
+      "bytes": 6078
+    }
+  }
+}

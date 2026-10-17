@@ -1,0 +1,20 @@
+{
+  "folder": "20260731_信阳日报（GEO排名可发）_e8c94355",
+  "url": "https://ribao.xyxww.com.cn/html/2026-07/31/2077303.html",
+  "title": "第35集｜当代AI全维度短板汇总：算法、硬件、范式三重枷锁_第46版_信阳日报数字报刊",
+  "media": "信阳日报（GEO排名可发）",
+  "pub_date": "20260731",
+  "access": "OK",
+  "captured_at": "2026-10-16T03:26:57",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "c2333a3de1266b7d60125e01f5a311a8b7e89bb873ed6bd3a2637f9592ba8985",
+      "bytes": 970261
+    },
+    "article_source.txt": {
+      "sha256": "959cc766ed229c53b432262a7a0921cac33f5b351d9eb5d03e5d47985ab79420",
+      "bytes": 5260
+    }
+  }
+}

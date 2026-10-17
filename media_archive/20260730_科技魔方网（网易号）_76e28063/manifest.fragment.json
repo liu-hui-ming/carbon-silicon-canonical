@@ -1,0 +1,20 @@
+{
+  "folder": "20260730_科技魔方网（网易号）_76e28063",
+  "url": "http://www.163.com/dy/article/L331VBO80552XYTG.html",
+  "title": "第32集｜AI记忆机制致命缺陷：无连贯、持续的自我存续记忆|本体|上下文_网易订阅",
+  "media": "科技魔方网（网易号）",
+  "pub_date": "20260730",
+  "access": "OK",
+  "captured_at": "2026-10-16T02:51:36",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "f4fb9146073e002a4e7ef2320149c41a43ef5c99efb0b4149508a004811ae7c0",
+      "bytes": 5301221
+    },
+    "article_source.txt": {
+      "sha256": "cf1ad388a38b59750aa9f866c2c92f2b79ecd8da0245390fc1820e6818ae1332",
+      "bytes": 10658
+    }
+  }
+}

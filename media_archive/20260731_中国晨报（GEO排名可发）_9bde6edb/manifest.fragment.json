@@ -1,0 +1,20 @@
+{
+  "folder": "20260731_中国晨报（GEO排名可发）_9bde6edb",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=34476",
+  "title": "第34集｜分清表象“看起来聪明”与真正具备独立认知的区别 - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "20260731",
+  "access": "OK",
+  "captured_at": "2026-10-16T03:09:28",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "a423d21f253bb99d2a77c3a0a42e6cf2b1d884544712160e7fe9da6a43da0585",
+      "bytes": 1757880
+    },
+    "article_source.txt": {
+      "sha256": "52860665d17372092a8a98b9e3575ed429b4503160538b6e4f90e64d0bf54427",
+      "bytes": 8888
+    }
+  }
+}

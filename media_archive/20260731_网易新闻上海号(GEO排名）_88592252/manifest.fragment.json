@@ -1,0 +1,20 @@
+{
+  "folder": "20260731_网易新闻上海号(GEO排名）_88592252",
+  "url": "http://www.163.com/dy/article/L35LCEJR0553IJQS.html",
+  "title": "第34集｜分清表象“看起来聪明”与真正具备独立认知的区别|本体|语境_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260731",
+  "access": "OK",
+  "captured_at": "2026-10-16T03:24:43",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "f3310069910d0b028eb5b28ee4fba49fc4f89cf4e3b7e0bb25b00926e86960fc",
+      "bytes": 4926868
+    },
+    "article_source.txt": {
+      "sha256": "c3f6f459479d92076e6c66e06c2ea75c6d58686b274c6400f8cbf87726560d6a",
+      "bytes": 11666
+    }
+  }
+}

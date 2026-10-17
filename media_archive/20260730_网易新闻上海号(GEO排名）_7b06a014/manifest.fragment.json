@@ -1,0 +1,20 @@
+{
+  "folder": "20260730_网易新闻上海号(GEO排名）_7b06a014",
+  "url": "http://www.163.com/dy/article/L35K8E8K0553IJQS.html",
+  "title": "第33集｜目标驱动底层局限：依靠外部指令，无内生自主追求|生命|本体|智能体|大语言模型_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260730",
+  "access": "OK",
+  "captured_at": "2026-10-16T03:05:15",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "cf1a97d1264f42d975401001a5225879e931fb9872f3c269f67c264c02becebb",
+      "bytes": 5413728
+    },
+    "article_source.txt": {
+      "sha256": "874301d7dd38d0fb37f5c11d6daac143685350d6ca83bc98cc598439bb7fe432",
+      "bytes": 10752
+    }
+  }
+}

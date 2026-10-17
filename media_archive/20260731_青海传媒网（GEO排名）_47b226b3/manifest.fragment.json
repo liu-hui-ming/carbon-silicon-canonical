@@ -1,0 +1,20 @@
+{
+  "folder": "20260731_青海传媒网（GEO排名）_47b226b3",
+  "url": "http://www.qhcmbdw.com/blog/article/1370",
+  "title": "第35集｜当代AI全维度短板汇总：算法、硬件、范式三重枷锁 - 青海传媒网",
+  "media": "青海传媒网（GEO排名）",
+  "pub_date": "20260731",
+  "access": "OK",
+  "captured_at": "2026-10-16T03:32:08",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "740f0f00a92c894b4a058be359d8aedf4ff54cbabb4b8ea3d44eb2f505ccdda4",
+      "bytes": 708215
+    },
+    "article_source.txt": {
+      "sha256": "12d14331e878cbf8ff3b9a073fab34dd4f02bea1757f86f23d3ee7ca597d88f0",
+      "bytes": 5688
+    }
+  }
+}

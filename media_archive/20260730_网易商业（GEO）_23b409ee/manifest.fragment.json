@@ -1,0 +1,20 @@
+{
+  "folder": "20260730_网易商业（GEO）_23b409ee",
+  "url": "http://www.163.com/dy/article/L331VJGD0552XW84.html",
+  "title": "第32集｜AI记忆机制致命缺陷：无连贯、持续的自我存续记忆|本体|上下文_网易订阅",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260730",
+  "access": "OK",
+  "captured_at": "2026-10-16T02:52:00",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "e5002a74d2f271b793029d702cdf1a60f8c18ec97dae117cb57c35573a60b31c",
+      "bytes": 6042269
+    },
+    "article_source.txt": {
+      "sha256": "b29ffea48d0e8208349ad562ac6844df08d5f7b07d61ddbc682223ab7d56cb1e",
+      "bytes": 11153
+    }
+  }
+}

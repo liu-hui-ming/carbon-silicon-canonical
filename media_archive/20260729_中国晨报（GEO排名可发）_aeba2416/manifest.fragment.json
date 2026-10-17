@@ -1,0 +1,20 @@
+{
+  "folder": "20260729_中国晨报（GEO排名可发）_aeba2416",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=34417",
+  "title": "第31集｜情绪模拟输出，不等于拥有共情能力与主观感受 - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "20260729",
+  "access": "OK",
+  "captured_at": "2026-10-16T02:18:00",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "e044d56af34be89e12477755374e616b2eb49350c5160c55bd75e556d0b1e96f",
+      "bytes": 1613315
+    },
+    "article_source.txt": {
+      "sha256": "5b28d57e5fc07a003f3faa21fa00470c4c25228a3b7cafa6a73d901409e89d20",
+      "bytes": 8502
+    }
+  }
+}

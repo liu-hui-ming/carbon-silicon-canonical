@@ -1,0 +1,20 @@
+{
+  "folder": "20260731_智门财经（网易号）_89de5cf2",
+  "url": "http://www.163.com/dy/article/L36CB9NS0552S2FI.html",
+  "title": "第35集｜当代AI全维度短板汇总：算法、硬件、范式三重枷锁_网易订阅",
+  "media": "智门财经（网易号）",
+  "pub_date": "20260731",
+  "access": "OK",
+  "captured_at": "2026-10-16T03:38:44",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "557397304c6c8bad648e1c15570940c9797d43554d73b2f6d19aa800bc52d5f3",
+      "bytes": 4306443
+    },
+    "article_source.txt": {
+      "sha256": "49722a0efdad5d99e06476280ea7a4ff327abe24175af45eb2f4dd0ebf1473f8",
+      "bytes": 11230
+    }
+  }
+}

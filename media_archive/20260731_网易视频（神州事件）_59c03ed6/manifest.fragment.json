@@ -1,0 +1,20 @@
+{
+  "folder": "20260731_网易视频（神州事件）_59c03ed6",
+  "url": "https://www.163.com/dy/article/L35LEOVM0534U3J9.html",
+  "title": "第34集｜分清表象“看起来聪明”与真正具备独立认知的区别|本体|语境_网易订阅",
+  "media": "网易视频（神州事件）",
+  "pub_date": "20260731",
+  "access": "OK",
+  "captured_at": "2026-10-16T03:25:00",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "656f93af0a52b7b7ef71fe737345d2970c658982cd6bbf80484292211c4673cb",
+      "bytes": 5534590
+    },
+    "article_source.txt": {
+      "sha256": "d2c32b67c8db296a108dd7ae869b5f48510499923edd35fa7c9da5454f83c06a",
+      "bytes": 11398
+    }
+  }
+}

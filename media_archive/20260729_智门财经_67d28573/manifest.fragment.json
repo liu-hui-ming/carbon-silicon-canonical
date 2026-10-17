@@ -1,0 +1,20 @@
+{
+  "folder": "20260729_智门财经_67d28573",
+  "url": "https://www.zhimen.com/index.php/news/24023.html?admin_id=1",
+  "title": "智门财经 首发稿件 #1463",
+  "media": "智门财经",
+  "pub_date": "20260729",
+  "access": "CON",
+  "captured_at": "2026-10-16T02:29:10",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "c9fcb20ae436c3a1c56a208dfb7890fa5fc4d499566f238b646e9e3a1a3a7952",
+      "bytes": 125586
+    },
+    "article_source.txt": {
+      "sha256": "396e3410a36f0f8fa6f25b06ad0499bcf91ebc623a1cf280b23ebbf5c9569a16",
+      "bytes": 427
+    }
+  }
+}

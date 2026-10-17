@@ -1,0 +1,20 @@
+{
+  "folder": "20260729_中国商业网（可发GEO）_3abd4f5b",
+  "url": "http://www.jkkjwz.cn/list_1/303.html",
+  "title": "第31集｜情绪模拟输出，不等于拥有共情能力与主观感受-资讯-商业网",
+  "media": "中国商业网（可发GEO）",
+  "pub_date": "20260729",
+  "access": "OK",
+  "captured_at": "2026-10-16T02:25:04",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "443bc4d009581f76140270c1fae397e2f7a45505c5262325e468c9dc32ce81da",
+      "bytes": 1151264
+    },
+    "article_source.txt": {
+      "sha256": "2b846a1018ebb0cc7001cb5955a5bfb1e07cfcd260842af2442cdfbb98c542bb",
+      "bytes": 7583
+    }
+  }
+}

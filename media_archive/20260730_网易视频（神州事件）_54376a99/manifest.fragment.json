@@ -1,0 +1,20 @@
+{
+  "folder": "20260730_网易视频（神州事件）_54376a99",
+  "url": "https://www.163.com/dy/article/L330QHC50534U3J9.html",
+  "title": "第32集｜AI记忆机制致命缺陷：无连贯、持续的自我存续记忆|本体|上下文_网易订阅",
+  "media": "网易视频（神州事件）",
+  "pub_date": "20260730",
+  "access": "OK",
+  "captured_at": "2026-10-16T02:51:16",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "99f2f488ca3e95f2bc51a492b6dd8653c86ba8faf76f9a37ea4b8bd1d18ff67a",
+      "bytes": 5396414
+    },
+    "article_source.txt": {
+      "sha256": "cd089e3fb3dfcaacbcd73ebe3a40c04e44dd0f425b85f402a1e6985731d15787",
+      "bytes": 10634
+    }
+  }
+}
