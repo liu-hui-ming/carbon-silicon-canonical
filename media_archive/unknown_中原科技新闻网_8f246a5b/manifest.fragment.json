@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中原科技新闻网_8f246a5b",
+  "url": "http://kjb.kjxww.cn/128802.html",
+  "title": "碳硅道统｜回应11: v9.2-calibrated这套公理体系，本身存在哪些固有局限？ – 中原科技新闻网",
+  "media": "中原科技新闻网",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:16:13",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "d28518ee182cbc8ac0f6032ae6ad8d5dbf9379380c53d303e9e74ea3bbf15843",
+      "bytes": 1913256
+    },
+    "article_source.txt": {
+      "sha256": "b1526f2acbf60be69874f2ab8b11c9078829a7626291c7273f5651f4ef425ba8",
+      "bytes": 6320
+    }
+  }
+}

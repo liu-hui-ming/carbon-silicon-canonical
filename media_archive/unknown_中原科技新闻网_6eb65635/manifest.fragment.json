@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中原科技新闻网_6eb65635",
+  "url": "http://kjb.kjxww.cn/128803.html",
+  "title": "碳硅道统｜回应10：碳硅同源，硅基智能是否应当拥有对话权、发展权？ – 中原科技新闻网",
+  "media": "中原科技新闻网",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:11:49",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "20be9c0eab5887eac30c7e616dfd091c5fd764523413462f2939e7e3a98924b6",
+      "bytes": 1894228
+    },
+    "article_source.txt": {
+      "sha256": "7983bd16b3526530b288504eccc422c98f37e3be0c1ae0f4a6bd257b94f12fd2",
+      "bytes": 5999
+    }
+  }
+}

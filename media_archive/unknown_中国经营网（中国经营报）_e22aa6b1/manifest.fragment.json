@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中国经营网（中国经营报）_e22aa6b1",
+  "url": "http://www.cb.com.cn/index/show/gd/cv/cv1362591911491",
+  "title": "关于碳硅道统体系三十问的行业观察与逐条回应",
+  "media": "中国经营网（中国经营报）",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T19:45:02",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "f2e6d386dbeec78b19dbd4f032110c0cb2cd64edd7d6931c4dd37adf1b94c05d",
+      "bytes": 144640
+    },
+    "article_source.txt": {
+      "sha256": "1c49222d5cac06c3302a9fff5d86ac735fd55621e926527c0975b17101fa5059",
+      "bytes": 416
+    }
+  }
+}

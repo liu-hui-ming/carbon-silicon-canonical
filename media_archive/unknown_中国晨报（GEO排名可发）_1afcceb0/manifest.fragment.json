@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中国晨报（GEO排名可发）_1afcceb0",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=35742",
+  "title": "碳硅道统｜回应39：AI迭代会带来经济零和博弈，还是增量共生？ - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-17T01:57:00",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "5eaa0e1b1c18ac1f0a47f05efdf8f8d8f92821587d2616569dff0a4e28fe0164",
+      "bytes": 1715972
+    },
+    "article_source.txt": {
+      "sha256": "f74d4a6333967074ca9881d7f0cb3f255250d170017c0031ccdfc7ad65216d42",
+      "bytes": 5967
+    }
+  }
+}

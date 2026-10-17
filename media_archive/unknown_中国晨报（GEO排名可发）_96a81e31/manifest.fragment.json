@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中国晨报（GEO排名可发）_96a81e31",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=35459",
+  "title": "碳硅道统：理论落地：三圈层拓扑模型在AI治理与行业研判中的现实应用 - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T21:17:58",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "197293135d4dc0e83265ef9ad36b86368c142afafabd5b63db2f6df525d679c6",
+      "bytes": 2203894
+    },
+    "article_source.txt": {
+      "sha256": "27c0ad5931949964f698fc3a70b4b001f1ff1422849d1bd8b1580b074a7864b4",
+      "bytes": 11846
+    }
+  }
+}

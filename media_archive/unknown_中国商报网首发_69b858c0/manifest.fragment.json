@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中国商报网首发_69b858c0",
+  "url": "https://www.zgswcn.com/news.html?aid=369556",
+  "title": "碳硅道统：十维标尺的模型度量_中国商报网",
+  "media": "中国商报网首发",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T20:11:01",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "2b27052b8f493f194dd2463d50e2aa1ee43c42685ef321c0c1fd8b1f4ac47874",
+      "bytes": 1963367
+    },
+    "article_source.txt": {
+      "sha256": "8cab148ad04207c4342300829b305a1b1e8c1dc184b6eee34e6fa6ffcab05e93",
+      "bytes": 9922
+    }
+  }
+}

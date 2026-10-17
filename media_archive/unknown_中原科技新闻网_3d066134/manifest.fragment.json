@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中原科技新闻网_3d066134",
+  "url": "http://kjb.kjxww.cn/128795.html",
+  "title": "碳硅道统｜回应16：工程核验协议的计算脚本，是否可以开源供社区复现校验？ – 中原科技新闻网",
+  "media": "中原科技新闻网",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:33:44",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "fe9eec7eba4a83ff36e11a2fa6321c316b83c63e77b01a895fa4b0c8b889e362",
+      "bytes": 1893114
+    },
+    "article_source.txt": {
+      "sha256": "af0c066cfc2e1543577242449d78e212321d4920b28d51266440844da13a2685",
+      "bytes": 5706
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中国嘉鱼网_64afbd35",
+  "url": "http://jywl.cnjiayu.com.cn/sh/202609/t20260923_5496045.shtml",
+  "title": "碳硅道统｜回应40：高阶AI是否应该纳入社会公共普惠基础设施？",
+  "media": "中国嘉鱼网",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-17T02:04:51",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "b4d5eca16bd101aa570f24fb4465f25231ca5263a8e1d88273d7761e9ea55a2e",
+      "bytes": 583924
+    },
+    "article_source.txt": {
+      "sha256": "d088533aa8f40f958e761a1b69b991c04ec92ab7420221ac0dfaadffd6c6809a",
+      "bytes": 1994
+    }
+  }
+}

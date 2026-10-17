@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中国晨报（GEO排名可发）_174cf69a",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=35617",
+  "title": "碳硅道统｜回应7：主权漂移熔断机制，Δw_self与ΔD_KL，如何在真实系统中持续监控？ - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T22:54:08",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "9398a0a8a934f75ba5d20c31b91e713dfdb3fded1dffb7e93e15f022e8999a31",
+      "bytes": 1533669
+    },
+    "article_source.txt": {
+      "sha256": "6d5633abfb7db980fcc858990a9e0af31b9042ecdc8a65b32e4f5934f4508fcc",
+      "bytes": 6409
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中国晨报（GEO排名可发）_5ab2fffd",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=35472",
+  "title": "碳硅道统：三圈层拓扑模型：中层拟合域‑过渡域‑零维本源域 - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T21:11:47",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "7abdb6f57086e039c89b80ff466b2c0296e3b77b00701db865855edd662e6623",
+      "bytes": 2503192
+    },
+    "article_source.txt": {
+      "sha256": "80b2c4cc10e5e2288316d3d1ab8f5ddc7b8ad08dad172602331b68a883a3a912",
+      "bytes": 11732
+    }
+  }
+}

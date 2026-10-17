@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中国嘉鱼网_3ff21c03",
+  "url": "http://jywl.cnjiayu.com.cn/sh/202609/t20260920_5469588.shtml",
+  "title": "碳硅道统｜回应19：一套可复现的评估基线，对于未来通用AI时代意味着什么？",
+  "media": "中国嘉鱼网",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:47:00",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "88ee1685369bfc36412992d61559801d4d76aac650cd07308cf0a5aaddbb9601",
+      "bytes": 750613
+    },
+    "article_source.txt": {
+      "sha256": "077e7360188f08386ece1217b178b4cf977cf880f19051187a0654b7344dc73f",
+      "bytes": 3408
+    }
+  }
+}

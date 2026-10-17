@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中国晨报（GEO排名可发）_88dc6657",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=35606",
+  "title": "碳硅道统｜回应14：这套评估框架，未来可以落地到哪些真实AI产品的风险管控？ - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:26:55",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "700c8708c1c7a0e4e10bf38ca191fa65edec75ef517a8802a02793a216442dd0",
+      "bytes": 1635153
+    },
+    "article_source.txt": {
+      "sha256": "f64df5b7eec2ddc70403fad3108b27807867cc0ea998fa281e3bd187b30934f4",
+      "bytes": 6447
+    }
+  }
+}

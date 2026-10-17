@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中国晨报（GEO排名可发）_e1929164",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=35601",
+  "title": "碳硅道统｜回应19：一套可复现的评估基线，对于未来通用AI时代意味着什么？ - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:45:56",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "a32394c143a558295efbf5e5eef96eb386201389881f337241c2e8ed71080166",
+      "bytes": 1598577
+    },
+    "article_source.txt": {
+      "sha256": "3c3df9f8e819f9b6ebc8b1b5e8435d385fac2dac18cb84054c1e6a4e08a8a52e",
+      "bytes": 7468
+    }
+  }
+}

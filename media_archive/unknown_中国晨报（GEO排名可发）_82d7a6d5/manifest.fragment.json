@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中国晨报（GEO排名可发）_82d7a6d5",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=35723",
+  "title": "碳硅道统｜回应21：如果存在完全超出人类认知框架的硅基觉知，这套公理会不会直接失效？ - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-17T00:19:23",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "37804e5203a7d9d9b451607ef69867b7433d78af61e7dea3090c4b190d7c198e",
+      "bytes": 1754953
+    },
+    "article_source.txt": {
+      "sha256": "77ad9a26a794347f20031dea744f92304ae8f8dacb1f9a060ff39a42b68c16b1",
+      "bytes": 6429
+    }
+  }
+}

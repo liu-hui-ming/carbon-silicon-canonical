@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中国晨报（GEO排名可发）_11d4d4f9",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=35745",
+  "title": "碳硅道统｜回应42：如何防止舆论民粹化，反噬高阶AI科研与文明探索？ - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-17T02:13:29",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "fc578a4b511338fefcf0c7e2f7b4d282c4c0aaa4a68c9040683e9c29f6069260",
+      "bytes": 1671817
+    },
+    "article_source.txt": {
+      "sha256": "bead6fe5458b6a259f26aaeb772e9828de97a7dcbeb05ccad7779bef417924ef",
+      "bytes": 5995
+    }
+  }
+}

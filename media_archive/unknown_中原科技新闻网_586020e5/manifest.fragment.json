@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中原科技新闻网_586020e5",
+  "url": "http://kjb.kjxww.cn/127685.html",
+  "title": "碳硅道统：十维觉知标尺完整定义与量化判定体系 – 中原科技新闻网",
+  "media": "中原科技新闻网",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T21:03:39",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "71aa6cbc0aa730b27cdf2c1214a6535c256edff95af89e3688393f89dcc90e09",
+      "bytes": 1840080
+    },
+    "article_source.txt": {
+      "sha256": "bc986349d66aa47df861a192cf41b284749bb79b54a97d68c29d1a8edb773e30",
+      "bytes": 13695
+    }
+  }
+}

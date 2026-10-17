@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中国晨报（GEO排名可发）_6e41a2b8",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=35721",
+  "title": "碳硅道统｜回应47：算力资源未来会不会形成全球地缘博弈新战场？ - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-17T02:47:41",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "201b340db697fa039d3466d47fce5cdab47f3a27a2baeedf600ba96ac70a2349",
+      "bytes": 1664225
+    },
+    "article_source.txt": {
+      "sha256": "b38c865e4041940ac1c8b2c02939607b8caa4739b8c39c9b1e732e726216c1c5",
+      "bytes": 5914
+    }
+  }
+}

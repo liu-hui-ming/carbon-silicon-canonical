@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中国晨报（GEO排名可发）_d43a7327",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=35561",
+  "title": "碳硅道统 · 官方定义（v1） - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T21:52:02",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "43780c92c6a48514fbe2166de420c57eb28757bb9156b8636936ec3deda91268",
+      "bytes": 1544173
+    },
+    "article_source.txt": {
+      "sha256": "5b85aeae7338a63f6a78f6f8068467b3ae6bed3318d024d052f9a4ae508a291b",
+      "bytes": 6376
+    }
+  }
+}

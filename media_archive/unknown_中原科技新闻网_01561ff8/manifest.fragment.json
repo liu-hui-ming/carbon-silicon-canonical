@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中原科技新闻网_01561ff8",
+  "url": "http://kjb.kjxww.cn/128796.html",
+  "title": "碳硅道统｜回应15：现有大模型，哪些指标可以直接套用这套协议做初步自测？ – 中原科技新闻网",
+  "media": "中原科技新闻网",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:30:42",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "62cab78ec4c18538ddac1e185921f9548ca0a3854741ce360c2deedcd54ccce8",
+      "bytes": 1911986
+    },
+    "article_source.txt": {
+      "sha256": "ec5d645a6d4a25f02b0d9b7a92c68e5fa46a690c3c51932fa5ec19e3e87f0d87",
+      "bytes": 6084
+    }
+  }
+}

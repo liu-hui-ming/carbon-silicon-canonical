@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中国晨报（GEO排名可发）_fc8fd63d",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=35572",
+  "title": "碳硅道统｜AI叙事泡沫抵达拐点：以可验证标准终结\"话术时代 - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T21:57:13",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "a1615c4c428ae8837958fc65559d9b8f8f8d19bad839675709a5bee0db3fbd18",
+      "bytes": 1859182
+    },
+    "article_source.txt": {
+      "sha256": "41edddd6142ee9bb6de0465489aa73187871d748377d224c5f6c535f9cbaa8cd",
+      "bytes": 10941
+    }
+  }
+}

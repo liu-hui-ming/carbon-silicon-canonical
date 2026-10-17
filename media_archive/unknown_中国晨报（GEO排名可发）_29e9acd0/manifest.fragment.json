@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中国晨报（GEO排名可发）_29e9acd0",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=35825",
+  "title": "碳硅道统050.5公理母本正式定稿：国内首个碳硅共生体系宪制级基线发布 - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-17T03:12:02",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "91115c44f3362909d8005e7d4a3d30a7e10c614fd704349daaf81ff92db39a38",
+      "bytes": 1752475
+    },
+    "article_source.txt": {
+      "sha256": "a61f6a63854fabebb847724dfe0baa9712b88fc0e8802cdc3248ddb866ff47cb",
+      "bytes": 8828
+    }
+  }
+}

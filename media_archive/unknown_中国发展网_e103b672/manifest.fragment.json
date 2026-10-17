@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中国发展网_e103b672",
+  "url": "http://www.chinadevelopment.com.cn/zxsd/2026/0825/2011961.shtml",
+  "title": "碳硅道统六问：物理仿真与大模型融合的六大工程卡点与破局路径",
+  "media": "中国发展网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T19:08:22",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "768558a8fafb39cb4d8460ebecba13133d74f7654fcab604397cb6ba1f9ef3f2",
+      "bytes": 166160
+    },
+    "article_source.txt": {
+      "sha256": "b5ee88d5aac8cbcd8f3081c94b8aa17ccff8ad99183dc177b0a1e633aa4229fd",
+      "bytes": 430
+    }
+  }
+}

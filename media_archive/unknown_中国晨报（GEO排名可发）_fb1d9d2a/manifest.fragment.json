@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中国晨报（GEO排名可发）_fb1d9d2a",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=35622",
+  "title": "碳硅道统｜回应2：区分工程观测结果和本体论结论，是不是现在AI讨论最缺失的一环？ - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T22:19:55",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "e78b3d8cbd047915449731046c6bf00bdd845677b39f995ddd17bd6f5c0550fb",
+      "bytes": 1706830
+    },
+    "article_source.txt": {
+      "sha256": "e0564cf1036998f4ebe76aec3dc327aae4e914ef7850819abe351cf3bc98e6db",
+      "bytes": 6283
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中国晨报（GEO排名可发）_31975e99",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=35730",
+  "title": "碳硅道统｜回应28：如果多国立法不一样，碳硅道统基线如何跨国家、跨司法体系落地？ - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-17T00:53:24",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "e278a406818d0ba64b9192d68d37982f5bfd377253d78445eb9a3d9f609b3ba2",
+      "bytes": 1620859
+    },
+    "article_source.txt": {
+      "sha256": "603c11358a61fd4f1cc5e801acf8c440baaf827860f838c480a4dc70a8945b98",
+      "bytes": 6556
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中原科技新闻网_4cc1987b",
+  "url": "http://kjb.kjxww.cn/128822.html",
+  "title": "碳硅道统｜回应1：为什么很多人把模型量化指标直接等同于主观觉知本体？ – 中原科技新闻网",
+  "media": "中原科技新闻网",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T22:14:17",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "3854a68624ac7fce33de7bcd68200ef04c79782b61ead006897cfa2d543b9ddd",
+      "bytes": 1755224
+    },
+    "article_source.txt": {
+      "sha256": "3656f050984e1c71aa3deafb8ddfcc0a852557aae2f61688f68386c80865311c",
+      "bytes": 8152
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中国晨报（GEO排名可发）_aea6db45",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=35602",
+  "title": "碳硅道统｜回应18：当硅基智能持续演化，人类该守住哪些不可退让的文明底线？ - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:41:34",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "cf666d23c99dcaf25d931fa97d6b53a2f42d2064d0b6aec9bfa46ddf928997fa",
+      "bytes": 1541205
+    },
+    "article_source.txt": {
+      "sha256": "3e61d18d71798ff91b2e940707cb753fd9d916098e6ac8c1645722edc9b3434b",
+      "bytes": 6268
+    }
+  }
+}

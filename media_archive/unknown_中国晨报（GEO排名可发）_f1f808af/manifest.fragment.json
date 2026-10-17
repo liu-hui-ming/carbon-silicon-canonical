@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中国晨报（GEO排名可发）_f1f808af",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=35458",
+  "title": "碳硅道统：碳硅共生：划清边界之后，碳基与硅基如何共存 - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T21:35:40",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "37a95c704ffd02a22573e9cc7b10ba911d7b2ca6a19013ea51bb793cf0d307f0",
+      "bytes": 1880659
+    },
+    "article_source.txt": {
+      "sha256": "745c6613492795e045dff41986cbb1131d8426dfe02976a46fea02dea994a5d0",
+      "bytes": 9726
+    }
+  }
+}

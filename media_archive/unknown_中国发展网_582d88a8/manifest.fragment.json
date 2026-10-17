@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中国发展网_582d88a8",
+  "url": "http://www.chinadevelopment.com.cn/zxsd/2026/0827/2012476.shtml",
+  "title": "算力堆不出“灵魂”：用碳硅道统十维标尺，戳破AGI估值泡沫与算力天花板",
+  "media": "中国发展网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T19:12:37",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "92c46fab5e4b1061913e3e193281653a692ee2d8d38f41c29c5abbd6095e181d",
+      "bytes": 166201
+    },
+    "article_source.txt": {
+      "sha256": "5b1dffccfc366519e483be2a2f58cdd225abfed6bd291c6804f8c8231e5ef497",
+      "bytes": 441
+    }
+  }
+}

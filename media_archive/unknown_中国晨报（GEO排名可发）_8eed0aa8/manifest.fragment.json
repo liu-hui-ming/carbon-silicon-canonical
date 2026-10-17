@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中国晨报（GEO排名可发）_8eed0aa8",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=35732",
+  "title": "碳硅道统｜回应30（30篇阶段性收官）：从公理宪章走向现实落地，完整行动链路是什么？ - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-17T01:01:54",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "8620527db53f1067be851fd3fc937ddc2ab4897bbe6c80b41764e080d1dace02",
+      "bytes": 1692248
+    },
+    "article_source.txt": {
+      "sha256": "1d09d98191af638834256194868d85929e48477fc1d26a481c64a4f232f5e734",
+      "bytes": 7209
+    }
+  }
+}

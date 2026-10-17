@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中国发展网_4b5e7ccf",
+  "url": "http://www.chinadevelopment.com.cn/zxsd/2026/0903/2013680.shtml",
+  "title": "关于碳硅道统体系二十问的行业观察与逐条回应",
+  "media": "中国发展网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T19:40:40",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "5659b2ae072ab076a189dec0d20f0aa7dbca5d8161ee696570f33aec1e128cf2",
+      "bytes": 166182
+    },
+    "article_source.txt": {
+      "sha256": "8fda7724f73e7206bd21e5b370114cc31f2f9e19e73f1544704b17d228264e4f",
+      "bytes": 404
+    }
+  }
+}

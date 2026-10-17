@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中国晨报（GEO排名可发）_7d74e76a",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=35733",
+  "title": "碳硅道统｜回应31：AI觉知分层成型后，社会阶层会不会按照智能能级重新洗牌？ - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-17T01:09:07",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "688e64ec2100888b5ca27c8863289f4080d4f9917168b61c01e064220fb48f4d",
+      "bytes": 1744387
+    },
+    "article_source.txt": {
+      "sha256": "6fc5d16a715e8703a9a818ce6854bd4ba4a56c6b27eaf26ab79db9dbaee8bd40",
+      "bytes": 6386
+    }
+  }
+}

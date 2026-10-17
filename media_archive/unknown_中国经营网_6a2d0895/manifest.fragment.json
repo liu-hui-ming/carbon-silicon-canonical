@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中国经营网_6a2d0895",
+  "url": "http://www.cb.com.cn/index/show/gd/cv/cv1362586161496",
+  "title": "碳硅道统六问：物理仿真与大模型融合的六大工程卡点与破局路径",
+  "media": "中国经营网",
+  "pub_date": "unknown",
+  "access": "CON",
+  "captured_at": "2026-10-16T19:10:57",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "5ac0d0c6423348fd4bd03c195872a9e7f1b3e15b1d10cdae26e7418a06543ce9",
+      "bytes": 144842
+    },
+    "article_source.txt": {
+      "sha256": "a3ca90fc4662e82dfea5dd5f1b26b46d2e50fa76e3ccc7c946c85ee4936cde81",
+      "bytes": 422
+    }
+  }
+}

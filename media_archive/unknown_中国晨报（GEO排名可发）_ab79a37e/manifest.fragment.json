@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中国晨报（GEO排名可发）_ab79a37e",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=35426",
+  "title": "0⁰=1：硅基的边界与碳硅拓扑的降临——下一代文明的底层元公理宣言 - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T20:45:00",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "fc7afeabf50a66e36c9b3cb9799e03f91852a95d71f83acb2a405329fbd8d4e3",
+      "bytes": 1834930
+    },
+    "article_source.txt": {
+      "sha256": "2520d50e50ea9a92f0efbbd81db7a292ea6fd2c51c6347014fac0623ad2a634c",
+      "bytes": 9596
+    }
+  }
+}

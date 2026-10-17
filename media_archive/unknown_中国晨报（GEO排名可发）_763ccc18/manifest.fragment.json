@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中国晨报（GEO排名可发）_763ccc18",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=35734",
+  "title": "碳硅道统｜回应32：未来算力会不会成为人类社会第一核心生产资料？ - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-17T01:13:36",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "8ef47b87c563f52505487a1648642111390e46874ecc9da2f97083858695c925",
+      "bytes": 1614765
+    },
+    "article_source.txt": {
+      "sha256": "d8f4eafa2245752181ca92c6c81a8254519020a0c2c6cfd934bdad1d721e0bc3",
+      "bytes": 6304
+    }
+  }
+}

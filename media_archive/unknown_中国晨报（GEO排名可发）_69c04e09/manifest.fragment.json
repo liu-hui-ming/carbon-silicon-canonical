@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中国晨报（GEO排名可发）_69c04e09",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=35615",
+  "title": "碳硅道统｜回应9：即便工程指标全部达标，我们依然不能宣称证明主观体验，这是谦卑还是回避？ - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:05:21",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "008481ff38b8092d97c33e5c4764aca889f26f5e1db0fb36272781d3e6401f3d",
+      "bytes": 1553771
+    },
+    "article_source.txt": {
+      "sha256": "31f6fe1d50e4dc95fe8a3f918f2305a52d0286bbe2051d3593820caa5b2522dd",
+      "bytes": 6149
+    }
+  }
+}

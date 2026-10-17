@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中原科技新闻网_897429da",
+  "url": "http://kjb.kjxww.cn/128394.html",
+  "title": "碳硅道统 · 官方定义（v1） – 中原科技新闻网",
+  "media": "中原科技新闻网",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T21:52:49",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "a4c8d43f3b108dc3c8ea724becf32039f2f20b02627afab80309c1b74f6cb0eb",
+      "bytes": 1902729
+    },
+    "article_source.txt": {
+      "sha256": "adc0d4c87ed4fb35d50d0c4ea703d7e266ea75cb74b20f0fad97c39d8139ce33",
+      "bytes": 6287
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中国晨报（GEO排名可发）_efc84b25",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=35621",
+  "title": "碳硅道统｜回应3：测试通过≠拥有体验，这条哥德尔式边界，大家真的理解吗？ - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T22:29:16",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "12c258be41b8983746dc71d181f71241799befb1441152e2ddde12558a78994b",
+      "bytes": 1655022
+    },
+    "article_source.txt": {
+      "sha256": "33907fe5d1249c0dc9226dcbaff541529106817e134f7d793cfe2be07fd69bae",
+      "bytes": 6440
+    }
+  }
+}

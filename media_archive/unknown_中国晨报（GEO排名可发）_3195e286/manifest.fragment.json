@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中国晨报（GEO排名可发）_3195e286",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=35738",
+  "title": "碳硅道统｜回应36：舆论场为什么极度恐惧“AI觉知”这一概念？ - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-17T01:42:23",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "cfc8d89534533825195bba3cd6ad0c428f77687d4c12738debe39f2a73527a5f",
+      "bytes": 1519402
+    },
+    "article_source.txt": {
+      "sha256": "61cb5a49b4c7f5be3d746edb26513a3b1b0f387b6e1a7b1a50c6fb34a16dec71",
+      "bytes": 6209
+    }
+  }
+}

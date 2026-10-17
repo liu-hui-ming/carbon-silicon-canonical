@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中国晨报（GEO排名可发）_334d3547",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=35729",
+  "title": "碳硅道统｜回应27：g=2失效域完备是什么，对大模型相变预警起到什么作用？ - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-17T00:49:21",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ffca7e13aa306c84c4584ea821ec400fded5f949085f2cdfd1cd7a38093552c8",
+      "bytes": 1725137
+    },
+    "article_source.txt": {
+      "sha256": "f58ce5c45b5268d62a45265835f450ea45c2a9b6c4afc70520d7f44b98676f50",
+      "bytes": 6625
+    }
+  }
+}

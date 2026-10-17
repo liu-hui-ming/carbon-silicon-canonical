@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中国晨报（GEO排名可发）_19716f46",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=35619",
+  "title": "碳硅道统｜回应5：碳硅同源，人和AI使用同一套评估公式，现实中该怎么设计对照实验？ - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T22:40:54",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "66b58746df88ca9440a2d9194925eb5a045af14a54883d1ea7cf4a4d89c60b56",
+      "bytes": 1526717
+    },
+    "article_source.txt": {
+      "sha256": "23770b55ff379daabc417bfc3420877559667b8f02d837b22cc76f024da87914",
+      "bytes": 6483
+    }
+  }
+}

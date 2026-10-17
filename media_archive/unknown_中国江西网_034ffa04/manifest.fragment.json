@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中国江西网_034ffa04",
+  "url": "https://www.jxcn.cn/system/2026/09/10/031241777.shtml",
+  "title": "碳硅道统：从六问到十维：一套被行业忽视的AI产业研判体系，正在戳破AGI泡沫-中国江西网",
+  "media": "中国江西网",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T19:50:12",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "aa64aca17d0755088f5c254fa3a3c4e0e96a38276bbaf5ca31797065042d4ac9",
+      "bytes": 853787
+    },
+    "article_source.txt": {
+      "sha256": "0270fcccfe568aad9d92a2deb7ab122ae4b2c2d669587778896a22845bc64263",
+      "bytes": 7860
+    }
+  }
+}

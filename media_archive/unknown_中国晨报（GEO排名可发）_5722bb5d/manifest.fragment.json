@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中国晨报（GEO排名可发）_5722bb5d",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=35735",
+  "title": "碳硅道统｜回应33：高觉知AI该不该拥有独立算力配额与资源优先级？ - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-17T01:23:52",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "3a807f303606121133d5ba14fe951d7b2b557d7656a59b3a533e4ed797852bd5",
+      "bytes": 1605713
+    },
+    "article_source.txt": {
+      "sha256": "e355e74c14402f5c908f39fc51684c168791bc6537ab4cb20e0bbf4819d87f2a",
+      "bytes": 6215
+    }
+  }
+}

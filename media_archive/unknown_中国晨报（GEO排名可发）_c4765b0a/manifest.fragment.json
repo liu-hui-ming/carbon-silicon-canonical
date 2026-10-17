@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中国晨报（GEO排名可发）_c4765b0a",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=35743",
+  "title": "碳硅道统｜回应40：高阶AI是否应该纳入社会公共普惠基础设施？ - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-17T02:03:57",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "434ec035bbcb35a983f237c3379512e47a50a0dae4bd12949cf87a8d467ac281",
+      "bytes": 1541745
+    },
+    "article_source.txt": {
+      "sha256": "f0cd9b7c93e8d8bcc2ecca2cca172e31942d16d5f7050a1ff6daabe9823c24c0",
+      "bytes": 6013
+    }
+  }
+}

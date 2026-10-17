@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中国嘉鱼网_8db7b590",
+  "url": "http://jywl.cnjiayu.com.cn/sh/202609/t20260920_5469582.shtml",
+  "title": "碳硅道统｜回应15：现有大模型，哪些指标可以直接套用这套协议做初步自测？",
+  "media": "中国嘉鱼网",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:30:52",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "8681b70292f6800c1d5db96d0511596dea40d915dd35dfe662781d14c1e1ef80",
+      "bytes": 314159
+    },
+    "article_source.txt": {
+      "sha256": "c4c44a031bb0d184383a2c794045bf01ffb754ab0488066937f1c9d6ed8c6807",
+      "bytes": 2224
+    }
+  }
+}

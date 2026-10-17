@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中国晨报（GEO排名可发）_28a2fe57",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=35608",
+  "title": "碳硅道统｜回应12：双轨隔离会不会造成工程与伦理两套体系互相割裂？ - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:19:47",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "35bc2a198d46b3b2dee0beaa4bcdb23ffff26d40851bd2a6ebf5e209466eb295",
+      "bytes": 1677704
+    },
+    "article_source.txt": {
+      "sha256": "08d8c9cf053916ee3be8510a7482f5f79a70450d0a4552ce0c711ecbd27c001d",
+      "bytes": 6014
+    }
+  }
+}

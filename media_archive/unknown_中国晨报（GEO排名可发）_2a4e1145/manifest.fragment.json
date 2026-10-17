@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中国晨报（GEO排名可发）_2a4e1145",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=35473",
+  "title": "碳硅道统：十维觉知标尺完整定义与量化判定体系 - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T20:56:05",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "761c20fbc6ce79ddc80dba227ff53158a85691714baf80dc5b59751176af8d5f",
+      "bytes": 3242525
+    },
+    "article_source.txt": {
+      "sha256": "69e121ef5894cda1b8399d59b223d2774b8c88f7356ca41cc2beee24090d2b9d",
+      "bytes": 13672
+    }
+  }
+}

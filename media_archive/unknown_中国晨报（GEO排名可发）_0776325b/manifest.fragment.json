@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中国晨报（GEO排名可发）_0776325b",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=35623",
+  "title": "碳硅道统｜回应1：为什么很多人把模型量化指标直接等同于主观觉知本体？ - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T22:13:13",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ccad46c1bd648a26745f073cbeb793ed089e26f798ae842479589ab33fbb0b93",
+      "bytes": 1885491
+    },
+    "article_source.txt": {
+      "sha256": "e768faf477dcc42bab0ad4f65f48bcbd55f31eeb0343901f4182879019323806",
+      "bytes": 8198
+    }
+  }
+}

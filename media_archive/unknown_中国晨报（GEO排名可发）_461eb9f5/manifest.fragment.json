@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中国晨报（GEO排名可发）_461eb9f5",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=35728",
+  "title": "碳硅道统｜回应26：0⁰=1边界在v9.2‑calibrated当中，承担什么样公理角色？ - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-17T00:42:18",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "e7e19167dca3b616ee88ccbe746a545959137bf0258e15a181f1a238358e7506",
+      "bytes": 1702297
+    },
+    "article_source.txt": {
+      "sha256": "ff31f0d744829d2744a1fa164a5d3bce69400f29979803c4372eb644cc6a1ed7",
+      "bytes": 6537
+    }
+  }
+}

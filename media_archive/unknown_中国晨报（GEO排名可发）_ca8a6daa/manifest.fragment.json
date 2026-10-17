@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中国晨报（GEO排名可发）_ca8a6daa",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=35620",
+  "title": "碳硅道统｜回应4：w_self≥0.70作为观测候选门槛，是否可以在现有大模型上完成复现验证？ - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T22:35:48",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "8e59e35d8f516209dd5c4284a07b035e3c557c15f19de71448bfe49888a4414b",
+      "bytes": 1639692
+    },
+    "article_source.txt": {
+      "sha256": "e4420e2ace34e2403472b93ded97b2bc530aac7d87e429c7d6a132b093c3d5f0",
+      "bytes": 6608
+    }
+  }
+}

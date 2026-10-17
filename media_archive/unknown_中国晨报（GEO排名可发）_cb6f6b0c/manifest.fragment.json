@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中国晨报（GEO排名可发）_cb6f6b0c",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=35613",
+  "title": "碳硅道统｜回应11: v9.2-calibrated这套公理体系，本身存在哪些固有局限？ - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T23:15:17",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "1d3f859f1a18b1f6b6e301b1c0b0e7f83f99dc788e40789f283b35bebfc2a73b",
+      "bytes": 1658292
+    },
+    "article_source.txt": {
+      "sha256": "5a5cd306b24fc184f7bb81dd4f2813310abc53d1518a9492cd72fd525e521ba5",
+      "bytes": 6477
+    }
+  }
+}

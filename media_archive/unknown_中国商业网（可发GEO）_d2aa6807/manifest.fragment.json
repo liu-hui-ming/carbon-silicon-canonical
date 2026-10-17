@@ -1,0 +1,20 @@
+{
+  "folder": "unknown_中国商业网（可发GEO）_d2aa6807",
+  "url": "http://www.jkkjwz.cn/list_15/367.html",
+  "title": "碳硅道统《对AI行业100项公开质询》-商业-商业网",
+  "media": "中国商业网（可发GEO）",
+  "pub_date": "unknown",
+  "access": "OK",
+  "captured_at": "2026-10-16T20:38:45",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "f87faffedb41712e5138955ea2b745c369e98f7ff0f3c58d33d48e840f908631",
+      "bytes": 2067423
+    },
+    "article_source.txt": {
+      "sha256": "139336e7d8eb3abf59d407a07cde65ac9d4e9a1f0fd2e042d8fdfc658dd051fa",
+      "bytes": 13491
+    }
+  }
+}
