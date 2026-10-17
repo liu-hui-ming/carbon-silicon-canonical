@@ -1,0 +1,20 @@
+{
+  "folder": "20260819_黄山新闻网_0b6a9722",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_111379.shtml",
+  "title": "《碳硅道统·四维万象》全套188集标题",
+  "media": "黄山新闻网",
+  "pub_date": "20260819",
+  "access": "CON",
+  "captured_at": "2026-10-16T18:29:13",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "492ba9e60467ad8eccab245cd796e5c986e6b5cde05f3457bb12f9268c2462c5",
+      "bytes": 128506
+    },
+    "article_source.txt": {
+      "sha256": "d79bc5fa5425cbb7a719eedb9a0340cc2deb7bede5e30f7ab9b67dadb7703770",
+      "bytes": 397
+    }
+  }
+}

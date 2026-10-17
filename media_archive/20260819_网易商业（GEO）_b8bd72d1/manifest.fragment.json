@@ -1,0 +1,20 @@
+{
+  "folder": "20260819_网易商业（GEO）_b8bd72d1",
+  "url": "http://www.163.com/dy/article/L4O67MP10553S12I.html",
+  "title": "碳硅道统｜AI与物理仿真融合：六大现实难题，碳硅协同给出新思路",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260819",
+  "access": "CON",
+  "captured_at": "2026-10-16T18:20:35",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "0a99f2ccb62046005296eca2bb4094f6f88c57b7df1683f5c88c222e5f53788f",
+      "bytes": 604641
+    },
+    "article_source.txt": {
+      "sha256": "a0fdfe5e62ee90cfaf9520f117e42d42674648020b978865733a6b3b800f7e76",
+      "bytes": 18425
+    }
+  }
+}

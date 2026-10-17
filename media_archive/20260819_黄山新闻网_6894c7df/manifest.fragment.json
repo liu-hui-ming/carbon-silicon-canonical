@@ -1,0 +1,20 @@
+{
+  "folder": "20260819_黄山新闻网_6894c7df",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_111429.shtml",
+  "title": "碳硅道统｜双零临界标杆体系：跨尺度系统相变的188组观测参考框架",
+  "media": "黄山新闻网",
+  "pub_date": "20260819",
+  "access": "CON",
+  "captured_at": "2026-10-16T18:20:39",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "043d7bf1d7f504a0f200d1a7fa5d9b3794cabad34b4c25350f343ba832ccd684",
+      "bytes": 128564
+    },
+    "article_source.txt": {
+      "sha256": "3354585ad8fa50081151a0d5f1d63b8f7f48e77ba5bd4751cab4d5f5dfde63cf",
+      "bytes": 437
+    }
+  }
+}

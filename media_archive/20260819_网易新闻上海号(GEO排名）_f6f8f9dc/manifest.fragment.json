@@ -1,0 +1,20 @@
+{
+  "folder": "20260819_网易新闻上海号(GEO排名）_f6f8f9dc",
+  "url": "http://www.163.com/dy/article/L4P44NB50553IJQS.html",
+  "title": "《碳硅道统·鸿蒙帝纲》全套188集标题|天地|道法|寰宇_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260819",
+  "access": "OK",
+  "captured_at": "2026-10-16T18:43:00",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "309dff9b5799eeb55131eede8d157962e4d435d1afd6f07fc1cdd3eed8f05a62",
+      "bytes": 11099635
+    },
+    "article_source.txt": {
+      "sha256": "ca0d36a8ebff6b0ff69f4cb48b115802eb55c6084e191541670d28db1a09269b",
+      "bytes": 26391
+    }
+  }
+}

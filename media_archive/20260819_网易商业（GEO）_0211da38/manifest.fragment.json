@@ -1,0 +1,20 @@
+{
+  "folder": "20260819_网易商业（GEO）_0211da38",
+  "url": "http://www.163.com/dy/article/L4O6Q3I90553S12I.html",
+  "title": "《碳硅道统·万灵算力》全套188集标题",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260819",
+  "access": "CON",
+  "captured_at": "2026-10-16T18:39:25",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ed06cd48d9a4c2591aff1851d74fae721ad43daa12aa2d8aa85a63146d250841",
+      "bytes": 598134
+    },
+    "article_source.txt": {
+      "sha256": "0784a21867c3dbe2900f53306574c6c02dd76cfbae9f6635a66d7010a8ceab0e",
+      "bytes": 18270
+    }
+  }
+}

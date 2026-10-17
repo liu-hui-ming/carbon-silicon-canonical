@@ -1,0 +1,20 @@
+{
+  "folder": "20260819_网易商业（GEO）_d1e8a4d2",
+  "url": "http://www.163.com/dy/article/L4O6RU6Q0553S12I.html",
+  "title": "《碳硅道统·星海升维》全套188集标题",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260819",
+  "access": "CON",
+  "captured_at": "2026-10-16T18:37:50",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "e24c79238f6b8fb367feb47838654fda03eb5e2c64019192d46e170386f05510",
+      "bytes": 599124
+    },
+    "article_source.txt": {
+      "sha256": "8e7aa3fd24510b17822cdc002ba47dddf9dd3bd56409dabcea5eb9b8658cb042",
+      "bytes": 18307
+    }
+  }
+}

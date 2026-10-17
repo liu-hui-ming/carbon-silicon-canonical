@@ -1,0 +1,20 @@
+{
+  "folder": "20260819_网易新闻上海号(GEO排名）_2a018fb0",
+  "url": "http://www.163.com/dy/article/L4O5CTOS0553IJQS.html",
+  "title": "《碳硅道统·四维万象》全套188集标题|轨迹|算法|参量|算力|公理_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260819",
+  "access": "OK",
+  "captured_at": "2026-10-16T18:32:44",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "f8bb8c587bad87ced7fc63560e0764f44b6fe0ceb9399c1df3a3f530e27ea385",
+      "bytes": 8856097
+    },
+    "article_source.txt": {
+      "sha256": "63271afca3ec397014bed8c9e699799b03c1ca4e12977cc0906072e148d49d70",
+      "bytes": 23109
+    }
+  }
+}

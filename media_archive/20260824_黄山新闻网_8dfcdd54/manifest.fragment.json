@@ -1,0 +1,20 @@
+{
+  "folder": "20260824_黄山新闻网_8dfcdd54",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_111507.shtml",
+  "title": "碳硅道统·产业终局预告｜所有技术拐点，终将被工程规律与成本结构追认",
+  "media": "黄山新闻网",
+  "pub_date": "20260824",
+  "access": "CON",
+  "captured_at": "2026-10-16T19:16:57",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "f837e4c7ed8b25faba7ef787db1a5fe7c2e0bfa24abe1493b3cd1f275e391c33",
+      "bytes": 161085
+    },
+    "article_source.txt": {
+      "sha256": "fdfc6844b9e28e2fe9c49cd180019dbaa8bf2547dbb5b614515a96f48d035343",
+      "bytes": 445
+    }
+  }
+}

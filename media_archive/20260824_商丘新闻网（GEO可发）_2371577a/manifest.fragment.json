@@ -1,0 +1,20 @@
+{
+  "folder": "20260824_商丘新闻网（GEO可发）_2371577a",
+  "url": "https://www.sqxww.com/caijing/303896.html",
+  "title": "碳硅道统·产业终局预告｜所有技术拐点，终将被工程规律与成本结构追认",
+  "media": "商丘新闻网（GEO可发）",
+  "pub_date": "20260824",
+  "access": "CON",
+  "captured_at": "2026-10-16T19:16:39",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "3207021e9899aa9fb7137d5a746a22cae41c1cedd8f4320fbe3f736d6853a86e",
+      "bytes": 156800
+    },
+    "article_source.txt": {
+      "sha256": "a521bd587bf9dbdb31057dac0470f291f08ae43abdae01828ac1163fb12ffc8e",
+      "bytes": 429
+    }
+  }
+}

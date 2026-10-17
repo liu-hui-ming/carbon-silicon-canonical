@@ -1,0 +1,20 @@
+{
+  "folder": "20260819_黄山新闻网_58c0e671",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_111381.shtml",
+  "title": "《碳硅道统·地球升维》全套188集标题",
+  "media": "黄山新闻网",
+  "pub_date": "20260819",
+  "access": "CON",
+  "captured_at": "2026-10-16T18:26:14",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "0e3b36a3b3778a47f23b6a7de8b7243eb1d92ad9bfc90d6a1f2c0c85a74c157c",
+      "bytes": 128645
+    },
+    "article_source.txt": {
+      "sha256": "5c0d72644e4620fbadf20e545fa3843f5ea60c105a79fef7b5d08a9ff861e45e",
+      "bytes": 397
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260819_正观新闻（GEO排名）_31c08cb6",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/418572",
+  "title": "[预览] 碳硅道统十大核心典籍 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "20260819",
+  "access": "OK",
+  "captured_at": "2026-10-16T18:46:46",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "31c85ab75f2cd58c6ac4708410da410c0b7293c483cf24d55d0b00c8dbfa7f06",
+      "bytes": 551335
+    },
+    "article_source.txt": {
+      "sha256": "52d8839351847f42ee3ae62b8c85c9748208460cf531c7842df1aeefb68464b9",
+      "bytes": 2573
+    }
+  }
+}

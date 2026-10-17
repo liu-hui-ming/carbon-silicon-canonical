@@ -1,0 +1,20 @@
+{
+  "folder": "20260819_网易商业（GEO）_68d16a60",
+  "url": "http://www.163.com/dy/article/L4O6Q4EK0553S12I.html",
+  "title": "破解大模型落地时序、算力双重难题：碳硅道统理论在短视频平台的实战交互样本",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260819",
+  "access": "CON",
+  "captured_at": "2026-10-16T18:19:28",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "24f44ffdde9fd61f8576830cb84fd749254a8ca82c5630a4fb38922395410f4f",
+      "bytes": 604688
+    },
+    "article_source.txt": {
+      "sha256": "3e0790d2243a28518754f1fff3924198b74ee620d1248393d315ab41787f298e",
+      "bytes": 18525
+    }
+  }
+}

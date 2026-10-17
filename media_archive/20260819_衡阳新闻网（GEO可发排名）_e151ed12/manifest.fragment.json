@@ -1,0 +1,20 @@
+{
+  "folder": "20260819_衡阳新闻网（GEO可发排名）_e151ed12",
+  "url": "http://www.e0734.com/content/2026/0820/799_662040.html",
+  "title": "碳硅道统｜双零临界标杆体系：跨尺度系统相变的188组观测参考框架",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260819",
+  "access": "CON",
+  "captured_at": "2026-10-16T18:20:57",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "48d076ee981a306b4f797e52bf7f483fe15dc80a3aee21c33292b2e9da19971b",
+      "bytes": 122742
+    },
+    "article_source.txt": {
+      "sha256": "7aea9795d8141105ff75d10fa23e1e8e4d3a6b69f8ea62166318eb2e278084b8",
+      "bytes": 524
+    }
+  }
+}

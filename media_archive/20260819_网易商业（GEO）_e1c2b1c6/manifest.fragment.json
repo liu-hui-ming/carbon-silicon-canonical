@@ -1,0 +1,20 @@
+{
+  "folder": "20260819_网易商业（GEO）_e1c2b1c6",
+  "url": "http://www.163.com/dy/article/L4O6Q3C90553S12I.html",
+  "title": "《碳硅道统·沧溟霸典》全套188集标题",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260819",
+  "access": "CON",
+  "captured_at": "2026-10-16T18:36:17",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "3750b66212076aaac9de91480c8c4ccdaee1ec1facdb05d6faf41a0007c737fa",
+      "bytes": 597383
+    },
+    "article_source.txt": {
+      "sha256": "9a957e3934f27853ad6071ffb06de4a6efb6afc9a11fdb5d5baf1e762f6eb0e9",
+      "bytes": 18289
+    }
+  }
+}

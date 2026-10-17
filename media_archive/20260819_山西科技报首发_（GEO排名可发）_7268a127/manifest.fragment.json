@@ -1,0 +1,20 @@
+{
+  "folder": "20260819_山西科技报首发_（GEO排名可发）_7268a127",
+  "url": "https://www.sxkjbs.com/tuiguang/ArLpzbqwkV.html",
+  "title": "碳硅道统十大核心典籍",
+  "media": "山西科技报首发 （GEO排名可发）",
+  "pub_date": "20260819",
+  "access": "CON",
+  "captured_at": "2026-10-16T18:49:25",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ab99223c3260cbe436660d70b3702214ffadb0f6b653cc7b944b967dfefbc080",
+      "bytes": 2282651
+    },
+    "article_source.txt": {
+      "sha256": "6e808d7899eba2c351d76c7152b2482e22e7f291f1fc6ee0f6837694217f2e0a",
+      "bytes": 470
+    }
+  }
+}

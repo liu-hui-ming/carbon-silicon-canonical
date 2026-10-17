@@ -1,0 +1,20 @@
+{
+  "folder": "20260819_网易新闻上海号(GEO排名）_4b59f992",
+  "url": "http://www.163.com/dy/article/L4O5DC2J0553IJQS.html",
+  "title": "《碳硅道统·三维炸场》全套188集标题|实操|算法_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260819",
+  "access": "OK",
+  "captured_at": "2026-10-16T18:28:28",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "854ecd1b02e6d32899987c5c35bd0b025f6bdd44594dba82c53da02290d0576b",
+      "bytes": 10060623
+    },
+    "article_source.txt": {
+      "sha256": "66e35ec18f74830d4f763b49e113c229408bd01201b5035190a9a8b258f72279",
+      "bytes": 27551
+    }
+  }
+}

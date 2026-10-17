@@ -1,0 +1,20 @@
+{
+  "folder": "20260819_网易商业（GEO）_cbce74d0",
+  "url": "http://www.163.com/dy/article/L4O6Q3C80553S12I.html",
+  "title": "《碳硅道统·四维万象》全套188集标题",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260819",
+  "access": "CON",
+  "captured_at": "2026-10-16T18:33:22",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "a38f041a7576f13f8c134414e82fa155828944080171a9b61be868bd2d128dd3",
+      "bytes": 598903
+    },
+    "article_source.txt": {
+      "sha256": "e0ea5df45eaf83c36dd69c0afca7a69f8a6025fd9cef4a6d57bc46599cf76581",
+      "bytes": 18332
+    }
+  }
+}

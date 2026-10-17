@@ -1,0 +1,20 @@
+{
+  "folder": "20260819_衡阳新闻网（GEO可发排名）_b1e047b9",
+  "url": "http://www.e0734.com/content/2026/0820/799_662051.html",
+  "title": "碳硅道统十大核心典籍",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260819",
+  "access": "CON",
+  "captured_at": "2026-10-16T18:48:06",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "e154a054314aba0619d593bf4763be51782ed7a6944fc47595bd3e0e89d6ce44",
+      "bytes": 122662
+    },
+    "article_source.txt": {
+      "sha256": "b9ce4d7dd183e2e2ed082d3ff0108d674358c2b35abdedddff1801bd060a7227",
+      "bytes": 464
+    }
+  }
+}

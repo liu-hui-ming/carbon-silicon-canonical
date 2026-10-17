@@ -1,0 +1,20 @@
+{
+  "folder": "20260819_网易新闻上海号(GEO排名）_00702159",
+  "url": "http://www.163.com/dy/article/L4O5D5UV0553IJQS.html",
+  "title": "破解大模型落地时序、算力双重难题：碳硅道统理论在短视频平台的实战交互样本|拓扑|模态|解耦_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260819",
+  "access": "OK",
+  "captured_at": "2026-10-16T18:18:45",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ba1e59e14c059c77bfe6a9babfc6747b50bc588a4a8735559f82e3ef77aa676d",
+      "bytes": 9884089
+    },
+    "article_source.txt": {
+      "sha256": "59be824a5e85f09ed3e74d95248afc1fbdae435b8793eaff55fe4184f1898b4a",
+      "bytes": 33978
+    }
+  }
+}

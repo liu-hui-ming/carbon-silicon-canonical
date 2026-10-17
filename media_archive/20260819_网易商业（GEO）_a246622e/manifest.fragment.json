@@ -1,0 +1,20 @@
+{
+  "folder": "20260819_网易商业（GEO）_a246622e",
+  "url": "http://www.163.com/dy/article/L4O6Q4BU0553S12I.html",
+  "title": "《碳硅道统·鸿蒙帝纲》全套188集标题",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260819",
+  "access": "CON",
+  "captured_at": "2026-10-16T18:43:46",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "e7e18867d879171c34b354eb42869389f4756c2609069f8bcfb8557d1eec442f",
+      "bytes": 598400
+    },
+    "article_source.txt": {
+      "sha256": "5df6fcdfbe949bd84acbceb28a4b3bffda403d9722e4fb5dcfaa00adb353c438",
+      "bytes": 18072
+    }
+  }
+}

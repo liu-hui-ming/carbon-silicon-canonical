@@ -1,0 +1,20 @@
+{
+  "folder": "20260819_三好大数据网（网易号）_fa72ce5c",
+  "url": "http://www.163.com/dy/article/L4O3E1OI0552XWVG.html",
+  "title": "碳硅道统十大核心典籍",
+  "media": "三好大数据网（网易号）",
+  "pub_date": "20260819",
+  "access": "CON",
+  "captured_at": "2026-10-16T18:53:09",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "1956a1e5b4a8758d58970204a0cbb33ff17ad0bad7d98eb738eaf3f332c82d9d",
+      "bytes": 633125
+    },
+    "article_source.txt": {
+      "sha256": "9d1c7b276a30168e5e5fcd669b745578c5b8b9729c35997283f1e0c41116483e",
+      "bytes": 18184
+    }
+  }
+}

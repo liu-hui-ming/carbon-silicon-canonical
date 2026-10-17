@@ -1,0 +1,20 @@
+{
+  "folder": "20260819_智门财经_b2919db3",
+  "url": "https://www.zhimen.com/index.php/caijing/24105.html?admin_id=1",
+  "title": "碳硅道统十大核心典籍",
+  "media": "智门财经",
+  "pub_date": "20260819",
+  "access": "CON",
+  "captured_at": "2026-10-16T19:00:54",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "d3095917c3d663a65812226525adbc97f4ececd246dfe602bb4b1239a5d09943",
+      "bytes": 166032
+    },
+    "article_source.txt": {
+      "sha256": "a49840e8ea46ee9e53681638864d5a8410073d829e6722922a2cdb64665fdead",
+      "bytes": 429
+    }
+  }
+}

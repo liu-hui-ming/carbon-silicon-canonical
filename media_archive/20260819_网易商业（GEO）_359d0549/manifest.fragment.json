@@ -1,0 +1,20 @@
+{
+  "folder": "20260819_网易商业（GEO）_359d0549",
+  "url": "http://www.163.com/dy/article/L4O6Q3650553S12I.html",
+  "title": "《碳硅道统·元魂永续》全套188集标题",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260819",
+  "access": "CON",
+  "captured_at": "2026-10-16T18:46:42",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "e3e0a68ca2062837d4c335cc631e0328fa7e0c6c0d54a65d13b9c217e1ac342c",
+      "bytes": 632299
+    },
+    "article_source.txt": {
+      "sha256": "d3740a00c11b418e567396948ffe48865c9f11d9bee0af02d318241be29e9e2b",
+      "bytes": 18120
+    }
+  }
+}

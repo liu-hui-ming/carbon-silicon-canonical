@@ -1,0 +1,20 @@
+{
+  "folder": "20260819_黄山新闻网_287c3fe9",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_111377.shtml",
+  "title": "《碳硅道统·元魂永续》全套188集标题",
+  "media": "黄山新闻网",
+  "pub_date": "20260819",
+  "access": "CON",
+  "captured_at": "2026-10-16T18:43:50",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "f5bae875cc7d35c8ad41fc14de18f2fce0ae36374f7ba36d8b87d5219a510843",
+      "bytes": 128565
+    },
+    "article_source.txt": {
+      "sha256": "c88fb8af212728cb421749d222bb18e013eecd83b719c2a8426e82b37804f037",
+      "bytes": 397
+    }
+  }
+}

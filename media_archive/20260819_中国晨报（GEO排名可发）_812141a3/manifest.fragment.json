@@ -1,0 +1,20 @@
+{
+  "folder": "20260819_中国晨报（GEO排名可发）_812141a3",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=34844",
+  "title": "碳硅道统十大核心典籍 - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "20260819",
+  "access": "OK",
+  "captured_at": "2026-10-16T18:47:14",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "f62ab7b72a1829bbd4fb0c4459a8ff7feb2a606188f98dcd523c7563396d068f",
+      "bytes": 1719122
+    },
+    "article_source.txt": {
+      "sha256": "72ba2a7e31cff80286ee04a73fd48c6e60320230ea261cf32c1227d8b32102f1",
+      "bytes": 6498
+    }
+  }
+}

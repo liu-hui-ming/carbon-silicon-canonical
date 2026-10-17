@@ -1,0 +1,20 @@
+{
+  "folder": "20260819_网易新闻上海号(GEO排名）_84360a37",
+  "url": "http://www.163.com/dy/article/L4O62EL40553IJQS.html",
+  "title": "《碳硅道统·元魂永续》全套188集标题|宇宙|肉身_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260819",
+  "access": "OK",
+  "captured_at": "2026-10-16T18:46:01",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "b6ef71c6206a9db8b15ef4780839c0393eb2d713a6f33acf7a66eabb7cc6df3c",
+      "bytes": 9654453
+    },
+    "article_source.txt": {
+      "sha256": "860467537d5dd3517d82836b067726c19fa593d51279b9772e0aa953b516ad68",
+      "bytes": 25448
+    }
+  }
+}

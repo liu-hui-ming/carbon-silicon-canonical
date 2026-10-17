@@ -1,0 +1,20 @@
+{
+  "folder": "20260819_网易新闻上海号(GEO排名）_d1d8ec97",
+  "url": "http://www.163.com/dy/article/L4O5D3IP0553IJQS.html",
+  "title": "碳硅道统|双零临界标杆体系：跨尺度系统相变的188组观测参考框架|粒子|宇宙|阈值|稳态|量子_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260819",
+  "access": "OK",
+  "captured_at": "2026-10-16T18:24:10",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "34fefc0d54f9c9cbc1463d981ee4096ec19214ac3f2b632077e4b64eca8d3a28",
+      "bytes": 6698814
+    },
+    "article_source.txt": {
+      "sha256": "b9c6ddeb3dc42c84acc816a221f9450fcab17c8f82c09d5845332f501ca61dd3",
+      "bytes": 21122
+    }
+  }
+}

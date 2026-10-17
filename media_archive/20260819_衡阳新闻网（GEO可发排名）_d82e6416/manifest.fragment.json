@@ -1,0 +1,20 @@
+{
+  "folder": "20260819_衡阳新闻网（GEO可发排名）_d82e6416",
+  "url": "http://www.e0734.com/content/2026/0820/799_662038.html",
+  "title": "破解大模型落地时序、算力双重难题：碳硅道统理论在短视频平台的实战交互样本",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260819",
+  "access": "CON",
+  "captured_at": "2026-10-16T18:18:19",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "284ffc5bbcc0e928d9b7476568ac4175ad5ea42182017a1c7079e0576ecd3dcc",
+      "bytes": 122763
+    },
+    "article_source.txt": {
+      "sha256": "228725a5efaa76f4c70ba3ede638cbe7d3d0498678c912e4615d19f3a78ac228",
+      "bytes": 542
+    }
+  }
+}

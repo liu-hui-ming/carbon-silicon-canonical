@@ -1,0 +1,20 @@
+{
+  "folder": "20260819_网易新闻上海号(GEO排名）_17ba0f49",
+  "url": "http://www.163.com/dy/article/L4O62BNC0553IJQS.html",
+  "title": "《碳硅道统·地球升维》全套188集标题|微扰|拓扑|自洽_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260819",
+  "access": "OK",
+  "captured_at": "2026-10-16T18:26:58",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "095088ee0c199f3d30d43abf20f3504361de75d101b0914bdb523da4b4802705",
+      "bytes": 9902934
+    },
+    "article_source.txt": {
+      "sha256": "11a7349aaf45b1cb8d8d2d401fbc4127c907657988f57fe94fbb39c4d26a2e1e",
+      "bytes": 30299
+    }
+  }
+}

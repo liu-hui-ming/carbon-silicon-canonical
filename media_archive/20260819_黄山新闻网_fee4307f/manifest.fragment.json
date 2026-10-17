@@ -1,0 +1,20 @@
+{
+  "folder": "20260819_黄山新闻网_fee4307f",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_111432.shtml",
+  "title": "《碳硅道统·沧溟霸典》全套188集标题",
+  "media": "黄山新闻网",
+  "pub_date": "20260819",
+  "access": "CON",
+  "captured_at": "2026-10-16T18:34:53",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "a5c8cdcbdbbaa4dbfd031408a19fb7a3c3cb4396a280a3d4f6f2162961f2c5b3",
+      "bytes": 128701
+    },
+    "article_source.txt": {
+      "sha256": "b4b38bc9323c9fe26ace5a51002220a077ac257a42007abcac1f1bb7e38afcfe",
+      "bytes": 397
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260819_网易新闻上海号(GEO排名）_a0e4dd4d",
+  "url": "http://www.163.com/dy/article/L4O62J0H0553IJQS.html",
+  "title": "《碳硅道统·星海升维》全套188集标题|星体|星系|宇宙|高维|系外行星_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260819",
+  "access": "OK",
+  "captured_at": "2026-10-16T18:37:07",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "49ba7d4c134713e4c7786fca22bbaaccbe89b85f93b4af018ea8fb134fc90350",
+      "bytes": 10411164
+    },
+    "article_source.txt": {
+      "sha256": "f48124c41034c391ac1e179916b4042d788caedb9c532c3432c759a1437952a9",
+      "bytes": 34639
+    }
+  }
+}

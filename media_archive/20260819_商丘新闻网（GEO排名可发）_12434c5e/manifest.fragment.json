@@ -1,0 +1,20 @@
+{
+  "folder": "20260819_商丘新闻网（GEO排名可发）_12434c5e",
+  "url": "https://www.sqxww.com/caijing/303256.html",
+  "title": "碳硅道统十大核心典籍",
+  "media": "商丘新闻网（GEO排名可发）",
+  "pub_date": "20260819",
+  "access": "CON",
+  "captured_at": "2026-10-16T18:47:30",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "5d3861fc9b700525fa1a05ce4f6a9b0a15f81ebdb1566de41d605a7fd7e978ba",
+      "bytes": 123801
+    },
+    "article_source.txt": {
+      "sha256": "356d8b4441bad2c14c931b84351e93a385f168a9303489af32ebaaca8513f984",
+      "bytes": 367
+    }
+  }
+}

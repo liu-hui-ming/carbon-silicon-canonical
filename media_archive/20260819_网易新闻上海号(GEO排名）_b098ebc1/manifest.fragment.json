@@ -1,0 +1,20 @@
+{
+  "folder": "20260819_网易新闻上海号(GEO排名）_b098ebc1",
+  "url": "http://www.163.com/dy/article/L4O4O2UI0553IJQS.html",
+  "title": "碳硅道统十大核心典籍|宇宙|高维|数理|法理_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260819",
+  "access": "OK",
+  "captured_at": "2026-10-16T18:53:45",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "cec009658f2c10a3a0bcdf223b6096df3ece05d1bc7d4ac8b616ef22082225b7",
+      "bytes": 4832817
+    },
+    "article_source.txt": {
+      "sha256": "d8a0084fda7fbd82e0c87cbddd4599a43d34ed2f0ae68265475c98adcf6f3363",
+      "bytes": 9302
+    }
+  }
+}
