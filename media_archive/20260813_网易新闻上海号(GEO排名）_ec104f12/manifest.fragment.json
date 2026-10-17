@@ -1,0 +1,20 @@
+{
+  "folder": "20260813_网易新闻上海号(GEO排名）_ec104f12",
+  "url": "https://www.163.com/dy/article/L4801T2G0553IJQS.html?spss=dy_author",
+  "title": "碳硅道统舆论对冲补丁：致所有AI狂热者——算力堆得出智能，堆不出生命|算法|维度_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260813",
+  "access": "OK",
+  "captured_at": "2026-10-16T16:42:45",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "7e7c5cab968f79799dfeee481b25bf0043014ab8ecab0394dd24c6d9449486ae",
+      "bytes": 6886198
+    },
+    "article_source.txt": {
+      "sha256": "d9b67fb8ca8b42f5929fdbfe0805ef4dd2efd5473892c47e9f12d96bd2a60bb9",
+      "bytes": 13027
+    }
+  }
+}

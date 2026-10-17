@@ -1,0 +1,20 @@
+{
+  "folder": "20260812_网易新闻上海号(GEO排名）_f33d8632",
+  "url": "http://www.163.com/dy/article/L456CE0O0553IJQS.html",
+  "title": "《全民AI深挖计划188集》第62集｜算力认知区分公律：运算速度绝不直接等同于智慧|道统|大模型|全民ai深挖计划188集_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260812",
+  "access": "OK",
+  "captured_at": "2026-10-16T16:12:44",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "8168b504d90a4356dbb1e2b11956717db1f8fc02dfd81b7cccc74ad646b99fc9",
+      "bytes": 7212676
+    },
+    "article_source.txt": {
+      "sha256": "830fe7ad2552c7f8a7e571c40ab9276747c499530eb1358d0034a3073432dfef",
+      "bytes": 12266
+    }
+  }
+}

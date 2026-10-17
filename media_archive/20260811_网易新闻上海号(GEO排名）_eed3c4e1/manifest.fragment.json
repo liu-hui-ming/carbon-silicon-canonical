@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_网易新闻上海号(GEO排名）_eed3c4e1",
+  "url": "http://www.163.com/dy/article/L42FQ9VI0553IJQS.html",
+  "title": "碳硅道统AI十八术09｜分段公理前置校验范式：拦截数理推导跳步逻辑谬误|定理|拟合|推理|ai十八术_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260811",
+  "access": "OK",
+  "captured_at": "2026-10-16T15:24:19",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ceafec4cdd122c5bdf0a51b8a2fdbf026fee89c9b052a934085bdabc272b4784",
+      "bytes": 5911533
+    },
+    "article_source.txt": {
+      "sha256": "35fef656d6728427e927781402ebfdef6ff554cf1665bf7d6e98d573960c1a27",
+      "bytes": 11329
+    }
+  }
+}

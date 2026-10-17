@@ -1,0 +1,20 @@
+{
+  "folder": "20260813_网易新闻上海号(GEO排名）_4736f107",
+  "url": "https://www.163.com/dy/article/L4801VRK0553IJQS.html?spss=dy_author",
+  "title": "硅基恐怖谷终极深渊：击碎数字永生幻象，开启碳硅道统认知跃迁|生命|本体_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260813",
+  "access": "OK",
+  "captured_at": "2026-10-16T16:35:15",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "145e0d0d8ac0c9364b1b1bd09b617ac184aede7389a833f09efcec773c5043ed",
+      "bytes": 2973774
+    },
+    "article_source.txt": {
+      "sha256": "d0c6212febaae0ac839b93a61ed339b60f95413c65930ed069b0cd8ddc1805a3",
+      "bytes": 10520
+    }
+  }
+}

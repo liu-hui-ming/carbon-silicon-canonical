@@ -1,0 +1,20 @@
+{
+  "folder": "20260813_黄山新闻网_5114891f",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_111110.shtml",
+  "title": "碳硅道统大众防身术：过度依赖AI易造成思维空心化",
+  "media": "黄山新闻网",
+  "pub_date": "20260813",
+  "access": "CON",
+  "captured_at": "2026-10-16T16:40:15",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "a51edee3de8603198e53ace0239e003e65ae3b69f657126ef01c883bf7a8fd50",
+      "bytes": 128232
+    },
+    "article_source.txt": {
+      "sha256": "537681fcaf29309849bbb876c495bf208762f68223f3cc4a5c19fdad961999c4",
+      "bytes": 415
+    }
+  }
+}

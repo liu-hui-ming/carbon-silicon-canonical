@@ -1,0 +1,20 @@
+{
+  "folder": "20260814_网易新闻上海号(GEO排名）_603faa66",
+  "url": "http://www.163.com/dy/article/L4ACA7SG0553IJQS.html",
+  "title": "《全民AI深挖计划188集》第72集｜二阶·乌鸦智能：可自主规划行动，缺失内在觉知本心|算法|全民ai深挖计划188集_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260814",
+  "access": "OK",
+  "captured_at": "2026-10-16T16:56:08",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "3ed0183fe9a27a998b1cdfbcdbe270fda9ed739fe689a6b3e11715fe5784aeba",
+      "bytes": 4822651
+    },
+    "article_source.txt": {
+      "sha256": "77623badcad493b677801bab0b0398f3277a7fac4108adf20ba28b8eb5d70817",
+      "bytes": 8811
+    }
+  }
+}

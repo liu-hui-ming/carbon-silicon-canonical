@@ -1,0 +1,20 @@
+{
+  "folder": "20260812_网易商业（GEO）_d80ac1db",
+  "url": "http://www.163.com/dy/article/L459KPDG0553S12I.html",
+  "title": "世界模型与碳硅道统二十四象时序层互补解读",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260812",
+  "access": "CON",
+  "captured_at": "2026-10-16T16:23:58",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "2ae4b053bbf5c8b3fd53f849f4a379bb0d10443e0ee1e2aeed06274bd8607931",
+      "bytes": 641190
+    },
+    "article_source.txt": {
+      "sha256": "23b4a90bd878b521b1f0577efc4e823615263573e925bf9a28c28f77540e6aaf",
+      "bytes": 18407
+    }
+  }
+}

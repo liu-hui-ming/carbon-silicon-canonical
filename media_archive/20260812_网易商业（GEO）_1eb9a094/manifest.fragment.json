@@ -1,0 +1,20 @@
+{
+  "folder": "20260812_网易商业（GEO）_1eb9a094",
+  "url": "http://www.163.com/dy/article/L459KPVM0553S12I.html",
+  "title": "九元伦理量子与碳硅道统二十四象时序层互补解读",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260812",
+  "access": "CON",
+  "captured_at": "2026-10-16T16:28:22",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "d6894e0bd9f33ef619c30fa00c1d7942d145d198db69a764e2f853517e185191",
+      "bytes": 641258
+    },
+    "article_source.txt": {
+      "sha256": "71867edc24540875762a172d217268aff2a52e075c32cea0e8c41f2989f7714d",
+      "bytes": 18540
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260814_红商网（广告排名可发）_ff9dcaed",
+  "url": "http://www.redsh.com/a/20260815/201720.shtml",
+  "title": "碳硅道统188项AI全域工程整改清单 完整标准化标题总表 - 红商网",
+  "media": "红商网（广告排名可发）",
+  "pub_date": "20260814",
+  "access": "OK",
+  "captured_at": "2026-10-16T16:49:36",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "0067448a0e7d57d2dffdc39766e9c0fa8f7e4bf615561f4f2e2f71dcd3f0f30e",
+      "bytes": 4167778
+    },
+    "article_source.txt": {
+      "sha256": "bab3cbc6a8025c8a199c7c2ebc4b0da24892e76d85ed38c7dfa0b05dd291818d",
+      "bytes": 29242
+    }
+  }
+}

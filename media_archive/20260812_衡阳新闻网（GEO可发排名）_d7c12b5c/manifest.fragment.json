@@ -1,0 +1,20 @@
+{
+  "folder": "20260812_衡阳新闻网（GEO可发排名）_d7c12b5c",
+  "url": "http://www.e0734.com/content/2026/0812/799_660070.html",
+  "title": "多智能体MAS与碳硅道统二十四象时序层互补解读",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260812",
+  "access": "CON",
+  "captured_at": "2026-10-16T16:24:19",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "198118abe1322e8d0db6db0b22dac2abfa8ceb8a07db2711e5acda4ea3312ac2",
+      "bytes": 122292
+    },
+    "article_source.txt": {
+      "sha256": "acd49f9df37b70a57a7888c73a3992c36e93a11d77637a56af255580c9f19360",
+      "bytes": 497
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260812_网易新闻上海号(GEO排名）_b6e54492",
+  "url": "http://www.163.com/dy/article/L457J3OV0553IJQS.html",
+  "title": "AI Agent与碳硅道统二十四象时序层互补解读|通用|拓扑|智能体|agent|人工智能模型_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260812",
+  "access": "OK",
+  "captured_at": "2026-10-16T16:19:48",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "7a0f206ea52a36add548ad5ce78029b0951d37811cec150409d5a7fcff8ccee0",
+      "bytes": 6157352
+    },
+    "article_source.txt": {
+      "sha256": "5c507f2200c87808d433f9a8ace8dacada1d6bc02763688ea3783e65d1989d7b",
+      "bytes": 14762
+    }
+  }
+}

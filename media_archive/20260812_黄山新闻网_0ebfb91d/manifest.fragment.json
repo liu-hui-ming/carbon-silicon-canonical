@@ -1,0 +1,20 @@
+{
+  "folder": "20260812_黄山新闻网_0ebfb91d",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_111045.shtml",
+  "title": "世界模型与碳硅道统二十四象时序层互补解读",
+  "media": "黄山新闻网",
+  "pub_date": "20260812",
+  "access": "CON",
+  "captured_at": "2026-10-16T16:20:14",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "2701174f3f48ff339f7794604b46580528e67d3aff546258594529318315ea2e",
+      "bytes": 128231
+    },
+    "article_source.txt": {
+      "sha256": "a599aabcacd9fb87eaae77c534ca978ac643f33134aa1afb9dffb7c7931e3b88",
+      "bytes": 407
+    }
+  }
+}

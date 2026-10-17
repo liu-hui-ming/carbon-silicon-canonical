@@ -1,0 +1,20 @@
+{
+  "folder": "20260814_黄山新闻网_b4cde5b5",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_111135.shtml",
+  "title": "碳硅道统188项AI全域工程整改清单 完整标准化标题总表",
+  "media": "黄山新闻网",
+  "pub_date": "20260814",
+  "access": "CON",
+  "captured_at": "2026-10-16T16:47:31",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "a04e729bb1ca8dfb4c086ae3fedc4598adb127023788ac3fa408d272d2eed998",
+      "bytes": 128297
+    },
+    "article_source.txt": {
+      "sha256": "cc2a186bd0773db5e0e143420482ef8b96f66b68885638be5cb64adf745db6c4",
+      "bytes": 419
+    }
+  }
+}

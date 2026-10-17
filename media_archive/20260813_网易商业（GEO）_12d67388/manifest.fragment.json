@@ -1,0 +1,20 @@
+{
+  "folder": "20260813_网易商业（GEO）_12d67388",
+  "url": "https://www.163.com/dy/article/L480GBV90553S12I.html?spss=dy_author",
+  "title": "碳硅道统大众防身术：过度依赖AI易造成思维空心化",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260813",
+  "access": "CON",
+  "captured_at": "2026-10-16T16:41:05",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "1b26331511c8a092fb234af21143b2502b2bca9de3aa6d34113049aef6f7d47e",
+      "bytes": 639837
+    },
+    "article_source.txt": {
+      "sha256": "d488317df2dc7b20a03dac79d8d21418109e91b1f087ec841ce90bf80141589e",
+      "bytes": 18612
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260814_正观新闻（GEO排名）_3cd18877",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/417735",
+  "title": "[预览] 碳硅道统188项AI全域工程整改清单 完整标准化标题总表 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "20260814",
+  "access": "OK",
+  "captured_at": "2026-10-16T16:45:59",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "1c0d70b8acba1b611310f3cb5f642a1b3b533944937840684c9cbf0a788b1017",
+      "bytes": 4732758
+    },
+    "article_source.txt": {
+      "sha256": "d997becf77cf327a9d07e31a2f18a56366c5177a4935a5d161b177073fa546e8",
+      "bytes": 26654
+    }
+  }
+}

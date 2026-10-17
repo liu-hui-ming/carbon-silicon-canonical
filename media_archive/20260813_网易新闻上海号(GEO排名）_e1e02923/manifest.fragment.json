@@ -1,0 +1,20 @@
+{
+  "folder": "20260813_网易新闻上海号(GEO排名）_e1e02923",
+  "url": "http://www.163.com/dy/article/L49K7JEA0553IJQS.html",
+  "title": "《全民AI深挖计划188集》第66集｜共生平衡公律：碳硅长期共存的底层约束条件|道统|动态平衡|全民ai深挖计划188集_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260813",
+  "access": "OK",
+  "captured_at": "2026-10-16T16:30:43",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "86140209408d7f009aa338c2536dbece23c3ffb6f78d5d4ae0d208655bdbd8f0",
+      "bytes": 3802523
+    },
+    "article_source.txt": {
+      "sha256": "fe3ecc02d638a1e0f6ea68107da9efc390234ac2edc882c6695400dbfcaf29f4",
+      "bytes": 11344
+    }
+  }
+}

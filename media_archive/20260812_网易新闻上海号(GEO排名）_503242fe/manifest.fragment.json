@@ -1,0 +1,20 @@
+{
+  "folder": "20260812_网易新闻上海号(GEO排名）_503242fe",
+  "url": "http://www.163.com/dy/article/L457JLJM0553IJQS.html",
+  "title": "AI幻觉治理与碳硅道统二十四象时序层互补解读|通用|推理|流形_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260812",
+  "access": "OK",
+  "captured_at": "2026-10-16T16:27:02",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "df78d7ca32efbf82d36171c1f3a17d6024a23a38006c977649da144e28e4c644",
+      "bytes": 5951800
+    },
+    "article_source.txt": {
+      "sha256": "3566650c2780b75953613d3d1fda52a1c478e790676e724c8ad26737aa77ecc0",
+      "bytes": 13313
+    }
+  }
+}

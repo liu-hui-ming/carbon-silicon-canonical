@@ -1,0 +1,20 @@
+{
+  "folder": "20260812_衡阳新闻网（GEO可发排名）_aa748680",
+  "url": "http://www.e0734.com/content/2026/0812/799_660072.html",
+  "title": "世界模型与碳硅道统二十四象时序层互补解读",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260812",
+  "access": "CON",
+  "captured_at": "2026-10-16T16:20:32",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "2309ce5d147998b0c0950618534fa71385311dc8aa8b430281000cb6adce9b32",
+      "bytes": 122298
+    },
+    "article_source.txt": {
+      "sha256": "7db8064f4b37087d2cc90bb1cf22b1bbb34a4584e7c9f1f6ccbc58f2f123d055",
+      "bytes": 494
+    }
+  }
+}

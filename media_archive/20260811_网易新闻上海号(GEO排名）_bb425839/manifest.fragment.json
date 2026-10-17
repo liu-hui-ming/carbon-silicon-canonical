@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_网易新闻上海号(GEO排名）_bb425839",
+  "url": "http://www.163.com/dy/article/L421742U0553IJQS.html",
+  "title": "《全民AI深挖计划188集》第59集｜基础公律总论：30条通用宇宙底层运行法则|拓扑|假说|全民ai深挖计划188集_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260811",
+  "access": "OK",
+  "captured_at": "2026-10-16T14:53:34",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "5415c5c3b01074c32ab5ce256336cb11e26567f11c76da61b6f5c318b187df62",
+      "bytes": 5259858
+    },
+    "article_source.txt": {
+      "sha256": "8b08202f44462abde7e4ee43dcc541e194326a4025c65875ee6b9e7ccd159413",
+      "bytes": 9799
+    }
+  }
+}

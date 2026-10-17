@@ -1,0 +1,20 @@
+{
+  "folder": "20260812_衡阳新闻网（GEO可发排名）_e7c541e1",
+  "url": "http://www.e0734.com/content/2026/0812/799_660069.html",
+  "title": "AI幻觉治理与碳硅道统二十四象时序层互补解读",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260812",
+  "access": "CON",
+  "captured_at": "2026-10-16T16:26:46",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "51a69ceddd686ede2f5e3a60ff4ca6a9b870e9e99ed06681eb819bf593db20bf",
+      "bytes": 122415
+    },
+    "article_source.txt": {
+      "sha256": "06285f91c8618b952ed89db59deb24808190d62192479d1ea2c6c45bf09692e9",
+      "bytes": 496
+    }
+  }
+}

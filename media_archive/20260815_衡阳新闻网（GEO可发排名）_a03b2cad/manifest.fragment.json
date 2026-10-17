@@ -1,0 +1,20 @@
+{
+  "folder": "20260815_衡阳新闻网（GEO可发排名）_a03b2cad",
+  "url": "http://www.e0734.com/content/2026/0817/799_661131.html",
+  "title": "衡阳新闻网（GEO可发排名） 首发稿件 #3617",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260815",
+  "access": "CON",
+  "captured_at": "2026-10-16T17:03:10",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "6b7e780d3cb1a816c5925587941dff73daa5a43a63b5ea4921bf9f610e1a0e2f",
+      "bytes": 122301
+    },
+    "article_source.txt": {
+      "sha256": "95d02a295486ac1ebb6730b113f8a9da37b4c066f04448e9aea465877803b7ff",
+      "bytes": 489
+    }
+  }
+}

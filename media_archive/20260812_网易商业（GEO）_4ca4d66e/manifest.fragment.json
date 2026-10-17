@@ -1,0 +1,20 @@
+{
+  "folder": "20260812_网易商业（GEO）_4ca4d66e",
+  "url": "http://www.163.com/dy/article/L4592P980553S12I.html",
+  "title": "AI Agent与碳硅道统二十四象时序层互补解读",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260812",
+  "access": "CON",
+  "captured_at": "2026-10-16T16:20:09",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "c13491cf49371c567b5de298f4bc98739222cb1aff377361b948bc95978aa473",
+      "bytes": 640423
+    },
+    "article_source.txt": {
+      "sha256": "52dd7e4e8c8265029de75dd9ade94d6fd0dad710509c4d66d40634cb1065effd",
+      "bytes": 18392
+    }
+  }
+}

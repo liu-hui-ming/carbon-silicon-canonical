@@ -1,0 +1,20 @@
+{
+  "folder": "20260812_衡阳新闻网（GEO可发排名）_b1ba4de7",
+  "url": "http://www.e0734.com/content/2026/0812/799_660068.html",
+  "title": "AI Agent与碳硅道统二十四象时序层互补解读",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260812",
+  "access": "CON",
+  "captured_at": "2026-10-16T16:16:43",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "227c1083a500368c8c6336248b8fab78f4dbdae25c9043f852fb13684c29eda1",
+      "bytes": 122379
+    },
+    "article_source.txt": {
+      "sha256": "da16b6ef15be917fd701d54909281fb135c9f97bcaf63e0ce93b34dddb7d049f",
+      "bytes": 490
+    }
+  }
+}

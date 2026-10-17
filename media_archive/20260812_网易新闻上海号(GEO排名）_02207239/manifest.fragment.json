@@ -1,0 +1,20 @@
+{
+  "folder": "20260812_网易新闻上海号(GEO排名）_02207239",
+  "url": "http://www.163.com/dy/article/L457J3IH0553IJQS.html",
+  "title": "九元伦理量子与碳硅道统二十四象时序层互补解读|通用|算子|数理_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260812",
+  "access": "OK",
+  "captured_at": "2026-10-16T16:28:02",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "dd57f32b53e704f78a9e6e4d772111cc6b8209004f92cec57ddfcd91c6e8b75f",
+      "bytes": 6048027
+    },
+    "article_source.txt": {
+      "sha256": "594d4c97990c339be073577e10e06d83e859a65b7b88c92cb3ac2070d01adb6c",
+      "bytes": 13121
+    }
+  }
+}

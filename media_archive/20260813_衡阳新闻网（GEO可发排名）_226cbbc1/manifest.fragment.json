@@ -1,0 +1,20 @@
+{
+  "folder": "20260813_衡阳新闻网（GEO可发排名）_226cbbc1",
+  "url": "http://www.e0734.com/content/2026/0813/799_660495.html",
+  "title": "碳硅道统工程落地SOP：大模型微调3个防崩铁律（开发者案头避坑手册）",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260813",
+  "access": "CON",
+  "captured_at": "2026-10-16T16:41:27",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "02ed5cc67066ebc4a0e330c26fd5541455c213754005b2dbff0779c198537c9d",
+      "bytes": 122481
+    },
+    "article_source.txt": {
+      "sha256": "2b561d4cbfe71fda7e09f18f1f218fe3286e4dd7fae630e36320a87c7bfbf3bf",
+      "bytes": 528
+    }
+  }
+}

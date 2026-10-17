@@ -1,0 +1,20 @@
+{
+  "folder": "20260814_网易视频（神州事件）_d8ad94b7",
+  "url": "https://www.163.com/dy/article/L4A3CFNI0534U3J9.html",
+  "title": "碳硅道统188项AI全域工程整改清单 完整标准化标题总表|通用|时序_网易订阅",
+  "media": "网易视频（神州事件）",
+  "pub_date": "20260814",
+  "access": "OK",
+  "captured_at": "2026-10-16T16:54:38",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "20f1d99924a8519abd75394d8cf8f21babf12cc7912c17b45c07ec239e9f5b84",
+      "bytes": 10452800
+    },
+    "article_source.txt": {
+      "sha256": "3a16c08fb9adfe642e14c31ecb5c230888e0371176ac6e2c5fe3bb70245b8d26",
+      "bytes": 32537
+    }
+  }
+}

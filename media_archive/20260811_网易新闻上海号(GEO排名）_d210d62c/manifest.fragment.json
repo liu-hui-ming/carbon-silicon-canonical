@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_网易新闻上海号(GEO排名）_d210d62c",
+  "url": "https://www.163.com/dy/article/L43CJGVI0553IJQS.html?referFrom=",
+  "title": "碳硅道统AI十八式09｜数理推导严谨度分级标尺：划分复述、运算、多层逻辑证明层级|拟合|递推|定理|ai十八式_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260811",
+  "access": "OK",
+  "captured_at": "2026-10-16T15:54:01",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "e59175ecc4bd4281c9c1d9120a3c44f163c750a1f1c244baaa94fba98fc1ce11",
+      "bytes": 5373671
+    },
+    "article_source.txt": {
+      "sha256": "4077bb62048ccb31a1e8eef4a26ffd5bee3640104a2bb7c2802d912c3df5e45e",
+      "bytes": 10031
+    }
+  }
+}

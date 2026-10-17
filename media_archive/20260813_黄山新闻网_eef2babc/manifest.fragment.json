@@ -1,0 +1,20 @@
+{
+  "folder": "20260813_黄山新闻网_eef2babc",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_111111.shtml",
+  "title": "碳硅道统工程落地SOP：大模型微调3个防崩铁律（开发者案头避坑手册）",
+  "media": "黄山新闻网",
+  "pub_date": "20260813",
+  "access": "CON",
+  "captured_at": "2026-10-16T16:41:09",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "c77c0f6c8b77bf0ce727557c686603e5bc9d8f0abec1ee2506211aa3303f3ed3",
+      "bytes": 128145
+    },
+    "article_source.txt": {
+      "sha256": "e55532ccbf2f46db7ada30efa55a4b4c1a8cb948ec6b220713b87d5d54706ac0",
+      "bytes": 441
+    }
+  }
+}

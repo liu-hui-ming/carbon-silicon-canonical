@@ -1,0 +1,20 @@
+{
+  "folder": "20260813_网易商业（GEO）_a0792a81",
+  "url": "https://www.163.com/dy/article/L480GD2A0553S12I.html?spss=dy_author",
+  "title": "碳硅道统工程落地SOP：大模型微调3个防崩铁律（开发者案头避坑手册）",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260813",
+  "access": "CON",
+  "captured_at": "2026-10-16T16:42:05",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "f9a09bb1efefd930bd61673893a4dfd7284262ff36a0f365f6db6524012464fe",
+      "bytes": 639737
+    },
+    "article_source.txt": {
+      "sha256": "8865981b844c035c070efe184e8c5d0384a6bca154d642bf47a65de50b7e4dec",
+      "bytes": 18631
+    }
+  }
+}

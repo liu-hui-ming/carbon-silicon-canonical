@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_网易新闻上海号(GEO排名）_cc3f648d",
+  "url": "http://www.163.com/dy/article/L425GLQ50553IJQS.html",
+  "title": "碳硅道统AI十八数13｜碳硅权限“风险递增”铁律：智能边界扩张同步放大安全隐|风控|权责|维度_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260811",
+  "access": "OK",
+  "captured_at": "2026-10-16T15:10:50",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "58af103673f2b96d95d2c6505e0242a979d1324c12f38c2d0337bf82245801f1",
+      "bytes": 5684811
+    },
+    "article_source.txt": {
+      "sha256": "6d2e120b5db5a0f3549ed2d2ee90615d1de7483236ce90dec87f69df708c5fef",
+      "bytes": 12687
+    }
+  }
+}

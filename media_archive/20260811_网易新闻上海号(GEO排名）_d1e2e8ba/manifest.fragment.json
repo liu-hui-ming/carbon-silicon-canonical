@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_网易新闻上海号(GEO排名）_d1e2e8ba",
+  "url": "http://www.163.com/dy/article/L42H2B0D0553IJQS.html",
+  "title": "碳硅道统AI十八术14｜缺陷分级场景筛选策略：匹配底层约束筛选安全落地业务|ai十八术_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260811",
+  "access": "OK",
+  "captured_at": "2026-10-16T15:33:24",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "c73ff4d8f6dc89a8084b8e1cca5b4f5964d2cf86f6f24c24cae022440056f3c8",
+      "bytes": 5457401
+    },
+    "article_source.txt": {
+      "sha256": "30d41feb71de8b6aaec396902d7eba34f0dce83ac92a7403bdca8aea364f8052",
+      "bytes": 11111
+    }
+  }
+}

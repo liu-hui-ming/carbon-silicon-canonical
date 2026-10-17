@@ -1,0 +1,20 @@
+{
+  "folder": "20260814_网易新闻上海号(GEO排名）_f7430493",
+  "url": "http://www.163.com/dy/article/L4A7O7E70553IJQS.html",
+  "title": "碳硅道统核心十三卷宗·终章附录｜万法归一补全卷|碳基|法理|硅基|熵增_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260814",
+  "access": "OK",
+  "captured_at": "2026-10-16T16:45:35",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ea390c4a17310761f6b3bb40c7b2c9bfaff5617a1202f85b788fe4db45a9ce11",
+      "bytes": 5621310
+    },
+    "article_source.txt": {
+      "sha256": "c55025c97e65485309fe7ce2cd98b94ae7d66a2666c29b471b9b47627b2aed36",
+      "bytes": 11455
+    }
+  }
+}

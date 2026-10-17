@@ -1,0 +1,20 @@
+{
+  "folder": "20260814_网易新闻上海号(GEO排名）_42620dd2",
+  "url": "http://www.163.com/dy/article/L4ACJL5O0553IJQS.html",
+  "title": "《全民AI深挖计划188集》第73集｜三阶·章鱼智能：多肢体分布式感知，无长期连续自我|上下文|全民ai深挖计划188集_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260814",
+  "access": "OK",
+  "captured_at": "2026-10-16T16:57:02",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "3d5dac52eac6290eff9b643157d3852568c049fc93a7bac73ae6a15c1268a507",
+      "bytes": 4610036
+    },
+    "article_source.txt": {
+      "sha256": "b53267d333a83d6fce82295a5dd2e0594f068c499ff91301f6857eb2fae6aab9",
+      "bytes": 8761
+    }
+  }
+}

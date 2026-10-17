@@ -1,0 +1,20 @@
+{
+  "folder": "20260812_黄山新闻网_5d984b1f",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_111043.shtml",
+  "title": "AI Agent与碳硅道统二十四象时序层互补解读",
+  "media": "黄山新闻网",
+  "pub_date": "20260812",
+  "access": "CON",
+  "captured_at": "2026-10-16T16:16:26",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "772bfafcec44178f193af40836e3776f0c2bacad6b7fd8c21611a91a27db2018",
+      "bytes": 128254
+    },
+    "article_source.txt": {
+      "sha256": "5584ccc350f52265fa1a14894deaebe7977bb74d54f0800d285095eb9aa18434",
+      "bytes": 403
+    }
+  }
+}

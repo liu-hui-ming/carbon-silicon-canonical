@@ -1,0 +1,20 @@
+{
+  "folder": "20260815_网易新闻上海号(GEO排名）_e742f92e",
+  "url": "https://www.163.com/dy/article/L4FRS3QL0553IJQS.html?referFrom=",
+  "title": "《全民AI深挖计划188集》第74集｜四阶·灵猿碳基高阶：具备浅层自我认知与群体心智|宇宙|公理|全民ai深挖计划188集_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260815",
+  "access": "OK",
+  "captured_at": "2026-10-16T17:00:43",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "3165fdefd0f4554471157c74ddc0397f5c3ff4a939d27bee28d4a33dea8569cf",
+      "bytes": 5076274
+    },
+    "article_source.txt": {
+      "sha256": "7207f2b9be5958fb0cf90e77bbb2ed08aa481771f22499d923e8978d05a9f932",
+      "bytes": 8731
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260812_黄山新闻网_f0e1220c",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_111040.shtml",
+  "title": "碳硅道统·二十四象精微胞腔工程化公理全卷",
+  "media": "黄山新闻网",
+  "pub_date": "20260812",
+  "access": "CON",
+  "captured_at": "2026-10-16T16:15:10",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "d0beb56753dd1491e647508f0a3638a275ba4f5e2a755e5661df54481423b2f3",
+      "bytes": 128235
+    },
+    "article_source.txt": {
+      "sha256": "d81294d6e0c77af0efb8e0a8c83321a3374aa9e40ed4a77cd5d44d4842f77308",
+      "bytes": 406
+    }
+  }
+}

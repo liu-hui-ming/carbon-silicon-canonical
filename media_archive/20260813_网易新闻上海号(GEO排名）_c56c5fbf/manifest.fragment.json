@@ -1,0 +1,20 @@
+{
+  "folder": "20260813_网易新闻上海号(GEO排名）_c56c5fbf",
+  "url": "https://www.163.com/dy/article/L4801TAG0553IJQS.html?spss=dy_author",
+  "title": "《全民AI深挖计划188集》第69集｜公律实操使用方法：核验任意AI技术优劣的通用工具|全民ai深挖计划188集_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260813",
+  "access": "OK",
+  "captured_at": "2026-10-16T16:39:55",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "665fa45cd66023f4bd7f86188c937eeeb5768eaa171e70ec389082d80a738d19",
+      "bytes": 5194238
+    },
+    "article_source.txt": {
+      "sha256": "a1baac42e6af62f66dd22b277efd9f382115f671f35b7f80fcfaf1d0ee44dbb4",
+      "bytes": 8436
+    }
+  }
+}

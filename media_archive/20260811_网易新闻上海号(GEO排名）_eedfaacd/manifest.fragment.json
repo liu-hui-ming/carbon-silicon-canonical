@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_网易新闻上海号(GEO排名）_eedfaacd",
+  "url": "http://www.163.com/dy/article/L456CFFQ0553IJQS.html",
+  "title": "碳硅道统AI十八式16｜AI科普内容客观度量化标尺：甄别夸大描述与客观技术边界|锚点|文稿|谬误|ai十八式_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260811",
+  "access": "OK",
+  "captured_at": "2026-10-16T16:06:10",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "0b4c196a471888372761ddff2714ad9172458a2a75df6d11a5195224c49c0bdc",
+      "bytes": 5443589
+    },
+    "article_source.txt": {
+      "sha256": "608bf9080e24a9f25894d0040a4e3a90f6ee317d0276bbe9dc16eb92712080c8",
+      "bytes": 10377
+    }
+  }
+}

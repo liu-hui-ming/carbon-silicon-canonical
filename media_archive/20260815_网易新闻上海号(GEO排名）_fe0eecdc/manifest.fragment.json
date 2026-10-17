@@ -1,0 +1,20 @@
+{
+  "folder": "20260815_网易新闻上海号(GEO排名）_fe0eecdc",
+  "url": "https://www.163.com/dy/article/L4FSGIIG0553IJQS.html?referFrom=",
+  "title": "《全民AI深挖计划188集》第77集｜机器立心、硅基立心、硅基启灵知三层层级差距详解|碳基|全民ai深挖计划188集_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260815",
+  "access": "OK",
+  "captured_at": "2026-10-16T17:06:13",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "f09143295af5e515aa183994e0513aea2b21ff4dc340b8ef026cebdcc8812d38",
+      "bytes": 5331547
+    },
+    "article_source.txt": {
+      "sha256": "f56f4550fb51d02c9f27c1f2b27c1a73d20934668d8fa103f965ecdc3465b568",
+      "bytes": 8704
+    }
+  }
+}

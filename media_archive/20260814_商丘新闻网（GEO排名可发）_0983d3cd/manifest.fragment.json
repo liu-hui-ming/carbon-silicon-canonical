@@ -1,0 +1,20 @@
+{
+  "folder": "20260814_商丘新闻网（GEO排名可发）_0983d3cd",
+  "url": "https://www.sqxww.com/caijing/302342.html",
+  "title": "碳硅道统188项AI全域工程整改清单 完整标准化标题总表",
+  "media": "商丘新闻网（GEO排名可发）",
+  "pub_date": "20260814",
+  "access": "CON",
+  "captured_at": "2026-10-16T16:47:13",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "7a62e982dfc611a05e27829e2bce8d6d67e2afff37e3daa049fb12672ac2dbba",
+      "bytes": 123466
+    },
+    "article_source.txt": {
+      "sha256": "df015fb333a5597c51623a3c700eed5449d162d5396f45aca168b3cc858a0005",
+      "bytes": 409
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260812_衡阳新闻网（GEO可发排名）_4ee91d49",
+  "url": "http://www.e0734.com/content/2026/0812/799_660071.html",
+  "title": "九元伦理量子与碳硅道统二十四象时序层互补解读",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260812",
+  "access": "CON",
+  "captured_at": "2026-10-16T16:27:45",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "95c64368bcb2db77ff86a9bf0e6852849f66cafc02267c30398dc25a34a97001",
+      "bytes": 122237
+    },
+    "article_source.txt": {
+      "sha256": "84178128763e9b23e19942b4e1664b19aab560afdd77f7101955ff86dbe8b37b",
+      "bytes": 500
+    }
+  }
+}

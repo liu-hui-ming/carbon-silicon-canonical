@@ -1,0 +1,20 @@
+{
+  "folder": "20260812_网易商业（GEO）_4785aa90",
+  "url": "http://www.163.com/dy/article/L4592EJ50553S12I.html",
+  "title": "碳硅道统·二十四象时序精微胞腔四维大一统公理体系",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260812",
+  "access": "CON",
+  "captured_at": "2026-10-16T16:15:06",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "4829f43e642eb78ca8df611fc69556b181cf6794f36320732a7d1628a5b6bbf2",
+      "bytes": 640190
+    },
+    "article_source.txt": {
+      "sha256": "ff5bc2b8ba44be3aa5cd84ecbe0c384dce5d9e17b4521f8107fb976b5e899567",
+      "bytes": 18266
+    }
+  }
+}

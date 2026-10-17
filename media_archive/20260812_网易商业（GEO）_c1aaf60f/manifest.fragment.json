@@ -1,0 +1,20 @@
+{
+  "folder": "20260812_网易商业（GEO）_c1aaf60f",
+  "url": "http://www.163.com/dy/article/L459KP750553S12I.html",
+  "title": "碳硅道统·二十四象精微胞腔工程化公理全卷",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260812",
+  "access": "CON",
+  "captured_at": "2026-10-16T16:16:21",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "76d2bd2c09ef3efc3a2e86d0cc8a10bec5a0d48c4e453cd00350f314f9c9fbb2",
+      "bytes": 641456
+    },
+    "article_source.txt": {
+      "sha256": "812a31cc83350f100e769e8159da73cb5a92d76fa454b5b42bdb8ceb2b30c70b",
+      "bytes": 18288
+    }
+  }
+}

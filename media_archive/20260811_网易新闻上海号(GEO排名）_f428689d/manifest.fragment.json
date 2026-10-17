@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_网易新闻上海号(GEO排名）_f428689d",
+  "url": "http://www.163.com/dy/article/L42JH1BI0553IJQS.html",
+  "title": "碳硅道统AI十八式01|图像拓扑保真误差标尺:畸变超限自动熔断拦截|阈值|拟合_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260811",
+  "access": "OK",
+  "captured_at": "2026-10-16T15:40:58",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "7f98a1cf7b779a972af4d5d9a2d53109268bea6cde24699e549139ecb052d4e5",
+      "bytes": 4638749
+    },
+    "article_source.txt": {
+      "sha256": "659b6423ca6a2621d41a05bbd5f1d42f963209bebed0aef161b3231415c1cf52",
+      "bytes": 9647
+    }
+  }
+}

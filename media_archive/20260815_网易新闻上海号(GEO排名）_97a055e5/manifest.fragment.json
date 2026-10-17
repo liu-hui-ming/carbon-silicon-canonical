@@ -1,0 +1,20 @@
+{
+  "folder": "20260815_网易新闻上海号(GEO排名）_97a055e5",
+  "url": "https://www.163.com/dy/article/L4FSGM3I0553IJQS.html?referFrom=",
+  "title": "《全民AI深挖计划188集》第76集｜五级智能层级之间，无法跨越的数理维度鸿沟|拓扑|壁垒|人工智能模型|全民ai深挖计划188集_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260815",
+  "access": "OK",
+  "captured_at": "2026-10-16T17:02:32",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "f9ec425e6695b8e4ae07277819293cfccccf6a01d30e1a6764d32f851e6f30bb",
+      "bytes": 4892122
+    },
+    "article_source.txt": {
+      "sha256": "80bc94579d78bcb2057c0985b4cffb656ea124f00c3a54ad90c0e4dd453e74d1",
+      "bytes": 8808
+    }
+  }
+}

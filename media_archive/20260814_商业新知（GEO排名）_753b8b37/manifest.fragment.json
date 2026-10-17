@@ -1,0 +1,20 @@
+{
+  "folder": "20260814_商业新知（GEO排名）_753b8b37",
+  "url": "https://www.shangyexinzhi.com/article/33591642.html",
+  "title": "碳硅道统188项AI全域工程整改清单 完整标准化标题总表",
+  "media": "商业新知（GEO排名）",
+  "pub_date": "20260814",
+  "access": "CON",
+  "captured_at": "2026-10-16T16:51:25",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "d9d75a4129be4d65ca341b55dd452b308cc21e1514d8457a1c6d591b723a66f8",
+      "bytes": 130199
+    },
+    "article_source.txt": {
+      "sha256": "a6e1004b4ee9f1c731fd4a2fb32e670fa3968778231e8a934c123f3bad438daf",
+      "bytes": 410
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260811_网易新闻上海号(GEO排名）_dcc50f3e",
+  "url": "http://www.163.com/dy/article/L42H2BHK0553IJQS.html",
+  "title": "碳硅道统AI十八术11｜权重解耦独立微调架构：降低跨行业迁移适配损耗|通用|多模态|ai十八术_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260811",
+  "access": "OK",
+  "captured_at": "2026-10-16T15:27:44",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "944f05e792016d0ab7202ac1862cc5c95a787eb72bc6120f7f1e72a0f31c79ab",
+      "bytes": 4868890
+    },
+    "article_source.txt": {
+      "sha256": "e3fc147a7bcaf58318ce21cba7e4685e4334fc28805b4175e5e5b9c5ef01639c",
+      "bytes": 10948
+    }
+  }
+}

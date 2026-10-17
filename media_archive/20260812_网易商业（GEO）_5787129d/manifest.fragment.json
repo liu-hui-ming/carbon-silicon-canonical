@@ -1,0 +1,20 @@
+{
+  "folder": "20260812_网易商业（GEO）_5787129d",
+  "url": "http://www.163.com/dy/article/L45935NT0553S12I.html",
+  "title": "AI幻觉治理与碳硅道统二十四象时序层互补解读",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260812",
+  "access": "CON",
+  "captured_at": "2026-10-16T16:27:23",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "34d4a4490e35b5b67ed56d1c20df04a0b1a6155e8b7207cfc172a329b40863cb",
+      "bytes": 640810
+    },
+    "article_source.txt": {
+      "sha256": "488db74ef18955d2f1779f32fb0f03a1c3d717980140c8e7825251273833504a",
+      "bytes": 18451
+    }
+  }
+}

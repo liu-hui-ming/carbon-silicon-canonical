@@ -1,0 +1,20 @@
+{
+  "folder": "20260814_中国晨报（GEO排名可发）_0aa13950",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=34748",
+  "title": "碳硅道统188项AI全域工程整改清单 完整标准化标题总表 - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "20260814",
+  "access": "OK",
+  "captured_at": "2026-10-16T16:46:48",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "cbd82aa56e525aeac77a17fc4390a32e96b5ce92e4b12bbd592dea64a0e2fa51",
+      "bytes": 4217876
+    },
+    "article_source.txt": {
+      "sha256": "f3ecf7f2aaf8a4a73c2a6e37b8ee47052b36d293477a19482c812693d57d3ec4",
+      "bytes": 30071
+    }
+  }
+}
