@@ -1,0 +1,20 @@
+{
+  "folder": "20260709_海峡经济网_e3f847c8",
+  "url": "https://www.hxjjw.com.cn/roll/business/2026/0708/47722.html",
+  "title": "系统完整性判别：区分生命与算力稳态、破碎的通用标准_海峡经济网",
+  "media": "海峡经济网",
+  "pub_date": "20260709",
+  "access": "OK",
+  "captured_at": "2026-10-14T22:25:10",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "4fc6c64cadd662c0fa39f3d022dc9fcbd05cd18c9aa4d3b4e059dc6430a26653",
+      "bytes": 1373607
+    },
+    "article_source.txt": {
+      "sha256": "41699a6a367167f26a9851bbb047038c72908b815aa08c20d26e614a87ec77a7",
+      "bytes": 4838
+    }
+  }
+}

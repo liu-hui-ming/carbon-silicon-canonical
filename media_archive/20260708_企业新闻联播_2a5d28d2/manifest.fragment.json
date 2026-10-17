@@ -1,0 +1,20 @@
+{
+  "folder": "20260708_企业新闻联播_2a5d28d2",
+  "url": "http://www.qwqy.cn/caijing/52300.html",
+  "title": "紫微星文化视角下 2026 文明转型：文明跃迁为何指向碳硅道统？-企业新闻联播",
+  "media": "企业新闻联播",
+  "pub_date": "20260708",
+  "access": "OK",
+  "captured_at": "2026-10-14T19:48:44",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "990d0b730029f53744c5f85f01f1b6ac51381db71acda87cfceca7925db46f8a",
+      "bytes": 1892697
+    },
+    "article_source.txt": {
+      "sha256": "5a566cc8f0c4d8a24f61219a82dbe53b52ac51ca32f29be63b03c9004bceef34",
+      "bytes": 7904
+    }
+  }
+}

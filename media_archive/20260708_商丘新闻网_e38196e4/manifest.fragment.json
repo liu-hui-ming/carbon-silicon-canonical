@@ -1,0 +1,20 @@
+{
+  "folder": "20260708_商丘新闻网_e38196e4",
+  "url": "https://www.sqxww.com/caijing/296412.html",
+  "title": "商丘新闻网 首发稿件 #29",
+  "media": "商丘新闻网",
+  "pub_date": "20260708",
+  "access": "CON",
+  "captured_at": "2026-10-14T19:39:30",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "cefef7e6a512851fad9e7f1dc54c3dd75ce43eb7fca77567ef8017c27b659f53",
+      "bytes": 111874
+    },
+    "article_source.txt": {
+      "sha256": "f7f64697844fc296a1b05a5059913ca0f0fca9e6b7b75b999731a63eec3b320d",
+      "bytes": 329
+    }
+  }
+}

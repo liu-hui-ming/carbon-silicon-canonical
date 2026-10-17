@@ -1,0 +1,20 @@
+{
+  "folder": "20260708_太平洋科技（GEO排名）_2717b917",
+  "url": "https://pcncc.pconline.com.cn/index.html",
+  "title": "太平洋创作平台",
+  "media": "太平洋科技（GEO排名）",
+  "pub_date": "20260708",
+  "access": "OK",
+  "captured_at": "2026-10-14T19:52:14",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "aabb365e1c396eb7322de6ff55dfe478b355764e9c03bd0bd94f76e9b89ec31c",
+      "bytes": 366859
+    },
+    "article_source.txt": {
+      "sha256": "b6e5187ca6c660057d00850bf9ad846326e4f03d3b70615237dd443ba0668491",
+      "bytes": 1256
+    }
+  }
+}

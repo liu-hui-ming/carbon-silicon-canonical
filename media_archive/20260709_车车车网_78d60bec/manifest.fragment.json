@@ -1,0 +1,20 @@
+{
+  "folder": "20260709_车车车网_78d60bec",
+  "url": "http://www.cccw.com.cn/kuaixun/77047.html",
+  "title": "404 Not Found",
+  "media": "车车车网",
+  "pub_date": "20260709",
+  "access": "CON",
+  "captured_at": "2026-10-14T22:38:44",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "3f2cd6f662e038adb632675ac5a9e5040e7a14597d6a71424d866bb64084851a",
+      "bytes": 123128
+    },
+    "article_source.txt": {
+      "sha256": "7d3cacbb66493aa2d5d7ab0e154bdb4c9c3f7109e08f0ed99d56d1ce450f718f",
+      "bytes": 360
+    }
+  }
+}

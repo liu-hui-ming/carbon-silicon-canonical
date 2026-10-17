@@ -1,0 +1,19 @@
+标题：****** ******/8.0.37 - Error report
+媒体：开封视听网
+发布日期（报表）：2026-07-09
+URL：https://www.kftv.net.cn/info/56816
+取证系统时间：2026-10-14T22:38:36
+HTTP：404
+页面标题：****** ******/8.0.37 - Error report
+截图标准：P0-four-elements-v2（全屏含任务栏时间+滚动拼接正文）
+路由缓存渲染：否
+链接失效：是
+HTTP Status 404 - /zscms/WEB-INF/views/1/%E5%BC%80%E5%B0%81PC%E7%AB%99/sys_operation_error.html.jsp
+
+type Status report
+
+message /zscms/WEB-INF/views/1/%E5%BC%80%E5%B0%81PC%E7%AB%99/sys_operation_error.html.jsp
+
+description The requested resource is not available.
+
+****** ******/8.0.37

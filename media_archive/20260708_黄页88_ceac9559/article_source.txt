@@ -1,0 +1,92 @@
+标题：黄页88 首发稿件 #71
+媒体：黄页88
+发布日期（报表）：2026-07-08
+URL：https://www.huangye88.com/news/comprehensive/be10epg2d67d.html
+取证系统时间：2026-10-14T22:12:29
+HTTP：200
+页面标题：
+截图标准：P0-four-elements-v2（全屏含任务栏时间+滚动拼接正文）
+路由缓存渲染：否
+链接失效：否
+火山引擎    正在进行安全检测...   为保障您的访问安全，系统正在检测当前网络环境，该过程通常需要几秒钟，请耐心等待   	
+
+	
+
+	
+		const wafCaptchaVerifyData = "{\"aid\":0,\"code\":\"10000\",\"detail\":\"rv8NWBC0jjL4M7Cw1KBI3E5H9FzZTdkbWfSZaHycNL8GAuPoXukVxLPvGQNS91ZcqU0zAX516Hefw8oM*28Fhrj2G0NcUrZsysUHYjuFztNuqgMriWyjdSZ6NzT1fQh5My3A74xtwlZ3JWQuI7CCiIFnu7fFyVghB2PchlUdwcLpsqieZVPnRwhBiagcs5beyl1I-DntRqJd-dKMQ45BgMdVipu-nRN68GmbtLj3Sbe7rIZ*xKg2ksWEsshLzkn1LTV7kn8uk*9jlFKdjYgU7cIX5FNpi9Bz4-6px6O4cUbYUcKyAvmWrQ..\",\"fp\":\"HBAkHp4TIrZcRw8VliYTDPPCP83filJ-A2i73O_hTAA\",\"from\":\"verify_center\",\"identity_action\":\"\",\"identity_scene\":\"\",\"is_assist_mobile\":false,\"is_complex_sms\":false,\"log_id\":\"20261014221229B3BB59A5608209D8C810\",\"login_status\":0,\"region\":\"cn\",\"server_sdk_env\":\"{\\\"idc\\\":\\\"-\\\",\\\"region\\\":\\\"-\\\",\\\"server_type\\\":\\\"business\\\",\\\"x-waf-agent-ctx\\\":\\\"LQt3S0jPm51UykLSFJsiFcI4ujwb4qqrk310QH2Ag1ZaMH+l9JBL3FZWo6sHKYrekButzgGJOfqLkMaxpySHQK+U0qBZYjMC3z5yuynzhywO3GjuiIkGzeUTVLlI2RLD2tc6WT/BWI9zyQJurQbP/hd98AhCyswvLEYQ1RYNAMUf+75OgF5uyHatgRDsYPtjp0iox/MSBucNoBy67xAPrGtgBE2gCISn5j3jAd5SdA9wonEgJRmkjJLR2EJvAJPqGwgVxlSHawiH6rbKy959kYAH7wy9SuILcSHZiwaEUi1P88rzHUeLFK83HU+fy2M=\\\"}\",\"subtype\":\"slide\",\"type\":\"verify\",\"ui_type\":\"\",\"verify_event\":\"\",\"verify_scene\":\"tob_waf\",\"version\":\"1\"}"
+
+		const options = {
+			commonOptions: {
+				aid: 1035330,
+				iid: '0',
+				did: '0',
+				repoId: 51469,
+			},
+			captchaOptions: {
+				showMode: 'mask',
+				host: 'https://waf-captcha-proxy.volcbiz.com',
+				fp: 'HBAkHp4TIrZcRw8VliYTDPPCP83filJ-A2i73O_hTAA',
+				successCb: function(result) {
+					console.log('验证成功');
+					handleCaptchaSuccess(result);
+				},
+				closeCb() {
+					sendCloseMessage();
+				},
+			}
+		}
+		window.TTGCaptcha.init(options)
+
+		function hideWaitingPage() {
+			var pageEl = document.querySelector('.page');
+			if (pageEl) {
+				pageEl.style.display = 'none';
+			}
+        }
+        hideWaitingPage();
+		
+		window.TTGCaptcha.render({
+			verify_data: wafCaptchaVerifyData,
+			captchaOptions: {}
+		});
+		
+		function getHeader(headers, name) {
+			if (!headers) { return ''; }
+			for (var key in headers) {
+				if (headers.hasOwnProperty(key) && key.toLowerCase() === name.toLowerCase()) {
+					return headers[key];
+				}
+			}
+			return '';
+		}
+		function writeCaptchaChallengeCookie(result) {
+			var headers = (result && result.headers) || result || {};
+			var challenge = getHeader(headers, 'x-biz-waf-captcha-challenge');
+			if (!challenge) { return; }
+			document.cookie = '_waf_captcha_challenge=' + encodeURIComponent(challenge)
+				+ '; Path=/; Max-Age=60; SameSite=Lax';
+		}
+		function handleCaptchaSuccess(result) {
+			try { writeCaptchaChallengeCookie(result); } catch (e) { console.error('write captcha challenge cookie failed', e); }
+			setTimeout(function() { window.location.reload(); }, 2000);
+		}
+
+		function sendCloseMessage() {
+			let result = {
+				type: 'sdk_result',
+				action: 'block',
+			};
+			console.log('验证关闭');
+			sendMessage(result);
+		}
+		function sendMessage(data, onlyWebView = false) {
+			if (window.webkit?.messageHandlers?.ReactNativeWebView) {
+				let dataStr = JSON.stringify(data);
+				window.webkit.messageHandlers.ReactNativeWebView.postMessage(dataStr);
+			} else if (window.ReactNativeWebView) {
+				let dataStr = JSON.stringify(data);
+				window.ReactNativeWebView.postMessage(dataStr);
+			} else if (!onlyWebView && window.parent != window) {
+				window.parent.postMessage(data, '*');
+			}
+		}

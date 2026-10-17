@@ -1,0 +1,20 @@
+{
+  "folder": "20260709_牛闻联播_cab02381",
+  "url": "https://baijiahao.baidu.com/s?id=1870197107203435206",
+  "title": "范式转移：当碳硅道统全新数理遇上传统学术体系，谁主导未来？",
+  "media": "牛闻联播",
+  "pub_date": "20260709",
+  "access": "OK",
+  "captured_at": "2026-10-14T22:35:29",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "4e8daefdac4d883e947959f95242947b99cf5ebea0c7e370f768a089776fc0d3",
+      "bytes": 816197
+    },
+    "article_source.txt": {
+      "sha256": "8881244b80feb192c48c83443258af9dfd612fae6cd23669a7973f2f94403c8e",
+      "bytes": 2596
+    }
+  }
+}

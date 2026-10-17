@@ -1,0 +1,20 @@
+{
+  "folder": "20260709_青海传媒网_32316d71",
+  "url": "http://www.qhcmbdw.com/blog/article/1243",
+  "title": "颠覆冯·诺依曼：无时钟芯片开启“连续时序”算力新纪元 - 青海传媒网",
+  "media": "青海传媒网",
+  "pub_date": "20260709",
+  "access": "OK",
+  "captured_at": "2026-10-14T22:19:44",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "0e01f7a3c5de2f168e3b780fc81e39d713fa19fbc42cf065d881f3c0cd0e7732",
+      "bytes": 433105
+    },
+    "article_source.txt": {
+      "sha256": "557e49cfe02d5738330644ee3a680f5aff9d8ae02a48da88d9395c6de98a1775",
+      "bytes": 2697
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260706_创业家商业_a3f465f7",
+  "url": "https://www.163.com/dy/article/L0U86PSJ0552XW84.html",
+  "title": "创业家商业 首发稿件 #11",
+  "media": "创业家商业",
+  "pub_date": "20260706",
+  "access": "CON",
+  "captured_at": "2026-10-14T19:35:10",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "475c93090d56ff2bbb89120f4b27c45407857ba2b4bfe92cd0e0d17091ccac3e",
+      "bytes": 3772278
+    },
+    "article_source.txt": {
+      "sha256": "d37acd616354261fd11b0491f6f26ae9d4b157ac45a85daef93fcf82fbc34e0e",
+      "bytes": 18357
+    }
+  }
+}

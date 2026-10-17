@@ -1,0 +1,20 @@
+{
+  "folder": "20260709_健康科技网（可发GEO）_ebdc82a8",
+  "url": "http://www.zgsjb.com/list_15/175.html",
+  "title": "雅俗共赏：硬核科普传播的稳态平衡黄金分割标准-新闻-健康科技网",
+  "media": "健康科技网（可发GEO）",
+  "pub_date": "20260709",
+  "access": "OK",
+  "captured_at": "2026-10-14T22:44:40",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "a983ecfd12b177f8996ea751fc537def7e49bf9be23e8dd31d8e05d030efb208",
+      "bytes": 962516
+    },
+    "article_source.txt": {
+      "sha256": "4bb5e377e3ffab30ec3abfffcc3c5136f5f45c6a069e9117fc068c80acac9a67",
+      "bytes": 3593
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260709_桂林生活网_be6eea1b",
+  "url": "https://news.guilinlife.com/article/5l5w87ec26b24fec45f4.html",
+  "title": "404页面丢失 - 桂林生活网",
+  "media": "桂林生活网",
+  "pub_date": "20260709",
+  "access": "CON",
+  "captured_at": "2026-10-14T22:29:08",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "bf5d001e524b22b10f21610cb1c1c24d6e312e814300231a72545b4a9781721f",
+      "bytes": 134457
+    },
+    "article_source.txt": {
+      "sha256": "f5bef816973e80f5e18c27f8b895501fa82c452d77eccb7e7ae88be41c2d1ebf",
+      "bytes": 524
+    }
+  }
+}

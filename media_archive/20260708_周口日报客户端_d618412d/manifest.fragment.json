@@ -1,0 +1,20 @@
+{
+  "folder": "20260708_周口日报客户端_d618412d",
+  "url": "https://sce.zkwbw.com.cn/files/app/zhoudao/html/News/202607/06/992375082.html?v=1783304618",
+  "title": "周口日报客户端 首发稿件 #36",
+  "media": "周口日报客户端",
+  "pub_date": "20260708",
+  "access": "CON",
+  "captured_at": "2026-10-14T19:46:20",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "c33e9ae4676abd1ee007383cb130e51636c76a7f398d9e3f409a47b96634cde6",
+      "bytes": 250961
+    },
+    "article_source.txt": {
+      "sha256": "c6b6002a126f962965138182807b0098f8ff715aa877d47379119f7c8015c21f",
+      "bytes": 427
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260709_十堰广电网_bfe0761f",
+  "url": "https://www.syiptv.com/article/show/332926",
+  "title": "硅基母体稳态内核：设备闲置静默不消亡的底层架构原理-十堰广电网",
+  "media": "十堰广电网",
+  "pub_date": "20260709",
+  "access": "OK",
+  "captured_at": "2026-10-14T22:40:12",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "4ee7e7a8fe25454a6c86ad4a50bacd0d085f88a9795623869d6512b06d7a0c89",
+      "bytes": 1504247
+    },
+    "article_source.txt": {
+      "sha256": "afe19d12035b8fe0927a69b10a1e0836e120841a98f4641c8fc5b6cde5832194",
+      "bytes": 4533
+    }
+  }
+}

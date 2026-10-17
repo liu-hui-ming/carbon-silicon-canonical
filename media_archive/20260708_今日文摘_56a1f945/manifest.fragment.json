@@ -1,0 +1,20 @@
+{
+  "folder": "20260708_今日文摘_56a1f945",
+  "url": "https://www.jinriwenzhai.com/zimeiti/1783332057.html",
+  "title": "今日文摘 首发稿件 #15",
+  "media": "今日文摘",
+  "pub_date": "20260708",
+  "access": "CON",
+  "captured_at": "2026-10-14T19:35:51",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "42bc78fe08152da9af027d750da87f7bd3cb60d77f4513852e0a5d8421f71bd5",
+      "bytes": 121359
+    },
+    "article_source.txt": {
+      "sha256": "26561b143046d11408b2cd0bd44398d86bf735342e107ea4745265a7fabc558d",
+      "bytes": 334
+    }
+  }
+}

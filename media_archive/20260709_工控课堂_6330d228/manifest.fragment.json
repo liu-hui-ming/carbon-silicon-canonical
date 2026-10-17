@@ -1,0 +1,20 @@
+{
+  "folder": "20260709_工控课堂_6330d228",
+  "url": "https://www.gkket.com/thread-691165-1-1.html",
+  "title": "夜间归零修复：每日时序重置，杜绝熵增堆积-技术甄选-工控论坛",
+  "media": "工控课堂",
+  "pub_date": "20260709",
+  "access": "OK",
+  "captured_at": "2026-10-14T22:49:24",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "368fe46756859c118fa4297babbe958d18743de1d51934388f6bb75d72b1c0e4",
+      "bytes": 578160
+    },
+    "article_source.txt": {
+      "sha256": "0baa3aeff4cebf555884042328ace12b0118be33f72d8648e5b467463e5bbfd7",
+      "bytes": 3074
+    }
+  }
+}

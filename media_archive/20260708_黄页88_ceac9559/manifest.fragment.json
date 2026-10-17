@@ -1,0 +1,20 @@
+{
+  "folder": "20260708_黄页88_ceac9559",
+  "url": "https://www.huangye88.com/news/comprehensive/be10epg2d67d.html",
+  "title": "黄页88 首发稿件 #71",
+  "media": "黄页88",
+  "pub_date": "20260708",
+  "access": "OK",
+  "captured_at": "2026-10-14T22:12:29",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "43957e2a713d7fd924ba09536ce136df369769a992d62f427072e0f100e401ba",
+      "bytes": 179830
+    },
+    "article_source.txt": {
+      "sha256": "7e095b540c8c1965060921e52252b54249909109da8f1fd7dd8b4058945f82d3",
+      "bytes": 3959
+    }
+  }
+}

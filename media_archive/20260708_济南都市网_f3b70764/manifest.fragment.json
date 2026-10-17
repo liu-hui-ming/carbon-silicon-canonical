@@ -1,0 +1,20 @@
+{
+  "folder": "20260708_济南都市网_f3b70764",
+  "url": "http://www.jinandushi.com.cn/shenghuo/11572155.html",
+  "title": "济南都市网 首发稿件 #33",
+  "media": "济南都市网",
+  "pub_date": "20260708",
+  "access": "CON",
+  "captured_at": "2026-10-14T19:45:36",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "f58d5694ebf65e8cbb4608453aa1c992686f6454ba6be0c39825a7b7d9e8fe07",
+      "bytes": 117832
+    },
+    "article_source.txt": {
+      "sha256": "cae11da34ca259bdce988228d3502389a826ebcf365440ca2fd9fc40b94a10c1",
+      "bytes": 339
+    }
+  }
+}

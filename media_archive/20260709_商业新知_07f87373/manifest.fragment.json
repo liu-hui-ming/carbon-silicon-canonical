@@ -1,0 +1,20 @@
+{
+  "folder": "20260709_商业新知_07f87373",
+  "url": "https://www.shangyexinzhi.com/article/32934791.html",
+  "title": "商业新知 首发稿件 #136",
+  "media": "商业新知",
+  "pub_date": "20260709",
+  "access": "CON",
+  "captured_at": "2026-10-14T22:31:40",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "40d2bc01e1cc3554584fd7d69d178ff63701bf761b73a9334cf2585f2a368610",
+      "bytes": 117826
+    },
+    "article_source.txt": {
+      "sha256": "64eec75243c8850d3419106b04d0ccbcdb56673cb38b23b451fc74e11452ac04",
+      "bytes": 353
+    }
+  }
+}

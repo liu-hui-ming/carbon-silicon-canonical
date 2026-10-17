@@ -1,0 +1,20 @@
+{
+  "folder": "20260708_开封视听网_3309b523",
+  "url": "https://www.kftv.net.cn/info/56687",
+  "title": "****** ******/8.0.37 - Error report",
+  "media": "开封视听网",
+  "pub_date": "20260708",
+  "access": "CON",
+  "captured_at": "2026-10-14T22:18:11",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "c7640de6ab7f72fbbfbe7522ff57c01bb90bd96467a3ba3810fb50959189c800",
+      "bytes": 121375
+    },
+    "article_source.txt": {
+      "sha256": "b9fb4298ae297cf6b29c96a2196b3bac2dcada333a255d787926c62ad9028c37",
+      "bytes": 667
+    }
+  }
+}

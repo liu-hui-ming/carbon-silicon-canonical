@@ -1,0 +1,20 @@
+{
+  "folder": "20260709_信阳日报_96cc32c2",
+  "url": "http://ribao.xyxww.com.cn/html/2026-07/08/2076923.html",
+  "title": "404 Not Found",
+  "media": "信阳日报",
+  "pub_date": "20260709",
+  "access": "CON",
+  "captured_at": "2026-10-14T22:28:36",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "94d60bffa9c5eca7ee6791ee1547f1d811e11c1fba30c30b87e30d208eb119c6",
+      "bytes": 96008
+    },
+    "article_source.txt": {
+      "sha256": "9f421897f8c39a1d3eebe6ade418014d5723f1f849f41834d63201cae6dd077c",
+      "bytes": 371
+    }
+  }
+}

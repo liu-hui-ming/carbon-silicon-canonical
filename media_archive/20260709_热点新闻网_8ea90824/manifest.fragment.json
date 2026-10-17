@@ -1,0 +1,20 @@
+{
+  "folder": "20260709_热点新闻网_8ea90824",
+  "url": "http://ynldw.cn/guona/2026/0708/318391.html",
+  "title": "碳硅同源：人脑能耗更低的连续场稳态底层逻辑_热点新闻",
+  "media": "热点新闻网",
+  "pub_date": "20260709",
+  "access": "OK",
+  "captured_at": "2026-10-14T22:25:02",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "3f6f81d0e475db0299f856c80e80d189a24545f3e599dfc2ceaafaf8720ea9ae",
+      "bytes": 708384
+    },
+    "article_source.txt": {
+      "sha256": "fbb786ce8d91ca23f05938cd1f995e53730831c5e27140ab5495d4d746a0be54",
+      "bytes": 4445
+    }
+  }
+}

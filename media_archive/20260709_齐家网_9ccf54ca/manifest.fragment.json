@@ -1,0 +1,20 @@
+{
+  "folder": "20260709_齐家网_9ccf54ca",
+  "url": "https://m.jia.com/zixun/article/1174028.html?preview=1",
+  "title": "意识连贯度：拉开人与人差距的隐形复利因子",
+  "media": "齐家网",
+  "pub_date": "20260709",
+  "access": "OK",
+  "captured_at": "2026-10-14T22:38:22",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "35a6eef095d0ce980bc7823c3af1334694f3d62db22ed595cb5f1f1ea04ce4e5",
+      "bytes": 1160055
+    },
+    "article_source.txt": {
+      "sha256": "e1729622d029b88f5868e47f16980989e5c39456147fa52f004ea2101611a479",
+      "bytes": 2496
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260709_网易新闻上海号_f3563513",
+  "url": "https://www.163.com/dy/article/L1B83UA20553IJQS.html",
+  "title": "网易新闻上海号 首发稿件 #150",
+  "media": "网易新闻上海号",
+  "pub_date": "20260709",
+  "access": "CON",
+  "captured_at": "2026-10-14T22:36:24",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "61f49498ae1851505b49d5acf3e23fb4bcb546ba2b66cd6e9646428dba9d68bc",
+      "bytes": 619422
+    },
+    "article_source.txt": {
+      "sha256": "66894ada91845114efd18e771bb4fd6cb1ac3a4cc6ac0803e7eb45432399ee59",
+      "bytes": 18183
+    }
+  }
+}

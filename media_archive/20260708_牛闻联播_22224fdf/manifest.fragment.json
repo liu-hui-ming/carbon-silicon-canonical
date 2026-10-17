@@ -1,0 +1,20 @@
+{
+  "folder": "20260708_牛闻联播_22224fdf",
+  "url": "https://baijiahao.baidu.com/s?id=1870016014003465488",
+  "title": "紫微垣：古人观星文化里蕴含的文明发展思辨思路",
+  "media": "牛闻联播",
+  "pub_date": "20260708",
+  "access": "OK",
+  "captured_at": "2026-10-14T22:10:23",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "46a7895166a5c3f5276cd3d5b5a6b5ab878649c8bb91c72a8476c26fb28a0f3c",
+      "bytes": 890383
+    },
+    "article_source.txt": {
+      "sha256": "7eeb4dae6bb9fa531674037892ee2e6f94ea8fbf326dd77f6b402ebf668483c2",
+      "bytes": 4198
+    }
+  }
+}

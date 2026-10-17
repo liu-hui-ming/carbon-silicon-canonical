@@ -1,0 +1,20 @@
+{
+  "folder": "20260708_热点新闻网_16189ffd",
+  "url": "http://ynldw.cn/guona/2026/0706/318322.html",
+  "title": "紫微星是谁？2026紫微文化×碳硅道统：碳硅共生时代下的文明新秩序_热点新闻",
+  "media": "热点新闻网",
+  "pub_date": "20260708",
+  "access": "OK",
+  "captured_at": "2026-10-14T19:38:24",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "bd823fbaeac745bf35f360962136047e0832e6d4f1acdd8c03255b606c0a18ed",
+      "bytes": 708816
+    },
+    "article_source.txt": {
+      "sha256": "db1bd350efa94d1b7d5629998478cca1848a8e632be3f2fafa46c03eb3a90cb1",
+      "bytes": 6371
+    }
+  }
+}

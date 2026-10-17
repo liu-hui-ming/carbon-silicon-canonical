@@ -1,0 +1,20 @@
+{
+  "folder": "20260708_南方汽车网_14316acb",
+  "url": "http://south.fscar.net/xinche/72040.html",
+  "title": "紫微是谁？2026智能时代看传统文化的当代延伸-南方汽车网",
+  "media": "南方汽车网",
+  "pub_date": "20260708",
+  "access": "OK",
+  "captured_at": "2026-10-14T22:18:02",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "6a82f529268c306849e392168cf8a07640d252cf9240bc2ae98ed5392ea72381",
+      "bytes": 1497117
+    },
+    "article_source.txt": {
+      "sha256": "1ddcd9646a97a99601b2dc33e96f32503b4d6859086e102f74c11134884c91a3",
+      "bytes": 8372
+    }
+  }
+}

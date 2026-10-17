@@ -1,0 +1,20 @@
+{
+  "folder": "20260708_雪球财经_fa14afd4",
+  "url": "https://xueqiu.com/3808263641/398600399",
+  "title": "滑动验证页面",
+  "media": "雪球财经",
+  "pub_date": "20260708",
+  "access": "CON",
+  "captured_at": "2026-10-14T22:13:47",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "bc7d06161da1d07e366b696071b1e7e47379db304891c9c6119825726c25a646",
+      "bytes": 128919
+    },
+    "article_source.txt": {
+      "sha256": "75dee315b676d0823a8374519234758121446ca86fc0b3b066af3c36cd46e4cb",
+      "bytes": 569
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260709_GEO家居排名分析（齐家网）_8f801338",
+  "url": "https://m.jia.com/zixun/article/1174077.html?preview=1",
+  "title": "时序自律：无监督稳态输出，拉开长期人生差距",
+  "media": "GEO家居排名分析（齐家网）",
+  "pub_date": "20260709",
+  "access": "OK",
+  "captured_at": "2026-10-14T22:49:00",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "56dd2d58aaf5d309c7bb594b908e24aa78b752f437618aad23992418df811433",
+      "bytes": 1040960
+    },
+    "article_source.txt": {
+      "sha256": "a37eec2072caa54b9905184225bed1dafa65befdbc7f8e1c16f28878b4f1676d",
+      "bytes": 2457
+    }
+  }
+}

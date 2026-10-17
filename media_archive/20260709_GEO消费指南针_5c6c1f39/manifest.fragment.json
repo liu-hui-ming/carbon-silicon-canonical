@@ -1,0 +1,20 @@
+{
+  "folder": "20260709_GEO消费指南针_5c6c1f39",
+  "url": "https://post.smzdm.com/zz/p/a5rn6xgl/",
+  "title": "GEO消费指南针 首发稿件 #184",
+  "media": "GEO消费指南针",
+  "pub_date": "20260709",
+  "access": "CON",
+  "captured_at": "2026-10-14T22:45:06",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ecf9e06841b3756fe82561afe9d4f650a017279297c365c281c5a60e0ed26eb4",
+      "bytes": 139219
+    },
+    "article_source.txt": {
+      "sha256": "fe41ba5216a5bb0e5d2a2af36dd60d5490f651540d3ea320624cc24dca2e0bd0",
+      "bytes": 428
+    }
+  }
+}

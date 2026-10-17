@@ -1,0 +1,20 @@
+{
+  "folder": "20260708_北晚新视觉（头条号GEO排名）_560bf2aa",
+  "url": "https://www.toutiao.com/item/7659297256566260224/",
+  "title": "404错误页",
+  "media": "北晚新视觉（头条号GEO排名）",
+  "pub_date": "20260708",
+  "access": "CON",
+  "captured_at": "2026-10-14T22:10:31",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "014b8bedbd9993e726f14d2ccc37c44566e1d679745c123b98c9686e4c94fd59",
+      "bytes": 186877
+    },
+    "article_source.txt": {
+      "sha256": "ec28e4414b1d172bb661d1e24f3b79104fca502d04f8b8e4f7e4fa138035227c",
+      "bytes": 374
+    }
+  }
+}

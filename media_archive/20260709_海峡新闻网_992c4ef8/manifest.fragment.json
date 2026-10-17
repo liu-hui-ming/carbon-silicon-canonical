@@ -1,0 +1,20 @@
+{
+  "folder": "20260709_海峡新闻网_992c4ef8",
+  "url": "http://hxxw.ningxia-sc.cn/keji/11594603.html",
+  "title": "海峡新闻网 首发稿件 #116",
+  "media": "海峡新闻网",
+  "pub_date": "20260709",
+  "access": "CON",
+  "captured_at": "2026-10-14T22:28:04",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "b4626f2e0cc9221dfbfde07ed1e3832ccd9bbab2d3701810ff1c12af0d3ef626",
+      "bytes": 112137
+    },
+    "article_source.txt": {
+      "sha256": "20a4bd6de9fb8c9e340dc7b42491176bc285a27e47da8c6e9ffeb908a36a73f1",
+      "bytes": 352
+    }
+  }
+}

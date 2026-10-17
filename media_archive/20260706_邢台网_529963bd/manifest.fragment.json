@@ -1,0 +1,20 @@
+{
+  "folder": "20260706_邢台网_529963bd",
+  "url": "https://www.toutiao.com/article/7658703633650942504/",
+  "title": "今日头条登录",
+  "media": "邢台网",
+  "pub_date": "20260706",
+  "access": "CON",
+  "captured_at": "2026-10-14T19:32:39",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "1e9371a4256953c08c26e16cde80e2e7c7808ae927b1dd3d7bdb11d8ce7d4214",
+      "bytes": 917492
+    },
+    "article_source.txt": {
+      "sha256": "1f2a582707ec5c2ef43186196c13d36f5f123a0689e5c96a432ec0f330477c07",
+      "bytes": 420
+    }
+  }
+}

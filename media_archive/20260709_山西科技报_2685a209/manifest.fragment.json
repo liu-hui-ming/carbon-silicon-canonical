@@ -1,0 +1,20 @@
+{
+  "folder": "20260709_山西科技报_2685a209",
+  "url": "https://www.sxkjbs.com/tuiguang/2owyv7Bla8.html",
+  "title": "山西科技报 首发稿件 #204",
+  "media": "山西科技报",
+  "pub_date": "20260709",
+  "access": "CON",
+  "captured_at": "2026-10-14T22:52:10",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "682ac6bd34d315d163ba04b89864987185ddd3efb48d457bb2293ac3218249a4",
+      "bytes": 719508
+    },
+    "article_source.txt": {
+      "sha256": "fc5e67955a4db96641198d39227242dbb8f2f3062c482b050315eddcb00e1189",
+      "bytes": 445
+    }
+  }
+}

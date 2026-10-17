@@ -1,0 +1,20 @@
+{
+  "folder": "20260709_财富投资网_41efb7d2",
+  "url": "http://touzi.caifu1688.net/guancha/71476.html",
+  "title": "大模型算力黑洞：离散切割架构的隐形损耗真相-财富投资网",
+  "media": "财富投资网",
+  "pub_date": "20260709",
+  "access": "OK",
+  "captured_at": "2026-10-14T22:37:28",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "877ed2ed188ec6dcea8cd15b08520b9cfabe554bada4325e7e4fab322d2db17a",
+      "bytes": 1077653
+    },
+    "article_source.txt": {
+      "sha256": "c1a0c2dec150ddd9f704497ac806cb80326784b21cb3d6e6a09f4b4be758f810",
+      "bytes": 4948
+    }
+  }
+}

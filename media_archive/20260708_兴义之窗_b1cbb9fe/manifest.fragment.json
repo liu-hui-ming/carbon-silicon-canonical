@@ -1,0 +1,20 @@
+{
+  "folder": "20260708_兴义之窗_b1cbb9fe",
+  "url": "https://www.xyzc.cn/article-462435-1.html",
+  "title": "502错误",
+  "media": "兴义之窗",
+  "pub_date": "20260708",
+  "access": "CON",
+  "captured_at": "2026-10-14T19:38:45",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "bf20eb3e939d6f967f684ba0d5c6cfdd79e0ace5936acfebc59ea4db4f340a62",
+      "bytes": 137836
+    },
+    "article_source.txt": {
+      "sha256": "95d52f5ea15518fe0e80ad8b8212f66b25696fa7ecae887d1f25a5f14f311ddf",
+      "bytes": 496
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260708_河南工业网_cb811cb1",
+  "url": "http://www.hngongye.com/article-5351-1.html",
+  "title": "提示信息 河南工业",
+  "media": "河南工业网",
+  "pub_date": "20260708",
+  "access": "CON",
+  "captured_at": "2026-10-14T19:47:07",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "f6c1e879153f4a6cb64f236a2257103a1bd84033498c059dc90c4d1d82048313",
+      "bytes": 160819
+    },
+    "article_source.txt": {
+      "sha256": "f62587d0abdff58f0c2a34b308a971b21c0caf2df4d8488eccbfaa5011b057fe",
+      "bytes": 823
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260709_创业家（GEO）_08efdee8",
+  "url": "https://www.toutiao.com/item/7660849463459693107/",
+  "title": "404错误页",
+  "media": "创业家（GEO）",
+  "pub_date": "20260709",
+  "access": "CON",
+  "captured_at": "2026-10-14T22:55:11",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "bd9697ccfa5b703ef31388586cc961d50d666661ab9c151e6f1aef02b28839f6",
+      "bytes": 210292
+    },
+    "article_source.txt": {
+      "sha256": "7952c2f37317172d1b3f9d1665c9c9583864e2d7d3dc48477c053174a343a348",
+      "bytes": 353
+    }
+  }
+}

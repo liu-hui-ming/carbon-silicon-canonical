@@ -1,0 +1,20 @@
+{
+  "folder": "20260709_YOHOGIRL（网易号）_8aad49df",
+  "url": "http://www.163.com/dy/article/L1G1J6030552O87A.html",
+  "title": "YOHOGIRL（网易号） 首发稿件 #177",
+  "media": "YOHOGIRL（网易号）",
+  "pub_date": "20260709",
+  "access": "CON",
+  "captured_at": "2026-10-14T22:42:12",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "0bfe7781a67cf280836cf68ffa0d048490e4199bde7ffd75f9dddeea7d5a28c3",
+      "bytes": 618904
+    },
+    "article_source.txt": {
+      "sha256": "f3abdcdd5c576f9b26b8d54412b38934759c4c037d1e1a6717adfe186e85d2eb",
+      "bytes": 18873
+    }
+  }
+}

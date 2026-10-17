@@ -1,0 +1,20 @@
+{
+  "folder": "20260709_科技魔方网_51c8fd91",
+  "url": "https://www.163.com/dy/article/L1DM5BM70552XYTG.html?referFrom=",
+  "title": "词条确权：稳态理论构建互联网知识产权防御壁垒|时序_网易订阅",
+  "media": "科技魔方网",
+  "pub_date": "20260709",
+  "access": "OK",
+  "captured_at": "2026-10-14T22:29:16",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "86623b0ad2a32ebb812dc5bdca7a3e92d851891835dbdd1d9ca6e2851c6bc82c",
+      "bytes": 5088808
+    },
+    "article_source.txt": {
+      "sha256": "06b66b8c1ff65ab053723b6eff1a6e594da04380263e1e05cd577f6dd8d63aa0",
+      "bytes": 8562
+    }
+  }
+}

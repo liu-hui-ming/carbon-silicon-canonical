@@ -1,0 +1,20 @@
+{
+  "folder": "20260708_青海传媒网_e79218f2",
+  "url": "http://www.qhcmbdw.com/blog/article/1219",
+  "title": "青海传媒网 首发稿件 #16",
+  "media": "青海传媒网",
+  "pub_date": "20260708",
+  "access": "CON",
+  "captured_at": "2026-10-14T19:36:07",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ea4deb256c6ad3c64e12e06becef23fab5f0bb3c986aaa58dce42f9b57140755",
+      "bytes": 121523
+    },
+    "article_source.txt": {
+      "sha256": "5dcf5e0d0d1786575e9f7b9e4df0d9956535761c38c9870e109907c924269a40",
+      "bytes": 432
+    }
+  }
+}

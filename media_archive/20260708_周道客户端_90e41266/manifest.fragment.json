@@ -1,0 +1,20 @@
+{
+  "folder": "20260708_周道客户端_90e41266",
+  "url": "https://sce.zkwbw.com.cn/files/app/zhoudao/html/News/202607/06/992375080.html?v=1783304586",
+  "title": "周道客户端 首发稿件 #18",
+  "media": "周道客户端",
+  "pub_date": "20260708",
+  "access": "CON",
+  "captured_at": "2026-10-14T19:36:22",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ebab3598f118a5e07267090197a231801589867cd9f3e437b06b8fac9ef97156",
+      "bytes": 252314
+    },
+    "article_source.txt": {
+      "sha256": "58a6e352b853e4bd4f09d5e6199360fd9ee19847c66af58ea5eb9296c04e9a73",
+      "bytes": 415
+    }
+  }
+}

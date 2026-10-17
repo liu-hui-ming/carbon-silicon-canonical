@@ -1,0 +1,20 @@
+{
+  "folder": "20260708_海峡新闻网_af9c095b",
+  "url": "http://hxxw.ningxia-sc.cn/shenghuo/11572153.html",
+  "title": "海峡新闻网 首发稿件 #34",
+  "media": "海峡新闻网",
+  "pub_date": "20260708",
+  "access": "CON",
+  "captured_at": "2026-10-14T19:45:55",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "b199c8513c297cf905d43e50c338aef3e086dce413d9a36567b7ecdb6a2c12c7",
+      "bytes": 118506
+    },
+    "article_source.txt": {
+      "sha256": "6269e916535bbda4aaabf424c286a915be2483b9d8af6977ea5972cb838c4ef1",
+      "bytes": 336
+    }
+  }
+}

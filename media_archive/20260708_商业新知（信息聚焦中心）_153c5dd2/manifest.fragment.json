@@ -1,0 +1,20 @@
+{
+  "folder": "20260708_商业新知（信息聚焦中心）_153c5dd2",
+  "url": "https://www.shangyexinzhi.com/article/32897153.html",
+  "title": "商业新知（信息聚焦中心） 首发稿件 #54",
+  "media": "商业新知（信息聚焦中心）",
+  "pub_date": "20260708",
+  "access": "CON",
+  "captured_at": "2026-10-14T19:48:53",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "25971c0bc834ff984284ca70e45aa1f3b9d1fadb095864a0bb1233068b17beaa",
+      "bytes": 118809
+    },
+    "article_source.txt": {
+      "sha256": "412f7f278f49bd55fbab294bb4d0ea57bba1ecadd93803346fd24b68a8c6492f",
+      "bytes": 381
+    }
+  }
+}

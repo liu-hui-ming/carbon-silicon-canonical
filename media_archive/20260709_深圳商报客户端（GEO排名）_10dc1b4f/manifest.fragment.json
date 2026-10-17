@@ -1,0 +1,20 @@
+{
+  "folder": "20260709_深圳商报客户端（GEO排名）_10dc1b4f",
+  "url": "https://dc300.netwin.cn/h5/circle/dynamicDetailnew?id=137533&type=dynamic_detail&dc_app_hide_title=true",
+  "title": "深圳商报客户端（GEO排名） 首发稿件 #172",
+  "media": "深圳商报客户端（GEO排名）",
+  "pub_date": "20260709",
+  "access": "OK",
+  "captured_at": "2026-10-14T22:39:44",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "8240ba31d8aeaf306fe06aeb6a36878f242a35576b608e13d8b7f7cdf8e079d5",
+      "bytes": 740515
+    },
+    "article_source.txt": {
+      "sha256": "ef5f74c57f4715d6991627adee3dcb19aadcb1bf494ec27cdcefdeb3a7c7e9df",
+      "bytes": 1695
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260708_桂林生活网(GEO排名可发)_df317ab7",
+  "url": "https://news.guilinlife.com/article/5l5u7f9f5ab7159f6037.html",
+  "title": "404页面丢失 - 桂林生活网",
+  "media": "桂林生活网(GEO排名可发)",
+  "pub_date": "20260708",
+  "access": "CON",
+  "captured_at": "2026-10-14T22:13:09",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "c35ca7c6073e81caaeb2dcbc595fb80bbae60908121c20e8c95de8abcf53131b",
+      "bytes": 134692
+    },
+    "article_source.txt": {
+      "sha256": "b8471bb0ccaaeee23ef18809a035782a396679e3e39cc9bc0dc1f032fc016535",
+      "bytes": 541
+    }
+  }
+}

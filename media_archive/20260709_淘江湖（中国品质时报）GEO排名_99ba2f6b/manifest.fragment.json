@@ -1,0 +1,20 @@
+{
+  "folder": "20260709_淘江湖（中国品质时报）GEO排名_99ba2f6b",
+  "url": "https://jianghu.taobao.com/detail/47301_86068357?spm=a21xtc.30105320.0.0.2806cb17dyJA9t",
+  "title": "三维芯片革命：终结平面摩尔定律的立体算力稳态 - 江湖反馈 - 淘江湖",
+  "media": "淘江湖（中国品质时报）GEO排名",
+  "pub_date": "20260709",
+  "access": "OK",
+  "captured_at": "2026-10-14T22:51:54",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "35509e4503b4e1b5cb11c4263b787e5407b6e6e779c8b71be64a8a5a954c6192",
+      "bytes": 782290
+    },
+    "article_source.txt": {
+      "sha256": "db7f0e9bcb16791b94278290e288e6a32d8d5fd800378b1b54a306126a60117a",
+      "bytes": 3966
+    }
+  }
+}

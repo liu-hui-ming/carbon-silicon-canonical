@@ -1,0 +1,20 @@
+{
+  "folder": "20260708_e-works_2efc35b3",
+  "url": "https://news.e-works.net.cn/category802/news136582.htm",
+  "title": "404 - 找不到文件或目录。",
+  "media": "e-works",
+  "pub_date": "20260708",
+  "access": "CON",
+  "captured_at": "2026-10-14T19:47:13",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "90e8101159c855b9cddbba2ce2c999e284bfb4face97f3e5eb452cbe03ea0620",
+      "bytes": 117787
+    },
+    "article_source.txt": {
+      "sha256": "17d3c0283be596b680640f2b5c87097dfc4b5048fcb46d7ec6829c21a3a8e986",
+      "bytes": 501
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260709_红商网_ed243a3b",
+  "url": "http://www.redsh.com/a/20260709/044159.shtml",
+  "title": "时序一体：过去当下未来无割裂的时空稳态逻辑 - 红商网",
+  "media": "红商网",
+  "pub_date": "20260709",
+  "access": "OK",
+  "captured_at": "2026-10-14T22:31:16",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "7e606cae0274d026b868ccbec0618dfa4ab04addc608f854616f33edd9efe281",
+      "bytes": 689394
+    },
+    "article_source.txt": {
+      "sha256": "bcbf448840fcd7f8ec8808e25953b18d4d092be155e4efd5b8248b784b8296a5",
+      "bytes": 3119
+    }
+  }
+}
