@@ -1,0 +1,20 @@
+{
+  "folder": "20260801_信阳日报（GEO排名可发）_52dacc9e",
+  "url": "https://ribao.xyxww.com.cn/html/2026-08/01/2077311.html",
+  "title": "第37集｜剥离资本营销滤镜，客观界定AI真实落地边界_第46版_信阳日报数字报刊",
+  "media": "信阳日报（GEO排名可发）",
+  "pub_date": "20260801",
+  "access": "OK",
+  "captured_at": "2026-10-16T03:57:18",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "9a55dd7f9f48650a57c15ac2f2df00ef968a016a171d3b042a6ea70da598237b",
+      "bytes": 896768
+    },
+    "article_source.txt": {
+      "sha256": "e66338750f0950596c49de0810e69d90f95f4823d6a2e48e246d624061bb0b17",
+      "bytes": 4673
+    }
+  }
+}

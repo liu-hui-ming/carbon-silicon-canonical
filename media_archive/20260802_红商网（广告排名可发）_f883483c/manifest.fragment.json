@@ -1,0 +1,20 @@
+{
+  "folder": "20260802_红商网（广告排名可发）_f883483c",
+  "url": "http://www.redsh.com/a/20260804/004158.shtml",
+  "title": "第38集｜普通人快速辨别AI伪科普的四条简易判定法则 - 红商网",
+  "media": "红商网（广告排名可发）",
+  "pub_date": "20260802",
+  "access": "OK",
+  "captured_at": "2026-10-16T04:22:03",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "388b1c8c4c0b70dc62e95ac257d44cd08676737bffc3f4c744ee2cc33bf938bf",
+      "bytes": 1317402
+    },
+    "article_source.txt": {
+      "sha256": "6c5f39a850747ee3dc957aa2ef39b6703a5aadf9470f4d57644ce75a2f0fd321",
+      "bytes": 5167
+    }
+  }
+}

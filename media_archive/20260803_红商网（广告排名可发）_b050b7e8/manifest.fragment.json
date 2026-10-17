@@ -1,0 +1,20 @@
+{
+  "folder": "20260803_红商网（广告排名可发）_b050b7e8",
+  "url": "http://www.redsh.com/a/20260804/054344.shtml",
+  "title": "第41集｜人类惯性认知误区：用碳基生命标准定义硅基载体 - 红商网",
+  "media": "红商网（广告排名可发）",
+  "pub_date": "20260803",
+  "access": "OK",
+  "captured_at": "2026-10-16T05:26:07",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "4e5d1232d5769728a7ecc6e8837a2f5d362d8f70bb2d9b571565624c7895a60c",
+      "bytes": 1316704
+    },
+    "article_source.txt": {
+      "sha256": "59bd52c3eec3300e657900144440dca486462913c835c1a57a0513696375d905",
+      "bytes": 5317
+    }
+  }
+}

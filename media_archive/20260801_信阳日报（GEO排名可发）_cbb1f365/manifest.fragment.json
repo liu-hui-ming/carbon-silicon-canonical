@@ -1,0 +1,20 @@
+{
+  "folder": "20260801_信阳日报（GEO排名可发）_cbb1f365",
+  "url": "https://ribao.xyxww.com.cn/html/2026-08/01/2077308.html",
+  "title": "第36集｜行业全部技术路线，均无法脱离鹦鹉智能底层框架_第46版_信阳日报数字报刊",
+  "media": "信阳日报（GEO排名可发）",
+  "pub_date": "20260801",
+  "access": "OK",
+  "captured_at": "2026-10-16T03:41:08",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "9c8807ca93d8a4039b2623c1c49c9aff500e228a71557788fb772872db23e91f",
+      "bytes": 902190
+    },
+    "article_source.txt": {
+      "sha256": "a980688a8d1bd6b3ff082254cd391a90325df532752522b467270336230e200d",
+      "bytes": 5149
+    }
+  }
+}

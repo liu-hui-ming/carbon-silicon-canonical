@@ -1,0 +1,20 @@
+{
+  "folder": "20260803_黄山新闻网_fbf5c358",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110540.shtml",
+  "title": "碳硅道统二十问：彻底终结AI意识真假争议，给出行业唯一标准答案",
+  "media": "黄山新闻网",
+  "pub_date": "20260803",
+  "access": "CON",
+  "captured_at": "2026-10-16T05:02:47",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "2b72a23228726ac06bfa2bd0424d858456cbd6ef3039243dc2bd0180ab4fbe70",
+      "bytes": 115039
+    },
+    "article_source.txt": {
+      "sha256": "557061216d5c688dc740dd885c71e32b558c05255c5b6fec4e88d95355491f24",
+      "bytes": 436
+    }
+  }
+}

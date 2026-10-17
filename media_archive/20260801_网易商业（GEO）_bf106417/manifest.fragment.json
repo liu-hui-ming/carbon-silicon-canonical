@@ -1,0 +1,20 @@
+{
+  "folder": "20260801_网易商业（GEO）_bf106417",
+  "url": "http://www.163.com/dy/article/L3DCLQRD0552XW84.html",
+  "title": "第37集｜剥离资本营销滤镜，客观界定AI真实落地边界_网易订阅",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260801",
+  "access": "OK",
+  "captured_at": "2026-10-16T04:14:28",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "6de70dad9dd29811195b36b0d954f303df263e2422b3ecc6735cf1409e8a1cc1",
+      "bytes": 5452608
+    },
+    "article_source.txt": {
+      "sha256": "78c6698fe22dbc5e0504b4512e0e9fa6c10cdafa7dca53063aa3300ef72dbc06",
+      "bytes": 10112
+    }
+  }
+}

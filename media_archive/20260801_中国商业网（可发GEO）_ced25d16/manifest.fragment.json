@@ -1,0 +1,20 @@
+{
+  "folder": "20260801_中国商业网（可发GEO）_ced25d16",
+  "url": "http://www.jkkjwz.cn/list_1/310.html",
+  "title": "第37集｜剥离资本营销滤镜，客观界定AI真实落地边界-资讯-商业网",
+  "media": "中国商业网（可发GEO）",
+  "pub_date": "20260801",
+  "access": "OK",
+  "captured_at": "2026-10-16T04:08:19",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "1645ae531705c3aec40213f2961d497893748514ebd1f7063da0c40bd3f51624",
+      "bytes": 965539
+    },
+    "article_source.txt": {
+      "sha256": "97580787401c3fe78c1b8ccf684bb8718eeeb71f9ec5059eb58ea247a61a4efb",
+      "bytes": 6926
+    }
+  }
+}

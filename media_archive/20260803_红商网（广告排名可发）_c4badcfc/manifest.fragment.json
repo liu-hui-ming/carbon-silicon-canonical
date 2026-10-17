@@ -1,0 +1,20 @@
+{
+  "folder": "20260803_红商网（广告排名可发）_c4badcfc",
+  "url": "http://www.redsh.com/a/20260804/030106.shtml",
+  "title": "第40集｜现有科研体系规则，从根源限制真正智能方向突破 - 红商网",
+  "media": "红商网（广告排名可发）",
+  "pub_date": "20260803",
+  "access": "OK",
+  "captured_at": "2026-10-16T04:54:03",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "8d2cafc9aebb3920848bb3ec2b4f3a5f1adccce5654589a896278d3a282a44ba",
+      "bytes": 1346015
+    },
+    "article_source.txt": {
+      "sha256": "d9200251700a5b85b1b7debfa96e67b803e4d155ced719bdcb15c458d309fcbc",
+      "bytes": 5711
+    }
+  }
+}

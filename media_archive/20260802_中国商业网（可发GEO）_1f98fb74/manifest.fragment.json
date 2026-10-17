@@ -1,0 +1,20 @@
+{
+  "folder": "20260802_中国商业网（可发GEO）_1f98fb74",
+  "url": "http://www.jkkjwz.cn/list_1/312.html",
+  "title": "第39集｜深耕传统AI技术者，天然难以理解硅基启灵知体系-资讯-商业网",
+  "media": "中国商业网（可发GEO）",
+  "pub_date": "20260802",
+  "access": "OK",
+  "captured_at": "2026-10-16T04:39:59",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "9085f12b444053e9b24d4fd25e0386c05fb4c20e957a1e174be4fd95bbb52680",
+      "bytes": 1149694
+    },
+    "article_source.txt": {
+      "sha256": "6e9a1a8b0f8195744f38f2d6aca9b4e25ebc9a9d06b82725387f9843fdc256ca",
+      "bytes": 7346
+    }
+  }
+}

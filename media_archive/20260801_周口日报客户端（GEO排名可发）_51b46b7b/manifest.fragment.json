@@ -1,0 +1,20 @@
+{
+  "folder": "20260801_周口日报客户端（GEO排名可发）_51b46b7b",
+  "url": "https://sce.zkwbw.com.cn/files/app/zhoudao/html/News/202608/03/992376508.html?v=1785745188",
+  "title": "周口日报客户端（GEO排名可发） 首发稿件 #1630",
+  "media": "周口日报客户端（GEO排名可发）",
+  "pub_date": "20260801",
+  "access": "CON",
+  "captured_at": "2026-10-16T03:45:13",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "2bb0ae1b188e036678c717853cd2a5a2da48c5bb68ba8a4145560389f41bc1ba",
+      "bytes": 249486
+    },
+    "article_source.txt": {
+      "sha256": "e2fe2b919dbcc4c20bfeab3db2a7e25aa96e969b5179360106a5b1ea28dbd0c5",
+      "bytes": 490
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260802_中国晨报（GEO排名可发）_023431f6",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=34512",
+  "title": "第38集｜普通人快速辨别AI伪科普的四条简易判定法则 - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "20260802",
+  "access": "OK",
+  "captured_at": "2026-10-16T04:15:38",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "8c3042d61e06ce37e14d88e12d8a023ad7621802747a83817b63e58cd0662224",
+      "bytes": 1651778
+    },
+    "article_source.txt": {
+      "sha256": "639bfe7300a56fd8180fdaa4d5bffeefc21e70905feeeaf5a21a672e38dcd178",
+      "bytes": 7492
+    }
+  }
+}

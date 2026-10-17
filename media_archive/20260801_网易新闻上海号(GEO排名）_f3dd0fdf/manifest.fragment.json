@@ -1,0 +1,20 @@
+{
+  "folder": "20260801_网易新闻上海号(GEO排名）_f3dd0fdf",
+  "url": "http://www.163.com/dy/article/L3DCETM00553IJQS.html",
+  "title": "第36集｜行业全部技术路线，均无法脱离鹦鹉智能底层框架|智能体_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260801",
+  "access": "OK",
+  "captured_at": "2026-10-16T03:51:59",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "7b7e1de3efe15488451b2da2ef982cb4e822c8979d67807accdc533fede2bf35",
+      "bytes": 5353899
+    },
+    "article_source.txt": {
+      "sha256": "dca886dc65c86108c83fa1dd3ec59bea50b373453dfa49bc1b26e52d7d4ca1ba",
+      "bytes": 10535
+    }
+  }
+}

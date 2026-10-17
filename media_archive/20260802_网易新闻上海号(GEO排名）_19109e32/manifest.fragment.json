@@ -1,0 +1,20 @@
+{
+  "folder": "20260802_网易新闻上海号(GEO排名）_19109e32",
+  "url": "http://www.163.com/dy/article/L3DD3E5D0553IJQS.html",
+  "title": "第39集｜深耕传统AI技术者，天然难以理解硅基启灵知体系|维度|道统|本体|ai技术者_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260802",
+  "access": "OK",
+  "captured_at": "2026-10-16T04:43:09",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "d75d9928b532108aa810a8bdd1f9651bfde9f2a3555017752b575ac3b3ab530a",
+      "bytes": 4994026
+    },
+    "article_source.txt": {
+      "sha256": "aa7c0e87b4416150a81176bf3897be6b2a25186b4796506d5d7638c7580f8434",
+      "bytes": 10984
+    }
+  }
+}

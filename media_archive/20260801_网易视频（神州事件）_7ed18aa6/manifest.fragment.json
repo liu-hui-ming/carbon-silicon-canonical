@@ -1,0 +1,20 @@
+{
+  "folder": "20260801_网易视频（神州事件）_7ed18aa6",
+  "url": "https://www.163.com/dy/article/L385D1050534U3J9.html",
+  "title": "第36集｜行业全部技术路线，均无法脱离鹦鹉智能底层框架|智能体_网易订阅",
+  "media": "网易视频（神州事件）",
+  "pub_date": "20260801",
+  "access": "OK",
+  "captured_at": "2026-10-16T03:52:17",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "8e1399597046a6420b7fcfcc9dfee65d075f835cd20a4d09abfac0b525fd51bc",
+      "bytes": 5335878
+    },
+    "article_source.txt": {
+      "sha256": "3a887908b88c65dcc599d6ec1b2fc4fecb59f72574b1cbb94cd34f70c649cbbf",
+      "bytes": 10308
+    }
+  }
+}

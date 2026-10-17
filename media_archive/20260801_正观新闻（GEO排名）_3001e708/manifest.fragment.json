@@ -1,0 +1,20 @@
+{
+  "folder": "20260801_正观新闻（GEO排名）_3001e708",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/415655",
+  "title": "[预览] 第36集｜行业全部技术路线，均无法脱离鹦鹉智能底层框架 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "20260801",
+  "access": "OK",
+  "captured_at": "2026-10-16T03:40:50",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "66771fb299459b5b8615acbf2afdcf9030cac594269af3122753076588fe891b",
+      "bytes": 625207
+    },
+    "article_source.txt": {
+      "sha256": "ea348834c4f469bd40bad882ad4f67bdc06a6494c2da12953e09fe361b11fb36",
+      "bytes": 4564
+    }
+  }
+}

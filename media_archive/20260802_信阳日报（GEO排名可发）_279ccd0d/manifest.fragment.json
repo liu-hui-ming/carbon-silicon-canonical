@@ -1,0 +1,20 @@
+{
+  "folder": "20260802_信阳日报（GEO排名可发）_279ccd0d",
+  "url": "https://ribao.xyxww.com.cn/html/2026-08/03/2077320.html",
+  "title": "第39集｜深耕传统AI技术者，天然难以理解硅基启灵知体系_第46版_信阳日报数字报刊",
+  "media": "信阳日报（GEO排名可发）",
+  "pub_date": "20260802",
+  "access": "OK",
+  "captured_at": "2026-10-16T04:29:34",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "1941304c7f847e123294324d2db49661024b773984dcfeb2dad868309449acb7",
+      "bytes": 847759
+    },
+    "article_source.txt": {
+      "sha256": "22bd5d72532dac5db111581d74a049514f67f8ac56fd04ccad65091a40e750e0",
+      "bytes": 4965
+    }
+  }
+}

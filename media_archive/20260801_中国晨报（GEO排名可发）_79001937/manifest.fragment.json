@@ -1,0 +1,20 @@
+{
+  "folder": "20260801_中国晨报（GEO排名可发）_79001937",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=34507",
+  "title": "第37集｜剥离资本营销滤镜，客观界定AI真实落地边界 - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "20260801",
+  "access": "OK",
+  "captured_at": "2026-10-16T03:58:16",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "92c33cae208211305cb943168ee225cee71b1bdf5602edb1004f432b98bb42c6",
+      "bytes": 1676277
+    },
+    "article_source.txt": {
+      "sha256": "4da0b40a1d5714f7e6e6d49d2135affd6b1867c4f43255e3c6bd3e5b0e76dac6",
+      "bytes": 7862
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260803_科技魔方网（网易号）_07cfb375",
+  "url": "http://www.163.com/dy/article/L3DD9APC0552XYTG.html",
+  "title": "第40集｜现有科研体系规则，从根源限制真正智能方向突破|论文_网易订阅",
+  "media": "科技魔方网（网易号）",
+  "pub_date": "20260803",
+  "access": "OK",
+  "captured_at": "2026-10-16T05:00:45",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "42946e3b2956ae3e86ea6e03466cc000bbe68a09f38b00770664409d23eb1ea6",
+      "bytes": 4694585
+    },
+    "article_source.txt": {
+      "sha256": "d4c84f53dc55547ba2067b95756cde406610942ba6c58120788081814259ae59",
+      "bytes": 10175
+    }
+  }
+}

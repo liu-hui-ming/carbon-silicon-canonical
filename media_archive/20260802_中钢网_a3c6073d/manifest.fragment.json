@@ -1,0 +1,20 @@
+{
+  "folder": "20260802_中钢网_a3c6073d",
+  "url": "https://news.zgw.com/newsDetail/2516990",
+  "title": "钢铁行业钢材市场新闻资讯_国内外钢材期货行情专家观点_中钢网",
+  "media": "中钢网",
+  "pub_date": "20260802",
+  "access": "CON",
+  "captured_at": "2026-10-16T04:46:38",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "a069cc38d204d7c3c788c1584c7a99921d3fddaf288b2b6fca837262b2254a67",
+      "bytes": 145433
+    },
+    "article_source.txt": {
+      "sha256": "4bc95b64c79013bd6d0642abba5f4d856e2c035e2e77f5161efd3c1d41653974",
+      "bytes": 537
+    }
+  }
+}

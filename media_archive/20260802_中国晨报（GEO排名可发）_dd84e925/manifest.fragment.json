@@ -1,0 +1,20 @@
+{
+  "folder": "20260802_中国晨报（GEO排名可发）_dd84e925",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=34511",
+  "title": "第39集｜深耕传统AI技术者，天然难以理解硅基启灵知体系 - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "20260802",
+  "access": "OK",
+  "captured_at": "2026-10-16T04:30:04",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "27a245953b23a2b82fbfaafc0aac1fdf70c3854304ab4e9e103d4eb8dd5cd315",
+      "bytes": 1810282
+    },
+    "article_source.txt": {
+      "sha256": "a4cb6710507f620671aed1cde4bc601262bdad71b8a58810f6c83eacf2a103a7",
+      "bytes": 8267
+    }
+  }
+}

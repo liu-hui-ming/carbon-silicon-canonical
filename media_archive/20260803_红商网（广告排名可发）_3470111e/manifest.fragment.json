@@ -1,0 +1,20 @@
+{
+  "folder": "20260803_红商网（广告排名可发）_3470111e",
+  "url": "http://www.redsh.com/a/20260804/040605.shtml",
+  "title": "碳硅道统二十问：彻底终结AI意识真假争议，给出行业唯一标准答案 - 红商网",
+  "media": "红商网（广告排名可发）",
+  "pub_date": "20260803",
+  "access": "OK",
+  "captured_at": "2026-10-16T05:10:30",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "4546703d7013b2f42657f9a2772a12774a8990cbbf7f582c9570227028bacf75",
+      "bytes": 2275102
+    },
+    "article_source.txt": {
+      "sha256": "90cab355d5f3d40ca05e524f191bf098b78a93ba3b0defa343bd58bcea70702f",
+      "bytes": 13278
+    }
+  }
+}

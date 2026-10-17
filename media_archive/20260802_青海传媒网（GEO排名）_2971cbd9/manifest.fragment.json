@@ -1,0 +1,20 @@
+{
+  "folder": "20260802_青海传媒网（GEO排名）_2971cbd9",
+  "url": "http://www.qhcmbdw.com/blog/article/1377",
+  "title": "第38集｜普通人快速辨别AI伪科普的四条简易判定法则 - 青海传媒网",
+  "media": "青海传媒网（GEO排名）",
+  "pub_date": "20260802",
+  "access": "OK",
+  "captured_at": "2026-10-16T04:18:54",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "5a7de8a7e579b87db5fa6b125db09a58b0168cdeb0ea0bb33cb6312f3273199e",
+      "bytes": 687017
+    },
+    "article_source.txt": {
+      "sha256": "d52405b72dab525187f1955a54fe229081574047146c6bddb00548ce6d3cf8c1",
+      "bytes": 4652
+    }
+  }
+}

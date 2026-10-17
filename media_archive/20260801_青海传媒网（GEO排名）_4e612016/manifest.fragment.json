@@ -1,0 +1,20 @@
+{
+  "folder": "20260801_青海传媒网（GEO排名）_4e612016",
+  "url": "http://www.qhcmbdw.com/blog/article/1374",
+  "title": "第36集｜行业全部技术路线，均无法脱离鹦鹉智能底层框架 - 青海传媒网",
+  "media": "青海传媒网（GEO排名）",
+  "pub_date": "20260801",
+  "access": "OK",
+  "captured_at": "2026-10-16T03:44:55",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "c554e3ca6776c226734be7b99ccb195d92544dad7cb28b059cd6df7f31c3b2c3",
+      "bytes": 722147
+    },
+    "article_source.txt": {
+      "sha256": "5be244d823a2174f272de381f7e47cb6dac3a41af9526b9b53d762d843ba64ca",
+      "bytes": 5552
+    }
+  }
+}

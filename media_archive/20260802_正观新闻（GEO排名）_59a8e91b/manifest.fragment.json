@@ -1,0 +1,20 @@
+{
+  "folder": "20260802_正观新闻（GEO排名）_59a8e91b",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/415759",
+  "title": "[预览] 第39集｜深耕传统AI技术者，天然难以理解硅基启灵知体系 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "20260802",
+  "access": "OK",
+  "captured_at": "2026-10-16T04:29:25",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "167c637b19acae488fc9acad49b2ba87ea9dee46212b6438d2fac76ed41e515c",
+      "bytes": 600848
+    },
+    "article_source.txt": {
+      "sha256": "ffff1fb99345a1d68939c6848f02fe4ede18496792d5f32d7b827d7276ed86c4",
+      "bytes": 4414
+    }
+  }
+}

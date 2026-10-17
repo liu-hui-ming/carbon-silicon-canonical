@@ -1,0 +1,20 @@
+{
+  "folder": "20260803_顶端新闻（GEO可发排名）_7b8905da",
+  "url": "https://m.topnews.cn/news/145ED5E646BE4D79",
+  "title": "碳硅道统二十问：彻底终结AI意识真假争议，给出行业唯一标准答案",
+  "media": "顶端新闻（GEO可发排名）",
+  "pub_date": "20260803",
+  "access": "CON",
+  "captured_at": "2026-10-16T05:01:43",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "089b76b7fd4078bd774b478549aba1f7f3ccb0864d0420ae317bd568a1aadd51",
+      "bytes": 118203
+    },
+    "article_source.txt": {
+      "sha256": "b29528d5629057266371246aea0e5536a194c68e13cc7c9252e82a18b8f163ce",
+      "bytes": 598
+    }
+  }
+}

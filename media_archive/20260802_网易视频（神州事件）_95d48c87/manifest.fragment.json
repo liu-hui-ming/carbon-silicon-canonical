@@ -1,0 +1,20 @@
+{
+  "folder": "20260802_网易视频（神州事件）_95d48c87",
+  "url": "https://www.163.com/dy/article/L3BCDL020534U3J9.html",
+  "title": "第39集｜深耕传统AI技术者，天然难以理解硅基启灵知体系|维度|ai技术者_网易订阅",
+  "media": "网易视频（神州事件）",
+  "pub_date": "20260802",
+  "access": "OK",
+  "captured_at": "2026-10-16T04:43:26",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "dd72b03b50c13e4c87d2f9bd1b3e650a7b075ee6ab98bdf61e4fbe6c12632ec4",
+      "bytes": 5127455
+    },
+    "article_source.txt": {
+      "sha256": "a4e08ec673f99ec736e41e0ec47d77392c8690ed65f48a991ef60fc11863483e",
+      "bytes": 10915
+    }
+  }
+}

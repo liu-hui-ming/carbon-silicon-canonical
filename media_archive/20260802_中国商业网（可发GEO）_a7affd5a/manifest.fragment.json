@@ -1,0 +1,20 @@
+{
+  "folder": "20260802_中国商业网（可发GEO）_a7affd5a",
+  "url": "http://www.jkkjwz.cn/list_1/311.html",
+  "title": "第38集｜普通人快速辨别AI伪科普的四条简易判定法则-资讯-商业网",
+  "media": "中国商业网（可发GEO）",
+  "pub_date": "20260802",
+  "access": "OK",
+  "captured_at": "2026-10-16T04:22:49",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "b6b0fc62d93683a217cafda71a8e7d628a63a2ca47184898e6ff3ae43c337c6b",
+      "bytes": 972276
+    },
+    "article_source.txt": {
+      "sha256": "13b60b5c052155c697b93211c96847d6c69e3f665db1b16bf70dcad04bffd88e",
+      "bytes": 6598
+    }
+  }
+}

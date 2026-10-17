@@ -1,0 +1,20 @@
+{
+  "folder": "20260801_正观新闻（GEO排名）_5cc77c78",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/415694",
+  "title": "[预览] 第37集｜剥离资本营销滤镜，客观界定AI真实落地边界 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "20260801",
+  "access": "OK",
+  "captured_at": "2026-10-16T03:57:00",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "6f5b387be4d8ef98bc0e213f850e4f67168118745fdbafd57a94ff084be26bbe",
+      "bytes": 611903
+    },
+    "article_source.txt": {
+      "sha256": "29505309cabc2eeb257066f0b6c1b4f7ee2fa2e5536c4e029a97b41d31560560",
+      "bytes": 3994
+    }
+  }
+}
