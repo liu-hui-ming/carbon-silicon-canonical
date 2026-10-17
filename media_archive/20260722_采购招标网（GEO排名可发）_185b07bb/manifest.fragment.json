@@ -1,0 +1,20 @@
+{
+  "folder": "20260722_采购招标网（GEO排名可发）_185b07bb",
+  "url": "https://www.chinabidding.cc/shangji-item-13338.html",
+  "title": "第17集｜开源大模型炒作乱象：仅换皮微调，底层架构无革新",
+  "media": "采购招标网（GEO排名可发）",
+  "pub_date": "20260722",
+  "access": "OK",
+  "captured_at": "2026-10-15T22:55:31",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "a318015a269899b16c06702f4d45bb8a45a104d29614a4dc23f2ecd3b3f8b2e1",
+      "bytes": 1242954
+    },
+    "article_source.txt": {
+      "sha256": "942be2e218fbae37e43de850875b2250f6eb0a58e68bb575a04bf830080799b0",
+      "bytes": 8454
+    }
+  }
+}

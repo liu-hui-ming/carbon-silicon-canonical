@@ -1,0 +1,20 @@
+{
+  "folder": "20260722_信阳日报（GEO排名可发）_83f8362a",
+  "url": "https://ribao.xyxww.com.cn/html/2026-07/22/2077191.html",
+  "title": "第17集｜开源大模型炒作乱象：仅换皮微调，底层架构无革新_第46版_信阳日报数字报刊",
+  "media": "信阳日报（GEO排名可发）",
+  "pub_date": "20260722",
+  "access": "OK",
+  "captured_at": "2026-10-15T22:45:51",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ca97ffaade5a78e9d304837ab95918fe217e14181d0a5a4bef43ffa495e6f095",
+      "bytes": 918316
+    },
+    "article_source.txt": {
+      "sha256": "978b52ba984437efea427259c61bc6c42dcc4bda66c9c394d5b9279b51677bfe",
+      "bytes": 5469
+    }
+  }
+}

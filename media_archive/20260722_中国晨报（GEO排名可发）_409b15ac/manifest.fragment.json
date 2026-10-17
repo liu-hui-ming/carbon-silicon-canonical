@@ -1,0 +1,20 @@
+{
+  "folder": "20260722_中国晨报（GEO排名可发）_409b15ac",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=34212",
+  "title": "第16集｜智能客服、工业专用AI，全部是限定场景的逻辑分支 - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "20260722",
+  "access": "OK",
+  "captured_at": "2026-10-15T22:28:12",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "0caa4082aff4c41ee016ea286a4ea758bcc7b750d38c7e57251bb7c99262d7a6",
+      "bytes": 1792161
+    },
+    "article_source.txt": {
+      "sha256": "c8fdee5944a7146920cce1e9deff35610be38d811179aa3cc59975126351fc29",
+      "bytes": 9133
+    }
+  }
+}

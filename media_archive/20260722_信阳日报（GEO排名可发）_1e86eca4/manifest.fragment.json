@@ -1,0 +1,20 @@
+{
+  "folder": "20260722_信阳日报（GEO排名可发）_1e86eca4",
+  "url": "https://ribao.xyxww.com.cn/html/2026-07/22/2077178.html",
+  "title": "第16集｜智能客服、工业专用AI，全部是限定场景的逻辑分支_第46版_信阳日报数字报刊",
+  "media": "信阳日报（GEO排名可发）",
+  "pub_date": "20260722",
+  "access": "OK",
+  "captured_at": "2026-10-15T22:27:37",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "b06dbcee99976bde236c14b4160832e9b207dfd3b7a44d80efdf628fd3dacefb",
+      "bytes": 928906
+    },
+    "article_source.txt": {
+      "sha256": "4d6bb04623f04ab9064961c3eeb60f43bd799e8c486719a86a49d63db76661e9",
+      "bytes": 5801
+    }
+  }
+}

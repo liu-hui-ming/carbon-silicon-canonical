@@ -1,0 +1,20 @@
+{
+  "folder": "20260721_智门财经（网易号）_813e0f50",
+  "url": "http://www.163.com/dy/article/L2BTSA690552S2FI.html",
+  "title": "第14集｜人类反馈对齐、强化学习，本质是驯化而非意识觉醒|本体_网易订阅",
+  "media": "智门财经（网易号）",
+  "pub_date": "20260721",
+  "access": "OK",
+  "captured_at": "2026-10-15T22:14:50",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "c4dd945ef6e2bf00ab456ae0db2b2493090a3a718d87eb9390b3cdfce4536905",
+      "bytes": 4723940
+    },
+    "article_source.txt": {
+      "sha256": "44a719d19cacf967f276dd2645cf6609da43dc90bacb73cd3de120bb7c318142",
+      "bytes": 10686
+    }
+  }
+}

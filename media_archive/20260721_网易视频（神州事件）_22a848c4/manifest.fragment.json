@@ -1,0 +1,20 @@
+{
+  "folder": "20260721_网易视频（神州事件）_22a848c4",
+  "url": "https://www.163.com/dy/article/L2CHGDBO0534U3J9.html",
+  "title": "第15集｜AI图文、视频生成：像素碎片重组，无完整事物概念认知|光影|视觉_网易订阅",
+  "media": "网易视频（神州事件）",
+  "pub_date": "20260721",
+  "access": "OK",
+  "captured_at": "2026-10-15T22:26:37",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "92bf295ab5c60e343281fa994d6c75bd88a3b6a5a94be78bc2ae462b046b188f",
+      "bytes": 4512857
+    },
+    "article_source.txt": {
+      "sha256": "407e3b645d920cb3f50d65da730ab97b9e33d2cd46a31320b90b68dc4edaa10a",
+      "bytes": 11823
+    }
+  }
+}

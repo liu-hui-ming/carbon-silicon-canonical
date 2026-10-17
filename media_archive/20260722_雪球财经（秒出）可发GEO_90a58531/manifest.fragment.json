@@ -1,0 +1,20 @@
+{
+  "folder": "20260722_雪球财经（秒出）可发GEO_90a58531",
+  "url": "https://xueqiu.com/3808263641/401631300",
+  "title": "滑动验证页面",
+  "media": "雪球财经（秒出）可发GEO",
+  "pub_date": "20260722",
+  "access": "CON",
+  "captured_at": "2026-10-15T22:56:40",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "422fd381a9c7a834eff2d319c78210483a7ee64f4a3bd585a2dc745b5d817c1f",
+      "bytes": 131871
+    },
+    "article_source.txt": {
+      "sha256": "bbbae2db2a649e9acf4f08c4bef1164a064ed088d5cd48777025c693eba57b0b",
+      "bytes": 590
+    }
+  }
+}

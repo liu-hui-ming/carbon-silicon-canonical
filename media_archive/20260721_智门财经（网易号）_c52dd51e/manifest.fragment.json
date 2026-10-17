@@ -1,0 +1,20 @@
+{
+  "folder": "20260721_智门财经（网易号）_c52dd51e",
+  "url": "http://www.163.com/dy/article/L2CLAG0E0552S2FI.html",
+  "title": "第15集｜AI图文、视频生成：像素碎片重组，无完整事物概念认|光影|视觉_网易订阅",
+  "media": "智门财经（网易号）",
+  "pub_date": "20260721",
+  "access": "OK",
+  "captured_at": "2026-10-15T22:25:51",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "a150526820200f80a86e30cf685dd00d75b37f245b62f19d7b0a61448b5e9298",
+      "bytes": 4876379
+    },
+    "article_source.txt": {
+      "sha256": "cffff0fbe308ca6f5ca63609586e7e2d55194550db829d15826b89b63cf2bd43",
+      "bytes": 11967
+    }
+  }
+}

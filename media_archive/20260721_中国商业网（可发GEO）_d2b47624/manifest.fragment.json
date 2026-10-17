@@ -1,0 +1,20 @@
+{
+  "folder": "20260721_中国商业网（可发GEO）_d2b47624",
+  "url": "http://www.jkkjwz.cn/list_1/282.html",
+  "title": "第14集｜人类反馈对齐、强化学习，本质是驯化而非意识觉醒-资讯-商业网",
+  "media": "中国商业网（可发GEO）",
+  "pub_date": "20260721",
+  "access": "OK",
+  "captured_at": "2026-10-15T22:12:04",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "26b9da0c95d8f844726a3c079f344aee343f4e59d413bf8eae8257c90f97b041",
+      "bytes": 1006721
+    },
+    "article_source.txt": {
+      "sha256": "5ebbe03ebadeb4a7928e3c2b0945fd5d36fd6e4a0514ee007a0e586f03233d8b",
+      "bytes": 7562
+    }
+  }
+}

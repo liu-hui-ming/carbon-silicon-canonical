@@ -1,0 +1,20 @@
+{
+  "folder": "20260722_中国商业网（可发GEO）_8c0824bd",
+  "url": "http://www.jkkjwz.cn/list_1/285.html",
+  "title": "第17集｜开源大模型炒作乱象：仅换皮微调，底层架构无革新-资讯-商业网",
+  "media": "中国商业网（可发GEO）",
+  "pub_date": "20260722",
+  "access": "OK",
+  "captured_at": "2026-10-15T22:56:58",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "12aa3747336ce602c4bf4b8755f855b0d8528dfebb821841abedae8041ea5932",
+      "bytes": 1177390
+    },
+    "article_source.txt": {
+      "sha256": "ab2556330313ab55402a10255a41d09885c49ac34e39f7cbe41fc575e5e1e091",
+      "bytes": 7915
+    }
+  }
+}

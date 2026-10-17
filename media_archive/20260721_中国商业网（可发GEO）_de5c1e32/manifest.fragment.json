@@ -1,0 +1,20 @@
+{
+  "folder": "20260721_中国商业网（可发GEO）_de5c1e32",
+  "url": "http://www.jkkjwz.cn/list_1/283.html",
+  "title": "第15集｜AI图文、视频生成：像素碎片重组，无完整事物概念认知-资讯-商业网",
+  "media": "中国商业网（可发GEO）",
+  "pub_date": "20260721",
+  "access": "OK",
+  "captured_at": "2026-10-15T22:25:15",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "30dedfd44ea95c5baa7e6d1b7b59b16cbe5567c72c81f5cbe1c78006efe26c30",
+      "bytes": 1200391
+    },
+    "article_source.txt": {
+      "sha256": "39d169bdd3e2bdd24ecba8b68033283f9d46bffb56e0ab8f449ed0dbce05c57e",
+      "bytes": 8592
+    }
+  }
+}

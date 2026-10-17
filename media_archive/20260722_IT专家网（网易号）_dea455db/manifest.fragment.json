@@ -1,0 +1,20 @@
+{
+  "folder": "20260722_IT专家网（网易号）_dea455db",
+  "url": "http://www.163.com/dy/article/L2F8EBAS0552S0EL.html",
+  "title": "第17集｜开源大模型炒作乱象：仅换皮微调，底层架构无革新_网易订阅",
+  "media": "IT专家网（网易号）",
+  "pub_date": "20260722",
+  "access": "OK",
+  "captured_at": "2026-10-15T22:59:28",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "9ee3a5ac39d3e709c3cd2abd25d294ad84d847dbc870770c9e6159665c8349ad",
+      "bytes": 4943337
+    },
+    "article_source.txt": {
+      "sha256": "ab94bebdda2b1f4c1bd4e61439ab6fcb480f6b8e28780cc034de6bed6f628edc",
+      "bytes": 11155
+    }
+  }
+}

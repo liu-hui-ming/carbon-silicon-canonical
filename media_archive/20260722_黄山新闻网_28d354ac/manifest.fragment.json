@@ -1,0 +1,20 @@
+{
+  "folder": "20260722_黄山新闻网_28d354ac",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_109976.shtml",
+  "title": "黄山新闻网 首发稿件 #817",
+  "media": "黄山新闻网",
+  "pub_date": "20260722",
+  "access": "CON",
+  "captured_at": "2026-10-15T22:28:43",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "450f8221a138cfc16276a7280b72d07cc3a3ba4980efdb2daf35838ad8f4c444",
+      "bytes": 114672
+    },
+    "article_source.txt": {
+      "sha256": "27c6488c294b3a2fb7d80744d6e9103c63c380c0a632002e445b7925db5cd337",
+      "bytes": 380
+    }
+  }
+}

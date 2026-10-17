@@ -1,0 +1,20 @@
+{
+  "folder": "20260722_网易新闻上海号(GEO排名）_60bb33c1",
+  "url": "http://www.163.com/dy/article/L2F8FAI90553IJQS.html",
+  "title": "第17集｜开源大模型炒作乱象：仅换皮微调，底层架构无革新_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260722",
+  "access": "OK",
+  "captured_at": "2026-10-15T23:00:03",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "b9cd79cf2e917b68174430b3d606d8f23e521bf5c22dc8316cfea304b13196de",
+      "bytes": 4837401
+    },
+    "article_source.txt": {
+      "sha256": "ffae01551c120281deb3b15397f6120b2b13c1c076df252e452af002a900ca62",
+      "bytes": 11498
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260721_正观新闻（GEO排名）_f80439ed",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/413693",
+  "title": "[预览] 第14集｜人类反馈对齐、强化学习，本质是驯化而非意识觉醒 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "20260721",
+  "access": "OK",
+  "captured_at": "2026-10-15T22:03:28",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ea8b79b557f6b462b5e2147e2fc7b02fa37dcc7c05d195dfc4f413dec1cd950a",
+      "bytes": 616583
+    },
+    "article_source.txt": {
+      "sha256": "ddc374114481cf19964c6266a4a85ba40a70758e5e1e7a09eda02dd541ebcda7",
+      "bytes": 4615
+    }
+  }
+}

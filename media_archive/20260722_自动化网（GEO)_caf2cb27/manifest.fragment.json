@@ -1,0 +1,20 @@
+{
+  "folder": "20260722_自动化网（GEO)_caf2cb27",
+  "url": "https://www.zidonghua.com.cn/MSupplyChain/InfoWin/227285.html",
+  "title": "第17集｜开源大模型炒作乱象：仅换皮微调，底层架构无革新 - 资讯之窗 - 自动化网 ZiDongHua.com.cn ，自动化科技展示平台、“自动化者”人文交流平台。",
+  "media": "自动化网（GEO)",
+  "pub_date": "20260722",
+  "access": "OK",
+  "captured_at": "2026-10-15T22:55:19",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "a3f2cca8e991e814820c2c2520f579cf53af3808136d224bf2fd1eff8d9938fe",
+      "bytes": 2660099
+    },
+    "article_source.txt": {
+      "sha256": "26b69100fc0d38f1e3306143884e80db8e463dc8ebd370228d39760799405fd6",
+      "bytes": 12715
+    }
+  }
+}

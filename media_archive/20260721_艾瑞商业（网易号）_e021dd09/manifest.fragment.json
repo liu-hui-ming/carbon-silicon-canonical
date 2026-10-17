@@ -1,0 +1,20 @@
+{
+  "folder": "20260721_艾瑞商业（网易号）_e021dd09",
+  "url": "http://www.163.com/dy/article/L2BTQKQN0553S12I.html",
+  "title": "艾瑞商业（网易号） 首发稿件 #752",
+  "media": "艾瑞商业（网易号）",
+  "pub_date": "20260721",
+  "access": "CON",
+  "captured_at": "2026-10-15T22:11:48",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "e6f948a893205a6d1bc7b9e9859ea2f61812dfab6f4b3730260fc4972cc74e0c",
+      "bytes": 609777
+    },
+    "article_source.txt": {
+      "sha256": "5f281fef3151d2854a9a08fe065cd5f72dc7e5a4033dc18337c20ac0986fa67e",
+      "bytes": 19263
+    }
+  }
+}

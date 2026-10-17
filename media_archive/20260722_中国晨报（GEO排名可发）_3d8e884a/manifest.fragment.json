@@ -1,0 +1,20 @@
+{
+  "folder": "20260722_中国晨报（GEO排名可发）_3d8e884a",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=34227",
+  "title": "第17集｜开源大模型炒作乱象：仅换皮微调，底层架构无革新 - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "20260722",
+  "access": "OK",
+  "captured_at": "2026-10-15T22:46:45",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "72a8b0b45be7af3c931de7d2c007d91db6e7618eb92df376ab1f91d5a500bf5e",
+      "bytes": 1820735
+    },
+    "article_source.txt": {
+      "sha256": "9e596dc6e999cd7dc4cab4996090d1e78011f0abe5d1e40364d06111c26246b2",
+      "bytes": 8877
+    }
+  }
+}

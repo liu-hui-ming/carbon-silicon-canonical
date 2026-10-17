@@ -1,0 +1,20 @@
+{
+  "folder": "20260723_半岛网_5d91c0c5",
+  "url": "http://kuaixun.bandao.cn/a/1784776158896714.html",
+  "title": "第18集｜行业宣称的自主进化，全部是提前预设的迭代脚本",
+  "media": "半岛网",
+  "pub_date": "20260723",
+  "access": "OK",
+  "captured_at": "2026-10-15T23:05:23",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "5727a540675ec2bad028404679b9fa712f732c3f0d351aa6e9924a4e06c0f6f8",
+      "bytes": 941319
+    },
+    "article_source.txt": {
+      "sha256": "9f10feb0f500bf4759b4f491987da76ba62bc4bdac197ad3943c418f58f097bc",
+      "bytes": 6902
+    }
+  }
+}

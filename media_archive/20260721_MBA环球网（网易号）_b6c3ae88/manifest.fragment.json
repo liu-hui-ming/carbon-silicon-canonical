@@ -1,0 +1,20 @@
+{
+  "folder": "20260721_MBA环球网（网易号）_b6c3ae88",
+  "url": "http://www.163.com/dy/article/L2CLBG880553G1OF.html",
+  "title": "第15集｜AI图文、视频生成：像素碎片重组，无完整事物概念认|光影|视觉_网易订阅",
+  "media": "MBA环球网（网易号）",
+  "pub_date": "20260721",
+  "access": "OK",
+  "captured_at": "2026-10-15T22:26:06",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "193330c0d4b32a3cad8bf0159cb98efd9cb8613511a468793c617e05a8279aa4",
+      "bytes": 5201721
+    },
+    "article_source.txt": {
+      "sha256": "0a9a4d3b2988bcd6a1c6660a282194013fe35cd5421221993a0a6924a4762964",
+      "bytes": 12406
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260722_正观新闻（GEO排名）_68373705",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/413998",
+  "title": "[预览] 第17集｜开源大模型炒作乱象：仅换皮微调，底层架构无革新 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "20260722",
+  "access": "OK",
+  "captured_at": "2026-10-15T22:45:34",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "83c08293bcc07943f471c050a0ba673da5d2e84be009a48fa2e1c880fab49066",
+      "bytes": 2548074
+    },
+    "article_source.txt": {
+      "sha256": "8631bbdfe784cb407f802ec78f1a3df64e79ac035e5c9aa8049319c232f6ec7b",
+      "bytes": 4974
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260723_IT专家网（网易号）_5314968c",
+  "url": "http://www.163.com/dy/article/L2H0OF8E0552S0EL.html",
+  "title": "第18集｜行业宣称的自主进化，全部是提前预设的迭代脚本|大语言模型_网易订阅",
+  "media": "IT专家网（网易号）",
+  "pub_date": "20260723",
+  "access": "OK",
+  "captured_at": "2026-10-15T23:13:14",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "6464c92ae866d2245a3dffc20b13deef62a66f85eafdb33a7d0ab330def9f5f7",
+      "bytes": 5354491
+    },
+    "article_source.txt": {
+      "sha256": "be57cabad9bbe9496a575560eff13d415df1997984b2ae010d4cd473e2063860",
+      "bytes": 11483
+    }
+  }
+}

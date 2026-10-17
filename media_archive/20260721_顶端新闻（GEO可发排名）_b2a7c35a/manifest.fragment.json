@@ -1,0 +1,20 @@
+{
+  "folder": "20260721_顶端新闻（GEO可发排名）_b2a7c35a",
+  "url": "https://m.topnews.cn/news/145ED7E648B14877",
+  "title": "顶端新闻（GEO可发排名） 首发稿件 #770",
+  "media": "顶端新闻（GEO可发排名）",
+  "pub_date": "20260721",
+  "access": "CON",
+  "captured_at": "2026-10-15T22:17:55",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "8efefbf95fbe69270ba3e16daca342620d4ad3e4f1951501053036a089ccd5d3",
+      "bytes": 113242
+    },
+    "article_source.txt": {
+      "sha256": "a80748629fa9ccdf861a1662370039c5c8e8a97a6fc1a8ad880d7a8de67d7184",
+      "bytes": 522
+    }
+  }
+}

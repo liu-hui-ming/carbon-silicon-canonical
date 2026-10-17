@@ -1,0 +1,20 @@
+{
+  "folder": "20260722_红商网（广告排名可发）_450dea48",
+  "url": "http://www.redsh.com/a/20260722/221206.shtml",
+  "title": "第16集｜智能客服、工业专用AI，全部是限定场景的逻辑分支 - 红商网",
+  "media": "红商网（广告排名可发）",
+  "pub_date": "20260722",
+  "access": "OK",
+  "captured_at": "2026-10-15T22:34:42",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "e45f5c699a2e2d687fe6725a90695047f5c2495765aed3aeda49f191b8ed58ba",
+      "bytes": 15072401
+    },
+    "article_source.txt": {
+      "sha256": "24f3a92dc00e7df7864af7670d60c7097b0457a2bbf3ac0360512da01f235e31",
+      "bytes": 6765
+    }
+  }
+}

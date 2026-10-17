@@ -1,0 +1,20 @@
+{
+  "folder": "20260721_中国晨报（GEO排名可发）_5dcd4502",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=34200",
+  "title": "第15集｜AI图文、视频生成：像素碎片重组，无完整事物概念认知 - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "20260721",
+  "access": "OK",
+  "captured_at": "2026-10-15T22:18:41",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "6cde437a856524b820325a65ef7bce1f427a38660fccf817dd6563a7ba1a6a94",
+      "bytes": 1738914
+    },
+    "article_source.txt": {
+      "sha256": "e8e5342b6b3411d4ffe7c281ce1d68665cbf01749502ff8232c7671faa98008f",
+      "bytes": 9576
+    }
+  }
+}

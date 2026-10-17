@@ -1,0 +1,20 @@
+{
+  "folder": "20260722_MBA环球网（网易号）_0c0d2e93",
+  "url": "http://www.163.com/dy/article/L2F8FRQR0552O87A.html",
+  "title": "MBA环球网（网易号） 首发稿件 #887",
+  "media": "MBA环球网（网易号）",
+  "pub_date": "20260722",
+  "access": "CON",
+  "captured_at": "2026-10-15T22:59:59",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "d2782d3e397097099cb0ad64d7308373f00e842e51865d336062130e0bcb3890",
+      "bytes": 612184
+    },
+    "article_source.txt": {
+      "sha256": "2d3e7e28afcb2cb3dc284e6796944570dd9161d95d46ca53530d5ac856ebd683",
+      "bytes": 18629
+    }
+  }
+}

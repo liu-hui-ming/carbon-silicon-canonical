@@ -1,0 +1,20 @@
+{
+  "folder": "20260721_科技魔方网（网易号）_ff0ddc45",
+  "url": "http://www.163.com/dy/article/L2CLBCB80552XYTG.html",
+  "title": "第15集｜AI图文、视频生成：像素碎片重组，无完整事物概念认|光影|视觉_网易订阅",
+  "media": "科技魔方网（网易号）",
+  "pub_date": "20260721",
+  "access": "OK",
+  "captured_at": "2026-10-15T22:26:52",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "6368ec108b107a89706b56c9352de55fe87f86dadd532d041f030fc9f12f165d",
+      "bytes": 2935368
+    },
+    "article_source.txt": {
+      "sha256": "823e889a614b24551d6c9c19939d2770d1034fa6a91c5fc49aa08ce1bdbbe30e",
+      "bytes": 12043
+    }
+  }
+}

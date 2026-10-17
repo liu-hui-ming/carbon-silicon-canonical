@@ -1,0 +1,20 @@
+{
+  "folder": "20260722_正观新闻（GEO排名）_cddca27a",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/413927",
+  "title": "[预览] 第16集｜智能客服、工业专用AI，全部是限定场景的逻辑分支 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "20260722",
+  "access": "OK",
+  "captured_at": "2026-10-15T22:27:20",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "5b2a790ecd51f428e6a536051f31e0cfb86a8b457bd033d2eb8e64518d978ed9",
+      "bytes": 621517
+    },
+    "article_source.txt": {
+      "sha256": "b2a845eefd3385dbd44f39c3bfdf0776f2dea1990bcc355b73923830e39a6d02",
+      "bytes": 5263
+    }
+  }
+}

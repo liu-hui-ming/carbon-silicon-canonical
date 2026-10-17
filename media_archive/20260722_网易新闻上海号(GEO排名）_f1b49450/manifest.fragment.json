@@ -1,0 +1,20 @@
+{
+  "folder": "20260722_网易新闻上海号(GEO排名）_f1b49450",
+  "url": "http://www.163.com/dy/article/L2ER6UFA0553IJQS.html",
+  "title": "第16集｜智能客服、工业专用AI，全部是限定场景的逻辑分支|通用|知识库|神经网络_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260722",
+  "access": "OK",
+  "captured_at": "2026-10-15T22:44:31",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ede808fb8de6e1bb1106ee302d828b6ec7051a841f6046297561b5e12c745665",
+      "bytes": 4643413
+    },
+    "article_source.txt": {
+      "sha256": "e2c4b12cd3dc48f9bca38f6b4778292bf45bc12af313fe693c982cb9503fb050",
+      "bytes": 11721
+    }
+  }
+}

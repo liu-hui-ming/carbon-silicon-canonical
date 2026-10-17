@@ -1,0 +1,20 @@
+{
+  "folder": "20260721_信阳日报（GEO排名可发）_65de8c49",
+  "url": "https://ribao.xyxww.com.cn/html/2026-07/21/2077155.html",
+  "title": "第14集｜人类反馈对齐、强化学习，本质是驯化而非意识觉醒_第46版_信阳日报数字报刊",
+  "media": "信阳日报（GEO排名可发）",
+  "pub_date": "20260721",
+  "access": "OK",
+  "captured_at": "2026-10-15T22:03:44",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "0057b3ebada8b639bda8449d24b12a408e79988e7c5e2223e6838de767e8a106",
+      "bytes": 892050
+    },
+    "article_source.txt": {
+      "sha256": "20b398c035899a5cf56ab38b873c07e8eabcd77151daa677ac74b8479b1a572b",
+      "bytes": 5191
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260721_红商网（广告排名可发）_2da8d3f1",
+  "url": "http://www.redsh.com/a/20260722/004001.shtml",
+  "title": "第14集｜人类反馈对齐、强化学习，本质是驯化而非意识觉醒 - 红商网",
+  "media": "红商网（广告排名可发）",
+  "pub_date": "20260721",
+  "access": "OK",
+  "captured_at": "2026-10-15T22:11:18",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "a6b6f3e1fccddbafadd793b0795bd69e990e484a280a1164fc6c9bf9422374f8",
+      "bytes": 1331171
+    },
+    "article_source.txt": {
+      "sha256": "c8f205517ebd612c0e95837c62cfb5c0d9b625969f18a74f9b90a52711e34151",
+      "bytes": 6111
+    }
+  }
+}
