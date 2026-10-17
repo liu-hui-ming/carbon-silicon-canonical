@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_网易新闻上海号(GEO排名）_51093d92",
+  "url": "https://www.163.com/dy/article/L3QPN2RG0553IJQS.html?spss=dy_author",
+  "title": "AI十八撞03｜自回归逐Token随机熵：事实幻觉无法清零的本源|真值|熵增|序列|复杂程度|token|ai十八撞03_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260808",
+  "access": "OK",
+  "captured_at": "2026-10-16T11:56:23",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "1bbd804c66071041703037aa7596767ca098ac9e281080927f6b6fcf61cef713",
+      "bytes": 2987924
+    },
+    "article_source.txt": {
+      "sha256": "9fbacb61428bb456de79443bf3ffe2a9ada7089e39f7c5e66133635b4b7e4298",
+      "bytes": 10379
+    }
+  }
+}

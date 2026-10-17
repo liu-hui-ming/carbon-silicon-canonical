@@ -1,0 +1,20 @@
+{
+  "folder": "20260809_黄山新闻网_dc9c691e",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110841.shtml",
+  "title": "AI十八障05｜无监督训练脱离人类反馈完成自主进化：AI认知的根本谬误",
+  "media": "黄山新闻网",
+  "pub_date": "20260809",
+  "access": "CON",
+  "captured_at": "2026-10-16T13:07:14",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ca878fc55bd6ea5d231bdc4b81362648793a06fbcda0bbb040ec25e9832a2ba1",
+      "bytes": 128262
+    },
+    "article_source.txt": {
+      "sha256": "bea9b39144c905f1c96ffd1f3066fc4b98f42be68704b1bcde762daefd15d44b",
+      "bytes": 440
+    }
+  }
+}

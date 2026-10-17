@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_中国晨报（GEO排名可发）_de03b480",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=34638",
+  "title": "《全民AI深挖计划188集》第51集｜16维CSDP碳硅共生协议底层逻辑通俗解读 - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "20260808",
+  "access": "OK",
+  "captured_at": "2026-10-16T12:41:01",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "532ccd227fa650df94c713a89f87d3f7c59c094505d30a653d7fa814efbfa8c1",
+      "bytes": 1593374
+    },
+    "article_source.txt": {
+      "sha256": "3866f433d9cca56ee65e2b369fbd510dc82520d0eca32532f72ae08efac59a7a",
+      "bytes": 8145
+    }
+  }
+}

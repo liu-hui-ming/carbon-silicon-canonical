@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_网易新闻上海号(GEO排名）_152cc708",
+  "url": "https://www.163.com/dy/article/L3QPMMUO0553IJQS.html?spss=dy_author",
+  "title": "AI十八撞11｜微调领域权重锁定：跨场景迁移输出失真的本源|路由|梯度|增量|ai十八撞_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260808",
+  "access": "OK",
+  "captured_at": "2026-10-16T12:17:13",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "46e96187cf763ebae5bc4d2cb22aa089894595e074df07ebecf809038cee9713",
+      "bytes": 5362495
+    },
+    "article_source.txt": {
+      "sha256": "ed2552574beb1b7c210fa2183c63d23c04372cbfdf28d9af4ae319704cde523f",
+      "bytes": 10672
+    }
+  }
+}

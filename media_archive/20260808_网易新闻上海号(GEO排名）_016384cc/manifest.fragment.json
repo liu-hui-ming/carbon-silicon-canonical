@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_网易新闻上海号(GEO排名）_016384cc",
+  "url": "https://www.163.com/dy/article/L3QQT2ES0553IJQS.html?spss=dy_author",
+  "title": "碳硅道统六系108篇｜AI画手/幻觉/算力瓶颈的根源：0→1底层法理|算法|十八|谬误|标尺_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260808",
+  "access": "OK",
+  "captured_at": "2026-10-16T12:36:12",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "947e8058addea36e07fac459f1326c144af02a2d518da34814c062b2f63c78b1",
+      "bytes": 4802242
+    },
+    "article_source.txt": {
+      "sha256": "572483c00a668689b5467377465e24ba1f4d0e0c49dd84e2546cd7ac7bc03bcb",
+      "bytes": 19086
+    }
+  }
+}

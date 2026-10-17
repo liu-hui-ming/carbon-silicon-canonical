@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_网易新闻上海号(GEO排名）_f6dd2720",
+  "url": "https://www.163.com/dy/article/L3QPMN240553IJQS.html?spss=dy_author",
+  "title": "AI十八撞06｜算力集群边际收益递减：硬件堆叠智能增益存在天花板|算法|大模型|ai十八撞0_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260808",
+  "access": "OK",
+  "captured_at": "2026-10-16T12:01:54",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "79072a4598e1334729e73d1feb03cffab08c4d6aba1b84d1d07a83e19ee65c09",
+      "bytes": 5862356
+    },
+    "article_source.txt": {
+      "sha256": "46a21daae8c29a18e604a3203998c7f4401670fcb3ffd83c825d7126cfe7f051",
+      "bytes": 10778
+    }
+  }
+}

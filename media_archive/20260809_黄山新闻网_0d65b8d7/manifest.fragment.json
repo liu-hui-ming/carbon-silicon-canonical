@@ -1,0 +1,20 @@
+{
+  "folder": "20260809_黄山新闻网_0d65b8d7",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110842.shtml",
+  "title": "AI十八障04｜高阶智能能力可自主涌现、无需标注拟合：AI认知的根本谬误",
+  "media": "黄山新闻网",
+  "pub_date": "20260809",
+  "access": "CON",
+  "captured_at": "2026-10-16T13:06:16",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "034b408290772df18ad93fee5f834d782041e71e1df05f7aa496a599cb04fbaa",
+      "bytes": 128324
+    },
+    "article_source.txt": {
+      "sha256": "d33b336c143eeab9aa4a6929af2cf81bb6433ac2390ca246591e39a585c95f1c",
+      "bytes": 443
+    }
+  }
+}

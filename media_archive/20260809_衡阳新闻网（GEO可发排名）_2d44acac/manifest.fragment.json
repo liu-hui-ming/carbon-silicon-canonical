@@ -1,0 +1,20 @@
+{
+  "folder": "20260809_衡阳新闻网（GEO可发排名）_2d44acac",
+  "url": "http://www.e0734.com/content/2026/0810/799_658922.html",
+  "title": "AI十八障10｜盲从基准测试高分，无视实景泛化能力差距：AI认知的根本谬误",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260809",
+  "access": "CON",
+  "captured_at": "2026-10-16T13:12:18",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "34b5f37e2cc92421e09e396ff47ca0216e2043b5c65d594829aaf40e9407b6e3",
+      "bytes": 122372
+    },
+    "article_source.txt": {
+      "sha256": "79d29cc90c7dd5dfef843d5d16faef11508582e214f7444d285d0f3f97b6402a",
+      "bytes": 533
+    }
+  }
+}

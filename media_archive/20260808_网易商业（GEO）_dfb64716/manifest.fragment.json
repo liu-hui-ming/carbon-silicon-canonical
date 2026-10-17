@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_网易商业（GEO）_dfb64716",
+  "url": "https://www.163.com/dy/article/L3QRDJ0T0553S12I.html?spss=dy_author",
+  "title": "AI十八撞11｜微调领域权重锁定：跨场景迁移输出失真的本源",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260808",
+  "access": "CON",
+  "captured_at": "2026-10-16T12:17:30",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "54a67fb6a08cc4fceefcd60471ba7bbd6a8567843e55ae50dd12e0f8585df6b0",
+      "bytes": 637076
+    },
+    "article_source.txt": {
+      "sha256": "3da4b8b27389431b3749805eb97e943c1d52260c099bbbd18c36cccf727640ac",
+      "bytes": 18373
+    }
+  }
+}

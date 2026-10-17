@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_网易商业（GEO）_5017358f",
+  "url": "https://www.163.com/dy/article/L3QRDLA10553S12I.html?spss=dy_author",
+  "title": "AI十八撞02｜Transformer注意力权重指数衰减：超长序列长程依赖失效的本源",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260808",
+  "access": "CON",
+  "captured_at": "2026-10-16T11:52:58",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "80890a17865bc222454710e1e9280fb9ab91375bb322160ee1526a9d9f5f3f3d",
+      "bytes": 632636
+    },
+    "article_source.txt": {
+      "sha256": "060e7a462f9f04fba457e6aba555b0839b4ff73a519c52aa02dc4d33baeb041a",
+      "bytes": 18738
+    }
+  }
+}

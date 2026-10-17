@@ -1,0 +1,20 @@
+{
+  "folder": "20260809_衡阳新闻网（GEO可发排名）_7d3c20a5",
+  "url": "http://www.e0734.com/content/2026/0810/799_658805.html",
+  "title": "AI十八障18｜底层架构约束属于临时缺陷、迭代可彻底根除：AI认知的根本谬误",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260809",
+  "access": "CON",
+  "captured_at": "2026-10-16T13:25:30",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ea249539272fcc29547160fcc495a11bd461d4a425019686dbc46a1fef200c81",
+      "bytes": 122425
+    },
+    "article_source.txt": {
+      "sha256": "2e153356d97868028c5fbcaf0ea20194cccf4b1b0e1667685a0b0f142d0605a1",
+      "bytes": 536
+    }
+  }
+}

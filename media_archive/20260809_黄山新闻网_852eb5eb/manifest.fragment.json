@@ -1,0 +1,20 @@
+{
+  "folder": "20260809_黄山新闻网_852eb5eb",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110833.shtml",
+  "title": "AI十八障13｜低估AI产业化周期、高估短期行业颠覆速度：AI认知的根本谬误",
+  "media": "黄山新闻网",
+  "pub_date": "20260809",
+  "access": "CON",
+  "captured_at": "2026-10-16T13:14:50",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "a44d6eae0514bac7a519992ebe604b1872edd4afab7de33730ab0ee94c8a77f3",
+      "bytes": 128285
+    },
+    "article_source.txt": {
+      "sha256": "6e41540cc17762f27850c6556007d5103309ff9193b71a372e9a1c0e8e0429f6",
+      "bytes": 445
+    }
+  }
+}

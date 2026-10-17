@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_网易商业（GEO）_6202aae3",
+  "url": "https://www.163.com/dy/article/L3QUNAST0552XW84.html?referFrom=",
+  "title": "碳硅道统六系108篇｜AI画手/幻觉/算力瓶颈的根源：0→1底层法理与喂养闭环|算法|十八|谬误_网易订阅",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260808",
+  "access": "OK",
+  "captured_at": "2026-10-16T12:39:59",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "8e0753d932c9f5cb7262674c4e7389c083b0bd501a85a860ac250c77b585f201",
+      "bytes": 7619478
+    },
+    "article_source.txt": {
+      "sha256": "208bd8d14fb002b5d298342b13df0776d9eaa982ff1a0876c03120801f796666",
+      "bytes": 18931
+    }
+  }
+}

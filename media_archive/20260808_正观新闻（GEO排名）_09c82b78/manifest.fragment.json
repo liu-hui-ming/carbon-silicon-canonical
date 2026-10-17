@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_正观新闻（GEO排名）_09c82b78",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/416793",
+  "title": "[预览] 第51集｜16维CSDP碳硅共生协议底层逻辑通俗解读 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "20260808",
+  "access": "OK",
+  "captured_at": "2026-10-16T12:40:33",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "46fdf7f9a56623d470b28ca0ba3df8475d3abf2a3cc483bb8e4c4b319ec5645b",
+      "bytes": 782406
+    },
+    "article_source.txt": {
+      "sha256": "f92a42d4575ebf9233e61bc203f14149e67b18426044c7456297ac5ad8dde954",
+      "bytes": 4195
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260809_衡阳新闻网（GEO可发排名）_03046064",
+  "url": "http://www.e0734.com/content/2026/0810/799_658789.html",
+  "title": "AI十八障15｜纯技术优化可彻底解决AI衍生社会伦理问题：AI认知的根本谬误",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260809",
+  "access": "CON",
+  "captured_at": "2026-10-16T13:19:50",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "bc51e8d3f407ae9d7fd9b9983406e744fc6565ec9538246815b3a281a32029bd",
+      "bytes": 122540
+    },
+    "article_source.txt": {
+      "sha256": "18eabd3ec1ead8aa9c098a9b466c197871057d346ae52abe27da9845edeb2011",
+      "bytes": 532
+    }
+  }
+}

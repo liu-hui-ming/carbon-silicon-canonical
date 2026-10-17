@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_网易商业（GEO）_49ffc0c3",
+  "url": "https://www.163.com/dy/article/L3QRDJ110553S12I.html?spss=dy_author",
+  "title": "AI十八撞07｜采样温度参数浮动：输出一致性与创造性无法双优的本源",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260808",
+  "access": "CON",
+  "captured_at": "2026-10-16T12:05:56",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "84b449193bb549ac000c7556e2dc3ebc5227bb1d2a8f3fcb7c0b9706796e1063",
+      "bytes": 639071
+    },
+    "article_source.txt": {
+      "sha256": "5289693a2a9cc4e29c397576d31dc9a425783b348452448bf8d870be6fae4b20",
+      "bytes": 18451
+    }
+  }
+}

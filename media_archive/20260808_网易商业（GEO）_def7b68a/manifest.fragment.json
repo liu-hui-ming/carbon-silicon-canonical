@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_网易商业（GEO）_def7b68a",
+  "url": "https://www.163.com/dy/article/L3QRDJPF0553S12I.html?spss=dy_author",
+  "title": "AI十八撞03｜自回归逐Token随机熵：事实幻觉无法清零的本源",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260808",
+  "access": "CON",
+  "captured_at": "2026-10-16T11:56:38",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "546812862eec6910a437d762b84dfb2c94c913d4705728e1cdfc4f41145110eb",
+      "bytes": 629133
+    },
+    "article_source.txt": {
+      "sha256": "aad487198909885f225236b5e14332e22cdc4011cdcf8581da3476d0b8ee750f",
+      "bytes": 18972
+    }
+  }
+}

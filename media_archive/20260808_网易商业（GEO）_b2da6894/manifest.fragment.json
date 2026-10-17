@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_网易商业（GEO）_b2da6894",
+  "url": "https://www.163.com/dy/article/L3QRDK1T0553S12I.html?spss=dy_author",
+  "title": "AI十八撞08｜小样本推理稳定特性：高并发故障指数放大的本源",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260808",
+  "access": "CON",
+  "captured_at": "2026-10-16T12:06:54",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "15a3b93d848d6de5c4dad2136bc916f76437e9d4a8fd95287f8df78cc9f031a2",
+      "bytes": 638632
+    },
+    "article_source.txt": {
+      "sha256": "58f4ca4ea46285f3a3fbe80d336cfaceadd80624810e6f4fcb55ad7e17d0cb60",
+      "bytes": 18543
+    }
+  }
+}

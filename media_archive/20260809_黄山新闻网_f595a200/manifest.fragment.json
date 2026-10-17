@@ -1,0 +1,20 @@
+{
+  "folder": "20260809_黄山新闻网_f595a200",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110843.shtml",
+  "title": "AI十八障03｜苛求自回归模型实现零事实幻觉输出：AI认知的根本谬误",
+  "media": "黄山新闻网",
+  "pub_date": "20260809",
+  "access": "CON",
+  "captured_at": "2026-10-16T13:05:21",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "e959ba84dd10b8f83d1780985ee2a617ba0f17aaac85ef0ab10a396aee660793",
+      "bytes": 128343
+    },
+    "article_source.txt": {
+      "sha256": "3620464559d0342c345cf8a686bb3098e165fbe01da2c0c0f936760e660e7b1b",
+      "bytes": 437
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260809_黄山新闻网_98e75558",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110839.shtml",
+  "title": "AI十八障07｜将词语表层匹配等同于事物深层语义理解：AI认知的根本谬误",
+  "media": "黄山新闻网",
+  "pub_date": "20260809",
+  "access": "CON",
+  "captured_at": "2026-10-16T13:09:07",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "112503e3352da98f16c57d469f1ca3e00d0ba2cd131cf2c87e107bd82b3f84bb",
+      "bytes": 128354
+    },
+    "article_source.txt": {
+      "sha256": "a2b812848c319d5d5aaf90cbbef71bd2155f995a863a1f3da2b3480f33385d7c",
+      "bytes": 443
+    }
+  }
+}

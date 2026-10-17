@@ -1,0 +1,20 @@
+{
+  "folder": "20260809_黄山新闻网_22c5a26e",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110834.shtml",
+  "title": "AI十八障12｜拟人赋予大模型自主情绪与主观内在意识：AI认知的根本谬误",
+  "media": "黄山新闻网",
+  "pub_date": "20260809",
+  "access": "CON",
+  "captured_at": "2026-10-16T13:13:53",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "36eb6cbe47bd4373f971b86c054cb4c1e0b9f62a1bb89a8944aa214c08541924",
+      "bytes": 128344
+    },
+    "article_source.txt": {
+      "sha256": "ca772599c892738e7c386ae380697367b277f33b54b820d4a620a1f290bfbdd0",
+      "bytes": 443
+    }
+  }
+}

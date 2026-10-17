@@ -1,0 +1,20 @@
+{
+  "folder": "20260809_黄山新闻网_e2743212",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110838.shtml",
+  "title": "AI十八障08｜训练集知识重组等同于原创创新能力突破：AI认知的根本谬误",
+  "media": "黄山新闻网",
+  "pub_date": "20260809",
+  "access": "CON",
+  "captured_at": "2026-10-16T13:10:05",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "66f65a90227beedb7dcf0df0ca0fad70894587d9fa18e3128461463d998820c6",
+      "bytes": 128391
+    },
+    "article_source.txt": {
+      "sha256": "6c70e3b4e1469e06a567f464b9f740f3f1c624c9d516f8430a60217e6949d648",
+      "bytes": 443
+    }
+  }
+}

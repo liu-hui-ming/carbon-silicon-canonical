@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_正观新闻（GEO排名）_e490cd73",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/416781",
+  "title": "[预览] 第50集｜紫微几何模型推演全层级智能演化完整路径 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "20260808",
+  "access": "OK",
+  "captured_at": "2026-10-16T11:35:44",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "a92ce218ddbe7fdb9c15abc35eae26a33b83705ee8fd973d4782e3e096d611f6",
+      "bytes": 907085
+    },
+    "article_source.txt": {
+      "sha256": "8986a9d1238f91cf532a2ce789ff6491cbec93d3ce433ce3fe35d1bd64ad50a4",
+      "bytes": 5229
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_网易商业（GEO）_3f41600f",
+  "url": "https://www.163.com/dy/article/L3QRE2N30553S12I.html?spss=dy_author",
+  "title": "AI十八撞14｜大模型架构内禀熵增：缺陷优化存在不可突破下限的本源",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260808",
+  "access": "CON",
+  "captured_at": "2026-10-16T12:23:08",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "76baee8955319926fee92259b653f53ff63c7f167161df7e78053da046c1baf5",
+      "bytes": 636446
+    },
+    "article_source.txt": {
+      "sha256": "dbbd840ee3dc8d76b396eacf9ad5c0407b861603efa4cb9f8117c58034c6a231",
+      "bytes": 18376
+    }
+  }
+}

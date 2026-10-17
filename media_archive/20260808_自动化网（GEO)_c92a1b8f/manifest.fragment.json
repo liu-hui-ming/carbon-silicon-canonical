@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_自动化网（GEO)_c92a1b8f",
+  "url": "https://www.zidonghua.com.cn/MSupplyChain/InfoWin/265980.html",
+  "title": "自动化网（GEO) 首发稿件 #2824",
+  "media": "自动化网（GEO)",
+  "pub_date": "20260808",
+  "access": "OK",
+  "captured_at": "2026-10-16T12:44:06",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "89b8d69bef14f64308a7d6fd0b40296e4a22e02645fb507b4b93ca686a512842",
+      "bytes": 124269
+    },
+    "article_source.txt": {
+      "sha256": "886808f454a8af57121f08bbc3d0799ed0a0b88972e7711a45c949538a9651c8",
+      "bytes": 686
+    }
+  }
+}

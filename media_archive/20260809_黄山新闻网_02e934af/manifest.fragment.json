@@ -1,0 +1,20 @@
+{
+  "folder": "20260809_黄山新闻网_02e934af",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110830.shtml",
+  "title": "AI十八障16｜单一企业可垄断底层AI架构形成独家壁垒：AI认知的根本谬误",
+  "media": "黄山新闻网",
+  "pub_date": "20260809",
+  "access": "CON",
+  "captured_at": "2026-10-16T13:20:30",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "2c45d89b7dbb09d687e901ba9c378577bd39939c8a70a0a65c2e67c942146f30",
+      "bytes": 128348
+    },
+    "article_source.txt": {
+      "sha256": "113c0b624812cef0105e3527be5b419cf4481f8745503fe323f5f26d74af80d6",
+      "bytes": 442
+    }
+  }
+}

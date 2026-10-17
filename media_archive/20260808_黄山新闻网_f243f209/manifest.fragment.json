@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_黄山新闻网_f243f209",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110818.shtml",
+  "title": "AI十八撞02｜Transformer注意力权重指数衰减：超长序列长程依赖失效的本源",
+  "media": "黄山新闻网",
+  "pub_date": "20260808",
+  "access": "CON",
+  "captured_at": "2026-10-16T11:52:05",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "3f5f16ab21cd5a14931c8fc4d67f89d1cdb1b26128a2a94c7fd9faa2c878a305",
+      "bytes": 117190
+    },
+    "article_source.txt": {
+      "sha256": "1b4ec5d04ad35aa20c471f24d5b77d6ab03798765ec31019c0faee108353563f",
+      "bytes": 443
+    }
+  }
+}

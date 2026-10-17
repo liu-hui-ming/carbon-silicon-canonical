@@ -1,0 +1,20 @@
+{
+  "folder": "20260809_黄山新闻网_11b8ce71",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110829.shtml",
+  "title": "AI十八障17｜硅基智能能够全盘替代人类创造性脑力劳动：AI认知的根本谬误",
+  "media": "黄山新闻网",
+  "pub_date": "20260809",
+  "access": "CON",
+  "captured_at": "2026-10-16T13:21:28",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "9ae8a5088114d1e23f2a83e54f552fe04a86aca46de745b89139ef6ad0f410f2",
+      "bytes": 128340
+    },
+    "article_source.txt": {
+      "sha256": "e8ded7d3b7736641745e9741ab755251e75210762394581c85b66e8e6874261b",
+      "bytes": 446
+    }
+  }
+}

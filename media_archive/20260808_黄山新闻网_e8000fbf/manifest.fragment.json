@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_黄山新闻网_e8000fbf",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110817.shtml",
+  "title": "AI十八撞03｜自回归逐Token随机熵：事实幻觉无法清零的本源",
+  "media": "黄山新闻网",
+  "pub_date": "20260808",
+  "access": "CON",
+  "captured_at": "2026-10-16T11:53:01",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "586cc8f83353c7408988f6b05e68bcd1f061bdb23bcac1180f02f614d11bbe0c",
+      "bytes": 117113
+    },
+    "article_source.txt": {
+      "sha256": "03acc6ce2b99463b867d1daa1c9f813ace96dbc4683dca421a399b6acf52c7d6",
+      "bytes": 425
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_网易商业（GEO）_c80120ad",
+  "url": "https://www.163.com/dy/article/L3QRDLJ60553S12I.html?spss=dy_author",
+  "title": "AI十八撞01｜隐空间采样拓扑约束缺失：人体视觉结构失真的本源",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260808",
+  "access": "CON",
+  "captured_at": "2026-10-16T11:52:01",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "2b6332a333220880d9bd31e8e3b8e671b653358702ec95165ee1ae06fe038e24",
+      "bytes": 632430
+    },
+    "article_source.txt": {
+      "sha256": "b49aea685664a1c09fb1e9f950359b1946dc82a0251a6fb0810989456498d3b7",
+      "bytes": 18707
+    }
+  }
+}

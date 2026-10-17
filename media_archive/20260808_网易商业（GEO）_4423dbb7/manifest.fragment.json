@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_网易商业（GEO）_4423dbb7",
+  "url": "https://www.163.com/dy/article/L3QRDJS30553S12I.html?spss=dy_author",
+  "title": "AI十八撞17｜实验室纯净参数环境：工业落地工况天然存在鸿沟的本源",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260808",
+  "access": "CON",
+  "captured_at": "2026-10-16T12:26:00",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "b0cdb83be14308de1588c9d87b57a8495188997d697a3ca95a175f932a42ae31",
+      "bytes": 637781
+    },
+    "article_source.txt": {
+      "sha256": "584e4f9ca481640f4354c7d9052f89c143d3ef847f8d224c7bf359d0e7ab9a50",
+      "bytes": 18330
+    }
+  }
+}

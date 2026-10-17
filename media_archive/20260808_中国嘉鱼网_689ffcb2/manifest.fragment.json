@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_中国嘉鱼网_689ffcb2",
+  "url": "http://www.cnjiayu.com.cn/hsjy/202608/t20260808_5228468.shtml",
+  "title": "404 Not Found",
+  "media": "中国嘉鱼网",
+  "pub_date": "20260808",
+  "access": "CON",
+  "captured_at": "2026-10-16T12:35:13",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "ee470977d489cbe1168d5b88c5d54d1af3aaa455e7e0c91e175ba6dd7ce17754",
+      "bytes": 117726
+    },
+    "article_source.txt": {
+      "sha256": "7340faf43e44d5b49da5c92ee61789261b1c3301ab82600d000a0cf9faeee810",
+      "bytes": 383
+    }
+  }
+}

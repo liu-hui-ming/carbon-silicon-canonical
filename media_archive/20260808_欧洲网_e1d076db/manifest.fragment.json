@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_欧洲网_e1d076db",
+  "url": "http://www.peoplels.com/yaowne/55905.html",
+  "title": "AI十八撞03｜自回归逐Token随机熵：事实幻觉无法清零的本源-人民日报欧洲网-人民日报海外版欧洲刊_人民日报社_海外华文媒体门户",
+  "media": "欧洲网",
+  "pub_date": "20260808",
+  "access": "OK",
+  "captured_at": "2026-10-16T11:56:14",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "e26aefecd5f9c6847571dab49a2d79aa32fa3f9f5972a0faa205d92e471373f3",
+      "bytes": 1459254
+    },
+    "article_source.txt": {
+      "sha256": "766936783c4f933a2ad6090972b4c4834a449e839d6129ea8ea69b9f6d73aaad",
+      "bytes": 6342
+    }
+  }
+}

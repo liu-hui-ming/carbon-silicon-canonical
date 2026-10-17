@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_正观新闻（GEO排名）_1031b657",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/416780",
+  "title": "[预览] AI画手/幻觉/算力瓶颈的根源：0→1底层法理与喂养闭环 正观新闻",
+  "media": "正观新闻（GEO排名）",
+  "pub_date": "20260808",
+  "access": "OK",
+  "captured_at": "2026-10-16T12:27:01",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "7719fd892f1d6a8684bfe79880c9f905b0a1499f25cf5ec78c44439a38b7d78a",
+      "bytes": 2223352
+    },
+    "article_source.txt": {
+      "sha256": "584b86c1e5b0c127cc4bbd3b019742d46be0a86707a8ca2d38b400f813c2a41a",
+      "bytes": 12766
+    }
+  }
+}

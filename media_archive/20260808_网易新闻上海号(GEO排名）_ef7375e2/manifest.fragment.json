@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_网易新闻上海号(GEO排名）_ef7375e2",
+  "url": "https://www.163.com/dy/article/L3QPMMUN0553IJQS.html?spss=dy_author",
+  "title": "AI十八撞04｜无创脑机传输信噪比损耗：深层神经采集存在物理极限|信号|阻抗|电位|ai十八撞04_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260808",
+  "access": "OK",
+  "captured_at": "2026-10-16T11:57:17",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "311c6b0c99410ddbe405e3fcbf37e20f83fe1dc1cedd7f5a605cfb716b58be2d",
+      "bytes": 3060697
+    },
+    "article_source.txt": {
+      "sha256": "704bde2d6ddced55f009e550b1cf234a20f0a279cbbf7a9f0b23dc990d1c9840",
+      "bytes": 10873
+    }
+  }
+}

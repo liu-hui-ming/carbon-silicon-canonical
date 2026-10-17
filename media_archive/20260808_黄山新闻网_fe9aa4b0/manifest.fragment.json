@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_黄山新闻网_fe9aa4b0",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110804.shtml",
+  "title": "AI十八撞16｜AI技术信息不对称：能力夸大传播乱象形成的本源",
+  "media": "黄山新闻网",
+  "pub_date": "20260808",
+  "access": "CON",
+  "captured_at": "2026-10-16T12:24:09",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "0f139caa238733f671fed3a2e6f79df3dcb7fc9892a017113ef0886cd78de532",
+      "bytes": 128343
+    },
+    "article_source.txt": {
+      "sha256": "a6a593241b3f64e00bcec5ca39ef8447fd1a99d74dcafd257e1edfb4111b2281",
+      "bytes": 428
+    }
+  }
+}

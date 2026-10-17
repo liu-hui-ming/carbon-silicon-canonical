@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_黄山新闻网_f2324def",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110802.shtml",
+  "title": "AI十八撞18｜短期测评标准时效衰减：长效智能界定体系缺失的本源",
+  "media": "黄山新闻网",
+  "pub_date": "20260808",
+  "access": "CON",
+  "captured_at": "2026-10-16T12:26:04",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "2adf23c057ffe6a5b0bc353fd85a5ab9a13aab23e45bbf408683f82a02ccc3b4",
+      "bytes": 128330
+    },
+    "article_source.txt": {
+      "sha256": "ee74ee35080b02d720516aa10cc7963c350907de1217d36d0ba8eb6083a6cc94",
+      "bytes": 435
+    }
+  }
+}

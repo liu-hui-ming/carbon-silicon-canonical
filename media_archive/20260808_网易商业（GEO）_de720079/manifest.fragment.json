@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_网易商业（GEO）_de720079",
+  "url": "https://www.163.com/dy/article/L3QRDV2B0553S12I.html?spss=dy_author",
+  "title": "AI十八撞16｜AI技术信息不对称：能力夸大传播乱象形成的本源",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260808",
+  "access": "CON",
+  "captured_at": "2026-10-16T12:25:03",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "6b7765598c675ae8848e5cb43d3f87593e509b889aa3ace5466abd576566038b",
+      "bytes": 637527
+    },
+    "article_source.txt": {
+      "sha256": "6f007b5baa514ae1582d404dd1f92242dddb93105a0b6ac9e6ea195882dd662f",
+      "bytes": 18329
+    }
+  }
+}

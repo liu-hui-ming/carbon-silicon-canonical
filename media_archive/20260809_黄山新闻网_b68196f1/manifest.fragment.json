@@ -1,0 +1,20 @@
+{
+  "folder": "20260809_黄山新闻网_b68196f1",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110840.shtml",
+  "title": "AI十八障06｜无视权重衰减，要求对话模型永久留存全部上下文：AI认知的根本谬误",
+  "media": "黄山新闻网",
+  "pub_date": "20260809",
+  "access": "CON",
+  "captured_at": "2026-10-16T13:08:10",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "fd635ce56b7a8163d25a1363f9a306c7b71d3beab8d419878da96c78b08dece6",
+      "bytes": 128331
+    },
+    "article_source.txt": {
+      "sha256": "2ec5fdf36e6a2bfe2d46da4cd130ba5784fa488b018ba2b62ace4672e09211fc",
+      "bytes": 455
+    }
+  }
+}

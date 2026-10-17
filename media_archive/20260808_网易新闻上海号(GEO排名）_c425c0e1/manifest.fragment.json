@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_网易新闻上海号(GEO排名）_c425c0e1",
+  "url": "https://www.163.com/dy/article/L3QPMSA00553IJQS.html?spss=dy_author",
+  "title": "AI十八撞13｜碳硅权限边界模糊：智能扩张伦理风险指数递增的本源|权责|智能体|ai十八撞_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260808",
+  "access": "OK",
+  "captured_at": "2026-10-16T12:21:52",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "826e1f687e587c5e151a520efaa2e54efe3d0cc054f2c577203351d944460a44",
+      "bytes": 6331532
+    },
+    "article_source.txt": {
+      "sha256": "ce8e74affa29784e13801b0097e1e3bb5ac5cfa2bf5e7dafceca775650989dd1",
+      "bytes": 11499
+    }
+  }
+}

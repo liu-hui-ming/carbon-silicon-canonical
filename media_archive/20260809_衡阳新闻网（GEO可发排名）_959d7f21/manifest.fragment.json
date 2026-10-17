@@ -1,0 +1,20 @@
+{
+  "folder": "20260809_衡阳新闻网（GEO可发排名）_959d7f21",
+  "url": "http://www.e0734.com/content/2026/0810/799_658923.html",
+  "title": "AI十八障11｜把数据统计相关性直接等价为客观因果逻辑：AI认知的根本谬误",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260809",
+  "access": "CON",
+  "captured_at": "2026-10-16T13:13:15",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "6e3fe997baa026f96ec376417134c77991899542c668b5cb916fad7187ac63ae",
+      "bytes": 122384
+    },
+    "article_source.txt": {
+      "sha256": "d533862e74b4abb5a06559e33141d8c0fbb90d47c533c131c154e672d1cff467",
+      "bytes": 533
+    }
+  }
+}

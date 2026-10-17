@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_网易商业（GEO）_f3159c34",
+  "url": "https://www.163.com/dy/article/L3QRDJEK0553S12I.html?spss=dy_author",
+  "title": "AI十八撞12｜智能主观评估标尺空白：人工评分分布自带偏差的本源",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260808",
+  "access": "CON",
+  "captured_at": "2026-10-16T12:18:26",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "e3d50dcfd749c598af9ac7109aec67f400df467c30631bd7e51a175386598864",
+      "bytes": 637604
+    },
+    "article_source.txt": {
+      "sha256": "06850ba0c98035be8c07e2a572a048dc7b44c71df511c39d29a55b05b721e0d8",
+      "bytes": 18339
+    }
+  }
+}

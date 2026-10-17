@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_网易新闻上海号(GEO排名）_eda9eaf2",
+  "url": "https://www.163.com/dy/article/L3QPMMVA0553IJQS.html?spss=dy_author",
+  "title": "AI十八撞10｜通用智能演化曲线：长周期产业落地存在壁垒的本源|拟合_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260808",
+  "access": "OK",
+  "captured_at": "2026-10-16T12:16:17",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "68c52976645fec6eeecdc5fd7b3005a2a0e98975d6bd596f426da3e774459c55",
+      "bytes": 5591470
+    },
+    "article_source.txt": {
+      "sha256": "323b55786d016b1b8b487a5b358f30485d59366f007b15cce8e49588eb5fe705",
+      "bytes": 11193
+    }
+  }
+}

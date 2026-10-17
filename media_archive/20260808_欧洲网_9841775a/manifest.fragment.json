@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_欧洲网_9841775a",
+  "url": "http://www.peoplels.com/yaowne/55904.html",
+  "title": "AI十八撞02｜Transformer注意力权重指数衰减：超长序列长程依赖失效的本源-人民日报欧洲网-人民日报海外版欧洲刊_人民日报社_海外华文媒体门户",
+  "media": "欧洲网",
+  "pub_date": "20260808",
+  "access": "OK",
+  "captured_at": "2026-10-16T11:52:31",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "1f007e79d13a17e213894c81ebff2a840092a015934d7bd674d2855779319e18",
+      "bytes": 1473888
+    },
+    "article_source.txt": {
+      "sha256": "4ed01ca2576f5e9030efcb3f2111e3a3eb59f2fd6ef25e4c15beed7f9d2190b3",
+      "bytes": 6319
+    }
+  }
+}

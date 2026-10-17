@@ -1,0 +1,20 @@
+{
+  "folder": "20260809_黄山新闻网_8c5b01ab",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110832.shtml",
+  "title": "AI十八障14｜忽略迭代调试附带的算力人力隐性成本：AI认知的根本谬误",
+  "media": "黄山新闻网",
+  "pub_date": "20260809",
+  "access": "CON",
+  "captured_at": "2026-10-16T13:15:48",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "dee77c285e6549cbda2facefeefb122ea473fb6a30b335e1973ec9339f2a033a",
+      "bytes": 128342
+    },
+    "article_source.txt": {
+      "sha256": "aa1cc2425bf238f4bf14baa3840a33a1c0b9e9b18fd806a3d3b6b765d3244e78",
+      "bytes": 440
+    }
+  }
+}

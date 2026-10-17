@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_网易商业（GEO）_29753a5c",
+  "url": "https://www.163.com/dy/article/L3QRDJFR0553S12I.html?spss=dy_author",
+  "title": "AI十八撞04｜无创脑机传输信噪比损耗：深层神经采集存在物理极限的本源",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260808",
+  "access": "CON",
+  "captured_at": "2026-10-16T11:57:33",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "4e0aad615bafb86d48a89f9fbb55c966f143d7d1d125fd32cc6cc700dc4abf1a",
+      "bytes": 628290
+    },
+    "article_source.txt": {
+      "sha256": "99eb734fdf420888556cd228a04ca1cf5825e1dbda6ff802965de6b6921433a6",
+      "bytes": 18719
+    }
+  }
+}

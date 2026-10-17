@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_网易商业（GEO）_8179294f",
+  "url": "https://www.163.com/dy/article/L3QRDOS90553S12I.html?spss=dy_author",
+  "title": "AI十八撞15｜物种脑波频谱特异性：通用脑波解码适配失效的本源",
+  "media": "网易商业（GEO）",
+  "pub_date": "20260808",
+  "access": "CON",
+  "captured_at": "2026-10-16T12:24:05",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "da1f33922ddd21916a78e979ee40accd5e7464392f9262ff01a1219553042a09",
+      "bytes": 637227
+    },
+    "article_source.txt": {
+      "sha256": "c09670937a6db02b67a4a4a1fbe0a632aafa1fa784efd61678fcbfd15d75a6ce",
+      "bytes": 18339
+    }
+  }
+}

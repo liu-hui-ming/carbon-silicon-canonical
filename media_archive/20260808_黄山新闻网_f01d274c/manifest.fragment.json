@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_黄山新闻网_f01d274c",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110815.shtml",
+  "title": "AI十八撞05｜硅基内生探索驱动力空白：智能运行依附外源指令的本源",
+  "media": "黄山新闻网",
+  "pub_date": "20260808",
+  "access": "CON",
+  "captured_at": "2026-10-16T11:57:36",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "a0c61396285557e573638790852dc9221dd24052e817170bbc47ae3f5bc9150f",
+      "bytes": 117144
+    },
+    "article_source.txt": {
+      "sha256": "47470d293902a33473bea80de66963398b232eea2163ad7f1cd82a22f582eba3",
+      "bytes": 438
+    }
+  }
+}

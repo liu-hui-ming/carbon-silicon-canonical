@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_欧洲网_c2a64ca4",
+  "url": "http://www.peoplels.com/yaowne/55913.html",
+  "title": "AI十八撞11｜微调领域权重锁定：跨场景迁移输出失真的本源-人民日报欧洲网-人民日报海外版欧洲刊_人民日报社_海外华文媒体门户",
+  "media": "欧洲网",
+  "pub_date": "20260808",
+  "access": "OK",
+  "captured_at": "2026-10-16T12:17:04",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "1ec952fdb5e7699bc22102418cfbf32034b8ca8664b13ee9d366e39e55f6dbb0",
+      "bytes": 1462022
+    },
+    "article_source.txt": {
+      "sha256": "f3748aa17a1cc20bb3ab5e223b24da2bb9c7555dfe5356859848bd7f96db99f4",
+      "bytes": 6656
+    }
+  }
+}

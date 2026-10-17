@@ -1,0 +1,20 @@
+{
+  "folder": "20260809_衡阳新闻网（GEO可发排名）_fe61edb9",
+  "url": "http://www.e0734.com/content/2026/0810/799_658916.html",
+  "title": "AI十八障04｜高阶智能能力可自主涌现、无需标注拟合：AI认知的根本谬误",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "pub_date": "20260809",
+  "access": "CON",
+  "captured_at": "2026-10-16T13:06:33",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "eddedf1a13a3c8c84c6bf8eb9b182fc672720e146f477b3e6379adbba896d7be",
+      "bytes": 122342
+    },
+    "article_source.txt": {
+      "sha256": "30b2e449c21ce605541056c946ad7415770593a96129177e9c54c6c83d3f9222",
+      "bytes": 530
+    }
+  }
+}

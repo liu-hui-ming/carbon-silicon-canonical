@@ -1,0 +1,20 @@
+{
+  "folder": "20260809_黄山新闻网_24dfb788",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110844.shtml",
+  "title": "AI十八障02｜算力参数无限堆叠即可突破通用智能边界：AI认知的根本谬误",
+  "media": "黄山新闻网",
+  "pub_date": "20260809",
+  "access": "CON",
+  "captured_at": "2026-10-16T13:04:24",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "d4d1e938be6d120118f52e753388bead50bd78ea8a1d11e66ed00c7fb445e1cb",
+      "bytes": 128287
+    },
+    "article_source.txt": {
+      "sha256": "60cfcd902e4b74d4178b0d022b19846ebdd9b1a94ce96bc6d8f78f77f3eb6d8c",
+      "bytes": 443
+    }
+  }
+}

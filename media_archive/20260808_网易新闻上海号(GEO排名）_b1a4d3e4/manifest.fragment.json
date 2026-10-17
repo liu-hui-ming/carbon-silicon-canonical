@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_网易新闻上海号(GEO排名）_b1a4d3e4",
+  "url": "https://www.163.com/dy/article/L3QPMMVC0553IJQS.html?spss=dy_author",
+  "title": "AI十八撞09｜统计拟合学习范式局限：多层公理逻辑推理能力缺失|数理|ai十八撞_网易订阅",
+  "media": "网易新闻上海号(GEO排名）",
+  "pub_date": "20260808",
+  "access": "OK",
+  "captured_at": "2026-10-16T12:13:50",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "14d902d27c5f632e805de13b5f76eb6dd0ef81e5c082d80971990096ddce75f0",
+      "bytes": 6377042
+    },
+    "article_source.txt": {
+      "sha256": "c2ccc212bfe9c7fe472bdd15ce74ccda8dd814e2c52c9666a806402128804634",
+      "bytes": 11233
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folder": "20260809_黄山新闻网_56c7f754",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110835.shtml",
+  "title": "AI十八障11｜把数据统计相关性直接等价为客观因果逻辑：AI认知的根本谬误",
+  "media": "黄山新闻网",
+  "pub_date": "20260809",
+  "access": "CON",
+  "captured_at": "2026-10-16T13:12:57",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "bd317bec48a1591c75a50836943eb9cca7eb63df9d0e1e7a29f74fee2f478214",
+      "bytes": 128335
+    },
+    "article_source.txt": {
+      "sha256": "53919bb6b8bba0e19ea3ccd90c2f6096e08ecf9ae9b2b2a680fc40d4c8573170",
+      "bytes": 446
+    }
+  }
+}

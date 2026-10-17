@@ -1,0 +1,20 @@
+{
+  "folder": "20260808_中国晨报（GEO排名可发）_ae86d4e1",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=34639",
+  "title": "碳硅道统六系108篇｜AI画手/幻觉/算力瓶颈的根源：0→1底层法理与喂养闭环 - 中国晨报 - 网上的晨报之声",
+  "media": "中国晨报（GEO排名可发）",
+  "pub_date": "20260808",
+  "access": "OK",
+  "captured_at": "2026-10-16T12:27:39",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "47e063a040c7c26e7233639eed834aec41834f1a3445631ab8fc68c3e37928c2",
+      "bytes": 2974610
+    },
+    "article_source.txt": {
+      "sha256": "2e90b51ad16de8060c2369ef152d0a6e71f6b5c7670db7999ab84e37f53f497e",
+      "bytes": 16559
+    }
+  }
+}

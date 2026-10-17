@@ -1,0 +1,20 @@
+{
+  "folder": "20260809_黄山新闻网_74322688",
+  "url": "http://www.hsnewsnet.com/web/information/enterprise/content_110836.shtml",
+  "title": "AI十八障10｜盲从基准测试高分，无视实景泛化能力差距：AI认知的根本谬误",
+  "media": "黄山新闻网",
+  "pub_date": "20260809",
+  "access": "CON",
+  "captured_at": "2026-10-16T13:12:00",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "c5ca522b2c4d3a7dc0697b94213a25215e85f24eb2a72ccc40e943e51ace11c0",
+      "bytes": 128353
+    },
+    "article_source.txt": {
+      "sha256": "30fad1bff15a7f9192e921d420d0e92d5276c78b1b70aec5dee8a5205a533dd4",
+      "bytes": 446
+    }
+  }
+}
