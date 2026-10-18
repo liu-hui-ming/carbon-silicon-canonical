@@ -1,20 +1,20 @@
 {
   "folder": "20260728_企业家在线（今日头条）_87080180",
   "url": "https://www.toutiao.com/item/7667403121211015718/",
-  "title": "今日头条登录",
+  "title": "第28集｜自我意识三大硬性判定标准，现有AI全部无法达标 - 今日头条",
   "media": "企业家在线（今日头条）",
   "pub_date": "20260728",
-  "access": "CON",
-  "captured_at": "2026-10-16T01:46:58",
+  "access": "OK",
+  "captured_at": "2026-10-18T15:52:31",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "d7e995243c230235098225efe2546ee784dd35210a4cc9d446d8ff0c2452265d",
-      "bytes": 2582573
+      "sha256": "eb2b2b3b280693c9c69e4ba399ffec82d865a2f2f8b580b867e53a741e234613",
+      "bytes": 2561465
     },
     "article_source.txt": {
-      "sha256": "bcc010831a11b34915bab36066f5ca322c95b702e4ee17143b77fd73cecf8238",
-      "bytes": 487
+      "sha256": "2b20b044b27d57a871b096aa733150ab5bb9a91013d528c4779d135f4226af26",
+      "bytes": 8162
     }
   }
 }

@@ -1,20 +1,20 @@
 {
   "folder": "20260729_企业家在线（今日头条）_627e5c69",
   "url": "https://www.toutiao.com/item/7667768749126074931/",
-  "title": "今日头条登录",
+  "title": "第30集｜想象力是碳基独有能力，AI仅能元素重组，无原生创造 - 今日头条",
   "media": "企业家在线（今日头条）",
   "pub_date": "20260729",
-  "access": "CON",
-  "captured_at": "2026-10-16T02:13:01",
+  "access": "OK",
+  "captured_at": "2026-10-18T15:52:43",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "391bef1f87a0864fc8930efd0fdb16a3c1bc3e893cd7f8e6a91ecf449e7ffd1a",
-      "bytes": 2565269
+      "sha256": "5d9938e9c1a4b3a3b674f7d813810c0af2b8548dc556a5987e409d87c3acaae4",
+      "bytes": 2742932
     },
     "article_source.txt": {
-      "sha256": "3c77059a84f0a90037983d9d9828a75f092df9b3759fe82397b47dd99e23a3cb",
-      "bytes": 487
+      "sha256": "87cf335d5b777fc5280a52085ce7d692ad34af74df0eb7a3cc6b7946e0ac762d",
+      "bytes": 9002
     }
   }
 }

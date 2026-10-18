@@ -1,20 +1,20 @@
 {
   "folder": "20260726_企业家在线（今日头条）_0039f3da",
   "url": "https://www.toutiao.com/item/7667036023683088911/",
-  "title": "今日头条登录",
+  "title": "第25集｜当下所有AI永久卡在鹦鹉层级，无法突破的底层原因 - 今日头条",
   "media": "企业家在线（今日头条）",
   "pub_date": "20260726",
-  "access": "CON",
-  "captured_at": "2026-10-16T00:52:42",
+  "access": "OK",
+  "captured_at": "2026-10-18T15:51:45",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "f5c7cfdab2666093f02fc4f1c20356e4748420dbb8d0925b3327a5ba6fdc0495",
-      "bytes": 3043412
+      "sha256": "1ccac7b5e117f28b662c2bdf929a2ca1ddd8c72e3d75cbb0d89fa2a283193fc0",
+      "bytes": 1893429
     },
     "article_source.txt": {
-      "sha256": "b350cc2d6f32d0425e541b1834c7ae39a4e65dd640468dc18a045ec9a7ff56d1",
-      "bytes": 487
+      "sha256": "21c5a2c3de2e1febc52ae811852cf1f2fce3f522708420407e7a20d410d495b0",
+      "bytes": 12245
     }
   }
 }

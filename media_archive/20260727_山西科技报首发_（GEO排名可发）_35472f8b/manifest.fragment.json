@@ -5,16 +5,16 @@
   "media": "山西科技报首发 （GEO排名可发）",
   "pub_date": "20260727",
   "access": "CON",
-  "captured_at": "2026-10-16T01:21:13",
+  "captured_at": "2026-10-18T20:01:43",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "e8beb55f7c0b446d17549612ab3168f898bfa378b1359f008948733625c81c8c",
-      "bytes": 190728
+      "sha256": "44df59f8c1e87c023139466467e02eb50a23556d1b3efab458881e000aa2c2de",
+      "bytes": 128720
     },
     "article_source.txt": {
-      "sha256": "67cf87240ef1f0a9d42a761b0b884c5f559fa2b63f0f0db2ca524cf529f0e771",
-      "bytes": 502
+      "sha256": "6c7014471b2b0197ca107349b6090de1f6f8bd0dc96bed6f559bbb9eab294e07",
+      "bytes": 407
     }
   }
 }

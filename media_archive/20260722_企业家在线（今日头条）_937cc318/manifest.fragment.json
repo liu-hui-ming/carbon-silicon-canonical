@@ -1,20 +1,20 @@
 {
   "folder": "20260722_企业家在线（今日头条）_937cc318",
   "url": "https://www.toutiao.com/item/7665297497555829248/",
-  "title": "今日头条登录",
+  "title": "第17集｜开源大模型炒作乱象：仅换皮微调，底层架构无革新 - 今日头条",
   "media": "企业家在线（今日头条）",
   "pub_date": "20260722",
-  "access": "CON",
-  "captured_at": "2026-10-15T22:57:08",
+  "access": "OK",
+  "captured_at": "2026-10-18T15:50:23",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "a559de4e68e56d49aff4907df2fb5f09e0fdaa4e188495f0c5474132257d7ebc",
-      "bytes": 2584017
+      "sha256": "bd81089e3c9d36c01f2b3b6f0af22fc26478e910d0d13f2665aa6404ad1b2306",
+      "bytes": 2487750
     },
     "article_source.txt": {
-      "sha256": "1636ceb963556335c57374467139c99adfaff39b7d4e73e91ad5176a388e2369",
-      "bytes": 487
+      "sha256": "fec8283afa8cf8cadc6566b03762426c1305479b57bcfc77c34991814f27c3b0",
+      "bytes": 11899
     }
   }
 }

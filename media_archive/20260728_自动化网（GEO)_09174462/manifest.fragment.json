@@ -1,20 +1,20 @@
 {
   "folder": "20260728_自动化网（GEO)_09174462",
   "url": "https://www.zidonghua.com.cn/MSupplyChain/InfoWin/240680.html",
-  "title": "自动化网（GEO) 首发稿件 #1328",
+  "title": "第28集｜自我意识三大硬性判定标准，现有AI全部无法达标 - 资讯之窗 - 自动化网 ZiDongHua.com.cn ，自动化科技展示平台、“自动化者”人文交流平台。",
   "media": "自动化网（GEO)",
   "pub_date": "20260728",
-  "access": "CON",
-  "captured_at": "2026-10-16T01:34:43",
+  "access": "OK",
+  "captured_at": "2026-10-18T18:20:09",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "5cd84bf90b8b79a6f91d6dd752b6eeea282868354a12827c438c5546b6eb2516",
-      "bytes": 2109429
+      "sha256": "4b9213d27f5a537a28a23ffa67e51cab98e20c1692932d875efd955a8e14e80a",
+      "bytes": 2512040
     },
     "article_source.txt": {
-      "sha256": "0347b4d564b13150373c83aaeae9c0b9b6c8fbffd8bcf47fc1f60bc25fcb4d70",
-      "bytes": 378
+      "sha256": "a1fda59da7363c8cf63cada241611e99c7953128a0b0e8c61aa38b704a5e62f3",
+      "bytes": 14845
     }
   }
 }

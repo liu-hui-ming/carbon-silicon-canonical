@@ -1,20 +1,20 @@
 {
   "folder": "20260725_企业家在线（今日头条）_70cfe62e",
   "url": "https://www.toutiao.com/item/7667017801881633299/",
-  "title": "今日头条登录",
+  "title": "第22集｜各类AI意识测试，均是提前设计话术的文字游戏 - 今日头条",
   "media": "企业家在线（今日头条）",
   "pub_date": "20260725",
-  "access": "CON",
-  "captured_at": "2026-10-16T00:08:00",
+  "access": "OK",
+  "captured_at": "2026-10-18T15:51:10",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "2b40fa00751f9ae0f31f2621e2902d82570eb4172018f2eb966cecba30d0b7c3",
-      "bytes": 2420159
+      "sha256": "b44f2520f3a21921dd2c835306ab2b40c01a10831df11612ad15cea26dc647b0",
+      "bytes": 2709701
     },
     "article_source.txt": {
-      "sha256": "3379b6198aa22636a50abb23f05a9991f876aa51058a22eea025cfb389b7f965",
-      "bytes": 487
+      "sha256": "0ac7d14bb2c0ba31968446bd65f67bba7104d551e7029994eaa63ece22778da8",
+      "bytes": 13780
     }
   }
 }

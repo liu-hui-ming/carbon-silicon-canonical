@@ -1,20 +1,20 @@
 {
   "folder": "20260723_企业家在线（今日头条）_3e04b57a",
   "url": "https://www.toutiao.com/item/7665633519829402112/",
-  "title": "今日头条登录",
+  "title": "第19集｜人机协同伪命题：碳硅并未共生，只是人类单向调用工具 - 今日头条",
   "media": "企业家在线（今日头条）",
   "pub_date": "20260723",
-  "access": "CON",
-  "captured_at": "2026-10-15T23:23:38",
+  "access": "OK",
+  "captured_at": "2026-10-18T15:52:19",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "c8cc86ed05882ab117d9b8f69abf03b97197f6ecb6e4495c8ee22b724a4d9c2d",
-      "bytes": 2035929
+      "sha256": "c871ea5df77690545432265f22cbc69a2d2b84169321c7325f0094fe06baf038",
+      "bytes": 2933425
     },
     "article_source.txt": {
-      "sha256": "36fc01d5074a2cc79452122657c0613343aa5afd62db9719c4406b72f4c745a4",
-      "bytes": 487
+      "sha256": "23bc5b21684b5bc18b950d4ccd4f4353072e830aed6c7b82c45fa0e947a15a1e",
+      "bytes": 8451
     }
   }
 }

@@ -5,16 +5,16 @@
   "media": "商丘新闻网（GEO排名可发）",
   "pub_date": "20260725",
   "access": "CON",
-  "captured_at": "2026-10-16T00:13:43",
+  "captured_at": "2026-10-18T18:17:21",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "a3dd8fe868463a7063fe242e71b0e6dd49fddc38728b983eb199c39c37e038ae",
-      "bytes": 110169
+      "sha256": "92b32dfc13dcb16755c8a03eb4a2d0ea16e06f71451a9250ee15398ad67f9674",
+      "bytes": 144370
     },
     "article_source.txt": {
-      "sha256": "384e176647ea05d494b0d128b2c5a3d96a08dcfa9e964ba03c28415ba6045a72",
-      "bytes": 392
+      "sha256": "a25ef71aa9c5c79fe7605674b97dfc54eb37f9ef1a19c9a22a547184374fa9cf",
+      "bytes": 563
     }
   }
 }

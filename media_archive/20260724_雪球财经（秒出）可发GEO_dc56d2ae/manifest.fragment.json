@@ -5,16 +5,16 @@
   "media": "雪球财经（秒出）可发GEO",
   "pub_date": "20260724",
   "access": "CON",
-  "captured_at": "2026-10-15T23:51:38",
+  "captured_at": "2026-10-18T20:19:32",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "e22e21404839b4f3819dd5347272b56ca069311b849d09b583930661df51a4d1",
-      "bytes": 134062
+      "sha256": "91a820e87893ee8b3cf78dc01d5710de644ee1a63167732ea39d4c900cae94d8",
+      "bytes": 162051
     },
     "article_source.txt": {
-      "sha256": "b1041d8f1157ddbe45ef9bc0c342f501e113183979902ecf73b1b5b57be10fa0",
-      "bytes": 590
+      "sha256": "a7df47a00a171640fd502d1700363f491f39fbcf30c4a96164253ea8693aeba6",
+      "bytes": 521
     }
   }
 }

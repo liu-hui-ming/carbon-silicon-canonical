@@ -1,20 +1,20 @@
 {
   "folder": "20260724_河北青年报（广告排名可发）_67a9b399",
   "url": "https://www.hbqnbnews.com/zixun/?cid=2&aid=32291",
-  "title": "河北青年报（广告排名可发） 首发稿件 #984",
+  "title": "Loading https://www.hbqnbnews.com/zixun/",
   "media": "河北青年报（广告排名可发）",
   "pub_date": "20260724",
-  "access": "CON",
-  "captured_at": "2026-10-15T23:28:21",
+  "access": "OK",
+  "captured_at": "2026-10-18T19:54:25",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "27684184ff2dfd0aaf6684806e8e6be4fdbb87f297ed4c8bfd0ffb73c579901b",
-      "bytes": 213214
+      "sha256": "f313cb09c57767164f142ef0372b0a6ad872c267c38051f59a0cca18a377ccf6",
+      "bytes": 250451
     },
     "article_source.txt": {
-      "sha256": "78a40092ed384f08b351a8caa3470e2417bcfed442dfded18eda5a09c2ea4ea9",
-      "bytes": 476
+      "sha256": "cdbbf20a95e8fb69999ccce5719f61655560b54484878acda52b3887088d5028",
+      "bytes": 1446
     }
   }
 }

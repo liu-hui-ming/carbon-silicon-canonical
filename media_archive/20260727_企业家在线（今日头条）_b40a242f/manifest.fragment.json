@@ -1,20 +1,20 @@
 {
   "folder": "20260727_企业家在线（今日头条）_b40a242f",
   "url": "https://www.toutiao.com/item/7667036281444418100/",
-  "title": "今日头条登录",
+  "title": "第26集｜乌鸦范式的优势与固有天花板，永远抵达不了灵识维度 - 今日头条",
   "media": "企业家在线（今日头条）",
   "pub_date": "20260727",
-  "access": "CON",
-  "captured_at": "2026-10-16T01:09:59",
+  "access": "OK",
+  "captured_at": "2026-10-18T15:52:07",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "fbec2902279ade7b147b4df2a3219b731a89dad838c995128f510cc26aed726a",
-      "bytes": 2157253
+      "sha256": "8ae840c62ffdcd072be63faa61c1a731cf00cb1a43d305eb3903304f937a3019",
+      "bytes": 2498182
     },
     "article_source.txt": {
-      "sha256": "5e7c29921d8d0b48fe897cebaafa2c8785734a15d42115868c27c68cfd591c6a",
-      "bytes": 487
+      "sha256": "e689204901f19dc6074e2f62cf0f00eef82a046109027f2eb03fb38dbd20eba3",
+      "bytes": 9331
     }
   }
 }

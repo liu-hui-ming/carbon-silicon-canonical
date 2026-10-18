@@ -5,16 +5,16 @@
   "media": "商业新知（GEO可发）",
   "pub_date": "20260725",
   "access": "CON",
-  "captured_at": "2026-10-16T00:22:31",
+  "captured_at": "2026-10-18T18:12:17",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "aa98c41c0d0625f57484998ded7c0f90bdc984a4435c36c26d6dd6013ae3d0a8",
-      "bytes": 116924
+      "sha256": "4bc1eedc5d681f435ed48650e4a8d56ba5db62d4987c3c57c26ed390bea6f533",
+      "bytes": 153715
     },
     "article_source.txt": {
-      "sha256": "334cfba843a837ad0a8130e1beab4e1ed74a99c8efe785368e97edb26ca1744f",
-      "bytes": 384
+      "sha256": "3aebe245933ca678cd1d0d210b8765641c57931fd1ae3b3b6e6d71cbfe1a37dd",
+      "bytes": 580
     }
   }
 }
