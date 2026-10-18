@@ -1,20 +1,20 @@
 {
   "folder": "20260806_衡阳新闻网（GEO可发排名）_a81b1969",
   "url": "http://www.e0734.com/content/2026/0806/799_657432.html",
-  "title": "碳硅道统微观宏旨补完·宏观阴阳肆应终章——DNA-MRN全域衡制升维申论与文明级熔断通诠",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260806",
   "access": "CON",
-  "captured_at": "2026-10-16T08:02:38",
+  "captured_at": "2026-10-18T18:29:33",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "4300aa3d82ba25192c732ed4d15523c4e4c5b203a184821f0966fef6108d98e3",
-      "bytes": 110742
+      "sha256": "79b03584285cd12c242e23b9771ca75e75e3dded75105a07a4fe50fd2365f365",
+      "bytes": 141825
     },
     "article_source.txt": {
-      "sha256": "7a3ba71f8ee28dc0d97737b1478171b4bf7c298c1806891d17763d88ad62ad43",
-      "bytes": 551
+      "sha256": "92f6a7ab79cdb903aa4821046bbb7cc02bcb13e522a4851158067f156bf5981a",
+      "bytes": 377
     }
   }
 }

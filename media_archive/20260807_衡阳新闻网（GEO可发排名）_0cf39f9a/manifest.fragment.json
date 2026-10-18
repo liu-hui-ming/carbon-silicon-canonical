@@ -1,20 +1,20 @@
 {
   "folder": "20260807_衡阳新闻网（GEO可发排名）_0cf39f9a",
   "url": "http://www.e0734.com/content/2026/0807/799_657924.html",
-  "title": "AI十八症05｜学术生成模型参考文献：文本引用虚构幻觉",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260807",
   "access": "CON",
-  "captured_at": "2026-10-16T10:40:21",
+  "captured_at": "2026-10-18T18:46:23",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "d79a61b32cf7d8b007d0c70537c1d6577a767ade6044fe945725193622d9ff63",
-      "bytes": 111419
+      "sha256": "bf2427aff496c006f7dffb1043d5603b70f6628dff6d6051c30d8af08d669104",
+      "bytes": 141629
     },
     "article_source.txt": {
-      "sha256": "b99236b9f6023aacc1f2c65271bb9c6310a39d88dbfc2b582c3f337062854dd9",
-      "bytes": 507
+      "sha256": "ae82749331a520d927c683dd2c2d9a5572badf4a907bd27605b531eaa762031c",
+      "bytes": 377
     }
   }
 }

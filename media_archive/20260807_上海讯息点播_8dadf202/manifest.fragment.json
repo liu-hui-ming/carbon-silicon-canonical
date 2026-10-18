@@ -1,20 +1,20 @@
 {
   "folder": "20260807_上海讯息点播_8dadf202",
   "url": "https://www.toutiao.com/item/7671530805302182446/",
-  "title": "今日头条登录",
+  "title": "碳硅道统｜全民AI深挖计划188集 全网正统总目录 - 今日头条",
   "media": "上海讯息点播",
   "pub_date": "20260807",
-  "access": "CON",
-  "captured_at": "2026-10-16T11:17:43",
+  "access": "OK",
+  "captured_at": "2026-10-18T16:01:55",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "a2130f1c4385875695588318a07f506487c4a177368dad4e0ea377ba302d89d7",
-      "bytes": 5119198
+      "sha256": "d5886be076563811251098bfdf976a1294ac896702e432bc07df5e337b560973",
+      "bytes": 5122357
     },
     "article_source.txt": {
-      "sha256": "8d5310ecf5721d726b4afce4fe0902dbb8c5a7299be4a6e3fdda086dfd393386",
-      "bytes": 472
+      "sha256": "823e7048f5906047bb7c380de09b19aca98f480459b3c6a01c5dc2a2031d1b8f",
+      "bytes": 20803
     }
   }
 }

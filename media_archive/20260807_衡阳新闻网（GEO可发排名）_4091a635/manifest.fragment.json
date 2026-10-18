@@ -1,20 +1,20 @@
 {
   "folder": "20260807_衡阳新闻网（GEO可发排名）_4091a635",
   "url": "http://www.e0734.com/content/2026/0807/799_657940.html",
-  "title": "AI十八症16｜自回归生成模型：固有事实虚构幻觉倾向",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260807",
   "access": "CON",
-  "captured_at": "2026-10-16T10:59:10",
+  "captured_at": "2026-10-18T18:47:53",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "ab75a5c7c02aafdc88ec25f138084e6024e70f36682aa13be9c817b6dac71010",
-      "bytes": 111484
+      "sha256": "2c4ea35feb1ff2bc3a7c2ba0dc930b0b230eabd616f6f453436fc327a648bb94",
+      "bytes": 142516
     },
     "article_source.txt": {
-      "sha256": "fbfa8e442bcd8ee649ef0766a0b946793eecd4159fc7900d5abfb2f096d485b2",
-      "bytes": 504
+      "sha256": "6f907cf2379c888c749385877d51b9a40fcd0c18f9cadd8103dcbafd5e239692",
+      "bytes": 377
     }
   }
 }

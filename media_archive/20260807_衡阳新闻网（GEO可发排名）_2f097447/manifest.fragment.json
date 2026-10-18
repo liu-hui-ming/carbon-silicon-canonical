@@ -1,20 +1,20 @@
 {
   "folder": "20260807_衡阳新闻网（GEO可发排名）_2f097447",
   "url": "http://www.e0734.com/content/2026/0807/799_657939.html",
-  "title": "AI十八症15｜大语言模型知识输出：高度依赖标注、原生认知缺失",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260807",
   "access": "CON",
-  "captured_at": "2026-10-16T10:58:12",
+  "captured_at": "2026-10-18T18:47:44",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "5d97e5e93129d32de6f0d5d1506023a08ae86aa73bb8bc0fb57e821bd84c7c05",
-      "bytes": 111548
+      "sha256": "5c1a58ae2b198caacbb0c884f616d192332766442700ad6cb541ff5d1575398c",
+      "bytes": 142134
     },
     "article_source.txt": {
-      "sha256": "f52daf41519cddfe76339268d9e3f60a9fd1b7b0779e6baef5cf058c8c7cb5da",
-      "bytes": 519
+      "sha256": "a90b8893e86725328c04cad5302a087f967568a85cc1c9d69bc2014fc3a387f7",
+      "bytes": 377
     }
   }
 }

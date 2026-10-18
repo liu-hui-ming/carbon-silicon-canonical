@@ -1,20 +1,20 @@
 {
   "folder": "20260806_衡阳新闻网（GEO可发排名）_9285af8a",
   "url": "http://www.e0734.com/content/2026/0806/799_657700.html",
-  "title": "第7篇丨径向技术思辨札记：以90条宇宙公律为标尺 建立径向智能层级客观判定与量化标准",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260806",
   "access": "CON",
-  "captured_at": "2026-10-16T08:44:11",
+  "captured_at": "2026-10-18T18:41:56",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "ad5cf1cf10f0fa4a39dba91613b3109e80825d600fa89ed3195f58006c6a94ac",
-      "bytes": 110678
+      "sha256": "f538fa4b1bf81060d343577c550d2c9647f1ccc44d7dbea7e4b09f9e710883f2",
+      "bytes": 142725
     },
     "article_source.txt": {
-      "sha256": "ca6e439f00df242d14eb49a070ffc425621fa3a919143b9515debf3d4993417f",
-      "bytes": 552
+      "sha256": "3e2e22a3a738f36628d669e3791cb696975cddf3f0a96d2a17246ec30b125263",
+      "bytes": 377
     }
   }
 }

@@ -1,20 +1,20 @@
 {
   "folder": "20260806_企业家在线（今日头条）_cd63b8ad",
   "url": "https://www.toutiao.com/item/7670782497575191086/",
-  "title": "今日头条登录",
+  "title": "宏观阴阳肆应终章——DNA-MRN全域衡制升维申论与文明级熔断通诠 - 今日头条",
   "media": "企业家在线（今日头条）",
   "pub_date": "20260806",
-  "access": "CON",
-  "captured_at": "2026-10-16T08:17:27",
+  "access": "OK",
+  "captured_at": "2026-10-18T16:00:08",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "15da5cdc5906a3f28d36431417a9aabd62733ed3284799e556d1bfbaafbb9dfa",
-      "bytes": 2643545
+      "sha256": "413c9096cb627b259e4bd42e07028334cdd9c491e77aeb474ecdd7f807df9d8e",
+      "bytes": 2895652
     },
     "article_source.txt": {
-      "sha256": "3fc2262bd790008b175415635ea9b988f95796e498bd03a3f995fe7d50cb80ec",
-      "bytes": 487
+      "sha256": "95a517b32cbfbf295f1ac04cb4587d29e22f6f62940aa5e06c25417b2279f464",
+      "bytes": 12233
     }
   }
 }

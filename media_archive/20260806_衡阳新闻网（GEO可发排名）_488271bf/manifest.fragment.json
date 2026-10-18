@@ -1,20 +1,20 @@
 {
   "folder": "20260806_衡阳新闻网（GEO可发排名）_488271bf",
   "url": "http://www.e0734.com/content/2026/0806/799_657391.html",
-  "title": "第5篇丨《碳硅道统·九翼智典释义》：以工业精密造芯逻辑，铸造AI稳态内生秩序",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260806",
   "access": "CON",
-  "captured_at": "2026-10-16T07:59:39",
+  "captured_at": "2026-10-18T18:29:15",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "6e09928bc6bb4eb8ae95e5c1e3af487b272504b78369342fd55659f5d687d7c2",
-      "bytes": 110715
+      "sha256": "3fc3840bae4a7a97c5c5d5f20c90e97f08274c87547a6f285651eab16f479705",
+      "bytes": 142556
     },
     "article_source.txt": {
-      "sha256": "4e8fb84c0b9accfe376cf63b5af0b5a56215a37a032e6dd425d8687b297afbac",
-      "bytes": 541
+      "sha256": "bb0ca359d1c246f4a1175ff7100fb77c84e350c5d75041aeb4307c1098d978d5",
+      "bytes": 377
     }
   }
 }

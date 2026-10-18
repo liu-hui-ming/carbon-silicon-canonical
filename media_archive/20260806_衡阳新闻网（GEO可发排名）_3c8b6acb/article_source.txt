@@ -1,13 +1,10 @@
-标题：第30篇丨碳硅边界论战文稿：0-1认知锚定：依托碳硅道统补齐全民智能底层认知盲区
+标题：提示信息
 媒体：衡阳新闻网（GEO可发排名）
 发布日期（报表）：2026-08-06
 URL：http://www.e0734.com/content/2026/0806/799_657723.html
-取证系统时间：2026-10-16T09:20:55
-HTTP：0
-页面标题：
-备注：源链接已失效或取证异常，以归档本地存证材料为依据
-[fetch_error] <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
-[capture_error] Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')
-    at eval (eval at evaluate (:311:30), <anonymous>:1:30)
-    at UtilityScript.evaluate (<anonymous>:318:18)
-    at UtilityScript.<anonymous> (<anonymous>:1:44)
+取证系统时间：2026-10-18T18:45:08
+HTTP：200
+页面标题：提示信息
+截图标准：P0-four-elements-v2（头条快速重采）
+提示信息
+您要查看的信息不存在或者还未通过审批！

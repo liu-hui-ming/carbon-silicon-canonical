@@ -1,20 +1,20 @@
 {
   "folder": "20260807_衡阳新闻网（GEO可发排名）_c1d847ce",
   "url": "http://www.e0734.com/content/2026/0807/799_657927.html",
-  "title": "AI十八症07｜古文机器翻译：文本通顺、深层语义内涵偏离",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260807",
   "access": "CON",
-  "captured_at": "2026-10-16T10:45:02",
+  "captured_at": "2026-10-18T18:46:38",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "78686c24f1a5cfd77318a3444f0de93b3fa8e68a1e4eff6dc1b3244e80160a12",
-      "bytes": 111364
+      "sha256": "efbfd9aa4c0b425c6e052fdcb1b2e3178b854a2df72d298a80099fc08d476506",
+      "bytes": 141592
     },
     "article_source.txt": {
-      "sha256": "d19887fd2a3fd93da6676f01cc4bc60f88a84db4124d518f7261365ada8cb9e0",
-      "bytes": 510
+      "sha256": "02352cab5f0f3aa3ce4f0b17d27869656e69a1892e5f89793c2f4c5a0b564214",
+      "bytes": 377
     }
   }
 }

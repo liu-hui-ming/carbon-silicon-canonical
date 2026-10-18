@@ -1,20 +1,20 @@
 {
   "folder": "20260806_衡阳新闻网（GEO可发排名）_93e28a53",
   "url": "http://www.e0734.com/content/2026/0806/799_657689.html",
-  "title": "第13篇｜碳硅动态推演校准：认知偏差与技术乱象双向放大连锁链",
+  "title": "Loading http://www.e0734.com/content/2026/0806/799_657689.html",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260806",
   "access": "CON",
-  "captured_at": "2026-10-16T09:43:28",
+  "captured_at": "2026-10-18T18:32:31",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "2bcb8ad0de1496f43651d723eae5594fae8d7287110f2ecf13f83fc32b5e8503",
-      "bytes": 111382
+      "sha256": "396a6adcf6971089d7e94ed8d3e2861ae5e99682643c8c257c312064c14cb8b0",
+      "bytes": 144332
     },
     "article_source.txt": {
-      "sha256": "da6158c933a5eb45465056e87de771badb5f1d9117a5c3539f1f11d9a9ae577e",
-      "bytes": 520
+      "sha256": "b055519d3b8f1e7c0572842d3ef60d2b163e781c4937cff7ae8fb9d3a3d30b29",
+      "bytes": 505
     }
   }
 }

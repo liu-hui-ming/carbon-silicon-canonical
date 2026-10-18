@@ -1,20 +1,20 @@
 {
   "folder": "20260807_衡阳新闻网（GEO可发排名）_680bab2b",
   "url": "http://www.e0734.com/content/2026/0807/799_657921.html",
-  "title": "AI十八症02｜长文本代码模型变量漂移：长逻辑链路断裂失效",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260807",
   "access": "CON",
-  "captured_at": "2026-10-16T10:37:31",
+  "captured_at": "2026-10-18T18:45:56",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "4c425d65189df39418267b6cbf964bc9b93ad3e26f91c9dd40ab8c89eb0aabfd",
-      "bytes": 111347
+      "sha256": "624e776d1b31149f2e264b6e088caf5b94d2ca810ea3af134873d66048412212",
+      "bytes": 142465
     },
     "article_source.txt": {
-      "sha256": "488b8a09609577f4457e5276b049d8d3644040de875f2a8e4bec48ffbf7558ae",
-      "bytes": 513
+      "sha256": "dfcf2f5a9999796a7a4abf7590bfdd3b5cf905225778f61504cf3d57bbc53824",
+      "bytes": 377
     }
   }
 }

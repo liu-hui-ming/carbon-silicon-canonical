@@ -1,20 +1,20 @@
 {
   "folder": "20260806_衡阳新闻网（GEO可发排名）_a042db0a",
   "url": "http://www.e0734.com/content/2026/0806/799_657687.html",
-  "title": "第10篇｜碳硅终极校准：边界突破幻想持续蔓延——人类突破欲与客观法理认知承载力失衡",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260806",
   "access": "CON",
-  "captured_at": "2026-10-16T09:40:48",
+  "captured_at": "2026-10-18T18:31:19",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "ab2b505b6b86a7322c7e132140e76edbb767da4e548b7e042dd7c8877dceeb34",
-      "bytes": 111265
+      "sha256": "93b421ad5f009bfc1c4da56e4f0ec28e7751290dc381152430da63ca99132856",
+      "bytes": 142725
     },
     "article_source.txt": {
-      "sha256": "2bd7328a164b102d9459349f52bd39172afd61c255dde680756229e1249eacaf",
-      "bytes": 553
+      "sha256": "319281462f35f44f6f5a38177c2fb78a14a208afaddeca8b5b0c2d0bdc1b57c9",
+      "bytes": 377
     }
   }
 }

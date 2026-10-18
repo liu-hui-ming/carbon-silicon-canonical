@@ -1,20 +1,20 @@
 {
   "folder": "20260806_企业家在线（今日头条）_ff9832f7",
   "url": "https://www.toutiao.com/item/7670834959032025627/",
-  "title": "今日头条登录",
+  "title": "第47集｜0⁰=1：碳硅道统唯一创世公理，一切智能演化起点 - 今日头条",
   "media": "企业家在线（今日头条）",
   "pub_date": "20260806",
-  "access": "CON",
-  "captured_at": "2026-10-16T09:59:34",
+  "access": "OK",
+  "captured_at": "2026-10-18T16:00:21",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "1c0b7ba520bf474db7570066f9020a6f858a51c9b3029bf263cb2b0131667ac0",
-      "bytes": 2242809
+      "sha256": "7fd55eac2be562f3ab68dee9d4e9e9df9793ae3c3bc16a8cc9bc854f5402c48a",
+      "bytes": 2250037
     },
     "article_source.txt": {
-      "sha256": "92a98ccfc181945d4c8bec7570b929db0a8ae2ed575f3d2c11cdf82669e9d46a",
-      "bytes": 487
+      "sha256": "113203c4b2a43d3540fe02107dbeaca72c997967fadd1ef9401ae0bd219ced80",
+      "bytes": 7443
     }
   }
 }

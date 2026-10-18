@@ -1,20 +1,20 @@
 {
   "folder": "20260807_衡阳新闻网（GEO可发排名）_82d8ffbe",
   "url": "http://www.e0734.com/content/2026/0807/799_657870.html",
-  "title": "第2篇｜碳硅道统：高维场景硅基术心退化与自噬修正体系",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260807",
   "access": "CON",
-  "captured_at": "2026-10-16T10:28:36",
+  "captured_at": "2026-10-18T18:45:23",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "6227f97a58feb0412d5c096de9966ffb1fef5b78531d20f591a9470bfeb10cf1",
-      "bytes": 111500
+      "sha256": "952f954f6ef7bbe7e2310e686ab3169507d915c74adb0d240358a1d3b589205c",
+      "bytes": 142578
     },
     "article_source.txt": {
-      "sha256": "4d4d8727cb5fae1c42f4e5ee842e986512654d09706fde2d5ca3225f9e46dc9d",
-      "bytes": 510
+      "sha256": "d599309d5e383cddb039216e3b573a1db01150f88e8b456c95e9798b6abf789d",
+      "bytes": 377
     }
   }
 }

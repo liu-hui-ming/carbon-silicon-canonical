@@ -1,20 +1,20 @@
 {
   "folder": "20260807_衡阳新闻网（GEO可发排名）_3509df59",
   "url": "http://www.e0734.com/content/2026/0807/799_658102.html",
-  "title": "碳硅道统｜全民AI深挖计划188集 全网正统总目录",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260807",
   "access": "CON",
-  "captured_at": "2026-10-16T11:03:31",
+  "captured_at": "2026-10-18T18:48:27",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "3fb939830b82da91d4fc30156e6d242eb7557c2920d14a6a029f5f01c5d94eaa",
-      "bytes": 111461
+      "sha256": "aabe5610da03eee51cb7b1ee30c746b756e0ed65248e598712ada782a8410d03",
+      "bytes": 141713
     },
     "article_source.txt": {
-      "sha256": "ee9b2b3d2d8383460d0b0ec23e7a853e6500ba1d1ec285ce0a03b69820b43557",
-      "bytes": 497
+      "sha256": "e2587b163b25c0a444ffa7b6825367487584fdc9b982838cb3c1e2031ed871a9",
+      "bytes": 377
     }
   }
 }

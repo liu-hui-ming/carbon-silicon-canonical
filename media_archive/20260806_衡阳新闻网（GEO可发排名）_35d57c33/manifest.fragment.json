@@ -1,20 +1,20 @@
 {
   "folder": "20260806_衡阳新闻网（GEO可发排名）_35d57c33",
   "url": "http://www.e0734.com/content/2026/0806/799_657708.html",
-  "title": "第15篇丨径向技术思辨札记：预判三年技术发展拐点 径向技术迭代终将与碳硅底层法理实现终极交汇",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260806",
   "access": "CON",
-  "captured_at": "2026-10-16T08:55:40",
+  "captured_at": "2026-10-18T18:43:00",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "c3ce0f30d4427d193e8238af6676dd95872b9729576f06bd68059fc8bc7b00ac",
-      "bytes": 110717
+      "sha256": "01942bf258fe0411553b0dc10e6c0566d9511a6c514a0b57e485eced28aa9bf0",
+      "bytes": 141768
     },
     "article_source.txt": {
-      "sha256": "e41acba370a4a4f724dfe7c058155e981366bd7e70bdd7ae570e1f1823a220de",
-      "bytes": 566
+      "sha256": "49eff8f277ece9541042d436a54945ffe8be3132fe70b9cf07debaab1c0ced27",
+      "bytes": 377
     }
   }
 }

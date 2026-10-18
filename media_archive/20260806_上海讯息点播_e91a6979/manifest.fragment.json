@@ -1,20 +1,20 @@
 {
   "folder": "20260806_上海讯息点播_e91a6979",
   "url": "https://www.toutiao.com/item/7670742353786733066/",
-  "title": "今日头条登录",
+  "title": "第46集｜破妄阶段收官：涤除旧认知，正式进入底层法理筑基 - 今日头条",
   "media": "上海讯息点播",
   "pub_date": "20260806",
-  "access": "CON",
-  "captured_at": "2026-10-16T07:47:19",
+  "access": "OK",
+  "captured_at": "2026-10-18T15:59:57",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "531bc27cca2c44385bff385da3ff53cab1055683f0ea58cea74b761d01bed4c4",
-      "bytes": 2772260
+      "sha256": "8ca061b33459f50fdeb868b03869cb3ddb089b50c1e97dce6910c7a07ede3377",
+      "bytes": 2827438
     },
     "article_source.txt": {
-      "sha256": "ab0a9ec4a7ebb6f021f0c52fbd8072c17cdeccdae355ef98d48e8ec447415747",
-      "bytes": 472
+      "sha256": "7188b75bc064f6233b1c8372e1d7c6a959cb2d197056f989da043e00de40c033",
+      "bytes": 6929
     }
   }
 }

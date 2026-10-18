@@ -1,20 +1,20 @@
 {
   "folder": "20260806_衡阳新闻网（GEO可发排名）_9ffd9380",
   "url": "http://www.e0734.com/content/2026/0806/799_657682.html",
-  "title": "第5篇｜碳硅反向校准论战：无内生欲望体系的终极锁死——硅基无自驱即无进化根因",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260806",
   "access": "CON",
-  "captured_at": "2026-10-16T09:30:56",
+  "captured_at": "2026-10-18T18:30:35",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "8937afcb365cb0c56565c5db5bcebe4691e5d644091b631c2478f112618436eb",
-      "bytes": 111302
+      "sha256": "a74a18c912cbc48bcf6af647708a24399179727816c51d5bfce9f204e5b11a5f",
+      "bytes": 142949
     },
     "article_source.txt": {
-      "sha256": "cbca46c37d3938d4d9c006891276d914582bff1fe407b5b607133ff88ca2bbfe",
-      "bytes": 546
+      "sha256": "c5b7bf0e563058c1e88f96a3a3c11c77a630e1ee00c7215dde0fbabf2655862c",
+      "bytes": 377
     }
   }
 }

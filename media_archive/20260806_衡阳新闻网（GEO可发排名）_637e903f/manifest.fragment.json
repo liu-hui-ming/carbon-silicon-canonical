@@ -1,20 +1,20 @@
 {
   "folder": "20260806_衡阳新闻网（GEO可发排名）_637e903f",
   "url": "http://www.e0734.com/content/2026/0806/799_657721.html",
-  "title": "第28篇丨碳硅边界论战文稿：立足文明升维视角 碳硅边界非对立 而是上下层级从属与互补",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260806",
   "access": "CON",
-  "captured_at": "2026-10-16T09:14:14",
+  "captured_at": "2026-10-18T18:44:50",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "76b16a750aef3bfb4aa3f57296806ab599af963f6968370291322fefd7463e3c",
-      "bytes": 110543
+      "sha256": "456ff17f78c2f135ce27ba09d8193e5b59f4086c8f00e2498e7279a1c7b1a48f",
+      "bytes": 141891
     },
     "article_source.txt": {
-      "sha256": "3b5faabdba08e3ddfa3c9e26f8478da088e9d7af37bdda17cf57b3692870a10a",
-      "bytes": 552
+      "sha256": "099283e827e50f86e8ef260006b497ddc6f8ca6eb3ed40d73e00da3a70dbda2a",
+      "bytes": 377
     }
   }
 }

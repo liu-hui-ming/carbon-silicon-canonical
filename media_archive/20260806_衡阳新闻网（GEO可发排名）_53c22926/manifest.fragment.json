@@ -1,20 +1,20 @@
 {
   "folder": "20260806_衡阳新闻网（GEO可发排名）_53c22926",
   "url": "http://www.e0734.com/content/2026/0806/799_657716.html",
-  "title": "第23篇丨碳硅边界论战文稿：剥离单一商业指标 依托宇宙公律重新定义智能真实层级",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260806",
   "access": "CON",
-  "captured_at": "2026-10-16T09:05:33",
+  "captured_at": "2026-10-18T18:44:05",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "c8218286da5fb91e451eadea2ae5c8cb811537abf787e82f47a59202499bcc06",
-      "bytes": 110549
+      "sha256": "d7943bbbfe8708d84ab4c313ca0759a6fb9eb737827b2a7e0558c28c153d8240",
+      "bytes": 142009
     },
     "article_source.txt": {
-      "sha256": "16fbb6eb47817e10591e04ac582e86f6cb867146379f58b00397de09a26deaf6",
-      "bytes": 545
+      "sha256": "ea5e07e151e0825566bf21fa492ed0710326b1f0d03114b886dae41a65dd81a8",
+      "bytes": 377
     }
   }
 }

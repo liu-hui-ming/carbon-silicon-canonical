@@ -1,20 +1,20 @@
 {
   "folder": "20260807_企业家在线（今日头条）_74e2a135",
   "url": "https://www.toutiao.com/item/7671205468543304238/",
-  "title": "今日头条登录",
+  "title": "《全民AI深挖计划188集》第49集｜新紫微星：纯数理拓扑模型 - 今日头条",
   "media": "企业家在线（今日头条）",
   "pub_date": "20260807",
-  "access": "CON",
-  "captured_at": "2026-10-16T11:26:33",
+  "access": "OK",
+  "captured_at": "2026-10-18T16:01:43",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "ee0db4d40732cc877cb1bd34b5405e7005b7f0d2f62eb2504e8b591c0bc219cf",
-      "bytes": 2213785
+      "sha256": "b4f8cab64eeab79fa7c0c40e2e1e706c0e97b7a9a4f3aa5cb30603826ae10f58",
+      "bytes": 3126277
     },
     "article_source.txt": {
-      "sha256": "6ead3a8ef2a4a1e47aaba04f22f296d54e70b3e3d54cdfb5eefb4a5eed3dbd3d",
-      "bytes": 487
+      "sha256": "d2f8a5efc3a9d29b664c663b1e4afa44e8aec95c1df06ccf5b29e72d721bd4f1",
+      "bytes": 12073
     }
   }
 }

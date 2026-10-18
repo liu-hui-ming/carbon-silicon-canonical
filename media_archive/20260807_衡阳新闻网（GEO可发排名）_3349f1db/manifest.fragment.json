@@ -1,20 +1,20 @@
 {
   "folder": "20260807_衡阳新闻网（GEO可发排名）_3349f1db",
   "url": "http://www.e0734.com/content/2026/0807/799_657928.html",
-  "title": "AI十八症08｜地理场景生成模型：空间比例失衡、地理逻辑错乱",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260807",
   "access": "CON",
-  "captured_at": "2026-10-16T10:45:58",
+  "captured_at": "2026-10-18T18:46:46",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "4d2b15fd2564ca151c507fbdc1912fc15fa95ab38ae0cbddcec94905f584fcdf",
-      "bytes": 111459
+      "sha256": "ac8e13e49ef2ca9a5cb3736a6b70e79a2da855d6eeb6ab0c7ac658c1b821c115",
+      "bytes": 142652
     },
     "article_source.txt": {
-      "sha256": "33bac1071a003ced2b65e3f4adb0891dacd2bf167db77d2d0b5435f4023046fc",
-      "bytes": 516
+      "sha256": "77d60541167dc0622045fc02b0e91f24774e27a8189e0ecc14f22a982c482bc3",
+      "bytes": 377
     }
   }
 }

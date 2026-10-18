@@ -1,20 +1,20 @@
 {
   "folder": "20260807_衡阳新闻网（GEO可发排名）_697d139e",
   "url": "http://www.e0734.com/content/2026/0807/799_657931.html",
-  "title": "AI十八症11｜任务型对话系统：业务闭环失效、模板应答局限",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260807",
   "access": "CON",
-  "captured_at": "2026-10-16T10:54:25",
+  "captured_at": "2026-10-18T18:47:11",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "8214d0fae7290e500cbf6c60b82ccebe85c96677aefae1f2fa74af4073dc6fcb",
-      "bytes": 111430
+      "sha256": "22b2f6dffd6552f6ebc695fd1c8e8b94d62361a93c4dec80007c18a15ecfe2be",
+      "bytes": 141577
     },
     "article_source.txt": {
-      "sha256": "e45ff8f4bd7852c5a91649a0bda47ebeb723728ab43b8da2b202ebb43d4d16b2",
-      "bytes": 513
+      "sha256": "ca28c24762da957319ba9cdabb1702c6aec31d699469d35a3850b1c835065cc9",
+      "bytes": 377
     }
   }
 }

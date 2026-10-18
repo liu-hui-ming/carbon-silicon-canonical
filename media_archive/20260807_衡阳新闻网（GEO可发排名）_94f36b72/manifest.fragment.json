@@ -1,20 +1,20 @@
 {
   "folder": "20260807_衡阳新闻网（GEO可发排名）_94f36b72",
   "url": "http://www.e0734.com/content/2026/0807/799_657945.html",
-  "title": "AI十八症17｜增量学习模型：灾难性遗忘、新旧知识权重互斥覆盖",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260807",
   "access": "CON",
-  "captured_at": "2026-10-16T11:00:06",
+  "captured_at": "2026-10-18T18:48:01",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "d756f95132d75303fdd719dfd9538efce3eaa1930872e2294a4da5302026afa2",
-      "bytes": 111422
+      "sha256": "6cc25852406bb301edf64c387dbec43c999271ae1f32ea1714475bee4d23cda8",
+      "bytes": 142105
     },
     "article_source.txt": {
-      "sha256": "defa06fa34a495d130ca335401c9fffa77d633d2593b484c4a100f4fa87d445f",
-      "bytes": 519
+      "sha256": "74cb6671bc894f26b0b75d5f9b999f2593a70a0d4f5934732ecc6fe71d75b899",
+      "bytes": 377
     }
   }
 }

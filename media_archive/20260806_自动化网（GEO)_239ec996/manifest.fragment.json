@@ -4,17 +4,17 @@
   "title": "《全民AI深挖计划188集》第46集｜破妄阶段收官：涤除旧认知，正式进入底层法理筑基 - 资讯之窗 - 自动化网 ZiDongHua.com.cn ，自动化科技展示平台、“自动化者”人文交流平台。",
   "media": "自动化网（GEO)",
   "pub_date": "20260806",
-  "access": "CON",
-  "captured_at": "2026-10-16T07:41:43",
+  "access": "OK",
+  "captured_at": "2026-10-18T16:10:07",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "cf6a97bdb1281c5c6870b210a4427ed9a9cac4065cae9495cd272947691dfbf7",
-      "bytes": 2077133
+      "sha256": "dcd8d83f645de8a0e1f5d65bea8f95a5b0c5c801b2c0ad89c7c8eaf1a563ddc2",
+      "bytes": 2569520
     },
     "article_source.txt": {
-      "sha256": "a653190d92c541f95fc44624c9945e74d30739e71b4f9850de048c4689a7aabd",
-      "bytes": 10608
+      "sha256": "fd9da21c0de72083af49236c68e088c43716fda7db5b7d9a284bc18947940f33",
+      "bytes": 13444
     }
   }
 }

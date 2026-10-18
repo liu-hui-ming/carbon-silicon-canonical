@@ -1,20 +1,20 @@
 {
   "folder": "20260806_衡阳新闻网（GEO可发排名）_8be0bd36",
   "url": "http://www.e0734.com/content/2026/0806/799_657679.html",
-  "title": "第2篇｜碳硅反向校准论战：径向读取的信息残缺定理——可采集为表象、不可捕捉为本源",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260806",
   "access": "CON",
-  "captured_at": "2026-10-16T09:28:16",
+  "captured_at": "2026-10-18T18:30:10",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "8350071435c1ac81d4a36de2c456aa102d7e9ee321063abda37ab7f668e632d8",
-      "bytes": 111279
+      "sha256": "df2dd640683be896bf8ae552382da5b74ed2063371b8ddb1219445b4c7be20da",
+      "bytes": 141829
     },
     "article_source.txt": {
-      "sha256": "e81d8cf951aa2ee360ee95245f867515b0f0b078f8bbe6e5a7847d4f310ad53f",
-      "bytes": 552
+      "sha256": "f999902730e7321d6d0bb5cca1800862c664b1c0f5d7a48151b28c6718cd38dd",
+      "bytes": 377
     }
   }
 }

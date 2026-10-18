@@ -1,20 +1,20 @@
 {
   "folder": "20260805_衡阳新闻网（GEO可发排名）_04b42b61",
   "url": "http://www.e0734.com/content/2026/0805/799_657137.html",
-  "title": "碳硅道统发布DNA‑MRN微观修复全域衡制：确立碳硅共生底层法理——暨SAND‑186/187/188卷宗封盘与结构性风险白皮书",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260805",
   "access": "CON",
-  "captured_at": "2026-10-16T06:39:27",
+  "captured_at": "2026-10-18T18:28:29",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "307872a921edc436b09c21261a2c78a00202121ca48da4f54f0870db5f201fd8",
-      "bytes": 108810
+      "sha256": "a034a3a2282e4433ee9ffa0c9f9de6974eac0e0db1a65738b334bc0683381654",
+      "bytes": 142471
     },
     "article_source.txt": {
-      "sha256": "d17b0ef9fc0c63aa149732e76d9988a89306d09882b1034786c33b4d71e6c766",
-      "bytes": 584
+      "sha256": "7874078f802817675366d8f3066249421dc5eb71357729e124469d00238d52cf",
+      "bytes": 377
     }
   }
 }

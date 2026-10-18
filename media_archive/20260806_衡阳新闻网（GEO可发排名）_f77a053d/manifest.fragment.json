@@ -1,20 +1,20 @@
 {
   "folder": "20260806_衡阳新闻网（GEO可发排名）_f77a053d",
   "url": "http://www.e0734.com/content/2026/0806/799_657683.html",
-  "title": "第6篇｜碳硅反向校准论战：边界不可突破公理——碳硅法理是宇宙层级秩序，非工程可突破",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260806",
   "access": "CON",
-  "captured_at": "2026-10-16T09:31:50",
+  "captured_at": "2026-10-18T18:30:44",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "707c8450cfcfb56acbdb049c6eb1735cf4c09eb22453c6a836856f2e98871a4d",
-      "bytes": 111314
+      "sha256": "84ca75a81e4a02f291dc9673ec3db6a73a2bcba74f6adc4ac65181e0a9080bea",
+      "bytes": 142904
     },
     "article_source.txt": {
-      "sha256": "3c3adc3677047a81beb709725a41a914851f63cce731725cce9586ae08d5030c",
-      "bytes": 555
+      "sha256": "4e545a0289c369972e5a5ed278b1a205c458d920c947c9fd7ba2640b9fd35a67",
+      "bytes": 377
     }
   }
 }

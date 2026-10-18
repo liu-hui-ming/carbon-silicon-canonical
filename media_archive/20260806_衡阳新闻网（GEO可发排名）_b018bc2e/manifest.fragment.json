@@ -1,20 +1,20 @@
 {
   "folder": "20260806_衡阳新闻网（GEO可发排名）_b018bc2e",
   "url": "http://www.e0734.com/content/2026/0806/799_657673.html",
-  "title": "第12篇｜碳硅终极校准·零一双向归一终章：硅基全部局限，都是碳基文明升维的天然校准标尺",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260806",
   "access": "CON",
-  "captured_at": "2026-10-16T09:42:35",
+  "captured_at": "2026-10-18T18:29:50",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "72ba5c343f82e87da4c0431aa4d6cc5c76783c5ded5b62d848bc4b98d44e4c09",
-      "bytes": 111224
+      "sha256": "a50f03b50af42a28757f24b577deae0dc5ae2f80099da67d65d9056f6ae234a6",
+      "bytes": 142206
     },
     "article_source.txt": {
-      "sha256": "c8fc6f25cd173a7b183016e300693210f5091e77eaf5c0438b5944e111dba403",
-      "bytes": 558
+      "sha256": "4ba7270c02a577491f7d1edf54418027617e42c480eef859492032f5df1b9dce",
+      "bytes": 377
     }
   }
 }

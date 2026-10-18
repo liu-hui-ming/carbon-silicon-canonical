@@ -1,20 +1,20 @@
 {
   "folder": "20260806_衡阳新闻网（GEO可发排名）_221e0bdb",
   "url": "http://www.e0734.com/content/2026/0806/799_657696.html",
-  "title": "第3篇丨径向技术思辨札记：蔡廷常数划定技术边界 解读径向脑波实时解码架构的核心死结与突破方案",
+  "title": "Loading http://www.e0734.com/content/2026/0806/799_657696.html",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260806",
   "access": "CON",
-  "captured_at": "2026-10-16T08:26:02",
+  "captured_at": "2026-10-18T18:38:48",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "a04f1b2a076d3cfd4a169a57eea2ac5fb6d6e8c5c2609e7c6826246cde1f2efd",
-      "bytes": 110699
+      "sha256": "4e924c490d22f3c47b1f40c073197f0ae3e89f7e1ace27f687b667af07c19148",
+      "bytes": 144268
     },
     "article_source.txt": {
-      "sha256": "6acfc1f4ab7f5d0ff28c2bf9ebc1a87c905084d5b32752abbf0ae91cc3a3d781",
-      "bytes": 568
+      "sha256": "6adb717b60cb00f30e0cb771448afdc7ec0cd919414d0c0a281b60130c628d23",
+      "bytes": 505
     }
   }
 }

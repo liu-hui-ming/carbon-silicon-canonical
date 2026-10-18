@@ -1,20 +1,20 @@
 {
   "folder": "20260806_衡阳新闻网（GEO可发排名）_17279534",
   "url": "http://www.e0734.com/content/2026/0806/799_657719.html",
-  "title": "第26篇丨碳硅边界论战文稿：厘清核心论战焦点 径向技术仅属工具层 绝非觉知本源层入场券",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260806",
   "access": "CON",
-  "captured_at": "2026-10-16T09:12:28",
+  "captured_at": "2026-10-18T18:44:32",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "89c920a28de00161f8b382b9ec0da43c88f9b7b6f03ac4cb768b52a9fe729c4f",
-      "bytes": 110715
+      "sha256": "d596f3e5312b8ff7e15913b46d8ad2c464f78465a8afd99a034859c7910c1f8f",
+      "bytes": 142167
     },
     "article_source.txt": {
-      "sha256": "78d6a6afe71982a76182eacc42f48dddd07a56e7ab0aa1b7c5af529e3e59d24e",
-      "bytes": 555
+      "sha256": "410382598e5e7a6ad9014dee152b4d5313b0a88589ef45aee8138126ec6863f5",
+      "bytes": 377
     }
   }
 }

@@ -1,20 +1,20 @@
 {
   "folder": "20260807_衡阳新闻网（GEO可发排名）_36dbdc1a",
   "url": "http://www.e0734.com/content/2026/0807/799_657930.html",
-  "title": "AI十八症10｜模型迭代训练：性能反向退化、输出效果震荡衰减",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260807",
   "access": "CON",
-  "captured_at": "2026-10-16T10:50:40",
+  "captured_at": "2026-10-18T18:47:03",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "112eaa88f84302e60fbc84c7e8e19f85f06c805c7d107df178d02b138fe4fe15",
-      "bytes": 111482
+      "sha256": "0a40a2dc8f2fcda2e57f4ec814d9aab0bceb28a0a45fb1c1cd6f7a9036c7494d",
+      "bytes": 142061
     },
     "article_source.txt": {
-      "sha256": "c1495ce6fbfbe9ffd4821bb0a4a09e174877be285532919a30841a2fc11034ff",
-      "bytes": 516
+      "sha256": "de5d087e67fee16af4cf12fc182413df243fb68b61b274628c90c9ef9805a700",
+      "bytes": 377
     }
   }
 }
