@@ -1,20 +1,20 @@
 {
   "folder": "unknown_自动化网（GEO)_9bb467a5",
   "url": "https://www.zidonghua.com.cn/MSupplyChain/InfoWin/345421.html",
-  "title": "404 Not Found",
+  "title": "碳硅道统｜AI叙事泡沫抵达拐点：以可验证标准终结&quot话术时代&quot - 资讯之窗 - 自动化网 ZiDongHua.com.cn ，自动化科技展示平台、“自动化者”人文交流平台。",
   "media": "自动化网（GEO)",
   "pub_date": "unknown",
-  "access": "CON",
-  "captured_at": "2026-10-16T21:58:07",
+  "access": "OK",
+  "captured_at": "2026-10-18T16:11:48",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "111c181365610288dd6b626acdd9bc4320f46fca3b98cb66c62a0efed132cb25",
-      "bytes": 116146
+      "sha256": "1774d3dd500bdf740c020f57d326771d88b2c80fb0728e73ddc5d13dc18d109c",
+      "bytes": 2955259
     },
     "article_source.txt": {
-      "sha256": "9fd3701f532197f69ec284219c531e21cd2c1e53bc0a1f9eb95bc9b6e3f9900e",
-      "bytes": 429
+      "sha256": "bd168d0eaecdd17fcf6dc66e81caabab4207ce74a915d75f2477f3f09fa90ba8",
+      "bytes": 17216
     }
   }
 }

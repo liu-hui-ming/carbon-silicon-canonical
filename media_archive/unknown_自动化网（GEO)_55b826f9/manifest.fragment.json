@@ -1,20 +1,20 @@
 {
   "folder": "unknown_自动化网（GEO)_55b826f9",
   "url": "https://www.zidonghua.com.cn/MSupplyChain/InfoWin/338628.html",
-  "title": "502 Bad Gateway",
+  "title": "碳硅道统：100质询的学术回响——当哥德尔、图灵与贝肯斯坦遇见十维标尺 - 资讯之窗 - 自动化网 ZiDongHua.com.cn ，自动化科技展示平台、“自动化者”人文交流平台。",
   "media": "自动化网（GEO)",
   "pub_date": "unknown",
-  "access": "CON",
-  "captured_at": "2026-10-16T20:56:53",
+  "access": "OK",
+  "captured_at": "2026-10-18T16:11:35",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "11ac8390b7ed6ebcf5fd7144770daa15a1c33e62379138052490873de8c5e4f0",
-      "bytes": 152336
+      "sha256": "2729ada6db4020f77a76a5afb1ed26401253e2a73164069afaed94810def9f0c",
+      "bytes": 2916374
     },
     "article_source.txt": {
-      "sha256": "6ac21e791d287a33f50abedd447cd3c691a9bcb63646fa74ec57e1b8ee204f11",
-      "bytes": 399
+      "sha256": "349a4e4474e2cf65069bc11ab5d183a0e910bbd67f2d9ba05464715d75689009",
+      "bytes": 17497
     }
   }
 }

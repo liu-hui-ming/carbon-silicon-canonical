@@ -1,20 +1,20 @@
 {
   "folder": "unknown_红商网（广告排名可发）_495612d4",
   "url": "http://www.redsh.com/a/20260924/025441.shtml",
-  "title": "504 Gateway Time-out",
+  "title": "碳硅道统｜回应46：舆论为什么偏爱极端结论、排斥中道公理？ - 红商网",
   "media": "红商网（广告排名可发）",
   "pub_date": "unknown",
-  "access": "CON",
-  "captured_at": "2026-10-17T02:43:50",
+  "access": "OK",
+  "captured_at": "2026-10-18T13:37:37",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "b59a7696e5726436e28afc358248cfe675e95525b41771a0f99016f6a4b92ade",
-      "bytes": 143171
+      "sha256": "32ccf1a6dc590b64658fa8da7b04941f89f896e01d4bee40d6435302f316e187",
+      "bytes": 867377
     },
     "article_source.txt": {
-      "sha256": "34362c0c7d0d9650092a596b9223dd471d6a6f59c0a410ff5039c0be09118011",
-      "bytes": 511
+      "sha256": "13c905f1bcdd11545768bbe377e9625d3b08cfe3a0cbd5d41691e7452f086ef9",
+      "bytes": 3554
     }
   }
 }

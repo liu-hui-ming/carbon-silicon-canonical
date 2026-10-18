@@ -5,16 +5,16 @@
   "media": "黄山新闻网",
   "pub_date": "unknown",
   "access": "CON",
-  "captured_at": "2026-10-16T20:09:46",
+  "captured_at": "2026-10-18T17:44:36",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "08eaab94918921a73d1d3987710bfb7d3f2ac0d3ad0132fbf7b00036d57b3187",
-      "bytes": 161153
+      "sha256": "3074c695344886c608535f7d71c2838594c8b47ecba39202ce2fe1d54a2af049",
+      "bytes": 144333
     },
     "article_source.txt": {
-      "sha256": "9811dc109edef2cd001fedbf8ad121ec7ab2eaeae7aa280615e2b75143c8aaca",
-      "bytes": 421
+      "sha256": "c8813471ccffbc18634c9f71e13a781dba8ceb6d8f97518bd9e42974f9db3730",
+      "bytes": 522
     }
   }
 }

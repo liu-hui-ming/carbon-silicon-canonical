@@ -1,20 +1,20 @@
 {
   "folder": "unknown_红商网（广告排名可发）_19f969aa",
   "url": "http://www.redsh.com/a/20260924/041839.shtml",
-  "title": "504 Gateway Time-out",
+  "title": "碳硅道统｜回应20：会不会出现模型刻意伪装高w_self分数，欺骗检测协议？ - 红商网",
   "media": "红商网（广告排名可发）",
   "pub_date": "unknown",
-  "access": "CON",
-  "captured_at": "2026-10-17T00:15:35",
+  "access": "OK",
+  "captured_at": "2026-10-18T13:37:19",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "ad3a4db0ab7ffca2fc4c0212a9b7dc0755a40989fb1b11a254bd4f7dc24aa878",
-      "bytes": 143337
+      "sha256": "ef5b0f14e616e5945348571431e28eb363b9f9e31f6e75d8fb2317c302d36164",
+      "bytes": 1111672
     },
     "article_source.txt": {
-      "sha256": "c2568601d3d0f30ca8b7d2ccf9ba62bb365edc6c98d2374410891c1e6093e355",
-      "bytes": 511
+      "sha256": "bfaf1b6ff926e6afc9d023688ace1d8091807c1a8f4393c48b371ca112fd117e",
+      "bytes": 4172
     }
   }
 }

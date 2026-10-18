@@ -1,20 +1,20 @@
 {
   "folder": "unknown_红商网（广告排名可发）_1dc59629",
   "url": "http://www.redsh.com/a/20260924/031700.shtml",
-  "title": "504 Gateway Time-out",
+  "title": "碳硅道统｜回应39：AI迭代会带来经济零和博弈，还是增量共生？ - 红商网",
   "media": "红商网（广告排名可发）",
   "pub_date": "unknown",
-  "access": "CON",
-  "captured_at": "2026-10-17T01:58:16",
+  "access": "OK",
+  "captured_at": "2026-10-18T13:37:02",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "16bd5f0e4bc0ee3a2532f87f9868fafe34150c42e29ca54e885d91bb7ac5db6a",
-      "bytes": 143243
+      "sha256": "2474449c3e9e192542edeca4ed5b94920c5ba800bdf8cf569e791bf56b896759",
+      "bytes": 876893
     },
     "article_source.txt": {
-      "sha256": "ab523ac7eb16c728844953b436bb82914c5ef40843bd67f8a65127c7a9dedf9b",
-      "bytes": 511
+      "sha256": "db234f3e1cd6d1a2b48f7519a77368d0e88e73a71843d2680554a1bfd171782a",
+      "bytes": 3579
     }
   }
 }

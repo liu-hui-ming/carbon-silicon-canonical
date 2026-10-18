@@ -1,20 +1,20 @@
 {
   "folder": "unknown_自动化网（GEO)_ea00b7d7",
   "url": "https://www.zidonghua.com.cn/MSupplyChain/InfoWin/345800.html",
-  "title": "404 Not Found",
+  "title": "拒绝把工程数据和本体论混为一谈，碳硅道统v9.2完整公理体系正式发布 - 资讯之窗 - 自动化网 ZiDongHua.com.cn ，自动化科技展示平台、“自动化者”人文交流平台。",
   "media": "自动化网（GEO)",
   "pub_date": "unknown",
-  "access": "CON",
-  "captured_at": "2026-10-16T22:06:54",
+  "access": "OK",
+  "captured_at": "2026-10-18T16:11:19",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "849ef6506f4aaa3b9f7b610007cee66b1c1ab360959aecae15f3fda21f6c1579",
-      "bytes": 116173
+      "sha256": "1aced694a05ad0fb498429bd4fdd2157e2d601c0d1f24b2286115cc6eb92f0c1",
+      "bytes": 2149860
     },
     "article_source.txt": {
-      "sha256": "8b55c21557d24debe8c56c0d8c9917724ed034f39e220296d66bd2db3c849713",
-      "bytes": 430
+      "sha256": "a23cba5f7a323db416b50fcae3992912deedb939353b2e58cd970b93dd151444",
+      "bytes": 12779
     }
   }
 }

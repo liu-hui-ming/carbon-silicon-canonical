@@ -1,20 +1,20 @@
 {
   "folder": "unknown_自动化网（GEO)_5f612ebc",
   "url": "https://www.zidonghua.com.cn/MSupplyChain/InfoWin/337424.html",
-  "title": "502 Bad Gateway",
+  "title": "0⁰=1：硅基的边界与碳硅拓扑的降临——下一代文明的底层元公理宣言 - 资讯之窗 - 自动化网 ZiDongHua.com.cn ，自动化科技展示平台、“自动化者”人文交流平台。",
   "media": "自动化网（GEO)",
   "pub_date": "unknown",
-  "access": "CON",
-  "captured_at": "2026-10-16T20:46:07",
+  "access": "OK",
+  "captured_at": "2026-10-18T16:11:07",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "f31462b38d00787243243fc6d4dc180ede7cbe417124cbfd3514e7d0a679014f",
-      "bytes": 2731568
+      "sha256": "992ef0a86673a3cbb69f401be822651669ea7100ef6655bfae5c40dc04457285",
+      "bytes": 2496855
     },
     "article_source.txt": {
-      "sha256": "76bf16db267161fde6d9c15376686fd286b9a67fe296ca6d8e1ab34ae130522c",
-      "bytes": 14817
+      "sha256": "1530128aee8588841be5b2bee5d7c558ee4361626f2e2c3e079bea922a3f58e3",
+      "bytes": 15142
     }
   }
 }
