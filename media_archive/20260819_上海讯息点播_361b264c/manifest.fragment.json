@@ -1,0 +1,20 @@
+{
+  "folder": "20260819_上海讯息点播_361b264c",
+  "url": "https://www.toutiao.com/item/7675785610526802470/",
+  "title": "碳硅道统十大核心典籍 - 今日头条",
+  "media": "上海讯息点播",
+  "pub_date": "20260819",
+  "access": "OK",
+  "captured_at": "2026-10-18T16:52:33",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "page_screenshot.png": {
+      "sha256": "21d6936e5f32c999e83f5bfee5b06d7019d045258f374d138f7ac7f05df21607",
+      "bytes": 2601805
+    },
+    "article_source.txt": {
+      "sha256": "99a34ade5fa7e6d1b95a2533cb73d70360f360d600e4c5e50c6e52dc1526b2df",
+      "bytes": 12446
+    }
+  }
+}

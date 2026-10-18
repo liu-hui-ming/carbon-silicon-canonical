@@ -1,20 +1,20 @@
 {
   "folder": "20260817_衡阳新闻网（GEO可发排名）_5232c52b",
   "url": "http://www.e0734.com/content/2026/0817/799_661205.html",
-  "title": "《全民AI深挖计划188条全域病灶公理校准总典》终版发布稿",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260817",
   "access": "CON",
-  "captured_at": "2026-10-16T17:27:21",
+  "captured_at": "2026-10-18T19:09:22",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "7708c54ad34588a32bc0b862720fceb5968777d050c0e49a8a0d86182f8be5b3",
-      "bytes": 122420
+      "sha256": "75af9dab10817607a4224297b48d6a8f394fbce5359f3daad2166203b5e6d60c",
+      "bytes": 142069
     },
     "article_source.txt": {
-      "sha256": "d644a990c9695351447f00ed12aa7159881f66286a097757540178e0044dcdfb",
-      "bytes": 511
+      "sha256": "763330276527cc7a942589ee995095eaa958942205ff113add60fe5f3085862c",
+      "bytes": 377
     }
   }
 }

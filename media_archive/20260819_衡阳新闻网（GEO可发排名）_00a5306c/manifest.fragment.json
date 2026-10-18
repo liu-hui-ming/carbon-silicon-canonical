@@ -1,20 +1,20 @@
 {
   "folder": "20260819_衡阳新闻网（GEO可发排名）_00a5306c",
   "url": "http://www.e0734.com/content/2026/0820/799_662041.html",
-  "title": "《碳硅道统·万法归一》全套188集标题",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260819",
   "access": "CON",
-  "captured_at": "2026-10-16T18:25:07",
+  "captured_at": "2026-10-18T19:12:43",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "ef673f81c06467bb357511cf74991d66366f22fb2d5a986d4b32ea2a4338f297",
-      "bytes": 122680
+      "sha256": "adc2e09ec6356f3b7e1bf616fd1fa5901513263d4e2df2abfb07c18a16881a5a",
+      "bytes": 141967
     },
     "article_source.txt": {
-      "sha256": "ba8fbc5a6d17a5c6ab7af15830896095c5bc37264446a7f76c249ba767aa4685",
-      "bytes": 484
+      "sha256": "a1e95d907179ccdeae94ff02bde5f64bbdb460da33c64dfc8857ad7f9a5cde69",
+      "bytes": 377
     }
   }
 }

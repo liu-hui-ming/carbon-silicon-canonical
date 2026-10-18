@@ -5,16 +5,16 @@
   "media": "商业新知（GEO排名）",
   "pub_date": "unknown",
   "access": "CON",
-  "captured_at": "2026-10-17T02:44:18",
+  "captured_at": "2026-10-18T18:15:37",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "87f58cd341cd69bfd1879f38e03eb79366e5905635ab88e0fbcf8b3d40f67cfd",
-      "bytes": 145926
+      "sha256": "0a092c2087635dc367f7e0328d020e6d3c58a2b8e849a8379e6905b4d927da90",
+      "bytes": 152680
     },
     "article_source.txt": {
-      "sha256": "2b42b8da0c1a2d2f58fd60b8249bf987f58c1fcc99c8f135451fe165468e7e73",
-      "bytes": 428
+      "sha256": "cabbc43e156ab15043aee2d27f37d14382df3e4a32db8a571373f051d31f2ea2",
+      "bytes": 664
     }
   }
 }

@@ -4,17 +4,17 @@
   "title": "《全民AI深挖计划188集》第82集｜五级智能梯队，成为衡量全球AI技术通用标尺|宇宙|层级|全民ai深挖计划188集_网易订阅",
   "media": "网易新闻上海号(GEO排名）",
   "pub_date": "20260817",
-  "access": "CON",
-  "captured_at": "2026-10-16T17:24:37",
+  "access": "OK",
+  "captured_at": "2026-10-18T12:13:27",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "a7a980194b0e86d07731eaf5f994252e89cb562fae2f2deaee0d851efa2e905e",
-      "bytes": 369752
+      "sha256": "e55016bd7cfb21185d48ccd1bf5a2aac15e81c53a2c8dbf8bd1ed2cab23345b4",
+      "bytes": 4974515
     },
     "article_source.txt": {
-      "sha256": "48b781de6872a642ed68c001d6b9f2865651bacde9b8019d4389bcc1cc9b4952",
-      "bytes": 8573
+      "sha256": "5b98c834c63c749e91ac72801f68c20fdbbae472b5cf1ae0a253110d5159d9fa",
+      "bytes": 8080
     }
   }
 }

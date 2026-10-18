@@ -5,16 +5,16 @@
   "media": "企业观察网（企业观察报）",
   "pub_date": "unknown",
   "access": "CON",
-  "captured_at": "2026-10-16T19:40:04",
+  "captured_at": "2026-10-18T17:27:27",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "aa668d54e77206bb4ae5c6e1b564ad954288469e8c91ab09e9ee8e7717efb080",
-      "bytes": 161567
+      "sha256": "7ddd5c65301e2860d4b6ebe7e7d294a7a9e5e8ca66736fa5618c8f1a1b148161",
+      "bytes": 105438
     },
     "article_source.txt": {
-      "sha256": "330792c0d7c210ee596ca961bf99ce25b47d5c353e255f5ef895c08afa886988",
-      "bytes": 444
+      "sha256": "2fc22e206a31027d4aaba920549f114dd470788e5b534e1b271c62daa7bb761c",
+      "bytes": 692
     }
   }
 }

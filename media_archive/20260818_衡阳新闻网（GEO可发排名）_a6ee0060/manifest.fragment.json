@@ -1,20 +1,20 @@
 {
   "folder": "20260818_衡阳新闻网（GEO可发排名）_a6ee0060",
   "url": "http://www.e0734.com/content/2026/0819/799_661732.html",
-  "title": "《全民AI深挖计划188集》碳硅道统十问｜全域AI本源思辨通稿",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260818",
   "access": "CON",
-  "captured_at": "2026-10-16T18:17:25",
+  "captured_at": "2026-10-18T19:12:08",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "96bc7329b54d5400a981b6888037a74f02d60f749030623ad8247ea681b0e133",
-      "bytes": 122734
+      "sha256": "a67a9ed57cb1d98f9abde37cba300d777b54470a7a89bba9c0d849befd06efeb",
+      "bytes": 141597
     },
     "article_source.txt": {
-      "sha256": "10444940b5417f62049882f0e27a0e53024398d5285fe4743a780943745948ea",
-      "bytes": 513
+      "sha256": "fd1c70e5ea0de9778ddaa917221820df9061ef233e090d0fcc43e2aab0e654f7",
+      "bytes": 377
     }
   }
 }

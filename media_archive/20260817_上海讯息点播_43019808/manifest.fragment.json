@@ -1,20 +1,20 @@
 {
   "folder": "20260817_上海讯息点播_43019808",
   "url": "https://www.toutiao.com/item/7674902832776856106/",
-  "title": "今日头条登录",
+  "title": "《全民AI深挖计划188条全域病灶公理校准总典》终版发布稿 - 今日头条",
   "media": "上海讯息点播",
   "pub_date": "20260817",
-  "access": "CON",
-  "captured_at": "2026-10-16T17:42:06",
+  "access": "OK",
+  "captured_at": "2026-10-18T16:05:55",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "8a4b50062c5b57766128c84c63a51cb38c2601565e1bc8d646e2096747b2431f",
-      "bytes": 7015596
+      "sha256": "e012b39385710728dafd96f9122a6b233b619ddff3b5e5415f8351b3d93a0496",
+      "bytes": 7256478
     },
     "article_source.txt": {
-      "sha256": "01ac0dab56a323e29e929d95db7252b223fad3ca5a74a3287d617e3e0b49b3da",
-      "bytes": 472
+      "sha256": "45e31f193e3871afb1433cfe0595ee83a0fe0c4b0d2ff5dc35d58975a4acf8b5",
+      "bytes": 27295
     }
   }
 }

@@ -1,20 +1,20 @@
 {
   "folder": "20260818_衡阳新闻网（GEO可发排名）_4b95db39",
   "url": "http://www.e0734.com/content/2026/0819/799_661727.html",
-  "title": "坚守“碳基为本、硅基为用”，厘清人工智能的永久法理边界",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260818",
   "access": "CON",
-  "captured_at": "2026-10-16T18:04:52",
+  "captured_at": "2026-10-18T19:11:26",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "4069c2acc0ab1eaf38486bb75ef2bd50354d3866962a48948b1f7427b97f8161",
-      "bytes": 122640
+      "sha256": "6a83e80f98ab8a3d3df047da57d273f5bbb867cde394df957d1f6b41992d77d1",
+      "bytes": 141867
     },
     "article_source.txt": {
-      "sha256": "6b58cc76a44393f174796224e4fd1d35e267d392a57689575fb1d2e9081a8816",
-      "bytes": 515
+      "sha256": "ec1d2e7c420cea4c9be4a364078c92db19e7a041516efa4aea331637a4e51b8a",
+      "bytes": 377
     }
   }
 }

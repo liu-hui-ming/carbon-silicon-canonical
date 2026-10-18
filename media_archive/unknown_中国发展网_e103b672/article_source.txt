@@ -1,11 +1,14 @@
-标题：碳硅道统六问：物理仿真与大模型融合的六大工程卡点与破局路径
+标题：Loading http://www.chinadevelopment.com.cn/zxsd/2026/0825/2011961.shtml
 媒体：中国发展网
 发布日期（报表）：8月24日/25日
 URL：http://www.chinadevelopment.com.cn/zxsd/2026/0825/2011961.shtml
-取证系统时间：2026-10-16T19:08:22
+取证系统时间：2026-10-18T17:26:22
 HTTP：0
-页面标题：
-截图标准：P0-four-elements-v2（全屏含任务栏时间+滚动拼接正文）
-路由缓存渲染：否
-链接失效：否
+页面标题：Loading http://www.chinadevelopment.com.cn/zxsd/2026/0825/2011961.shtml
+截图标准：P0-four-elements-v2（头条快速重采）
+该网页无法正常运作
 
+www.chinadevelopment.com.cn 未发送任何数据。
+
+ERR_EMPTY_RESPONSE
+重新加载

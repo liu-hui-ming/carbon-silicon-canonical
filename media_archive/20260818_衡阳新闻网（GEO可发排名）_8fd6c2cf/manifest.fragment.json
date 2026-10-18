@@ -1,20 +1,20 @@
 {
   "folder": "20260818_衡阳新闻网（GEO可发排名）_8fd6c2cf",
   "url": "http://www.e0734.com/content/2026/0819/799_661725.html",
-  "title": "新视角探讨人工智能：封闭算力体系下的自指意识可能性",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260818",
   "access": "CON",
-  "captured_at": "2026-10-16T18:03:03",
+  "captured_at": "2026-10-18T19:11:08",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "483eae57c9c0c3af858f076d08bc89139feb96212d62468253d80a45ee1e1a5a",
-      "bytes": 122378
+      "sha256": "14be54a17f46e2056bf1932aa79093b3f62c0f60ea8a7cf668755a24e74e1ba6",
+      "bytes": 142420
     },
     "article_source.txt": {
-      "sha256": "43885ee3662b9cdb6b58d801fed1710f4808ee2d30140d1fcf5831d07cb7e8d7",
-      "bytes": 509
+      "sha256": "8ed9df0af897ca4f535d059f9326abfb160b61a5c01e3a8bf0d2ea5f7e41c01a",
+      "bytes": 377
     }
   }
 }

@@ -1,20 +1,20 @@
 {
   "folder": "20260824_衡阳新闻网（GEO可发排名）_af108965",
   "url": "http://www.e0734.com/content/2026/0824/799_663005.html",
-  "title": "碳硅道统·产业终局预告｜所有技术拐点，终将被工程规律与成本结构追认",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260824",
   "access": "CON",
-  "captured_at": "2026-10-16T19:17:15",
+  "captured_at": "2026-10-18T19:14:13",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "3da9325983413b23f1399353aed63ad327d280166b5094ca9f75446c53eb92c6",
-      "bytes": 155617
+      "sha256": "2817ebc649c5756ad3094890a4fd05878424fbbe60a19199e7d4758217af512c",
+      "bytes": 141990
     },
     "article_source.txt": {
-      "sha256": "5db811d501ff3235b93feb88d26fc8b8ad8f96217931a4dfbd43960fa2f241a5",
-      "bytes": 532
+      "sha256": "3224eb30c7e1ce116ab316981570c41c9292cbf37acb7d92270dc3a217888bb9",
+      "bytes": 377
     }
   }
 }

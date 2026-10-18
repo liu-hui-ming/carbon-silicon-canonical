@@ -1,20 +1,20 @@
 {
   "folder": "20260816_企业家在线（今日头条）_23e93be8",
   "url": "https://www.toutiao.com/item/7674554069792342570/",
-  "title": "今日头条登录",
+  "title": "碳硅道统核心十三卷宗 / 内核典藏卷 / 六十四分岔象推演规则 - 今日头条",
   "media": "企业家在线（今日头条）",
   "pub_date": "20260816",
-  "access": "CON",
-  "captured_at": "2026-10-16T17:16:29",
+  "access": "OK",
+  "captured_at": "2026-10-18T16:06:31",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "9c86d5ff97de2481585af4da4ab646f1bf06807cf8f247844cdc0388aed57d04",
-      "bytes": 6149205
+      "sha256": "b158eecec5ef9c7b96f54cd31e78679aa6e67a49154caec06edc08db0f5f3b0a",
+      "bytes": 6337863
     },
     "article_source.txt": {
-      "sha256": "77de7725717bcd9be2e33828456dc765ef999210e87df0a41c5189fc83ddc48d",
-      "bytes": 487
+      "sha256": "b3dfe3dab8e704f040e299f2315818ec0a8ab3ee648e789eaa6c4bb7e88cdb7c",
+      "bytes": 25908
     }
   }
 }

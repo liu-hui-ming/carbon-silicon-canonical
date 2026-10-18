@@ -1,20 +1,20 @@
 {
   "folder": "20260824_上海讯息点播_c2b30caa",
   "url": "https://www.toutiao.com/item/7677426063638610441/",
-  "title": "今日头条登录",
+  "title": "碳硅道统产业终局预告所有技术拐点终将被工程规律与成本结构追认 - 今日头条",
   "media": "上海讯息点播",
   "pub_date": "20260824",
-  "access": "CON",
-  "captured_at": "2026-10-16T19:21:45",
+  "access": "OK",
+  "captured_at": "2026-10-18T16:08:15",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "d2ed32c3460971eae60b67b2d8e32a4557f5106cf3680d72e5cb9d4e875e4346",
-      "bytes": 1840600
+      "sha256": "3cd2a2e3a389ff578007e6c08aae74c932a1ca314c288992e10eb826b89d9001",
+      "bytes": 3695872
     },
     "article_source.txt": {
-      "sha256": "a203326bebbd206828242986f0cca0582e0680b0627aeea107c812c8f99fb169",
-      "bytes": 472
+      "sha256": "e6b817042da20dbd603a6ce7cc55273ab488ffd6d4d41676a0250ab19880d88e",
+      "bytes": 12180
     }
   }
 }

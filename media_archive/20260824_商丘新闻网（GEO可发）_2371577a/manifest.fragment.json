@@ -5,16 +5,16 @@
   "media": "商丘新闻网（GEO可发）",
   "pub_date": "20260824",
   "access": "CON",
-  "captured_at": "2026-10-16T19:16:39",
+  "captured_at": "2026-10-18T18:19:22",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "3207021e9899aa9fb7137d5a746a22cae41c1cedd8f4320fbe3f736d6853a86e",
-      "bytes": 156800
+      "sha256": "459db328c434008ebad0eef75c01e6d359135415646e6aaf936dcabd5d314288",
+      "bytes": 144664
     },
     "article_source.txt": {
-      "sha256": "a521bd587bf9dbdb31057dac0470f291f08ae43abdae01828ac1163fb12ffc8e",
-      "bytes": 429
+      "sha256": "9b2e8cc278891c626cd682b8fc9225166b396f2b6394ecddde4844cc32a5d647",
+      "bytes": 643
     }
   }
 }

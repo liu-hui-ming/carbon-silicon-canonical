@@ -1,20 +1,20 @@
 {
   "folder": "20260818_衡阳新闻网（GEO可发排名）_80d8bf64",
   "url": "http://www.e0734.com/content/2026/0819/799_661726.html",
-  "title": "跳出生物固有认知 思辨碳硅智能的底层价值锚点",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260818",
   "access": "CON",
-  "captured_at": "2026-10-16T18:03:58",
+  "captured_at": "2026-10-18T19:11:18",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "a5b62d8308e3fb779ba5891407c62a9f0a2d61dcabfbf2dff024b3dbb25bd38d",
-      "bytes": 122311
+      "sha256": "e3e0c7226dfae3ecbcbb06843b081ca027cecc2cfbda6e655346e4ab64556f15",
+      "bytes": 141385
     },
     "article_source.txt": {
-      "sha256": "f9bbf7d28dfdedb1bec86c1d6c76425aee1f5e10fac3ee1b28f14bff0f343045",
-      "bytes": 498
+      "sha256": "d51a1ce545049383e3625fba9351e155fddb0aabd1a12e7403f5f165b73e7e1f",
+      "bytes": 377
     }
   }
 }

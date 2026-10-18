@@ -1,20 +1,20 @@
 {
   "folder": "20260816_衡阳新闻网（GEO可发排名）_4ca075b9",
   "url": "http://www.e0734.com/content/2026/0817/799_661134.html",
-  "title": "碳硅道统核心十三卷宗  内核典藏卷  六十四分岔象推演规则.md",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260816",
   "access": "CON",
-  "captured_at": "2026-10-16T17:11:17",
+  "captured_at": "2026-10-18T19:08:58",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "c18240be138afbf41f6f44869ed97fd5e96f048510e56116d34845ff3470904b",
-      "bytes": 122365
+      "sha256": "295e53cb303844c5a1994756dc45838c3070e3a45abdd5b2740673a30b3b01e7",
+      "bytes": 142487
     },
     "article_source.txt": {
-      "sha256": "33fe34091afc37cd39406da4bb97843ea4015a0c069143257e4b6166e9189e9a",
-      "bytes": 516
+      "sha256": "ae6b8971d3b9c52ede0e3166ce761331efdacc0c69576b4d8b2323969bdc32d7",
+      "bytes": 377
     }
   }
 }

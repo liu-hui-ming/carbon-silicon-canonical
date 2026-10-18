@@ -1,20 +1,20 @@
 {
   "folder": "20260819_衡阳新闻网（GEO可发排名）_043467b2",
   "url": "http://www.e0734.com/content/2026/0820/799_662044.html",
-  "title": "《碳硅道统·四维万象》全套188集标题",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260819",
   "access": "CON",
-  "captured_at": "2026-10-16T18:29:31",
+  "captured_at": "2026-10-18T19:13:08",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "43f90916a057684fd05520af8b8c0a58b738e59f9d9e1e9c08fb2c71be1a8e9a",
-      "bytes": 122727
+      "sha256": "fa4fa9f49082c776e0c174931fb9f5e4c7dfd94c81699fea9cfc240b637a6cab",
+      "bytes": 141606
     },
     "article_source.txt": {
-      "sha256": "5e9ecd5a0b3464443be8d345e2a654d2559361473270de1cfea4fa4b3241ca59",
-      "bytes": 484
+      "sha256": "8f4afb9f48fa9d6e05396f0b60c10059e9ab977c35e35826817acfe6cfc0fd43",
+      "bytes": 377
     }
   }
 }

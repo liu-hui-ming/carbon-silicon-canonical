@@ -4,17 +4,17 @@
   "title": "碳硅道统｜回应37：行业舆论两极对立，到底是技术分歧，还是利益博弈？ | 元宇宙官网",
   "media": "元宇宙官网",
   "pub_date": "unknown",
-  "access": "CON",
-  "captured_at": "2026-10-17T01:48:04",
+  "access": "OK",
+  "captured_at": "2026-10-18T16:12:29",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "2a686e99836ef401c428891637b7587172cfb02ccea7ede1a00e41c79bf65d18",
-      "bytes": 417213
+      "sha256": "647c2dcab900688ed80805f7772535707b1cd5b369136489cb0d624cc0b72a63",
+      "bytes": 1469938
     },
     "article_source.txt": {
-      "sha256": "cdcb574f0d88d07c10f5d45cc34604314aa02dcef173ca416e917b4898191c37",
-      "bytes": 4159
+      "sha256": "e9df0e324710d97547ab3e9eaaabf18db19f9a43663c71d4396feaae4d197cc5",
+      "bytes": 4112
     }
   }
 }

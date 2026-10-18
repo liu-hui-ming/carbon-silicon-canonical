@@ -1,20 +1,20 @@
 {
   "folder": "20260817_大江新闻（GEO）_b0520579",
   "url": "https://dj.jxnews.com.cn/webForum/djh/share?tenantId=37&id=200899389",
-  "title": "《全民AI深挖计划188条全域病灶公理校准总典》终版发布稿",
+  "title": "‎",
   "media": "大江新闻（GEO）",
   "pub_date": "20260817",
   "access": "CON",
-  "captured_at": "2026-10-16T17:32:32",
+  "captured_at": "2026-10-18T19:39:40",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "c228cfb10352622505b5ad4ba243469b5a17dde3e4b9d22d7b878137a2f652f4",
-      "bytes": 123356
+      "sha256": "a396fd18f678e3deec8ca4d257d81f98fd78703ca603a8f6dbe585e702c23af8",
+      "bytes": 143069
     },
     "article_source.txt": {
-      "sha256": "0676826a22c91857e98c90f588aadcbf89e45f2a71f2c2c750ded02e4b3c68f6",
-      "bytes": 501
+      "sha256": "7800c9f37ca0fa702510e4adb16d5d175beb6ad60d02b33e15413420003eacc9",
+      "bytes": 333
     }
   }
 }

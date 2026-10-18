@@ -1,20 +1,20 @@
 {
   "folder": "20260819_衡阳新闻网（GEO可发排名）_4a7ea9a4",
   "url": "http://www.e0734.com/content/2026/0820/799_662045.html",
-  "title": "《碳硅道统·草木守心》全套188集标题",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260819",
   "access": "CON",
-  "captured_at": "2026-10-16T18:33:44",
+  "captured_at": "2026-10-18T19:13:16",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "2e9ce8b4dd56e32b64b50713946f21b276947d3af896d6a17f19d0a9c3459081",
-      "bytes": 122716
+      "sha256": "741d7597afc2028d99a07b23d1563f558e91b3817eeac6aee758697a50db2e68",
+      "bytes": 141587
     },
     "article_source.txt": {
-      "sha256": "40a2526717fe9f11111b224c8ea11bf63939ea30e7a2c2c7d0621985b1a90b40",
-      "bytes": 484
+      "sha256": "f063335a39e305f55cde4579566608c94f1e50cc09efd3a11a8bc76f0780af60",
+      "bytes": 377
     }
   }
 }
