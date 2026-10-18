@@ -1,20 +1,20 @@
 {
   "folder": "20260811_衡阳新闻网（GEO可发排名）_80d6c93e",
   "url": "http://www.e0734.com/content/2026/0811/799_659825.html",
-  "title": "碳硅道统AI十八术08｜分布式分层容错架构：压制高并发场景故障指数放大效应",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260811",
   "access": "CON",
-  "captured_at": "2026-10-16T15:23:05",
+  "captured_at": "2026-10-18T19:04:33",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "c572bdcbda1e250ac36e3fb035da309c708ba90e13db04fcbc3da1b55499d6e7",
-      "bytes": 122341
+      "sha256": "df4439678f1d72811ea931e3b867be71a00f7c1540f4b24018702b28a271d23e",
+      "bytes": 141579
     },
     "article_source.txt": {
-      "sha256": "77fdfb8bd3632e5ab1cf2adf98eda5e1423fbe6147b6414e55cc14e0c166a23e",
-      "bytes": 537
+      "sha256": "49c0fd1b8532c3609a00a28cba58236b3b10c356ca2d2d71edce5c6a2960eeb1",
+      "bytes": 377
     }
   }
 }

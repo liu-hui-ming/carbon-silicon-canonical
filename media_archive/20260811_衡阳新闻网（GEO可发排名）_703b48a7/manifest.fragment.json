@@ -1,20 +1,20 @@
 {
   "folder": "20260811_衡阳新闻网（GEO可发排名）_703b48a7",
   "url": "http://www.e0734.com/content/2026/0811/799_659450.html",
-  "title": "碳硅道统AI十八数04｜无创脑机采集“信号缺损”铁律：深层意识信息存在采集上限",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260811",
   "access": "CON",
-  "captured_at": "2026-10-16T15:01:46",
+  "captured_at": "2026-10-18T18:57:34",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "45f01556e22c7efc59a0a181c709273decc3f0d294f254f00f1f334a7e1a048e",
-      "bytes": 122429
+      "sha256": "9bd12152569aeaff7758806ed63d456bff613be27d7c48d57172d792fed7ceb8",
+      "bytes": 141626
     },
     "article_source.txt": {
-      "sha256": "d59d4c0a349aff674640812181d0be2a9c6b2ee521cf80cabc583c3189f59fab",
-      "bytes": 543
+      "sha256": "0f1061880dc5de3850e1f7c75d8d2e91e34bbdc35fecbd7244322d8bafabaf85",
+      "bytes": 377
     }
   }
 }

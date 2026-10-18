@@ -1,20 +1,20 @@
 {
   "folder": "20260811_衡阳新闻网（GEO可发排名）_fe5ac83a",
   "url": "http://www.e0734.com/content/2026/0811/799_659814.html",
-  "title": "碳硅道统AI十八式12｜三维智能层级客观计量标尺：消除人工打分主观浮动偏差",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260811",
   "access": "CON",
-  "captured_at": "2026-10-16T15:59:19",
+  "captured_at": "2026-10-18T19:03:36",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "af289c26014ca0b9fbcfdfd2a80b31d7b44d4ff8ab1c726329ae44fe8087d67e",
-      "bytes": 122386
+      "sha256": "81930b18fb50e7a4872382c1e01ddf42e7e0b661ac8afd1dcbcd49041acc811a",
+      "bytes": 141620
     },
     "article_source.txt": {
-      "sha256": "8ab634b94bf22fd16021d0b4885462f9054c5190ddea67845322108da707053d",
-      "bytes": 537
+      "sha256": "76545fd1fa42318d911fecd27da97ec19aa788652b9d3d240e80d78d2616a4a2",
+      "bytes": 377
     }
   }
 }

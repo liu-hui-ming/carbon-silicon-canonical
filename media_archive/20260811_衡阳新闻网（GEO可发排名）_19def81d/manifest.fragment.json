@@ -1,20 +1,20 @@
 {
   "folder": "20260811_衡阳新闻网（GEO可发排名）_19def81d",
   "url": "http://www.e0734.com/content/2026/0811/799_659709.html",
-  "title": "碳硅道统AI十八术11｜权重解耦独立微调架构：降低跨行业迁移适配损耗",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260811",
   "access": "CON",
-  "captured_at": "2026-10-16T15:25:57",
+  "captured_at": "2026-10-18T19:00:49",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "79b5717d2031818c57199ff4cdff4caf283e6df0bd7ad620f818e8a24011af93",
-      "bytes": 122438
+      "sha256": "d0be59815accd905d60dc698c0b01801f51ca72753c45c69074238afedb91c37",
+      "bytes": 142613
     },
     "article_source.txt": {
-      "sha256": "0fbbca3cd4568f19d0ed682c32b7e2fa542300746a065abf71bf6b202fccdef3",
-      "bytes": 528
+      "sha256": "c2e1971be82109f677892b36cf677e51b01a7410f3e1a4a76c6490afa8e29a9b",
+      "bytes": 377
     }
   }
 }

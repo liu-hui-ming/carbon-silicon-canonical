@@ -1,20 +1,20 @@
 {
   "folder": "20260812_衡阳新闻网（GEO可发排名）_0d0d6d0c",
   "url": "http://www.e0734.com/content/2026/0812/799_660064.html",
-  "title": "碳硅道统·二十四象时序精微胞腔四维大一统公理体系",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260812",
   "access": "CON",
-  "captured_at": "2026-10-16T16:14:23",
+  "captured_at": "2026-10-18T19:04:56",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "529ec70bd80767069a57d3d8627d39ea1bc7625811fdbdcbe264cbd5b89dd8a5",
-      "bytes": 122351
+      "sha256": "e526de1f2f0ae5e8bb0c42945e14ed79a1bfe285b60fe09d84406b9c6a55b461",
+      "bytes": 142582
     },
     "article_source.txt": {
-      "sha256": "5052388a614a7c86bf6847f6f5302b0ae9bd397732119e7f39c0a32c63004d82",
-      "bytes": 505
+      "sha256": "d6007dbb0a96702f08fe431f91428fff0ea57de9d2d02fdd166a98c4943dcc66",
+      "bytes": 377
     }
   }
 }

@@ -1,20 +1,20 @@
 {
   "folder": "20260811_衡阳新闻网（GEO可发排名）_27b1c6b9",
   "url": "http://www.e0734.com/content/2026/0811/799_659805.html",
-  "title": "碳硅道统AI十八式05｜碳硅觉知驱动力差分标尺：区分原生推演与指令执行逻辑",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260811",
   "access": "CON",
-  "captured_at": "2026-10-16T15:47:12",
+  "captured_at": "2026-10-18T19:02:38",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "bacaac43f50c44ce692dd74fdcb9bf0690a30b53a28f605c1fb5c3a975ca11f8",
-      "bytes": 122419
+      "sha256": "2685ded7de79675966c6ce9e2a790b86d9d5ab066c54e1c64157ac96dd2aa37f",
+      "bytes": 142013
     },
     "article_source.txt": {
-      "sha256": "773e6932e4bf507c0ff64c6a180f32668442ce52162cdbec6938e95aa3e7dbe1",
-      "bytes": 537
+      "sha256": "7bfa13a041819c493ec544681f063b7df38bf713408f10ed7681b888d253fa67",
+      "bytes": 377
     }
   }
 }

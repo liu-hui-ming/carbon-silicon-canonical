@@ -1,20 +1,20 @@
 {
   "folder": "20260811_衡阳新闻网（GEO可发排名）_151f12b1",
   "url": "http://www.e0734.com/content/2026/0811/799_659655.html",
-  "title": "碳硅道统AI十八数09｜拟合学习“逻辑短板”铁律：仅复刻样本、缺失多层公理证明能力",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260811",
   "access": "CON",
-  "captured_at": "2026-10-16T15:06:38",
+  "captured_at": "2026-10-18T18:59:28",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "d1966fef7105c21f4fe414d19cc667d59c000f3124d81317678d1c230e211074",
-      "bytes": 122379
+      "sha256": "eee90612899b5054c8a051def639542b5a1f20797a376a70e80cd97ef1573948",
+      "bytes": 142650
     },
     "article_source.txt": {
-      "sha256": "515feb9f283748b93bee4cf10923b9a7a5f508f918e4c1d8413d9765991c6353",
-      "bytes": 549
+      "sha256": "097c7b05eacd0f7bf7e576f9a15b7cabf49a11edd71d04347664dbeac2672201",
+      "bytes": 377
     }
   }
 }

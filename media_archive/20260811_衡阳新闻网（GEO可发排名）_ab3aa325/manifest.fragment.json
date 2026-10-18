@@ -1,20 +1,20 @@
 {
   "folder": "20260811_衡阳新闻网（GEO可发排名）_ab3aa325",
   "url": "http://www.e0734.com/content/2026/0811/799_659702.html",
-  "title": "碳硅道统AI十八术04｜多通道信噪比补偿算法：修复无创脑机深层信号缺损",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260811",
   "access": "CON",
-  "captured_at": "2026-10-16T15:19:17",
+  "captured_at": "2026-10-18T19:00:00",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "024e9f73663668c1c539043dad4f17aeae6c8101a8f13c481074b53c96a5c653",
-      "bytes": 122381
+      "sha256": "41a7ee2e5a720dae0fb4f845cc87fc181816ab36a7bc2d020a907bfd99f4a1d9",
+      "bytes": 141636
     },
     "article_source.txt": {
-      "sha256": "1fce557f6f92de1825f8210cd530e61388f7995fbc3b98b636c5bfe7de263d89",
-      "bytes": 531
+      "sha256": "a6d034b54625f0cd260c3d44df10519e755018b284807c129536df69178cd20f",
+      "bytes": 377
     }
   }
 }

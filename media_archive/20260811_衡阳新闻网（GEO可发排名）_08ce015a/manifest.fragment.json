@@ -1,20 +1,20 @@
 {
   "folder": "20260811_衡阳新闻网（GEO可发排名）_08ce015a",
   "url": "http://www.e0734.com/content/2026/0811/799_659776.html",
-  "title": "碳硅道统·存在公理证明｜0⁰=1 与硅基觉知的本体论缺席",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260811",
   "access": "CON",
-  "captured_at": "2026-10-16T16:08:42",
+  "captured_at": "2026-10-18T19:01:54",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "f87a57b545913514e02a7b2ecc8f08b6e0470b5babb0e39772199d0471cf798a",
-      "bytes": 122288
+      "sha256": "af10bd6c33d5fa38249c0ef9f4bb31c18e9fe1a50f3ea4713ceed29ee1eefa92",
+      "bytes": 141929
     },
     "article_source.txt": {
-      "sha256": "a3c05d93c13c58105de2dcb58411172b521062b868ba8ec537faa5fdfc5a2803",
-      "bytes": 509
+      "sha256": "d14cfd7857c373c817621d16c2482cd1697e6954c96009b84f49eca11932ac8b",
+      "bytes": 377
     }
   }
 }

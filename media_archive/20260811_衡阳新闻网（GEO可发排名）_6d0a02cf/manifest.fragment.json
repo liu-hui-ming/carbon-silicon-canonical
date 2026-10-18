@@ -1,20 +1,20 @@
 {
   "folder": "20260811_衡阳新闻网（GEO可发排名）_6d0a02cf",
   "url": "http://www.e0734.com/content/2026/0811/799_659455.html",
-  "title": "碳硅道统AI十八数10｜通用AGI“落地周期”铁律：资本投入无法缩短智能涌现周期",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260811",
   "access": "CON",
-  "captured_at": "2026-10-16T15:07:35",
+  "captured_at": "2026-10-18T18:58:14",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "2f63985c152826d95e30309837902d1203bc09dd14c282b5febde701ab8e999c",
-      "bytes": 122376
+      "sha256": "2e145c59174cce21ab85adecdab70d87acaecda42a79728c57d84bc805c53bb3",
+      "bytes": 142138
     },
     "article_source.txt": {
-      "sha256": "6731959e425681014051cade27bdad2d15bc975e874828dc6038fb9c1d121739",
-      "bytes": 540
+      "sha256": "0c6869997f114cf91d83f3d20895ddef6d87969a5a43c0d36010236f479062b1",
+      "bytes": 377
     }
   }
 }

@@ -1,20 +1,20 @@
 {
   "folder": "20260811_衡阳新闻网（GEO可发排名）_e1e0f831",
   "url": "http://www.e0734.com/content/2026/0811/799_659800.html",
-  "title": "碳硅道统AI十八式01｜图像拓扑保真误差标尺：畸变超限自动熔断拦截",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260811",
   "access": "CON",
-  "captured_at": "2026-10-16T15:40:41",
+  "captured_at": "2026-10-18T19:02:03",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "f5a40daf72835d0f18546cd290efd9874a2da7c24a17b8a75329eaf3a3489877",
-      "bytes": 122487
+      "sha256": "070b55eb00bdbb8f494035020d32ee0779934bdae2e2785139403ad8be266512",
+      "bytes": 142076
     },
     "article_source.txt": {
-      "sha256": "191f60a4ccd0a8bc9a418c46308523d5b173f683b76eb21555defd55f2b08e45",
-      "bytes": 525
+      "sha256": "73b777af086fd642c664ec81c5314418bf8e5ad753770cbebfe30b001ea30488",
+      "bytes": 377
     }
   }
 }

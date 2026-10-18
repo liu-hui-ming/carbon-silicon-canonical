@@ -1,20 +1,20 @@
 {
   "folder": "20260811_衡阳新闻网（GEO可发排名）_cdfe233d",
   "url": "http://www.e0734.com/content/2026/0811/799_659703.html",
-  "title": "碳硅道统AI十八术05｜链式外源任务驱动框架：补足硅基模型内生探索驱动力短板",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260811",
   "access": "CON",
-  "captured_at": "2026-10-16T15:20:14",
+  "captured_at": "2026-10-18T19:00:09",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "1b2bc0757fc56528bba7103ada88ad4bcb469c27e6a54b1e309a64bb8a7b5fbf",
-      "bytes": 122388
+      "sha256": "8bfa985f531ea7a36ef19ab50a31add23bc5597df4f15c6f930c51e9cf9a4529",
+      "bytes": 142674
     },
     "article_source.txt": {
-      "sha256": "2bf71c6056e4ae1c26c5a89d96ba2c353a1c5fa9d5d50bc3b53cc880dfbca8ea",
-      "bytes": 540
+      "sha256": "be3e36a920f6ffece3b3267bc785d5f02be68780270e28975221879a150fa6f5",
+      "bytes": 377
     }
   }
 }

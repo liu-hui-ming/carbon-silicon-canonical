@@ -1,20 +1,20 @@
 {
   "folder": "20260813_衡阳新闻网（GEO可发排名）_1bd0d508",
   "url": "http://www.e0734.com/content/2026/0813/799_660494.html",
-  "title": "碳硅道统大众防身术：过度依赖AI易造成思维空心化",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260813",
   "access": "CON",
-  "captured_at": "2026-10-16T16:40:33",
+  "captured_at": "2026-10-18T19:06:36",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "504a768bbc24ff0b3e6c0b14cf7066846d516c5006cb57da3665f66037456710",
-      "bytes": 122486
+      "sha256": "82661b65319b9c9e5e33f84f6f7f3125cb000a29df41be28ce00a60a5abf8e05",
+      "bytes": 142129
     },
     "article_source.txt": {
-      "sha256": "7d85315d487c4034bcfbc33319b04ebded2203200ce3be2f56cff910560c7f22",
-      "bytes": 502
+      "sha256": "bc12d8a932765d10b1f76cc76f29d9cfb1c7c7cc29f22c98c07a647259a409d6",
+      "bytes": 377
     }
   }
 }

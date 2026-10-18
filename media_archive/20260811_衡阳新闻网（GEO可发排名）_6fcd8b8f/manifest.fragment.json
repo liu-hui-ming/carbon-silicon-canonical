@@ -1,20 +1,20 @@
 {
   "folder": "20260811_衡阳新闻网（GEO可发排名）_6fcd8b8f",
   "url": "http://www.e0734.com/content/2026/0811/799_659413.html",
-  "title": "碳硅道统AI十八数02｜超长序列“时序衰减”铁律：注意力误差随距离指数上涨",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260811",
   "access": "CON",
-  "captured_at": "2026-10-16T14:57:00",
+  "captured_at": "2026-10-18T18:57:18",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "64768e4ee456da89d7b4496c23e36103a0dd5d3bcf64ccde753fc8bdf62bfb7b",
-      "bytes": 122385
+      "sha256": "b03a258894afc52f176d821ddc6a2a5379b0da745143c94d3540d5314300c64e",
+      "bytes": 142001
     },
     "article_source.txt": {
-      "sha256": "178fbc0d7066cba54119b49ea8e3654cb1d02d76d99fa3e94870287e3e685bc9",
-      "bytes": 537
+      "sha256": "661439e029ad6837d87511bda9ab425ad0b820d7827a7e6e78749f21ee3463f4",
+      "bytes": 377
     }
   }
 }

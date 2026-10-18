@@ -1,20 +1,20 @@
 {
   "folder": "20260811_衡阳新闻网（GEO可发排名）_65a89d8b",
   "url": "http://www.e0734.com/content/2026/0811/799_659816.html",
-  "title": "碳硅道统AI十八式14｜架构缺陷优化下限刚性标尺：锁定模型迭代永久能力天花板",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260811",
   "access": "CON",
-  "captured_at": "2026-10-16T16:01:12",
+  "captured_at": "2026-10-18T19:03:52",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "629e07962daaa5217a441aa28f5a85b0a44748894f0fcf4d3b4dfce47e5b92bc",
-      "bytes": 122340
+      "sha256": "847bee9d46b031ad76aebb9099aec69279dd5012fcbf480be558c6c7dcfaff25",
+      "bytes": 142614
     },
     "article_source.txt": {
-      "sha256": "42110d545c575f7fda784bdf78927722edc06d26cc08d366df31d7f34108afab",
-      "bytes": 540
+      "sha256": "fbafd575323878b9b3a1ae2c22383b64d2e5722e27fbddbe6a68664f15b53dc9",
+      "bytes": 377
     }
   }
 }

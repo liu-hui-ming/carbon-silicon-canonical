@@ -1,20 +1,20 @@
 {
   "folder": "20260811_衡阳新闻网（GEO可发排名）_c5a77801",
   "url": "http://www.e0734.com/content/2026/0811/799_659462.html",
-  "title": "碳硅道统AI十八数17｜理论实景“工况差值”铁律：实验室参数不可直接落地复用",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260811",
   "access": "CON",
-  "captured_at": "2026-10-16T15:14:25",
+  "captured_at": "2026-10-18T18:59:11",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "4a9a19dbd1ee5918ba82ba6e6b0b9ba5a7143f9a1eaacb4d06465c76335e7800",
-      "bytes": 122458
+      "sha256": "637104c8998d8b488b30822d3943b01d5ec2b172155481fc9ec94743e3f0aa06",
+      "bytes": 142852
     },
     "article_source.txt": {
-      "sha256": "e4fc108ccc7d9411872150b4ac846de049ccc6a20cfc63fdd6a749bf49c362ac",
-      "bytes": 540
+      "sha256": "50865fecd50ba2bc186792c52360f85b37d304fb2d0f0ae25062d7ef9e54e89e",
+      "bytes": 377
     }
   }
 }

@@ -1,20 +1,20 @@
 {
   "folder": "20260811_衡阳新闻网（GEO可发排名）_6e1165f9",
   "url": "http://www.e0734.com/content/2026/0811/799_659706.html",
-  "title": "碳硅道统AI十八术09｜分段公理前置校验范式：拦截数理推导跳步逻辑谬误",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260811",
   "access": "CON",
-  "captured_at": "2026-10-16T15:24:03",
+  "captured_at": "2026-10-18T19:00:35",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "171047826024bf92f94f99c024ad4b106207e0a05b9df5c374aaeb8b96152aad",
-      "bytes": 122328
+      "sha256": "56b8d1331db20a1da38f85cd96884eb9badd47d2f68dbf621c7c2293cb1a92e9",
+      "bytes": 142529
     },
     "article_source.txt": {
-      "sha256": "0b66a1c52c51e1673b91d0e9a639327e0927f5c2d17938b3d5597d58ad5a33f0",
-      "bytes": 531
+      "sha256": "7f1c164cf33022c7e72304898545ecb1541b5c932fcbe6cf233d5594d664206e",
+      "bytes": 377
     }
   }
 }

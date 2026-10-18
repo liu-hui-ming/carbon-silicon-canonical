@@ -1,20 +1,20 @@
 {
   "folder": "20260811_衡阳新闻网（GEO可发排名）_47fe0ed3",
   "url": "http://www.e0734.com/content/2026/0811/799_659803.html",
-  "title": "碳硅道统AI十八式04｜脑机信号还原完整度标尺：定量测算信息缺损比例",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260811",
   "access": "CON",
-  "captured_at": "2026-10-16T15:43:29",
+  "captured_at": "2026-10-18T19:02:29",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "9c2fe693e6ae2709069b9ab2466f22c64d21516d0265e8fd26528809cf596d71",
-      "bytes": 122490
+      "sha256": "53a141248836f91172b92cdd1c9c93c4f8569a38721d16467d1b4979c39917f0",
+      "bytes": 142076
     },
     "article_source.txt": {
-      "sha256": "a7040626a15f054d3944259afde424d6d992097e2edfae4f3a390bc4b7faaa8d",
-      "bytes": 528
+      "sha256": "36bd17db07172ed70a9bcde06541bb1eda6602d915300b82b2e98ecefc292bff",
+      "bytes": 377
     }
   }
 }

@@ -1,20 +1,20 @@
 {
   "folder": "20260811_衡阳新闻网（GEO可发排名）_883b1895",
   "url": "http://www.e0734.com/content/2026/0811/799_659807.html",
-  "title": "碳硅道统AI十八式06｜算力收益衰减拐点计量标尺：定位硬件无效扩容临界点",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260811",
   "access": "CON",
-  "captured_at": "2026-10-16T15:48:08",
+  "captured_at": "2026-10-18T19:02:45",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "86a0e5d65eebe3a880c81c4dc3fe7ea10f83389a62ad0dcae540ac0dadb8abe4",
-      "bytes": 122438
+      "sha256": "cdc8feb8fca478d013d446af0283c9025265a66ad5b6b303328f7ae59b636824",
+      "bytes": 142033
     },
     "article_source.txt": {
-      "sha256": "cea8eddd7551ff9bdb9df527d4692983dff1fc1454a7a9c40cdd29bf545ab738",
-      "bytes": 534
+      "sha256": "d031cc74dd97bc49d42879c262a560909bb240893cd1d4fa24ca540cbf0da79b",
+      "bytes": 377
     }
   }
 }

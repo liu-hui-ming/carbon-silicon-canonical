@@ -1,20 +1,20 @@
 {
   "folder": "20260812_衡阳新闻网（GEO可发排名）_78167443",
   "url": "http://www.e0734.com/content/2026/0812/799_660065.html",
-  "title": "碳硅道统·二十四象精微胞腔工程化公理全卷",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260812",
   "access": "CON",
-  "captured_at": "2026-10-16T16:15:28",
+  "captured_at": "2026-10-18T19:05:05",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "f59669fadd84842d327e15e6a50735ce985150a13e65bb4efaf4e2430f74a595",
-      "bytes": 122327
+      "sha256": "d83ba3f92a88e8f9c3a76e6866ee8a1aa5d0c537e5ee6f33a217bc09af86cb5c",
+      "bytes": 142403
     },
     "article_source.txt": {
-      "sha256": "62e6ec72e6c0650d9e9e061f7a8a9333cbfa96f6dc699f4a48344eadcd63a838",
-      "bytes": 493
+      "sha256": "31fa62908188849b46e49455edf196943d9ca5ff7b6b58cc9445742274ac6c75",
+      "bytes": 377
     }
   }
 }

@@ -1,20 +1,20 @@
 {
   "folder": "20260811_衡阳新闻网（GEO可发排名）_7b4f1497",
   "url": "http://www.e0734.com/content/2026/0811/799_659449.html",
-  "title": "碳硅道统AI十八数03｜自回归生成“幻觉概率”铁律：对齐微调仅压缩区间无法归零",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260811",
   "access": "CON",
-  "captured_at": "2026-10-16T14:58:00",
+  "captured_at": "2026-10-18T18:57:27",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "b4d1bfb6044f61259c32f9e0a2f6c9ae6044d478fdd203c4676d694eeb21053c",
-      "bytes": 122506
+      "sha256": "573ae43c491a1681763c9e7256e2b6548be3c79c8ce578802a7f4269cdbdb6b3",
+      "bytes": 142692
     },
     "article_source.txt": {
-      "sha256": "30819a9178577a12787abdb153db5ca98a93652366a22dd895528d8fce1d6453",
-      "bytes": 543
+      "sha256": "2f14974a7ab72f6071def641ebb9934d515109375cf30d9ec04c683eee084cb2",
+      "bytes": 377
     }
   }
 }

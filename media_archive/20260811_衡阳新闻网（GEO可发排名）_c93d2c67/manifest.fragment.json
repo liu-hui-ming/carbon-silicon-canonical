@@ -1,20 +1,20 @@
 {
   "folder": "20260811_衡阳新闻网（GEO可发排名）_c93d2c67",
   "url": "http://www.e0734.com/content/2026/0811/799_659811.html",
-  "title": "碳硅道统AI十八式10｜通用智能落地风险计量标尺：量化长周期工程隐患等级",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260811",
   "access": "CON",
-  "captured_at": "2026-10-16T15:54:40",
+  "captured_at": "2026-10-18T19:03:21",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "1d0037f45594d2a65ec5bcec87d2c64366972781452e2146a5c1a1479264c78d",
-      "bytes": 122339
+      "sha256": "e5e95ae9c44a57a5f3601d265cbf3eef1a87e93e27e2b9d7efcad9d17a8daf5d",
+      "bytes": 142448
     },
     "article_source.txt": {
-      "sha256": "2ee1dfecd647d90397c24adf33672e4e003a3336c229927079ec76afe3b0ff6e",
-      "bytes": 534
+      "sha256": "c7a07b89c83cd57d803c58c39ff3a387506150cb24370f82124eafac1a946ae1",
+      "bytes": 377
     }
   }
 }

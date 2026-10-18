@@ -1,20 +1,20 @@
 {
   "folder": "20260811_衡阳新闻网（GEO可发排名）_ad293c6e",
   "url": "http://www.e0734.com/content/2026/0811/799_659453.html",
-  "title": "碳硅道统AI十八数07｜采样调控“熵浮动”铁律：同质输入不存在唯一标准化输出",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260811",
   "access": "CON",
-  "captured_at": "2026-10-16T15:04:42",
+  "captured_at": "2026-10-18T18:57:59",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "c16296e1ad0730e2f763f45c79569f44008f756c5779270805f867d475c787b7",
-      "bytes": 122447
+      "sha256": "5595b1cfcae5a07b3f49aa30920356cd617c3393e5835b508fff7d6d93c57bfc",
+      "bytes": 142824
     },
     "article_source.txt": {
-      "sha256": "bea8fb3f9daa7d29792716edd1bef5a1276a655109f7b64dc9925e2251ee21f5",
-      "bytes": 540
+      "sha256": "3e264f3d04eafde147c12eb2c76ac0a8671eaec7b8e4148439a99e1a0c54aaab",
+      "bytes": 377
     }
   }
 }

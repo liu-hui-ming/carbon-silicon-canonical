@@ -1,20 +1,20 @@
 {
   "folder": "20260811_衡阳新闻网（GEO可发排名）_d93072bc",
   "url": "http://www.e0734.com/content/2026/0811/799_659698.html",
-  "title": "碳硅道统AI十八术01｜骨骼拓扑锚定掩码：刚性约束人体结构、抑制视觉拓扑畸变",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260811",
   "access": "CON",
-  "captured_at": "2026-10-16T15:16:21",
+  "captured_at": "2026-10-18T18:59:38",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "65ecc84abde37fec03262e0ca21f5095352c87b0a73907b253ed343e4d40abc6",
-      "bytes": 122533
+      "sha256": "eb958636fcd6523bd92ffac0fb056de2ad838daeda0040771947bd79912bbaab",
+      "bytes": 142693
     },
     "article_source.txt": {
-      "sha256": "5dc09e3ddb77b4799904bbd70cff832baf32420768f4ed13bf7e0b73a20ba71f",
-      "bytes": 540
+      "sha256": "e1e455753a23a65360653ffdb92a13b6d0c7b897fea9bb52a275f2037b874ef7",
+      "bytes": 377
     }
   }
 }

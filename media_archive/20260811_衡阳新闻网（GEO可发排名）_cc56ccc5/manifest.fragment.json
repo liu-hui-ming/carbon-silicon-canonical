@@ -1,20 +1,20 @@
 {
   "folder": "20260811_衡阳新闻网（GEO可发排名）_cc56ccc5",
   "url": "http://www.e0734.com/content/2026/0811/799_659452.html",
-  "title": "碳硅道统AI十八数06｜算力扩容“收益递减”铁律：资源投入存在增益归零临界点",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260811",
   "access": "CON",
-  "captured_at": "2026-10-16T15:03:45",
+  "captured_at": "2026-10-18T18:57:50",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "c385ac972f8dad05b3358431238ddd044addd7b1fa4e827b27efe2e38cae83d9",
-      "bytes": 122435
+      "sha256": "c7964e1bd2f88d1e7998b4a97f3b38aea5e2a8a24946a549d226c913186a5b8f",
+      "bytes": 142038
     },
     "article_source.txt": {
-      "sha256": "ed77d91d7868bbd028370f45f83bd41db8fd40487a68fd5867ce05b88ae8b187",
-      "bytes": 540
+      "sha256": "205591fb8dd83d583dd4035f8226163d3714f2464c38d4cda9d6be475309e10b",
+      "bytes": 377
     }
   }
 }

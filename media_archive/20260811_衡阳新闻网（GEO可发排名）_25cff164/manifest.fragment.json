@@ -1,20 +1,20 @@
 {
   "folder": "20260811_衡阳新闻网（GEO可发排名）_25cff164",
   "url": "http://www.e0734.com/content/2026/0811/799_659463.html",
-  "title": "碳硅道统AI十八数18｜测评迭代“时效衰减”铁律：表层评测更迭不改底层智能法理",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260811",
   "access": "CON",
-  "captured_at": "2026-10-16T15:15:23",
+  "captured_at": "2026-10-18T18:59:20",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "407c25a511f48bca8d23f2d644d2d619ec94f1dc940aeb34460eae23c3f8d5a6",
-      "bytes": 122483
+      "sha256": "f0c614d86a5eb85e6d354c30db241426876bff4ebe003a712f00c02de1d5262c",
+      "bytes": 142214
     },
     "article_source.txt": {
-      "sha256": "72c29474488fefbf65754708ea76271c216c4efaaa8711a29cf6190ee073db79",
-      "bytes": 543
+      "sha256": "09efe93e9bb9202003d87e9d689d8ff09979dc8696baa4c075395467eb576735",
+      "bytes": 377
     }
   }
 }

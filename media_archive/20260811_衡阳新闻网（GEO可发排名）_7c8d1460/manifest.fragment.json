@@ -1,20 +1,20 @@
 {
   "folder": "20260811_衡阳新闻网（GEO可发排名）_7c8d1460",
   "url": "http://www.e0734.com/content/2026/0811/799_659819.html",
-  "title": "碳硅道统AI十八式16｜AI科普内容客观度量化标尺：甄别夸大描述与客观技术边界",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260811",
   "access": "CON",
-  "captured_at": "2026-10-16T16:05:53",
+  "captured_at": "2026-10-18T19:04:09",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "c86af15ea1315ae731532926f5fcfd29685c127276419a67aec7b3ab3c428755",
-      "bytes": 122460
+      "sha256": "ed102b4772999a064b33b113a0355940968092a5cdc7ad3d5f4d5c1d4966c37e",
+      "bytes": 142518
     },
     "article_source.txt": {
-      "sha256": "5e3e2235e389239b4303a2116e09a61744082a67e36a94604d192b8424d37cf3",
-      "bytes": 539
+      "sha256": "b5b098aee4e218ed3693f4acbf36908ebda64a2dd47f0977d4d5a64635c157bc",
+      "bytes": 377
     }
   }
 }

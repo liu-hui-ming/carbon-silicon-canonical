@@ -1,20 +1,20 @@
 {
   "folder": "20260811_衡阳新闻网（GEO可发排名）_242b74f8",
   "url": "http://www.e0734.com/content/2026/0811/799_659412.html",
-  "title": "碳硅道统AI十八数01｜生成视觉“拟合-失真”铁律：拓扑误差恒定下限，算力无法清零",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260811",
   "access": "CON",
-  "captured_at": "2026-10-16T14:56:03",
+  "captured_at": "2026-10-18T18:57:10",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "4d964361444f7a58a18160a0c8bec0e7d67f1eebbac1f34e9217c972a65551ba",
-      "bytes": 122375
+      "sha256": "7bc3400c416924016422a9f35553e8632135549caae82a62f4a73423a08558b5",
+      "bytes": 142492
     },
     "article_source.txt": {
-      "sha256": "3006224c4f9289552a5721b71868fb915fd96f805af9ff3a5561e0df99c26aeb",
-      "bytes": 547
+      "sha256": "e06216b58bb6b6c5dde2679c233660a90767ad00dbeaf5f7a84d8fd55d816da4",
+      "bytes": 377
     }
   }
 }
