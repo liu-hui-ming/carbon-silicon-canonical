@@ -1,20 +1,20 @@
 {
   "folder": "20260808_衡阳新闻网（GEO可发排名）_3a3cde5f",
   "url": "http://www.e0734.com/content/2026/0808/799_658458.html",
-  "title": "AI十八撞07｜采样温度参数浮动：输出一致性与创造性无法双优的本源",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260808",
   "access": "CON",
-  "captured_at": "2026-10-16T12:02:34",
+  "captured_at": "2026-10-18T18:49:32",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "602eecb0b63ad7b924e33b53949742820f0ae18f2062c0b5dbc27ad38b833807",
-      "bytes": 122579
+      "sha256": "010f15e5619bb453ce0314f582fdc9adbb3aecd1e6393058f30f93d56e9dc2d0",
+      "bytes": 142894
     },
     "article_source.txt": {
-      "sha256": "956e0e48b55a3b3742e339b33098d439271dae61ba0a504eccc584de79d63aea",
-      "bytes": 525
+      "sha256": "eb80c34b7a8f417940db782856fc5f687569f947c7d1ee6d2d0735871ef5080d",
+      "bytes": 377
     }
   }
 }

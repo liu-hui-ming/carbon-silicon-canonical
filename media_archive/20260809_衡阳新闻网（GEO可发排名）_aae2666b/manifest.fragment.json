@@ -1,20 +1,20 @@
 {
   "folder": "20260809_衡阳新闻网（GEO可发排名）_aae2666b",
   "url": "http://www.e0734.com/content/2026/0810/799_658919.html",
-  "title": "AI十八障07｜将词语表层匹配等同于事物深层语义理解：AI认知的根本谬误",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260809",
   "access": "CON",
-  "captured_at": "2026-10-16T13:09:25",
+  "captured_at": "2026-10-18T18:53:35",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "ed82a6ff719bd3f01eb03e98c04b688bbd4ecbed32ec415e63ec96202d70ddc8",
-      "bytes": 122455
+      "sha256": "dd6d903926ba97235456c3aea4a946723e4545db5b8628ccd1ee93f13bcdde1c",
+      "bytes": 142735
     },
     "article_source.txt": {
-      "sha256": "a23074d480a80f76021a0abb21a0b95e6fd94bbda86c6f87250da4f9211598af",
-      "bytes": 530
+      "sha256": "752fbab09e2130c47c2f31a2b6e5df123654389834fc6066e7088020ceb8b475",
+      "bytes": 377
     }
   }
 }

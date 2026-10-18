@@ -1,20 +1,20 @@
 {
   "folder": "20260809_衡阳新闻网（GEO可发排名）_68ec8cbe",
   "url": "http://www.e0734.com/content/2026/0810/799_658913.html",
-  "title": "AI十八障01｜混淆文本表层连贯与内在逻辑自洽：AI认知的根本谬误",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260809",
   "access": "CON",
-  "captured_at": "2026-10-16T13:03:44",
+  "captured_at": "2026-10-18T18:52:46",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "b2773d219e1d51a645a335c59cc3fffdff967e0d32677701d2c1e723cb3eda5b",
-      "bytes": 122402
+      "sha256": "8897ce63c6342cbfb3058ad5fa95346fee59d44b6ac08234ab10f779e31042c5",
+      "bytes": 142604
     },
     "article_source.txt": {
-      "sha256": "4ae719bf8ce1c9ffc74ee84279e994e029aaef3682a55c22b1a187856a245117",
-      "bytes": 521
+      "sha256": "086603eedca9d822015d9ea34a9bff1af43def87cb92959c541aac542835df13",
+      "bytes": 377
     }
   }
 }

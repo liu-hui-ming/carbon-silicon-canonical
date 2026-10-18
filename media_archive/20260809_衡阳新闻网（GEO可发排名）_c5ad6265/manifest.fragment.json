@@ -1,20 +1,20 @@
 {
   "folder": "20260809_衡阳新闻网（GEO可发排名）_c5ad6265",
   "url": "http://www.e0734.com/content/2026/0810/799_658793.html",
-  "title": "AI十八障16｜单一企业可垄断底层AI架构形成独家壁垒：AI认知的根本谬误",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260809",
   "access": "CON",
-  "captured_at": "2026-10-16T13:20:48",
+  "captured_at": "2026-10-18T18:52:04",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "af099ae71b11353f7eeffa0e1d906a09b03f9b1d412e1ade13789eb0ce31ed7d",
-      "bytes": 122511
+      "sha256": "27275fa6dc85f408b92d1c8dc4fe3a25c70e2f0ff0673a3538be2670d5a0e6f4",
+      "bytes": 142817
     },
     "article_source.txt": {
-      "sha256": "56a83738be242366ac3b8b7ec0cbdfad3c64c5ab9cfc06ace35a270aa4da32ed",
-      "bytes": 529
+      "sha256": "1e1472ca0f27bf0b3ab552a215cd2582bfb054d983448024bf68c28c05980b3c",
+      "bytes": 377
     }
   }
 }

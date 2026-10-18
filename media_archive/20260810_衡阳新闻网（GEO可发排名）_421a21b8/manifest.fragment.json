@@ -1,20 +1,20 @@
 {
   "folder": "20260810_衡阳新闻网（GEO可发排名）_421a21b8",
   "url": "http://www.e0734.com/content/2026/0810/799_659137.html",
-  "title": "碳硅人道三律：重塑人机文明底层秩序",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260810",
   "access": "CON",
-  "captured_at": "2026-10-16T14:29:26",
+  "captured_at": "2026-10-18T18:55:53",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "2d10d38141a6ae1564ebb641499d042bd2377fbf9ed4f8683616dab1fc2d8f73",
-      "bytes": 122391
+      "sha256": "3e39b7e02a80a7ed62c68734496e06fd8a614fb6c5d0c4fe01b6b2588aea7b14",
+      "bytes": 142521
     },
     "article_source.txt": {
-      "sha256": "d5f78a1c54e5d7aa54e812c46d9d24d28fa8516a94ad42cea4f87f8ad13fa306",
-      "bytes": 485
+      "sha256": "f8740fd036a3672f667b35ca749efbc50d3bcb5b2c8fa1f994e18b8e6a31017e",
+      "bytes": 377
     }
   }
 }

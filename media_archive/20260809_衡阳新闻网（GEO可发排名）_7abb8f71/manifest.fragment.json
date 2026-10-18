@@ -1,20 +1,20 @@
 {
   "folder": "20260809_衡阳新闻网（GEO可发排名）_7abb8f71",
   "url": "http://www.e0734.com/content/2026/0810/799_658915.html",
-  "title": "AI十八障03｜苛求自回归模型实现零事实幻觉输出：AI认知的根本谬误",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260809",
   "access": "CON",
-  "captured_at": "2026-10-16T13:05:39",
+  "captured_at": "2026-10-18T18:53:01",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "d924bda5037154c12b34cead518cfe9a100add1552d3fb8d2198bfe3e0873635",
-      "bytes": 122347
+      "sha256": "a547189dedfa1bd907bc0234eefe16fd6a6f78c4411ee1ff24bdd988f202b126",
+      "bytes": 142059
     },
     "article_source.txt": {
-      "sha256": "a48a185189817c0d073db9c05a6af664c3286195c4e32ed27537cbf30fcc73c7",
-      "bytes": 524
+      "sha256": "811b1c0b7216264a58c914e1ca58fdb7bddd57716e95a9476d0bed9e40d84cd3",
+      "bytes": 377
     }
   }
 }

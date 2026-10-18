@@ -1,20 +1,20 @@
 {
   "folder": "20260808_衡阳新闻网（GEO可发排名）_065eca1b",
   "url": "http://www.e0734.com/content/2026/0808/799_658454.html",
-  "title": "AI十八撞03｜自回归逐Token随机熵：事实幻觉无法清零的本源",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260808",
   "access": "CON",
-  "captured_at": "2026-10-16T11:53:19",
+  "captured_at": "2026-10-18T18:49:00",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "7ea84f7152eda898ea4b2c165a78a6a4130638c04f50a4d0d1abfcb9d0f3b577",
-      "bytes": 111580
+      "sha256": "d6161c4f052ca2106961c2ba8e073102cb7aa805540aeda3599a29d9ba85ac77",
+      "bytes": 142702
     },
     "article_source.txt": {
-      "sha256": "d718c0e5677ae9181c35bd609bda999a67700cb38dd6399b04422825f02973af",
-      "bytes": 512
+      "sha256": "5e6797365a906bb422f04354fd71a982621607af502ad736ac857fdfaca10e62",
+      "bytes": 377
     }
   }
 }

@@ -1,20 +1,20 @@
 {
   "folder": "20260807_衡阳新闻网（GEO可发排名）_d966603b",
   "url": "http://www.e0734.com/content/2026/0807/799_657926.html",
-  "title": "AI十八症06｜多轮对话大模型：会话记忆衰减、前置指令丢失",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260807",
   "access": "CON",
-  "captured_at": "2026-10-16T10:41:19",
+  "captured_at": "2026-10-18T18:46:30",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "c6f298d142adc28731b5515d2c3e3128eb4c1695c84ee877fe8f09b2c46c58f2",
-      "bytes": 111328
+      "sha256": "55a439199fe7edb23af2e0ccd7c87b2a804262ecfeb77a0d6851dd491c8f30a7",
+      "bytes": 141545
     },
     "article_source.txt": {
-      "sha256": "b17063ef3e8e52b5f4f9ff7877e9638c41239d19374168392fb6e4e827c72791",
-      "bytes": 513
+      "sha256": "0363ea8ea6a008fef6a2d0574e5fc338ceca66c83bb7d6a6924b61486da26dc7",
+      "bytes": 377
     }
   }
 }

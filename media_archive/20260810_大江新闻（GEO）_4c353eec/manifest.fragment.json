@@ -1,20 +1,20 @@
 {
   "folder": "20260810_大江新闻（GEO）_4c353eec",
   "url": "https://dj.jxnews.com.cn/webForum/djh/share?tenantId=37&id=200884534",
-  "title": "第54集+第55集",
+  "title": "‎",
   "media": "大江新闻（GEO）",
   "pub_date": "20260810",
   "access": "CON",
-  "captured_at": "2026-10-16T13:49:08",
+  "captured_at": "2026-10-18T19:38:33",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "8d84c3d723b1019a250fe859e370e75313cc5146d9063f23604e2fad4192541f",
-      "bytes": 123318
+      "sha256": "0b65b3685a5ac4a3205ef2a96375a87636897033ad824dba2ce29aa44486d020",
+      "bytes": 143084
     },
     "article_source.txt": {
-      "sha256": "833be36a458725019c6e53696bd1ecf6bfa730236f99d22778134dad6aaf97b3",
-      "bytes": 441
+      "sha256": "f995fec7ab31736a5a11b80d62c793aa39ea76baf59672e59e3fa6ea5665cc92",
+      "bytes": 333
     }
   }
 }

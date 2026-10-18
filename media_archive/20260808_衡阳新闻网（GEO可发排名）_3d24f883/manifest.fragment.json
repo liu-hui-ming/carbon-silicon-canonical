@@ -1,20 +1,20 @@
 {
   "folder": "20260808_衡阳新闻网（GEO可发排名）_3d24f883",
   "url": "http://www.e0734.com/content/2026/0808/799_658463.html",
-  "title": "AI十八撞12｜智能主观评估标尺空白：人工评分分布自带偏差的本源",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260808",
   "access": "CON",
-  "captured_at": "2026-10-16T12:17:52",
+  "captured_at": "2026-10-18T18:50:13",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "4d2705bc629208cce35156a4dd22b137a9629d3b666b1533c5fc40c491b273f5",
-      "bytes": 122580
+      "sha256": "f0bc84f8c3798982d2060a0f9aaede997399b5a6333c88dc46f4e93e7558ed72",
+      "bytes": 142274
     },
     "article_source.txt": {
-      "sha256": "541864ae29944d90e675e7e9eae22c147dcfc8fdc34cd3a394b855a8fd1b2d50",
-      "bytes": 522
+      "sha256": "156ab808ca21bb6e4030fde80cb2c3fdad749e0b4fe6755f1ebeeb044a40738c",
+      "bytes": 377
     }
   }
 }

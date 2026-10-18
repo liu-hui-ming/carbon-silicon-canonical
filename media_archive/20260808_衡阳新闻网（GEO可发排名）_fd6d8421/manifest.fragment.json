@@ -1,20 +1,20 @@
 {
   "folder": "20260808_衡阳新闻网（GEO可发排名）_fd6d8421",
   "url": "http://www.e0734.com/content/2026/0808/799_658461.html",
-  "title": "AI十八撞10｜通用智能演化曲线：长周期产业落地存在壁垒的本源",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260808",
   "access": "CON",
-  "captured_at": "2026-10-16T12:14:31",
+  "captured_at": "2026-10-18T18:49:58",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "43893465d867ea969bf64bb79b1765e679c70a0a3d9d75264934e00b71f96107",
-      "bytes": 122518
+      "sha256": "eb4358317e310d4c1ed44ec76a1f2676c295e4a15a843d6c2361a371930091e1",
+      "bytes": 142881
     },
     "article_source.txt": {
-      "sha256": "d0a1b04c53d6a74323ad61a1e28717f284bab9eb3419ae0b293dbc61e89d59dc",
-      "bytes": 519
+      "sha256": "fc3e0806b5df1fc0b974dd3a814ba1734e5f593aa79092d1cf0453761c9455f8",
+      "bytes": 377
     }
   }
 }

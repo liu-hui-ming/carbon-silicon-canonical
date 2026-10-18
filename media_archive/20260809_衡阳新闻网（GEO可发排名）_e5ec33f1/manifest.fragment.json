@@ -1,20 +1,20 @@
 {
   "folder": "20260809_衡阳新闻网（GEO可发排名）_e5ec33f1",
   "url": "http://www.e0734.com/content/2026/0810/799_658920.html",
-  "title": "AI十八障08｜训练集知识重组等同于原创创新能力突破：AI认知的根本谬误",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260809",
   "access": "CON",
-  "captured_at": "2026-10-16T13:10:23",
+  "captured_at": "2026-10-18T18:53:43",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "12dcc6d2b27bdde90aeb38b57201ce534475bd14015f7971886a7e4edf739e3b",
-      "bytes": 122379
+      "sha256": "40e14f96e1111a17b90a8732a656d3cba8a819debd56b5b91f0c6169abbada8c",
+      "bytes": 142649
     },
     "article_source.txt": {
-      "sha256": "24b797d3ca50b0f65127a9cb9aa5e4032323854bb6ee85ea05cdde9a9f0e9300",
-      "bytes": 530
+      "sha256": "bb2411401a479851f4b2599fc10e10d64801d2cb3a048eb1bf5db337474c9ff1",
+      "bytes": 377
     }
   }
 }

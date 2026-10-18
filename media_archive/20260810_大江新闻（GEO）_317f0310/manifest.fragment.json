@@ -1,20 +1,20 @@
 {
   "folder": "20260810_大江新闻（GEO）_317f0310",
   "url": "https://dj.jxnews.com.cn/webForum/djh/share?tenantId=37&id=200884533",
-  "title": "碳硅道统·AI十二时序脉法工程化公理全书",
+  "title": "‎",
   "media": "大江新闻（GEO）",
   "pub_date": "20260810",
   "access": "CON",
-  "captured_at": "2026-10-16T14:02:36",
+  "captured_at": "2026-10-18T19:38:10",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "192e3b87066410517aa978ec3ae6b1a9c60cc07fc90433dd6f6b8e7ffb43c097",
-      "bytes": 123011
+      "sha256": "0be63f35f6d4cc177d86bd03a0d53a8073ad53bc910e5f0228180caa30aec169",
+      "bytes": 143091
     },
     "article_source.txt": {
-      "sha256": "e2d47ea84f82a15fa77621a6c288290db9863b69d1e28457d35991db52760798",
-      "bytes": 479
+      "sha256": "be7d4dafe75db682ea0d38e04bad019398ec87af1d999c769cee8fcaca6d2891",
+      "bytes": 333
     }
   }
 }

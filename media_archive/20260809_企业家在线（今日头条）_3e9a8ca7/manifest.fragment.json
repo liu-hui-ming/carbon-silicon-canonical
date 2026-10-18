@@ -1,20 +1,20 @@
 {
   "folder": "20260809_企业家在线（今日头条）_3e9a8ca7",
   "url": "https://www.toutiao.com/item/7671586126460748338/",
-  "title": "今日头条登录",
+  "title": "《全民AI深挖计划188集》第52集|维度层级划分:0维本源至16维硅 - 今日头条",
   "media": "企业家在线（今日头条）",
   "pub_date": "20260809",
-  "access": "CON",
-  "captured_at": "2026-10-16T12:56:54",
+  "access": "OK",
+  "captured_at": "2026-10-18T16:04:02",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "94d1db7fb46e7fade207808c381b5d7a81ea1c30d6ed7151d5300d10b881e8ca",
-      "bytes": 1745601
+      "sha256": "a822c0820fd3b99657b9ed42a030068f864e9740312b2bd50d43a7d94829e21a",
+      "bytes": 2768264
     },
     "article_source.txt": {
-      "sha256": "76b77bca167eb262ae18c147a43608715033c44b0c33d37bac4087ede9874e79",
-      "bytes": 487
+      "sha256": "6bc0165ac178aa7154a306cbb3840af3083d1eed25c55a484493f5039ad8a18a",
+      "bytes": 11774
     }
   }
 }

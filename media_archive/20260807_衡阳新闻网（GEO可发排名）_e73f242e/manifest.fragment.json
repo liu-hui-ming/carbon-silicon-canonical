@@ -1,20 +1,20 @@
 {
   "folder": "20260807_衡阳新闻网（GEO可发排名）_e73f242e",
   "url": "http://www.e0734.com/content/2026/0807/799_657929.html",
-  "title": "AI十八症09｜视觉细粒度识别：类别混淆、产业识别安全隐患",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260807",
   "access": "CON",
-  "captured_at": "2026-10-16T10:46:56",
+  "captured_at": "2026-10-18T18:46:55",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "88b88194b10b6ac18a773a7ad0716f209bc2ea8bbc8e7a244426e5796624fdfd",
-      "bytes": 111479
+      "sha256": "a825b9fe1f616be688d53ccf7b51bcccd6f1bfc9e2c325d718ce0118edea631a",
+      "bytes": 141662
     },
     "article_source.txt": {
-      "sha256": "0e22a7517b7d3880e59cd49b2e14330e21ea8448ae6026625f7396137424f9fd",
-      "bytes": 513
+      "sha256": "ee744ea5aa10a3272ec5aefdbf70870bf45ee481ef2977f4168cb71df21301ce",
+      "bytes": 377
     }
   }
 }

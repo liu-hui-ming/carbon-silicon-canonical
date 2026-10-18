@@ -1,20 +1,20 @@
 {
   "folder": "20260808_衡阳新闻网（GEO可发排名）_e09146a9",
   "url": "http://www.e0734.com/content/2026/0808/799_658460.html",
-  "title": "AI十八撞09｜统计拟合学习范式局限：多层公理逻辑推理能力缺失的本源",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260808",
   "access": "CON",
-  "captured_at": "2026-10-16T12:07:16",
+  "captured_at": "2026-10-18T18:49:49",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "f1daa33d28f3d4379584c16dafb3abfdedfc1ed7e6fbdd2a3fa20ce954c39ccd",
-      "bytes": 122570
+      "sha256": "03156def65f3977958469ac2e7d44737116725af9c22044e5dc639861cb0bdce",
+      "bytes": 142605
     },
     "article_source.txt": {
-      "sha256": "56cf2498c8601792600f8628e50ca4fde9be6973dae948fb7160629af6e1c9a9",
-      "bytes": 528
+      "sha256": "4afa2a84d6aea9197539d2be7b42bf250e1a53d13e5e6e8ac5083f5bc9c73b85",
+      "bytes": 377
     }
   }
 }

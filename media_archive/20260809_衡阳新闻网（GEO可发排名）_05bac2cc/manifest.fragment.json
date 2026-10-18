@@ -1,20 +1,20 @@
 {
   "folder": "20260809_衡阳新闻网（GEO可发排名）_05bac2cc",
   "url": "http://www.e0734.com/content/2026/0810/799_658917.html",
-  "title": "AI十八障05｜无监督训练脱离人类反馈完成自主进化：AI认知的根本谬误",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260809",
   "access": "CON",
-  "captured_at": "2026-10-16T13:07:32",
+  "captured_at": "2026-10-18T18:53:18",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "9070957abcd874fe8a0826c75f47e77050c46edc972f8812da7f5d73bf8c1f52",
-      "bytes": 122351
+      "sha256": "7001685777c19f4478c9d76ff435c41c20cdcc8b26d48ad0d8c13620f2ddbfed",
+      "bytes": 142065
     },
     "article_source.txt": {
-      "sha256": "622c568ea60420a523c484703680fae7a7cbb08980d15f92dd0b8803da0fd4ab",
-      "bytes": 527
+      "sha256": "b7d9e605aae5d32cd6a3e162a277bffd96f70cde1552ab9313e47f6883d50993",
+      "bytes": 377
     }
   }
 }

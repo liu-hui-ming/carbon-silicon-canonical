@@ -1,20 +1,20 @@
 {
   "folder": "20260809_衡阳新闻网（GEO可发排名）_edfd6392",
   "url": "http://www.e0734.com/content/2026/0810/799_658784.html",
-  "title": "AI十八障14｜忽略迭代调试附带的算力人力隐性成本：AI认知的根本谬误",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260809",
   "access": "CON",
-  "captured_at": "2026-10-16T13:16:06",
+  "captured_at": "2026-10-18T18:51:47",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "13deffaa44e0d80cbdd88f3e4ea089d2e9a941d07036a31dece746111290cb72",
-      "bytes": 122476
+      "sha256": "8527ad5afde097b9551697f341c7637dfe39bff492814e325642877d7ba7254f",
+      "bytes": 142529
     },
     "article_source.txt": {
-      "sha256": "d87f641a985e009fdebc4423b4c04794e4f5922b9814b1ae4a873e2a84b17c5d",
-      "bytes": 527
+      "sha256": "2b77c48e5f3aa44773cfe914367efc950471393fe59b3bbdd44f42ee9060a89b",
+      "bytes": 377
     }
   }
 }

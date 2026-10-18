@@ -1,20 +1,20 @@
 {
   "folder": "20260810_企业家在线（今日头条）_28546806",
   "url": "https://www.toutiao.com/item/7672224977222910479/",
-  "title": "今日头条登录",
+  "title": "《全民AI深挖计划188集》第54集和第55集 - 今日头条",
   "media": "企业家在线（今日头条）",
   "pub_date": "20260810",
-  "access": "CON",
-  "captured_at": "2026-10-16T13:51:37",
+  "access": "OK",
+  "captured_at": "2026-10-18T16:04:34",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "560e3f2ae7543db3f8b34d9a8efc35e0a9a35d18843a73871fda8eb2bede5b54",
-      "bytes": 3142783
+      "sha256": "78bdf8defd54499dbb56cb1bc9dbd26b6f5e4c7ff80bacc82fd40ba9a6cc5842",
+      "bytes": 3168530
     },
     "article_source.txt": {
-      "sha256": "02b88ea89dec42222696541467f4078b164028cecd864b5b64e021653f658433",
-      "bytes": 487
+      "sha256": "5c5bfb530a736fa4ed4029094e677a3ac5ce84a96ec0c623c3caece4763bcf74",
+      "bytes": 12136
     }
   }
 }

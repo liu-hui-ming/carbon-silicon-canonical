@@ -1,20 +1,20 @@
 {
   "folder": "20260809_自动化网（GEO)_0481f348",
   "url": "https://www.zidonghua.com.cn/MSupplyChain/InfoWin/265978.html",
-  "title": "404 Not Found",
+  "title": "《全民AI深挖计划188集》第53集|波粒二象性映射碳、硅两类载体的本质先天差异 - 资讯之窗 - 自动化网 ZiDongHua.com.cn ，自动化科技展示平台、“自动化者”人文交流平台。",
   "media": "自动化网（GEO)",
   "pub_date": "20260809",
-  "access": "CON",
-  "captured_at": "2026-10-16T13:34:29",
+  "access": "OK",
+  "captured_at": "2026-10-18T16:10:18",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "263ce86f1924e192f767785bf915094cb8a7c44e3fac050d0c402f6b8fc9e8db",
-      "bytes": 118675
+      "sha256": "aca9a5a2208cb3339069b47ac95d8ca259b319d48efc97d38ba35e1da73a2f9a",
+      "bytes": 2592079
     },
     "article_source.txt": {
-      "sha256": "ff57af89e666fbc01c15934448f817caabfe30b595875f00796e3b40b429c9d4",
-      "bytes": 426
+      "sha256": "df221323af156dd91063147093ecf3d38e4f48ca3ab8a42551d72417cc4877c5",
+      "bytes": 13990
     }
   }
 }

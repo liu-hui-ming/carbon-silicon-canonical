@@ -1,20 +1,20 @@
 {
   "folder": "20260809_衡阳新闻网（GEO可发排名）_3e2fdb92",
   "url": "http://www.e0734.com/content/2026/0810/799_658914.html",
-  "title": "AI十八障02｜算力参数无限堆叠即可突破通用智能边界：AI认知的根本谬误",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260809",
   "access": "CON",
-  "captured_at": "2026-10-16T13:04:41",
+  "captured_at": "2026-10-18T18:52:53",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "5013846cc04a8021b63adb586a3b09d9f72086161b3622ba2767f9e1522724c7",
-      "bytes": 122395
+      "sha256": "142f2acd4f8f2d18d6e94a54c4b8caf5a25336574e39026b5e40dd6525dfa118",
+      "bytes": 142673
     },
     "article_source.txt": {
-      "sha256": "53f1aeadf7cedcda7543c0022baaa01eef051aebed390be9d8199f8a95ded1bf",
-      "bytes": 530
+      "sha256": "9eb812fbc1dad6a4f1eee25800c975ed7867a2295f9cbc3202f529066207925f",
+      "bytes": 377
     }
   }
 }

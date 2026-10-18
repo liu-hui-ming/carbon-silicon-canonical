@@ -1,20 +1,20 @@
 {
   "folder": "20260810_企业家在线（今日头条）_3ac23c62",
   "url": "https://www.toutiao.com/item/7672237203354927650/",
-  "title": "今日头条登录",
+  "title": "碳硅道统·AI十二时序脉法工程化公理全书 - 今日头条",
   "media": "企业家在线（今日头条）",
   "pub_date": "20260810",
-  "access": "CON",
-  "captured_at": "2026-10-16T14:06:55",
+  "access": "OK",
+  "captured_at": "2026-10-18T16:05:02",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "97e91692cf4b03e8c886afda5b38f5ff13a77d674bbc2f8d5631c96ed81d0ddd",
-      "bytes": 4913310
+      "sha256": "e97641d4c833c821a74d679964148a51de2cc969dc9beb3b7ff244a17bd63b73",
+      "bytes": 5438440
     },
     "article_source.txt": {
-      "sha256": "44074f2f7a7fa7557bc34232f5c39c035b271a1139de9acb1fa7e5c5f4a647f3",
-      "bytes": 487
+      "sha256": "562a9fe515fbd9704c7ae8a23b8a85d0ca7d345d8b95a751aa848622ce7e03b8",
+      "bytes": 16215
     }
   }
 }

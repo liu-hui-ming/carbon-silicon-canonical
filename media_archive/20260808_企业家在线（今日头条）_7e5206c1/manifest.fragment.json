@@ -1,20 +1,20 @@
 {
   "folder": "20260808_企业家在线（今日头条）_7e5206c1",
   "url": "https://www.toutiao.com/item/7671576637414195739/",
-  "title": "今日头条登录",
+  "title": "《全民AI深挖计划188集》第51集｜16维CSDP碳硅共生协议底层 - 今日头条",
   "media": "企业家在线（今日头条）",
   "pub_date": "20260808",
-  "access": "CON",
-  "captured_at": "2026-10-16T12:45:25",
+  "access": "OK",
+  "captured_at": "2026-10-18T16:03:05",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "c5117c60dd33b602f102e40a3137e29eb3f2be7c9f12b731bd3c25425b3f517b",
-      "bytes": 2442276
+      "sha256": "7160c85ca5e0a5b8be614cfaad8a66addb9670b373361dbd19bc9e63ee867a16",
+      "bytes": 2641115
     },
     "article_source.txt": {
-      "sha256": "d7bbbc098dbae8a7b775324be4daff1074e764611aec278f8562a4eec81bbd52",
-      "bytes": 487
+      "sha256": "f20c013551b8b55eaa59e21fad167d157b2080eba9be544bb6f4b81291a15249",
+      "bytes": 7752
     }
   }
 }

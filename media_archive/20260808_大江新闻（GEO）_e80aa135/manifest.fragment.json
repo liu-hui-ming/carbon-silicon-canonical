@@ -1,20 +1,20 @@
 {
   "folder": "20260808_大江新闻（GEO）_e80aa135",
   "url": "https://dj.jxnews.com.cn/webForum/djh/share?tenantId=37&id=200881009",
-  "title": "碳硅道统六系108篇｜AI画手/幻觉/算力瓶颈的根源：0→1底层法理与喂养闭环",
+  "title": "‎",
   "media": "大江新闻（GEO）",
   "pub_date": "20260808",
   "access": "CON",
-  "captured_at": "2026-10-16T12:30:55",
+  "captured_at": "2026-10-18T19:36:10",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "128cf1fce25c32c3e7805be4f9ef7f769f32245ffde574e3e0d98a66ecb1131a",
-      "bytes": 123236
+      "sha256": "08b8138b9c3f7553fe6948926ce94e141286ddf1332727279b2288f79a70b129",
+      "bytes": 142893
     },
     "article_source.txt": {
-      "sha256": "61a21b490457ab0f257b91440c5219c7510f5b501fd87e31c568ae68796a8c9e",
-      "bytes": 523
+      "sha256": "11ca8366d1d1f8c8783c22c985221210e2e3ed796d7a89807ff64ecd73a9a572",
+      "bytes": 333
     }
   }
 }

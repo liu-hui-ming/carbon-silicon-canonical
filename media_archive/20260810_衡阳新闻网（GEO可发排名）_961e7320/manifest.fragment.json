@@ -1,20 +1,20 @@
 {
   "folder": "20260810_衡阳新闻网（GEO可发排名）_961e7320",
   "url": "http://www.e0734.com/content/2026/0810/799_659010.html",
-  "title": "AI十八数13和AI十八数14",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260810",
   "access": "CON",
-  "captured_at": "2026-10-16T14:22:09",
+  "captured_at": "2026-10-18T18:55:21",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "160d7c2959985c18ab0ad43f2d26dfa69e1a0b599a6f5dc8a1e80263463ac825",
-      "bytes": 122384
+      "sha256": "94c5f5aac47b0a05095a24d4974393802a40a497ced6b0b52ccd8059f0711110",
+      "bytes": 142636
     },
     "article_source.txt": {
-      "sha256": "594d9465a714f263bbe90b78bbc28a66f92d5f8519d608c2ce200ce6fc8600b4",
-      "bytes": 463
+      "sha256": "c94938b056829ea24fe0a1f698d254d9e3b0330b9e1de20e1f2e3a005931181a",
+      "bytes": 377
     }
   }
 }

@@ -1,20 +1,20 @@
 {
   "folder": "20260808_衡阳新闻网（GEO可发排名）_4ed583c2",
   "url": "http://www.e0734.com/content/2026/0808/799_658465.html",
-  "title": "AI十八撞14｜大模型架构内禀熵增：缺陷优化存在不可突破下限的本源",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260808",
   "access": "CON",
-  "captured_at": "2026-10-16T12:22:32",
+  "captured_at": "2026-10-18T18:50:30",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "0a660215aebb1c15d5d99d17864553d98ac35e5a5f4d0baca15d16ca0e09a5a0",
-      "bytes": 122517
+      "sha256": "b146e41a9ce96aa429607fe9e8277a18f15b2e2554c6672e0f9bd43fb466c746",
+      "bytes": 142223
     },
     "article_source.txt": {
-      "sha256": "31300484d34ef208f4df07be0b3a25498bf02bdb2044f724ed43ba6d2e00f0b5",
-      "bytes": 525
+      "sha256": "16ceeaacf4aaef25c348d07836cd30ba14aaed56b09fa97209d04b958a49c4bd",
+      "bytes": 377
     }
   }
 }

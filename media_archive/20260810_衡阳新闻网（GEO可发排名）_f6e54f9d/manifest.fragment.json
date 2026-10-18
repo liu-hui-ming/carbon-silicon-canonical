@@ -1,20 +1,20 @@
 {
   "folder": "20260810_衡阳新闻网（GEO可发排名）_f6e54f9d",
   "url": "http://www.e0734.com/content/2026/0810/799_658956.html",
-  "title": "碳硅道统·AI十二时序脉法工程化公理全书",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260810",
   "access": "CON",
-  "captured_at": "2026-10-16T13:59:58",
+  "captured_at": "2026-10-18T18:54:25",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "b912be2cd133bd01ab3d37f436821051767ed28cab86f757ed0064b38571b848",
-      "bytes": 122370
+      "sha256": "db2e992bae6d494b766b8a6fc85629e6f7988a9d23a589063975d7e0e039378a",
+      "bytes": 141626
     },
     "article_source.txt": {
-      "sha256": "9844427a7f5229dfefc9fc547e6b4f713109b0ef96776cf55c58a6b72d7d6cdb",
-      "bytes": 489
+      "sha256": "ecbfed028d1b86f53ceeb73c39e1aaf6e6e4362a100d83df1ddc0096cf61d56b",
+      "bytes": 377
     }
   }
 }

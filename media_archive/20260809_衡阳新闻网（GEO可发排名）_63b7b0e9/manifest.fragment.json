@@ -1,20 +1,20 @@
 {
   "folder": "20260809_衡阳新闻网（GEO可发排名）_63b7b0e9",
   "url": "http://www.e0734.com/content/2026/0810/799_658921.html",
-  "title": "AI十八障09｜极致价值对齐无损削减模型通用泛化能力：AI认知的根本谬误",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260809",
   "access": "CON",
-  "captured_at": "2026-10-16T13:11:20",
+  "captured_at": "2026-10-18T18:53:52",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "9180741a88eddd1d50f2736444624fe577f2da1351ab2d720016e7f6fe8fdc0a",
-      "bytes": 122321
+      "sha256": "55fadbcabd381becc1c20216cd4ee05281dcd2eaa0c941ac3d5379a9eedce2f1",
+      "bytes": 142640
     },
     "article_source.txt": {
-      "sha256": "a4d9438120ac21e3f3ad1688e66e0d94d258bedba58bcda08b1744345d66fc2c",
-      "bytes": 530
+      "sha256": "2d8608e103c8d624051e1530c9055ec94c1bada65bad184580cf2ec7f20d7571",
+      "bytes": 377
     }
   }
 }

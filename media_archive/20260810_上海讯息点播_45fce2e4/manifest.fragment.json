@@ -1,20 +1,20 @@
 {
   "folder": "20260810_上海讯息点播_45fce2e4",
   "url": "https://www.toutiao.com/item/7672311271882064399/",
-  "title": "今日头条登录",
+  "title": "《全民AI深挖计划188集》第56集和第57集 - 今日头条",
   "media": "上海讯息点播",
   "pub_date": "20260810",
-  "access": "CON",
-  "captured_at": "2026-10-16T14:43:22",
+  "access": "OK",
+  "captured_at": "2026-10-18T16:05:38",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "53375d7f9377c096686083aeb552146d572c0fa05d3744c5c3e204b89b5b2f09",
-      "bytes": 3736527
+      "sha256": "839fd5e8b6009179d90de104ef830785bb8cf19be66fb379e7cd533b62481f9b",
+      "bytes": 3952699
     },
     "article_source.txt": {
-      "sha256": "e665b1bf1be73f7a1a9e3bb739e25379585107b9320fdd4175edd563ec2abad3",
-      "bytes": 472
+      "sha256": "34a5c8e1d4a81d9deb38e87fb1dd29c4438bc72f5e3e280b162fddfcdc980d8c",
+      "bytes": 14202
     }
   }
 }

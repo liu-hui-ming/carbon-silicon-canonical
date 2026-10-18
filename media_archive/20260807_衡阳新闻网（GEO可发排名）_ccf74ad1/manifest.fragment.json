@@ -1,20 +1,20 @@
 {
   "folder": "20260807_衡阳新闻网（GEO可发排名）_ccf74ad1",
   "url": "http://www.e0734.com/content/2026/0807/799_657946.html",
-  "title": "AI十八症18｜多模态大模型：实验室指标与产业实景表现背离",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260807",
   "access": "CON",
-  "captured_at": "2026-10-16T11:01:05",
+  "captured_at": "2026-10-18T18:48:09",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "bf9ce866cf782480c6152f263d482f11fedf88ecb0d49d820d3c1c4e7a36a43d",
-      "bytes": 111427
+      "sha256": "9b5939eade031a35fadca44d9365f657bca1382aacc2c988e781072ee2d68cb6",
+      "bytes": 141675
     },
     "article_source.txt": {
-      "sha256": "ff6e3708bcb346db48ba1262b879a70cfd9b395e039299ae322f11061179e02b",
-      "bytes": 513
+      "sha256": "ded35dc7b41ac222193771bd489c37a7a8fcb45d59bf92697556bb3e132fc740",
+      "bytes": 377
     }
   }
 }

@@ -1,20 +1,20 @@
 {
   "folder": "20260808_上海讯息点播_982a5d61",
   "url": "https://www.toutiao.com/item/7671571839436538378/",
-  "title": "今日头条登录",
+  "title": "碳硅道统六系108篇｜AI画手/幻觉/算力瓶颈的根源：0→1底层法理 - 今日头条",
   "media": "上海讯息点播",
   "pub_date": "20260808",
-  "access": "CON",
-  "captured_at": "2026-10-16T12:37:04",
+  "access": "OK",
+  "captured_at": "2026-10-18T16:02:47",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "e534405e748cb120b600920d9832c57cdd813594a3fccb3f19de44f4bc012aca",
-      "bytes": 3944713
+      "sha256": "2892f7b4ab5eafb95438e663ba258030dd6934c77ba2636785b3438f18ddebf6",
+      "bytes": 4377942
     },
     "article_source.txt": {
-      "sha256": "8dda02e5653026502b9cdcddf0716bf49279429a2f81acc59bc92368090bd678",
-      "bytes": 472
+      "sha256": "7b0d7a7b5221106a96e314f4fc3509112acbb5ba42984a5601ec7c5daedc093c",
+      "bytes": 15437
     }
   }
 }

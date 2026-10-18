@@ -1,20 +1,20 @@
 {
   "folder": "20260809_企业家在线（今日头条）_fda72e62",
   "url": "https://www.toutiao.com/article/7671585841885544970/?log_from=328159f8d2183_1786677654465",
-  "title": "今日头条登录",
+  "title": "《全民AI深挖计划188集》第53集|波粒二象性映射碳、硅两类载体 - 今日头条",
   "media": "企业家在线（今日头条）",
   "pub_date": "20260809",
-  "access": "CON",
-  "captured_at": "2026-10-16T13:35:49",
+  "access": "OK",
+  "captured_at": "2026-10-18T20:04:22",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "017937e71cb9843ea2ca10f5240a9d15377e5a70278c1121893f182b2d299fe9",
-      "bytes": 1475473
+      "sha256": "55cd7b093b25fbf868433f215918674f6b273ea92c6967b9bcb15c82873116b7",
+      "bytes": 2667658
     },
     "article_source.txt": {
-      "sha256": "253f7655470453ead22b1a17dc83ec2772e53d76223c7c8e8f66b9ccecbab348",
-      "bytes": 527
+      "sha256": "d5d59471353ac92b7f877edd847d0567c1b2fbaa6cf068163963e2676b2a3e41",
+      "bytes": 9884
     }
   }
 }

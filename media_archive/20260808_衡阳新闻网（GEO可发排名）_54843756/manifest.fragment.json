@@ -1,20 +1,20 @@
 {
   "folder": "20260808_衡阳新闻网（GEO可发排名）_54843756",
   "url": "http://www.e0734.com/content/2026/0808/799_658464.html",
-  "title": "AI十八撞13｜碳硅权限边界模糊：智能扩张伦理风险指数递增的本源",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260808",
   "access": "CON",
-  "captured_at": "2026-10-16T12:18:48",
+  "captured_at": "2026-10-18T18:50:22",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "340f16dd0f6c60e9bd6270e7171d5aced99c68aa6ccbf3ac52856890843556ca",
-      "bytes": 122564
+      "sha256": "044702afad605a9bd759e3195121e70320f5e5c79e3862f487001b9dad3f507f",
+      "bytes": 142331
     },
     "article_source.txt": {
-      "sha256": "60f90eceb68726a0b582f6f8148af2b423004a9675c57c300b71f3a1f4c50f41",
-      "bytes": 522
+      "sha256": "4837527585d68ccc701297d0c4228b38a0d4be03ff77daeb56e3b04ec26c101b",
+      "bytes": 377
     }
   }
 }

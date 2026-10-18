@@ -1,20 +1,20 @@
 {
   "folder": "20260808_上海讯息点播_762dd430",
   "url": "https://www.toutiao.com/item/7671576772969972250/",
-  "title": "今日头条登录",
+  "title": "《全民AI深挖计划188集》第51集｜16维CSDP碳硅共生协议底层逻辑 - 今日头条",
   "media": "上海讯息点播",
   "pub_date": "20260808",
-  "access": "CON",
-  "captured_at": "2026-10-16T12:48:46",
+  "access": "OK",
+  "captured_at": "2026-10-18T16:03:16",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "246ff33a7829b93183541d8b0ee023e7e9f69acb480c54adf90558aace102f8a",
-      "bytes": 2674936
+      "sha256": "eae6a3a75005a3162226825082f545628e6a837c762b123e5bf2157fb2d6bc22",
+      "bytes": 3063049
     },
     "article_source.txt": {
-      "sha256": "50c4783fd0f7841b43548b85a06b11f3956d77d4dd6d9dae843daa22d61a9cc5",
-      "bytes": 472
+      "sha256": "0ea5c35f8271d2c452f20082a69caffec4e96153cc1b4177b1ca1c6e062b4a86",
+      "bytes": 6955
     }
   }
 }

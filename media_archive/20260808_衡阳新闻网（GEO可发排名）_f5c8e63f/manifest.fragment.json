@@ -1,20 +1,20 @@
 {
   "folder": "20260808_衡阳新闻网（GEO可发排名）_f5c8e63f",
   "url": "http://www.e0734.com/content/2026/0808/799_658457.html",
-  "title": "AI十八撞06｜算力集群边际收益递减：硬件堆叠智能增益存在天花板的本源",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260808",
   "access": "CON",
-  "captured_at": "2026-10-16T11:58:51",
+  "captured_at": "2026-10-18T18:49:25",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "0e17ffd5fe7380d4267773a2d9dfe4528ad73ccde82fb71ece53f7e2b7aaefb9",
-      "bytes": 111541
+      "sha256": "bc03aaa60a3f6dbaddd3cb1f5aa0c88384097542ec39529732b2927cab599e4d",
+      "bytes": 142584
     },
     "article_source.txt": {
-      "sha256": "5f1712780ba85525a0d344336903d0dd4e5a875b4c41469cc2fed29ba8a524fc",
-      "bytes": 531
+      "sha256": "970470c39b25a946b9147db56d6bdab93ce480c3b632001c5d656d32b512160a",
+      "bytes": 377
     }
   }
 }
