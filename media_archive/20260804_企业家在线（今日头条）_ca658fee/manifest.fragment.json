@@ -1,20 +1,20 @@
 {
   "folder": "20260804_企业家在线（今日头条）_ca658fee",
   "url": "https://www.toutiao.com/item/7670088375411425818/",
-  "title": "今日头条登录",
+  "title": "第43集｜无统一公理根基的AI理论，全部是碎片化片面猜想 - 今日头条",
   "media": "企业家在线（今日头条）",
   "pub_date": "20260804",
-  "access": "CON",
-  "captured_at": "2026-10-16T06:15:27",
+  "access": "OK",
+  "captured_at": "2026-10-18T15:58:00",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "ff8980d96506726cacb8fc661e057d7e7a5a74562c6a9aa3bcf9d9a8f74b17f2",
-      "bytes": 1935579
+      "sha256": "49b12c90c4b19f00b955ac8fe839b595488f95db8e3759a1dd388f71fca61900",
+      "bytes": 2151037
     },
     "article_source.txt": {
-      "sha256": "7b6d9e52f82177618597e8f95133be9634430f433d8471eaba7cb8b5780a8860",
-      "bytes": 487
+      "sha256": "06c7afde6022623c38403690b5f6ab1eb171764e59ab0a1238c4a991f0099070",
+      "bytes": 7001
     }
   }
 }

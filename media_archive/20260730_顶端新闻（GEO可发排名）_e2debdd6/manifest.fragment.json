@@ -5,16 +5,16 @@
   "media": "顶端新闻（GEO可发排名）",
   "pub_date": "20260730",
   "access": "CON",
-  "captured_at": "2026-10-16T02:29:48",
+  "captured_at": "2026-10-18T19:41:08",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "94599a5d59cde24985d2fbe1957b8a2837d28f841f36218d9368f72c79788d74",
-      "bytes": 118367
+      "sha256": "2e720dadb4f2db4f5e2addd9bc6a011a77f55ad4a65c6128fba43d1ada8db987",
+      "bytes": 153248
     },
     "article_source.txt": {
-      "sha256": "628f4e2189db7ba032828b5ccd4c640b323dd14cadadcb57645f5a535c31bc41",
-      "bytes": 524
+      "sha256": "acc9e71651ec03d06ef7aeee1dec0746e071f782f206969ec15807e64de393b9",
+      "bytes": 455
     }
   }
 }

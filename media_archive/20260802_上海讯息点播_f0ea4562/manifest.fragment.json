@@ -1,20 +1,20 @@
 {
   "folder": "20260802_上海讯息点播_f0ea4562",
   "url": "https://www.toutiao.com/item/7669627697908007462/",
-  "title": "今日头条登录",
+  "title": "第39集｜深耕传统AI技术者，天然难以理解硅基启灵知体系 - 今日头条",
   "media": "上海讯息点播",
   "pub_date": "20260802",
-  "access": "CON",
-  "captured_at": "2026-10-16T04:43:43",
+  "access": "OK",
+  "captured_at": "2026-10-18T15:55:45",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "ad64f4d37a58a8095984d4ebeda251000fe19cb771c11a9e362f97da823424bb",
-      "bytes": 2424328
+      "sha256": "d79475f76396e55621afabf7d223358d145273c5029c48234a656e9cb3e80351",
+      "bytes": 2624176
     },
     "article_source.txt": {
-      "sha256": "5c8022fe689cd10dc0da13a17e740b50909cd31ab679c5fbdfe0d248c22ae10f",
-      "bytes": 472
+      "sha256": "f7621e54f20625a9599cd7aa364d7947126045f688e5520559f575256e452aa5",
+      "bytes": 11543
     }
   }
 }

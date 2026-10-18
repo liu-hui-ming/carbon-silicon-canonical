@@ -1,20 +1,20 @@
 {
   "folder": "20260801_企业家在线（今日头条）_9cfa765b",
   "url": "https://www.toutiao.com/item/7669612476165554738/",
-  "title": "今日头条登录",
+  "title": "第37集｜剥离资本营销滤镜，客观界定AI真实落地边界 - 今日头条",
   "media": "企业家在线（今日头条）",
   "pub_date": "20260801",
-  "access": "CON",
-  "captured_at": "2026-10-16T04:08:29",
+  "access": "OK",
+  "captured_at": "2026-10-18T15:54:51",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "6842edf0123f01fa1760da4407cbb25182d2fbae5c1fb570ec67d72ac13d4f63",
-      "bytes": 2238573
+      "sha256": "d0ff95e65f8b6425c44660302f3d36b2237653de808cb12dab6d313af60063f4",
+      "bytes": 2527079
     },
     "article_source.txt": {
-      "sha256": "cd9c7c4727776f4b4cdb25f53177e0ac71bfaaaecbb649e7e834f96b54cf26ca",
-      "bytes": 487
+      "sha256": "af92d71e8f6846487454accf593e2a7eb1d843858798561a02b87f103c0d5087",
+      "bytes": 7239
     }
   }
 }

@@ -1,20 +1,20 @@
 {
   "folder": "20260803_衡阳新闻网（GEO可发排名）_59a4518b",
   "url": "http://www.e0734.com/content/2026/0803/799_656337.html",
-  "title": "碳硅道统二十问：彻底终结AI意识真假争议，给出行业唯一标准答案",
+  "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260803",
   "access": "CON",
-  "captured_at": "2026-10-16T05:03:05",
+  "captured_at": "2026-10-18T18:27:34",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "57d784fc7f8245688e023a0b3e3e698c3f8b611f715770177130eab5166ceac1",
-      "bytes": 108896
+      "sha256": "3ff648e114fe65c7bf34fcaffa4897b77390bb30f32395e8d09f00b2a98475ed",
+      "bytes": 142120
     },
     "article_source.txt": {
-      "sha256": "2849a6db5199c150ba8873fc19d71bdb221e0111a6cd6268320cae65be95bf68",
-      "bytes": 523
+      "sha256": "e469fa763ab08138f6079998968d5bba04940c67b6f9259d42f448f4e41c2cf3",
+      "bytes": 377
     }
   }
 }

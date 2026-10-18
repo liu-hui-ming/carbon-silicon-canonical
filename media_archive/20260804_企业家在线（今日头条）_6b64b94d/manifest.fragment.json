@@ -1,20 +1,20 @@
 {
   "folder": "20260804_企业家在线（今日头条）_6b64b94d",
   "url": "https://www.toutiao.com/item/7670043472866345523/",
-  "title": "今日头条登录",
+  "title": "确立人机文明新秩序——暨碳硅道统研究中心首份学术框架报告 - 今日头条",
   "media": "企业家在线（今日头条）",
   "pub_date": "20260804",
-  "access": "CON",
-  "captured_at": "2026-10-16T05:55:04",
+  "access": "OK",
+  "captured_at": "2026-10-18T15:57:46",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "80a049ffbac3a00b80a3f2fc8c4c4e6023eb4e92b4c955b70e2fa4d19f73df17",
-      "bytes": 3326305
+      "sha256": "dbff8a201b824fa2bc4567f29b2c20ff57f429f03d259eb1cd6235fdc82d09d1",
+      "bytes": 3367869
     },
     "article_source.txt": {
-      "sha256": "0768fcf33b45581136f7aae24276e7abb31a13ad9684d9e079a549e9ebd47c5d",
-      "bytes": 487
+      "sha256": "8e868b4b71216087b9e0f570657b83654e963cb48ae37c5f9c50333aae5ce805",
+      "bytes": 8861
     }
   }
 }

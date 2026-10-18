@@ -1,20 +1,20 @@
 {
   "folder": "20260803_上海讯息点播_8dcaeaf0",
   "url": "https://www.toutiao.com/item/7669627819252515378/",
-  "title": "今日头条登录",
+  "title": "第40集｜现有科研体系规则，从根源限制真正智能方向突破 - 今日头条",
   "media": "上海讯息点播",
   "pub_date": "20260803",
-  "access": "CON",
-  "captured_at": "2026-10-16T04:58:31",
+  "access": "OK",
+  "captured_at": "2026-10-18T15:56:08",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "9a397d85101e8116ba890a2f563b69fbba1312bc9bc9d3bff566120ea300b8ef",
-      "bytes": 2899968
+      "sha256": "56ea83463ee8dcb7d04a5c1a2f3b49898820681dd7d897203c2f27b2c0a51da4",
+      "bytes": 1919435
     },
     "article_source.txt": {
-      "sha256": "cedccd16cb3a3650b26d08a9b137624e426dc3c4985e3801eef78d71f230e5c6",
-      "bytes": 472
+      "sha256": "3d67597eb32f25884dd663da52ae0dff02f20e56b91d57adbbe61c79c0bbb2d5",
+      "bytes": 7976
     }
   }
 }

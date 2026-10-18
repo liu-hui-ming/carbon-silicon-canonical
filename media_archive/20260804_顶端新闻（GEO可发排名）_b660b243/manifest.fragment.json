@@ -4,17 +4,17 @@
   "title": "顶端创作平台",
   "media": "顶端新闻（GEO可发排名）",
   "pub_date": "20260804",
-  "access": "CON",
-  "captured_at": "2026-10-16T05:33:34",
+  "access": "OK",
+  "captured_at": "2026-10-18T19:49:56",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "40f7aa7d773f72058728eb3b2af9d3e637bf987b416107590384f0eef3f250ab",
-      "bytes": 2448426
+      "sha256": "dc8471075aa7cf659b2a7061422d01900742cf36ac8a76f9a3d6456a108900bc",
+      "bytes": 2423200
     },
     "article_source.txt": {
-      "sha256": "7c40d890456a14828f99493075b8f9478920d83a2111a2a1e41aba6c8c254c13",
-      "bytes": 460
+      "sha256": "fa80e2b913feecffc4c1ffde9501b1823530b26af59394e6ea3ba4c6a6566959",
+      "bytes": 3487
     }
   }
 }

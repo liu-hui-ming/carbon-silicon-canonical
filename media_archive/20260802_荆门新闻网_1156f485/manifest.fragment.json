@@ -5,16 +5,16 @@
   "media": "荆门新闻网",
   "pub_date": "20260802",
   "access": "CON",
-  "captured_at": "2026-10-16T04:19:27",
+  "captured_at": "2026-10-18T18:03:52",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "50142a46051d5c2f7b3e906b550d458ddba7917df0b3018853fa64894a91f11c",
-      "bytes": 117674
+      "sha256": "878d95fcab646c3337afa8c58d68d68bf870ce7ce42200ce1b59f7b654044049",
+      "bytes": 151458
     },
     "article_source.txt": {
-      "sha256": "2bd187c0cdb466374108eb77bbdc02578caf000121e6ea61ab43eb46219239e5",
-      "bytes": 347
+      "sha256": "cfed8cc3bed478db8f83e9c32ecee11a47b344db914b858d1735d888347234ec",
+      "bytes": 515
     }
   }
 }

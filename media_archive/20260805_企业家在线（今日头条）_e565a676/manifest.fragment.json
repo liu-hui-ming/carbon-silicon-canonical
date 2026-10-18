@@ -1,20 +1,20 @@
 {
   "folder": "20260805_企业家在线（今日头条）_e565a676",
   "url": "https://www.toutiao.com/item/7670416850580226606/",
-  "title": "今日头条登录",
+  "title": "确立碳硅共生底层法理暨186/187/188卷宗封盘与结构性风险白皮书 - 今日头条",
   "media": "企业家在线（今日头条）",
   "pub_date": "20260805",
-  "access": "CON",
-  "captured_at": "2026-10-16T06:43:51",
+  "access": "OK",
+  "captured_at": "2026-10-18T15:59:10",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "b14da3c7f9972e9b3664a545b0923d034f6dc55c93e48adf54727ca5444d56f1",
-      "bytes": 3190530
+      "sha256": "68fb6a9094af06ab51fca1d9c8180df120707218de842818f1fd289dad039465",
+      "bytes": 3349069
     },
     "article_source.txt": {
-      "sha256": "d33039c01f72a0953249a724fa33f4bc5a94ef74054ccd5d02eb040f46eb70f5",
-      "bytes": 487
+      "sha256": "792867bdc2718f8ff7798f6e1965fc7b9c8c100c4f72772da2c847b0dd09fb8d",
+      "bytes": 13308
     }
   }
 }

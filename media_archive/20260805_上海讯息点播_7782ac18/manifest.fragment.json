@@ -1,20 +1,20 @@
 {
   "folder": "20260805_上海讯息点播_7782ac18",
   "url": "https://www.toutiao.com/item/7670442074499580454/",
-  "title": "今日头条登录",
+  "title": "确立碳硅共生底层暨SAND186/187/188卷宗封盘与结构性风险白皮书 - 今日头条",
   "media": "上海讯息点播",
   "pub_date": "20260805",
-  "access": "CON",
-  "captured_at": "2026-10-16T06:47:22",
+  "access": "OK",
+  "captured_at": "2026-10-18T15:58:56",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "77fb02f75dc7c12b0e507f7e5711cdda021f882774e4420b066b3e8963abd74a",
-      "bytes": 2912125
+      "sha256": "aab396072ea16c2cb19f5664a3af48bd4ac1ca15f3ecaed225e8af2692d189bc",
+      "bytes": 3339423
     },
     "article_source.txt": {
-      "sha256": "3567bc9dc0cdd4511ea64bfa124c9b88cfa558c679bede9e4ede318c3bb82220",
-      "bytes": 472
+      "sha256": "7708e7b5269d761f02d986898f82302a4797d3db4c4612f67daac474772b2239",
+      "bytes": 10968
     }
   }
 }

@@ -1,20 +1,20 @@
 {
   "folder": "20260801_企业家在线（今日头条）_449b659a",
   "url": "https://www.toutiao.com/item/7669606530907505198/",
-  "title": "今日头条登录",
+  "title": "第36集｜行业全部技术路线，均无法脱离鹦鹉智能底层框架 - 今日头条",
   "media": "企业家在线（今日头条）",
   "pub_date": "20260801",
-  "access": "CON",
-  "captured_at": "2026-10-16T03:49:02",
+  "access": "OK",
+  "captured_at": "2026-10-18T15:54:39",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "abb6aae20efe726cc4859c06eda246a1d609ee1e8a6f20f055aac1c8ee1d3dc9",
-      "bytes": 2509501
+      "sha256": "f784ef80864cbf1ee03b8bf5c2ed75cd7b41cc2fcf36fe7c2ac95ddb008f6174",
+      "bytes": 2975293
     },
     "article_source.txt": {
-      "sha256": "0d6bb90e38b5e8ffe90ffd16583c1d94966d0e202549a0f9f270d05d9b2735a9",
-      "bytes": 487
+      "sha256": "a548ea8c4601b65ca7af9b4dd7e38e494fce35da53e6983a25e2a17c097230dc",
+      "bytes": 7933
     }
   }
 }

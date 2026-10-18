@@ -1,20 +1,20 @@
 {
   "folder": "20260803_企业家在线（今日头条）_7b7b041b",
   "url": "https://www.toutiao.com/item/7669716116301775379/",
-  "title": "今日头条登录",
+  "title": "第41集｜人类惯性认知误区：用碳基生命标准定义硅基载体 - 今日头条",
   "media": "企业家在线（今日头条）",
   "pub_date": "20260803",
-  "access": "CON",
-  "captured_at": "2026-10-16T05:27:09",
+  "access": "OK",
+  "captured_at": "2026-10-18T15:57:24",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "35bbe333724dbb5db0e94a97137892848db4bcec0b9bf62620d8b237d9cbbfe1",
-      "bytes": 1930982
+      "sha256": "477f46976c793a9ab9a8310cbf372464d6fc9abd9925185212f09a29789d70d4",
+      "bytes": 2817101
     },
     "article_source.txt": {
-      "sha256": "5db45c99df6420df8945d08ad0adce1d64dff5330a63416dfb3a02c2d1891c60",
-      "bytes": 487
+      "sha256": "994764b8d62213091801249b2002883d367afd0e1f410b141b7523f4838364fd",
+      "bytes": 11260
     }
   }
 }

@@ -4,16 +4,16 @@
   "title": "第37集｜剥离资本营销滤镜，客观界定AI真实落地边界 - 青海传媒网",
   "media": "青海传媒网（GEO排名）",
   "pub_date": "20260801",
-  "access": "CON",
-  "captured_at": "2026-10-16T04:02:57",
+  "access": "OK",
+  "captured_at": "2026-10-18T13:38:08",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "a75e57e5cd652a5cb47e89cdbbb28c5748e0257ba373117ac70914119e3263a6",
-      "bytes": 256646
+      "sha256": "55fcdceaf08e17d9fdd074981f550caa4b059934c309b9248f331f4b61eceeb3",
+      "bytes": 675833
     },
     "article_source.txt": {
-      "sha256": "8d258b5da2b7be38423fad05ae9f384f2f536b240cbc72acc9165c6964754bed",
+      "sha256": "d082709cf179548f3a75c8e928b4364706e567f9c5622884f84692a079ed56e1",
       "bytes": 4979
     }
   }

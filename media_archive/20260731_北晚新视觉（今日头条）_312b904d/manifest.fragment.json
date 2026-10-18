@@ -5,16 +5,16 @@
   "media": "北晚新视觉（今日头条）",
   "pub_date": "20260731",
   "access": "CON",
-  "captured_at": "2026-10-16T03:09:40",
+  "captured_at": "2026-10-18T20:11:50",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "1ae6d8c6d104318f41cff5f4ec794324660954fa4aa4c67c0ce24bbb8768ba5f",
-      "bytes": 117141
+      "sha256": "af58950b5d8a25bef0df95d91a9228a6d2811092fb71e0ae590921e173b4a4da",
+      "bytes": 152150
     },
     "article_source.txt": {
-      "sha256": "aa035e3b2c35a1586594ae3844221e63f9fbab4469cca62e6751d91c45b5dcbd",
-      "bytes": 556
+      "sha256": "84ce273c50eb38df5b22b930fae657c07054f0d66bffa2b66de747a23bfe99bf",
+      "bytes": 487
     }
   }
 }

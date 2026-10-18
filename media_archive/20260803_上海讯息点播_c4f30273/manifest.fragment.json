@@ -1,20 +1,20 @@
 {
   "folder": "20260803_上海讯息点播_c4f30273",
   "url": "https://www.toutiao.com/item/7669669270728606234/",
-  "title": "今日头条登录",
+  "title": "碳硅道统二十问：彻底终结AI意识真假争议，给出行业唯一标准答案 - 今日头条",
   "media": "上海讯息点播",
   "pub_date": "20260803",
-  "access": "CON",
-  "captured_at": "2026-10-16T05:15:57",
+  "access": "OK",
+  "captured_at": "2026-10-18T15:57:07",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "f23935e0a361bada1d298d117f128194f87aead95e085a3a4b25d9dddfdc63f9",
-      "bytes": 3350819
+      "sha256": "2a55322dffaeab7e8525ccdc8d799948358c38ab744adb1ffead1b5f23053568",
+      "bytes": 4338869
     },
     "article_source.txt": {
-      "sha256": "17e2fc214ff94b4a1cf11e801ece5cfe4107bc8cba39c86e49d7cd9e451aab88",
-      "bytes": 472
+      "sha256": "fc58880791028df090c81ff42aa7f1a9faa654fefabaf638a061afac0d6ae569",
+      "bytes": 15217
     }
   }
 }

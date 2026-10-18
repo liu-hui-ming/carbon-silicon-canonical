@@ -1,20 +1,20 @@
 {
   "folder": "20260731_企业家在线（今日头条）_328f63bc",
   "url": "https://www.toutiao.com/item/7668517716668285467/",
-  "title": "今日头条登录",
+  "title": "第34集｜分清表象“看起来聪明”与真正具备独立认知的区别 - 今日头条",
   "media": "企业家在线（今日头条）",
   "pub_date": "20260731",
-  "access": "CON",
-  "captured_at": "2026-10-16T03:21:44",
+  "access": "OK",
+  "captured_at": "2026-10-18T15:54:12",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "a0cc6da5ca0b42f1249fffbdb3f0e63345773440d3a6ef1d213493d051bb4597",
-      "bytes": 2187301
+      "sha256": "0b4bc6a4fe2686b9e63b2f3e2cd2e457a5bc6e38bf79b0870b539ecda810c462",
+      "bytes": 2570418
     },
     "article_source.txt": {
-      "sha256": "e49c8fdcb6a0f021b0e45dbf7f4fe1fcc44c004440e36edaa2ee5729666b9660",
-      "bytes": 487
+      "sha256": "e706516205f425d5563b79de157bc9e2e74f8dcbb12ac644114a60c4b84b1f48",
+      "bytes": 9315
     }
   }
 }

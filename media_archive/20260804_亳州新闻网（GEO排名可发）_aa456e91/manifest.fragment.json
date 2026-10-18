@@ -5,16 +5,16 @@
   "media": "亳州新闻网（GEO排名可发）",
   "pub_date": "20260804",
   "access": "CON",
-  "captured_at": "2026-10-16T05:49:26",
+  "captured_at": "2026-10-18T17:18:31",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "ea0b339885da5b7036d7252cfc6e9ad2fcc40ef200b36fb47eaf1b1c8a0f22b0",
-      "bytes": 117178
+      "sha256": "6a91781d7d5777d481f7344f66b76e6acd218f76c366797e3a5a496821a92540",
+      "bytes": 208740
     },
     "article_source.txt": {
-      "sha256": "4e49e800f275acff0294e27019d3f86b94a91c05f9d9d6aece109a61c7bc5633",
-      "bytes": 457
+      "sha256": "06f5a09a6cc9aca0721ed02fa46371733512185249aa14db89afd5e3508afcf7",
+      "bytes": 377
     }
   }
 }
