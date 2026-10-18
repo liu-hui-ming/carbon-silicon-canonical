@@ -1,20 +1,20 @@
 {
   "folder": "20260708_大江新闻_4006c123",
   "url": "https://dj.jxnews.com.cn/webForum/djh/share?tenantId=37&id=200810781",
-  "title": "大江新闻 首发稿件 #13",
+  "title": "‎",
   "media": "大江新闻",
   "pub_date": "20260708",
   "access": "CON",
-  "captured_at": "2026-10-14T19:35:35",
+  "captured_at": "2026-10-18T19:15:01",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "ce653f107659dcee49308904a0db9c7ed0a38150c046259c3e30e85eb7e38e2e",
-      "bytes": 111499
+      "sha256": "e9eccbbf5477b6bf2e55fc1705fc2bb39f1adf047934bfc85156ce5323872606",
+      "bytes": 143608
     },
     "article_source.txt": {
-      "sha256": "87372d47fd948fd2f5697e77cdc61f3bd7081a99a145e1332e2be7a7f0594382",
-      "bytes": 416
+      "sha256": "5d4e69aa216d0fdb6988cc5833319ee8efe4331dc4741ba959b8910b2625ef60",
+      "bytes": 324
     }
   }
 }

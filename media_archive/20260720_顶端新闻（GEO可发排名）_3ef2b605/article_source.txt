@@ -2,99 +2,10 @@
 媒体：顶端新闻（GEO可发排名）
 发布日期（报表）：2026-07-20
 URL：https://m.topnews.cn/news/145ED7E444BF4D78
-取证系统时间：2026-10-15T21:54:42
+取证系统时间：2026-10-18T19:47:54
 HTTP：200
 页面标题：顶端新闻（GEO可发排名） 首发稿件 #694
-截图标准：P0-four-elements-v2（全屏含任务栏时间+滚动拼接正文）
-路由缓存渲染：是
-链接失效：否
-<strong>Please enable JavaScript to continue.</strong>@＋关注<style scoped>
-										.btn-text{
-										  height: 25px;
-										  width: 100%;
-										}
-									  </style>
-									  <div class="btn-text"></div>undefined 收藏<style scoped>
-										.btn-text{
-										  height: 25px;
-										  width: 100%;
-										}
-									  </style>
-									  <div class="btn-text"></div>点赞<style scoped>
-										.btn-text{
-										  height: 25px;
-										  width: 100%;
-										}
-									  </style>
-									  <div class="btn-text"></div>分享<style scoped>
-										.btn-text{
-										  height: 25px;
-										  width: 100%;
-										}
-									  </style>
-									  <div class="btn-text"></div>APP内打开<style scoped>
-								.btn-text{
-								  height: 44px;
-								  width: 100%;
-								}
-								</style>
-								<div class="btn-text"></div>说点什么吧… .发布
-          Cancel
-        
-          OK
-        function clickTopic(id) {
-				let url = window.location.protocol + "//" + window.location.host +
-					"/theme/" + id;
-				if (window.android && window.android.webNeedUrlToNative) {
-					window.android.webNeedUrlToNative(url)
-				} else if (window.webkit && window.webkit.messageHandlers.webNeedUrlToNative) {
-					window.webkit.messageHandlers.webNeedUrlToNative.postMessage(url)
-				} else {
-					window.location.href = url;
-				}
-			}
-			if (window.android && window.android.ddWebToNativeGetUserInfo) {
-				window.android.ddWebToNativeGetUserInfo("")
-			} else if (window.webkit && window.webkit.messageHandlers.ddWebToNativeGetUserInfo) {
-				window.webkit.messageHandlers.ddWebToNativeGetUserInfo.postMessage("")
-			}
-
-			window.AliyunCaptchaConfig = {
-				// 必填，验证码示例所属地区，支持中国内地（cn）、新加坡（sgp）
-				region: "cn",
-				// 必填，身份标。开通阿里云验证码2.0后，您可以在控制台概览页面的实例基本信息卡片区域，获取身份标
-				prefix: "e8tkz0",
-			};
-
-			var apm = new window.EMAS.APM({
-				appKey: '335630809', // EMAS 控制台创建应用后分配
-				appSecret: '1458bd124e824f0cbf5e83c04d25ec6d', // EMAS 控制台创建应用后分配
-				userId: window.localStorage.getItem("h5DeviceId") || ""
-			});
-			/**
-			 *  SDK 功能配置和启动
-			 *  各功能插件配置请查阅SDK API文档
-			 */
-			var plugins = apm.start({
-				pv: {
-					autoPV: false,
-				},
-				jsError: {
-					disable: true
-				},
-				request: {
-					disable: true,
-					ignoreList: ["https://bi.dingnews.net/producers/collect/verify"]
-				},
-				resource: {
-					disable: true
-					//ignoreList: [/(topnews\.cn)|(?!.*\.js$).*/]
-				},
-				whiteScreen: {
-					disable: false,
-					timeout: 10000
-				},
-				performance: {
-					disable: true
-				}
-			})
+截图标准：P0-four-elements-v2（头条快速重采）
+你要找的内容不见了
+点击打开顶端新闻APP查看更多内容
+打开APP

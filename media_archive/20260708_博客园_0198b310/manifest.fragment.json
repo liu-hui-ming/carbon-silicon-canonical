@@ -1,20 +1,20 @@
 {
   "folder": "20260708_博客园_0198b310",
   "url": "https://www.cnblogs.com/-1688/p/21180211",
-  "title": "博客园 首发稿件 #65",
+  "title": "用户中心 - 博客园",
   "media": "博客园",
   "pub_date": "20260708",
   "access": "CON",
-  "captured_at": "2026-10-14T22:10:23",
+  "captured_at": "2026-10-18T19:50:19",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "7f5343e217aadbc7161b02d2f35050b6f4a25672e7b8216ad22b0645984a6305",
-      "bytes": 78
+      "sha256": "a01b213667d5ae9f21c534c131f202e045e4a408b0b9f7ed2e213516af622e45",
+      "bytes": 160995
     },
     "article_source.txt": {
-      "sha256": "5e9b5d2fbd194213034eb88db06d2cc6159179b1bac8d6f6c02f5e3571516072",
-      "bytes": 356
+      "sha256": "78d4c79aef2f0d18493cfaad2ee43220bb075a12cf29ba4922985abc34a84fc0",
+      "bytes": 480
     }
   }
 }

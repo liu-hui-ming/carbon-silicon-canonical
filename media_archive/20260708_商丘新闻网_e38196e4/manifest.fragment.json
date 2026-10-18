@@ -5,16 +5,16 @@
   "media": "商丘新闻网",
   "pub_date": "20260708",
   "access": "CON",
-  "captured_at": "2026-10-14T19:39:30",
+  "captured_at": "2026-10-18T18:16:13",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "cefef7e6a512851fad9e7f1dc54c3dd75ce43eb7fca77567ef8017c27b659f53",
-      "bytes": 111874
+      "sha256": "3aedf6fd3241b217a2b5ae32dda486e2901109be5c52d8f692d342fd7a0edfa7",
+      "bytes": 144233
     },
     "article_source.txt": {
-      "sha256": "f7f64697844fc296a1b05a5059913ca0f0fca9e6b7b75b999731a63eec3b320d",
-      "bytes": 329
+      "sha256": "23d2976bd78da7459dde74f9a95a5e673fc2ea4fa396e40f0549e3003f776c98",
+      "bytes": 496
     }
   }
 }

@@ -5,16 +5,16 @@
   "media": "顶端新闻",
   "pub_date": "20260709",
   "access": "CON",
-  "captured_at": "2026-10-14T22:28:59",
+  "captured_at": "2026-10-18T19:49:26",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "9736b92a89d4be93a673f7cd051635278388bc5b7302987ce01f65b51a5492cf",
-      "bytes": 113935
+      "sha256": "b41fe1b6de5a6b6e1c24fbc49da6edec4b882c93c3cdccc8fd56f920e09c1727",
+      "bytes": 153279
     },
     "article_source.txt": {
-      "sha256": "f6fb2e76ef367657004a50bf12c7151f9d5f28ac698214b14dbd2d13e844a51d",
-      "bytes": 459
+      "sha256": "241bd213cbb32f89be6c58258d1bf470db181e9b99cc05f89c90d0e6eeb526c0",
+      "bytes": 390
     }
   }
 }

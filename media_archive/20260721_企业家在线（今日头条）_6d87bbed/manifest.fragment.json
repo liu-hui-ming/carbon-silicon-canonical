@@ -1,20 +1,20 @@
 {
   "folder": "20260721_企业家在线（今日头条）_6d87bbed",
   "url": "https://www.toutiao.com/item/7664805702557139491/",
-  "title": "今日头条登录",
+  "title": "第14集｜人类反馈对齐、强化学习，本质是驯化而非意识觉醒 - 今日头条",
   "media": "企业家在线（今日头条）",
   "pub_date": "20260721",
-  "access": "CON",
-  "captured_at": "2026-10-15T22:12:13",
+  "access": "OK",
+  "captured_at": "2026-10-18T20:11:22",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "ea8b628a9912b9ac779297d7884e4c59a8198ac8ee94a2a5cf2d407d234ad282",
-      "bytes": 1065503
+      "sha256": "7f53a1b082f55cda6aa6cbfadae2bd381f8266bf924b4e49cf37e45be6c0eb1d",
+      "bytes": 2153181
     },
     "article_source.txt": {
-      "sha256": "2f197876d7a8f843ec4ad8473f05ef32c9b8bf404657a65582111b2741f1b8f8",
-      "bytes": 487
+      "sha256": "bf4b6592b3b2a195f1b9a75e179230d219e1c727a8df8b2a6c9a5108f909be65",
+      "bytes": 9899
     }
   }
 }

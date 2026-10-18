@@ -1,20 +1,20 @@
 {
   "folder": "20260720_大江新闻（GEO）_e4a88564",
   "url": "https://dj.jxnews.com.cn/webForum/djh/share?tenantId=37&id=200844114",
-  "title": "大江新闻（GEO） 首发稿件 #665",
+  "title": "‎",
   "media": "大江新闻（GEO）",
   "pub_date": "20260720",
   "access": "CON",
-  "captured_at": "2026-10-15T21:48:00",
+  "captured_at": "2026-10-18T19:18:54",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "1dee512b8068e9f9e505aa78e9da9b97290ba3d3ddfb12d4b18b231910029574",
-      "bytes": 103650
+      "sha256": "d97a5c907a8ec2b13fdb2524c871f84cbe82b23244eec31fc11f9ad1291d19fb",
+      "bytes": 142881
     },
     "article_source.txt": {
-      "sha256": "83a0bdbab7c2672ac8dd88ef9f95bc54a6fc83b4f77a615cc1a9f8db43cc8a36",
-      "bytes": 463
+      "sha256": "5a0c9cdf0f8c0fcc58deb4577d1173b1dd466776e133ac3c316805e7bab0653b",
+      "bytes": 333
     }
   }
 }

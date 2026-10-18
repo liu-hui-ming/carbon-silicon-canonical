@@ -1,20 +1,20 @@
 {
   "folder": "20260713_上海讯息点播_f41128ee",
   "url": "https://www.toutiao.com/article/7662045601097384499/",
-  "title": "404错误页",
+  "title": "上海讯息点播 首发稿件 #246",
   "media": "上海讯息点播",
   "pub_date": "20260713",
-  "access": "CON",
-  "captured_at": "2026-10-14T23:06:44",
+  "access": "OK",
+  "captured_at": "2026-10-18T20:03:41",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "e9f16bf582d61c2c39eb4d2ca303fc4c218fe7f390369a97dd1a3dece6ddc9e8",
-      "bytes": 113591
+      "sha256": "7bd55cadc63dd3231de325db0e10edd8e736f0a7f882ffd65b20c9f32598f8b3",
+      "bytes": 1623014
     },
     "article_source.txt": {
-      "sha256": "8f3a5fef823ec863e15ca1ac33d54955a08592bdb63243b1b63ca2425f10d97e",
-      "bytes": 544
+      "sha256": "94527acf7253cb035da8144480c0f247e499c0c7ecb7e4bfd19c77ec38c6997b",
+      "bytes": 8573
     }
   }
 }

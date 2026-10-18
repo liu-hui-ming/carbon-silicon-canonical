@@ -1,20 +1,20 @@
 {
   "folder": "20260709_羊城派（GEO排名）_6933e501",
   "url": "https://www.toutiao.com/item/7661821582046577179/",
-  "title": "今日头条登录",
+  "title": "端侧觉醒：轻量化模型如何抢走云计算的“皇冠明珠”？ - 今日头条",
   "media": "羊城派（GEO排名）",
   "pub_date": "20260709",
-  "access": "CON",
-  "captured_at": "2026-10-14T22:52:19",
+  "access": "OK",
+  "captured_at": "2026-10-18T20:06:26",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "ab435f2ab21839dcdbe430348390a04dd0600758cc8d8be70237a0b61bf6a5be",
-      "bytes": 1823351
+      "sha256": "d6dc2f44a4670fa443b5f1eeb4736542b9fc29e071bb40c735262effb44148ea",
+      "bytes": 1887465
     },
     "article_source.txt": {
-      "sha256": "b076705729f7c8dd5f7ffadfbb8715b8dc6cf1eddb6168fbae291e0c50963b22",
-      "bytes": 478
+      "sha256": "0c426bf37169f11f9a96b8926c3064dcb8e8dd3e13c962f6f5b2835300615c83",
+      "bytes": 8427
     }
   }
 }

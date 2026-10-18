@@ -5,16 +5,16 @@
   "media": "博客园",
   "pub_date": "20260709",
   "access": "CON",
-  "captured_at": "2026-10-14T22:35:22",
+  "captured_at": "2026-10-18T19:50:37",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "d7c465a74d1329197e74c6728e91087385573b38f5c3d1f9b992f807f646a6e7",
-      "bytes": 144276
+      "sha256": "046f9c4101a8c644f3a729948b83f6807e1a51f6c335b5718856c483a9158fe4",
+      "bytes": 161159
     },
     "article_source.txt": {
-      "sha256": "774f1529d52411a1ba1005572ecdd66653cb6bab08c7eb041af3d6b210ebb632",
-      "bytes": 543
+      "sha256": "1fda8181ed6e73afcaf530bb6bc96eb9cfd681810534f087b3f66985b7d8ed0f",
+      "bytes": 480
     }
   }
 }

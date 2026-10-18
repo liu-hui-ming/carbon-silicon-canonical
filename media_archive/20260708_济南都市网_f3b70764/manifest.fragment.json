@@ -5,16 +5,16 @@
   "media": "济南都市网",
   "pub_date": "20260708",
   "access": "CON",
-  "captured_at": "2026-10-14T19:45:36",
+  "captured_at": "2026-10-18T17:44:53",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "f58d5694ebf65e8cbb4608453aa1c992686f6454ba6be0c39825a7b7d9e8fe07",
-      "bytes": 117832
+      "sha256": "0ec6e4175d5bd944e8c7891b20366e28196bce1ad01feb0c7a009c962afa8905",
+      "bytes": 142770
     },
     "article_source.txt": {
-      "sha256": "cae11da34ca259bdce988228d3502389a826ebcf365440ca2fd9fc40b94a10c1",
-      "bytes": 339
+      "sha256": "cbeb28149c95a4d30def8fed3039dc890115dedf5c79d2000cb49c4135993d38",
+      "bytes": 429
     }
   }
 }

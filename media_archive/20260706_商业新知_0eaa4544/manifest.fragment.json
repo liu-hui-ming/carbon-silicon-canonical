@@ -5,16 +5,16 @@
   "media": "商业新知",
   "pub_date": "20260706",
   "access": "CON",
-  "captured_at": "2026-10-14T19:28:09",
+  "captured_at": "2026-10-18T18:11:03",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "8c1eeec2826da7ea0f436c04cc784b4a3441680e73ce2f2b06ebbf156bcd987b",
-      "bytes": 117353
+      "sha256": "adfcdc83df6ead7d18dc4f121d628406d707b31300cf6ae5862b86fa8cf1c388",
+      "bytes": 153732
     },
     "article_source.txt": {
-      "sha256": "a744084909123cbdc41765af46b5ef401133207f45a62e4a6b27ecd1e8eadfb7",
-      "bytes": 332
+      "sha256": "acc69b28b828c406da77a78f0b4e52651eb7d2b8448d189a1f03a98cc4411fae",
+      "bytes": 529
     }
   }
 }

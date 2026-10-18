@@ -5,16 +5,16 @@
   "media": "亳州新闻网",
   "pub_date": "20260709",
   "access": "CON",
-  "captured_at": "2026-10-14T22:26:10",
+  "captured_at": "2026-10-18T17:17:20",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "15dfe6b1dcc8da8436224d2bb70870851b9a2ea70f97bb77c9ea5aa2934d09d4",
-      "bytes": 112577
+      "sha256": "7b317ee76b3e573c95991c861599829c5b653828fd10166a8dbffc3872c3afc7",
+      "bytes": 83618
     },
     "article_source.txt": {
-      "sha256": "3d7a3c3d217144e921ff21050bfd6da1279dd20cdcfcb5d7e223b03308cb7563",
-      "bytes": 342
+      "sha256": "0ace6a40922342497daf5dcc12940dd540f80e40dd148eb228a37bf42fb5a3bd",
+      "bytes": 262
     }
   }
 }

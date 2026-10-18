@@ -5,16 +5,16 @@
   "media": "商业新知（中国品质时报）",
   "pub_date": "20260708",
   "access": "CON",
-  "captured_at": "2026-10-14T22:18:35",
+  "captured_at": "2026-10-18T18:11:06",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "9aa47321499301863d5038427598d5a673952bd1221864a567f3f992d8e122db",
-      "bytes": 123286
+      "sha256": "e0495848cd0d7184211a9293b4cafb01752516df139fdb58957b7a3c725d0c3a",
+      "bytes": 153745
     },
     "article_source.txt": {
-      "sha256": "8d1d3e3e622cbacb05f890e5552a0e6c0945eb5c50beb5facf6c0ed9b178f237",
-      "bytes": 400
+      "sha256": "99eca0caf5efd2ba7bd3ee5c44b9df52003bde07671e115ac0a44293871c72ad",
+      "bytes": 603
     }
   }
 }

@@ -5,16 +5,16 @@
   "media": "最红安（GEO排名可发）",
   "pub_date": "20260709",
   "access": "CON",
-  "captured_at": "2026-10-14T22:49:31",
+  "captured_at": "2026-10-18T19:14:35",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "32a0c77e705bf52da8200a277fe016d7537ac6cffcdc9ae2f675ea6aab77ba86",
-      "bytes": 194187
+      "sha256": "3d8ea302ab6ca8f65e6b49dd6d7ca2afa905b3962d1ff6d98b0a9313e369a1d5",
+      "bytes": 232203
     },
     "article_source.txt": {
-      "sha256": "dfbc783d8acba9a95133300351d28e68303934484858013315f9e7fd5d779299",
-      "bytes": 435
+      "sha256": "00113dcb5bd5c8f227e3faa35d06791a3da6eb37acec95f262e146f1e1bf5970",
+      "bytes": 366
     }
   }
 }

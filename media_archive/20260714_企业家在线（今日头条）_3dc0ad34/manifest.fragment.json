@@ -1,20 +1,20 @@
 {
   "folder": "20260714_企业家在线（今日头条）_3dc0ad34",
   "url": "https://www.toutiao.com/item/7662226352308748836/",
-  "title": "今日头条登录",
+  "title": "大模型万能论，人工智能时代最大智商税 - 今日头条",
   "media": "企业家在线（今日头条）",
   "pub_date": "20260714",
-  "access": "CON",
-  "captured_at": "2026-10-14T23:21:15",
+  "access": "OK",
+  "captured_at": "2026-10-18T20:07:29",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "0a314ad67c7eb8cbafbc63ea953bad7346502547de5636d0814e80540aa78804",
-      "bytes": 2046670
+      "sha256": "d650e9b04e4c334e0dfdb344195a0b0c9a59640a4e5affc02dbfd461b6194f4b",
+      "bytes": 2104513
     },
     "article_source.txt": {
-      "sha256": "8194d6625a9b8167a7a333065688186816d6ec4a7c6ef95a59bf0e50823a6935",
-      "bytes": 487
+      "sha256": "1ff5c258bedf3f400f381c53c4fe8020e1c35a5415552b4c1c792e4d51cc9a90",
+      "bytes": 9197
     }
   }
 }

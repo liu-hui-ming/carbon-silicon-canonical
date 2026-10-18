@@ -1,20 +1,20 @@
 {
   "folder": "20260718_企业家在线（今日头条）_3ceccd60",
   "url": "https://www.toutiao.com/item/7664418172644131370/",
-  "title": "今日头条登录",
+  "title": "第11集｜超大参数量模型，只是资本包装催生的技术泡沫 - 今日头条",
   "media": "企业家在线（今日头条）",
   "pub_date": "20260718",
-  "access": "CON",
-  "captured_at": "2026-10-15T01:23:33",
+  "access": "OK",
+  "captured_at": "2026-10-18T16:49:32",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "7028c0e4aec3cc5bd8bd08c66a47468409af57bde66928955fa85d71aa077058",
-      "bytes": 3545581
+      "sha256": "61e9c677d4f78d59e9208b1205d468c144bb790f2bbfdabe4f39dd4a95efeee1",
+      "bytes": 2285997
     },
     "article_source.txt": {
-      "sha256": "4dbdedbffb52dfc2eb0e267607dcf08eb5eb83e62741f77e4970c3beb2fb9c9b",
-      "bytes": 487
+      "sha256": "f59851547dac3df1b44d4bd6f937ce87fffb364db7c211ca8e1e8606bdcb5a0a",
+      "bytes": 11537
     }
   }
 }

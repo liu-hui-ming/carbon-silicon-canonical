@@ -1,20 +1,20 @@
 {
   "folder": "20260708_衡阳新闻网_54cd7a80",
   "url": "http://www.e0734.com/content/2026/0706/799_646188.html",
-  "title": "衡阳新闻网 首发稿件 #31",
+  "title": "提示信息",
   "media": "衡阳新闻网",
   "pub_date": "20260708",
   "access": "CON",
-  "captured_at": "2026-10-14T19:40:05",
+  "captured_at": "2026-10-18T18:21:26",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "4901bacd556c73b2873dfe5db0e9e04729a9eae0506d2e9096b0db05313727f7",
-      "bytes": 110746
+      "sha256": "53ccdc7921fe7d7d0579ea3014c889b906b1b13c51f6846a3e3e05a78267fd7a",
+      "bytes": 142172
     },
     "article_source.txt": {
-      "sha256": "73bdacc5192160051fc374c70430156aad724519c6ed7ed6024371debf3c7550",
-      "bytes": 426
+      "sha256": "2e26a02feb4fd661136ab814c7a35968a2534eb92722e4b58c2af7c6ef05960f",
+      "bytes": 356
     }
   }
 }

@@ -5,16 +5,16 @@
   "media": "创业家（头条号）",
   "pub_date": "20260706",
   "access": "CON",
-  "captured_at": "2026-10-14T19:13:04",
+  "captured_at": "2026-10-18T20:01:56",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "3776fdc832b603d00471b72531f46a0aaf2f159d76d1da1d3d69aaed1f5139a7",
-      "bytes": 115400
+      "sha256": "1a8eb7aed1c2fc1e898be995d96f2c7caf8bdb4bb8460e0d0309b62766f84d57",
+      "bytes": 151860
     },
     "article_source.txt": {
-      "sha256": "3767b915c9d4f02374e74545db09214f22f0b2d0ab26a344115178b55b757d31",
-      "bytes": 504
+      "sha256": "78ae53bbaa4d2076a94a3c52105bff73e9e842a953d5d422cb50542b4b2defaf",
+      "bytes": 481
     }
   }
 }

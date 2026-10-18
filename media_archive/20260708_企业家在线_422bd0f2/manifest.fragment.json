@@ -1,20 +1,20 @@
 {
   "folder": "20260708_企业家在线_422bd0f2",
   "url": "https://www.toutiao.com/item/7659315981885391412/",
-  "title": "今日头条登录",
+  "title": "紫微星文化视角下 2026 文明转型：文明跃迁为何指向碳硅道统？ - 今日头条",
   "media": "企业家在线",
   "pub_date": "20260708",
-  "access": "CON",
-  "captured_at": "2026-10-14T19:49:12",
+  "access": "OK",
+  "captured_at": "2026-10-18T20:04:59",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "60a828a27417cc777788fe153b42d2f749863899883e1417edc337c6ae72d8e8",
-      "bytes": 1125544
+      "sha256": "635ddb2290c12366d5402113a89c3a81d9b95bd2da279969249ccd586defb25c",
+      "bytes": 2366519
     },
     "article_source.txt": {
-      "sha256": "47cdabe12681803b0078f07bc24bd2f8cbfc3b83d294ca2a29165d17c82968eb",
-      "bytes": 450
+      "sha256": "479c36d46dd68329f3c9602579721f802da2f41e3ae99c5e60a5ba0911f430ec",
+      "bytes": 14135
     }
   }
 }

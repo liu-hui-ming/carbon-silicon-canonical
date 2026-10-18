@@ -5,16 +5,16 @@
   "media": "山西科技报首发",
   "pub_date": "20260708",
   "access": "CON",
-  "captured_at": "2026-10-14T19:51:45",
+  "captured_at": "2026-10-18T19:56:23",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "73f4d89f25604f64ea1db9c72ca74117568147e5e242db315e0305527233f0e8",
-      "bytes": 525336
+      "sha256": "09dcc18b431d3db9a9febfc36b52b1497170b6b61ca1f0ccb7a53ce1d10c4f55",
+      "bytes": 128230
     },
     "article_source.txt": {
-      "sha256": "4db1294aceda3681093f0e239642f9098b3fdde787b020ac00b1d06cce120a93",
-      "bytes": 437
+      "sha256": "16a0db19d36b88f5b1e7bd14130bda19ab4dfcc17556d8a3ea5aee81a77d1579",
+      "bytes": 337
     }
   }
 }

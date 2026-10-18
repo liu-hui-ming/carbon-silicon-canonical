@@ -1,20 +1,20 @@
 {
   "folder": "20260709_羊城派（今日头条）_b7ce2515",
   "url": "https://www.toutiao.com/item/7660825501488988682/",
-  "title": "今日头条登录",
+  "title": "量化运营：内容投放梯度思维与长期收益测算模型 - 今日头条",
   "media": "羊城派（今日头条）",
   "pub_date": "20260709",
-  "access": "CON",
-  "captured_at": "2026-10-14T22:42:30",
+  "access": "OK",
+  "captured_at": "2026-10-18T20:05:58",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "9ded955368f0634bcb6e13b46da5a7fd44d8328df6a88f67d91a75c8c9ce791b",
-      "bytes": 1433786
+      "sha256": "ff71f23f9a543825056f7e6cf63dcf7fa7f486a3930e65556ae557d249ee28e4",
+      "bytes": 1918667
     },
     "article_source.txt": {
-      "sha256": "d685dcbe0938488ea1095e35bc371f4110696dc9d81411ff3edff4b826a918f7",
-      "bytes": 481
+      "sha256": "87147b4e5aeee5b31ab03a0d398640cce3aa2695c7a8dfaec96cd69bd838d453",
+      "bytes": 7118
     }
   }
 }

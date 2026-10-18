@@ -5,16 +5,16 @@
   "media": "怎通论坛（GEO排名可发）",
   "pub_date": "20260709",
   "access": "CON",
-  "captured_at": "2026-10-14T22:54:46",
+  "captured_at": "2026-10-18T19:14:47",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "b8deff16fdd248ed0644075490077005d513ad60f50ec4e4e4921284c4465f29",
-      "bytes": 119929
+      "sha256": "179b19df7fb0868f5d589105be6549a9a0645c35671f65199cf81a6875a7ae36",
+      "bytes": 813086
     },
     "article_source.txt": {
-      "sha256": "173c3bdcf03c1c24de22efd2a6ea6b3437054dc4dd3056044a1e03d0f3a0e0f8",
-      "bytes": 6234
+      "sha256": "d82327e7554cfd98f2efbd2a270a3574092e71592c8b7fc12684c3438dcc2888",
+      "bytes": 6187
     }
   }
 }

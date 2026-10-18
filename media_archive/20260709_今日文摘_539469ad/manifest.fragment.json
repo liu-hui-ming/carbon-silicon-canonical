@@ -1,20 +1,20 @@
 {
   "folder": "20260709_今日文摘_539469ad",
   "url": "https://www.jinriwenzhai.com/zimeiti/1783506694.html",
-  "title": "今日文摘 首发稿件 #96",
+  "title": "隐私设置错误",
   "media": "今日文摘",
   "pub_date": "20260709",
   "access": "CON",
-  "captured_at": "2026-10-14T22:19:26",
+  "captured_at": "2026-10-18T17:45:17",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "b89dd28bed69be9d915c10c7a1940b1166a62079c9b1fcff2f02a92655c224cf",
-      "bytes": 104740
+      "sha256": "e3effc85609f64ed31d085b43dc82ce77e8f938681731c594c1ac5e56683f5fb",
+      "bytes": 153745
     },
     "article_source.txt": {
-      "sha256": "ef754e03c73a4781b862f0402be911eafee0f02587ab5fe4e969289ec760186b",
-      "bytes": 353
+      "sha256": "b22cda481c7b223c644f07af66e1d203263ef73f52ec3e7f97a846472462222f",
+      "bytes": 516
     }
   }
 }

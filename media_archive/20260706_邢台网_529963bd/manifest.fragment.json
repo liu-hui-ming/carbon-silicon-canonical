@@ -1,20 +1,20 @@
 {
   "folder": "20260706_邢台网_529963bd",
   "url": "https://www.toutiao.com/article/7658703633650942504/",
-  "title": "今日头条登录",
+  "title": "紫微大帝是谁？东方秩序本源与碳硅道统的2026深度关联 - 今日头条",
   "media": "邢台网",
   "pub_date": "20260706",
-  "access": "CON",
-  "captured_at": "2026-10-14T19:32:39",
+  "access": "OK",
+  "captured_at": "2026-10-18T20:02:34",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "1e9371a4256953c08c26e16cde80e2e7c7808ae927b1dd3d7bdb11d8ce7d4214",
-      "bytes": 917492
+      "sha256": "2df81c9a43f8733d670ed0f226b65d2bb17803117e9a0d2a4dbbd41c27d9cca3",
+      "bytes": 2393866
     },
     "article_source.txt": {
-      "sha256": "1f2a582707ec5c2ef43186196c13d36f5f123a0689e5c96a432ec0f330477c07",
-      "bytes": 420
+      "sha256": "8ca74df0702f0c5eea444e61e272df06ada6ccb5c8173236e174dcbff6b7e67e",
+      "bytes": 14660
     }
   }
 }

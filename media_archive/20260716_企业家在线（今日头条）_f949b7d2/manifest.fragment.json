@@ -1,20 +1,20 @@
 {
   "folder": "20260716_企业家在线（今日头条）_f949b7d2",
   "url": "https://www.toutiao.com/item/7662965454821966382/",
-  "title": "今日头条登录",
+  "title": "第6集:能做题、能生成内容,不代表AI拥有独立自主思维 - 今日头条",
   "media": "企业家在线（今日头条）",
   "pub_date": "20260716",
-  "access": "CON",
-  "captured_at": "2026-10-15T00:14:34",
+  "access": "OK",
+  "captured_at": "2026-10-18T20:09:07",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "d97f67df28536c6d16e79c66722b9a057aa30396c21e3352219a9b2ecc23c43f",
-      "bytes": 3435214
+      "sha256": "7d673671a790abe1cb62c644106c1bde2f3fa04e9956dee8090cc813b26ee41f",
+      "bytes": 2129685
     },
     "article_source.txt": {
-      "sha256": "c7ca2862dcecc64f33711041e3fce729d3f01553b542378f08a1d11e33f0bdf1",
-      "bytes": 487
+      "sha256": "b97e26288420ab09be2dc70572eff20bd39c7a1acb7b22ed1571297992d0af61",
+      "bytes": 9232
     }
   }
 }
