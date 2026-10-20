@@ -4,7 +4,7 @@
   "title": "第6篇丨径向技术思辨札记：生物信号衰减有规可循 依托碳硅量纲守恒搭建径向传输修正体系",
   "media": "黄山新闻网",
   "pub_date": "20260806",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:31:15",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "71101be91986955e9e866fe4463b4bea16ccf039c9c2ed91a3c88ac1dc46b9b0",
       "bytes": 626
     }
-  }
+  },
+  "con_note": ""
 }

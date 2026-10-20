@@ -4,7 +4,7 @@
   "title": "第19篇丨碳硅边界论战文稿：完成AGI舆论全面祛魅 流畅对话仅为概率拟合 绝非独立原生思考",
   "media": "黄山新闻网",
   "pub_date": "20260806",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:29:52",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "378664363b096359e200c02aa294e8bae6cd471812e37c45b038dd1fe9826136",
       "bytes": 624
     }
-  }
+  },
+  "con_note": ""
 }

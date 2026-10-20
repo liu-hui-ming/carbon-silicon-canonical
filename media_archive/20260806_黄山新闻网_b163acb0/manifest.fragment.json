@@ -4,7 +4,7 @@
   "title": "第3篇｜碳硅反向校准论战：硅基迭代天花板公理——工具优化不产生层级跃迁",
   "media": "黄山新闻网",
   "pub_date": "20260806",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:31:13",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "71a6c8518f9cb7719ddb8b683ac9282509aa8f9a83b5ddef34e6607e9f37bac4",
       "bytes": 588
     }
-  }
+  },
+  "con_note": ""
 }

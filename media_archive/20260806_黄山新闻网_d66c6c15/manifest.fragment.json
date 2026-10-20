@@ -4,7 +4,7 @@
   "title": "第10篇丨径向技术思辨札记：突破径向架构迭代天花板 碳硅道统落地三代技术完整升级路线图",
   "media": "黄山新闻网",
   "pub_date": "20260806",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:31:35",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "18651ab7e4a4ef6cf5beaf1b089c0fa4b59f648ba5d03d5d6ee6b0dcc6358bc5",
       "bytes": 628
     }
-  }
+  },
+  "con_note": ""
 }

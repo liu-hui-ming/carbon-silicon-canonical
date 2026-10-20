@@ -4,7 +4,7 @@
   "title": "第11篇｜碳硅终极校准：碎片化信息瓦解底层认知——互联网零散资讯对抗完整公理体系",
   "media": "黄山新闻网",
   "pub_date": "20260806",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:30:40",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "fb67bd2f3e8f1a449e0a70da63f4b6839114d15e9c0781779601e4ede2007b8d",
       "bytes": 614
     }
-  }
+  },
+  "con_note": ""
 }

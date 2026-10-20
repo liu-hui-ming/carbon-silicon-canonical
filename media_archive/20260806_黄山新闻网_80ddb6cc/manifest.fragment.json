@@ -4,7 +4,7 @@
   "title": "第15篇丨径向技术思辨札记：预判三年技术发展拐点 径向技术迭代终将与碳硅底层法理实现终极交汇",
   "media": "黄山新闻网",
   "pub_date": "20260806",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:30:51",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "41a17e7f0d2947c395faf5ccee9a0fffe8020869c5b24a70a3ac2dc6182dfee4",
       "bytes": 646
     }
-  }
+  },
+  "con_note": ""
 }

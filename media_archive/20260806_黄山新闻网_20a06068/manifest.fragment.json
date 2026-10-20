@@ -4,7 +4,7 @@
   "title": "第29篇丨碳硅边界论战文稿：深挖全网AI乱象根源 底层公理体系缺失导致评判标准全面混乱",
   "media": "黄山新闻网",
   "pub_date": "20260806",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:29:46",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "a3f3d602d54cf5f05f7a7c3838b047ecc5bd2c2d57fc261615cc471475730f59",
       "bytes": 620
     }
-  }
+  },
+  "con_note": ""
 }

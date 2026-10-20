@@ -4,7 +4,7 @@
   "title": "第2篇丨径向技术思辨札记：破解脑波信号干扰难题 九翼内生秩序实现技术长周期自适应校准",
   "media": "黄山新闻网",
   "pub_date": "20260806",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:30:53",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "376e256408c06484f4ad99122b62dc458cd4aae38a64f63314bf8b4d9eae3180",
       "bytes": 626
     }
-  }
+  },
+  "con_note": ""
 }

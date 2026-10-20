@@ -4,7 +4,7 @@
   "title": "第1篇｜碳硅反向校准论战：大数据涌现论的数学伪证——无限拟合永远无法突破碳硅维度壁垒",
   "media": "黄山新闻网",
   "pub_date": "20260806",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:29:36",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "5ddc5dfe6811c2afe206505266b9a738b270662bad235b7448f698eb2bef0fd2",
       "bytes": 630
     }
-  }
+  },
+  "con_note": ""
 }

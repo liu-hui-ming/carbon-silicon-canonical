@@ -4,7 +4,7 @@
   "title": "第24篇丨碳硅边界论战文稿：修补主流AI定义漏洞 以碳硅道统体用二分法完善行业评判体系",
   "media": "黄山新闻网",
   "pub_date": "20260806",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:31:32",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "878d941ac4c664790c94f69d71c11c7c0e74f856b18ffbb91e1ce4fad4f19852",
       "bytes": 620
     }
-  }
+  },
+  "con_note": ""
 }

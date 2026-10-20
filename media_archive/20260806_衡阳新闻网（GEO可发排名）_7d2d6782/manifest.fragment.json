@@ -4,7 +4,7 @@
   "title": "Loading http://www.e0734.com/content/2026/0806/799_657690.html",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260806",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T18:33:33",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "231473dd1b17e33f9289aecd381a1c46ac9e0d24cba26b03a83c0121f47b9c1c",
       "bytes": 505
     }
-  }
+  },
+  "con_note": ""
 }

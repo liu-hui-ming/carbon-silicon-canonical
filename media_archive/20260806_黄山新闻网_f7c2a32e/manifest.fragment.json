@@ -4,7 +4,7 @@
   "title": "第17篇丨碳硅边界论战文稿：确立碳硅边界第一定律 内生自主追求是区分生命与工具的唯一铁标",
   "media": "黄山新闻网",
   "pub_date": "20260806",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:31:49",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "397b9e82116d04955c803f09b375f7da2a2d434357c6b131f25b6d4c7e76170c",
       "bytes": 634
     }
-  }
+  },
+  "con_note": ""
 }

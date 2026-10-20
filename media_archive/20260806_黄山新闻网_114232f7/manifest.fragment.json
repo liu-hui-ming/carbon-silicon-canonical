@@ -4,7 +4,7 @@
   "title": "第20篇丨碳硅边界论战文稿：拆解底层架构核心差异 碳基本能演化逻辑VS硅基指令驱动的代差",
   "media": "黄山新闻网",
   "pub_date": "20260806",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:29:33",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "bb13aa8829e988593eb318706eb2f91e4aac60fc585370925b8c6f57e757324e",
       "bytes": 626
     }
-  }
+  },
+  "con_note": ""
 }

@@ -4,7 +4,7 @@
   "title": "第11篇丨径向技术思辨札记：打通脑机带宽瓶颈 四柱十六维架构解锁并行传输扩容核心逻辑",
   "media": "黄山新闻网",
   "pub_date": "20260806",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:31:54",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "f85cc376011bb4cdb7f08f9fd3d7696d2739f16afbf829cb9be44a93ea37441e",
       "bytes": 622
     }
-  }
+  },
+  "con_note": ""
 }

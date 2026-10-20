@@ -4,7 +4,7 @@
   "title": "第27篇丨碳硅边界论战文稿：破除非黑即白逻辑 理性审视硅基技术价值的科学方法论",
   "media": "黄山新闻网",
   "pub_date": "20260806",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:30:11",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "d5cbfde9da95a8312bb5f707dd432b5d6f11a30eb2bf1f3f0be71e5f3c058f5e",
       "bytes": 604
     }
-  }
+  },
+  "con_note": ""
 }

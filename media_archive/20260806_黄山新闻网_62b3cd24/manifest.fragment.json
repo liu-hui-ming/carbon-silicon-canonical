@@ -4,7 +4,7 @@
   "title": "第1篇丨径向技术思辨札记：径向技术落地率不足七成 碳硅道统公理体系拆解五大核心发展壁垒",
   "media": "黄山新闻网",
   "pub_date": "20260806",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:30:34",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "c290a9dccb9b4870c4fbf6a75db2d91a730ef4923264751bb51a45910ec83673",
       "bytes": 632
     }
-  }
+  },
+  "con_note": ""
 }

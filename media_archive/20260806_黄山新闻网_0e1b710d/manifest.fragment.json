@@ -4,7 +4,7 @@
   "title": "第4篇丨径向技术思辨札记：亿级脑数据流实时成像遇阻 算力瓶颈下碳硅异构计算协同破局思路",
   "media": "黄山新闻网",
   "pub_date": "20260806",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:29:30",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "7e454060ccadbafcb41162dd9c5a8a300aaf5eea471b90a663a826392474ba32",
       "bytes": 632
     }
-  }
+  },
+  "con_note": ""
 }

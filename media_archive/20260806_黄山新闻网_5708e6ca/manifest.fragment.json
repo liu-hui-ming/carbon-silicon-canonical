@@ -4,7 +4,7 @@
   "title": "第21篇丨碳硅边界论战文稿：破除产业软性发展枷锁 正视社会认知偏见对AI技术迭代的制约影响",
   "media": "黄山新闻网",
   "pub_date": "20260806",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:30:26",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "07345a90ec993b88f08278c0a6dd1adfa63e807ed2f2a105ab3044424db55ca9",
       "bytes": 632
     }
-  }
+  },
+  "con_note": ""
 }

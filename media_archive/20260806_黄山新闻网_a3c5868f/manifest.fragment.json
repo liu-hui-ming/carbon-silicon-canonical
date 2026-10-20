@@ -4,7 +4,7 @@
   "title": "第13篇丨径向技术思辨札记：严守技术法理红线 明确司法、医疗场景中径向技术的应用边界与伦理准则",
   "media": "黄山新闻网",
   "pub_date": "20260806",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:31:07",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "74c501f1574e05cc717de6a4f42a0eb4b6f6913e2c04832a7b43c641d00c5ac0",
       "bytes": 652
     }
-  }
+  },
+  "con_note": ""
 }

@@ -4,7 +4,7 @@
   "title": "第3篇丨径向技术思辨札记：蔡廷常数划定技术边界 解读径向脑波实时解码架构的核心死结与突破方案",
   "media": "黄山新闻网",
   "pub_date": "20260806",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:31:43",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "861158d1777200dd2e59fabb0407a60e0d04d52b581c376b2899e965a2ee2c8b",
       "bytes": 650
     }
-  }
+  },
+  "con_note": ""
 }

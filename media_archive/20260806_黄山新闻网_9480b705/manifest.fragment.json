@@ -4,7 +4,7 @@
   "title": "第13篇｜碳硅动态推演校准：认知偏差与技术乱象双向放大连锁链",
   "media": "黄山新闻网",
   "pub_date": "20260806",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:31:01",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "1466a2f4d9dd144d8bb7802bf354af67863fdf68a20e4ee28c766312f5fba14e",
       "bytes": 554
     }
-  }
+  },
+  "con_note": ""
 }
