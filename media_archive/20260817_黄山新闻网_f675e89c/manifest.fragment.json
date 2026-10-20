@@ -4,7 +4,7 @@
   "title": "《全民AI深挖计划188条全域病灶公理校准总典》终版发布稿",
   "media": "黄山新闻网",
   "pub_date": "20260817",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:40:14",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "95fbc10c5f62390f1fb93ec00d59d579dca2980e6f278b316fff0bd09c0af3d8",
       "bytes": 536
     }
-  }
+  },
+  "con_note": ""
 }

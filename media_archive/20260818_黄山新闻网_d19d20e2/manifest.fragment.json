@@ -4,7 +4,7 @@
   "title": "前沿假说探讨：全局相位噪声视角下，重新解读意识、AI与生命的边界",
   "media": "黄山新闻网",
   "pub_date": "20260818",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:40:55",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "2d2341e3de2f48a21b06a2a2d679b71c7c5ae43ad1c47f10967729b02757719b",
       "bytes": 566
     }
-  }
+  },
+  "con_note": ""
 }

@@ -4,7 +4,7 @@
   "title": "AI发展新思辨：跳出拟合内卷，探寻智能创律的未来方向",
   "media": "黄山新闻网",
   "pub_date": "20260818",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:40:44",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "0a41166ffd89007538c2af56a54fdf86e53f3113625ca5f5a25182f78d6bf1b5",
       "bytes": 530
     }
-  }
+  },
+  "con_note": ""
 }

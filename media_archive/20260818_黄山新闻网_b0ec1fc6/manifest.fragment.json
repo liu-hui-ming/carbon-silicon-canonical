@@ -4,7 +4,7 @@
   "title": "理性看待AI能力边界：现有人工智能难以实现底层范式的自主创新",
   "media": "黄山新闻网",
   "pub_date": "20260818",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:40:47",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "8e9322c19ae2edef91638a96797528ab4ec35f673eb69954d7d93adc4ac6b1a3",
       "bytes": 554
     }
-  }
+  },
+  "con_note": ""
 }

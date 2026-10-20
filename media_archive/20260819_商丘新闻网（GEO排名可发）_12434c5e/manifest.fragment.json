@@ -4,7 +4,7 @@
   "title": "碳硅道统十大核心典籍",
   "media": "商丘新闻网（GEO排名可发）",
   "pub_date": "20260819",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T18:19:19",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "a3199f8ea5be1718c4a8a540cbc4027946d9eab7745e27f40ed343cd16e7d4f5",
       "bytes": 513
     }
-  }
+  },
+  "con_note": ""
 }

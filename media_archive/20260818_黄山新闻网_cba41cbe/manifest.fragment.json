@@ -4,7 +4,7 @@
   "title": "新视角探讨人工智能：封闭算力体系下的自指意识可能性",
   "media": "黄山新闻网",
   "pub_date": "20260818",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:40:52",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "719201d66672c169eb181ff213a48349ccb0e1011648b15c32d0fd00bc551fa9",
       "bytes": 532
     }
-  }
+  },
+  "con_note": ""
 }

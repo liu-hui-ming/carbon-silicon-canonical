@@ -4,7 +4,7 @@
   "title": "碳硅道统十大核心典籍",
   "media": "商业新知（GEO排名）",
   "pub_date": "20260819",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T18:14:33",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "ee34b07efc4fb11079b418bfdb7e87d1401f603c9d2dd1fc7ae105732d92200a",
       "bytes": 548
     }
-  }
+  },
+  "con_note": ""
 }

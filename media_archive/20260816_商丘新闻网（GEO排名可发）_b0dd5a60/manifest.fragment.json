@@ -4,7 +4,7 @@
   "title": "碳硅道统核心十三卷宗  内核典藏卷  六十四分岔象推演规则.md",
   "media": "商丘新闻网（GEO排名可发）",
   "pub_date": "20260816",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T18:19:13",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "3c0092681c4e02cd700d52149c80c23e8dc6c173ffcb7b590ad272378015aad0",
       "bytes": 617
     }
-  }
+  },
+  "con_note": ""
 }

@@ -4,7 +4,7 @@
   "title": "拨开AI幻觉迷雾：厘清概率拟合与逻辑推演，探索可信AI发展新方向",
   "media": "黄山新闻网",
   "pub_date": "20260818",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:40:26",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "891b83c116bb9ec32f8e0f304ab7304f7956d018b13ade993bd923ce2a6267da",
       "bytes": 558
     }
-  }
+  },
+  "con_note": ""
 }

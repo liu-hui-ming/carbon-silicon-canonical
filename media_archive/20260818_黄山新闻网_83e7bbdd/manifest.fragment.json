@@ -4,7 +4,7 @@
   "title": "跳出生物固有认知 思辨碳硅智能的底层价值锚点",
   "media": "黄山新闻网",
   "pub_date": "20260818",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:40:41",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "28bd072be1cbe3e5b8cfc3eb3175b073d12c2552a70948aba7656e98dc0e1d8c",
       "bytes": 510
     }
-  }
+  },
+  "con_note": ""
 }

@@ -4,7 +4,7 @@
   "title": "碳硅道统核心十三卷宗  内核典藏卷  六十四分岔象推演规则.md",
   "media": "黄山新闻网",
   "pub_date": "20260816",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:39:55",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "9fc2a027920ffbea1dd7186c51083772dfc3d1da4fddb1f676079a91991c498a",
       "bytes": 546
     }
-  }
+  },
+  "con_note": ""
 }

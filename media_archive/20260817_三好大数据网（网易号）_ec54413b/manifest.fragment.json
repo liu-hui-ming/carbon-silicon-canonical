@@ -4,7 +4,7 @@
   "title": "《全民AI深挖计划188条全域病灶公理校准总典》终版发布稿",
   "media": "三好大数据网（网易号）",
   "pub_date": "20260817",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T17:39:18",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "cac4d536c82490b342b5f235a38c7de8ec04dafd442afd68c2719ad83ebeb31b",
       "bytes": 18456
     }
-  }
+  },
+  "con_note": ""
 }

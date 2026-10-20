@@ -4,7 +4,7 @@
   "title": "《全民AI深挖计划188条全域病灶公理校准总典》终版发布稿",
   "media": "商丘新闻网（GEO排名可发）",
   "pub_date": "20260817",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T18:19:16",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "6c77c24f3e7c2d2fd3aca196300dc4df1e89f307022ae23587c5f05f49737071",
       "bytes": 607
     }
-  }
+  },
+  "con_note": ""
 }

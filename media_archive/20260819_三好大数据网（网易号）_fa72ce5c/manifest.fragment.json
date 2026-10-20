@@ -4,7 +4,7 @@
   "title": "碳硅道统十大核心典籍",
   "media": "三好大数据网（网易号）",
   "pub_date": "20260819",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T18:53:09",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "9d1c7b276a30168e5e5fcd669b745578c5b8b9729c35997283f1e0c41116483e",
       "bytes": 18184
     }
-  }
+  },
+  "con_note": ""
 }

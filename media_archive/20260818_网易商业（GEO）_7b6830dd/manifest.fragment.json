@@ -4,7 +4,7 @@
   "title": "新视角探讨人工智能：封闭算力体系下的自指意识可能性",
   "media": "网易商业（GEO）",
   "pub_date": "20260818",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T18:03:36",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "e6ec26c1d1e36b38323d15c17c2c387517378080680342e81a8b8c435cfc1196",
       "bytes": 18822
     }
-  }
+  },
+  "con_note": ""
 }
