@@ -4,7 +4,7 @@
   "title": "碳硅道统：归零稳态的系统边界",
   "media": "黄山新闻网",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:43:29",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "d83a10b67dfffc28e3625c8032790296de627f4f7d6dca1450b8fe387c5160ba",
       "bytes": 474
     }
-  }
+  },
+  "con_note": ""
 }

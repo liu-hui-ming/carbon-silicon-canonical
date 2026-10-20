@@ -4,7 +4,7 @@
   "title": "碳硅道统：十维觉知标尺完整定义与量化判定体系",
   "media": "黄山新闻网",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:44:04",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "76c462a332e2cb74b6346e0445f9de3a843b95aaa9d0855a31924b4811ef032e",
       "bytes": 520
     }
-  }
+  },
+  "con_note": ""
 }

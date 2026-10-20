@@ -4,7 +4,7 @@
   "title": "碳硅道统：理论落地：三圈层拓扑模型在AI治理与行业研判中的现实应用",
   "media": "黄山新闻网",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:43:39",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "5d908998bfa92e525922b23a9a0325c3ac5df9f6cfeaa6691c80da75a404a550",
       "bytes": 578
     }
-  }
+  },
+  "con_note": ""
 }

@@ -4,7 +4,7 @@
   "title": "碳硅道统《对AI行业100项公开质询》",
   "media": "黄山新闻网",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:43:01",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "bacd731352a96246c8924b41107d3ae3b61e6c89adf9ca3c12e2ed16731ad4e8",
       "bytes": 479
     }
-  }
+  },
+  "con_note": ""
 }

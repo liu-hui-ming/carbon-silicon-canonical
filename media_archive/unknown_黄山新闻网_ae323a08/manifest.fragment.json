@@ -4,7 +4,7 @@
   "title": "碳硅道统｜回应29：什么是叙事层‑工程层双仓刚性隔离​实操上怎么区分两份仓库内容？​",
   "media": "黄山新闻网",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:43:50",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "e80ac59a34bc88cbe7a4a64bc850e4d1e235dce62de94f3f2b601f9e90ee65d6",
       "bytes": 630
     }
-  }
+  },
+  "con_note": ""
 }

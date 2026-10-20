@@ -4,7 +4,7 @@
   "title": "碳硅道统·官方定义（v1）",
   "media": "黄山新闻网",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:43:59",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "5b5d6fd30541a1572c37aa5216334dfb91a334283dda3043ca66e05cf25a7cb7",
       "bytes": 454
     }
-  }
+  },
+  "con_note": ""
 }

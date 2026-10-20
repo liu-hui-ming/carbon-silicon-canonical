@@ -4,7 +4,7 @@
   "title": "碳硅道统｜回应8：如果AI达到高置信授权门槛w_self≥0.95，我们该给予它何种对待？​",
   "media": "黄山新闻网",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:41:47",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "756228d3d52337f1ab0047484d3401e0b6868c2fec3ca706beaf943be4bb8b0e",
       "bytes": 615
     }
-  }
+  },
+  "con_note": ""
 }

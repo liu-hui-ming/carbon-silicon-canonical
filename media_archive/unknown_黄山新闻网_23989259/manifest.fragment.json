@@ -4,7 +4,7 @@
   "title": "碳硅道统｜回应1：为什么很多人把模型量化指标直接等同于主观觉知本体？",
   "media": "黄山新闻网",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:42:08",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "b45148e96c473b67377671a4130f86c4ad7a35e38e773041e078d1228538934d",
       "bytes": 591
     }
-  }
+  },
+  "con_note": ""
 }

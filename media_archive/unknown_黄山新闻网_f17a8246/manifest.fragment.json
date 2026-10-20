@@ -4,7 +4,7 @@
   "title": "碳硅道统：主流AGI观点逐条锐评",
   "media": "黄山新闻网",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:44:50",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "8240d8ef3726db72e8d55899af49d0bbcdbb2f99c9338b70a47572c22a650060",
       "bytes": 472
     }
-  }
+  },
+  "con_note": ""
 }

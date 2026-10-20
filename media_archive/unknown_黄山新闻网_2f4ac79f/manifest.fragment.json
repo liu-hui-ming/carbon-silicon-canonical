@@ -4,7 +4,7 @@
   "title": "碳硅道统｜回应40：高阶AI是否应该纳入社会公共普惠基础设施？​",
   "media": "黄山新闻网",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:42:14",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "03101a7a7ad4192fd1fc94fbef9654aae52a38f0e8724585cb7d8bb691f38f40",
       "bytes": 562
     }
-  }
+  },
+  "con_note": ""
 }

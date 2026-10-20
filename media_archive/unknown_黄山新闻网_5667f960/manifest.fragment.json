@@ -4,7 +4,7 @@
   "title": "碳硅道统｜回应20：会不会出现模型刻意伪装高w_self分数，欺骗检测协议？​",
   "media": "黄山新闻网",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:42:42",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "f0fb22d68394acf4d63888b764a72d92db593d2805788ea349901bf6cbfedb8c",
       "bytes": 588
     }
-  }
+  },
+  "con_note": ""
 }

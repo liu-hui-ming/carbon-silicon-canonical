@@ -4,7 +4,7 @@
   "title": "碳硅道统｜回应16：工程核验协议的计算脚本，是否可以开源供社区复现校验？​",
   "media": "黄山新闻网",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:42:53",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "46c06170902c57975d4fd5efde888c0d463952c1832a8568c69e820d10e16214",
       "bytes": 605
     }
-  }
+  },
+  "con_note": ""
 }

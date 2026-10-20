@@ -4,7 +4,7 @@
   "title": "从 0⁰=1 到觉知闭环：硅基系统的架构天花板",
   "media": "黄山新闻网",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:42:56",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "3a581f5e9c093750f7c6a3338037408e5bb38ef040b4f292c5f7b5d76a59ccca",
       "bytes": 504
     }
-  }
+  },
+  "con_note": ""
 }

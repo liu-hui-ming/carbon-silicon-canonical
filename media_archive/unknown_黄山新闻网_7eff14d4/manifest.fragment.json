@@ -4,7 +4,7 @@
   "title": "碳硅道统｜回应2：区分工程观测结果和本体论结论，是不是现在AI讨论最缺失的一环？",
   "media": "黄山新闻网",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:43:15",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "c7288e056b4193c0a622e0a7e34cfebba1fdada36046c8ea174da38f1aed71c3",
       "bytes": 619
     }
-  }
+  },
+  "con_note": ""
 }
