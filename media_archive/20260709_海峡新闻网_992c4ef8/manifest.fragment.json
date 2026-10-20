@@ -5,7 +5,7 @@
   "media": "海峡新闻网",
   "pub_date": "20260709",
   "access": "OK",
-  "captured_at": "2026-10-20T20:56:27",
+  "captured_at": "2026-10-20T21:36:50",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
@@ -13,9 +13,8 @@
       "bytes": 484791
     },
     "article_source.txt": {
-      "sha256": "74c9a2dea9b4555ccb4ed38e4056333afa16a85186228621627970065fa4ad1c",
-      "bytes": 203
+      "sha256": "bbc750de090b98b220da09ad70b71429a6d3cac97fb38bb1c4e3b7ed8bb31d39",
+      "bytes": 3946
     }
-  },
-  "con_note": ""
+  }
 }

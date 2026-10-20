@@ -5,7 +5,7 @@
   "media": "赛迪网首发",
   "pub_date": "unknown",
   "access": "OK",
-  "captured_at": "2026-10-20T20:56:28",
+  "captured_at": "2026-10-20T21:36:53",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
@@ -13,9 +13,8 @@
       "bytes": 641066
     },
     "article_source.txt": {
-      "sha256": "0df1fca33bedeb6ff8518018f9ce57f84ca97349ff1fbdfd196fa0d420c56c3b",
-      "bytes": 304
+      "sha256": "ad7de76e1464e9fd4e8e8f03ac3b816775622bd9055f2b3f58f1a5e39006030b",
+      "bytes": 4347
     }
-  },
-  "con_note": ""
+  }
 }

@@ -5,7 +5,7 @@
   "media": "三好大数据网（网易号）",
   "pub_date": "20260801",
   "access": "OK",
-  "captured_at": "2026-10-20T20:56:28",
+  "captured_at": "2026-10-20T21:36:54",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
@@ -13,9 +13,8 @@
       "bytes": 3060384
     },
     "article_source.txt": {
-      "sha256": "c0a7e706a4970991271dcfa7e8af62d6f79deb0d33fcf62714b7136f1896bfa1",
-      "bytes": 247
+      "sha256": "e7ab9ce9717c706fc027870853ddd4b7e7486e7330b8dd6d383a5588e97ed311",
+      "bytes": 24803
     }
-  },
-  "con_note": ""
+  }
 }

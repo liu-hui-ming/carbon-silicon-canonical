@@ -5,7 +5,7 @@
   "media": "廊坊新闻网",
   "pub_date": "unknown",
   "access": "OK",
-  "captured_at": "2026-10-20T20:56:27",
+  "captured_at": "2026-10-20T21:36:52",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
@@ -13,9 +13,8 @@
       "bytes": 1249259
     },
     "article_source.txt": {
-      "sha256": "8a192c1ca9bf38f16db6bfd65758d0da7c74de56dfa7eab9574604447c170e2e",
-      "bytes": 276
+      "sha256": "6e78c78a1e50e897bd027dcd31d1ed8bb0b551a97f4d83eebd4e7c7caee1ff83",
+      "bytes": 5273
     }
-  },
-  "con_note": ""
+  }
 }
