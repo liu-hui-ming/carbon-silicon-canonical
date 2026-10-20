@@ -4,7 +4,7 @@
   "title": "碳硅道统AI十八式03｜生成文本真实度分层标尺：量化内容虚构占比区间",
   "media": "网易商业（GEO）",
   "pub_date": "20260811",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T15:43:07",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "e8bbf1f0c58e0d1cf3adbaa73997881ea53a97d76ad3d76c5bdc9d3a5f63ae00",
       "bytes": 18690
     }
-  }
+  },
+  "con_note": ""
 }

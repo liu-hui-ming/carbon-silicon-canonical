@@ -4,7 +4,7 @@
   "title": "碳硅道统AI十八术17｜动态工况偏差补偿流程：弥合理论参数与产业实景差值",
   "media": "网易商业（GEO）",
   "pub_date": "20260811",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T15:39:22",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "47858e30575d598979a92beba04fcba9539b53e24f7f8f037a6c8ad73a7c9f79",
       "bytes": 18637
     }
-  }
+  },
+  "con_note": ""
 }

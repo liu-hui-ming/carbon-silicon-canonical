@@ -4,7 +4,7 @@
   "title": "碳硅道统AI十八式04｜脑机信号还原完整度标尺：定量测算信息缺损比例",
   "media": "网易商业（GEO）",
   "pub_date": "20260811",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T15:46:50",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "6bf07771ee870323cad08aa42ae598d2083faa7f8e5fdf247d899c068e67d131",
       "bytes": 18625
     }
-  }
+  },
+  "con_note": ""
 }

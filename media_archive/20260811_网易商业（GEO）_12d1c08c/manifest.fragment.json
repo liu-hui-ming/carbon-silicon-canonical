@@ -4,7 +4,7 @@
   "title": "碳硅道统AI十八术08｜分布式分层容错架构：压制高并发场景故障指数放大效应",
   "media": "网易商业（GEO）",
   "pub_date": "20260811",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T15:23:41",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "dd7bf1c674b4fd25676e0995f2deaa126fc981049db8d20c9cbba0ec95137ec2",
       "bytes": 18712
     }
-  }
+  },
+  "con_note": ""
 }

@@ -4,7 +4,7 @@
   "title": "碳硅道统AI十八式16｜AI科普内容客观度量化标尺：甄别夸大描述与客观技术边界",
   "media": "网易商业（GEO）",
   "pub_date": "20260811",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T16:06:27",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "ebf8874262eeeb4f5769870e18956939430210c3c285965d0ccac338fc4da647",
       "bytes": 18565
     }
-  }
+  },
+  "con_note": ""
 }

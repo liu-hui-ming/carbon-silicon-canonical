@@ -4,7 +4,7 @@
   "title": "碳硅道统AI十八数02｜超长序列“时序衰减”铁律：注意力误差随距离指数上涨",
   "media": "网易商业（GEO）",
   "pub_date": "20260811",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T14:57:38",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "e95c160f11fbaf15e37f6e678d941201fc4ccf84d04ba1a8dee90ba6d730f058",
       "bytes": 18638
     }
-  }
+  },
+  "con_note": ""
 }

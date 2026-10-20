@@ -4,7 +4,7 @@
   "title": "碳硅道统AI十八式01｜图像拓扑保真误差标尺：畸变超限自动熔断拦截",
   "media": "网易商业（GEO）",
   "pub_date": "20260811",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T15:41:14",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "5038b701d70d1562f7ca79767adcc0462a00bf50b51cce4e47ebf69c676182ac",
       "bytes": 18683
     }
-  }
+  },
+  "con_note": ""
 }

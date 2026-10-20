@@ -4,7 +4,7 @@
   "title": "AI十八数17和AI十八数18",
   "media": "黄山新闻网",
   "pub_date": "20260810",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:35:22",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "20548f5bb043155f5c595bca07860ab092b2b36d0412262959ffd18bdcec19ed",
       "bytes": 440
     }
-  }
+  },
+  "con_note": ""
 }

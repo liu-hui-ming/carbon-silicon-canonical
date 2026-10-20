@@ -4,7 +4,7 @@
   "title": "碳硅道统AI十八术14｜缺陷分级场景筛选策略：匹配底层约束筛选安全落地业务",
   "media": "网易商业（GEO）",
   "pub_date": "20260811",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T15:33:42",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "c61d13898b70c3fa733b451b0f2beb41ff25bf6bd1915d57ec526deafafb7355",
       "bytes": 18706
     }
-  }
+  },
+  "con_note": ""
 }

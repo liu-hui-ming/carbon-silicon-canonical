@@ -4,7 +4,7 @@
   "title": "碳硅道统AI十八式07｜模型输出离散度量化标尺：测算采样熵带来的结果波动幅度",
   "media": "网易商业（GEO）",
   "pub_date": "20260811",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T15:49:40",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "82e8b43759d54e2d333ffb1852fb893c5f5997b193752caea9bae520d391a953",
       "bytes": 18518
     }
-  }
+  },
+  "con_note": ""
 }

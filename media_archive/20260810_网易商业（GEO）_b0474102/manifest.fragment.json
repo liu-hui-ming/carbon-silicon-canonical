@@ -4,7 +4,7 @@
   "title": "第54集+第55集",
   "media": "网易商业（GEO）",
   "pub_date": "20260810",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T13:58:06",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "cfb1d7b5ef912c1e7eb368a1cf3e4cf1f54c493e860a7a6ca9d34fb77916e200",
       "bytes": 18500
     }
-  }
+  },
+  "con_note": ""
 }

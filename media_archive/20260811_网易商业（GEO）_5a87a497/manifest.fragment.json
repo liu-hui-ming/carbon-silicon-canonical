@@ -4,7 +4,7 @@
   "title": "网易商业（GEO） 首发稿件 #3163",
   "media": "网易商业（GEO）",
   "pub_date": "20260811",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T14:52:00",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "a938d318d6ae8a0dcea7bc897fc58c56a8e2a813954690b5be5bf8804a90435a",
       "bytes": 18593
     }
-  }
+  },
+  "con_note": ""
 }

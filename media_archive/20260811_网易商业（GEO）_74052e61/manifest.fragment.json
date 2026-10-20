@@ -4,7 +4,7 @@
   "title": "碳硅道统AI十八式09｜数理推导严谨度分级标尺：划分复述、运算、多层逻辑证明层级",
   "media": "网易商业（GEO）",
   "pub_date": "20260811",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T15:54:18",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "92c6d3cd457009bb69058d681ef7927087b7888d905dfd87808b9664dec59df9",
       "bytes": 18612
     }
-  }
+  },
+  "con_note": ""
 }

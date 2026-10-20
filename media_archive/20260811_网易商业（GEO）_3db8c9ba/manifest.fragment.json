@@ -4,7 +4,7 @@
   "title": "碳硅道统AI十八术05｜链式外源任务驱动框架：补足硅基模型内生探索驱动力短板",
   "media": "网易商业（GEO）",
   "pub_date": "20260811",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T15:20:50",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "731cda28d8451bb48f9fb3f5cb9e99547caa35fdd2e3a14c3a4bddd7ef5b4116",
       "bytes": 18767
     }
-  }
+  },
+  "con_note": ""
 }

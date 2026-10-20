@@ -4,7 +4,7 @@
   "title": "碳硅道统AI十八式14｜架构缺陷优化下限刚性标尺：锁定模型迭代永久能力天花板",
   "media": "网易商业（GEO）",
   "pub_date": "20260811",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T16:01:47",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "6463dd3b768c6fe89d3d637af73ee1975f7517c60e53d98653483cf11d10250d",
       "bytes": 18593
     }
-  }
+  },
+  "con_note": ""
 }

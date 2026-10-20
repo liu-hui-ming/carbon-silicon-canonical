@@ -4,7 +4,7 @@
   "title": "碳硅道统AI十八术01｜骨骼拓扑锚定掩码：刚性约束人体结构、抑制视觉拓扑畸变",
   "media": "网易商业（GEO）",
   "pub_date": "20260811",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T15:16:59",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "e9a34276e9763016af7868deb8a44620b6339fe2c821243cb8516a0265e449df",
       "bytes": 18790
     }
-  }
+  },
+  "con_note": ""
 }

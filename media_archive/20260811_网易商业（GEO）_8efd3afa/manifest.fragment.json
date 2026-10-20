@@ -4,7 +4,7 @@
   "title": "碳硅道统AI十八术16｜文理双轨分层传播架构：兼顾科普通俗度与技术检索精度",
   "media": "网易商业（GEO）",
   "pub_date": "20260811",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T15:38:25",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "ed48479bb9ede9bfa0f6d131fd3fe34baf8df33706351e2173f4aef7555ebbc5",
       "bytes": 18637
     }
-  }
+  },
+  "con_note": ""
 }

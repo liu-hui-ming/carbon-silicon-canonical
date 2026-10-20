@@ -4,7 +4,7 @@
   "title": "AI十八数11和AI十八数12",
   "media": "网易商业（GEO）",
   "pub_date": "20260810",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T14:21:46",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "ae419bd2a7d3f190f7d71e24e27705c7e19af633b34448102d94689618964b99",
       "bytes": 18372
     }
-  }
+  },
+  "con_note": ""
 }

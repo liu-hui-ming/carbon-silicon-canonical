@@ -4,7 +4,7 @@
   "title": "碳硅道统AI十八数08｜并发推理“故障放大”铁律：缺陷倍率随流量同步扩张",
   "media": "网易商业（GEO）",
   "pub_date": "20260811",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T15:06:16",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "efa97155db78277508cf0355230524b7bf610f055d1b5408b51be39d2b849f8b",
       "bytes": 18614
     }
-  }
+  },
+  "con_note": ""
 }

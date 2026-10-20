@@ -4,7 +4,7 @@
   "title": "碳硅道统AI十八术11｜权重解耦独立微调架构：降低跨行业迁移适配损耗",
   "media": "网易商业（GEO）",
   "pub_date": "20260811",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T15:28:02",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "3c14ab8d7f69a6045ac4e248f65b083d635a451be699ec40a0c9493a2ebe12d5",
       "bytes": 18636
     }
-  }
+  },
+  "con_note": ""
 }

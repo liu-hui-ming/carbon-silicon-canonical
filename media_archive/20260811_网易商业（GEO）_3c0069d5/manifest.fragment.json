@@ -4,7 +4,7 @@
   "title": "碳硅道统AI十八数17｜理论实景“工况差值”铁律：实验室参数不可直接落地复用",
   "media": "网易商业（GEO）",
   "pub_date": "20260811",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T15:15:01",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "a1e2cf98e162e071b912bb0df1216d5631577b707debdfc8b728dc0084c61da0",
       "bytes": 18745
     }
-  }
+  },
+  "con_note": ""
 }

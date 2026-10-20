@@ -4,7 +4,7 @@
   "title": "碳硅道统AI十八数05｜硅基智能“内源驱动”铁律：无外源指令自主推演权重归零",
   "media": "网易商业（GEO）",
   "pub_date": "20260811",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T15:03:23",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "ed6c23394e0491ba03cae86c0eb93490ca6a1cb158c0f0ffad93cbc31c4ccdad",
       "bytes": 18659
     }
-  }
+  },
+  "con_note": ""
 }
