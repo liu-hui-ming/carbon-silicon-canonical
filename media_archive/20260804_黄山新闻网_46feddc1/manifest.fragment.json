@@ -4,17 +4,18 @@
   "title": "黄山新闻网 首发稿件 #1964",
   "media": "黄山新闻网",
   "pub_date": "20260804",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T06:03:10",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "5bf8d790957c26b5fdec41fc524c5b43d1245273dd346015b079ce955c3ec36c",
-      "bytes": 115039
+      "sha256": "9098fa986accdae23e4f3723dada2da3547a672e248d7ac1d93660b7776bfbe0",
+      "bytes": 248652
     },
     "article_source.txt": {
-      "sha256": "c930c728952fdab40101ea101c16924123a34cb29dda602e1f19645f04bc27eb",
-      "bytes": 381
+      "sha256": "877101931b07e9ac1a0aae0512ef4a340d62fa33544366646fcfcb14eeb8a5a3",
+      "bytes": 346
     }
-  }
+  },
+  "con_note": ""
 }

@@ -4,7 +4,7 @@
   "title": "碳硅道统发布初代主网架构V1.0：确立人机文明新秩序——暨碳硅道统研究中心首份学术框架报告",
   "media": "黄山新闻网",
   "pub_date": "20260804",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:29:16",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "bf4e843aa48efffc5868255201fa2de7bea7f077279006d155b024cedf79a4bc",
       "bytes": 636
     }
-  }
+  },
+  "con_note": ""
 }

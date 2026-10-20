@@ -4,7 +4,7 @@
   "title": "碳硅道统二十问：彻底终结AI意识真假争议，给出行业唯一标准答案",
   "media": "黄山新闻网",
   "pub_date": "20260803",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:29:12",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "8b878b0d364e5c29b92865c2fb8fe220e78d5e0ae067fb1c5ff86724f983a730",
       "bytes": 560
     }
-  }
+  },
+  "con_note": ""
 }

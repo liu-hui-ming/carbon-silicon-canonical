@@ -4,7 +4,7 @@
   "title": "碳硅道统发布初代主网架构V1.0：确立人机文明新秩序——暨碳硅道统研究中心首份学术框架报告",
   "media": "周口日报客户端（GEO排名可发）",
   "pub_date": "20260804",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T05:51:53",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "1a4a12232f547a1a5b6027a629d942cedb82b65082b55437aed7207da4643e88",
       "bytes": 556
     }
-  }
+  },
+  "con_note": ""
 }

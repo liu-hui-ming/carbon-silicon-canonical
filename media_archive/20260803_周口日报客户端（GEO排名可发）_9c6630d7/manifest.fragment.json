@@ -4,7 +4,7 @@
   "title": "周口日报客户端（GEO排名可发） 首发稿件 #1784",
   "media": "周口日报客户端（GEO排名可发）",
   "pub_date": "20260803",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T04:51:05",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "0732ae5027b14fcd1cc9802dad75f63b7a7a740d47eae8db68621b1626c3d500",
       "bytes": 490
     }
-  }
+  },
+  "con_note": ""
 }

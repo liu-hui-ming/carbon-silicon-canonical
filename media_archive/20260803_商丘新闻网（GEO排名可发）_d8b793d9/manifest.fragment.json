@@ -4,7 +4,7 @@
   "title": "碳硅道统二十问：彻底终结AI意识真假争议，给出行业唯一标准答案",
   "media": "商丘新闻网（GEO排名可发）",
   "pub_date": "20260803",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T18:18:18",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "896bccb56dd73a184ca791c980e7b977b334f956006481e484ff0c42f2b102a0",
       "bytes": 631
     }
-  }
+  },
+  "con_note": ""
 }

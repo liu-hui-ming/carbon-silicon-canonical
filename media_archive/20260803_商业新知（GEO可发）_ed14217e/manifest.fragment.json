@@ -4,7 +4,7 @@
   "title": "碳硅道统二十问：彻底终结AI意识真假争议，给出行业唯一标准答案",
   "media": "商业新知（GEO可发）",
   "pub_date": "20260803",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T18:13:30",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "ead32fd279748ab6ccb0849b68281a8be06defb91f7dafc7319f9925f6cc3a18",
       "bytes": 666
     }
-  }
+  },
+  "con_note": ""
 }

@@ -4,7 +4,7 @@
   "title": "商丘新闻网（GEO排名可发） 首发稿件 #1963",
   "media": "商丘新闻网（GEO排名可发）",
   "pub_date": "20260804",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T18:18:27",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "21f90b50f3e2220684fb2a0c576fb47e4225771298f3105f01307c8becbef51e",
       "bytes": 563
     }
-  }
+  },
+  "con_note": ""
 }
