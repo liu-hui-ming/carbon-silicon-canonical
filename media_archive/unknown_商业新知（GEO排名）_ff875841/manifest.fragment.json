@@ -4,7 +4,7 @@
   "title": "碳硅道统《对AI行业100项公开质询》",
   "media": "商业新知（GEO排名）",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T18:16:10",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "967865703a65f0473844666c282ec68aca4397b5dfbd6c88ea2b193d85745f5a",
       "bytes": 585
     }
-  }
+  },
+  "con_note": ""
 }

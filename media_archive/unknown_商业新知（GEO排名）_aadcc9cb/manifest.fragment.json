@@ -4,7 +4,7 @@
   "title": "碳硅道统：主流AGI观点逐条锐评",
   "media": "商业新知（GEO排名）",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T18:15:42",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "3d46698fa14f75e19fc24ee3edca687b0c6990ddb4202e818455837234f4a477",
       "bytes": 578
     }
-  }
+  },
+  "con_note": ""
 }

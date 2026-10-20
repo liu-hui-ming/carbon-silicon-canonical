@@ -4,7 +4,7 @@
   "title": "碳硅道统：碳硅共生：划清边界之后，碳基与硅基如何共存",
   "media": "商业新知（GEO排名）",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T18:15:00",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "8ac10ddf931b3b8af1060fde3210f801791445c41801cfedcd4084cebca0d2ff",
       "bytes": 650
     }
-  }
+  },
+  "con_note": ""
 }

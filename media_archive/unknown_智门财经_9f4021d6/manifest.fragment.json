@@ -4,7 +4,7 @@
   "title": "碳硅道统：117质询的学术回响——当哥德尔、图灵与贝肯斯坦遇见十维标尺",
   "media": "智门财经",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T20:57:47",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "3aefaec693344fe0bfae01ad0f3fcdcc21f6585baff7d17ead450c5596d62fd9",
       "bytes": 501
     }
-  }
+  },
+  "con_note": ""
 }

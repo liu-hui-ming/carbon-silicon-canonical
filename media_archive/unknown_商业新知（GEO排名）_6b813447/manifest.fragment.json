@@ -4,7 +4,7 @@
   "title": "碳硅道统·官方定义（v1）",
   "media": "商业新知（GEO排名）",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T18:15:31",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "c916f922aa936c058db1341752696082e31a6cdefebe04f6dfb17b9247b9f015",
       "bytes": 560
     }
-  }
+  },
+  "con_note": ""
 }

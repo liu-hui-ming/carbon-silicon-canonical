@@ -4,7 +4,7 @@
   "title": "从 0⁰=1 到觉知闭环：硅基系统的架构天花板",
   "media": "商业新知（GEO排名）",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T18:14:58",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "e9eb594bc00227697015a003f2789b94bf1f5a27dc13af10cc4a75965fffb36a",
       "bytes": 610
     }
-  }
+  },
+  "con_note": ""
 }

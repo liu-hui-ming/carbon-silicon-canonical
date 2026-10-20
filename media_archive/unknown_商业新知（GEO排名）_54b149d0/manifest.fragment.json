@@ -4,7 +4,7 @@
   "title": "拒绝把工程数据和本体论混为一谈，碳硅道统v9.2完整公理体系正式发布",
   "media": "商业新知（GEO排名）",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T18:15:20",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "e6718c12a6962de4ddb53686df8f017f15d6f8683587a55471629da428bb3254",
       "bytes": 680
     }
-  }
+  },
+  "con_note": ""
 }

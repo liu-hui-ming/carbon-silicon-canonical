@@ -4,7 +4,7 @@
   "title": "碳硅道统｜回应13：阈值ε、δ、Φ_thresh的校准，会不会被人为篡改偏向？",
   "media": "廊坊新闻网",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-20T20:56:27",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "f6d6e093a63013a3333ed8b07b1aa6bdad91e61bdd753d59d6d333f64d258784",
       "bytes": 274
     }
-  }
+  },
+  "con_note": ""
 }

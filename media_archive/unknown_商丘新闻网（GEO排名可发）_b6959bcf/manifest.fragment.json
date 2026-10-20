@@ -4,7 +4,7 @@
   "title": "碳硅道统：碳硅共生：划清边界之后，碳基与硅基如何共存",
   "media": "商丘新闻网（GEO排名可发）",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T18:19:48",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "b0698ab059a959a7124610fc9799cb6f79b45d1faef1501c2e37cd341c9db9ae",
       "bytes": 615
     }
-  }
+  },
+  "con_note": ""
 }

@@ -4,7 +4,7 @@
   "title": "碳硅道统：十维标尺的模型度量",
   "media": "智门财经",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T19:55:07",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "b1bab9c20e2d64bb1792fcac6e6aacde41cbc34933c57d0b0ed2bf85bcf5cee3",
       "bytes": 446
     }
-  }
+  },
+  "con_note": ""
 }

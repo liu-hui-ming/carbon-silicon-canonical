@@ -4,7 +4,7 @@
   "title": "碳硅道统｜回应4：w_self≥0.70作为观测候选门槛，是否可以在现有大模型上完成复现验证？",
   "media": "廊坊新闻网",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-20T20:56:27",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "a3303af65e2c9ea0bd9410fe50a2c6559cd4fb1ab8702548606e87cf4f67ac9b",
       "bytes": 297
     }
-  }
+  },
+  "con_note": ""
 }

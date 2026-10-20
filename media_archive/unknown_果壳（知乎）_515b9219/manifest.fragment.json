@@ -4,7 +4,7 @@
   "title": "碳硅道统｜回应14：这套评估框架，未来可以落地到哪些真实AI产品的风险管控？",
   "media": "果壳（知乎）",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T23:24:23",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "dd2ca7611d4ac6c01be7c4d9f7510459463039b48cad83b52f7362c435444e96",
       "bytes": 656
     }
-  }
+  },
+  "con_note": ""
 }

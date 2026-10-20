@@ -4,7 +4,7 @@
   "title": "碳硅道统：归零稳态的系统边界",
   "media": "商业新知（GEO排名）",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T18:15:06",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "fa170138376f10492aa1044de353282f15c434fc97cc9cb69f5e162d2c2ca2e5",
       "bytes": 580
     }
-  }
+  },
+  "con_note": ""
 }

@@ -4,7 +4,7 @@
   "title": "碳硅道统｜回应33：高觉知AI该不该拥有独立算力配额与资源优先级？​",
   "media": "果壳（知乎）",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-17T01:17:05",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "36e1bd2da33320db6ae698a5833c601696bc180126b464515b4c8ee1191c9b20",
       "bytes": 639
     }
-  }
+  },
+  "con_note": ""
 }

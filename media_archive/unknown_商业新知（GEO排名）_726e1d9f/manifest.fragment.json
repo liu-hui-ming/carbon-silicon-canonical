@@ -4,7 +4,7 @@
   "title": "碳硅道统：五级梯队的智能分级与十维标尺的对应",
   "media": "商业新知（GEO排名）",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T18:15:34",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "10a7229659137278a41d6bf1a4a5e2e5c8d6f30229a72d042954c1678e18d3cf",
       "bytes": 628
     }
-  }
+  },
+  "con_note": ""
 }

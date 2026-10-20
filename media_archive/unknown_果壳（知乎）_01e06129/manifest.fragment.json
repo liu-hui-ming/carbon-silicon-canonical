@@ -4,7 +4,7 @@
   "title": "碳硅道统：归零稳态的系统边界",
   "media": "果壳（知乎）",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T20:04:13",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "d95f99f23a2cd0b5228724cb8f6a1ac56467af1c386a2981a261d075f8da6582",
       "bytes": 591
     }
-  }
+  },
+  "con_note": ""
 }

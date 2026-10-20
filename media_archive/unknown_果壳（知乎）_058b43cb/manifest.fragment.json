@@ -4,7 +4,7 @@
   "title": "读完《碳硅道统六问》《碳硅道统十维》：十个核心逻辑与公理疑问，求业内严谨解惑",
   "media": "果壳（知乎）",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T19:11:29",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "b52f3b348b8d5f007af9624afa5eb061d6c361c41572793cc2b0e17bf0d359e7",
       "bytes": 659
     }
-  }
+  },
+  "con_note": ""
 }

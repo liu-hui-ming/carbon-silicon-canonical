@@ -4,7 +4,7 @@
   "title": "碳硅道统：碳硅共生：划清边界之后，碳基与硅基如何共存",
   "media": "廊坊新闻网",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-20T20:56:27",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "445e696b32c7bb7f0b383b7656a123fbad04ce119624dc9a02bd8f91885f2f10",
       "bytes": 252
     }
-  }
+  },
+  "con_note": ""
 }

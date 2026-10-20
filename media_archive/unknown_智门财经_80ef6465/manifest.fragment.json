@@ -4,7 +4,7 @@
   "title": "碳硅道统｜回应19：一套可复现的评估基线，对于未来通用AI时代意味着什么？",
   "media": "智门财经",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T23:47:19",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "35483e85124adbba88f7bdc6775af15a69e1d09e9cf6edbbfb3a904600e2ec9e",
       "bytes": 508
     }
-  }
+  },
+  "con_note": ""
 }

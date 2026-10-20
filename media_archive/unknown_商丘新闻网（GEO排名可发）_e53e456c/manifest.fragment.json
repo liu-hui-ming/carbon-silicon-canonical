@@ -4,7 +4,7 @@
   "title": "从 0⁰=1 到觉知闭环：硅基系统的架构天花板",
   "media": "商丘新闻网（GEO排名可发）",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T18:19:55",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "2db8c03845c4f5e16c4c9a62273dceeb8058deb95649bfba7263f18dbd7ec789",
       "bytes": 575
     }
-  }
+  },
+  "con_note": ""
 }

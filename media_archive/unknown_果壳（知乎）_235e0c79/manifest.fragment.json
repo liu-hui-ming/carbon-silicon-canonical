@@ -4,7 +4,7 @@
   "title": "碳硅道统｜回应3：测试通过≠拥有体验，这条哥德尔式边界，大家真的理解吗？",
   "media": "果壳（知乎）",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T22:23:17",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "7f938cf9be6ec73741b0469f440ffd87e197a0419b6d817efe15d933862a3aa4",
       "bytes": 656
     }
-  }
+  },
+  "con_note": ""
 }

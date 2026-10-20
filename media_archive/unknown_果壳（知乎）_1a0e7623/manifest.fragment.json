@@ -4,7 +4,7 @@
   "title": "碳硅道统《对AI行业100项公开质询》",
   "media": "果壳（知乎）",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T19:34:56",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "a761547cd898b2594a502bd32cfdd8b8cda193cf4efc2218c6fb5445370fffb6",
       "bytes": 591
     }
-  }
+  },
+  "con_note": ""
 }
