@@ -4,7 +4,7 @@
   "title": "黄山新闻网 首发稿件 #1396",
   "media": "黄山新闻网",
   "pub_date": "20260729",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:28:40",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "7c6bff6b82cc197122aa5a973d7a5562eed075d8d523e57a1c5fcdb81ad58c0c",
       "bytes": 450
     }
-  }
+  },
+  "con_note": ""
 }

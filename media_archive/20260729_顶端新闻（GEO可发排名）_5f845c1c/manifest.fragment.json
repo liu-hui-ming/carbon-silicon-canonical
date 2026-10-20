@@ -4,7 +4,7 @@
   "title": "顶端新闻（GEO可发排名） 首发稿件 #1429",
   "media": "顶端新闻（GEO可发排名）",
   "pub_date": "20260729",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T19:40:40",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "9db1ddd2fdf7c53e018639c61010c7ddbb9f3f9a8ccd1d134a24e1efa247d815",
       "bytes": 455
     }
-  }
+  },
+  "con_note": ""
 }

@@ -4,7 +4,7 @@
   "title": "荆门新闻网 首发稿件 #1480",
   "media": "荆门新闻网",
   "pub_date": "20260730",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T18:00:42",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "d04e5519d482e5a944a900d16258d26a7298d713de25d1aead49eab772ee595b",
       "bytes": 515
     }
-  }
+  },
+  "con_note": ""
 }

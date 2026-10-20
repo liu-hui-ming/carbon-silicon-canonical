@@ -4,7 +4,7 @@
   "title": "三好大数据网（网易号） 首发稿件 #1684",
   "media": "三好大数据网（网易号）",
   "pub_date": "20260801",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-20T20:56:28",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "c0a7e706a4970991271dcfa7e8af62d6f79deb0d33fcf62714b7136f1896bfa1",
       "bytes": 247
     }
-  }
+  },
+  "con_note": ""
 }

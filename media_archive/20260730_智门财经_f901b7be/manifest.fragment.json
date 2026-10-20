@@ -4,7 +4,7 @@
   "title": "智门财经 首发稿件 #1500",
   "media": "智门财经",
   "pub_date": "20260730",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T02:51:54",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "c1c1eb82d2cc77bc92d35d3ab9af2f974d5be5cbf5276fcb5304587a94d84f48",
       "bytes": 430
     }
-  }
+  },
+  "con_note": ""
 }
