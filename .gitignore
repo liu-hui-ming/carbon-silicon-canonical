@@ -10,4 +10,8 @@ _tmp_*.log
 _tmp_*.txt
 _tmp_*.py
 
+# Domestic IP staging copies (merged into media_archive/ before push)
+media-evidence-ledger/recapture-domestic-ip-20261019/media_archive_partA/
+media-evidence-ledger/recapture-domestic-ip-20261019/media_archive_partB/
+
 .DS_Store
