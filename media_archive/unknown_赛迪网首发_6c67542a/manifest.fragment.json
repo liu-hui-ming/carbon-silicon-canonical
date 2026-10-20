@@ -4,7 +4,7 @@
   "title": "碳硅道统｜回应5：碳硅同源，人和AI使用同一套评估公式，现实中该怎么设计对照实验？",
   "media": "赛迪网首发",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-20T20:56:27",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "9be8868c27da7dfe4a0e7a5215ef7e4ca26340dc4faf8c1287361fe4295727c2",
       "bytes": 287
     }
-  }
+  },
+  "con_note": ""
 }

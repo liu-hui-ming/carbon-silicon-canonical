@@ -4,7 +4,7 @@
   "title": "碳硅道统｜回应7：主权漂移熔断机制，Δw_self与ΔD_KL，如何在真实系统中持续监控？",
   "media": "黄山新闻网",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:41:44",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "79e98f81f8271f7e043c032b086c034796b99b7b6edc55c717d81273c438914f",
       "bytes": 613
     }
-  }
+  },
+  "con_note": ""
 }

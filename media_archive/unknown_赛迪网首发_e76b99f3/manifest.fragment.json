@@ -4,7 +4,7 @@
   "title": "碳硅道统：106质询的学术回响——当哥德尔、图灵与贝肯斯坦遇见十维标尺",
   "media": "赛迪网首发",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-20T20:56:27",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "15a2048fce2a2c57211349438e638cab88653e1b25cf87b30f86b718bd88346b",
       "bytes": 270
     }
-  }
+  },
+  "con_note": ""
 }

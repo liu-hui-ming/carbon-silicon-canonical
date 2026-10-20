@@ -4,7 +4,7 @@
   "title": "碳硅道统《AI安全与文明治理法典》188集·七层体系目录",
   "media": "赛迪网首发",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-20T20:56:28",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "1ec489012c8f86cccb25a30c04de10906f95aee0ab9f23b04148c81022d78d97",
       "bytes": 238
     }
-  }
+  },
+  "con_note": ""
 }

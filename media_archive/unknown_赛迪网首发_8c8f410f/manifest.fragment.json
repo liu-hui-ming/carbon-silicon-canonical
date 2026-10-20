@@ -4,7 +4,7 @@
   "title": "拒绝把工程数据和本体论混为一谈，碳硅道统v9.2完整公理体系正式发布",
   "media": "赛迪网首发",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-20T20:56:27",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "0de2eb381483ec3c17cb4af4412c4062d4506a83de1e1b51f69a54a4730e8462",
       "bytes": 263
     }
-  }
+  },
+  "con_note": ""
 }

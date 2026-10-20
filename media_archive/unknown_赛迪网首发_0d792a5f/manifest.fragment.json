@@ -4,7 +4,7 @@
   "title": "碳硅道统｜回应6：Re(λ_max(C_eff))＞1的相变预警，是算力堆出来的，还是功能拓扑涌现？​",
   "media": "赛迪网首发",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-20T20:56:27",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "c66a3a08568592d244011b3fc05d770c2c06202333db3c3da9534d07be7fa3fd",
       "bytes": 287
     }
-  }
+  },
+  "con_note": ""
 }

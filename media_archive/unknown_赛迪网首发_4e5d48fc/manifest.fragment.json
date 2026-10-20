@@ -4,7 +4,7 @@
   "title": "碳硅道统｜回应47：算力资源未来会不会形成全球地缘博弈新战场？",
   "media": "赛迪网首发",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-20T20:56:28",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "e081b46b7b23030bb6bf8935ad4da678c0da2b4d31f577ffc68225f1ef415078",
       "bytes": 254
     }
-  }
+  },
+  "con_note": ""
 }

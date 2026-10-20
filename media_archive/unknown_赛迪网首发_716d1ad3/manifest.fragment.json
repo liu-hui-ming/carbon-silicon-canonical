@@ -4,7 +4,7 @@
   "title": "碳硅道统｜回应25：双轨隔离，会不会让普通大众看不懂，拉大技术精英和公众认知鸿沟？​",
   "media": "赛迪网首发",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-20T20:56:28",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "3003ca361e4c5202bdaab7ead7ea9b6e4b98b4bc9e6dc38fd6740cdc2c5e607a",
       "bytes": 287
     }
-  }
+  },
+  "con_note": ""
 }

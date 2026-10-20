@@ -4,7 +4,7 @@
   "title": "碳硅道统：中层拟合域的现实回响",
   "media": "赛迪网首发",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-20T20:56:27",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "1321319d61316e43e5a93707eaacf29abcaf2afc1f86cb8b4356c03290719d56",
       "bytes": 216
     }
-  }
+  },
+  "con_note": ""
 }

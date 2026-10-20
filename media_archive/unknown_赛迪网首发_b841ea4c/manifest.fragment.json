@@ -4,7 +4,7 @@
   "title": "碳硅道统050.5公理母本正式定稿：国内首个碳硅共生体系宪制级基线发布",
   "media": "赛迪网首发",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-20T20:56:28",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "71610fbc1b4c88b6e32f3262063ae8b6efc084b388dacd09e359727a935c4e9f",
       "bytes": 260
     }
-  }
+  },
+  "con_note": ""
 }

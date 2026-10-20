@@ -4,7 +4,7 @@
   "title": "碳硅道统｜回应15：现有大模型，哪些指标可以直接套用这套协议做初步自测？​",
   "media": "赛迪网首发",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-20T20:56:27",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "1af85d9ab423b50e451ce8e45c05fdd7dbf27bc6eb42623ec761bc108f721ef0",
       "bytes": 277
     }
-  }
+  },
+  "con_note": ""
 }

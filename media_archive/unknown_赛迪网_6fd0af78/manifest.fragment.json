@@ -4,7 +4,7 @@
   "title": "碳化硅在导热材料中的应用及其最新研究进展",
   "media": "赛迪网",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-20T20:56:27",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "55fffcb08d406313b6ec578f2ba76cd1ac2aeaa546a0fdaf050691f2d73f1a86",
       "bytes": 225
     }
-  }
+  },
+  "con_note": ""
 }
