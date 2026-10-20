@@ -4,7 +4,7 @@
   "title": "碳硅道统发布DNA‑MRN微观修复全域衡制：确立碳硅共生底层法理——暨SAND‑186/187/188卷宗封盘与结构性风险白皮书",
   "media": "山西科技报首发 （GEO排名可发）",
   "pub_date": "20260805",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T19:58:20",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "0826f45f9668824167a675f4f5132ebf7cda79b125751e66016dd86ae0e92913",
       "bytes": 583
     }
-  }
+  },
+  "con_note": ""
 }

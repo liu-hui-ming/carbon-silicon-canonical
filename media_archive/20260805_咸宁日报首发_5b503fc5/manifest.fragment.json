@@ -4,7 +4,7 @@
   "title": "502 Bad Gateway",
   "media": "咸宁日报首发",
   "pub_date": "20260805",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T06:52:16",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "a4f67a64ac85f047618ca70ff843d158645256fa786bbb0038d2b232ee0dac8c",
       "bytes": 492
     }
-  }
+  },
+  "con_note": ""
 }

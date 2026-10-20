@@ -4,7 +4,7 @@
   "title": "提示信息",
   "media": "衡阳新闻网（GEO可发排名）",
   "pub_date": "20260805",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T18:28:20",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "70eed6988f610c557c1904f39d266b223757b5a2627a9d6a60bc01fb5e3c636b",
       "bytes": 377
     }
-  }
+  },
+  "con_note": ""
 }
