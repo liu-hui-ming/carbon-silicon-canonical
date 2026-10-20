@@ -4,7 +4,7 @@
   "title": "AI十八撞16｜AI技术信息不对称：能力夸大传播乱象形成的本源",
   "media": "黄山新闻网",
   "pub_date": "20260808",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:34:03",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "8d8c3cddb007e0b6c5b5853d65bd5c398ba3148e4786f1d15d119b0aa3b6ce02",
       "bytes": 544
     }
-  }
+  },
+  "con_note": ""
 }

@@ -4,7 +4,7 @@
   "title": "AI十八撞05｜硅基内生探索驱动力空白：智能运行依附外源指令的本源",
   "media": "黄山新闻网",
   "pub_date": "20260808",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:33:55",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "c552a1d5cfb0ed909d65de232a34245002bb55df07c6cdcb594a15ae033a2f97",
       "bytes": 564
     }
-  }
+  },
+  "con_note": ""
 }

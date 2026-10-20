@@ -4,7 +4,7 @@
   "title": "AI十八撞16｜AI技术信息不对称：能力夸大传播乱象形成的本源",
   "media": "网易商业（GEO）",
   "pub_date": "20260808",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T12:25:03",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "6f007b5baa514ae1582d404dd1f92242dddb93105a0b6ac9e6ea195882dd662f",
       "bytes": 18329
     }
-  }
+  },
+  "con_note": ""
 }

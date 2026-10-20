@@ -4,7 +4,7 @@
   "title": "AI十八撞04｜无创脑机传输信噪比损耗：深层神经采集存在物理极限的本源",
   "media": "黄山新闻网",
   "pub_date": "20260808",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:33:17",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "c206d2659fbcc18d3a22c59a5da6611dd28994f5c2201e34e9808e1fb783dd07",
       "bytes": 576
     }
-  }
+  },
+  "con_note": ""
 }

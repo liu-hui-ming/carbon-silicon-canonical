@@ -4,7 +4,7 @@
   "title": "AI十八撞14｜大模型架构内禀熵增：缺陷优化存在不可突破下限的本源",
   "media": "黄山新闻网",
   "pub_date": "20260808",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:33:36",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "ed41b89e51707ee2601fd70ed6e259d31d908c2938970d9e900c31db2057839a",
       "bytes": 564
     }
-  }
+  },
+  "con_note": ""
 }

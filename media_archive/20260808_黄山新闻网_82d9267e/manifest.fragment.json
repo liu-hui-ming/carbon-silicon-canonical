@@ -4,7 +4,7 @@
   "title": "AI十八撞07｜采样温度参数浮动：输出一致性与创造性无法双优的本源",
   "media": "黄山新闻网",
   "pub_date": "20260808",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:33:30",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "8e3de877f2abeb978aea606b8ef31e82f4ecee4921ca2ba0f25be12f9952f691",
       "bytes": 564
     }
-  }
+  },
+  "con_note": ""
 }
