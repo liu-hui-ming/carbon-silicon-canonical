@@ -1,0 +1,1114 @@
+{
+  "ingested": [
+    {
+      "src": "20250321_赛迪网首发_8d315714",
+      "target": "unknown_赛迪网首发_8d315714",
+      "url": "https://www.ccidnet.com/zn/105092.jhtml",
+      "folder": "unknown_赛迪网首发_8d315714",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260703_光明教育家_4ccd6128",
+      "target": "20260706_光明教育家_4ccd6128",
+      "url": "https://xst.olomobi.com/#/share-dynamic?dynamicId=15981&sid=7571028",
+      "folder": "20260706_光明教育家_4ccd6128",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260706_海峡新闻网_af9c095b",
+      "target": "20260708_海峡新闻网_af9c095b",
+      "url": "http://hxxw.ningxia-sc.cn/shenghuo/11572153.html",
+      "folder": "20260708_海峡新闻网_af9c095b",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260708_海峡新闻网_992c4ef8",
+      "target": "20260709_海峡新闻网_992c4ef8",
+      "url": "http://hxxw.ningxia-sc.cn/keji/11594603.html",
+      "folder": "20260709_海峡新闻网_992c4ef8",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260713_最红安（GEO排名可发）_fa60f39c",
+      "target": "20260709_最红安（GEO排名可发）_fa60f39c",
+      "url": "https://app.honganrmt.com/m.web/aaj-app/#/pages/news-detail/news-detail/?module_name=新闻详情&news_id=9619",
+      "folder": "20260709_最红安（GEO排名可发）_fa60f39c",
+      "access": "OK",
+      "con_note": "国内IP人工重采（Mac/无头侦察PNG，待P0复核）",
+      "captured_at": "2026-10-20T12:00:00"
+    },
+    {
+      "src": "20260823_赛迪网_6fd0af78",
+      "target": "unknown_赛迪网_6fd0af78",
+      "url": "https://www.ccidnet.com/cpfwyjs/1123768.jhtml",
+      "folder": "unknown_赛迪网_6fd0af78",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260902_赛迪网首发_2fa323f9",
+      "target": "unknown_赛迪网首发_2fa323f9",
+      "url": "https://www.ccidnet.com/cpfwyjs/1125323.jhtml",
+      "folder": "unknown_赛迪网首发_2fa323f9",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260903_赛迪网首发_45a3d2dd",
+      "target": "unknown_赛迪网首发_45a3d2dd",
+      "url": "https://www.ccidnet.com/cpfwyjs/1125434.jhtml",
+      "folder": "unknown_赛迪网首发_45a3d2dd",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260903_赛迪网首发_cfdfe886",
+      "target": "unknown_赛迪网首发_cfdfe886",
+      "url": "https://www.ccidnet.com/szzxysy/1018005.jhtml",
+      "folder": "unknown_赛迪网首发_cfdfe886",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260909_赛迪网首发_0659b6ef",
+      "target": "unknown_赛迪网首发_0659b6ef",
+      "url": "https://www.ccidnet.com/cpfwyjs/1125984.jhtml",
+      "folder": "unknown_赛迪网首发_0659b6ef",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260909_赛迪网首发_8fb1c8bb",
+      "target": "unknown_赛迪网首发_8fb1c8bb",
+      "url": "https://www.ccidnet.com/cpfwyjs/1125985.jhtml",
+      "folder": "unknown_赛迪网首发_8fb1c8bb",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260909_赛迪网首发_a4fd70d5",
+      "target": "unknown_赛迪网首发_a4fd70d5",
+      "url": "https://www.ccidnet.com/cpfwyjs/1125993.jhtml",
+      "folder": "unknown_赛迪网首发_a4fd70d5",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260910_廊坊新闻网_2431d886",
+      "target": "unknown_廊坊新闻网_2431d886",
+      "url": "https://www.lfnews.cn/portal.php?mod=view&aid=127169",
+      "folder": "unknown_廊坊新闻网_2431d886",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260910_廊坊新闻网_316a52e2",
+      "target": "unknown_廊坊新闻网_316a52e2",
+      "url": "https://www.lfnews.cn/portal.php?mod=view&aid=127166",
+      "folder": "unknown_廊坊新闻网_316a52e2",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260910_廊坊新闻网_a57c1651",
+      "target": "unknown_廊坊新闻网_a57c1651",
+      "url": "https://www.lfnews.cn/portal.php?mod=view&aid=127168",
+      "folder": "unknown_廊坊新闻网_a57c1651",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260914_赛迪网首发_0abd41ad",
+      "target": "unknown_赛迪网首发_0abd41ad",
+      "url": "https://www.ccidnet.com/cpfwyjs/1015122.jhtml",
+      "folder": "unknown_赛迪网首发_0abd41ad",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260914_赛迪网首发_0b979f52",
+      "target": "unknown_赛迪网首发_0b979f52",
+      "url": "https://www.ccidnet.com/cpfwyjs/104491.jhtml",
+      "folder": "unknown_赛迪网首发_0b979f52",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260914_赛迪网首发_135f72ca",
+      "target": "unknown_赛迪网首发_135f72ca",
+      "url": "https://www.ccidnet.com/cpfwyjs/1014758.jhtml",
+      "folder": "unknown_赛迪网首发_135f72ca",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260914_赛迪网首发_32aca112",
+      "target": "unknown_赛迪网首发_32aca112",
+      "url": "https://www.ccidnet.com/cpfwyjs/1016190.jhtml",
+      "folder": "unknown_赛迪网首发_32aca112",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260914_赛迪网首发_61dc9ce3",
+      "target": "unknown_赛迪网首发_61dc9ce3",
+      "url": "https://www.ccidnet.com/cpfwyjs/1016403.jhtml",
+      "folder": "unknown_赛迪网首发_61dc9ce3",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260914_赛迪网首发_906f3b4d",
+      "target": "unknown_赛迪网首发_906f3b4d",
+      "url": "https://www.ccidnet.com/cpfwyjs/1016276.jhtml",
+      "folder": "unknown_赛迪网首发_906f3b4d",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260914_赛迪网首发_a2a88bcc",
+      "target": "unknown_赛迪网首发_a2a88bcc",
+      "url": "https://www.ccidnet.com/cpfwyjs/1016120.jhtml",
+      "folder": "unknown_赛迪网首发_a2a88bcc",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260914_赛迪网首发_e76b99f3",
+      "target": "unknown_赛迪网首发_e76b99f3",
+      "url": "https://www.ccidnet.com/cpfwyjs/1016119.jhtml",
+      "folder": "unknown_赛迪网首发_e76b99f3",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260914_赛迪网首发_f8ba257e",
+      "target": "unknown_赛迪网首发_f8ba257e",
+      "url": "https://www.ccidnet.com/cpfwyjs/1014990.jhtml",
+      "folder": "unknown_赛迪网首发_f8ba257e",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260915_赛迪网首发_4209f399",
+      "target": "unknown_赛迪网首发_4209f399",
+      "url": "https://www.ccidnet.com/cpfwyjs/90812.jhtml",
+      "folder": "unknown_赛迪网首发_4209f399",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260916_廊坊新闻网_18f62041",
+      "target": "unknown_廊坊新闻网_18f62041",
+      "url": "https://www.lfnews.cn/portal.php?mod=view&aid=128898",
+      "folder": "unknown_廊坊新闻网_18f62041",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260916_廊坊新闻网_2ee2b9ea",
+      "target": "unknown_廊坊新闻网_2ee2b9ea",
+      "url": "https://www.lfnews.cn/portal.php?mod=view&aid=128913",
+      "folder": "unknown_廊坊新闻网_2ee2b9ea",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260916_廊坊新闻网_613355ed",
+      "target": "unknown_廊坊新闻网_613355ed",
+      "url": "https://lfnews.cn/portal.php?mod=view&aid=128917",
+      "folder": "unknown_廊坊新闻网_613355ed",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260916_廊坊新闻网_9c8d7e92",
+      "target": "unknown_廊坊新闻网_9c8d7e92",
+      "url": "https://www.lfnews.cn/portal.php?mod=view&aid=128903",
+      "folder": "unknown_廊坊新闻网_9c8d7e92",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260916_廊坊新闻网_b99d1ca7",
+      "target": "unknown_廊坊新闻网_b99d1ca7",
+      "url": "https://www.lfnews.cn/portal.php?mod=view&aid=128915",
+      "folder": "unknown_廊坊新闻网_b99d1ca7",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260916_廊坊新闻网_c276432f",
+      "target": "unknown_廊坊新闻网_c276432f",
+      "url": "https://lfnews.cn/portal.php?mod=view&aid=128916",
+      "folder": "unknown_廊坊新闻网_c276432f",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260917_赛迪网首发_8eeac567",
+      "target": "unknown_赛迪网首发_8eeac567",
+      "url": "https://www.ccidnet.com/cpfwyjs/1126638.jhtml",
+      "folder": "unknown_赛迪网首发_8eeac567",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260918_廊坊新闻网_52851dbf",
+      "target": "unknown_廊坊新闻网_52851dbf",
+      "url": "https://www.lfnews.cn/portal.php?mod=view&aid=129511",
+      "folder": "unknown_廊坊新闻网_52851dbf",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260918_廊坊新闻网_f32e4207",
+      "target": "unknown_廊坊新闻网_f32e4207",
+      "url": "https://www.lfnews.cn/portal.php?mod=view&aid=129634",
+      "folder": "unknown_廊坊新闻网_f32e4207",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260918_赛迪网首发_784a14c7",
+      "target": "unknown_赛迪网首发_784a14c7",
+      "url": "https://www.ccidnet.com/cpfwyjs/90670.jhtml",
+      "folder": "unknown_赛迪网首发_784a14c7",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260918_赛迪网首发_8c8f410f",
+      "target": "unknown_赛迪网首发_8c8f410f",
+      "url": "https://www.ccidnet.com/cpfwyjs/95336.jhtml",
+      "folder": "unknown_赛迪网首发_8c8f410f",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260920_廊坊新闻网_044f328f",
+      "target": "unknown_廊坊新闻网_044f328f",
+      "url": "https://www.lfnews.cn/portal.php?mod=view&aid=129840",
+      "folder": "unknown_廊坊新闻网_044f328f",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260920_廊坊新闻网_10de6d7a",
+      "target": "unknown_廊坊新闻网_10de6d7a",
+      "url": "https://www.lfnews.cn/portal.php?mod=view&aid=129841",
+      "folder": "unknown_廊坊新闻网_10de6d7a",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260920_廊坊新闻网_14fc3ef2",
+      "target": "unknown_廊坊新闻网_14fc3ef2",
+      "url": "https://www.lfnews.cn/portal.php?mod=view&aid=129842",
+      "folder": "unknown_廊坊新闻网_14fc3ef2",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260920_廊坊新闻网_1c1ea470",
+      "target": "unknown_廊坊新闻网_1c1ea470",
+      "url": "https://www.lfnews.cn/portal.php?mod=view&aid=129854",
+      "folder": "unknown_廊坊新闻网_1c1ea470",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260920_廊坊新闻网_1c82d086",
+      "target": "unknown_廊坊新闻网_1c82d086",
+      "url": "https://www.lfnews.cn/portal.php?mod=view&aid=129853",
+      "folder": "unknown_廊坊新闻网_1c82d086",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260920_廊坊新闻网_40198a6b",
+      "target": "unknown_廊坊新闻网_40198a6b",
+      "url": "https://www.lfnews.cn/portal.php?mod=view&aid=129844",
+      "folder": "unknown_廊坊新闻网_40198a6b",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260920_廊坊新闻网_5dbd40ab",
+      "target": "unknown_廊坊新闻网_5dbd40ab",
+      "url": "https://www.lfnews.cn/portal.php?mod=view&aid=129851",
+      "folder": "unknown_廊坊新闻网_5dbd40ab",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260920_廊坊新闻网_5e3af145",
+      "target": "unknown_廊坊新闻网_5e3af145",
+      "url": "https://www.lfnews.cn/portal.php?mod=view&aid=129837",
+      "folder": "unknown_廊坊新闻网_5e3af145",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260920_廊坊新闻网_639c56cf",
+      "target": "unknown_廊坊新闻网_639c56cf",
+      "url": "https://www.lfnews.cn/portal.php?mod=view&aid=129838",
+      "folder": "unknown_廊坊新闻网_639c56cf",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260920_廊坊新闻网_683cffe6",
+      "target": "unknown_廊坊新闻网_683cffe6",
+      "url": "https://www.lfnews.cn/portal.php?mod=view&aid=129847",
+      "folder": "unknown_廊坊新闻网_683cffe6",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260920_廊坊新闻网_6ee61dbb",
+      "target": "unknown_廊坊新闻网_6ee61dbb",
+      "url": "https://www.lfnews.cn/portal.php?mod=view&aid=129850",
+      "folder": "unknown_廊坊新闻网_6ee61dbb",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260920_廊坊新闻网_77e3b18b",
+      "target": "unknown_廊坊新闻网_77e3b18b",
+      "url": "https://www.lfnews.cn/portal.php?mod=view&aid=129855",
+      "folder": "unknown_廊坊新闻网_77e3b18b",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260920_廊坊新闻网_84bcdf55",
+      "target": "unknown_廊坊新闻网_84bcdf55",
+      "url": "https://www.lfnews.cn/portal.php?mod=view&aid=129852",
+      "folder": "unknown_廊坊新闻网_84bcdf55",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260920_廊坊新闻网_8edcd513",
+      "target": "unknown_廊坊新闻网_8edcd513",
+      "url": "https://www.lfnews.cn/portal.php?mod=view&aid=129845",
+      "folder": "unknown_廊坊新闻网_8edcd513",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260920_廊坊新闻网_885250d9",
+      "target": "unknown_廊坊新闻网_885250d9",
+      "url": "https://www.lfnews.cn/portal.php?mod=view&aid=129839",
+      "folder": "unknown_廊坊新闻网_885250d9",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260920_廊坊新闻网_c3cb0b63",
+      "target": "unknown_廊坊新闻网_c3cb0b63",
+      "url": "https://www.lfnews.cn/portal.php?mod=view&aid=129849",
+      "folder": "unknown_廊坊新闻网_c3cb0b63",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260920_廊坊新闻网_c99913a8",
+      "target": "unknown_廊坊新闻网_c99913a8",
+      "url": "https://www.lfnews.cn/portal.php?mod=view&aid=129846",
+      "folder": "unknown_廊坊新闻网_c99913a8",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260920_廊坊新闻网_dbfe25c3",
+      "target": "unknown_廊坊新闻网_dbfe25c3",
+      "url": "https://www.lfnews.cn/portal.php?mod=view&aid=129856",
+      "folder": "unknown_廊坊新闻网_dbfe25c3",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260920_廊坊新闻网_df6d669b",
+      "target": "unknown_廊坊新闻网_df6d669b",
+      "url": "https://www.lfnews.cn/portal.php?mod=view&aid=129843",
+      "folder": "unknown_廊坊新闻网_df6d669b",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260920_赛迪网首发_0604fceb",
+      "target": "unknown_赛迪网首发_0604fceb",
+      "url": "https://www.ccidnet.com/cpfwyjs/101546.jhtml",
+      "folder": "unknown_赛迪网首发_0604fceb",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260920_赛迪网首发_0a2a209b",
+      "target": "unknown_赛迪网首发_0a2a209b",
+      "url": "https://www.ccidnet.com/cpfwyjs/101374.jhtml",
+      "folder": "unknown_赛迪网首发_0a2a209b",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260920_赛迪网首发_0d792a5f",
+      "target": "unknown_赛迪网首发_0d792a5f",
+      "url": "https://www.ccidnet.com/cpfwyjs/98189.jhtml",
+      "folder": "unknown_赛迪网首发_0d792a5f",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260920_赛迪网首发_2635cb06",
+      "target": "unknown_赛迪网首发_2635cb06",
+      "url": "https://www.ccidnet.com/cpfwyjs/104219.jhtml",
+      "folder": "unknown_赛迪网首发_2635cb06",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260920_赛迪网首发_2963a426",
+      "target": "unknown_赛迪网首发_2963a426",
+      "url": "https://www.ccidnet.com/cpfwyjs/98385.jhtml",
+      "folder": "unknown_赛迪网首发_2963a426",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260920_赛迪网首发_31c20feb",
+      "target": "unknown_赛迪网首发_31c20feb",
+      "url": "https://www.ccidnet.com/cpfwyjs/103960.jhtml",
+      "folder": "unknown_赛迪网首发_31c20feb",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260920_赛迪网首发_4025befc",
+      "target": "unknown_赛迪网首发_4025befc",
+      "url": "https://www.ccidnet.com/cpfwyjs/103358.jhtml",
+      "folder": "unknown_赛迪网首发_4025befc",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260920_赛迪网首发_498e5fcf",
+      "target": "unknown_赛迪网首发_498e5fcf",
+      "url": "https://www.ccidnet.com/cpfwyjs/101869.jhtml",
+      "folder": "unknown_赛迪网首发_498e5fcf",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260920_赛迪网首发_531d2fde",
+      "target": "unknown_赛迪网首发_531d2fde",
+      "url": "https://www.ccidnet.com/cpfwyjs/103997.jhtml",
+      "folder": "unknown_赛迪网首发_531d2fde",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260920_赛迪网首发_5ae21f8d",
+      "target": "unknown_赛迪网首发_5ae21f8d",
+      "url": "https://www.ccidnet.com/cpfwyjs/101935.jhtml",
+      "folder": "unknown_赛迪网首发_5ae21f8d",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260920_赛迪网首发_6c67542a",
+      "target": "unknown_赛迪网首发_6c67542a",
+      "url": "https://www.ccidnet.com/cpfwyjs/102014.jhtml",
+      "folder": "unknown_赛迪网首发_6c67542a",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260920_赛迪网首发_72b486dd",
+      "target": "unknown_赛迪网首发_72b486dd",
+      "url": "https://www.ccidnet.com/cpfwyjs/103839.jhtml",
+      "folder": "unknown_赛迪网首发_72b486dd",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260920_赛迪网首发_9776048d",
+      "target": "unknown_赛迪网首发_9776048d",
+      "url": "https://www.ccidnet.com/cpfwyjs/98230.jhtml",
+      "folder": "unknown_赛迪网首发_9776048d",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260920_赛迪网首发_a0d99d88",
+      "target": "unknown_赛迪网首发_a0d99d88",
+      "url": "https://www.ccidnet.com/cpfwyjs/103888.jhtml",
+      "folder": "unknown_赛迪网首发_a0d99d88",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260920_赛迪网首发_a36ce005",
+      "target": "unknown_赛迪网首发_a36ce005",
+      "url": "https://www.ccidnet.com/cpfwyjs/104510.jhtml",
+      "folder": "unknown_赛迪网首发_a36ce005",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260920_赛迪网首发_c1b84ff0",
+      "target": "unknown_赛迪网首发_c1b84ff0",
+      "url": "https://www.ccidnet.com/cpfwyjs/104324.jhtml",
+      "folder": "unknown_赛迪网首发_c1b84ff0",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260920_赛迪网首发_c7b391e1",
+      "target": "unknown_赛迪网首发_c7b391e1",
+      "url": "https://www.ccidnet.com/cpfwyjs/103566.jhtml",
+      "folder": "unknown_赛迪网首发_c7b391e1",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260920_赛迪网首发_fb06239a",
+      "target": "unknown_赛迪网首发_fb06239a",
+      "url": "https://www.ccidnet.com/cpfwyjs/104435.jhtml",
+      "folder": "unknown_赛迪网首发_fb06239a",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260920_赛迪网首发_fee2b1e5",
+      "target": "unknown_赛迪网首发_fee2b1e5",
+      "url": "https://www.ccidnet.com/cpfwyjs/103521.jhtml",
+      "folder": "unknown_赛迪网首发_fee2b1e5",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260923_赛迪网首发_044320d8",
+      "target": "unknown_赛迪网首发_044320d8",
+      "url": "https://www.ccidnet.com/zn/105374.jhtml",
+      "folder": "unknown_赛迪网首发_044320d8",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260923_赛迪网首发_07e1d5c1",
+      "target": "unknown_赛迪网首发_07e1d5c1",
+      "url": "https://www.ccidnet.com/zn/105094.jhtml",
+      "folder": "unknown_赛迪网首发_07e1d5c1",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260923_赛迪网首发_0e8d870d",
+      "target": "unknown_赛迪网首发_0e8d870d",
+      "url": "https://www.ccidnet.com/zn/105634.jhtml",
+      "folder": "unknown_赛迪网首发_0e8d870d",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260923_赛迪网首发_11bf887d",
+      "target": "unknown_赛迪网首发_11bf887d",
+      "url": "https://www.ccidnet.com/zn/105430.jhtml",
+      "folder": "unknown_赛迪网首发_11bf887d",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260923_赛迪网首发_183e6812",
+      "target": "unknown_赛迪网首发_183e6812",
+      "url": "https://www.ccidnet.com/zn/104976.jhtml",
+      "folder": "unknown_赛迪网首发_183e6812",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260923_赛迪网首发_302a3d55",
+      "target": "unknown_赛迪网首发_302a3d55",
+      "url": "https://www.ccidnet.com/zn/105371.jhtml",
+      "folder": "unknown_赛迪网首发_302a3d55",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:27"
+    },
+    {
+      "src": "20260923_赛迪网首发_41b5414f",
+      "target": "unknown_赛迪网首发_41b5414f",
+      "url": "https://www.ccidnet.com/zn/105396.jhtml",
+      "folder": "unknown_赛迪网首发_41b5414f",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:28"
+    },
+    {
+      "src": "20260923_赛迪网首发_45d38ccc",
+      "target": "unknown_赛迪网首发_45d38ccc",
+      "url": "https://www.ccidnet.com/zn/105429.jhtml",
+      "folder": "unknown_赛迪网首发_45d38ccc",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:28"
+    },
+    {
+      "src": "20260923_赛迪网首发_4a388c8c",
+      "target": "unknown_赛迪网首发_4a388c8c",
+      "url": "https://www.ccidnet.com/zn/105370.jhtml",
+      "folder": "unknown_赛迪网首发_4a388c8c",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:28"
+    },
+    {
+      "src": "20260923_赛迪网首发_4e5d48fc",
+      "target": "unknown_赛迪网首发_4e5d48fc",
+      "url": "https://www.ccidnet.com/zn/104978.jhtml",
+      "folder": "unknown_赛迪网首发_4e5d48fc",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:28"
+    },
+    {
+      "src": "20260923_赛迪网首发_556ddebd",
+      "target": "unknown_赛迪网首发_556ddebd",
+      "url": "https://www.ccidnet.com/zn/105372.jhtml",
+      "folder": "unknown_赛迪网首发_556ddebd",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:28"
+    },
+    {
+      "src": "20260923_赛迪网首发_57b864da",
+      "target": "unknown_赛迪网首发_57b864da",
+      "url": "https://www.ccidnet.com/zn/105436.jhtml",
+      "folder": "unknown_赛迪网首发_57b864da",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:28"
+    },
+    {
+      "src": "20260923_赛迪网首发_59221d26",
+      "target": "unknown_赛迪网首发_59221d26",
+      "url": "https://www.ccidnet.com/zn/105096.jhtml",
+      "folder": "unknown_赛迪网首发_59221d26",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:28"
+    },
+    {
+      "src": "20260923_赛迪网首发_5da5937e",
+      "target": "unknown_赛迪网首发_5da5937e",
+      "url": "https://www.ccidnet.com/zn/105091.jhtml",
+      "folder": "unknown_赛迪网首发_5da5937e",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:28"
+    },
+    {
+      "src": "20260923_赛迪网首发_5e14ebee",
+      "target": "unknown_赛迪网首发_5e14ebee",
+      "url": "https://www.ccidnet.com/zn/104950.jhtml",
+      "folder": "unknown_赛迪网首发_5e14ebee",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:28"
+    },
+    {
+      "src": "20260923_赛迪网首发_5e9f0e5b",
+      "target": "unknown_赛迪网首发_5e9f0e5b",
+      "url": "https://www.ccidnet.com/zn/105089.jhtml",
+      "folder": "unknown_赛迪网首发_5e9f0e5b",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:28"
+    },
+    {
+      "src": "20260923_赛迪网首发_63930bce",
+      "target": "unknown_赛迪网首发_63930bce",
+      "url": "https://www.ccidnet.com/zn/104951.jhtml",
+      "folder": "unknown_赛迪网首发_63930bce",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:28"
+    },
+    {
+      "src": "20260923_赛迪网首发_6d4d81c3",
+      "target": "unknown_赛迪网首发_6d4d81c3",
+      "url": "https://www.ccidnet.com/zn/105397.jhtml",
+      "folder": "unknown_赛迪网首发_6d4d81c3",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:28"
+    },
+    {
+      "src": "20260923_赛迪网首发_7122f932",
+      "target": "unknown_赛迪网首发_7122f932",
+      "url": "https://www.ccidnet.com/zn/105328.jhtml",
+      "folder": "unknown_赛迪网首发_7122f932",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:28"
+    },
+    {
+      "src": "20260923_赛迪网首发_716d1ad3",
+      "target": "unknown_赛迪网首发_716d1ad3",
+      "url": "https://www.ccidnet.com/zn/105426.jhtml",
+      "folder": "unknown_赛迪网首发_716d1ad3",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:28"
+    },
+    {
+      "src": "20260923_赛迪网首发_81c32d45",
+      "target": "unknown_赛迪网首发_81c32d45",
+      "url": "https://www.ccidnet.com/zn/105628.jhtml",
+      "folder": "unknown_赛迪网首发_81c32d45",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:28"
+    },
+    {
+      "src": "20260923_赛迪网首发_848fb4ef",
+      "target": "unknown_赛迪网首发_848fb4ef",
+      "url": "https://www.ccidnet.com/zn/105095.jhtml",
+      "folder": "unknown_赛迪网首发_848fb4ef",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:28"
+    },
+    {
+      "src": "20260923_赛迪网首发_85fea483",
+      "target": "unknown_赛迪网首发_85fea483",
+      "url": "https://www.ccidnet.com/zn/105427.jhtml",
+      "folder": "unknown_赛迪网首发_85fea483",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:28"
+    },
+    {
+      "src": "20260923_赛迪网首发_8b93705d",
+      "target": "unknown_赛迪网首发_8b93705d",
+      "url": "https://www.ccidnet.com/zn/104952.jhtml",
+      "folder": "unknown_赛迪网首发_8b93705d",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:28"
+    },
+    {
+      "src": "20260923_赛迪网首发_936df62f",
+      "target": "unknown_赛迪网首发_936df62f",
+      "url": "https://www.ccidnet.com/zn/105373.jhtml",
+      "folder": "unknown_赛迪网首发_936df62f",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:28"
+    },
+    {
+      "src": "20260923_赛迪网首发_9fccb10f",
+      "target": "unknown_赛迪网首发_9fccb10f",
+      "url": "https://www.ccidnet.com/zn/105078.jhtml",
+      "folder": "unknown_赛迪网首发_9fccb10f",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:28"
+    },
+    {
+      "src": "20260923_赛迪网首发_a3e62ab8",
+      "target": "unknown_赛迪网首发_a3e62ab8",
+      "url": "https://www.ccidnet.com/zn/105369.jhtml",
+      "folder": "unknown_赛迪网首发_a3e62ab8",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:28"
+    },
+    {
+      "src": "20260923_赛迪网首发_b304e7d9",
+      "target": "unknown_赛迪网首发_b304e7d9",
+      "url": "https://www.ccidnet.com/zn/105090.jhtml",
+      "folder": "unknown_赛迪网首发_b304e7d9",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:28"
+    },
+    {
+      "src": "20260923_赛迪网首发_be4e848d",
+      "target": "unknown_赛迪网首发_be4e848d",
+      "url": "https://www.ccidnet.com/zn/105093.jhtml",
+      "folder": "unknown_赛迪网首发_be4e848d",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:28"
+    },
+    {
+      "src": "20260923_赛迪网首发_edc92d85",
+      "target": "unknown_赛迪网首发_edc92d85",
+      "url": "https://www.ccidnet.com/zn/105428.jhtml",
+      "folder": "unknown_赛迪网首发_edc92d85",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:28"
+    },
+    {
+      "src": "20260928_赛迪网首发_b841ea4c",
+      "target": "unknown_赛迪网首发_b841ea4c",
+      "url": "https://www.ccidnet.com/zn/103596.jhtml",
+      "folder": "unknown_赛迪网首发_b841ea4c",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:28"
+    },
+    {
+      "src": "20260930_赛迪网首发_8e42ceab",
+      "target": "unknown_赛迪网首发_8e42ceab",
+      "url": "https://www.ccidnet.com/zn/102773.jhtml",
+      "folder": "unknown_赛迪网首发_8e42ceab",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:28"
+    },
+    {
+      "src": "20261008_赛迪网首发_164855c2",
+      "target": "20261008_赛迪网首发_164855c2",
+      "url": "https://www.ccidnet.com/zn/99762.jhtml",
+      "folder": "20261008_赛迪网首发_164855c2",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:28"
+    },
+    {
+      "src": "20261008_赛迪网首发_358fc701",
+      "target": "20261008_赛迪网首发_358fc701",
+      "url": "https://www.ccidnet.com/zn/99761.jhtml",
+      "folder": "20261008_赛迪网首发_358fc701",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:28"
+    },
+    {
+      "src": "20261008_赛迪网首发_4a6f64df",
+      "target": "20261008_赛迪网首发_4a6f64df",
+      "url": "https://www.ccidnet.com/zn/99763.jhtml",
+      "folder": "20261008_赛迪网首发_4a6f64df",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:28"
+    },
+    {
+      "src": "20261008_赛迪网首发_53e47f38",
+      "target": "20261008_赛迪网首发_53e47f38",
+      "url": "https://www.ccidnet.com/zn/99738.jhtml",
+      "folder": "20261008_赛迪网首发_53e47f38",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:28"
+    },
+    {
+      "src": "20261008_赛迪网首发_5c09d1ce",
+      "target": "20261008_赛迪网首发_5c09d1ce",
+      "url": "https://www.ccidnet.com/zn/99741.jhtml",
+      "folder": "20261008_赛迪网首发_5c09d1ce",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:28"
+    },
+    {
+      "src": "20261008_赛迪网首发_8abf07f0",
+      "target": "20261008_赛迪网首发_8abf07f0",
+      "url": "https://www.ccidnet.com/zn/99736.jhtml",
+      "folder": "20261008_赛迪网首发_8abf07f0",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:28"
+    },
+    {
+      "src": "20261008_赛迪网首发_ac688af6",
+      "target": "20261008_赛迪网首发_ac688af6",
+      "url": "https://www.ccidnet.com/zn/99739.jhtml",
+      "folder": "20261008_赛迪网首发_ac688af6",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:28"
+    },
+    {
+      "src": "20261008_赛迪网首发_b740aa14",
+      "target": "20261008_赛迪网首发_b740aa14",
+      "url": "https://www.ccidnet.com/zn/99716.jhtml",
+      "folder": "20261008_赛迪网首发_b740aa14",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:28"
+    },
+    {
+      "src": "20261008_赛迪网首发_d2537f6a",
+      "target": "20261008_赛迪网首发_d2537f6a",
+      "url": "https://www.ccidnet.com/zn/99737.jhtml",
+      "folder": "20261008_赛迪网首发_d2537f6a",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:28"
+    },
+    {
+      "src": "20261008_赛迪网首发_d4187cbb",
+      "target": "20261008_赛迪网首发_d4187cbb",
+      "url": "https://www.ccidnet.com/zn/99742.jhtml",
+      "folder": "20261008_赛迪网首发_d4187cbb",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:28"
+    },
+    {
+      "src": "20261008_赛迪网首发_df00e2b8",
+      "target": "20261008_赛迪网首发_df00e2b8",
+      "url": "https://www.ccidnet.com/zn/99740.jhtml",
+      "folder": "20261008_赛迪网首发_df00e2b8",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:28"
+    },
+    {
+      "src": "20261008_赛迪网首发_e55051e6",
+      "target": "20261008_赛迪网首发_e55051e6",
+      "url": "https://www.ccidnet.com/zn/99764.jhtml",
+      "folder": "20261008_赛迪网首发_e55051e6",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:28"
+    },
+    {
+      "src": "unknown_上海讯息点播_4d8b5ad6",
+      "target": "20260721_企业家在线（今日头条）_4d8b5ad6",
+      "url": "https://www.toutiao.com/item/7664897985322516998/",
+      "folder": "20260721_企业家在线（今日头条）_4d8b5ad6",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:28"
+    },
+    {
+      "src": "unknown_咸宁新闻网（全国）_87e8c94b",
+      "target": "20260709_咸宁新闻网（有入口）_87e8c94b",
+      "url": "http://news.xnnews.com.cn/cysx/202607/t20260710_5025915.shtml",
+      "folder": "20260709_咸宁新闻网（有入口）_87e8c94b",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:28"
+    },
+    {
+      "src": "unknown_尚平新闻网_ac992bb6",
+      "target": "20260709_四平新闻网_ac992bb6",
+      "url": "http://www.spxww.com/index.php?m=content&c=index&a=show&catid=4&id=68984",
+      "folder": "20260709_四平新闻网_ac992bb6",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:28"
+    },
+    {
+      "src": "unknown_科技魔方（网易号）_f8a10af8",
+      "target": "20260801_三好大数据网（网易号）_f8a10af8",
+      "url": "http://www.163.com/dy/article/L3DCLKFU0552XWVG.html",
+      "folder": "20260801_三好大数据网（网易号）_f8a10af8",
+      "access": "CON",
+      "con_note": "正文过短或不可读",
+      "captured_at": "2026-10-20T20:56:28"
+    }
+  ],
+  "skipped": [
+    {
+      "src": "20260902_创业邦首发_005c7b29",
+      "reason": "hash8 not in catalog"
+    }
+  ],
+  "errors": [
+    {
+      "src": "unknown_创业家（头条号）_d145a260",
+      "error": "no page_screenshot.png in E:\\carbon-silicon-canonical\\media-evidence-ledger\\recapture-domestic-ip-20261019\\media_archive_partB\\media_archive\\unknown_创业家（头条号）_d145a260"
+    }
+  ]
+}
