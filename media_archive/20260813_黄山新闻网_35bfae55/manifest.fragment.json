@@ -4,7 +4,7 @@
   "title": "碳硅道统舆论对冲补丁：致所有AI狂热者——算力堆得出智能，堆不出生命",
   "media": "黄山新闻网",
   "pub_date": "20260813",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:39:01",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "b64ddd304d4f1b183511be2edb8d048507826d02269f24050681aaf77be9de75",
       "bytes": 578
     }
-  }
+  },
+  "con_note": ""
 }

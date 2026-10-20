@@ -4,7 +4,7 @@
   "title": "碳硅道统AI十八术03｜前置知识库真值校验框架：压缩模型事实幻觉生成概率",
   "media": "黄山新闻网",
   "pub_date": "20260811",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:37:54",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "55fc6e7fbfba123bdda011a05f4472ecf500e1c65f1dcab4cf1f9415711a91b8",
       "bytes": 582
     }
-  }
+  },
+  "con_note": ""
 }

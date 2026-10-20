@@ -4,7 +4,7 @@
   "title": "世界模型与碳硅道统二十四象时序层互补解读",
   "media": "黄山新闻网",
   "pub_date": "20260812",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:38:31",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "394bfcd73e496e714c83a99b00ad6b6c99f1181f7758ba61a3f8f84fcfe10c25",
       "bytes": 502
     }
-  }
+  },
+  "con_note": ""
 }

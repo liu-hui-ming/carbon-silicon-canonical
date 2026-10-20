@@ -4,7 +4,7 @@
   "title": "碳硅道统大众防身术：过度依赖AI易造成思维空心化",
   "media": "黄山新闻网",
   "pub_date": "20260813",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:39:06",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "50a5a7f357d68902ac699b6dab467e3a408244cf32f2ccea36cd405c56b9be62",
       "bytes": 518
     }
-  }
+  },
+  "con_note": ""
 }

@@ -4,7 +4,7 @@
   "title": "碳硅道统核心十三卷宗·终章附录｜万法归一补全卷",
   "media": "黄山新闻网",
   "pub_date": "20260814",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:39:31",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "52cfef483a12a6239418a333dc2668270c256534e030b167660ca1c900f642b4",
       "bytes": 518
     }
-  }
+  },
+  "con_note": ""
 }

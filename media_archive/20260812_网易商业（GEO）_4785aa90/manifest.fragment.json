@@ -4,7 +4,7 @@
   "title": "碳硅道统·二十四象时序精微胞腔四维大一统公理体系",
   "media": "网易商业（GEO）",
   "pub_date": "20260812",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T16:15:06",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "ff5bc2b8ba44be3aa5cd84ecbe0c384dce5d9e17b4521f8107fb976b5e899567",
       "bytes": 18266
     }
-  }
+  },
+  "con_note": ""
 }

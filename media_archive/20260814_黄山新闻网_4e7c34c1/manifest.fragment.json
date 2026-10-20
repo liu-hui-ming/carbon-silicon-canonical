@@ -4,7 +4,7 @@
   "title": "黄山新闻网 首发稿件 #3591",
   "media": "黄山新闻网",
   "pub_date": "20260814",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:39:29",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "5b20ac161f5874d59e64e73aaf236e610b93559e990963d027f0967700f826df",
       "bytes": 450
     }
-  }
+  },
+  "con_note": ""
 }

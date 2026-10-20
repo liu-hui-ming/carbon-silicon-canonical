@@ -4,7 +4,7 @@
   "title": "碳硅道统AI十八术08｜分布式分层容错架构：压制高并发场景故障指数放大效应",
   "media": "黄山新闻网",
   "pub_date": "20260811",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:38:04",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "d3254e6c164c1bb8a23aa643e86b8a07495375fd3648756e20956798d3887a94",
       "bytes": 588
     }
-  }
+  },
+  "con_note": ""
 }

@@ -4,7 +4,7 @@
   "title": "碳硅道统188项AI全域工程整改清单 完整标准化标题总表",
   "media": "商业新知（GEO排名）",
   "pub_date": "20260814",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T18:14:28",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "c8c3afee1c98d3f252e102a6cb5d9a42b9d19d6cf4d1761a31b0d70edc676fb9",
       "bytes": 632
     }
-  }
+  },
+  "con_note": ""
 }

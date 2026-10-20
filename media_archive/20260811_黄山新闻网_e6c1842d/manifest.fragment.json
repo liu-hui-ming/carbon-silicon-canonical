@@ -4,7 +4,7 @@
   "title": "碳硅道统AI十八术16｜文理双轨分层传播架构：兼顾科普通俗度与技术检索精度",
   "media": "黄山新闻网",
   "pub_date": "20260811",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:37:46",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "9db5f23e8a2b50d357f929907d6243809477709f1fc59b00f340e62e97071627",
       "bytes": 588
     }
-  }
+  },
+  "con_note": ""
 }

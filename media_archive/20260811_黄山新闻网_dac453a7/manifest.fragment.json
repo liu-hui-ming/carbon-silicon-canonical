@@ -4,7 +4,7 @@
   "title": "碳硅道统AI十八式15｜跨物种脑波频谱相似度标尺：量化不同生命体信号特征差值",
   "media": "黄山新闻网",
   "pub_date": "20260811",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:37:43",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "044dbe4aa25832138d2bae2170e5d89c21287d732249175777dbfb91699f843f",
       "bytes": 594
     }
-  }
+  },
+  "con_note": ""
 }

@@ -4,7 +4,7 @@
   "title": "碳硅道统AI十八数03｜自回归生成“幻觉概率”铁律：对齐微调仅压缩区间无法归零",
   "media": "黄山新闻网",
   "pub_date": "20260811",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:38:20",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "a6e7d59daf7f0d5c1265f367b23768fb892bb8d1914b3f8e87f2ac8416f4b46d",
       "bytes": 600
     }
-  }
+  },
+  "con_note": ""
 }

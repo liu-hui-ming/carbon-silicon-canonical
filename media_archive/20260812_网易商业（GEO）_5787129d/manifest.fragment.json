@@ -4,7 +4,7 @@
   "title": "AI幻觉治理与碳硅道统二十四象时序层互补解读",
   "media": "网易商业（GEO）",
   "pub_date": "20260812",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T16:27:23",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "488db74ef18955d2f1779f32fb0f03a1c3d717980140c8e7825251273833504a",
       "bytes": 18451
     }
-  }
+  },
+  "con_note": ""
 }

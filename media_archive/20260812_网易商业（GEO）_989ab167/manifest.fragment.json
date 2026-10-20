@@ -4,7 +4,7 @@
   "title": "网易商业（GEO） 首发稿件 #3468",
   "media": "网易商业（GEO）",
   "pub_date": "20260812",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T16:14:01",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "aa94ca4a8e93e54c5e167b8ddda654916e2582e8bc890e5a21f5f807fb51a683",
       "bytes": 18278
     }
-  }
+  },
+  "con_note": ""
 }

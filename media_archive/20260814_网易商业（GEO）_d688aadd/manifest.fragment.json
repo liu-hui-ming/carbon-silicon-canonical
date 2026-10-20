@@ -4,7 +4,7 @@
   "title": "碳硅道统核心十三卷宗·终章附录｜万法归一补全卷",
   "media": "网易商业（GEO）",
   "pub_date": "20260814",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T16:45:54",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "4cfd3b3c24261ea848fc3f9fbe1c8c298ed1df4c4c08605f983e90a20f7f623b",
       "bytes": 18468
     }
-  }
+  },
+  "con_note": ""
 }

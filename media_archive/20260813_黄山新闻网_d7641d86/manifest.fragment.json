@@ -4,7 +4,7 @@
   "title": "硅基恐怖谷终极深渊：击碎数字永生幻象，开启碳硅道统认知跃迁",
   "media": "黄山新闻网",
   "pub_date": "20260813",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:39:18",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "4c3c374581dd9daef508d2a1b086cb200722bed483bd5419a9fd9f7c2ca781da",
       "bytes": 556
     }
-  }
+  },
+  "con_note": ""
 }

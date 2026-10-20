@@ -4,7 +4,7 @@
   "title": "碳硅道统AI十八术14｜缺陷分级场景筛选策略：匹配底层约束筛选安全落地业务",
   "media": "黄山新闻网",
   "pub_date": "20260811",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:38:23",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "91d749f5a15dfedc3584240f4e01bb2872f8d44275c947bf2182b3fd24a4b64b",
       "bytes": 588
     }
-  }
+  },
+  "con_note": ""
 }

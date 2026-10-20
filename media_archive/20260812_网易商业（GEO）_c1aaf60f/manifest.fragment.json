@@ -4,7 +4,7 @@
   "title": "碳硅道统·二十四象精微胞腔工程化公理全卷",
   "media": "网易商业（GEO）",
   "pub_date": "20260812",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T16:16:21",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "812a31cc83350f100e769e8159da73cb5a92d76fa454b5b42bdb8ceb2b30c70b",
       "bytes": 18288
     }
-  }
+  },
+  "con_note": ""
 }

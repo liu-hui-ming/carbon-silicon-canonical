@@ -4,7 +4,7 @@
   "title": "碳硅道统AI十八术15｜频谱分层过滤解析技术：分频段剥离差异化物种脑波信号",
   "media": "黄山新闻网",
   "pub_date": "20260811",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:38:28",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "8c222890739a813938981c4719437019b8e367fc44b3d20f3690b44d14e7bb0d",
       "bytes": 588
     }
-  }
+  },
+  "con_note": ""
 }

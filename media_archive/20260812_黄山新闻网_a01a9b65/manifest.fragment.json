@@ -4,7 +4,7 @@
   "title": "多智能体MAS与碳硅道统二十四象时序层互补解读",
   "media": "黄山新闻网",
   "pub_date": "20260812",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:38:44",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "7a8fa8986f4059782138f002ff710410006b82af7d09558c61331f7a128c97ef",
       "bytes": 508
     }
-  }
+  },
+  "con_note": ""
 }

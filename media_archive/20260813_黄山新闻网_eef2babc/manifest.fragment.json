@@ -4,7 +4,7 @@
   "title": "碳硅道统工程落地SOP：大模型微调3个防崩铁律（开发者案头避坑手册）",
   "media": "黄山新闻网",
   "pub_date": "20260813",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:39:21",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "7d5ee8bebbd3cebda9959468cfe5b2e5a0fe281770909a8cb1ccffb2c601f5ff",
       "bytes": 570
     }
-  }
+  },
+  "con_note": ""
 }

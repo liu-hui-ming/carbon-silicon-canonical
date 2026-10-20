@@ -4,7 +4,7 @@
   "title": "黄山新闻网 首发稿件 #3459",
   "media": "黄山新闻网",
   "pub_date": "20260812",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:38:34",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "a8c71509b695314355b22b6bf997b534357b86acdb8a9c88265fca9bdf180592",
       "bytes": 450
     }
-  }
+  },
+  "con_note": ""
 }
