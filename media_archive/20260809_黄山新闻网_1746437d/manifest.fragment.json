@@ -4,7 +4,7 @@
   "title": "AI十八障18｜底层架构约束属于临时缺陷、迭代可彻底根除：AI认知的根本谬误",
   "media": "黄山新闻网",
   "pub_date": "20260809",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:34:16",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "bbde813b1fa71e1d381897e11158dfb227a080bb87ba67c917197e62ea0607c4",
       "bytes": 586
     }
-  }
+  },
+  "con_note": ""
 }

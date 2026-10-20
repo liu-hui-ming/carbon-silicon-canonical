@@ -4,7 +4,7 @@
   "title": "AI十八障05｜无监督训练脱离人类反馈完成自主进化：AI认知的根本谬误",
   "media": "网易商业（GEO）",
   "pub_date": "20260809",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T13:08:06",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "2f253e98d571e0a00be16cce4e8b39881bbbb23e42a5d9b810a9ba36fdecc8fc",
       "bytes": 18696
     }
-  }
+  },
+  "con_note": ""
 }

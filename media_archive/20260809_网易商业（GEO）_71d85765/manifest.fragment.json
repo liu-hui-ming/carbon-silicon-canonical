@@ -4,7 +4,7 @@
   "title": "AI十八障06｜无视权重衰减，要求对话模型永久留存全部上下文：AI认知的根本谬误",
   "media": "网易商业（GEO）",
   "pub_date": "20260809",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T13:09:03",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "9062820b6d2669208affaeeb730e01fc4907a8b82d3257e09c96fd40158dabdd",
       "bytes": 18583
     }
-  }
+  },
+  "con_note": ""
 }

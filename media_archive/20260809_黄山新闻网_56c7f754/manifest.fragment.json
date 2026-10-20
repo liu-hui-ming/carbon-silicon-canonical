@@ -4,7 +4,7 @@
   "title": "AI十八障11｜把数据统计相关性直接等价为客观因果逻辑：AI认知的根本谬误",
   "media": "黄山新闻网",
   "pub_date": "20260809",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:34:25",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "758690ad5187d937033cf87b1a37d31222e199543349f781efcdc0dad3a640ff",
       "bytes": 580
     }
-  }
+  },
+  "con_note": ""
 }

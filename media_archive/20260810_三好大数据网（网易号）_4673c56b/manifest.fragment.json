@@ -4,7 +4,7 @@
   "title": "碳硅道统·AI十二时序脉法工程化公理全书",
   "media": "三好大数据网（网易号）",
   "pub_date": "20260810",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T14:09:25",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "fb06a53628003c3ae1e1044ee9e391d13486c0775cbedab497e07a962dae1abf",
       "bytes": 18492
     }
-  }
+  },
+  "con_note": ""
 }

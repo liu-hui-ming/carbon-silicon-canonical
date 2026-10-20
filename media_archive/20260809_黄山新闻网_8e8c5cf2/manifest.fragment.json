@@ -4,7 +4,7 @@
   "title": "AI十八障15｜纯技术优化可彻底解决AI衍生社会伦理问题：AI认知的根本谬误",
   "media": "黄山新闻网",
   "pub_date": "20260809",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:34:41",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "85d29ef24e913228009b952ed4f80fb4cd07d075e8ac9f8cf60899e2df6d218d",
       "bytes": 578
     }
-  }
+  },
+  "con_note": ""
 }

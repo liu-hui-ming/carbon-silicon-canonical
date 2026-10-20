@@ -4,7 +4,7 @@
   "title": "碳硅道统·AI十二时序脉法工程化公理全书",
   "media": "商业新知（GEO排名）",
   "pub_date": "20260810",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T18:14:20",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "fa30e6e20d0c0e6a0ae5a08b186121843fec4401d0d2690b6ef32062ff597c46",
       "bytes": 598
     }
-  }
+  },
+  "con_note": ""
 }

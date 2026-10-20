@@ -4,7 +4,7 @@
   "title": "AI十八障07｜将词语表层匹配等同于事物深层语义理解：AI认知的根本谬误",
   "media": "网易商业（GEO）",
   "pub_date": "20260809",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T13:10:01",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "ef9bd80c012ae3717f0e14f2bd560a264cb949a5bd2281e24437c6e216612adf",
       "bytes": 18595
     }
-  }
+  },
+  "con_note": ""
 }

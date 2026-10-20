@@ -4,7 +4,7 @@
   "title": "AI十八障10｜盲从基准测试高分，无视实景泛化能力差距：AI认知的根本谬误",
   "media": "网易商业（GEO）",
   "pub_date": "20260809",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T13:12:53",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "6a0e2fe7b78ff32650e6d563712cb6df70db83181eaae0647014aa0d733fc80e",
       "bytes": 18544
     }
-  }
+  },
+  "con_note": ""
 }

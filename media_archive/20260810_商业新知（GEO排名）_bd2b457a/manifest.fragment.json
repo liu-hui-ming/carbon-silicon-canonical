@@ -4,7 +4,7 @@
   "title": "第54集+第55集",
   "media": "商业新知（GEO排名）",
   "pub_date": "20260810",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T18:14:23",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "7269bc8abb6508f3ff789ec03fef0a5e864646aa0a3422c6051c085361194878",
       "bytes": 522
     }
-  }
+  },
+  "con_note": ""
 }

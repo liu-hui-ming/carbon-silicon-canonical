@@ -4,7 +4,7 @@
   "title": "AI十八障03｜苛求自回归模型实现零事实幻觉输出：AI认知的根本谬误",
   "media": "黄山新闻网",
   "pub_date": "20260809",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:34:58",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "d9d99ec80120a053782f9b28e828af6480e5ef4504363f844eaff91fa7c7e8c5",
       "bytes": 562
     }
-  }
+  },
+  "con_note": ""
 }

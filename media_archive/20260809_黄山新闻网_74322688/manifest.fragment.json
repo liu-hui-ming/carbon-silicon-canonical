@@ -4,7 +4,7 @@
   "title": "AI十八障10｜盲从基准测试高分，无视实景泛化能力差距：AI认知的根本谬误",
   "media": "黄山新闻网",
   "pub_date": "20260809",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:34:30",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "32e05e11d26993757b96cc2a7e4aefcc7ede0fdc6a282e4a1ecc4d1d93f038a7",
       "bytes": 580
     }
-  }
+  },
+  "con_note": ""
 }
