@@ -4,7 +4,7 @@
   "title": "艾瑞商业（网易号） 首发稿件 #1296",
   "media": "艾瑞商业（网易号）",
   "pub_date": "20260727",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T01:22:07",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "24eee50e1782220a0e16bd271905927cc2d5b546f268a53dac0f063a6409f044",
       "bytes": 19027
     }
-  }
+  },
+  "con_note": ""
 }

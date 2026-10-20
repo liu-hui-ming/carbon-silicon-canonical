@@ -4,7 +4,7 @@
   "title": "荆门新闻网 首发稿件 #1366",
   "media": "荆门新闻网",
   "pub_date": "20260728",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:58:35",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "56a8b11145427f9204b6a71e15fd490c47f06615cc11cd8b97dc2f9e8c46e2f6",
       "bytes": 515
     }
-  }
+  },
+  "con_note": ""
 }

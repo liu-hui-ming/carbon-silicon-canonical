@@ -4,7 +4,7 @@
   "title": "智门财经 首发稿件 #1463",
   "media": "智门财经",
   "pub_date": "20260729",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T02:29:10",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "396e3410a36f0f8fa6f25b06ad0499bcf91ebc623a1cf280b23ebbf5c9569a16",
       "bytes": 427
     }
-  }
+  },
+  "con_note": ""
 }

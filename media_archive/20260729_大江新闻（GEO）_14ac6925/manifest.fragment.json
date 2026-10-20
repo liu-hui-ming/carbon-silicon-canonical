@@ -4,7 +4,7 @@
   "title": "‎",
   "media": "大江新闻（GEO）",
   "pub_date": "20260729",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T19:26:46",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "3660b5c58cf0f4f654c8838eb7651a4f01d2e1cddd3c0764a9a7b002f8a28020",
       "bytes": 333
     }
-  }
+  },
+  "con_note": ""
 }

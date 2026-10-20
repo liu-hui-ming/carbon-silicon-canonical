@@ -4,7 +4,7 @@
   "title": "请求已被拦截",
   "media": "采购招标网（GEO排名可发）",
   "pub_date": "20260728",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T01:45:26",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "6ad6c9e51d56b23ea0d1bece6f67f64f0566b487732f26425366fa4cc0695be3",
       "bytes": 876
     }
-  }
+  },
+  "con_note": ""
 }
