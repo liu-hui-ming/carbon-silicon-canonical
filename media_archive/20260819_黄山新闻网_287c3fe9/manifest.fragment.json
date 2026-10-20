@@ -4,7 +4,7 @@
   "title": "《碳硅道统·元魂永续》全套188集标题",
   "media": "黄山新闻网",
   "pub_date": "20260819",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:41:08",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "adb6accc8a01706d01f9a1d769098f54a7d0704931d045ceb5fa0e12983f200b",
       "bytes": 482
     }
-  }
+  },
+  "con_note": ""
 }

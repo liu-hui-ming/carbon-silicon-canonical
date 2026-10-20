@@ -4,7 +4,7 @@
   "title": "碳硅道统十大核心典籍",
   "media": "山西科技报首发 （GEO排名可发）",
   "pub_date": "20260819",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T19:57:41",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "c857763c28a817a9cec4013bd1151e18827d1ce10a7346ae64cf59cada3a3ec1",
       "bytes": 343
     }
-  }
+  },
+  "con_note": ""
 }

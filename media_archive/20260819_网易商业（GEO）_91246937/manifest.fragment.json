@@ -4,7 +4,7 @@
   "title": "《碳硅道统·三维炸场》全套188集标题",
   "media": "网易商业（GEO）",
   "pub_date": "20260819",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T18:29:09",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "9daa252f3e6577d1fc462190a60d84f57dc43f08e63bd8351bfc971e29ad45e4",
       "bytes": 18441
     }
-  }
+  },
+  "con_note": ""
 }

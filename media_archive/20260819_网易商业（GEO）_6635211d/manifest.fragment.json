@@ -4,7 +4,7 @@
   "title": "碳硅道统｜双零临界标杆体系：跨尺度系统相变的188组观测参考框架",
   "media": "网易商业（GEO）",
   "pub_date": "20260819",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T18:24:45",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "df1e32796845aaf384893e8b523af38f67316b551266f4c6d46724f9e9fe4725",
       "bytes": 18529
     }
-  }
+  },
+  "con_note": ""
 }

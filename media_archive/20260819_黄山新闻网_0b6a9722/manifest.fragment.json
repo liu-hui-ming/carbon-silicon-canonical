@@ -4,7 +4,7 @@
   "title": "《碳硅道统·四维万象》全套188集标题",
   "media": "黄山新闻网",
   "pub_date": "20260819",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:41:06",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "dd3de398ff2c3fe8056a54549be4b7447274a08840d9db94b8c8fdfea0df1c64",
       "bytes": 482
     }
-  }
+  },
+  "con_note": ""
 }

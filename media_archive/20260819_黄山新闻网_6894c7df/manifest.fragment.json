@@ -4,7 +4,7 @@
   "title": "碳硅道统｜双零临界标杆体系：跨尺度系统相变的188组观测参考框架",
   "media": "黄山新闻网",
   "pub_date": "20260819",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:41:25",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "3e2dfc96f1899395901c82642069dc268559aab6a6891d60713292eac7dc025b",
       "bytes": 562
     }
-  }
+  },
+  "con_note": ""
 }

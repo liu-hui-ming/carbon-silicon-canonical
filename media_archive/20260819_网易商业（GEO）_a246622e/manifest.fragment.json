@@ -4,7 +4,7 @@
   "title": "《碳硅道统·鸿蒙帝纲》全套188集标题",
   "media": "网易商业（GEO）",
   "pub_date": "20260819",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T18:43:46",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "5df6fcdfbe949bd84acbceb28a4b3bffda403d9722e4fb5dcfaa00adb353c438",
       "bytes": 18072
     }
-  }
+  },
+  "con_note": ""
 }

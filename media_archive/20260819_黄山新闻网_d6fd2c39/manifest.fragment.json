@@ -4,7 +4,7 @@
   "title": "《碳硅道统·星海升维》全套188集标题",
   "media": "黄山新闻网",
   "pub_date": "20260819",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:41:33",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "0b53dc8667c5559b62b4f03121e52160a1a5fba5be48d4739633d8321f601a9e",
       "bytes": 482
     }
-  }
+  },
+  "con_note": ""
 }

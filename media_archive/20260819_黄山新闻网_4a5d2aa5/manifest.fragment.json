@@ -4,7 +4,7 @@
   "title": "碳硅道统十大核心典籍",
   "media": "黄山新闻网",
   "pub_date": "20260819",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:41:14",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "7a4e5e8cfe0ecc63cd8c57cc4cba1ddb6f094004375f25bcdc4051f84ccbed21",
       "bytes": 442
     }
-  }
+  },
+  "con_note": ""
 }

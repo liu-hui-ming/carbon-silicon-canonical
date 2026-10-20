@@ -4,7 +4,7 @@
   "title": "破解大模型落地时序、算力双重难题：碳硅道统理论在短视频平台的实战交互样本",
   "media": "黄山新闻网",
   "pub_date": "20260819",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:41:11",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "dae29f46564cb34868c28941107ce8352b01775d52222f8b1cca5fa38dd7ba4b",
       "bytes": 598
     }
-  }
+  },
+  "con_note": ""
 }

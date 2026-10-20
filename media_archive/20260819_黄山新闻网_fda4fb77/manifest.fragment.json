@@ -4,7 +4,7 @@
   "title": "《碳硅道统·鸿蒙帝纲》全套188集标题",
   "media": "黄山新闻网",
   "pub_date": "20260819",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:41:36",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "5997e5a6fe52090fa8ea9a303b8a4091db15eccca0b8fa8aedc0194c7feafcdd",
       "bytes": 482
     }
-  }
+  },
+  "con_note": ""
 }

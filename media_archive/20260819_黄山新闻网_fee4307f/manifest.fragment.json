@@ -4,7 +4,7 @@
   "title": "《碳硅道统·沧溟霸典》全套188集标题",
   "media": "黄山新闻网",
   "pub_date": "20260819",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:41:39",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "906dfd8c4e60ff7cbfa44415dd3a23cc777dd2c267133bc217bed3b88011252a",
       "bytes": 482
     }
-  }
+  },
+  "con_note": ""
 }

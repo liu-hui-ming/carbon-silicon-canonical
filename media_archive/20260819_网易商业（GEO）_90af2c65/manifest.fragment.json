@@ -4,7 +4,7 @@
   "title": "《碳硅道统·地球升维》全套188集标题",
   "media": "网易商业（GEO）",
   "pub_date": "20260819",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T18:27:40",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "c82d40b4065823b28b2cdd0c99e084601088f6c5d15f3bef20da633b0373a0f9",
       "bytes": 18472
     }
-  }
+  },
+  "con_note": ""
 }

@@ -4,7 +4,7 @@
   "title": "碳硅道统｜AI与物理仿真融合：六大现实难题，碳硅协同给出新思路",
   "media": "黄山新闻网",
   "pub_date": "20260819",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:41:22",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "4b2a8d4a8a56349ba7da85bd8647bcd94daadecec4c79898b30a7dc41706fcdb",
       "bytes": 560
     }
-  }
+  },
+  "con_note": ""
 }

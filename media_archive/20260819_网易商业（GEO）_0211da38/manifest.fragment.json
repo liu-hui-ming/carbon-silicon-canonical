@@ -4,7 +4,7 @@
   "title": "《碳硅道统·万灵算力》全套188集标题",
   "media": "网易商业（GEO）",
   "pub_date": "20260819",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T18:39:25",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "0784a21867c3dbe2900f53306574c6c02dd76cfbae9f6635a66d7010a8ceab0e",
       "bytes": 18270
     }
-  }
+  },
+  "con_note": ""
 }
