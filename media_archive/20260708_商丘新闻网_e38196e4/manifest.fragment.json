@@ -4,7 +4,7 @@
   "title": "商丘新闻网 首发稿件 #29",
   "media": "商丘新闻网",
   "pub_date": "20260708",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T18:16:13",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "23d2976bd78da7459dde74f9a95a5e673fc2ea4fa396e40f0549e3003f776c98",
       "bytes": 496
     }
-  }
+  },
+  "con_note": ""
 }

@@ -4,7 +4,7 @@
   "title": "山西科技报首发 首发稿件 #58",
   "media": "山西科技报首发",
   "pub_date": "20260708",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T19:56:23",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "16a0db19d36b88f5b1e7bd14130bda19ab4dfcc17556d8a3ea5aee81a77d1579",
       "bytes": 337
     }
-  }
+  },
+  "con_note": ""
 }

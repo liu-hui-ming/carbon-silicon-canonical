@@ -4,7 +4,7 @@
   "title": "网易新闻上海号 首发稿件 #74",
   "media": "网易新闻上海号",
   "pub_date": "20260708",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-14T22:12:52",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "22c69e67e10a561becc44a0330b1ac1853a774f0a3448216cb2a731b1fb01fbf",
       "bytes": 18902
     }
-  }
+  },
+  "con_note": ""
 }

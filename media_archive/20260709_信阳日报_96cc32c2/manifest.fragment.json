@@ -4,7 +4,7 @@
   "title": "404 Not Found",
   "media": "信阳日报",
   "pub_date": "20260709",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-14T22:28:36",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "9f421897f8c39a1d3eebe6ade418014d5723f1f849f41834d63201cae6dd077c",
       "bytes": 371
     }
-  }
+  },
+  "con_note": ""
 }

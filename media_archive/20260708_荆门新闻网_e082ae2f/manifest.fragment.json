@@ -4,7 +4,7 @@
   "title": "荆门新闻网 首发稿件 #19",
   "media": "荆门新闻网",
   "pub_date": "20260708",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:45:20",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "4e6507e33b9d296bb05bcaa8cfb25a5bbb81afb79ab13fc31a9a85b68ea3712c",
       "bytes": 511
     }
-  }
+  },
+  "con_note": ""
 }

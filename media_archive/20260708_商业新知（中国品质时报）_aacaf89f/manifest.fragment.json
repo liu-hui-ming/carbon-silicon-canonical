@@ -4,7 +4,7 @@
   "title": "商业新知（中国品质时报） 首发稿件 #93",
   "media": "商业新知（中国品质时报）",
   "pub_date": "20260708",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T18:11:06",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "99eca0caf5efd2ba7bd3ee5c44b9df52003bde07671e115ac0a44293871c72ad",
       "bytes": 603
     }
-  }
+  },
+  "con_note": ""
 }

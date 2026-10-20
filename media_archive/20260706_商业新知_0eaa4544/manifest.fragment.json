@@ -4,7 +4,7 @@
   "title": "商业新知 首发稿件 #7",
   "media": "商业新知",
   "pub_date": "20260706",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T18:11:03",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "acc69b28b828c406da77a78f0b4e52651eb7d2b8448d189a1f03a98cc4411fae",
       "bytes": 529
     }
-  }
+  },
+  "con_note": ""
 }

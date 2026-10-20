@@ -4,7 +4,7 @@
   "title": "创氪站（网易号） 首发稿件 #178",
   "media": "创氪站（网易号）",
   "pub_date": "20260709",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-14T22:42:16",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "05473096a8c029c6746a10f4defdc8e88dbc6e8280102fc0450ccb39e0d22596",
       "bytes": 18193
     }
-  }
+  },
+  "con_note": ""
 }

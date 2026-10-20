@@ -4,7 +4,7 @@
   "title": "创业家商业 首发稿件 #11",
   "media": "创业家商业",
   "pub_date": "20260706",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-14T19:35:10",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "d37acd616354261fd11b0491f6f26ae9d4b157ac45a85daef93fcf82fbc34e0e",
       "bytes": 18357
     }
-  }
+  },
+  "con_note": ""
 }

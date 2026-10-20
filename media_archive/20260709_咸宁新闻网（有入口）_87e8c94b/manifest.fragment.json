@@ -4,7 +4,7 @@
   "title": "咸宁新闻网（有入口） 首发稿件 #176",
   "media": "咸宁新闻网（有入口）",
   "pub_date": "20260709",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-20T20:56:28",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "328abb2d0bacfc7bf4c97a2cad860c065838c66168183869fd1e20d774ce461b",
       "bytes": 250
     }
-  }
+  },
+  "con_note": ""
 }

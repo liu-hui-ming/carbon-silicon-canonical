@@ -4,7 +4,7 @@
   "title": "404 Not Found",
   "media": "财富投资网",
   "pub_date": "20260708",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-14T22:13:54",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "88de5a4004421b3d7e5cad1eb6a9caa051e21aaa4f7ce08192add1e2aa6ec197",
       "bytes": 367
     }
-  }
+  },
+  "con_note": ""
 }

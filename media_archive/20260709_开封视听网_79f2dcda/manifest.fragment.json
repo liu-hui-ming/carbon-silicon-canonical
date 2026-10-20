@@ -4,7 +4,7 @@
   "title": "****** ******/8.0.37 - Error report",
   "media": "开封视听网",
   "pub_date": "20260709",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-14T22:38:36",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "dad493dac38b6a9aafef61fc7288d04c0af3e99496d4cad486b07e2da87e5319",
       "bytes": 667
     }
-  }
+  },
+  "con_note": ""
 }

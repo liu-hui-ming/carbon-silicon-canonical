@@ -4,7 +4,7 @@
   "title": "山西科技报首发 首发稿件 #140",
   "media": "山西科技报首发",
   "pub_date": "20260709",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T19:57:28",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "b55a07458ac55c557a0fb71cc6b76da35885867f5c985826274ecb74df7e44c7",
       "bytes": 339
     }
-  }
+  },
+  "con_note": ""
 }

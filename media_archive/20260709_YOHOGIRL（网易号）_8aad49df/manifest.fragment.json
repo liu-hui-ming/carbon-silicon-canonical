@@ -4,7 +4,7 @@
   "title": "YOHOGIRL（网易号） 首发稿件 #177",
   "media": "YOHOGIRL（网易号）",
   "pub_date": "20260709",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-14T22:42:12",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "f3abdcdd5c576f9b26b8d54412b38934759c4c037d1e1a6717adfe186e85d2eb",
       "bytes": 18873
     }
-  }
+  },
+  "con_note": ""
 }

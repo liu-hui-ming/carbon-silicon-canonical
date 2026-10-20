@@ -4,7 +4,7 @@
   "title": "山西科技报 首发稿件 #204",
   "media": "山西科技报",
   "pub_date": "20260709",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T19:56:16",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "ec6419b4731cf5837d952744cd1b4e67e93e72bc36e273b49e8d6dcfe7c20319",
       "bytes": 321
     }
-  }
+  },
+  "con_note": ""
 }

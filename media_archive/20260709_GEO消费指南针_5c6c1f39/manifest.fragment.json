@@ -4,7 +4,7 @@
   "title": "GEO消费指南针 首发稿件 #184",
   "media": "GEO消费指南针",
   "pub_date": "20260709",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-14T22:45:06",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "fe41ba5216a5bb0e5d2a2af36dd60d5490f651540d3ea320624cc24dca2e0bd0",
       "bytes": 428
     }
-  }
+  },
+  "con_note": ""
 }

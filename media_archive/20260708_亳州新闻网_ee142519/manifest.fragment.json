@@ -4,7 +4,7 @@
   "title": "亳州新闻网 首发稿件 #32",
   "media": "亳州新闻网",
   "pub_date": "20260708",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:17:08",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "c4b941d3d18d8f5974e8c5b9a0fbc27fc4fdc659dc0fdfac7155e9a52356341c",
       "bytes": 261
     }
-  }
+  },
+  "con_note": ""
 }

@@ -4,7 +4,7 @@
   "title": "海峡新闻网 首发稿件 #34",
   "media": "海峡新闻网",
   "pub_date": "20260708",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-20T20:56:27",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "508a2688a2d450e64287812a24b960b2eb7a5eeccbdc57cb678ecb94fc96a4d5",
       "bytes": 206
     }
-  }
+  },
+  "con_note": ""
 }

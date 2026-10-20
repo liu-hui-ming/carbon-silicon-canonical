@@ -4,7 +4,7 @@
   "title": "青海传媒网 首发稿件 #16",
   "media": "青海传媒网",
   "pub_date": "20260708",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-14T19:36:07",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "5dcf5e0d0d1786575e9f7b9e4df0d9956535761c38c9870e109907c924269a40",
       "bytes": 432
     }
-  }
+  },
+  "con_note": ""
 }

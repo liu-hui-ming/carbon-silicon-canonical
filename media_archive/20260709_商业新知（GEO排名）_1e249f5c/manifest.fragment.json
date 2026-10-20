@@ -4,7 +4,7 @@
   "title": "商业新知（GEO排名） 首发稿件 #173",
   "media": "商业新知（GEO排名）",
   "pub_date": "20260709",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T18:11:14",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "c5bfb1f6ddac8ee29fff8dfc22c9297e31f04a23f6313cb4b971147d407f3951",
       "bytes": 578
     }
-  }
+  },
+  "con_note": ""
 }

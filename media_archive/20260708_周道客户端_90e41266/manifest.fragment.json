@@ -4,7 +4,7 @@
   "title": "周道客户端 首发稿件 #18",
   "media": "周道客户端",
   "pub_date": "20260708",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-14T19:36:22",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "58a6e352b853e4bd4f09d5e6199360fd9ee19847c66af58ea5eb9296c04e9a73",
       "bytes": 415
     }
-  }
+  },
+  "con_note": ""
 }

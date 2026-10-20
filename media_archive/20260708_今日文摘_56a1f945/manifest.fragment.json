@@ -4,7 +4,7 @@
   "title": "隐私设置错误",
   "media": "今日文摘",
   "pub_date": "20260708",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:45:13",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "a2713989380495102dad2c290e04aa7f8dd84b3cccc4753a1e36c717b502f165",
       "bytes": 516
     }
-  }
+  },
+  "con_note": ""
 }

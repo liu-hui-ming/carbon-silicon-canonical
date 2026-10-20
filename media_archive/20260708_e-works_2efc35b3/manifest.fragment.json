@@ -4,7 +4,7 @@
   "title": "404 - 找不到文件或目录。",
   "media": "e-works",
   "pub_date": "20260708",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-14T19:47:13",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "17d3c0283be596b680640f2b5c87097dfc4b5048fcb46d7ec6829c21a3a8e986",
       "bytes": 501
     }
-  }
+  },
+  "con_note": ""
 }

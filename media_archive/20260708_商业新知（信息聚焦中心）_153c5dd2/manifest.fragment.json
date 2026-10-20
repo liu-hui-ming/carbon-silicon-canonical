@@ -4,7 +4,7 @@
   "title": "商业新知（信息聚焦中心） 首发稿件 #54",
   "media": "商业新知（信息聚焦中心）",
   "pub_date": "20260708",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T18:11:09",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "9701fc681585099e9623a165ff5020d59e59dbef7042e515cd6f0cd665b18992",
       "bytes": 603
     }
-  }
+  },
+  "con_note": ""
 }

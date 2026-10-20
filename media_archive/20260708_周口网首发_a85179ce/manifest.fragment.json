@@ -4,7 +4,7 @@
   "title": "403 Forbidden",
   "media": "周口网首发",
   "pub_date": "20260708",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-14T19:38:32",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "c67a3a31d969cfa18e2adbba61832794fc799d2f9d87be1c4a01e57925ed82fd",
       "bytes": 421
     }
-  }
+  },
+  "con_note": ""
 }

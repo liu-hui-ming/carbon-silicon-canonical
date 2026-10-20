@@ -4,7 +4,7 @@
   "title": "提示信息 河南工业",
   "media": "河南工业网",
   "pub_date": "20260708",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-14T19:47:07",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "f62587d0abdff58f0c2a34b308a971b21c0caf2df4d8488eccbfaa5011b057fe",
       "bytes": 823
     }
-  }
+  },
+  "con_note": ""
 }

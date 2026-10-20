@@ -4,7 +4,7 @@
   "title": "‎",
   "media": "大江新闻",
   "pub_date": "20260709",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T19:15:25",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "b0a73788735ba51c851d066bbe1d1504eb83bbd26fa2b23c456fb43bdebe087c",
       "bytes": 324
     }
-  }
+  },
+  "con_note": ""
 }

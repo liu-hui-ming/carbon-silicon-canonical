@@ -4,7 +4,7 @@
   "title": "商丘新闻网 首发稿件 #111",
   "media": "商丘新闻网",
   "pub_date": "20260709",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T18:16:16",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "13b2ea15d31e5804e4d149f494b00fcee9ce090cb1c721834c028651beb7e12e",
       "bytes": 498
     }
-  }
+  },
+  "con_note": ""
 }

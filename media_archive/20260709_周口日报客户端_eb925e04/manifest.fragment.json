@@ -4,7 +4,7 @@
   "title": "周口日报客户端 首发稿件 #118",
   "media": "周口日报客户端",
   "pub_date": "20260709",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-14T22:28:31",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "e29f02dfe9ac9f0fca48382b77d749b7047f84b019d4e424e51922daad6f7f0f",
       "bytes": 447
     }
-  }
+  },
+  "con_note": ""
 }

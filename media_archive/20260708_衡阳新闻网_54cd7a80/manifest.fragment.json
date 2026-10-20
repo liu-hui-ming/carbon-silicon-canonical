@@ -4,7 +4,7 @@
   "title": "提示信息",
   "media": "衡阳新闻网",
   "pub_date": "20260708",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T18:21:26",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "2e26a02feb4fd661136ab814c7a35968a2534eb92722e4b58c2af7c6ef05960f",
       "bytes": 356
     }
-  }
+  },
+  "con_note": ""
 }

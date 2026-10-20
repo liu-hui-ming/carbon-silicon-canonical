@@ -4,7 +4,7 @@
   "title": "海峡新闻网 首发稿件 #116",
   "media": "海峡新闻网",
   "pub_date": "20260709",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-20T20:56:27",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "74c9a2dea9b4555ccb4ed38e4056333afa16a85186228621627970065fa4ad1c",
       "bytes": 203
     }
-  }
+  },
+  "con_note": ""
 }

@@ -4,7 +4,7 @@
   "title": "周道客户端 首发稿件 #99",
   "media": "周道客户端",
   "pub_date": "20260709",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-14T22:20:03",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "835c962ed4ab73827a831a395e9ec736f2037a2d8c40c6be9c72ad9bf907a7e4",
       "bytes": 434
     }
-  }
+  },
+  "con_note": ""
 }

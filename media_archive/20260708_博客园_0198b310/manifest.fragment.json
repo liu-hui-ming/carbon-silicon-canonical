@@ -4,7 +4,7 @@
   "title": "用户中心 - 博客园",
   "media": "博客园",
   "pub_date": "20260708",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T19:50:19",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "78d4c79aef2f0d18493cfaad2ee43220bb075a12cf29ba4922985abc34a84fc0",
       "bytes": 480
     }
-  }
+  },
+  "con_note": ""
 }

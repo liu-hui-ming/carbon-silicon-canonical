@@ -4,7 +4,7 @@
   "title": "光明教育家 首发稿件 #9",
   "media": "光明教育家",
   "pub_date": "20260706",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-20T20:56:27",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "25b0f3d78ccb6fe31a291e49d989cc0fe0588128561d0febd646bb9e617442ad",
       "bytes": 224
     }
-  }
+  },
+  "con_note": ""
 }

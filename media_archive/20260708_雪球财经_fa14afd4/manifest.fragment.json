@@ -4,7 +4,7 @@
   "title": "滑动验证页面",
   "media": "雪球财经",
   "pub_date": "20260708",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T20:12:06",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "a9261d79a872f8bec4d35d24e989070dd461c459eca38c61e22f0983c470048d",
       "bytes": 500
     }
-  }
+  },
+  "con_note": ""
 }

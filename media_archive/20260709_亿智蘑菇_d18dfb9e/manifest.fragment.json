@@ -4,7 +4,7 @@
   "title": "亿智蘑菇-试用众测平台 | 智能硬件测评-免费试用-黑科技产品试用",
   "media": "亿智蘑菇",
   "pub_date": "20260709",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-14T22:34:39",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "9cbe0512f54bfb47d2b7b2e0a65a392d497a969bc5aff61a968060a7701dec03",
       "bytes": 783
     }
-  }
+  },
+  "con_note": ""
 }

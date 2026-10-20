@@ -4,7 +4,7 @@
   "title": "顶端新闻 首发稿件 #40",
   "media": "顶端新闻",
   "pub_date": "20260708",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T19:48:57",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "08398992e12a9b3d82a583813e6c7567969094111d35a8a5b888ddfc05bdedff",
       "bytes": 388
     }
-  }
+  },
+  "con_note": ""
 }
