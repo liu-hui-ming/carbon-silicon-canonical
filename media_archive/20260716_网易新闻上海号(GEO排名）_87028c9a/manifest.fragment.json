@@ -4,7 +4,7 @@
   "title": "网易新闻上海号(GEO排名） 首发稿件 #484",
   "media": "网易新闻上海号(GEO排名）",
   "pub_date": "20260716",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-15T00:31:43",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "43cce5bee96e0336b0e43925f45f275ece70ea719ab12ee0711fd5ef512189e9",
       "bytes": 18223
     }
-  }
+  },
+  "con_note": ""
 }

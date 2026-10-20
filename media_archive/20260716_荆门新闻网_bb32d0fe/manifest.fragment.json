@@ -4,7 +4,7 @@
   "title": "荆门新闻网 首发稿件 #466",
   "media": "荆门新闻网",
   "pub_date": "20260716",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:49:03",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "13526991b8558b9f3ff2f805c4b7f8c7fa8333eee581fd0293e9ee5153aa7f89",
       "bytes": 513
     }
-  }
+  },
+  "con_note": ""
 }

@@ -4,7 +4,7 @@
   "title": "网易商业（GEO） 首发稿件 #453",
   "media": "网易商业（GEO）",
   "pub_date": "20260716",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-15T00:18:26",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "8d71d5b0f0a31be7d691fc8fa0fb4bc6e2c02495e34c07478a2993694f1c9e22",
       "bytes": 18017
     }
-  }
+  },
+  "con_note": ""
 }

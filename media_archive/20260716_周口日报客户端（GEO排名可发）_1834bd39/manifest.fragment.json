@@ -4,7 +4,7 @@
   "title": "404 Not Found",
   "media": "周口日报客户端（GEO排名可发）",
   "pub_date": "20260716",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-15T00:24:45",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "5d30ea5c41fa010c551bc9785d7e58ea297738cce8c36daf67007c031b61c14a",
       "bytes": 394
     }
-  }
+  },
+  "con_note": ""
 }

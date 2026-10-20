@@ -4,7 +4,7 @@
   "title": "智门财经（网易号） 首发稿件 #561",
   "media": "智门财经（网易号）",
   "pub_date": "20260717",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-15T00:59:17",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "6735985d5ff9f51eb749daf981b316dbd8655fc18455a7199ff3b71b86608cbd",
       "bytes": 459
     }
-  }
+  },
+  "con_note": ""
 }

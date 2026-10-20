@@ -4,7 +4,7 @@
   "title": "智门财经 首发稿件 #452",
   "media": "智门财经",
   "pub_date": "20260716",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-15T00:18:19",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "1a024e3f7e6f8d7b5c3d8c5ef12d625f0abe3b55ec8c9250e4316b0150e32ab1",
       "bytes": 429
     }
-  }
+  },
+  "con_note": ""
 }

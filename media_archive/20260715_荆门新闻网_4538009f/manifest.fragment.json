@@ -4,7 +4,7 @@
   "title": "荆门新闻网 首发稿件 #388",
   "media": "荆门新闻网",
   "pub_date": "20260715",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:47:59",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "ea780a935bca120b08e55f009f057191e54c32257658c53dda46e5d1bbc900bf",
       "bytes": 513
     }
-  }
+  },
+  "con_note": ""
 }
