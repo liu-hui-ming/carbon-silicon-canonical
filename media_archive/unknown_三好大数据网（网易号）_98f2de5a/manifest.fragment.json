@@ -4,7 +4,7 @@
   "title": "碳硅道统《对AI行业100项公开质询》",
   "media": "三好大数据网（网易号）",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T20:41:32",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "9ffcfa81ebaf90ead0e02253faf36af96973b683b23647b636bb6600cb2be177",
       "bytes": 18774
     }
-  }
+  },
+  "con_note": ""
 }

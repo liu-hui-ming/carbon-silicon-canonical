@@ -4,7 +4,7 @@
   "title": "HTTP 404 - SegmentFault",
   "media": "SegmentFault思否",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T19:11:47",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "769d902eda6032f5a716ca39621e442e45a3f09ead2337cd293a661182dc4f74",
       "bytes": 485
     }
-  }
+  },
+  "con_note": ""
 }
