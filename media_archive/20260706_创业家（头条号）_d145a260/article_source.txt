@@ -6,6 +6,8 @@ URL：https://www.toutiao.com/article/7658244410328531456/
 HTTP：200
 页面标题：404错误页
 截图标准：P0-four-elements-v2（头条快速重采）
+链接失效：是
+备注：用户确认源站内容不存在；已删除无效 page_screenshot.png，仅保留文本存证。
 关注
 推荐
 北京

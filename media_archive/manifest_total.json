@@ -1,12 +1,12 @@
 {
   "canonical": "MEDIA-EVIDENCE-ARCHIVE",
-  "generated_at": "2026-10-20T20:56:48",
+  "generated_at": "2026-10-20T20:59:58",
   "source_workbook": "碳硅道统-发布报表.xlsx",
   "entry_total": 5470,
   "archived_count": 5472,
   "access_ok": 2851,
   "access_con": 2621,
-  "volume_sha256": "7be96a397f21f1191733a19bf424da126d8d495e02796e4bab6da591197b8b5c",
+  "volume_sha256": "d757bfc201293501ece001c1b856810792323d02207e1a405b5375861cc73a11",
   "volume_basis": "sorted sha256  path lines UTF-8 LF",
   "capture_standard": "P0-four-elements-v2",
   "con_entries": [
@@ -15289,7 +15289,7 @@
       "title": "创业家（头条号） 首发稿件 #2",
       "media": "创业家（头条号）",
       "folder": "20260706_创业家（头条号）_d145a260",
-      "note": "源链接已失效，以归档本地存证材料为依据；正文过短或不可读"
+      "note": "源链接已失效（404/资源不存在），以归档本地存证材料为依据"
     },
     {
       "url": "https://www.toutiao.com/article/7658609123940663848/",
@@ -50668,8 +50668,8 @@
       "url": "https://www.toutiao.com/article/7658244410328531456/",
       "folder": "20260706_创业家（头条号）_d145a260",
       "access": "CON",
-      "con_note": "源链接已失效，以归档本地存证材料为依据；正文过短或不可读",
-      "captured_at": "2026-10-14T19:13:04"
+      "con_note": "源链接已失效（404/资源不存在），以归档本地存证材料为依据",
+      "captured_at": "2026-10-20T20:59:58"
     },
     {
       "url": "https://www.toutiao.com/article/7658608907153965568/",
