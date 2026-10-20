@@ -5,16 +5,16 @@
   "media": "赛迪网首发",
   "pub_date": "20261008",
   "access": "CON",
-  "captured_at": "2026-10-17T03:58:54",
+  "captured_at": "2026-10-20T20:56:28",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "678a0004f98286678bb60f79f36938fa10a07e6889f0d7ce4ba09e5cdb9676aa",
-      "bytes": 146512
+      "sha256": "e8049cc5ba088ab78ce7b8e6f09acfe2df17a1f6d80316c4e0eef8c20d0e3056",
+      "bytes": 985544
     },
     "article_source.txt": {
-      "sha256": "ab2212cb41fc6d888d4c93feafe8e60ad15dc4b436e53efc64e79902e6a99d77",
-      "bytes": 434
+      "sha256": "e9a2abe61d8b895971e6e551669a4b6131b5137481a1c9397e6386de86d63739",
+      "bytes": 285
     }
   }
 }

@@ -1,20 +1,20 @@
 {
   "folder": "20260721_企业家在线（今日头条）_4d8b5ad6",
   "url": "https://www.toutiao.com/item/7664897985322516998/",
-  "title": "404错误页",
+  "title": "企业家在线（今日头条） 首发稿件 #796",
   "media": "企业家在线（今日头条）",
   "pub_date": "20260721",
   "access": "CON",
-  "captured_at": "2026-10-15T22:25:24",
+  "captured_at": "2026-10-20T20:56:28",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "455410171e3c49129683e6fd1e29483fe1c6142e1ba5c7e4a37aea7208c61fb7",
-      "bytes": 184961
+      "sha256": "0af96b42a097ff81383983614003687f393e3742670f5a42d2a5696a42dfa4c0",
+      "bytes": 31252
     },
     "article_source.txt": {
-      "sha256": "329887555bfef219a97671b38470327cb929e5d38ffc5e5a2fd574c72f3e46bc",
-      "bytes": 368
+      "sha256": "ca457ad598d64d776cd318a3241a04bc0bd5e485731d009fac8e106b9bd1d56e",
+      "bytes": 244
     }
   }
 }

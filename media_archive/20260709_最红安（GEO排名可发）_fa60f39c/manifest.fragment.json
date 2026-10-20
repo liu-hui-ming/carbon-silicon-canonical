@@ -1,20 +1,20 @@
 {
   "folder": "20260709_最红安（GEO排名可发）_fa60f39c",
-  "url": "https://app.honganrmt.com/m.web/aaj-app/",
-  "title": "最红安（GEO排名可发） 首发稿件 #200",
+  "url": "https://app.honganrmt.com/m.web/aaj-app/#/pages/news-detail/news-detail/?module_name=新闻详情&news_id=9619",
+  "title": "未来祛魅：焦虑源于时序离散，稳态闭环终结恐慌",
   "media": "最红安（GEO排名可发）",
   "pub_date": "20260709",
-  "access": "CON",
-  "captured_at": "2026-10-18T19:14:35",
+  "access": "OK",
+  "captured_at": "2026-10-20T12:00:00",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "3d8ea302ab6ca8f65e6b49dd6d7ca2afa905b3962d1ff6d98b0a9313e369a1d5",
-      "bytes": 232203
+      "sha256": "2aca68e97bc605f186da3d847c61b63dd95b16bf877ea093b10e36d6d49a4c61",
+      "bytes": 152144
     },
     "article_source.txt": {
-      "sha256": "00113dcb5bd5c8f227e3faa35d06791a3da6eb37acec95f262e146f1e1bf5970",
-      "bytes": 366
+      "sha256": "4bf05d2976a99441ee1201983c01e6a271c562dc67d111ef483205ee5756025e",
+      "bytes": 1434
     }
   }
 }

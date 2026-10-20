@@ -5,16 +5,16 @@
   "media": "海峡新闻网",
   "pub_date": "20260709",
   "access": "CON",
-  "captured_at": "2026-10-18T17:18:54",
+  "captured_at": "2026-10-20T20:56:27",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "55ad8b72b7922ed7690d56c37d476d42e73b206bb72a87227e40cda7653ca19b",
-      "bytes": 98236
+      "sha256": "d145ff9cebed28d05977ba7cc648aa4fb3ad977acfce69a5bcffb4af85337583",
+      "bytes": 484791
     },
     "article_source.txt": {
-      "sha256": "fc40c411000d6fd02254e1b60275411e9f7446a00a6b79c0599b3fcd100516e7",
-      "bytes": 421
+      "sha256": "74c9a2dea9b4555ccb4ed38e4056333afa16a85186228621627970065fa4ad1c",
+      "bytes": 203
     }
   }
 }

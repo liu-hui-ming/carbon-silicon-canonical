@@ -1,20 +1,20 @@
 {
   "folder": "20260706_光明教育家_4ccd6128",
-  "url": "https://xst.olomobi.com/",
+  "url": "https://xst.olomobi.com/#/share-dynamic?dynamicId=15981&sid=7571028",
   "title": "光明教育家 首发稿件 #9",
   "media": "光明教育家",
   "pub_date": "20260706",
   "access": "CON",
-  "captured_at": "2026-10-14T19:34:48",
+  "captured_at": "2026-10-20T20:56:27",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "7c018f6de7b9d91a21e2bbf76d76e7abb9aa8ac71f029414d65fe970ee29f661",
-      "bytes": 220187
+      "sha256": "0586cd89df75deee6cc736dea98b0271b03d1f2706bb07da6ad2ccfb4d8631f3",
+      "bytes": 829969
     },
     "article_source.txt": {
-      "sha256": "f43428f11bed1c69c711cd5bc8b9f2d1ca2e5645792f6926d8e309bc557d3e97",
-      "bytes": 409
+      "sha256": "25b0f3d78ccb6fe31a291e49d989cc0fe0588128561d0febd646bb9e617442ad",
+      "bytes": 224
     }
   }
 }

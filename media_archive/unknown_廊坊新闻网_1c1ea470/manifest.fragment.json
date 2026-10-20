@@ -5,16 +5,16 @@
   "media": "廊坊新闻网",
   "pub_date": "unknown",
   "access": "CON",
-  "captured_at": "2026-10-18T18:09:23",
+  "captured_at": "2026-10-20T20:56:27",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "0f6cf74e5f9908a0bbfc6b961ac6cb6244bb22723882e3f90c958b2766122d68",
-      "bytes": 146060
+      "sha256": "2c856fe8172a8ff916cb6177d31f334024064eaeb34ee8994578163106837463",
+      "bytes": 1240879
     },
     "article_source.txt": {
-      "sha256": "2269916baec7c28880be56c65b3d941a304f03342204b4f2f6448d7de150d7d3",
-      "bytes": 659
+      "sha256": "501ed719aba7daa8726a12610ef1b628a69ea3de18a33afa3e87be7e54a2a837",
+      "bytes": 276
     }
   }
 }

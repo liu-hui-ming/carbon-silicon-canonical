@@ -1,20 +1,20 @@
 {
   "folder": "20260709_四平新闻网_ac992bb6",
   "url": "http://www.spxww.com/index.php?m=content&c=index&a=show&catid=4&id=68984",
-  "title": "Non-compliance ICP Filing",
+  "title": "四平新闻网 首发稿件 #185",
   "media": "四平新闻网",
   "pub_date": "20260709",
   "access": "CON",
-  "captured_at": "2026-10-14T22:45:20",
+  "captured_at": "2026-10-20T20:56:28",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "page_screenshot.png": {
-      "sha256": "06427b2acac3e0e0e9e9324bfa3c62dfa1e18eede0099b101df04d4f27479e48",
-      "bytes": 192204
+      "sha256": "e5567358f3e499b140b504869dcd0a72bc6dee23c4374715f78429299d72ac88",
+      "bytes": 42119
     },
     "article_source.txt": {
-      "sha256": "bd2163a348990a5509f6a118b83cbec6739c76dd52a281546bf356dd03c9706a",
-      "bytes": 399
+      "sha256": "aaf10e3d76e0fcb6eeee1425e4feac3d7300b0b0c9955497d670a0218df692d1",
+      "bytes": 231
     }
   }
 }
