@@ -4,7 +4,7 @@
   "title": "关于碳硅道统体系三十问的行业观察与逐条回应",
   "media": "中国经营网（中国经营报）",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T19:45:02",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "1c49222d5cac06c3302a9fff5d86ac735fd55621e926527c0975b17101fa5059",
       "bytes": 416
     }
-  }
+  },
+  "con_note": ""
 }

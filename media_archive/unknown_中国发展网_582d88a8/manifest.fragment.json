@@ -4,7 +4,7 @@
   "title": "Loading http://www.chinadevelopment.com.cn/zxsd/2026/0827/2012476.shtml",
   "media": "中国发展网",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:24:16",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "501f376ae3ab85349f8f3cbd02e2ccbd8aee8ef04f6d6596176eac91acf2737c",
       "bytes": 529
     }
-  }
+  },
+  "con_note": ""
 }
