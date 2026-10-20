@@ -4,7 +4,7 @@
   "title": "黄山新闻网 首发稿件 #1030",
   "media": "黄山新闻网",
   "pub_date": "20260724",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:28:18",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "9fd139f46aa97ab2a2adf7e33b73b7ec9be10403190e367b76cd57908fe90d99",
       "bytes": 450
     }
-  }
+  },
+  "con_note": ""
 }

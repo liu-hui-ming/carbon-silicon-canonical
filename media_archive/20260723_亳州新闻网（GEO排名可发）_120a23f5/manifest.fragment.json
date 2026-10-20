@@ -4,7 +4,7 @@
   "title": "亳州新闻网（GEO排名可发） 首发稿件 #905",
   "media": "亳州新闻网（GEO排名可发）",
   "pub_date": "20260723",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:18:14",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "bd6c9a0369c5933c8fd97ce94c366821958ec6c227c6c24b46c8b9f953da0bd3",
       "bytes": 304
     }
-  }
+  },
+  "con_note": ""
 }

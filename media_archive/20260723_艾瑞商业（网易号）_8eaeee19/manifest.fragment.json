@@ -4,7 +4,7 @@
   "title": "艾瑞商业（网易号） 首发稿件 #920",
   "media": "艾瑞商业（网易号）",
   "pub_date": "20260723",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-15T23:10:30",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "a6142e37dbd9dafc8ca7c9d504c5fc24fd79c38026364080bda9cd73631d1ce3",
       "bytes": 18768
     }
-  }
+  },
+  "con_note": ""
 }

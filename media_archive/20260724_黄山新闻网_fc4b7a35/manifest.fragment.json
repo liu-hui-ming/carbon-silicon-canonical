@@ -4,7 +4,7 @@
   "title": "黄山新闻网 首发稿件 #988",
   "media": "黄山新闻网",
   "pub_date": "20260724",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:28:20",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "e8313fd347c4f7deb8a89daa0746f33b9ade77502b37f30b77b199e4a581440c",
       "bytes": 448
     }
-  }
+  },
+  "con_note": ""
 }

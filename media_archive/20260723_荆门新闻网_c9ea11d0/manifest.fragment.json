@@ -4,7 +4,7 @@
   "title": "荆门新闻网 首发稿件 #954",
   "media": "荆门新闻网",
   "pub_date": "20260723",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:53:49",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "a771cd60cf1acd82a35605dd2a8c2ca1d2a05fd0060c00f96aa1d18abee7d12c",
       "bytes": 513
     }
-  }
+  },
+  "con_note": ""
 }
