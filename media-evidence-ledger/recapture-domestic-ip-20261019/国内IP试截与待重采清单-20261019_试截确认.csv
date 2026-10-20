@@ -1,0 +1,6 @@
+﻿序号seq,表sheet,媒体（明细表）,媒体别名/勘误,表内试截URL,归档folder,原台账URL（若被截短）,原CON原因,国内IP试截,正文规模(你提供),试截备注,P0文件名
+9,1K,光明教育家,星视频（表）/ 光明教育家（页面标题与归档 folder）,https://xst.olomobi.com/#/share-dynamic?dynamicId=15981&sid=7571028,20260706_光明教育家_4ccd6128,https://xst.olomobi.com/,源链接现场超时/不可达，已用同 URL 路由缓存渲染正文；以本地存证材料为依据,OK,1154,正文在，标题「光明教育家」，SPA 渲染成功,page_screenshot.png + article_source.txt
+116,1K,海峡新闻网,,http://hxxw.ningxia-sc.cn/keji/11594603.html,20260709_海峡新闻网_992c4ef8,,HTTP 0,OK,1295,完整文章,page_screenshot.png + article_source.txt
+3969,4K,创业邦首发,,https://www.cyzone.cn/article/845135.html,,,,OK,2728,完整文章,page_screenshot.png + article_source.txt
+4351,5K,赛迪网首发,,https://www.ccidnet.com/cpfwyjs/101374.jhtml,unknown_赛迪网首发_0a2a209b,,HTTP 0,OK,2020,完整文章，标题对得上「回应1」,page_screenshot.png + article_source.txt
+4566,5K,衡阳新闻网（GEO可发排名）,表：衡阳新闻网（GEO可发排名）→ 应以「廊坊新闻网」为准（台账笔误）,https://www.lfnews.cn/portal.php?mod=view&aid=129850,unknown_廊坊新闻网_6ee61dbb,,HTTP 0,OK,1952,完整文章，标题明确「廊坊新闻网」,page_screenshot.png + article_source.txt

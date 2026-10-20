@@ -1105,10 +1105,12 @@
       "reason": "hash8 not in catalog"
     }
   ],
-  "errors": [
+  "errors": [],
+  "excluded": [
     {
       "src": "unknown_创业家（头条号）_d145a260",
-      "error": "no page_screenshot.png in E:\\carbon-silicon-canonical\\media-evidence-ledger\\recapture-domestic-ip-20261019\\media_archive_partB\\media_archive\\unknown_创业家（头条号）_d145a260"
+      "folder": "20260706_创业家（头条号）_d145a260",
+      "reason": "源站内容不存在；已自清单剔除（无 PNG，仅 CON 文本存证）"
     }
   ]
 }
