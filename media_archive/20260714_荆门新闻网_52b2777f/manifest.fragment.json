@@ -4,7 +4,7 @@
   "title": "荆门新闻网 首发稿件 #310",
   "media": "荆门新闻网",
   "pub_date": "20260714",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:46:56",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "a1060960c79428eba1f299b248d4aea9bfa280a76780d5caafe0e7149ae52e62",
       "bytes": 513
     }
-  }
+  },
+  "con_note": ""
 }

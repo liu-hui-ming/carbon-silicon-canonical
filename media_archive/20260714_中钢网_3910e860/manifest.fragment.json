@@ -4,7 +4,7 @@
   "title": "502 Bad Gateway",
   "media": "中钢网",
   "pub_date": "20260714",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-14T23:37:37",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "bc4dcd8ae83aa5cedead9e40beb3cf12e1394a9f27de2a7889c344b1d322b681",
       "bytes": 404
     }
-  }
+  },
+  "con_note": ""
 }

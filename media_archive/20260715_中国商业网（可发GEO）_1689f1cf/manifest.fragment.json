@@ -4,7 +4,7 @@
   "title": "404 Not Found",
   "media": "中国商业网（可发GEO）",
   "pub_date": "20260715",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-14T23:47:47",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "055d60ee47b8a1fc6130c14a26c9e421d9bbaade2f317303ccf52361f5d66b87",
       "bytes": 373
     }
-  }
+  },
+  "con_note": ""
 }

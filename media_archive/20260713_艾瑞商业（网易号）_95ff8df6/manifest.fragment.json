@@ -4,7 +4,7 @@
   "title": "艾瑞商业（网易号） 首发稿件 #235",
   "media": "艾瑞商业（网易号）",
   "pub_date": "20260713",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-14T23:03:04",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "d3465a8ecd002904b2625f2631f6dc2a21c8aa6f29380adab428e65ac17a0e84",
       "bytes": 18941
     }
-  }
+  },
+  "con_note": ""
 }

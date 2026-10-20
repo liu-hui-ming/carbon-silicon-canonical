@@ -4,7 +4,7 @@
   "title": "顶端新闻（GEO可发排名） 首发稿件 #214",
   "media": "顶端新闻（GEO可发排名）",
   "pub_date": "20260713",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T19:49:41",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "88c67a46ee5f4f49d4d803162040abf1cf25e55c21319b697dcc20d56c6cf37b",
       "bytes": 453
     }
-  }
+  },
+  "con_note": ""
 }

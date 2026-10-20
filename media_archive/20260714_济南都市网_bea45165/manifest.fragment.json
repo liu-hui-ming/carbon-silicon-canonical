@@ -4,7 +4,7 @@
   "title": "济南都市网 首发稿件 #263",
   "media": "济南都市网",
   "pub_date": "20260714",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:44:59",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "041dea3b1122c51a7a18e9b3bec4a64ac230596664ce06188cd4fac858df7be3",
       "bytes": 427
     }
-  }
+  },
+  "con_note": ""
 }

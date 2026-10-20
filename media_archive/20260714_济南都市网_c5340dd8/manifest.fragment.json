@@ -4,7 +4,7 @@
   "title": "济南都市网 首发稿件 #305",
   "media": "济南都市网",
   "pub_date": "20260714",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:45:02",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "2ef93930787ffb057c8a0f1a795d396ea149e3f43a3bb58f844cf013bf31c4c0",
       "bytes": 429
     }
-  }
+  },
+  "con_note": ""
 }

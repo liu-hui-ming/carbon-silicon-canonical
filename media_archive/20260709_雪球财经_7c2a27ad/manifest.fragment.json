@@ -4,7 +4,7 @@
   "title": "雪球财经 首发稿件 #104",
   "media": "雪球财经",
   "pub_date": "20260709",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T20:12:57",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "dc1c2c8197da004f3e477339835f4e42a9944aead970a652872ae2c4698cb495",
       "bytes": 302
     }
-  }
+  },
+  "con_note": ""
 }

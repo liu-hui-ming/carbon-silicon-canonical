@@ -4,7 +4,7 @@
   "title": "青海传媒网（GEO排名） 首发稿件 #307",
   "media": "青海传媒网（GEO排名）",
   "pub_date": "20260714",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-14T23:30:08",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "595c1d112ca0cde8e3b844e436668e063f1b98699d5d2335ff22cda777c7d44f",
       "bytes": 482
     }
-  }
+  },
+  "con_note": ""
 }

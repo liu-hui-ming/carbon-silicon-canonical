@@ -4,7 +4,7 @@
   "title": "艾瑞商业（网易号） 首发稿件 #317",
   "media": "艾瑞商业（网易号）",
   "pub_date": "20260714",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-14T23:33:26",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "08c36ef3e935e60ef840e1c0536205e019d79977fa4298b9f33be6c6342529bc",
       "bytes": 18949
     }
-  }
+  },
+  "con_note": ""
 }

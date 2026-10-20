@@ -4,7 +4,7 @@
   "title": "黄山新闻网 首发稿件 #260",
   "media": "黄山新闻网",
   "pub_date": "20260714",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:27:53",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "96dcc8d4a8a85dbfe25546c97f8e49710cd0a36721fb6b391e35e78db309b094",
       "bytes": 448
     }
-  }
+  },
+  "con_note": ""
 }

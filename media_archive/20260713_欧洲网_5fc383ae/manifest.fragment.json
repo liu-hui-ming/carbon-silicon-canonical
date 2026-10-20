@@ -4,7 +4,7 @@
   "title": "404 Not Found",
   "media": "欧洲网",
   "pub_date": "20260713",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-14T22:59:39",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "ba43ddb6196a7952ebbb955a402f9ebe8c669910065c1a64ca34f1d67d6a4ed8",
       "bytes": 357
     }
-  }
+  },
+  "con_note": ""
 }

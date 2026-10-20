@@ -4,7 +4,7 @@
   "title": "艾瑞商业 首发稿件 #139",
   "media": "艾瑞商业",
   "pub_date": "20260709",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-14T22:34:17",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "f1ba1e26f88f5cefbc6834ecb322a5d082981e8c27c4e6463c42d976c4643f53",
       "bytes": 18176
     }
-  }
+  },
+  "con_note": ""
 }

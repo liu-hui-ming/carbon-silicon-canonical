@@ -4,7 +4,7 @@
   "title": "网易新闻上海号 首发稿件 #150",
   "media": "网易新闻上海号",
   "pub_date": "20260709",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-14T22:36:24",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "66894ada91845114efd18e771bb4fd6cb1ac3a4cc6ac0803e7eb45432399ee59",
       "bytes": 18183
     }
-  }
+  },
+  "con_note": ""
 }

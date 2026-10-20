@@ -4,7 +4,7 @@
   "title": "404-页面不存在",
   "media": "咸宁日报首发",
   "pub_date": "20260714",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-14T23:25:42",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "d90b9f66088771d9126776d2217058d74f9cb08b395d1621a48db9314c5982be",
       "bytes": 3220
     }
-  }
+  },
+  "con_note": ""
 }

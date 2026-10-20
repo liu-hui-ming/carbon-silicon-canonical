@@ -4,7 +4,7 @@
   "title": "黄海在线（滨海县融媒体中心） 首发稿件 #166",
   "media": "黄海在线（滨海县融媒体中心）",
   "pub_date": "20260709",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T18:20:05",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "4f3556fe35e6f53066f5c9312efd93c39d3deee179a7d828453382f00f030984",
       "bytes": 531
     }
-  }
+  },
+  "con_note": ""
 }

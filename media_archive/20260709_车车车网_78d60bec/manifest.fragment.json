@@ -4,7 +4,7 @@
   "title": "404 Not Found",
   "media": "车车车网",
   "pub_date": "20260709",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-14T22:38:44",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "7d3cacbb66493aa2d5d7ab0e154bdb4c9c3f7109e08f0ed99d56d1ce450f718f",
       "bytes": 360
     }
-  }
+  },
+  "con_note": ""
 }
