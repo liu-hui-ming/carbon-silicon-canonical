@@ -4,7 +4,7 @@
   "title": "《碳硅道统·跨域迁移治理法典》188集 总纲摘要",
   "media": "济南都市网",
   "pub_date": "20261008",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:45:10",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "1a94aa8b86ec23e457a04b5c529881a8c0fbb8f4ba72a5eb76767b4b760ef19b",
       "bytes": 489
     }
-  }
+  },
+  "con_note": ""
 }

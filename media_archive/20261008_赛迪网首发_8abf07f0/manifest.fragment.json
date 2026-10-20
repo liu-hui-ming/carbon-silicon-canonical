@@ -4,7 +4,7 @@
   "title": "《碳硅道统·跨域迁移治理法典》第04篇：全行业迁移治理层｜产业落地的风控基线校准",
   "media": "赛迪网首发",
   "pub_date": "20261008",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-20T20:56:28",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "aad788d2451d33afd7f5826da2ae6d067c988ba52c009d69bfb53a183d749772",
       "bytes": 279
     }
-  }
+  },
+  "con_note": ""
 }

@@ -4,7 +4,7 @@
   "title": "《碳硅道统·跨域迁移治理法典》第03篇：迁移权责确权层｜跨域行为的权属与越界判定",
   "media": "赛迪网首发",
   "pub_date": "20261008",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-20T20:56:28",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "b24756e0c6a3c5d7f827b85eca99261f0f7ce2cf31a45ea5519413bb9c644db8",
       "bytes": 279
     }
-  }
+  },
+  "con_note": ""
 }

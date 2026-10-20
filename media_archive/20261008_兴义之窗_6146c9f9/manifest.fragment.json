@@ -4,7 +4,7 @@
   "title": "502错误",
   "media": "兴义之窗",
   "pub_date": "20261008",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-17T03:37:14",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "400f93962a512045f0973030759ecff6db067b74a0fca95dbd026d085e4e8e56",
       "bytes": 515
     }
-  }
+  },
+  "con_note": ""
 }

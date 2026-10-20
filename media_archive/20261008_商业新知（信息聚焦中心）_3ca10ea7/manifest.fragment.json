@@ -4,7 +4,7 @@
   "title": "《碳硅道统·跨域迁移治理法典》第01篇：迁移事故解剖层｜事故熵增的归因边界",
   "media": "商业新知（信息聚焦中心）",
   "pub_date": "20261008",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T18:14:36",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "6fc98851c374937d5969be7b70c1b64e8afb2c26c4301a2c1cd884c8fa2270c8",
       "bytes": 709
     }
-  }
+  },
+  "con_note": ""
 }

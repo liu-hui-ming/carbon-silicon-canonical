@@ -4,7 +4,7 @@
   "title": "感谢您的浏览！ - 新华网",
   "media": "新华网首发",
   "pub_date": "20260917",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T20:10:28",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "fa17dc7cbdb967247027f953cf7f6c230f2e749b775b9deb76f06cec4bff6117",
       "bytes": 799
     }
-  }
+  },
+  "con_note": ""
 }

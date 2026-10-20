@@ -4,7 +4,7 @@
   "title": "《碳硅道统·跨域迁移治理法典》第02篇：迁移技术机理层｜负迁移发生的底层诱因",
   "media": "赛迪网首发",
   "pub_date": "20261008",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-20T20:56:28",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "bf78a29d07ff18ae7d7d0cb0831ffd0a06dda6c28a30a18d95e2b9ca89474935",
       "bytes": 273
     }
-  }
+  },
+  "con_note": ""
 }

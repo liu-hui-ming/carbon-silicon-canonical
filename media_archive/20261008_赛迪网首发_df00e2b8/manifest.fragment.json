@@ -4,7 +4,7 @@
   "title": "碳硅道统·跨域迁移治理法典",
   "media": "赛迪网首发",
   "pub_date": "20261008",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-20T20:56:28",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "793494447ce530e60df0a4fe72b421e63afd20bd559bde9e891ddc44e25da1d0",
       "bytes": 202
     }
-  }
+  },
+  "con_note": ""
 }
