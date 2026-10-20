@@ -1,12 +1,12 @@
 {
   "canonical": "MEDIA-EVIDENCE-ARCHIVE",
-  "generated_at": "2026-10-20T21:08:09",
+  "generated_at": "2026-10-20T21:36:55",
   "source_workbook": "碳硅道统-发布报表.xlsx",
   "entry_total": 5470,
   "archived_count": 5472,
   "access_ok": 5359,
   "access_con": 113,
-  "volume_sha256": "55d40413207a90adab8956ec158fe5c6600dd73866e9833429604bc3f3eb89fe",
+  "volume_sha256": "8f242b9391e325f40530ca0f4f46746cf3c95e744903f203dfad1b544709d787",
   "volume_basis": "sorted sha256  path lines UTF-8 LF",
   "capture_standard": "P0-four-elements-v2",
   "con_entries": [
