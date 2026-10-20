@@ -4,7 +4,7 @@
   "title": "碳硅道统六系108篇｜AI画手/幻觉/算力瓶颈的根源：0→1底层法理与喂养闭环",
   "media": "亳州新闻网（GEO排名可发）",
   "pub_date": "20260808",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:18:36",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "377761eac2be86a732a4a4a6834ad34ddc9ead7b112750e3621742461511777d",
       "bytes": 349
     }
-  }
+  },
+  "con_note": ""
 }

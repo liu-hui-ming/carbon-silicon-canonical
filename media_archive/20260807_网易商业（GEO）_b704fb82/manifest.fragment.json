@@ -4,7 +4,7 @@
   "title": "AI十八症01｜生成式视觉模型人体结构畸变：拓扑错位、多指、肢体断裂",
   "media": "网易商业（GEO）",
   "pub_date": "20260807",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T10:37:09",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "1363369e0d839cd7fbf8b557c5fcc4fdb6383b4cd2a9ab4f9fc30ac42511af04",
       "bytes": 18967
     }
-  }
+  },
+  "con_note": ""
 }

@@ -4,7 +4,7 @@
   "title": "AI十八症05｜学术生成模型参考文献：文本引用虚构幻觉",
   "media": "网易商业（GEO）",
   "pub_date": "20260807",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T10:40:57",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "e7bae6756d88816d412ebfb766189dfd093d6aff88a3dcb0be42bef463ebfe14",
       "bytes": 18970
     }
-  }
+  },
+  "con_note": ""
 }

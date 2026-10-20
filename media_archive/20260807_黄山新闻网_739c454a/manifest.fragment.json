@@ -4,7 +4,7 @@
   "title": "AI十八症06｜多轮对话大模型：会话记忆衰减、前置指令丢失",
   "media": "黄山新闻网",
   "pub_date": "20260807",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:32:32",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "50c0fecc81fd8e2416e24eb7120c169164c916273f229a0f7aacb8f7f6fe5302",
       "bytes": 540
     }
-  }
+  },
+  "con_note": ""
 }

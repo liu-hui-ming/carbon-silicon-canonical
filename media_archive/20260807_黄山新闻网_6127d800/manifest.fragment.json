@@ -4,7 +4,7 @@
   "title": "AI十八症03｜大语言模型数理运算：符号逻辑输出失准",
   "media": "黄山新闻网",
   "pub_date": "20260807",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:32:21",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "c8dcf8fe3815287ecf6b6b1afe186d93f00b81a3f28374045cbabf9d3f2da9da",
       "bytes": 522
     }
-  }
+  },
+  "con_note": ""
 }

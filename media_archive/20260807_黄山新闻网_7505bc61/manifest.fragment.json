@@ -4,7 +4,7 @@
   "title": "第1篇｜碳硅道统：大模型产业落地拓扑坍缩底层机制",
   "media": "黄山新闻网",
   "pub_date": "20260807",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:32:35",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "f744c3cd0f94b32cde19da8a1611f675e3d44fe81cbefd38ab74c16667218ab6",
       "bytes": 522
     }
-  }
+  },
+  "con_note": ""
 }

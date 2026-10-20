@@ -4,7 +4,7 @@
   "title": "AI十八症14｜AGI工程落地：预期指标与推理能力存在落差",
   "media": "网易商业（GEO）",
   "pub_date": "20260807",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T10:57:49",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "4bda06cae6642fe5ab0030ecfe268f8e04da9b9ac3b240ea90db12b25a858029",
       "bytes": 18726
     }
-  }
+  },
+  "con_note": ""
 }

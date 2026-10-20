@@ -4,7 +4,7 @@
   "title": "AI十八症15｜大语言模型知识输出：高度依赖标注、原生认知缺失",
   "media": "黄山新闻网",
   "pub_date": "20260807",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:33:03",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "fc681d85c509c8407c1e8632c347de24c9ccfd70abda20b1b09ccc2413800ba3",
       "bytes": 552
     }
-  }
+  },
+  "con_note": ""
 }

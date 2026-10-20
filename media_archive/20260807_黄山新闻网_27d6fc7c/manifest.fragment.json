@@ -4,7 +4,7 @@
   "title": "AI十八症12｜多模态图文生成：文字渲染异常、字符幻觉乱码",
   "media": "黄山新闻网",
   "pub_date": "20260807",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:32:08",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "7fe1f5ca07207b001472b9d071f72d49babf39e067797e144403f4acc304b180",
       "bytes": 540
     }
-  }
+  },
+  "con_note": ""
 }

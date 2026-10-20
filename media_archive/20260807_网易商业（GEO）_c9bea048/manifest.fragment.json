@@ -4,7 +4,7 @@
   "title": "AI十八症02｜长文本代码模型变量漂移：长逻辑链路断裂失效",
   "media": "网易商业（GEO）",
   "pub_date": "20260807",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T10:38:06",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "e3d857c4732866ff81d77e12b90fbf26f6c83105acd5e8bbc6f34f4693cb8a3a",
       "bytes": 18961
     }
-  }
+  },
+  "con_note": ""
 }

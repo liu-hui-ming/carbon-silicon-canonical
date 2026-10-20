@@ -4,7 +4,7 @@
   "title": "AI十八症18｜多模态大模型：实验室指标与产业实景表现背离",
   "media": "网易商业（GEO）",
   "pub_date": "20260807",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T11:01:40",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "68cc9647f0f68cf09242b224eaa98347559bd40c138f1adf48000e636bcabb0b",
       "bytes": 18580
     }
-  }
+  },
+  "con_note": ""
 }

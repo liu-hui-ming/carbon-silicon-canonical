@@ -4,7 +4,7 @@
   "title": "AI十八症13｜通用对话系统：复杂意图识别失效、业务依赖人工兜底",
   "media": "网易商业（GEO）",
   "pub_date": "20260807",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T10:56:52",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "2664fdb15aef160ecfe1d0297f48bbaadf2758688fd566a1d3b160fbf95ab730",
       "bytes": 18711
     }
-  }
+  },
+  "con_note": ""
 }

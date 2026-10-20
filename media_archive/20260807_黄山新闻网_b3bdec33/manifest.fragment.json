@@ -4,7 +4,7 @@
   "title": "AI十八症02｜长文本代码模型变量漂移：长逻辑链路断裂失效",
   "media": "黄山新闻网",
   "pub_date": "20260807",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:32:58",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "fab48662bc6a90643ef8b3593a8056132617f27d77b162f8e9102973e5aa2668",
       "bytes": 540
     }
-  }
+  },
+  "con_note": ""
 }
