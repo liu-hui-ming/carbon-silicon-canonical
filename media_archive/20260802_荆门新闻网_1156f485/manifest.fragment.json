@@ -4,7 +4,7 @@
   "title": "荆门新闻网 首发稿件 #1710",
   "media": "荆门新闻网",
   "pub_date": "20260802",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T18:03:52",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "cfed8cc3bed478db8f83e9c32ecee11a47b344db914b858d1735d888347234ec",
       "bytes": 515
     }
-  }
+  },
+  "con_note": ""
 }

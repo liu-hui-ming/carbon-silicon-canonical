@@ -4,7 +4,7 @@
   "title": "荆门新闻网 首发稿件 #1671",
   "media": "荆门新闻网",
   "pub_date": "20260801",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T18:02:49",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "aeb65f964cb17d576313da72e497583295f086cec2c1d15b18458571b17653ef",
       "bytes": 515
     }
-  }
+  },
+  "con_note": ""
 }

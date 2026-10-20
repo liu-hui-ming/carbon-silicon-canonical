@@ -4,7 +4,7 @@
   "title": "山西科技报首发 （GEO排名可发） 首发稿件 #1634",
   "media": "山西科技报首发 （GEO排名可发）",
   "pub_date": "20260801",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T19:59:38",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "bd6673f83f081054f7d73e9cc432eb2d04ffb033663e7c6aad6ed0a21a6d5538",
       "bytes": 407
     }
-  }
+  },
+  "con_note": ""
 }
