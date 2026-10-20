@@ -4,7 +4,7 @@
   "title": "MBA环球网（网易号） 首发稿件 #844",
   "media": "MBA环球网（网易号）",
   "pub_date": "20260722",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-15T22:44:28",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "4d8bb214d3e453c02373f31cd3e27e49133102849976b9c1af8b1bebc862d40d",
       "bytes": 18750
     }
-  }
+  },
+  "con_note": ""
 }

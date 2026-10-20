@@ -4,7 +4,7 @@
   "title": "艾瑞商业（网易号） 首发稿件 #834",
   "media": "艾瑞商业（网易号）",
   "pub_date": "20260722",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-15T22:36:40",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "896358a107403916e55e5c235f1ef00b3d74bd7355394ee5f50e30c67ed684a3",
       "bytes": 19289
     }
-  }
+  },
+  "con_note": ""
 }

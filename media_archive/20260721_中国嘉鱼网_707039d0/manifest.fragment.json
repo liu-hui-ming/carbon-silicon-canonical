@@ -4,7 +4,7 @@
   "title": "404 Not Found",
   "media": "中国嘉鱼网",
   "pub_date": "20260721",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-15T22:14:24",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "9e95205bd204163a00affcb98a14bb55889358e15d69f6482be9e6505fa3678d",
       "bytes": 383
     }
-  }
+  },
+  "con_note": ""
 }

@@ -4,7 +4,7 @@
   "title": "三好大数据网（网易号） 首发稿件 #926",
   "media": "三好大数据网（网易号）",
   "pub_date": "20260723",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-15T23:13:10",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "e69aff85c3401c3672e8ace3c426b74d6b71b56e410fc9c2f48d9ac118bbff2a",
       "bytes": 18831
     }
-  }
+  },
+  "con_note": ""
 }

@@ -4,7 +4,7 @@
   "title": "亿智蘑菇-试用众测平台 | 智能硬件测评-免费试用-黑科技产品试用",
   "media": "亿智蘑菇(蘑菇智慧树）（GEO排名）",
   "pub_date": "20260721",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-15T22:25:04",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "2772cac939f54956155100940a9cde375aecfa1192f40401d42f890d1c7a7d70",
       "bytes": 799
     }
-  }
+  },
+  "con_note": ""
 }

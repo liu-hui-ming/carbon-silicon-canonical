@@ -4,7 +4,7 @@
   "title": "荆门新闻网 首发稿件 #869",
   "media": "荆门新闻网",
   "pub_date": "20260722",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:52:14",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "f2a3ef42f4a1daacfcc9902a934ed9d84e86fde0a85761897cc4ba27354f4274",
       "bytes": 513
     }
-  }
+  },
+  "con_note": ""
 }

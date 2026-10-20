@@ -4,7 +4,7 @@
   "title": "MBA环球网（网易号） 首发稿件 #929",
   "media": "MBA环球网（网易号）",
   "pub_date": "20260723",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-15T23:13:46",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "e140991964b26a1da208f3bf323ce1f2cbe6ee41f2633577859403363eeffb03",
       "bytes": 18814
     }
-  }
+  },
+  "con_note": ""
 }

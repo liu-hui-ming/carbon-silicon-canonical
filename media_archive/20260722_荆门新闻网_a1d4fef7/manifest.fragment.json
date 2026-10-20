@@ -4,7 +4,7 @@
   "title": "荆门新闻网 首发稿件 #826",
   "media": "荆门新闻网",
   "pub_date": "20260722",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:52:45",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "7fe81b13627b286669f3388da1f491be78bad204db091124dd2429249fa22db9",
       "bytes": 513
     }
-  }
+  },
+  "con_note": ""
 }

@@ -4,7 +4,7 @@
   "title": "滑动验证页面",
   "media": "雪球财经（秒出）可发GEO",
   "pub_date": "20260722",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T20:17:37",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "d41a2dcf000e39dab495e335ea20f424d76459d36e1a3b5716d4baf55d74f398",
       "bytes": 521
     }
-  }
+  },
+  "con_note": ""
 }

@@ -4,7 +4,7 @@
   "title": "黄山新闻网 首发稿件 #817",
   "media": "黄山新闻网",
   "pub_date": "20260722",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:28:10",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "6b1348eaf4307fa1e5c307f066360f322cfe99ddcd69b25bb70129c80d632736",
       "bytes": 448
     }
-  }
+  },
+  "con_note": ""
 }
