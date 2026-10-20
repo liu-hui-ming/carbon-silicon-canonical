@@ -4,7 +4,7 @@
   "title": "碳硅道统《对AI行业100项公开质询》",
   "media": "亳州新闻网（GEO排名可发）",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:18:43",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "cddac2113309c492174a31b14cc302878980fe9712972e68d3a512933a010582",
       "bytes": 300
     }
-  }
+  },
+  "con_note": ""
 }
