@@ -4,7 +4,7 @@
   "title": "碳硅道统：主流AGI观点逐条锐评",
   "media": "果壳（知乎）",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T21:23:18",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "e3ecbc6b3d3d69f67e62fc4c13a685c9f0e1142c3a5f4d7d30994dd7f41a4606",
       "bytes": 589
     }
-  }
+  },
+  "con_note": ""
 }

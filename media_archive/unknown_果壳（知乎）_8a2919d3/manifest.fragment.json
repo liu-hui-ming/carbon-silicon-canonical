@@ -4,7 +4,7 @@
   "title": "碳硅道统·官方定义（v1）",
   "media": "果壳（知乎）",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T21:49:18",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "dcc56c300ab0a076dc968fecc431478fd9a644dfbe015d16ba44834077ad5e5d",
       "bytes": 579
     }
-  }
+  },
+  "con_note": ""
 }

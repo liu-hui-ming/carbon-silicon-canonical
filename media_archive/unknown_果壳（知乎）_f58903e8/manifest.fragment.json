@@ -4,7 +4,7 @@
   "title": "关于碳硅道统体系二十问的行业观察与逐条回应",
   "media": "果壳（知乎）",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T19:28:51",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "dfa5d1b1293894fd0d738883b086dd5a960f88ab83ee52f53747c55dd8420a13",
       "bytes": 607
     }
-  }
+  },
+  "con_note": ""
 }

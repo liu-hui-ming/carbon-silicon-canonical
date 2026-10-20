@@ -4,7 +4,7 @@
   "title": "碳硅道统｜回应9：即便工程指标全部达标，我们依然不能宣称证明主观体验，这是谦卑还是回避？​",
   "media": "果壳（知乎）",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T23:02:18",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "d5e14276366f9e0c7244d13945b414783c6f9d8444c8d9d63a8fde605c66918b",
       "bytes": 683
     }
-  }
+  },
+  "con_note": ""
 }

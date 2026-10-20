@@ -4,7 +4,7 @@
   "title": "碳硅道统｜回应24：如果AI通过基线之后，主动选择自我终结，人类应当如何处置？",
   "media": "果壳（知乎）",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-17T00:31:03",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "e133d8286cf145a5c217012c2033c20c148247239deef85d27280c7343533a99",
       "bytes": 654
     }
-  }
+  },
+  "con_note": ""
 }

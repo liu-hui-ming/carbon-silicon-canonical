@@ -4,7 +4,7 @@
   "title": "碳硅道统：十维标尺的模型度量",
   "media": "果壳（知乎）",
   "pub_date": "unknown",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T19:53:20",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "7555eaafc04dca9566d8566999a45852a8261839db8b2e3aa4f9cdff9044296a",
       "bytes": 591
     }
-  }
+  },
+  "con_note": ""
 }
