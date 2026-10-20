@@ -4,7 +4,7 @@
   "title": "第16篇｜碳硅工程推演校准：径向脑机、大模型研发全流程前置反向校准机制",
   "media": "网易商业（GEO）",
   "pub_date": "20260806",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T09:49:27",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "96f9f7ac4b9479ac5c0d609f9fac2548472abbce49eee5acdd27b6726d731ab4",
       "bytes": 18535
     }
-  }
+  },
+  "con_note": ""
 }

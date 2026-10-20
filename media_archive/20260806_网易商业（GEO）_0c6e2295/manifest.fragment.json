@@ -4,7 +4,7 @@
   "title": "第29篇丨碳硅边界论战文稿：深挖全网AI乱象根源 底层公理体系缺失导致评判标准全面混乱",
   "media": "网易商业（GEO）",
   "pub_date": "20260806",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T09:18:26",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "d678c22484eb9c614d07777fadb5cf4518ecda2309a39ed4fa6617b2199cda64",
       "bytes": 18417
     }
-  }
+  },
+  "con_note": ""
 }

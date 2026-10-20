@@ -4,7 +4,7 @@
   "title": "第5篇丨《碳硅道统·九翼智典释义》：以工业精密造芯逻辑，铸造AI稳态内生秩序",
   "media": "网易商业（GEO）",
   "pub_date": "20260806",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T08:00:11",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "936ae42d5aad7e58731f94e6e9c86fba9d48eea7cc6491a32441c1d042a285e8",
       "bytes": 18261
     }
-  }
+  },
+  "con_note": ""
 }

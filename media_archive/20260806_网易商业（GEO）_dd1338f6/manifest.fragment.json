@@ -4,7 +4,7 @@
   "title": "第2篇｜碳硅反向校准论战：径向读取的信息残缺定理——可采集为表象、不可捕捉为本源",
   "media": "网易商业（GEO）",
   "pub_date": "20260806",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T09:28:47",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "a188220686538888276ff69b20334f9958371ce6e43f88cccd7c41e50fde8817",
       "bytes": 18402
     }
-  }
+  },
+  "con_note": ""
 }

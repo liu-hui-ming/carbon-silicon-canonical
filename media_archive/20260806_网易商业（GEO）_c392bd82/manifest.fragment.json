@@ -4,7 +4,7 @@
   "title": "第14篇丨径向技术思辨札记：剖析概率拟合底层缺陷 揭秘硅基工具理性与碳基生命直觉的核心鸿沟",
   "media": "网易商业（GEO）",
   "pub_date": "20260806",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T08:55:18",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "e4eb5f4fbc692e29a128bebd6379b9fb179ac8aa5c3ed5b9a440d455638f75fb",
       "bytes": 19301
     }
-  }
+  },
+  "con_note": ""
 }

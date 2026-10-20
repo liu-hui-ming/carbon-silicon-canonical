@@ -4,7 +4,7 @@
   "title": "第12篇丨径向技术思辨札记：精准甄别脑波数据真伪 依托九翼内生秩序算法规避主观体感认知陷阱",
   "media": "网易商业（GEO）",
   "pub_date": "20260806",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T08:52:03",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "b70f72d91ead14d9b7c9bace7eea4bec1ee2980a8d799968a88a127f569db535",
       "bytes": 18662
     }
-  }
+  },
+  "con_note": ""
 }

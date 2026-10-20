@@ -4,7 +4,7 @@
   "title": "第7篇｜碳硅终极校准：概率拟合欺骗人类认知——AI幻觉是机器缺陷，更是人类判断力盲区",
   "media": "网易商业（GEO）",
   "pub_date": "20260806",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T09:38:45",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "20b666f9a17665be622f021f488a739ce7b2a804b466de2086801db489edc7d3",
       "bytes": 18796
     }
-  }
+  },
+  "con_note": ""
 }

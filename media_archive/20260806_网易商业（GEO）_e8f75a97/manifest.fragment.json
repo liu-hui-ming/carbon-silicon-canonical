@@ -4,7 +4,7 @@
   "title": "第7篇丨径向技术思辨札记：以90条宇宙公律为标尺 建立径向智能层级客观判定与量化标准",
   "media": "网易商业（GEO）",
   "pub_date": "20260806",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T08:44:44",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "9bbf60f71140fabe0e23953a881dca1a7c15a1c6955ae0350135c9c4cf1f2504",
       "bytes": 18955
     }
-  }
+  },
+  "con_note": ""
 }
