@@ -4,7 +4,7 @@
   "title": "碳硅道统AI十八数13｜碳硅权限“风险递增”铁律：智能边界扩张同步放大安全隐患",
   "media": "黄山新闻网",
   "pub_date": "20260811",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:35:38",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "eb290c2182247412a42c5611b7658592cd9970656729a45c24799a6b9d88ff95",
       "bytes": 600
     }
-  }
+  },
+  "con_note": ""
 }

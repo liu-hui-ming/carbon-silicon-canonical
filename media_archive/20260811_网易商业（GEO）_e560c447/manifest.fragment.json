@@ -4,7 +4,7 @@
   "title": "碳硅道统AI十八式13｜碳硅权限越界风险指数标尺：平衡智能拓展与安全对齐强度",
   "media": "网易商业（GEO）",
   "pub_date": "20260811",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T16:00:50",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "6650a252ac64ee118005683fc5fa56304c63cdb4d2acb392d9d12a79d212322e",
       "bytes": 18515
     }
-  }
+  },
+  "con_note": ""
 }

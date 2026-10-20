@@ -4,7 +4,7 @@
   "title": "碳硅道统AI十八术13｜碳硅二元权限隔离架构：刚性划分人类裁决与AI执行边界",
   "media": "黄山新闻网",
   "pub_date": "20260811",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:36:33",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "d48756fb107bd30f8542313b7859ce41bf5bddc4371e068b6f49e0c448dd7227",
       "bytes": 586
     }
-  }
+  },
+  "con_note": ""
 }

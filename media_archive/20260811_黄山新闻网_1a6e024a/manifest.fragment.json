@@ -4,7 +4,7 @@
   "title": "碳硅道统AI十八式08｜并发故障扩张指数评估标尺：量化流量增长缺陷放大倍率",
   "media": "黄山新闻网",
   "pub_date": "20260811",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:35:44",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "cc0935c1829bdc429c01026e324d745fbfb20c54621ac3eb3fe89a5814397ba8",
       "bytes": 588
     }
-  }
+  },
+  "con_note": ""
 }

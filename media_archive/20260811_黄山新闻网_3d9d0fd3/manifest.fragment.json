@@ -4,7 +4,7 @@
   "title": "碳硅道统AI十八式12｜三维智能层级客观计量标尺：消除人工打分主观浮动偏差",
   "media": "黄山新闻网",
   "pub_date": "20260811",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:36:00",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "fbf8e8662c715f30ec7175354992be018e3812f5b6ff8603b1d1d4e8dbf0c097",
       "bytes": 588
     }
-  }
+  },
+  "con_note": ""
 }

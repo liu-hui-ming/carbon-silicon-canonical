@@ -4,7 +4,7 @@
   "title": "碳硅道统AI十八式10｜通用智能落地风险计量标尺：量化长周期工程隐患等级",
   "media": "黄山新闻网",
   "pub_date": "20260811",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:35:52",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "30211763d33691066e502d4ecff27f650edb128e8eabb969827264fcf2ed4835",
       "bytes": 582
     }
-  }
+  },
+  "con_note": ""
 }

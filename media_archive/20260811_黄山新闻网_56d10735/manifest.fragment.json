@@ -4,7 +4,7 @@
   "title": "碳硅道统AI十八数16｜技术科普“失真偏差”铁律：浅层传播弱化底层客观技术边界",
   "media": "黄山新闻网",
   "pub_date": "20260811",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:36:24",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "a9786009ad9faccc126dd651e01a65662f6fc45a0c06af9734c60041e8f1b6ea",
       "bytes": 600
     }
-  }
+  },
+  "con_note": ""
 }

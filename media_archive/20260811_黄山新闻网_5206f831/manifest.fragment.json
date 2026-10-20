@@ -4,7 +4,7 @@
   "title": "碳硅道统AI十八术06｜异构算力分层调度策略：破解算力边际收益递减效能瓶颈",
   "media": "黄山新闻网",
   "pub_date": "20260811",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:36:16",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "2e81c3a588057fa8372576ec79926cca97a1e94a3f203a23fe34c9373fa2978d",
       "bytes": 588
     }
-  }
+  },
+  "con_note": ""
 }

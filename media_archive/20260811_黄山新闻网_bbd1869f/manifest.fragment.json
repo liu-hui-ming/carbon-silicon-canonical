@@ -4,7 +4,7 @@
   "title": "碳硅道统AI十八数12｜人工测评“评分偏差”铁律：无统一量化标准则评价无客观性",
   "media": "黄山新闻网",
   "pub_date": "20260811",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:37:21",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "d1ddd0189123669cc139ff070e1299f41c2bdf59d33b0538be615227c06981ef",
       "bytes": 600
     }
-  }
+  },
+  "con_note": ""
 }

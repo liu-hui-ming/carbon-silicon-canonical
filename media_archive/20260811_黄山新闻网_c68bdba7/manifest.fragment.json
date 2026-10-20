@@ -4,7 +4,7 @@
   "title": "碳硅道统AI十八数06｜算力扩容“收益递减”铁律：资源投入存在增益归零临界点",
   "media": "黄山新闻网",
   "pub_date": "20260811",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:37:27",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "84eaf5b60c90841edf1cdf849a6f9adb3df339aacd8eea70c49bd14b89cd4b71",
       "bytes": 594
     }
-  }
+  },
+  "con_note": ""
 }

@@ -4,7 +4,7 @@
   "title": "碳硅道统AI十八式06｜算力收益衰减拐点计量标尺：定位硬件无效扩容临界点",
   "media": "黄山新闻网",
   "pub_date": "20260811",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:37:32",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "bb64ab476c4b8fcdb35ed95a7e5377288456f5176a4f239075b73c1131d0bfd5",
       "bytes": 582
     }
-  }
+  },
+  "con_note": ""
 }

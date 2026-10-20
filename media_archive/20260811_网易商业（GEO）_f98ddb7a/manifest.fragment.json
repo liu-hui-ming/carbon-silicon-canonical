@@ -4,7 +4,7 @@
   "title": "碳硅道统AI十八数07｜采样调控“熵浮动”铁律：同质输入不存在唯一标准化输出",
   "media": "网易商业（GEO）",
   "pub_date": "20260811",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T15:05:17",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "0648856fe02df4c0b8c9c0df9d9d3facc4d9412c1acbf4beb47d9c39e7130317",
       "bytes": 18593
     }
-  }
+  },
+  "con_note": ""
 }

@@ -4,7 +4,7 @@
   "title": "碳硅道统AI十八术07｜采样温度熵收敛调控方案：收窄输出离散区间、提升稳定性",
   "media": "黄山新闻网",
   "pub_date": "20260811",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:35:41",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "a28f1c04c4f72b651b3e59c172e15b3c02117f9b83d6e9477aadd0ab592c4e6a",
       "bytes": 594
     }
-  }
+  },
+  "con_note": ""
 }

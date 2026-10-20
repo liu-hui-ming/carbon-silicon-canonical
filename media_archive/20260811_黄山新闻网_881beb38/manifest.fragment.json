@@ -4,7 +4,7 @@
   "title": "碳硅道统AI十八术09｜分段公理前置校验范式：拦截数理推导跳步逻辑谬误",
   "media": "黄山新闻网",
   "pub_date": "20260811",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:36:46",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "f0e2f4355a125c058efb4dacf24714a8c46fce2da1a8bf035ad8382226fd8777",
       "bytes": 576
     }
-  }
+  },
+  "con_note": ""
 }
