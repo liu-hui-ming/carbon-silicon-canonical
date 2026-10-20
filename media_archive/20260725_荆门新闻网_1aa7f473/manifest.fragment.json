@@ -4,7 +4,7 @@
   "title": "荆门新闻网 首发稿件 #1125",
   "media": "荆门新闻网",
   "pub_date": "20260725",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:55:24",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "18e1cced4c768cc6cdc887735a0ab79253f505ace4ad46cc87ee1c3cb9ae4952",
       "bytes": 515
     }
-  }
+  },
+  "con_note": ""
 }

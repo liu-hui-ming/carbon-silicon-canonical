@@ -4,7 +4,7 @@
   "title": "黄山新闻网 首发稿件 #1073",
   "media": "黄山新闻网",
   "pub_date": "20260725",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T17:28:26",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "777af7c1d20932a59892b9138c8c9a4df8d37bcc111727b0c0f57eef61ca55a8",
       "bytes": 450
     }
-  }
+  },
+  "con_note": ""
 }

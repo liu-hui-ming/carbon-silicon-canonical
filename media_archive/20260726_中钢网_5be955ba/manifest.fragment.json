@@ -4,7 +4,7 @@
   "title": "钢铁行业钢材市场新闻资讯_国内外钢材期货行情专家观点_中钢网",
   "media": "中钢网",
   "pub_date": "20260726",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T00:57:05",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "cebdc6ee9a6a2d9779d9230e88303cf1393ffb2d2c98d51e4a90236adaf2ff3a",
       "bytes": 537
     }
-  }
+  },
+  "con_note": ""
 }

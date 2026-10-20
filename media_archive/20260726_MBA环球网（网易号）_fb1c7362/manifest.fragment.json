@@ -4,7 +4,7 @@
   "title": "MBA环球网（网易号） 首发稿件 #1223",
   "media": "MBA环球网（网易号）",
   "pub_date": "20260726",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-16T00:55:38",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "44dd2c31850b49e047d6bf1b8a86b9a6fae5573b24ef9d51ace7ea0ea6c32620",
       "bytes": 19229
     }
-  }
+  },
+  "con_note": ""
 }

@@ -4,7 +4,7 @@
   "title": "商业新知（GEO可发） 首发稿件 #1295",
   "media": "商业新知（GEO可发）",
   "pub_date": "20260727",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T18:12:31",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "0e88283d74c7c600ce1cf220bddd04b2dcc7e2394b239ffbd3717ecc9d290f26",
       "bytes": 580
     }
-  }
+  },
+  "con_note": ""
 }

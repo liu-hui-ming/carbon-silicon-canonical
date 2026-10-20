@@ -4,7 +4,7 @@
   "title": "商丘新闻网（GEO排名可发） 首发稿件 #1157",
   "media": "商丘新闻网（GEO排名可发）",
   "pub_date": "20260726",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T18:17:27",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "e6b82becf541198d396fb31239f1a2d3efb926877e872186091cb098d338e467",
       "bytes": 563
     }
-  }
+  },
+  "con_note": ""
 }
