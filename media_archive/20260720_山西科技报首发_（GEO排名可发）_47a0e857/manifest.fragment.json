@@ -4,7 +4,7 @@
   "title": "山西科技报首发 （GEO排名可发） 首发稿件 #709",
   "media": "山西科技报首发 （GEO排名可发）",
   "pub_date": "20260720",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-18T20:00:37",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "9b36b471b52317297bbac3771c7a62b3c95f63d43435527ee832b356ef975b87",
       "bytes": 405
     }
-  }
+  },
+  "con_note": ""
 }

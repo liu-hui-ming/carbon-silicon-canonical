@@ -4,7 +4,7 @@
   "title": "IT专家网（网易号） 首发稿件 #721",
   "media": "IT专家网（网易号）",
   "pub_date": "20260720",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-15T22:02:47",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "934004493a4314742a03f62a83c67972280c87eaba8774478e0a42585b1d1693",
       "bytes": 18640
     }
-  }
+  },
+  "con_note": ""
 }

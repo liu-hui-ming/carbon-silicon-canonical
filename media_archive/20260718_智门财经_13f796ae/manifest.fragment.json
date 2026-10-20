@@ -4,7 +4,7 @@
   "title": "智门财经 首发稿件 #649",
   "media": "智门财经",
   "pub_date": "20260718",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-15T01:27:39",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "6c941cb1d196901a0447431875c457aab011f3fa4963aae03b32b7eb094dd74b",
       "bytes": 429
     }
-  }
+  },
+  "con_note": ""
 }

@@ -4,7 +4,7 @@
   "title": "科技魔方网（网易号） 首发稿件 #727",
   "media": "科技魔方网（网易号）",
   "pub_date": "20260720",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-15T22:03:09",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "58168b3ab989832f5f211e7f6a4d434d8c1a92c5e87e9671e3e593451fa7bfe5",
       "bytes": 18369
     }
-  }
+  },
+  "con_note": ""
 }

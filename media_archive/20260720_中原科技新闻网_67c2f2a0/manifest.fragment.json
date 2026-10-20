@@ -4,7 +4,7 @@
   "title": "未找到页面 – 中原科技新闻网",
   "media": "中原科技新闻网",
   "pub_date": "20260720",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-15T21:59:22",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "db4cb58345ce44c152123eddf7ee60acf7b688417713c62c1059e3febf95bbb3",
       "bytes": 686
     }
-  }
+  },
+  "con_note": ""
 }

@@ -4,7 +4,7 @@
   "title": "404 Not Found",
   "media": "环球财富网（GEO排名可发）",
   "pub_date": "20260718",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-15T01:10:57",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "3ce8678d2b917d1f6b8a035fb92410bbacf2b9c7e94c308e20cccb31424caf26",
       "bytes": 385
     }
-  }
+  },
+  "con_note": ""
 }

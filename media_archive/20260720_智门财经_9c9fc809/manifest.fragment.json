@@ -4,7 +4,7 @@
   "title": "智门财经 首发稿件 #728",
   "media": "智门财经",
   "pub_date": "20260720",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-15T22:03:13",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "06648ec50a14652cb6b6f1a84ab9ee8d1f23054a96e09ff7c47a0f3eff5986b0",
       "bytes": 429
     }
-  }
+  },
+  "con_note": ""
 }

@@ -4,7 +4,7 @@
   "title": "网易商业（GEO） 首发稿件 #610",
   "media": "网易商业（GEO）",
   "pub_date": "20260718",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-15T01:15:31",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "8c3d919736ddb2402e29a605013524ce78017ac02260bdfe877a82705b6edbbd",
       "bytes": 18524
     }
-  }
+  },
+  "con_note": ""
 }

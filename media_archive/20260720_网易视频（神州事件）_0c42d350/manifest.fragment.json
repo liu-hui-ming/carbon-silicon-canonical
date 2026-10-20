@@ -4,7 +4,7 @@
   "title": "网易视频（神州事件） 首发稿件 #725",
   "media": "网易视频（神州事件）",
   "pub_date": "20260720",
-  "access": "CON",
+  "access": "OK",
   "captured_at": "2026-10-15T22:03:02",
   "capture_standard": "P0-four-elements-v2",
   "files": {
@@ -16,5 +16,6 @@
       "sha256": "8969ba59f187fbf0313d01994cbc24241c6e88506bfbc8d579175b91a6ca0c91",
       "bytes": 18698
     }
-  }
+  },
+  "con_note": ""
 }
