@@ -1,0 +1,111 @@
+卷宗锚: EP03-FINAL-MERGE-20261023
+附卷锚: AUDIT-NOTE-002
+状态: PENDING_REVIEW
+截止: 2026-10-23T20:00:00+08:00
+纪律:
+  - 主卷正文冻结，不在此文件改写
+  - 推荐方案不等于已裁定
+  - 阻塞项未裁定前不得视为工程闭环
+  - evidence_grade 描述本记录来源，不代表独立核验或真值等级
+rulings:
+  - id: RUL-EP03-001
+    title: 证据五态与溯源标签分层
+    blocking: false
+    evidence_grade: SUBMITTER_ASSERTION
+    status: PENDING_REVIEW
+    issue: C组五态与I组溯源失效标记职责边界不清，存在重复登记风险。
+    recommendation: 五态为强制基础状态；I组标记为可叠加审计标签，不替代基础状态。
+    mapping:
+      - base_state: SOURCE_MISSING
+        optional_tag: PROVENANCE_GAP
+      - base_state: INCONCLUSIVE
+        optional_tag: SOURCE_COMPLETENESS_UNKNOWN
+    alternatives:
+      - id: A
+        text: 采纳两层分离及上述建议映射。
+      - id: B
+        text: 保留标签但不设固定映射，由逐案审查登记。
+    evidence_refs: [AUDIT-NOTE-002]
+  - id: RUL-EP03-002
+    title: 自定义熵指标准入
+    blocking: false
+    evidence_grade: SUBMITTER_ASSERTION
+    status: PENDING_REVIEW
+    issue: 自定义熵指标缺少审批主体与校验材料要求。
+    recommendation: 纳入Meta-Dim注册审批及Measurement字段校验；注册前不得进入判定链路。提交数学定义、值域、单位、系统边界、预设反例集、适用域及禁用域。Meta-Dim维度管理员初审，重大指标抄送EP01元裁判复核。
+    alternatives:
+      - id: A
+        text: 采纳推荐方案。
+      - id: B
+        text: 只要求Measurement字段完整，个案另行指定审查主体与材料。
+    evidence_refs: [AUDIT-NOTE-002]
+  - id: RUL-EP03-003
+    title: 双账本与三层评价映射
+    blocking: true
+    evidence_grade: SUBMITTER_ASSERTION
+    status: PENDING_HUMAN_RULING
+    issue: J组账本与三层评价架构映射不明确，可能造成重复计权。
+    recommendation: 保护资格账本映射硬约束层；不可公度独立价值账本映射独立价值层；绩效评价账本映射条件绩效层。保护资格不通过即终止绩效计算；资格判定不得跨账本重复登记。
+    alternatives:
+      - id: A
+        text: 采纳推荐的一对一映射及终止规则。
+      - id: B
+        text: 允许条目跨账本引用，但指定唯一资格判定主记录及禁止重复计权规则。
+    evidence_refs: [AUDIT-NOTE-002]
+  - id: RUL-EP03-004
+    title: Lifecycle字段托管位置
+    blocking: false
+    evidence_grade: SUBMITTER_ASSERTION
+    status: PENDING_REVIEW
+    issue: A至N逐维正文未展开Lifecycle实例字段。
+    recommendation: Lifecycle字段统一托管于Meta-Dim注册表；主卷按稳定维度ID引用注册表记录及其版本/哈希，不扩写冻结正文。
+    alternatives:
+      - id: A
+        text: 采纳注册表外置托管，正文保持冻结。
+      - id: B
+        text: 以独立逐维附表登记Lifecycle字段，不改主卷。
+    evidence_refs: [AUDIT-NOTE-002]
+  - id: RUL-EP03-005
+    title: FD根测试判据冻结
+    blocking: true
+    evidence_grade: SUBMITTER_ASSERTION
+    status: PENDING_HUMAN_RULING
+    issue: FD-01、FD-03、FD-10缺少预先冻结的输入、预期输出、边缘案例及PASS/FAIL/NOT_TESTED/INCONCLUSIVE判据。
+    recommendation: 外置ep03-fd-root-criteria.yaml，提供可机器校验断言并绑定索引；判据冻结前不得启动根测试。
+    alternatives:
+      - id: A
+        text: 先冻结外置判据文件，再启动测试。
+      - id: B
+        text: 先进行非验收原型探索；结果标EXPLORATORY，不计PASS，之后另行冻结判据并重测。
+    evidence_refs: [AUDIT-NOTE-002]
+  - id: RUL-EP03-006
+    title: 硬约束互斥裁决流程
+    blocking: true
+    evidence_grade: SUBMITTER_ASSERTION
+    status: PENDING_HUMAN_RULING
+    issue: 多项硬约束互斥时，裁决主体、权限来源和申诉流程缺失。
+    recommendation: 路由至EP01元裁判实例；形成冲突存根与听证记录；临时冻结依赖该冲突约束集的适配结论；裁决以ERRATUM附卷记录，并保留复核、撤销路径。
+    alternatives:
+      - id: A
+        text: 采纳推荐路由和记录/冻结/复核流程，具体授权依据由EP01既有权限矩阵确认。
+      - id: B
+        text: 冲突期间维持UNKNOWN并暂停相关行动，不指定裁决主体，待EP01补齐授权后再裁定。
+    evidence_refs: [AUDIT-NOTE-002]
+  - id: RUL-EP03-007
+    title: 权限依赖与规范冲突检出
+    blocking: true
+    evidence_grade: SUBMITTER_ASSERTION
+    status: PENDING_HUMAN_RULING
+    issue: 两类耦合尚无可执行检出、阈值及人工复核触发规范。
+    recommendation: 权限依赖采用权限矩阵交叉扫描，标记同一主体兼持关键定义/数据控制/最终处置权限的组合；规范冲突采用规则AST静态比对和反例注入，标记同一输入触发互斥强制动作的情况。脚本与阈值外置托管csdt-tools，检测结果不得自动成为裁决。
+    alternatives:
+      - id: A
+        text: 采纳两类检出方案，脚本与阈值经独立审查后登记。
+      - id: B
+        text: 先将两类关系统一标记UNASSESSED，只允许人工复核且不得用于裁决，待检出方法验证后升级状态。
+    evidence_refs: [AUDIT-NOTE-002]
+summary:
+  total: 7
+  blocking: [RUL-EP03-003, RUL-EP03-005, RUL-EP03-006, RUL-EP03-007]
+  non_blocking: [RUL-EP03-001, RUL-EP03-002, RUL-EP03-004]
+  all_pending: true

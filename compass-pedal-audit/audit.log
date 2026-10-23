@@ -1,0 +1,6 @@
+2026-04-25 09:00:00 - 权限检查模块变更说明:
+- 新增基于RBAC的权限校验，在关键操作前检查用户角色和资源访问控制。
+- 引入审计事件记录，记录操作用户、时间、目标资源及结果。
+- 更新权限配置文件 `config/permissions.yaml`，添加新角色 `engineer` 的操作范围。
+- 单元测试覆盖新增逻辑，确保不同角色的访问控制行为符合预期。
+单元测试报告链接: https://example.com/unit-tests/permission-module-report.html

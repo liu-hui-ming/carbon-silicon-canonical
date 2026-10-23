@@ -1,0 +1,84 @@
+# EP02-MOTIVE-OS-R1.2 融合定稿｜待裁定事项 5 项（YAML 机器可读条目）
+# 生成：2026-10-22 20:41 ｜ 生成方：帝王龙虾·穹主（qiongzhu）
+# 来源：E4 全文收妥后勘疑登记 ｜ 状态：PENDING_RULING（待创立人黄清佳裁定）
+# 裁定归属：创立人 ｜ 落盘前置：全部 5 项须在明晚 20:00 勘录落盘前裁定完毕
+# 谱系：E1(R1.0本体) → E2(R1.0十维扩展) → E3(R1.1治理闭环) → E4(R1.2融合定稿)
+
+meta:
+  dossier: EP02-MOTIVE-OS-R1.2
+  version_state: THEORY_FUSED
+  engineering_state: NOT_ESTABLISHED
+  verification_state: NOT_ESTABLISHED
+  batch: CP-SEAL-2026-10-22-01   # 已闭环，本件不入批，属明晚 20:00 勘录首批
+  target_slot: compass-pedal-survey-first-batch
+  ruling_deadline: "2026-10-23T20:00:00+08:00"
+
+pending_rulings:
+  - id: RUL-PEND-E4-01
+    title: 旧版02与R1.0-R1.2谱系关系
+    question: 旧版 EP02-MOTIVE-OS 与 R1.0-R1.2 四件采用双版并存还是直接替换？
+    options:
+      - coexist_with_erratum_pointer   # 双版并存 + ERRATUM 指针，旧版不动（RUL-EP16-01 先例）
+      - replace                        # 直接替换，旧版归档切片
+    recommendation: coexist_with_erratum_pointer
+    blocking: false
+    evidence_grade: B
+
+  - id: RUL-PEND-E4-02
+    title: L1-L4命名空间冲突
+    question: 本件通篇裸 L1-L4 与 RUL-BASELINE-01 冻结命名空间（ARC-L0~L3/STACK-L1~L4/PIPE-L1~L4）撞号，是否改用前缀？
+    options:
+      - rename_to_MOTIVE_L1_L4         # 改 MOTIVE-L1..L4，消除冲突（推荐）
+      - keep_bare_with_scope_note      # 保留裸编号，仅加作用域注记
+    recommendation: rename_to_MOTIVE_L1_L4
+    blocking: true                     # 不解决则落盘即产生编号冲突
+    evidence_grade: A                  # 依既有裁定 RUL-BASELINE-01（已冻结）
+
+  - id: RUL-PEND-E4-03
+    title: L4锚定争议层构成机制
+    question: L4 成员构成、产生机制、任期、可撤换性未定义，如何处置？
+    options:
+      - author_supplement              # 创立人补写构成机制
+      - mark_undefined                 # 永久标记 L4_composition: UNDEFINED，承认空位后照常落盘
+    recommendation: mark_undefined
+    blocking: false                    # 可标空位后照常落盘
+    evidence_grade: B
+
+  - id: RUL-PEND-E4-04
+    title: 四件哈希归档策略
+    question: E1-E4 四件哈希策略如何执行？
+    options:
+      - E4_main_baseline_plus_E1_E2_E3_history_slices   # E4 主基线，E1-E3 历史切片独立哈希永久归档（推荐）
+      - E4_only                                         # 仅 E4 落盘哈希，前三件不入档
+    recommendation: E4_main_baseline_plus_E1_E2_E3_history_slices
+    blocking: false
+    evidence_grade: B
+
+  - id: RUL-PEND-E4-05
+    title: 硬件工程清单层级混叠
+    question: 价值溢出第7条（KC705/Zynq/Vivado/XDC/DTS/Testbench/SVA）是否剥离为独立附卷？
+    options:
+      - split_to_EP02_R12_ENG_PLAN     # 拆附卷 EP02-R12-ENG-PLAN（状态 NOT_STARTED），正文留指针（推荐）
+      - keep_inline                    # 保留正文内嵌，接受层级混叠
+    recommendation: split_to_EP02_R12_ENG_PLAN
+    blocking: false
+    evidence_grade: B
+    related_clauses: [A07]
+
+supplementary_fields_pending:        # 勘疑附带字段，落盘时随文补
+  - field: rhetoric_layer
+    value: 修辞性强调，不构成规范断言
+    reason: "彻底推翻五类预设"的绝对化修辞与去绝对化原则相抵
+  - field: cost_gate_status
+    value: PENDING
+    reason: 十维自身未附成本评估，与自设观测成本门禁保持一致
+  - field: self_falsifiable
+    value: 本章五条推翻亦为可推翻假说，附反例条件
+    reason: R1.1 推翻清单缺少自身可推翻性声明
+
+lineage:
+  E1: {id: EP02-MOTIVE-OS-R1.0, state: THEORY_PROPOSED, hash: PENDING}
+  E2: {id: EP02-MOTIVE-OS-R1.0-十维扩展, state: THEORY_PROPOSED, hash: PENDING}
+  E3: {id: EP02-MOTIVE-OS-R1.1, state: THEORY_PROPOSED, hash: PENDING}
+  E4: {id: EP02-MOTIVE-OS-R1.2, state: THEORY_FUSED, hash: PENDING}
+  note: 四件哈希均为 PENDING，落盘时逐件 sha256sum 全量实测后回填，实测哈希为唯一完成态凭据

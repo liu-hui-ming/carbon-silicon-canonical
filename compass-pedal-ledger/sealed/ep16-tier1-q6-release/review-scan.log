@@ -1,0 +1,4 @@
+=== Q6 T-OPERATOR FULL SCAN START ===
+Scanned nodes: 64
+ALL CHECKS PASS, err_cnt=0
+tb_q6_t_operator.sv:192: $finish called at 1306000 (1ps)

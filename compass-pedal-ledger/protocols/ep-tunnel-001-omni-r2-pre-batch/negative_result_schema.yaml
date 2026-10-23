@@ -1,0 +1,89 @@
+# ============================================================
+# FILE 03: negative_result_schema.yaml
+# P3｜四类合法负结果接收字段 Schema
+# 缺陷：卷首声明必须支持四类负结果，但原算子/证据条目无接收字段，负结果静默丢弃
+# ============================================================
+spec: NEGATIVE_RESULT_SCHEMA
+target: EP-TUNNEL-001-OMNI-R2
+schema_name: NEGATIVE_RESULT
+schema_version: v0.3-draft
+required_fields:
+  - result_id
+  - operator_id
+  - negative_type
+  - observation_payload
+  - witness_record
+  - reviewer_id
+  - timestamp_utc
+  - retention_policy
+  - linked_bench_ref
+  - state_ref
+  - classification_tag
+enum_negative_type:
+  - NO_IDENTIFIABLE_MAPPING
+  - MAPPING_NOT_STABLE_ESTIMABLE
+  - EVIDENCE_REJECTS_CAUSALITY
+  - FRAMEWORK_INDETERMINATE
+field_definition:
+  result_id:
+    type: string
+    description: 负结果唯一ID
+  operator_id:
+    type: string
+    description: 关联映射算子ID，跨维度算子T_A→B
+  negative_type:
+    type: enum
+    description: 四类合法负结果分类
+  observation_payload:
+    type: object
+    description: 原始观测、误差区间、采样条件
+  witness_record:
+    type: string
+    description: 观测见证记录，原始测量引用
+  reviewer_id:
+    type: string
+    description: 签收复核主体
+  timestamp_utc:
+    type: datetime
+    description: 归档UTC时间戳
+  retention_policy:
+    type: enum
+    values: [PERMANENT, REVIEW_CYCLE, TEMP]
+    default: PERMANENT
+    description: 强制永久留存，不可被后续阳性推演覆盖
+  linked_bench_ref:
+    type: string
+    description: 绑定SYS-DIM-BENCH基准ID，预留对接B-16~~B-18、F-15~~F-17
+  state_ref:
+    type: object
+    description: 绑定双轴状态机当前EVIDENCE_AXIS + GOVERNANCE_AXIS组合
+  classification_tag:
+    type: enum
+    values: [FORMAL_EVIDENCE, TRIAL_RUN, SANITY_CHECK]
+    default: FORMAL_EVIDENCE
+    description: >
+      FORMAL_EVIDENCE：正式观测负结果，强制PERMANENT，不受90天清理；
+      TRIAL_RUN / SANITY_CHECK：调试试算，可匹配90天清理策略。
+conditional_gate_rule:
+  - classification_tag = FORMAL_EVIDENCE → retention_policy 强制锁定 PERMANENT，校验报错不可修改（机器门禁见顶层 allOf 条件分支，标准 JSON Schema 可校验）
+  - TRIAL_RUN / SANITY_CHECK → retention_policy 允许 PERMANENT / TEMP / REVIEW_CYCLE
+allOf:
+  - if:
+      properties:
+        classification_tag:
+          const: FORMAL_EVIDENCE
+    then:
+      properties:
+        retention_policy:
+          const: PERMANENT
+      required: [retention_policy]
+  # 语义：FORMAL_EVIDENCE 条目必须 retention_policy=PERMANENT（AJV/标准 jsonschema 可校验）；
+  # TRIAL_RUN / SANITY_CHECK 不受此强绑定。
+machine_gate_rule:
+  - 负结果与阳性结论同等级证据，不可静默丢弃
+  - 无reviewer_id签收，该条目判定无效
+  - 归档后不允许删除，仅可追加勘录附注
+  - 若后续新证据推翻该负结果，追加新条目，不修改旧条目
+gate:
+  status: PENDING_2000_REVIEW
+  fail_closed: true

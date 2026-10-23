@@ -1,0 +1,134 @@
+# ============================================================
+# N16 会审议案 B｜新增独立「退役废弃」通道（与证伪下线物理隔离）
+# 状态：PENDING_2000_REVIEW / NOT_APPROVED / NOT_SEALED / NOT_IMPLEMENTED
+# 性质：议案文本，不是已生效转移表；表决通过前不得并入 sm_transition_matrix.csv
+# ============================================================
+spec: N16_OPTION_B_OBSOLETE_BRANCH
+option_id: B
+title: 新增 OBSOLETE 分支，隔离于证伪下线链路
+baseline: sm_transition_matrix.csv v0.4 (40 edges, semantic lock active)
+semantic_lock_preserved: true    # 决策：原有 RETIRED 链路语义不变
+
+# ---------- 1. 新增状态 ----------
+new_states:
+  evidence_axis: []              # 证据轴不新增，OBSOLETE 属治理轴
+  governance_axis:
+    - G_OBSOLETE
+  rationale: >
+    OBSOLETE 表示「稳定有效但无继续迭代价值」，与 CONTRADICTED（已证伪）语义正交；
+    置于治理轴可避免污染证据轴认知状态，也避免与 RETIRED 语义混淆。
+
+# ---------- 2. 新增转移边（8 条） ----------
+new_transition_edges:
+  # 2.1 进入 OBSOLETE：仅长期稳定态可申请，且须全员会审
+  - next: [E_REPLICATED, G_OBSOLETE]
+    curr: [E_REPLICATED, G_ACTIVE]
+    trigger: obsolescence_motion
+    authorized_domain: CROSS_LAYER_REVIEW_BOARD
+    comment: 稳定复现态申请退役（须附无迭代价值论证）
+  - next: [E_TESTED_SCOPE, G_OBSOLETE]
+    curr: [E_TESTED_SCOPE, G_ACTIVE]
+    trigger: obsolescence_motion
+    authorized_domain: CROSS_LAYER_REVIEW_BOARD
+    comment: 限定场景稳定态申请退役
+  # 2.2 OBSOLETE 冻结/恢复（复用治理冻结语义，不新增权限域）
+  - next: [E_REPLICATED, G_SUSPENDED]
+    curr: [E_REPLICATED, G_OBSOLETE]
+    trigger: admin_suspend
+    authorized_domain: ADMIN_EMERGENCY
+    comment: 退役审议期紧急冻结
+  - next: [E_REPLICATED, G_OBSOLETE]
+    curr: [E_REPLICATED, G_SUSPENDED]
+    trigger: admin_restore
+    authorized_domain: ADMIN_EMERGENCY
+    comment: 退役审议期解冻回 OBSOLETE（不得直回 ACTIVE）
+  # 2.3 OBSOLETE -> ARCHIVED（不经 RETIRED）
+  - next: [E_REPLICATED, G_ARCHIVED]
+    curr: [E_REPLICATED, G_OBSOLETE]
+    trigger: archive_job
+    authorized_domain: CROSS_LAYER_REVIEW_BOARD
+    comment: 废弃归档（非证伪路径）
+  - next: [E_TESTED_SCOPE, G_ARCHIVED]
+    curr: [E_TESTED_SCOPE, G_OBSOLETE]
+    trigger: archive_job
+    authorized_domain: CROSS_LAYER_REVIEW_BOARD
+    comment: 废弃归档（非证伪路径）
+  # 2.4 撤销废弃动议：退回 ACTIVE（防止误决）
+  - next: [E_REPLICATED, G_ACTIVE]
+    curr: [E_REPLICATED, G_OBSOLETE]
+    trigger: obsolescence_withdraw
+    authorized_domain: CROSS_LAYER_REVIEW_BOARD
+    comment: 会审撤销废弃动议
+  - next: [E_TESTED_SCOPE, G_ACTIVE]
+    curr: [E_TESTED_SCOPE, G_OBSOLETE]
+    trigger: obsolescence_withdraw
+    authorized_domain: CROSS_LAYER_REVIEW_BOARD
+    comment: 会审撤销废弃动议
+edge_count_after: 48
+
+# ---------- 3. 禁止边（黑名单，必须显式声明） ----------
+forbidden_transitions:
+  - from: "E_* + G_OBSOLETE"
+    to: "E_* + G_RETIRED"
+    reason: OBSOLETE 永不进入 RETIRED；两条链路物理隔离
+  - from: "E_* + G_RETIRED"
+    to: "E_* + G_ARCHIVED"
+    note: 该边保持原有唯一形态，不因 B 方案而放宽
+  - from: "E_PROPOSED/E_DEFINED/E_ESTIMATED/E_UNKNOWN + G_ACTIVE"
+    to: "E_* + G_OBSOLETE"
+    reason: 未达稳定复现的算子不得申请废弃（防止用废弃通道处理未验证条目）
+  - from: "E_CONTRADICTED + G_*"
+    to: "E_* + G_OBSOLETE"
+    reason: 已证伪条目必须走 RETIRED 链路，不得改道废弃通道
+
+# ---------- 4. 新增权限域 ----------
+authority_domains:
+  ADMIN_EMERGENCY:
+    may: [admin_suspend, admin_restore, admin_retire, reset_reinit]
+  META_VALIDATION_L3:
+    may: [schema_bind, independent_repeat, conflicting_observation, insufficient_data]
+  OBSERVER:
+    may: [user_declare, measurement_sample, controlled_test, new_positive_evidence, sufficient_evidence_arrive]
+  CROSS_LAYER_REVIEW_BOARD:
+    may: [governance_vote_retire, archive_job, obsolescence_motion, obsolescence_withdraw]
+    constraint: >
+      governance_vote_retire 仍仅对 E_CONTRADICTED + G_ACTIVE 合法；
+      obsolescence_motion 仅对 E_REPLICATED / E_TESTED_SCOPE + G_ACTIVE 合法；
+      不得跨用两个动议。
+new_domain: none    # 不新增权限域主体，仅扩充 CROSS_LAYER_REVIEW_BOARD 动作集
+
+# ---------- 5. 配套 SVA 断言（隔离性守卫） ----------
+sva_additions:
+  - id: a_optionB_no_obsolete_to_retired
+    text: |
+      // OBSOLETE 永不进入 RETIRED
+      a_optionB_no_obsolete_to_retired: assert property (@(posedge clk)
+        ($past(g_state == G_OBSOLETE) && g_state == G_RETIRED) |-> 1'b0);
+    status: PROPOSED / NOT_COMPILED
+  - id: a_optionB_obsolete_entry_only_stable
+    text: |
+      // 仅稳定复现/限定测试态可进入 OBSOLETE
+      a_optionB_obsolete_entry_only_stable: assert property (@(posedge clk)
+        (g_state == G_OBSOLETE && $rose(g_state == G_OBSOLETE)) |->
+          ($past(e_state) inside {E_REPLICATED, E_TESTED_SCOPE}));
+    status: PROPOSED / NOT_COMPILED
+  - id: a_optionB_retired_path_unchanged
+    text: |
+      // 语义锁不因 B 方案放宽：RETIRED 仍仅可由 CONTRADICTED 会审到达
+      a_optionB_retired_path_unchanged: assert property (@(posedge clk)
+        $rose(g_state == G_RETIRED) |-> $past(e_state) == E_CONTRADICTED);
+    status: PROPOSED / NOT_COMPILED
+
+# ---------- 6. 代价与风险 ----------
+tradeoffs:
+  - 全量条目均可闭环归档，卷宗完整统一
+  - 原有证伪下线链路语义零改变
+  - 需新增 8 条边、1 个治理态枚举值 G_OBSOLETE（SV 枚举需扩位：governance_state_t 从 [1:0] 扩到 [2:0]）
+  - 「无迭代价值」判定标准目前 UNSET，若无量化判据，会审将出现主观争议
+  - 存在双通道并存后的额度滥用风险，须以 SVA 断言 + 权限域前置校验双重守卫
+
+# ---------- 7. 表决票 ----------
+vote:
+  question: 是否采纳方案B（新增 OBSOLETE 独立退役通道）？
+  fail_closed_on_no_decision: true
+  status: PENDING_2000_REVIEW

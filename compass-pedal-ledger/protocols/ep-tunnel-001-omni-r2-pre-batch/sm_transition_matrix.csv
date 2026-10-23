@@ -1,0 +1,52 @@
+# sm_transition_matrix.csv v0.4 (AUTHORIZED_DOMAIN per founder's authoritative rows, 14:51)
+# Import Contract: This table is WHITELIST ONLY.
+# Any transition not explicitly listed in this table is ILLEGAL and shall trigger gate fail_closed.
+# LEGAL column is reserved for future tri-state marking (1=allowed,0=denied,2=conditional).
+# Current iteration only uses LEGAL=1 for valid whitelisted edges.
+# Semantic Lock: ONLY E_CONTRADICTED + G_ACTIVE is eligible for governance_vote_retire final retire/archive.
+# Stable replicated hypothesis cannot be directly retired; conflict observation must first drive into CONTRADICTED.
+# Columns: EVIDENCE_NEXT,GOVERNANCE_NEXT,EVIDENCE_CURR,GOVERNANCE_CURR,TRIGGER_EVENT,AUTHORIZED_DOMAIN,LEGAL,COMMENT
+# Meta contract (N12): admin_retire carries urgent_flag=true + mandatory_review_deadline; admin_suspend has no deadline.
+#   Overdue review raises audit alert; no auto-restore, no auto-retire.
+# N15 RESOLVED: AUTHORIZED_DOMAIN values below are founder-supplied (14:51:45), replacing assistant's provisional mapping.
+EVIDENCE_NEXT,GOVERNANCE_NEXT,EVIDENCE_CURR,GOVERNANCE_CURR,TRIGGER_EVENT,AUTHORIZED_DOMAIN,LEGAL,COMMENT
+E_PROPOSED,G_ACTIVE,E_PROPOSED,G_ACTIVE,user_declare,OBSERVER,1,初始登记
+E_DEFINED,G_ACTIVE,E_PROPOSED,G_ACTIVE,schema_bind,META_VALIDATION_L3,1,算子Schema绑定完成
+E_ESTIMATED,G_ACTIVE,E_DEFINED,G_ACTIVE,measurement_sample,OBSERVER,1,获得初步估计
+E_TESTED_SCOPE,G_ACTIVE,E_ESTIMATED,G_ACTIVE,controlled_test,OBSERVER,1,限定场景测试通过
+E_REPLICATED,G_ACTIVE,E_TESTED_SCOPE,G_ACTIVE,independent_repeat,META_VALIDATION_L3,1,独立复现
+E_CONTRADICTED,G_ACTIVE,E_ESTIMATED,G_ACTIVE,conflicting_observation,META_VALIDATION_L3,1,观测冲突，保留继续采集
+E_DEFINED,G_ACTIVE,E_CONTRADICTED,G_ACTIVE,new_positive_evidence,OBSERVER,1,颠覆性阳性证据推翻证伪结论
+E_CONTRADICTED,G_ACTIVE,E_REPLICATED,G_ACTIVE,conflicting_observation,META_VALIDATION_L3,1,复现稳定结论后出现冲突观测
+E_CONTRADICTED,G_RETIRED,E_CONTRADICTED,G_ACTIVE,governance_vote_retire,CROSS_LAYER_REVIEW_BOARD,1,会审表决下线（终审，唯一可达RETIRED路径）
+E_UNKNOWN,G_ACTIVE,E_PROPOSED,G_ACTIVE,insufficient_data,META_VALIDATION_L3,1,信息不足转入不确定
+E_DEFINED,G_ACTIVE,E_UNKNOWN,G_ACTIVE,sufficient_evidence_arrive,OBSERVER,1,补足证据，从UNKNOWN升级
+E_PROPOSED,G_ACTIVE,E_UNKNOWN,G_ACTIVE,reset_reinit,ADMIN_EMERGENCY,1,重置重登记
+E_PROPOSED,G_SUSPENDED,E_PROPOSED,G_ACTIVE,admin_suspend,ADMIN_EMERGENCY,1,治理侧常规冻结，无强制复核时限
+E_DEFINED,G_SUSPENDED,E_DEFINED,G_ACTIVE,admin_suspend,ADMIN_EMERGENCY,1,治理侧常规冻结，无强制复核时限
+E_ESTIMATED,G_SUSPENDED,E_ESTIMATED,G_ACTIVE,admin_suspend,ADMIN_EMERGENCY,1,治理侧常规冻结，无强制复核时限
+E_TESTED_SCOPE,G_SUSPENDED,E_TESTED_SCOPE,G_ACTIVE,admin_suspend,ADMIN_EMERGENCY,1,治理侧常规冻结，无强制复核时限
+E_REPLICATED,G_SUSPENDED,E_REPLICATED,G_ACTIVE,admin_suspend,ADMIN_EMERGENCY,1,治理侧常规冻结，无强制复核时限
+E_CONTRADICTED,G_SUSPENDED,E_CONTRADICTED,G_ACTIVE,admin_suspend,ADMIN_EMERGENCY,1,治理侧常规冻结，无强制复核时限
+E_UNKNOWN,G_SUSPENDED,E_UNKNOWN,G_ACTIVE,admin_suspend,ADMIN_EMERGENCY,1,治理侧常规冻结，无强制复核时限
+E_PROPOSED,G_ACTIVE,E_PROPOSED,G_SUSPENDED,admin_restore,ADMIN_EMERGENCY,1,冻结恢复
+E_DEFINED,G_ACTIVE,E_DEFINED,G_SUSPENDED,admin_restore,ADMIN_EMERGENCY,1,冻结恢复
+E_ESTIMATED,G_ACTIVE,E_ESTIMATED,G_SUSPENDED,admin_restore,ADMIN_EMERGENCY,1,冻结恢复
+E_TESTED_SCOPE,G_ACTIVE,E_TESTED_SCOPE,G_SUSPENDED,admin_restore,ADMIN_EMERGENCY,1,冻结恢复
+E_REPLICATED,G_ACTIVE,E_REPLICATED,G_SUSPENDED,admin_restore,ADMIN_EMERGENCY,1,冻结恢复
+E_CONTRADICTED,G_ACTIVE,E_CONTRADICTED,G_SUSPENDED,admin_restore,ADMIN_EMERGENCY,1,冻结恢复
+E_UNKNOWN,G_ACTIVE,E_UNKNOWN,G_SUSPENDED,admin_restore,ADMIN_EMERGENCY,1,冻结恢复
+E_PROPOSED,G_SUSPENDED,E_PROPOSED,G_ACTIVE,admin_retire,ADMIN_EMERGENCY,1,管理员紧急冻结，携带mandatory_review_deadline限时复核
+E_DEFINED,G_SUSPENDED,E_DEFINED,G_ACTIVE,admin_retire,ADMIN_EMERGENCY,1,管理员紧急冻结，携带mandatory_review_deadline限时复核
+E_ESTIMATED,G_SUSPENDED,E_ESTIMATED,G_ACTIVE,admin_retire,ADMIN_EMERGENCY,1,管理员紧急冻结，携带mandatory_review_deadline限时复核
+E_TESTED_SCOPE,G_SUSPENDED,E_TESTED_SCOPE,G_ACTIVE,admin_retire,ADMIN_EMERGENCY,1,管理员紧急冻结，携带mandatory_review_deadline限时复核
+E_REPLICATED,G_SUSPENDED,E_REPLICATED,G_ACTIVE,admin_retire,ADMIN_EMERGENCY,1,管理员紧急冻结，携带mandatory_review_deadline限时复核
+E_CONTRADICTED,G_SUSPENDED,E_CONTRADICTED,G_ACTIVE,admin_retire,ADMIN_EMERGENCY,1,管理员紧急冻结，携带mandatory_review_deadline限时复核
+E_UNKNOWN,G_SUSPENDED,E_UNKNOWN,G_ACTIVE,admin_retire,ADMIN_EMERGENCY,1,管理员紧急冻结，携带mandatory_review_deadline限时复核
+E_PROPOSED,G_ARCHIVED,E_PROPOSED,G_RETIRED,archive_job,CROSS_LAYER_REVIEW_BOARD,1,归档固化
+E_DEFINED,G_ARCHIVED,E_DEFINED,G_RETIRED,archive_job,CROSS_LAYER_REVIEW_BOARD,1,归档固化
+E_ESTIMATED,G_ARCHIVED,E_ESTIMATED,G_RETIRED,archive_job,CROSS_LAYER_REVIEW_BOARD,1,归档固化
+E_TESTED_SCOPE,G_ARCHIVED,E_TESTED_SCOPE,G_RETIRED,archive_job,CROSS_LAYER_REVIEW_BOARD,1,归档固化
+E_REPLICATED,G_ARCHIVED,E_REPLICATED,G_RETIRED,archive_job,CROSS_LAYER_REVIEW_BOARD,1,归档固化
+E_CONTRADICTED,G_ARCHIVED,E_CONTRADICTED,G_RETIRED,archive_job,CROSS_LAYER_REVIEW_BOARD,1,归档固化
+E_UNKNOWN,G_ARCHIVED,E_UNKNOWN,G_RETIRED,archive_job,CROSS_LAYER_REVIEW_BOARD,1,归档固化

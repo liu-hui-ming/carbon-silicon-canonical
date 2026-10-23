@@ -1,0 +1,71 @@
+# ============================================================
+# N16 会审议案 A｜严格恪守「仅证伪可下线」
+# 状态：PENDING_2000_REVIEW / NOT_APPROVED / NOT_SEALED / NOT_IMPLEMENTED
+# 性质：议案文本，不是已生效转移表；表决通过前不得并入 sm_transition_matrix.csv
+# ============================================================
+spec: N16_OPTION_A_STRICT_FALSIFICATION_ONLY
+option_id: A
+title: 不新增退役出口，非证伪算子终身活跃
+baseline: sm_transition_matrix.csv v0.4 (40 edges, semantic lock active)
+
+# ---------- 1. 新增状态 ----------
+new_states: []          # 证据轴、治理轴均不新增枚举
+changed_axis_enums: none
+
+# ---------- 2. 新增转移边 ----------
+new_transition_edges: []  # 零新增边
+edge_count_after: 40
+
+# ---------- 3. 归档链路拓扑 ----------
+archive_topology:
+  chain: "E_CONTRADICTED + G_ACTIVE -> (governance_vote_retire) -> G_RETIRED -> (archive_job) -> G_ARCHIVED"
+  terminal_reachable_states:
+    - "E_CONTRADICTED + G_ARCHIVED"
+  permanently_active_states:
+    - "E_PROPOSED + G_ACTIVE"
+    - "E_DEFINED + G_ACTIVE"
+    - "E_ESTIMATED + G_ACTIVE"
+    - "E_TESTED_SCOPE + G_ACTIVE"
+    - "E_REPLICATED + G_ACTIVE"
+    - "E_UNKNOWN + G_ACTIVE"
+  note: >
+    非证伪算子只能处于 ACTIVE / SUSPENDED，永不可达 RETIRED / ARCHIVED。
+    需另行建立「长期活跃算子台账」承载快照备份，不进入归档库。
+
+# ---------- 4. 权限域配置 ----------
+authority_domains:
+  ADMIN_EMERGENCY:
+    may: [admin_suspend, admin_restore, admin_retire, reset_reinit]
+  META_VALIDATION_L3:
+    may: [schema_bind, independent_repeat, conflicting_observation, insufficient_data]
+  OBSERVER:
+    may: [user_declare, measurement_sample, controlled_test, new_positive_evidence, sufficient_evidence_arrive]
+  CROSS_LAYER_REVIEW_BOARD:
+    may: [governance_vote_retire, archive_job]
+    constraint: >
+      governance_vote_retire 仅对 E_CONTRADICTED + G_ACTIVE 合法；
+      archive_job 仅对 G_RETIRED 合法。
+new_domain: none
+
+# ---------- 5. 配套 SVA 断言 ----------
+sva_additions:
+  - id: a_optionA_no_stable_archive
+    text: |
+      // 非证伪算子不得进入 RETIRED / ARCHIVED
+      a_optionA_no_stable_archive: assert property (@(posedge clk)
+        (e_state != E_CONTRADICTED) |-> !(g_state inside {G_RETIRED, G_ARCHIVED}));
+    status: PROPOSED / NOT_COMPILED
+
+# ---------- 6. 代价与风险 ----------
+tradeoffs:
+  - 语义锁零妥协，无绕过证伪的退役漏洞
+  - 转移表保持 40 边极简，无新增状态、无新增权限域
+  - 台账永久分裂：归档库仅存被证伪条目
+  - 需额外维护「长期活跃算子独立台账」及其快照备份策略（当前无此工件）
+  - 「废弃」这一现实治理动作在体系内无合法表达，只能退化为冻结或伪造冲突观测
+
+# ---------- 7. 表决票 ----------
+vote:
+  question: 是否采纳方案A（不新增退役出口）？
+  fail_closed_on_no_decision: true
+  status: PENDING_2000_REVIEW

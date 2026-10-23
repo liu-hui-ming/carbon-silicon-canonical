@@ -1,0 +1,61 @@
+# ============================================================
+# FILE 02: dual-axis-state-machine.yaml
+# P2｜八级单链状态机重构为【证据轴 + 治理轴】双轴解耦
+# 核心修复：CONTRADICTED(证据) 与 RETIRED(治理) 分层；
+#           新增合法稳态 CONTRADICTED + ACTIVE（证伪存案、持续观测、暂不撤回）
+#           UNKNOWN 不再作为链尾终态，改为证据轴独立不确定态
+# ============================================================
+spec: DUAL_AXIS_OPERATOR_STATE_MACHINE
+target: EP-TUNNEL-001-OMNI-R2
+axis_evidence:
+  name: EVIDENCE_AXIS
+  states:
+    - PROPOSED
+    - DEFINED
+    - ESTIMATED
+    - TESTED_WITHIN_SCOPE
+    - REPLICATED
+    - CONTRADICTED
+    - UNKNOWN
+  semantics: >
+    只表达证据层面的认知状态，描述观测、估计、复现、证伪，
+    不承载治理下线、归档、停用动作。
+axis_governance:
+  name: GOVERNANCE_AXIS
+  states:
+    - ACTIVE
+    - SUSPENDED
+    - RETIRED
+    - ARCHIVED
+  semantics: >
+    只表达治理处置动作，独立于证据判定；
+    证据证伪不强制立刻RETIRED，可保留ACTIVE继续追加观测。
+legal_state_combos:
+  - "EVIDENCE=PROPOSED, GOVERNANCE=ACTIVE"
+  - "EVIDENCE=DEFINED, GOVERNANCE=ACTIVE"
+  - "EVIDENCE=ESTIMATED, GOVERNANCE=ACTIVE"
+  - "EVIDENCE=TESTED_WITHIN_SCOPE, GOVERNANCE=ACTIVE"
+  - "EVIDENCE=REPLICATED, GOVERNANCE=ACTIVE"
+  - "EVIDENCE=CONTRADICTED, GOVERNANCE=ACTIVE"    # 审阅指出的缺失合法落点
+  - "EVIDENCE=CONTRADICTED, GOVERNANCE=RETIRED"
+  - "EVIDENCE=CONTRADICTED, GOVERNANCE=ARCHIVED"
+  - "EVIDENCE=UNKNOWN, GOVERNANCE=ACTIVE"
+  - "EVIDENCE=UNKNOWN, GOVERNANCE=SUSPENDED"
+  - "EVIDENCE=*, GOVERNANCE=SUSPENDED"
+  - "EVIDENCE=*, GOVERNANCE=RETIRED"
+  - "EVIDENCE=*, GOVERNANCE=ARCHIVED"
+illegal_transition_rules:
+  - "禁止：EVIDENCE直接跳转到RETIRED（RETIRED属于治理轴，证据轴无此节点）"
+  - "禁止：UNKNOWN被标记为终态，允许后续证据升级回DEFINED/ESTIMATED"
+  - "禁止：CONTRADICTED自动强制RETIRED，必须显式治理动作触发"
+type_domain_isolation_note: >
+  证据轴枚举 evidence_state_t 与治理轴枚举 governance_state_t 类型互斥，
+  RETIRED 在证据轴不可赋值——由静态编译期检查保障，无需运行时断言
+  （原 SVA 断言1 已按 D01 处置移除）。标签：EVIDENCE_AXIS_RETIRED_IMPOSSIBLE。
+transition_matrix_ref: sm_transition_matrix.csv   # 待创建
+sva_attach: sva_dual_axis_state_machine.sv
+bench_bind: SYS-DIM-BENCH   # 映射尚未建立
+gate:
+  status: PENDING_2000_REVIEW
+  fail_closed: true
+implementation_status: PROPOSED / NOT_IMPLEMENTED / NOT_TESTED

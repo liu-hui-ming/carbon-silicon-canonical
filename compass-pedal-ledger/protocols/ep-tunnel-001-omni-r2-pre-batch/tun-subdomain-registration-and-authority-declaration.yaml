@@ -1,0 +1,152 @@
+# ============================================================
+# tun-subdomain-registration-and-authority-declaration.yaml
+# P1 会审提案｜EP-TUNNEL-001-OMNI-R2  v0.1-draft
+# 核心命题：TUN-L0/L1/L2/L3 是分析分层，不是权限分层；
+#           风险终审属于跨层权限对象，不绑定TUN-L3；
+#           对齐五权分立，与N07权限拆分口径一致。
+# 状态：PENDING_2000_REVIEW / NOT_SEALED / NOT_APPROVED
+# ============================================================
+spec: TUN_SUBDOMAIN_REGISTRATION_AND_AUTHORITY_DECLARATION
+project: EP-TUNNEL-001-OMNI-R2
+doc_version: v0.1-draft
+classification: P1_REVIEW_PROPOSAL
+related_batch: PRE_R2_BATCH
+cross_ref:
+  defect_ref: [D05, N07]
+  linked_artifacts:
+    - dual-axis-state-machine.yaml
+    - sm_transition_matrix.csv
+    - sva_dual_axis_state_machine.sv
+    - negative_result_schema.yaml
+
+# ---------- 一、TUN子域分层定义（分析维度，非权限等级） ----------
+tun_layer_definition:
+  L0:
+    name: RAW_OBSERVATION
+    description: 原始采样、原始测量、未清洗原始观测流，不做因果推断
+    scope: 数据采集、原始payload、时间戳、采样元信息
+    inherent_authority: 无终审权，仅做原始证据登记
+  L1:
+    name: FEATURE_EXTRACTION
+    description: 特征提取、归一化、指标计算，完成数据到特征空间映射
+    scope: 特征工程、误差估计、统计估计
+    inherent_authority: 无终审权，仅产出估计结论
+  L2:
+    name: MODEL_HYPOTHESIS
+    description: 算子建模、映射假设、因果假设、拓扑关联假设
+    scope: 算子定义、假设命题、可证伪边界声明
+    inherent_authority: 无终审权，仅提交假设提案
+  L3:
+    name: META_VALIDATION
+    description: 元校验、跨域一致性校验、SYS-DIM-BENCH基准验证、证伪复核
+    scope: 基准比对、跨域冲突识别、元层审计
+    inherent_authority: 校验出具权，不等于终审下线权
+
+# ---------- 二、核心声明：层级 ≠ 终审权限 ----------
+core_declaration:
+  statement: >-
+    TUN-L0/L1/L2/L3 仅代表认知分析流水线的处理阶段，属于认知分层；
+    不代表权限等级，L3 不天然拥有最终下线、归档、否决算子的终审权限。
+    终审权限是独立的跨层治理对象，独立于TUN分析分层，与双轴状态机
+    GOVERNANCE_AXIS联动。
+  rationale: >-
+    防止认知最高层被误绑定行政终审权，避免单点层级越权，落实五权分立；
+    与N07决议口径统一：管理员仅具备临时冻结权（admin_retire→G_SUSPENDED），
+    正式下线 G_RETIRED 必须由跨层会审表决 governance_vote_retire 触发。
+
+# ---------- 三、权限矩阵（独立权限域，挂载在治理轴） ----------
+authority_matrix:
+  permission_domain:
+    - name: ADMIN_EMERGENCY
+      holder: 管理员主体
+      allowed_action:
+        - admin_suspend
+        - admin_restore
+        - admin_retire（紧急冻结 → G_SUSPENDED）
+      forbidden_action:
+        - governance_vote_retire（直接终审下线到G_RETIRED）
+        - archive_job 终审归档
+      note: 紧急干预权，临时阻断，不替代会审终审
+    - name: CROSS_LAYER_REVIEW_BOARD
+      holder: 跨层会审委员会（跨TUN全层代表）
+      allowed_action:
+        - governance_vote_retire（表决下线 → G_RETIRED）
+        - 复核负结果条目、确认证伪存案
+        - 批准archive_job归档固化
+      forbidden_action:
+        - 绕过状态机白名单转移表，强制改写算子主状态
+    - name: META_VALIDATION_L3
+      holder: L3元校验模块
+      allowed_action:
+        - 输出冲突报告
+        - 标记 CONTRADICTED 证据轴状态
+        - 提交会审提案
+      forbidden_action:
+        - 独立决定G_RETIRED
+        - 独立触发永久归档
+    - name: OBSERVER
+      holder: 外部见证复核主体
+      allowed_action:
+        - 提交观测补充、负结果条目
+        - 提出异议勘录
+      forbidden_action:
+        - 直接修改状态机、变更治理轴状态
+
+# ---------- 四、注册契约：TUN子域注册必填项 ----------
+subdomain_registration_schema:
+  required_fields:
+    - subdomain_id
+    - parent_tun_layer
+    - function_role
+    - input_interface
+    - output_interface
+    - declared_permission_scope
+    - falsifiable_boundary
+    - witness_bind
+  field_definition:
+    subdomain_id:
+      type: string
+      description: TUN子域唯一编号
+    parent_tun_layer:
+      type: enum
+      values: [L0, L1, L2, L3]
+      description: 所属认知分析层
+    function_role:
+      type: string
+      description: 子域功能定位
+    input_interface:
+      type: object
+      description: 输入接口契约
+    output_interface:
+      type: object
+      description: 输出接口契约
+    declared_permission_scope:
+      type: enum
+      values: [READ_ONLY, PRODUCE_HYPOTHESIS, META_CHECK, SUBMIT_REVIEW]
+      description: 声明权限范围，禁止声明终审权限
+    falsifiable_boundary:
+      type: string
+      description: 本算子/子域的可证伪边界
+    witness_bind:
+      type: string
+      description: 见证记录绑定引用
+
+# ---------- 五、门禁规则 fail_closed ----------
+machine_gate_rules:
+  - 任何TUN子域注册时，declared_permission_scope 不允许声明 DIRECT_FINAL_RETIRE / DIRECT_ARCHIVE 终审权限
+  - 若L3模块尝试直接触发G_RETIRED，状态机导入器判定非法转移，触发fail_closed
+  - 跨层会审表决必须留痕，governance_vote_retire 必须附带投票记录witness
+  - 本声明工件本身属于提案，不自动生效，必须等待20:00会审表决通过后，才可以写入正式分支并纳入R2批次门禁
+  - 本提案与双轴状态机CSV、SVA断言保持语义对齐；会审若修改本提案，必须同步勘录N07相关口径
+
+# ---------- 六、遗留待办 & 关联项 ----------
+outstanding:
+  - D01 SVA断言1取舍表决
+  - 全批次编译、仿真、SYS-DIM-BENCH接入
+  - T17-T24 Bench判据模板
+  - 会审通过后，本yaml纳入PRE_R2_BATCH门禁，更新batch_meta与INDEX哈希台账
+gate:
+  status: PENDING_2000_REVIEW
+  fail_closed: true
+approval_state: NOT_APPROVED
+seal_state: NOT_SEALED

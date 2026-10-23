@@ -1,0 +1,245 @@
+dossier:
+  id: EP16-MG-R1.4-RESEARCH-BASELINE-MERGED
+  version_state: THEORY_PROPOSED
+  superseded:
+  - EP16-MG-R1.3
+  - PATCH01
+  single_master: true
+  evidence_grades:
+  - 数学可形式化
+  - 假设可检验
+  - 结论可撤回
+  - 叙事可收敛
+  file_hash_status: PENDING
+  cost_gate_status: PENDING
+  target_slot: compass-pedal-survey-first-batch
+  ruling_deadline: '2026-10-23T20:00:00+08:00'
+core_axioms:
+- 结构相似 ≠ 机制相同
+- 机制相同 ≠ 性能更优
+- 性能更优 ≠ 历史同源
+- 局部有效 ≠ 普遍规律
+research_question: '能否从特定先天易学图式中提取明确离散结构，转化为现代形式化模型， 通过公平对照实验判断这些结构是否为神经符号AI、时序预测或动态控制
+  提供独立的性能增益？
+
+  '
+forbidden_presuppositions:
+- 不预设六十四卦具备宇宙级完备性
+- 不预设阴阳等价于熵
+- 不预设古典图式与现代计算理论历史同源
+- 不预设该结构天然优于其他先验
+built_in_constraints:
+- id: C1
+  constraint: T函数未定义，FSM/LTL/马尔可夫对位降格为候选对位框架
+  hard_gate: 一级基座首交付项=T函数+步进语义+64×64跃迁掩码
+- id: C2
+  constraint: 历史源流B级标注 historicity_note，禁止无约束"上古原生"口径
+- id: C3
+  constraint: 统一内核四条式为充分条件框架，非排他唯一内核
+- id: C4
+  constraint: '强绝对修辞挂载 rhetoric_layer: qualified_comment'
+- id: C5
+  constraint: BL盲区限定域——主流LLM训练管线未内置该类稳态先验，不否定控制论既有成果
+research_layers:
+  L1_符号层: 只定义不阐释
+  L2_数学层: 只建模不升华（状态空间{0,1}^6 / 邻接图G=(Q,E) / 汉明距离 / T待标定）
+  L3_逻辑层: 只规约不匹配（候选LTL约束集，不预设天然匹配）
+  L4_机制层: 只假设不定论
+  L5_实验层: 只对照不偏爱
+  L6_证据层: 只分级不打包（五链路互不背书：历史/数学/机制/工程/价值）
+hypotheses:
+  H-AI-01:
+    claim: 结构化符号验证器降低规则型幻觉与违规输出率
+    scope: 具备可形式化规则的结构化任务
+    metrics:
+    - 规则违反率
+    - 错误拒绝率
+    - 覆盖率
+    - 延迟
+    - 漏检率
+    state: HYPOTHESIS_PENDING_TEST
+  H-AI-02:
+    claim: 古典周期拓扑先验改善周期类时序任务抗漂移与预测稳定性
+    scope: 具备真实周期结构任务；非周期场景自动失效
+    controls:
+    - 非周期负对照
+    - 周期突变负对照
+    - 异常扰动负对照
+    state: HYPOTHESIS_PENDING_TEST
+  H-AI-03:
+    claim: 对称制衡拓扑约束提升扰动场景下控制系统稳态恢复能力
+    scope: 依赖具体控制器实现，无通用保证
+    state: HYPOTHESIS_PENDING_TEST
+ablation_protocol:
+  arms:
+  - B0通用基线
+  - B1古典排布
+  - B2专属邻接
+  - B3双向制衡转换
+  - B4周期边界时序
+  fairness:
+  - 算力公平
+  - 参数量公平
+  - 调参预算公平
+  attribution_rule: 收益只归对应组件层，禁止整体打包归因
+  kill_criterion: B1-B4收益等价于随机图/常规规则图 → 判定古典拓扑无独特增益
+lnk_links:
+  state: HYPOTHESIS_PENDING_TEST
+  upgrade_pipeline:
+  - SPECIFIED
+  - IMPLEMENTED
+  - BASELINE_COMPARED
+  - REPLICATED
+  - SCOPE_VALIDATED
+  rule: 未走完流水线禁止"机制同构/收益确认"结论输出
+  items:
+  - LNK01硬件RTL
+  - LNK02多智能体
+  - LNK03量子基矢
+  - LNK04天文时序
+  - LNK05安全OS
+  - LNK06生物稳态
+  - LNK07文明演化
+  - LNK08拓扑材料
+  - LNK09熵控稳态
+  - LNK10气象时序
+engineering_gates:
+  tier1_数理基座:
+    mandatory: true
+    deliverables:
+    - 图式版本说明
+    - 64态编解码器
+    - 邻接矩阵/边表
+    - 转换函数T
+    - LTL规格
+    - 穷举测试
+    - 模型检查报告
+    acceptance: 编码规则固定 / 程序可复核 / 规格实现一致
+    tag:
+      T_function: DEFINED
+    unlock_condition: T单元测试+SVA断言通过后方可清除UNSET
+    sva_tb_status: PASS
+    release:
+      status: ACCEPTED
+      receipt: EP16-T1-Q6-REVIEW-SIGN-001
+      acceptance_report: EP16-Tier1-Q6/ledger/report/tier1_q6_acceptance.yaml
+      acceptance_report_sha256: a95b2362f468f157755e23a4323feb668cdff7f6e6c572563316c7656573f27e
+      acceptance_yaml_status: ACCEPTED
+      evidence_chain:
+      - python穷举PASS
+      - RTL仿真err_cnt=0
+      - 干净重建复测
+      - 原始掩码dump
+      - 双实现逐位比对全等
+      - 创立人签字ACCEPTED
+      note: 元契约自身哈希不可写入自身（自指循环）；以验收YAML与制品哈希为锚，元契约当前哈希由本轮回复与验收YAML外置存证。
+  tier2_仿真对照:
+    precondition: tier1完成
+    deliverables:
+    - 任务定义
+    - 对照模型
+    - 数据划分
+    - 扰动方案
+    - 预注册指标
+    - 消融结果
+    - 失败记录
+    - 复现说明
+    acceptance: 不依赖训练集单次结果，报告开销/误差/不确定性
+  tier3_产业落地:
+    precondition: tier2稳定增益+边界清晰+风险可控+优于基线
+    rule: 试验模型禁止直接上线
+risk_governance:
+  dual_ledger:
+    A_历史语义:
+    - 文献
+    - 注疏
+    - 传统释义
+    - 源流考证
+    B_工程语义:
+    - 变量
+    - 编码
+    - 规则
+    - 算法
+    - 测试
+    - 工程结论
+    rule: 可交叉引用，无显式映射禁止互相替代
+  five_controls:
+    A_先验偏见:
+    - 可开关
+    - 可加权
+    - 对称破缺测试
+    - 开关对照
+    - 负任务验证
+    B_语义污染: 双账本隔离
+    C_万能化: 每条结论绑定适用域+失效域
+    D_立场干扰: 统一评价标准，成败同等归档
+    E_指标作弊:
+    - 扰动测试
+    - 时间外推
+    - 消融
+    - 独立复核
+evidence_state_machine:
+  forward:
+  - PROPOSED
+  - FORMALIZED
+  - IMPLEMENTED
+  - TESTED
+  - INDEPENDENTLY_REVIEWED
+  - VALIDATED_WITHIN_SCOPE
+  legal_regressions:
+  - TESTED → REVISED
+  - VALIDATED_WITHIN_SCOPE → CLAIM_DOWNGRADED
+  - 任意节点 → RETRACTED
+  change_record_fields:
+  - 版本号
+  - 修订理由
+  - 测试结果
+  - 证据源
+  - 审查标识
+meta_contract_fields:
+  fields:
+  - claim_id
+  - claim_type
+  - assumptions
+  - method
+  - result
+  - limitations
+  - artifact_hash
+  - version
+  - review_status
+  empty_field_rule: 空缺字段标记NOT_TESTED，不可用"封档"填补证据缺口
+discipline_thresholds:
+  criteria:
+  - 固定核心问题
+  - 可复用形式化方法
+  - 学界明确坐标
+  - 公开基准指标
+  - 独立复现结果
+  - 同行持续评审
+  - 完整失败案例库
+  current_status: 探索性研究纲领，不具备学科确权资格
+  threshold_criteria: PENDING
+external_anchors:
+  heartbeat:
+    HB_range: HB-0902~0906
+    units: '#425-#429闭环,#430 READY'
+    chain_tip: 2030b6a70903
+  hb0902_alert:
+    total: 5124055
+    issue: 双越界(绝对值+A分母失效)
+    status: 待裁定新上沿
+    priority: 高于EP16实验
+  payload_gap: 889
+  a315: 三处记录层缺陷留痕待勘误
+  seal_baseline:
+    id: EP16-SEAL-v0.9
+    merkle_root: 9c4ee16d61799dc349f19285ea227a2ead01f3bfb5ce0da20cd3418ae7f9dd62
+    lock: READONLY
+  e4_line:
+    countdown_locked: true
+    window: '2026-10-23T20:00:00+08:00'
+    independent: true
+final_statement: '本合并版为可共同核验的研究基线，不是确权完成报告。 不宣称：上古神经符号AI／宇宙完整状态空间／阴阳等价熵／卦态FSM天然优于通用FSM／
+  根治幻觉漂移／十域联动验证闭环／学科已获共同体确认。 最终原则：历史可考、数学可证、物理可检、工程可复现、结论可撤回。
+
+  '

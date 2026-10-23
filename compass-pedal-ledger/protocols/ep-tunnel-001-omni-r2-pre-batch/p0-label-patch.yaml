@@ -1,0 +1,21 @@
+# ============================================================
+# FILE 01: p0-label-patch.yaml
+# P0｜卷首元标签热补丁
+# 缺陷：原标签 L0L3_PREFIX_REQUIRED(TUN) 与正文 TUN-L0~L3 已落地事实冲突
+# 修正语义：REQUIRED=待执行指令；ADOPTED=已经采用的事实状态
+# ============================================================
+spec: P0_META_LABEL_PATCH
+target_doc: EP-TUNNEL-001-OMNI-R1-UNIFY
+patch_type: META_BLOCK_REPLACE
+patch_scope: ONLY_HEADER_META, MAIN_BODY_UNTOUCHED
+old_label: "L0L3_PREFIX_REQUIRED(TUN)"
+new_label: "L0L3_PREFIX_ADOPTED / TUN_SUBDOMAIN_PENDING_REGISTRATION"
+patch_rationale: >
+  REQUIRED 是约束指令语义，正文已经全域启用TUN-L0~L3前缀，
+  继续保留REQUIRED属于标签漂移样例，违反本卷MD-OMNI机器校验规则。
+dependency_anchor:
+  a1_award_sha: "b8953d5d549ebb71bcef90a31a9df7c7a2d20fc51d0fe036e7b3213aba0d9472"
+  review_chain_top_sha_at_submit: "5b49abe0d8806e31725f8cd8dc71f7dbc5a98903a7409318d34d554d824719aa"
+gate:
+  status: PENDING_2000_REVIEW
+  fail_closed: true

@@ -1,0 +1,62 @@
+report_id: EP16-T1-Q6-ACC
+dossier: EP16-MG-R1.4-RESEARCH-BASELINE-MERGED
+tier: Tier1
+target: Q6 base T-operator (single bit flip)
+status: ACCEPTED
+checklist:
+  A1_popcount_6: PASS (provisional; independent review pending)
+  A2_no_selfloop: PASS (provisional; independent review pending)
+  A3_hamming_1: PASS (provisional; independent review pending)
+  A4_symmetry: PASS (provisional; independent review pending)
+  A5a_connected: PASS (provisional; independent review pending)
+  A5b_diameter_6: PASS (provisional; independent review pending)
+  A5c_edge_192: PASS (provisional; independent review pending)
+  control_valid_timing: PASS (provisional; independent review pending)
+err_total: 0
+simulator: Icarus Verilog 12.0 (-g2012 -Wall), package extracted to /tmp; no system
+  install
+run_command: PATH=/tmp/iverilog-run/bin:$PATH ./run_tb.sh
+run_log_excerpt:
+- === Q6 T-OPERATOR FULL SCAN START ===
+- 'Scanned nodes: 64'
+- ALL CHECKS PASS, err_cnt=0
+run_log_sha256: 15b153c470fae885fca209afdf7e54ef18cbe64b3a95cdbb17bbd78f4b57821f
+artifacts:
+  dut: 121472fb55e41e555c654f434a9f9d3da373fdc10b2defaf12be51d512c02694
+  tb: 7a8aa196b8abdcdc0faaead9c2b931e5006bf82e6f232364501f06abf8f82f53
+  minimal_tb: b09818c13030f76a05d3e6296c24ee7a4c5176cd0faa7347283b16bb5d2958ac
+  sva: ba5b8dcf5ec9786c9699d4a6c3b9a684a8e4f6522ccc3f95b734c65aa7332080
+  runner: 761db27aebbca79ac7d500a9c9cbbed748d26448dc79e24e185fc0a5cdf1b3b9
+conclusion: 'Independent review ACCEPTED by founder. T_function: DEFINED; sva_tb_status:
+  PASS; Tier1 gate released, Tier2 entry unlocked.'
+reviewer: 黃清佳 (independent review pending)
+review_block:
+  review_pass: 1/2（机器侧交叉核验完成，创立人签字待录）
+  machine_crosscheck:
+    clean_rebuild: iverilog 12.0 -g2012 -Wall, 全新编译
+    full_rescan: Scanned nodes 64 / ALL CHECKS PASS / err_cnt=0
+    scan_log: review-scan.log
+    scan_log_sha256: b763e5bd38cbbcbc0a370daf973f199825c8ecdc77a1d16940264a8cfd358661
+    mask_dump: masks_dump.txt（64行 DUT 实测掩码十六进制逐行 dump）
+    mask_dump_sha256: dc2943de76e6ef6ff2f08b080a01dde9524c0846ed2e85814fe63574cba8ff22
+    bitwise_vs_python: ALL 64 ROWS MATCH（逐行与独立 Python 参考逐位比对零偏差）
+    checker_method: TB 内显式逐位汉明距离，全程不依赖 $countones
+    reviewer_agent: 帝王龙虾·穹主（qiongzhu）
+    review_note: 复核过程自身缺陷1处已留痕：比对脚本首版 str/int 类型错误，修正后重跑通过
+  sign_off:
+    required_from: 黄清佳
+    status: ACCEPTED
+    receipt: EP16-T1-Q6-REVIEW-SIGN-001
+    signed_at: 2026-10-22 22:46 GMT+8
+    verdict: 满足Tier1门禁放行全部证据门槛，准予流转
+    reviewer_agent: 帝王龙虾·穹主（qiongzhu，机器侧交叉核验）
+artifact_sha256:
+  dut: 121472fb55e41e555c654f434a9f9d3da373fdc10b2defaf12be51d512c02694
+  tb: 7d044c270764f7c0462fd1126a895e3c162a7c270b120169b02188f6d97f8c17
+  minimal_tb: a1689ba82f2d2856adeb8b5bdc9290bf7064db2bdc65fa480c80ae956d9019e3
+  dump_tb: 893e2e8a6463bf890726e1fb955d0eb2e4f4b9226653b55c98e097387da2af94
+  sva: ba5b8dcf5ec9786c9699d4a6c3b9a684a8e4f6522ccc3f95b734c65aa7332080
+  runner: 761db27aebbca79ac7d500a9c9cbbed748d26448dc79e24e185fc0a5cdf1b3b9
+  scan_log: b763e5bd38cbbcbc0a370daf973f199825c8ecdc77a1d16940264a8cfd358661
+  mask_dump: dc2943de76e6ef6ff2f08b080a01dde9524c0846ed2e85814fe63574cba8ff22
+meta_contract_after_release_sha256: 4ff8893a6998dac2abce08cb41978398d0fa7de0686e31a416903017f6bf9678

@@ -1,0 +1,37 @@
+# ============================================================
+# 批次元YAML（总清单）
+# ============================================================
+batch_meta:
+  batch_name: EP-TUNNEL-001-OMNI-R2_PRE_BATCH
+  local_path: ledger/protocols/ep-tunnel-001-omni-r2-pre-batch/
+  anchor_chain_top_sha_at_submit: "5b49abe0d8806e31725f8cd8dc71f7dbc5a98903a7409318d34d554d824719aa"
+  files:
+    - p0-label-patch.yaml
+    - dual-axis-state-machine.yaml
+    - sva_dual_axis_state_machine.sv
+    - negative_result_schema.yaml
+    - sm_transition_matrix.csv
+    - tun-subdomain-registration-and-authority-declaration.yaml
+  declared_but_missing: []   # D04 已补 sm_transition_matrix.csv 模板（待填充实测路径）
+  unresolved_pending:
+    - TUN子域A-1补登
+    - T17-T24量化判据对接BENCH
+    - 废案归档冲突契约
+    - 正文版本号规范
+    - 术语逐处标注
+  draft_class: PRE_R2_BATCH
+  seal_state: NOT_SEALED
+  approval_state: NOT_APPROVED
+  review_state: REVIEW_REQUIRED
+  defect_register: [D01_pending_vote, D02_fixed, D03_fixed, D04_template_supplied, D05_moved_to_2000_proposal, D06_schema_patched]
+  archive_discipline: >-
+    提案阶段允许原地更新；会审通过、转入正式分支时强制执行：版本后缀命名（-v0.x）
+    + 快照目录，禁止原地覆盖，以保障 append-only 字节级可溯源。
+  p1_proposal: tun-subdomain-registration-and-authority-declaration.yaml (PENDING_2000_REVIEW, 独立提案工件，不入仿真/Schema子集)
+  artifact_versions:
+    sm_transition_matrix.csv: v0.3
+    sva_dual_axis_state_machine.sv: v0.4
+    negative_result_schema.yaml: v0.3
+    dual-axis-state-machine.yaml: v0.2
+  defect_register_v2: [D01_pending_vote, D02_fixed, D03_fixed, D04_fixed, D05_moved_to_2000_proposal, D06_schema_patched, N01_fixed, N02_fixed, N03_fixed, N04_pending_vote, N05_fixed, N06_fixed, N07_fixed, N08_fixed, N09_fixed, N10_fixed, N11_fixed]
+  next_action: 20:00罗盘踏板会审表决

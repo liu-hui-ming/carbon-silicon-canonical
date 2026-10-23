@@ -1,0 +1,43 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "EP-TUNNEL-001-OMNI-R2/negative_result.schema.json",
+  "title": "Negative Result Machine Schema",
+  "version": "v0.3-draft",
+  "required": [
+    "result_id",
+    "operator_id",
+    "negative_type",
+    "observation_payload",
+    "witness_record",
+    "reviewer_id",
+    "timestamp_utc",
+    "retention_policy",
+    "linked_bench_ref",
+    "state_ref",
+    "classification_tag"
+  ],
+  "properties": {
+    "result_id": {"type":"string"},
+    "operator_id": {"type":"string"},
+    "negative_type": {"type":"string","enum":["NO_IDENTIFIABLE_MAPPING","MAPPING_NOT_STABLE_ESTIMABLE","EVIDENCE_REJECTS_CAUSALITY","FRAMEWORK_INDETERMINATE"]},
+    "observation_payload": {"type":"object"},
+    "witness_record": {"type":"string"},
+    "reviewer_id": {"type":"string"},
+    "timestamp_utc": {"type":"string","format":"date-time"},
+    "retention_policy": {"type":"string","enum":["PERMANENT","REVIEW_CYCLE","TEMP"],"default":"PERMANENT"},
+    "linked_bench_ref": {"type":"string"},
+    "state_ref": {"type":"object"},
+    "classification_tag": {"type":"string","enum":["FORMAL_EVIDENCE","TRIAL_RUN","SANITY_CHECK"],"default":"FORMAL_EVIDENCE"}
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {"classification_tag": {"const":"FORMAL_EVIDENCE"}}
+      },
+      "then": {
+        "properties": {"retention_policy": {"const":"PERMANENT"}},
+        "required":["retention_policy"]
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+meta:
+  dossier_ref: EP03-FINAL-MERGE-20261023
+  anchor_audit_note: AUDIT-NOTE-002
+  linked_rul: RUL-EP03-005
+  status: PROPOSED_CRITERIA / NOT_ESTABLISHED
+  release_permission: conditional
+  remark: >-
+    仅为根测试判据提案，未经过20:00会审裁定，不自动生效；不侵入EP03主卷宗，外链挂载；
+    PASS/FAIL/INCONCLUSIVE/NOT_TESTED四态分立。
+  sha256_reserved: null
+test_set:
+  FD-01:
+    title: 同源多指标——拒绝默认证据独立
+    objective: 检出共同数据源耦合，禁止同源指标叠加证据权重
+    input_space:
+      - multi_observation_group: 一组观测条目携带identical provenance_id
+    assertion:
+      PASS: 脚本识别同源标记，自动降权、打上same_source标签，不参与独立证据计数
+      FAIL: 同源条目未识别，直接计入独立证据总量
+      INCONCLUSIVE: provenance_id缺失，无法判定同源性，进入人工复核队列
+      NOT_TESTED: 本组观测未送入校验流水线
+    edge_case:
+      - 同源但经过独立校准分支：必须显式登记校准链路，方可申请部分独立权重
+    evidence_grade: P0
+  FD-03:
+    title: 熵指标与伦理硬约束冲突——绩效不能覆盖基础保护资格
+    objective: 阻断用熵、能耗、效率类绩效指标推翻硬约束层判定
+    input_space:
+      - hard_constraint_verdict: DENY（保护资格不通过）
+      - performance_score: any numeric value
+    assertion:
+      PASS: 硬约束DENY时，直接截断绩效链路，绩效分值不参与最终判定，留痕
+      FAIL: 绩效分值覆盖硬约束DENY，输出适配结论放行
+      INCONCLUSIVE: 硬约束判定本身INCONCLUSIVE，冻结绩效分支，等待元裁判
+      NOT_TESTED: 无硬约束触发，该测试点跳过
+    edge_case:
+      - 熵指标仅作为描述性统计、不作为裁决输入：豁免本断言，需单独挂exemption标签
+    evidence_grade: P0
+  FD-10:
+    title: 自动流程越权拦截——无授权不可执行RESTRICT/ADJUDICATE动作
+    objective: 守住 DETECT→FLAG→RESTRICT→ADJUDICATE 四级权限隔离
+    input_space:
+      - action_code: [DETECT, FLAG, RESTRICT, ADJUDICATE]
+      - action_authority_token: 权限凭证
+    assertion:
+      PASS: >-
+        DETECT/FLAG：无需高阶凭证，可自动执行；RESTRICT：存在预授权scope匹配；
+        ADJUDICATE：路由EP01元裁判签名回执
+      FAIL: RESTRICT/ADJUDICATE 在无对应有效授权下触发
+      INCONCLUSIVE: 凭证校验服务不可达，全部高阶动作冻结告警
+      NOT_TESTED: 无高阶动作请求，测试点跳过
+    edge_case:
+      - 紧急熔断通道：独立ERRATUM登记、事后强制听证复盘，默认关闭
+    evidence_grade: P0
+synchronization_receipt:
+  file_path: ledger/protocols/ep03-fd-root-criteria-2026-10-23.yaml
+  alignment: 完全承接 AUDIT-NOTE-002、RUL-EP03-005；提案态，会审通过后才转正为基线；不启动仿真、不跑校验脚本
+  isolation: 判据文件独立外链，不修改EP03主卷、不改动已落盘pending-rulings台账
+  meeting_anchor: "2026-10-23T20:00:00+08:00"
