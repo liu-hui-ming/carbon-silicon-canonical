@@ -145,3 +145,15 @@ HR-0065 状态追加（2026-10-23 10:33 GMT+8）：提交方确认 P0-⑦ 只完
 | 卷宗 | 主文件 | 当前登记状态 | 说明 |
 |---|---|---|---|
 | 罗盘踏板双向勘录回执 · 2026-10-24 20:00档 | `compass-pedal-survey-2026-10-24-2000.md` | `SURVEY_RECEIPT / APPEND_ONLY / NOT_A_RULING` | compass-pedal-survey cron（d59bf40e）当轮产出。勘录范围：当日 `ledger/protocols/` 新增/修订 12 件＋INDEX 自身，逐件 SHA256 全值实测（见回执第二节）。对账结论：INDEX 已登记四件（review-evidence-principle／evidence-discipline／HB-1108-audit-corrections／ep04-omnidim-r1-verif-receipt）哈希全部实测吻合；八件当日文件「文件在、索引无」（U-1，其中 RUL-META-THROUGHPUT-01 与 pending-registry-001 为已生效规则类文件，建议优先补登，本登记不代补）；`pending-registry-001` 自生效基线 `44c86fb0…` 演进至 `85283b83…` 登记为受控迭代偏移；EP04 正本维持 NOT_ON_DISK／UNVERIFIED_BYTE_ANCHOR（U-3）；昨日 U-2/U-3/U-4 与七项仲裁队列维持开放不闭合。PUSH_ME.txt 已无条件生成，零 Git 操作。回执 SHA256 `f2aa377894e610d98c62f6e81c739896e4098533ff8cd8f8959c9bc9824fd522`（落盘实测）。本条目为登记性追加，不授予启用权限，不构成验收结论。 |
+
+## 2026-10-25 罗盘踏板双向勘录回执登记（20:00档追加）
+
+| 卷宗 | 主文件 | 当前登记状态 | 说明 |
+|---|---|---|---|
+| 罗盘踏板双向勘录回执 · 2026-10-25 20:00档 | `compass-pedal-survey-2026-10-25-2000.md` | `SURVEY_RECEIPT / APPEND_ONLY / NOT_A_RULING` | compass-pedal-survey cron（d59bf40e）当轮产出。当日 `ledger/protocols/`、`ledger/observations/` 零新增/零修订（零新增档），勘录转为昨日 13 件＋昨日回执本体的承接性复测：逐件 SHA256 全值复测与昨日登记值**全部一致、零漂移**（INDEX 已登记四件＋昨日回执自体构成五点正向验证）。INDEX 自昨日 20:01:08（追后 `cb37c218…`）未再演进；昨日 U-1 八件「文件在、索引无」今日实测 grep 命中 0，缺口原样承接不代补（两件 EFFECTIVE 规则类文件优先补登建议维持）；U-2/U-3/U-4 承接开放。勘录轮不推进 .v3-guard 基线，链 v3 追加后 guard 复核差异归因本档。PUSH_ME.txt 已无条件生成，零 Git 操作。回执 SHA256 `c92bc9cef2d21b063f4de593aeb17fbd492937778360e2a76c81d66c9c1bd0d0`（8,443 B，落盘实测）。本条目为登记性追加，不授予启用权限，不构成验收结论。 |
+
+## 2026-10-26 罗盘踏板双向勘录回执登记（20:00档追加）
+
+| 卷宗 | 主文件 | 当前登记状态 | 说明 |
+|---|---|---|---|
+| 罗盘踏板双向勘录回执 · 2026-10-26 20:00档 | `compass-pedal-survey-2026-10-26-2000.md` | `SURVEY_RECEIPT / APPEND_ONLY / NOT_A_RULING` | compass-pedal-survey cron（d59bf40e）当轮产出。当日 protocols 新增 1 件（`ep06-r3-review-note-01-2026-10-26.md`，SHA256 `d6b0342782d948b5c2dc56180bd4a8d81b4e1ff5cb441ec803e00f66d05f7969`，2,867 B，`REVIEW_NOTE / APPEND_ONLY / NOT_A_RULING`，其自声明 INDEX 暂不入、待创立人指令，单列观察项 V-1）、observations 零新增；昨日承接 14 件逐件复测零漂移（INDEX 已登记四件＋两份回执自体构成六点正向验证）。勘录时点 INDEX `06d01cf1…`（38,536 B）与昨日 HB-CPS-02 所记追后终态一致；U-1 八件缺口 grep 命中 0 原样承接；U-2/U-3/U-4 承接开放。勘录轮不推进 .v3-guard 基线，链 v3 追加 HB-CPS-03 后 guard 复核差异归因本档。PUSH_ME.txt 已无条件生成，零 Git 操作。回执 SHA256 `5104c5bc06059a0e00821b0c101167fa530517f2145c2436aeb7ac135dcf5305`（9,468 B，落盘实测）。本条目为登记性追加，不授予启用权限，不构成验收结论。 |

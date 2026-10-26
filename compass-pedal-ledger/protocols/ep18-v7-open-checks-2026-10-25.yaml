@@ -1,0 +1,47 @@
+ledger_id: EP18-V7-OPEN-CHECKS
+parent_archive: EP18-METADIM-BIC-CONVERGED-V7
+source_note: EP18-METADIM-BIC-CONVERGED-V7-ERRATUM-01.yaml
+registered_at: '2026-10-25T21:34:23+08:00'
+status: DRAFT_DUPLICATE_NOT_AUTHORIZED
+closure_policy: 永不自动闭合；仅凭新增记录不改变状态
+entries:
+- id: EP18-V7-R95-01
+  status: DRAFT_NOT_REGISTERED
+  source: 95分评审扣分项1
+  item: 逐项核对Science正文及补充材料，将物理锚点分层为论文报告、机制解释、待核验
+  required_evidence: 可回读原文/补充材料及主张-来源对照表
+- id: EP18-V7-R95-02
+  status: DRAFT_NOT_REGISTERED
+  source: 95分评审扣分项2
+  item: 将跨域同构限定为候选结构对应；检验前不主张动力学等价
+  required_evidence: 映射契约、差异掩码、预注册预测及反证条件
+- id: EP18-V7-R95-03
+  status: DRAFT_NOT_REGISTERED
+  source: 95分评审扣分项3
+  item: 构造最小实例，验证Schema、九态机、权限矩阵、三联台账及复核门禁的端到端运行
+  required_evidence: 可复现运行日志、错误/降级路径及复核记录
+- id: EP18-V7-R95-04
+  status: DRAFT_NOT_REGISTERED
+  source: 95分评审扣分项4
+  item: 明确选择性耦合抑制是卷宗概括，不等于实验直接测得全部耦合矩阵元
+  required_evidence: 论文逐项核对和限定性措辞
+- id: EP18-V7-R95-05
+  status: DRAFT_NOT_REGISTERED
+  source: 95分评审扣分项5
+  item: 所有评审分数均标明评价范围，不作为论文物理细节背书
+  required_evidence: 评审记录中的范围声明
+- id: EP18-V7-TASK-01
+  status: DRAFT_NOT_REGISTERED
+  item: 比较2-3组不同局域态体系（含光学BIC、安德森局域），评估候选框架适用边界
+  required_evidence: 对照方案、适用范围报告、反例/失败条件
+- id: EP18-V7-TASK-02
+  status: DRAFT_NOT_REGISTERED
+  item: 预注册可产生负结果并能证伪候选结构对应假说的实验
+  required_evidence: 预注册预测、基线、阈值、对照与失败判据
+meta:
+  no_auto_close: true
+  evidence_domain: EP18 only; isolated from csdt-autoloop and other ledgers
+  state_note: 这是新增本地待办登记，不证明任务已执行或完成
+registry_note: Assistant-created duplicate draft; not part of the user-designated
+  ERRATUM-01 path and not authoritative. Preserve for audit only; do not use as the
+  OPEN_CHECK source of truth.

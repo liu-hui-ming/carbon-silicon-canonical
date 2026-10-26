@@ -1,0 +1,86 @@
+note_id: EP18-CONVERGED-V7-ERRATUM-01
+parent_archive: EP18-METADIM-BIC-CONVERGED-V7
+status: DRAFT
+registered_at: "2026-10-25T21:34:23+08:00"
+registry_note: "会后追加草案；未列入2026-10-25 20:00已完成的罗盘踏板回执。后续勘录可承接，本条不自动闭合。"
+review_source: "2026-10-25 assistant review; score 95/100 for text construction, architecture, and evidence discipline only"
+scope: "Textual clarification and open-check registration; does not alter the sealed V7 baseline"
+fixed_clarifications:
+  physics_detail_labels:
+    paper_reported:
+      - "Two defect-induced states localized within the metallic continuum of Pd5AlI2"
+      - "Authors relate their emergence to hopping interference in the lattice"
+    mechanism_interpretation:
+      - "Orbital/symmetry orthogonality and suppression of coupling are mechanism-level descriptions; exact wording requires article and supplement review"
+    pending_quantification:
+      - "Quantitative contribution of residual phonon scattering and other decay channels"
+  mapping_language:
+    preferred: "candidate structural correspondence"
+    clarification: "Dynamic equivalence between physical BIC and information/governance systems has not been established"
+    terminology_note: "Any use of 'isomorphism' in this dossier means candidate structural correspondence, not a claim of strict mathematical isomorphism"
+  framework_maturity:
+    status: "draft specification / candidate baseline"
+    limitation: "No end-to-end real-instance registration and acceptance run has yet been evidenced"
+  summary_phrase:
+    phrase: "continuum selective-coupling-suppression mechanism"
+    clarification: "Dossier-level summary; does not mean the paper directly measured every coupling matrix element"
+  review_boundary:
+    clarification: "The 95/100 score assesses the text's creativity, architecture, and evidence discipline only; it does not endorse all physical details of the source paper"
+open_checks:
+  - id: task_01
+    status: OPEN_CHECK
+    task: "Compare the Science article and supplementary materials item by item; distinguish reported measurements, theoretical interpretation, and unquantified items"
+    deliverable: "Claim-to-source evidence table"
+  - id: task_02
+    status: OPEN_CHECK
+    task: "Construct a minimal example and run Schema -> registration -> perturbation trigger -> REVIEW_REQUIRED -> decision/rejection/degradation through the nine-state machine"
+    deliverable: "Execution log and failure notes"
+  - id: task_03
+    status: OPEN_CHECK
+    task: "Compare 2-3 distinct localized-state systems, including optical BIC and Anderson localization, to test scope and limits"
+    deliverable: "Comparative applicability-boundary report"
+  - id: task_04
+    status: OPEN_CHECK
+    task: "Pre-register a negative-result experiment that could falsify the candidate structural-correspondence hypothesis"
+    deliverable: "Pre-registration with predictions, controls, thresholds, and falsification criteria"
+  - id: review_deduction_01
+    status: OPEN_CHECK
+    task: "核对物理锚点细节并标记论文报告、机制解释、待核验"
+  - id: review_deduction_02
+    status: OPEN_CHECK
+    task: "将跨域同构措辞限定为候选结构对应，动力学等价未建立"
+  - id: review_deduction_03
+    status: OPEN_CHECK
+    task: "核实规则栈端到端运行实例；未验证前保持规范草案/候选基线"
+  - id: review_deduction_04
+    status: OPEN_CHECK
+    task: "说明选择性耦合抑制为卷宗概括，非对所有矩阵元的直接测量"
+  - id: review_deduction_05
+    status: OPEN_CHECK
+    task: "保留评审分数的评价范围边界，不视为论文物理结论背书"
+open_review_deductions:
+  - id: review_deduction_01
+    status: OPEN_CHECK
+    task: "核对物理锚点细节并标记论文报告、机制解释、待核验"
+  - id: review_deduction_02
+    status: OPEN_CHECK
+    task: "将跨域同构措辞限定为候选结构对应，动力学等价未建立"
+  - id: review_deduction_03
+    status: OPEN_CHECK
+    task: "核实规则栈端到端运行实例；未验证前保持规范草案/候选基线"
+  - id: review_deduction_04
+    status: OPEN_CHECK
+    task: "说明选择性耦合抑制为卷宗概括，非对所有矩阵元的直接测量"
+  - id: review_deduction_05
+    status: OPEN_CHECK
+    task: "保留评审分数的评价范围边界，不视为论文物理结论背书"
+registry_status:
+  erratum: "DRAFT / APPENDED_AFTER_2026-10-25_20:00_SURVEY"
+  open_checks: "REGISTERED_IN_THIS_DRAFT_ONLY / PENDING_NEXT_SURVEY_CARRY_FORWARD"
+  auto_close: false
+  git_push: "PROHIBITED_BY_LONG_TERM_FLOW_RULES; PUSH_ME generation is a founder/operator workflow, not performed here"
+integrity:
+  sha256: PENDING_LOCAL_FILE
+  storage: WRITTEN_AS_DRAFT_NOT_HASHED
+  seal_note: "Append-only draft; does not modify or replace EP18-METADIM-BIC-CONVERGED-V7 baseline or its hash"
+provenance_note: "User supplied this proposed erratum and open-check plan in chat on 2026-10-25; assistant has transcribed it as a draft. No independent scientific verification is implied."
