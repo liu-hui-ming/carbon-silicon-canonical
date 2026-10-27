@@ -1,0 +1,19 @@
+{
+  "anchor": "EP-anchor-01",
+  "date": "2026-10-27",
+  "title": "算力观察：存算一体与材料约束",
+  "media": "央广网首发（随机）",
+  "url": "https://www.cnr.cn/mspd/jrhm/20261027/t20261027_527854453.shtml",
+  "pub_date_page": "2026-10-27 17:08:30",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "算力观察：存算一体与材料约束_央广网.md": {
+      "sha256": "2c444ca3bf989f7d143f51e0e21e8791d4daee4367c4299421db72954b0ee545",
+      "bytes": 2448
+    },
+    "evidence-snapshots/算力观察：存算一体与材料约束_央广网_snapshot.png": {
+      "sha256": "c87e38fc0677f0ba93cdfeeb17ee6cc68b60f61233c21fd120c6b565ea14d789",
+      "bytes": 1441753
+    }
+  }
+}
