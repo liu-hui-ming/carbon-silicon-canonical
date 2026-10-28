@@ -157,3 +157,21 @@ HR-0065 状态追加（2026-10-23 10:33 GMT+8）：提交方确认 P0-⑦ 只完
 | 卷宗 | 主文件 | 当前登记状态 | 说明 |
 |---|---|---|---|
 | 罗盘踏板双向勘录回执 · 2026-10-26 20:00档 | `compass-pedal-survey-2026-10-26-2000.md` | `SURVEY_RECEIPT / APPEND_ONLY / NOT_A_RULING` | compass-pedal-survey cron（d59bf40e）当轮产出。当日 protocols 新增 1 件（`ep06-r3-review-note-01-2026-10-26.md`，SHA256 `d6b0342782d948b5c2dc56180bd4a8d81b4e1ff5cb441ec803e00f66d05f7969`，2,867 B，`REVIEW_NOTE / APPEND_ONLY / NOT_A_RULING`，其自声明 INDEX 暂不入、待创立人指令，单列观察项 V-1）、observations 零新增；昨日承接 14 件逐件复测零漂移（INDEX 已登记四件＋两份回执自体构成六点正向验证）。勘录时点 INDEX `06d01cf1…`（38,536 B）与昨日 HB-CPS-02 所记追后终态一致；U-1 八件缺口 grep 命中 0 原样承接；U-2/U-3/U-4 承接开放。勘录轮不推进 .v3-guard 基线，链 v3 追加 HB-CPS-03 后 guard 复核差异归因本档。PUSH_ME.txt 已无条件生成，零 Git 操作。回执 SHA256 `5104c5bc06059a0e00821b0c101167fa530517f2145c2436aeb7ac135dcf5305`（9,468 B，落盘实测）。本条目为登记性追加，不授予启用权限，不构成验收结论。 |
+
+## 2026-10-27 罗盘踏板双向勘录回执登记（20:00档追加 · 补正落盘）
+
+| 卷宗 | 主文件 | 当前登记状态 | 说明 |
+|---|---|---|---|
+| 罗盘踏板双向勘录回执 · 2026-10-27 20:00档 | `compass-pedal-survey-2026-10-27-2000.md` | `SURVEY_RECEIPT / APPEND_ONLY / NOT_A_RULING` | compass-pedal-survey cron（d59bf40e）20:00 触发；GLM 会话未写盘，本条目为 **补正落盘**。当日 ledger **零新增**；15 件承接复测 **零漂移**；INDEX 追加前 `7a05ed322434f11689e4b9940df445bfb42db5cefa29b807d17436d3dee005ff`（39812 B）。PUSH_ME `c64a630e69cf62cbd932fdabe6ad0165426c78ad538911fa51359e02230f3e8b`。回执 SHA256 `91c00627afb1427b3b0cc6b32fce8b7a77af782c63775bfbf771376d1092436e`（5257 B，落盘实测）。零 Git 操作。 |
+
+## 2026-10-27 eu-unit-heartbeat 重载勘录卷宗登记（创立人 22:59 落盘指令）
+
+| 卷宗 | 主文件 | 当前登记状态 | 说明 |
+|---|---|---|---|
+| eu-unit-heartbeat Overload Pathways 勘录卷宗（含成本共振、HB-1509、罗盘配置漂移） | `compass-pedal-survey-2026-10-27.md` | `SEALED / EFFECTIVE / APPEND_ONLY` | 创立人 22:59 明确指令落盘，路径与文件名由创立人指定。四组分（重载路径观测／OpenRouter 成本共振／HB-1509 隔离简报／Compass Task Configuration Drift）均经多轮交叉核对收敛后逐字收录。落盘校正（卷头登记）：原稿两处 `approximately 13.6 billion tokens` 为笔误，按创立人 22:47 已确认更正口径写入 `approximately 1.36 billion tokens`。罗盘模型切回 `openrouter/auto` 的操作者归因缺口保留开放，后续仅以附注闭合。确认 1 / 确认 2 pending；各 cron 绑定与 fallback 基线 unchanged。SHA256 `79219f7a9c331c2f092591ab20fab436f9007f5fc0d1d3a91fb1e7e73cc0a6f0`（11044 B，落盘实测）。追加-only，不改正文；零 Git 操作。 |
+
+## 2026-10-28 罗盘踏板双向勘录回执登记（20:00档追加）
+
+| 卷宗 | 主文件 | 当前登记状态 | 说明 |
+|---|---|---|---|
+| 罗盘踏板双向勘录回执 · 2026-10-28 20:00档 | `compass-pedal-survey-2026-10-28-2000.md` | `SURVEY_RECEIPT / APPEND_ONLY / NOT_A_RULING` | compass-pedal-survey cron（d59bf40e）20:00 档当轮产出（openrouter/auto 正常写盘）。当日 `ledger/protocols/`、`ledger/observations/` 零新增/零修订（零新增档），勘录转为承接性复测：10-27 承接 15 件＋10-27 20:00档补正落盘回执＋10-27 创立人指令落盘卷宗（eu-unit-heartbeat，SEALED）共 **17 件** 逐件 SHA256 全值复测 **零漂移**（10-27 两件新落盘件首测即锚定：回执 `91c00627…1092436e`、卷宗 `79219f7a…73cc0a6f0`）。勘录时点 INDEX `75b0a13ffd7142c2…`（41698 B）＝10-27 晚间补正落盘后终态，演进可归因、无未授权变更；U-1 八件缺口 grep 命中 0 原样承接；V-1 维持待创立人指令；U-2/U-3/U-4 承接开放。勘录轮不推进 .v3-guard 基线。PUSH_ME.txt 已无条件生成，零 Git 操作。回执 SHA256 `0bf87134d408721eb389e70fdeb5ea3d78d07ce5d0c9b1395de230beb5bf60ee`（6032 B，落盘实测）。本条目为登记性追加，不授予启用权限，不构成验收结论。 |
