@@ -1,0 +1,16 @@
+2026-10-28T21:50+08:00 EP-anchor-01 media-archive ingest (XIAN legion cross-ref)
+repo=carbon-silicon-canonical
+anchor=EP-anchor-01
+capture_standard=P0-four-elements-v2
+closure=ARCHIVE_ONLY no_ledger_closure
+
+cnr_title=智能硬件“行为风险”进入承保视野 保险定价探索前置到出厂前
+cnr_url=https://www.cnr.cn/mspd/jrhm/20261028/t20261028_527855332.shtml
+cnr_md=media-archive/cnr/EP-anchor-01/智能硬件“行为风险”进入承保视野 保险定价探索前置到出厂前_央广网.md
+cnr_md_sha256=aeadc310ca394aa271e6813f7db01257467671795bdfa56c31a65ab4f2e80270
+cnr_png=media-archive/cnr/EP-anchor-01/evidence-snapshots/智能硬件“行为风险”进入承保视野 保险定价探索前置到出厂前_央广网_snapshot.png
+cnr_png_sha256=e81e1889bfee6825a7e50eb54d945703ec22cc8396b01370b9bbb97c019b68bc
+
+index=media-archive/INDEX.md
+legion_export=docs/issue-exports/media-archive-ep-anchor-01-20261028-cnr/
+xian_daily=docs/issue-exports/xian-daily-2026-10-28-ep-anchor-cnr/

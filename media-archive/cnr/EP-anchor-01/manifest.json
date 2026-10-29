@@ -1,11 +1,22 @@
 {
   "anchor": "EP-anchor-01",
-  "date": "2026-10-27",
-  "title": "算力观察：存算一体与材料约束",
-  "media": "央广网首发（随机）",
-  "url": "https://www.cnr.cn/mspd/jrhm/20261027/t20261027_527854453.shtml",
-  "pub_date_page": "2026-10-27 17:08:30",
   "capture_standard": "P0-four-elements-v2",
+  "ingests": [
+    {
+      "date": "2026-10-27",
+      "title": "算力观察：存算一体与材料约束",
+      "media": "央广网首发（随机）",
+      "url": "https://www.cnr.cn/mspd/jrhm/20261027/t20261027_527854453.shtml",
+      "pub_date_page": "2026-10-27 17:08:30"
+    },
+    {
+      "date": "2026-10-28",
+      "title": "智能硬件“行为风险”进入承保视野 保险定价探索前置到出厂前",
+      "media": "央广网首发",
+      "url": "https://www.cnr.cn/mspd/jrhm/20261028/t20261028_527855332.shtml",
+      "pub_date_page": "2026-10-28 16:57:21"
+    }
+  ],
   "files": {
     "算力观察：存算一体与材料约束_央广网.md": {
       "sha256": "2c444ca3bf989f7d143f51e0e21e8791d4daee4367c4299421db72954b0ee545",
@@ -14,6 +25,14 @@
     "evidence-snapshots/算力观察：存算一体与材料约束_央广网_snapshot.png": {
       "sha256": "c87e38fc0677f0ba93cdfeeb17ee6cc68b60f61233c21fd120c6b565ea14d789",
       "bytes": 1441753
+    },
+    "智能硬件“行为风险”进入承保视野 保险定价探索前置到出厂前_央广网.md": {
+      "sha256": "aeadc310ca394aa271e6813f7db01257467671795bdfa56c31a65ab4f2e80270",
+      "bytes": 6158
+    },
+    "evidence-snapshots/智能硬件“行为风险”进入承保视野 保险定价探索前置到出厂前_央广网_snapshot.png": {
+      "sha256": "e81e1889bfee6825a7e50eb54d945703ec22cc8396b01370b9bbb97c019b68bc",
+      "bytes": 1114985
     }
   }
 }
