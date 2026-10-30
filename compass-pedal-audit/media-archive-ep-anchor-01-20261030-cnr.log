@@ -1,0 +1,23 @@
+2026-10-30T21:00+08:00 EP-anchor-01 media-archive ingest (XIAN legion cross-ref)
+repo=carbon-silicon-canonical
+anchor=EP-anchor-01
+capture_standard=P0-four-elements-v2
+closure=ARCHIVE_ONLY no_ledger_closure
+
+cnr_title_1=“清朗”专项整治聚焦AI应用乱象：让普通用户看得懂、控得住智能服务
+cnr_url_1=https://www.cnr.cn/mspd/jrhm/20261030/t20261030_527857507.shtml
+cnr_md_1=media-archive/cnr/EP-anchor-01/“清朗”专项整治聚焦AI应用乱象：让普通用户看得懂、控得住智能服务_央广网.md
+cnr_md_1_sha256=d24001424724d727b238d2274c92c9939ea898788234e2e5671480cc2e75f784
+cnr_png_1=media-archive/cnr/EP-anchor-01/evidence-snapshots/“清朗”专项整治聚焦AI应用乱象：让普通用户看得懂、控得住智能服务_央广网_snapshot.png
+cnr_png_1_sha256=7f90a4af5e8ea12d7fd7421160c2ab9f9972be739267e16442218d062bcecbed
+
+cnr_title_2=智能体端侧权限风险受关注 业界探索“云端锁档”守护数字民生
+cnr_url_2=https://www.cnr.cn/mspd/jrhm/20261030/t20261030_527857505.shtml
+cnr_md_2=media-archive/cnr/EP-anchor-01/智能体端侧权限风险受关注 业界探索“云端锁档”守护数字民生_央广网.md
+cnr_md_2_sha256=1e7047263340a5f9240d30f54565f272ada6fdedc29ad89927080f6e1709a10d
+cnr_png_2=media-archive/cnr/EP-anchor-01/evidence-snapshots/智能体端侧权限风险受关注 业界探索“云端锁档”守护数字民生_央广网_snapshot.png
+cnr_png_2_sha256=7d816bcde31f89c86d4789d236bb15ecac0a4ad34886f9e6f5b6df5faf0e16c3
+
+index=media-archive/INDEX.md
+legion_export=docs/issue-exports/media-archive-ep-anchor-01-20261030-cnr/
+xian_daily=docs/issue-exports/xian-daily-2026-10-30-ep-anchor-cnr/

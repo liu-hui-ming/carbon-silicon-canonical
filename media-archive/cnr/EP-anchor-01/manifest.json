@@ -15,6 +15,20 @@
       "media": "央广网首发",
       "url": "https://www.cnr.cn/mspd/jrhm/20261028/t20261028_527855332.shtml",
       "pub_date_page": "2026-10-28 16:57:21"
+    },
+    {
+      "date": "2026-10-30",
+      "title": "“清朗”专项整治聚焦AI应用乱象：让普通用户看得懂、控得住智能服务",
+      "media": "央广网首发",
+      "url": "https://www.cnr.cn/mspd/jrhm/20261030/t20261030_527857507.shtml",
+      "pub_date_page": "2026-10-30 15:10:27"
+    },
+    {
+      "date": "2026-10-30",
+      "title": "智能体端侧权限风险受关注 业界探索“云端锁档”守护数字民生",
+      "media": "央广网首发",
+      "url": "https://www.cnr.cn/mspd/jrhm/20261030/t20261030_527857505.shtml",
+      "pub_date_page": "2026-10-30 15:10:30"
     }
   ],
   "files": {
@@ -33,6 +47,22 @@
     "evidence-snapshots/智能硬件“行为风险”进入承保视野 保险定价探索前置到出厂前_央广网_snapshot.png": {
       "sha256": "e81e1889bfee6825a7e50eb54d945703ec22cc8396b01370b9bbb97c019b68bc",
       "bytes": 1114985
+    },
+    "“清朗”专项整治聚焦AI应用乱象：让普通用户看得懂、控得住智能服务_央广网.md": {
+      "sha256": "d24001424724d727b238d2274c92c9939ea898788234e2e5671480cc2e75f784",
+      "bytes": 3195
+    },
+    "evidence-snapshots/“清朗”专项整治聚焦AI应用乱象：让普通用户看得懂、控得住智能服务_央广网_snapshot.png": {
+      "sha256": "7f90a4af5e8ea12d7fd7421160c2ab9f9972be739267e16442218d062bcecbed",
+      "bytes": 868551
+    },
+    "智能体端侧权限风险受关注 业界探索“云端锁档”守护数字民生_央广网.md": {
+      "sha256": "1e7047263340a5f9240d30f54565f272ada6fdedc29ad89927080f6e1709a10d",
+      "bytes": 3029
+    },
+    "evidence-snapshots/智能体端侧权限风险受关注 业界探索“云端锁档”守护数字民生_央广网_snapshot.png": {
+      "sha256": "7d816bcde31f89c86d4789d236bb15ecac0a4ad34886f9e6f5b6df5faf0e16c3",
+      "bytes": 860344
     }
   }
 }
