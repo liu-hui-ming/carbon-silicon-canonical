@@ -21,3 +21,4 @@ cnr_png_2_sha256=7d816bcde31f89c86d4789d236bb15ecac0a4ad34886f9e6f5b6df5faf0e16c
 index=media-archive/INDEX.md
 legion_export=docs/issue-exports/media-archive-ep-anchor-01-20261030-cnr/
 xian_daily=docs/issue-exports/xian-daily-2026-10-30-ep-anchor-cnr/
+canonical_commit=4c4bd1f2
