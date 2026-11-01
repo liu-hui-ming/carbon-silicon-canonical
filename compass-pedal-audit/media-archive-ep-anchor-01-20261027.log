@@ -1,0 +1,23 @@
+2026-10-27T21:45+08:00 EP-anchor-01 media-archive ingest (XIAN legion cross-ref)
+repo=carbon-silicon-canonical
+anchor=EP-anchor-01
+capture_standard=P0-four-elements-v2
+closure=ARCHIVE_ONLY no_ledger_closure
+
+cnr_title=算力观察：存算一体与材料约束
+cnr_url=https://www.cnr.cn/mspd/jrhm/20261027/t20261027_527854453.shtml
+cnr_md=media-archive/cnr/EP-anchor-01/算力观察：存算一体与材料约束_央广网.md
+cnr_md_sha256=2c444ca3bf989f7d143f51e0e21e8791d4daee4367c4299421db72954b0ee545
+cnr_png=media-archive/cnr/EP-anchor-01/evidence-snapshots/算力观察：存算一体与材料约束_央广网_snapshot.png
+cnr_png_sha256=c87e38fc0677f0ba93cdfeeb17ee6cc68b60f61233c21fd120c6b565ea14d789
+
+news_cn_title=智能体规模化前，先解决"谁在行动"
+news_cn_url=https://www.news.cn/shshpd/20261027/011d9f8f2b6e4e728ac5b4b8a5277eb4/c.html
+news_cn_md=media-archive/news-cn/EP-anchor-01/智能体规模化前，先解决谁在行动_新华网.md
+news_cn_md_sha256=e0daf22dd5788a44b94034c12d20c25be976e4943199b25942542652bb18ca0a
+news_cn_png=media-archive/news-cn/EP-anchor-01/evidence-snapshots/智能体规模化前，先解决谁在行动_新华网_snapshot.png
+news_cn_png_sha256=04382a9b4090ed2e80c2d2bfc71d092829ae17927119852eb85e1c846c5e9a7a
+
+index=media-archive/INDEX.md
+legion_export=docs/issue-exports/media-archive-ep-anchor-01-20261027/
+xian_daily=docs/issue-exports/xian-daily-2026-10-27/

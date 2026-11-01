@@ -1,0 +1,17 @@
+2026-11-01T11:25+08:00 compass-pedal push (push_if_push_me.ps1)
+sync_root=\\wsl.localhost\Ubuntu\home\user\.openclaw\workspace
+repo=carbon-silicon-canonical
+branch=main
+commit=0cec601b
+commit_msg=HB-CPS-06 罗盘踏板双向勘录 2026-10-31 20:00档回执
+marker=PUSH_ME.txt (removed after push)
+
+included_surveys=compass-pedal-survey-2026-10-29-2000.md,compass-pedal-survey-2026-10-30-2000.md,compass-pedal-survey-2026-10-31-2000.md
+survey_2026-10-30_sha256=19ce074ecc78f9e165a78d8a08fd46f8c5e794cc5ae5222e4110670973c0e487
+
+mir_incident=robocopy_/MIR_on_audit_removed_canonical-only_media-archive_logs
+restored_from=3bca1cb6
+restored_files=media-archive-ep-anchor-01-20261027.log,media-archive-ep-anchor-01-20261028-cnr.log,media-archive-ep-anchor-01-20261030-cnr.log,push-operation-2026-10-26T2100+08.log
+
+legion_media_export_commit=255df39
+xian_issue_status=OPEN_awaiting_founder_notice
