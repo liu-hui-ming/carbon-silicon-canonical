@@ -58,7 +58,9 @@ $copyPairs = @(
 foreach ($p in $copyPairs) {
     if (-not (Test-Path $p.Src)) { continue }
     New-Item -ItemType Directory -Force -Path $p.Dst | Out-Null
-    robocopy $p.Src $p.Dst /MIR /XD __pycache__ /NFL /NDL /NJH /NJS /nc /ns /np | Out-Null
+    # audit: merge-only (/E) — canonical keeps media-archive + push-operation logs not in WSL mirror
+    $roboFlags = if ($p.Dst -like "*compass-pedal-audit*") { "/E" } else { "/MIR" }
+    robocopy $p.Src $p.Dst $roboFlags /XD __pycache__ /NFL /NDL /NJH /NJS /nc /ns /np | Out-Null
     if ($LASTEXITCODE -ge 8) { throw "robocopy failed $($p.Src) -> $($p.Dst) exit $LASTEXITCODE" }
 }
 
