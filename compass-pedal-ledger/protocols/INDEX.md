@@ -175,3 +175,21 @@ HR-0065 状态追加（2026-10-23 10:33 GMT+8）：提交方确认 P0-⑦ 只完
 | 卷宗 | 主文件 | 当前登记状态 | 说明 |
 |---|---|---|---|
 | 罗盘踏板双向勘录回执 · 2026-10-28 20:00档 | `compass-pedal-survey-2026-10-28-2000.md` | `SURVEY_RECEIPT / APPEND_ONLY / NOT_A_RULING` | compass-pedal-survey cron（d59bf40e）20:00 档当轮产出（openrouter/auto 正常写盘）。当日 `ledger/protocols/`、`ledger/observations/` 零新增/零修订（零新增档），勘录转为承接性复测：10-27 承接 15 件＋10-27 20:00档补正落盘回执＋10-27 创立人指令落盘卷宗（eu-unit-heartbeat，SEALED）共 **17 件** 逐件 SHA256 全值复测 **零漂移**（10-27 两件新落盘件首测即锚定：回执 `91c00627…1092436e`、卷宗 `79219f7a…73cc0a6f0`）。勘录时点 INDEX `75b0a13ffd7142c2…`（41698 B）＝10-27 晚间补正落盘后终态，演进可归因、无未授权变更；U-1 八件缺口 grep 命中 0 原样承接；V-1 维持待创立人指令；U-2/U-3/U-4 承接开放。勘录轮不推进 .v3-guard 基线。PUSH_ME.txt 已无条件生成，零 Git 操作。回执 SHA256 `0bf87134d408721eb389e70fdeb5ea3d78d07ce5d0c9b1395de230beb5bf60ee`（6032 B，落盘实测）。本条目为登记性追加，不授予启用权限，不构成验收结论。 |
+
+## 2026-10-29 罗盘踏板双向勘录回执登记（20:00档追加）
+
+| 卷宗 | 主文件 | 当前登记状态 | 说明 |
+|---|---|---|---|
+| 罗盘踏板双向勘录回执 · 2026-10-29 20:00档 | `compass-pedal-survey-2026-10-29-2000.md` | `SURVEY_RECEIPT / APPEND_ONLY / NOT_A_RULING` | compass-pedal-survey cron（d59bf40e）20:00 档当轮产出（openrouter/auto 正常写盘）。当日 `ledger/protocols/`、`ledger/observations/` 零新增/零修订（零新增档），勘录转为承接性复测：10-28 承接 17 件＋10-28 20:00档回执本体共 **18 件** 逐件 SHA256 全值复测 **零漂移**（回执本体 `0bf87134…5bf60ee` 与昨日登记值一致）。勘录时点 INDEX `df1eb2ccbed2b890…`（43013 B）＝10-28 追后终态，演进可归因、无未授权变更；U-1 八件缺口 grep 命中 0 原样承接；V-1 维持待创立人指令；另承接 HB 链侧事实：链 v3 内 HB-CPS 锚定块实测仅存 01/02/03，10-27/10-28 两档链锚块缺落，本档续写补落 HB-CPS-04（编号依链内实测序）；U-2/U-3/U-4 承接开放。勘录轮不推进 .v3-guard 基线。PUSH_ME.txt 已无条件生成，零 Git 操作。回执 SHA256 `46a6f879a5587f8ad5df62659ab1eac009c4b90159d2dc8812d9f27941aadce0`（7812 B，落盘实测）。本条目为登记性追加，不授予启用权限，不构成验收结论。 |
+
+## 2026-10-30 罗盘踏板双向勘录回执登记（20:00档追加）
+
+| 卷宗 | 主文件 | 当前登记状态 | 说明 |
+|---|---|---|---|
+| 罗盘踏板双向勘录回执 · 2026-10-30 20:00档 | `compass-pedal-survey-2026-10-30-2000.md` | `SURVEY_RECEIPT / APPEND_ONLY / NOT_A_RULING` | compass-pedal-survey cron（d59bf40e）20:00 档当轮产出（openrouter/auto 正常写盘）。当日 `ledger/protocols/`、`ledger/observations/` 零新增/零修订（零新增档），勘录转为承接性复测：10-29 承接 18 件＋10-29 20:00档回执本体共 **19 件** 逐件 SHA256 全值复测 **零漂移**（回执本体 `46a6f879…41aadce0` 与昨日登记值一致，自体正向验证维持）。勘录时点 INDEX `512d31c5272f4335…`（44371 B）＝昨日 HB-CPS-04 所记 10-29 追后终态，演进可归因、无未授权变更；U-1 八件缺口维持承接（grep 三处命中均为既往回执登记条目内提及，非本体登记），不代补；V-1 维持待创立人指令；链 v3 续写补落 HB-CPS-05（编号依链内实测序），10-27/10-28 档链锚缺落事实维持 U-4 承接；U-2/U-3 承接开放。勘录轮不推进 .v3-guard 基线。PUSH_ME.txt 已无条件生成，零 Git 操作。回执 SHA256 `19ce074ecc78f9e165a78d8a08fd46f8c5e794cc5ae5222e4110670973c0e487`（8047 B，落盘实测）。本条目为登记性追加，不授予启用权限，不构成验收结论。 |
+
+## 2026-10-31 罗盘踏板双向勘录回执登记（20:00档追加）
+
+| 卷宗 | 主文件 | 当前登记状态 | 说明 |
+|---|---|---|---|
+| 罗盘踏板双向勘录回执 · 2026-10-31 20:00档 | `compass-pedal-survey-2026-10-31-2000.md` | `SURVEY_RECEIPT / APPEND_ONLY / NOT_A_RULING` | compass-pedal-survey cron（d59bf40e）20:00 档当轮产出。当日 `ledger/protocols/` **新增 12 件**（自 10-24 以来首个非零新增档；CSI-critical-corridor R1.3-OMEGA-MERGE 系列、ERRATUM-R1.3-OMEGA、appendix-a-3d-criteria 系列、SUPPLEMENTS-INDEX、program-text-hexagon，INDEX grep 均命中 0，登记为 U-5 新增缺口 `NEW / UNREGISTERED / PROVENANCE_PENDING`，12 件哈希已逐件锚定，本档不代登记）、`ledger/observations/` 零新增；既有承接 20 件（10-24 承接 13 件＋10-25～10-30 六份回执本体）逐件 SHA256 全值复测 **零漂移**（回执本体 `19ce074e…3c0e487` 与 10-30 HB-CPS-05 落盘实测值一致，自体正向验证维持）。勘录时点 INDEX `0e2b68953dd2b9b09…`（45,793 B）＝10-30 档追后终态，演进可归因、无未授权变更；U-1 八件缺口原样承接不代补；V-1 维持待创立人指令；链 v3 续写补落 HB-CPS-06（编号依链内实测序），10-27/10-28 档链锚缺落事实维持 U-4 承接；U-2/U-3 承接开放。勘录轮不推进 .v3-guard 基线。PUSH_ME.txt 已无条件生成，零 Git 操作。回执 SHA256 `aca675ab25b54a82356d4a643433793d0771e0ed79588ff5549c57ec3f1c43e1`（11,137 B，落盘实测）。本条目为登记性追加，不授予启用权限，不构成验收结论。 |

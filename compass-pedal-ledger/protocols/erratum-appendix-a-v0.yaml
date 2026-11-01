@@ -1,0 +1,28 @@
+kind: seal_note
+id: SEAL-A0-00
+title: 附录 A 立项底稿封存附注
+date: 2026-10-31
+scope: 《智能体运行时安全测评规范》｜资料性附录 A
+status: CANDIDATE
+baseline: MEM-FINAL-MERGE-ROOT @ aa822da
+summary: >
+  本底稿为档位 2 激进前置锁档版本，权属、署名、优先解释权、拆分限制前置植入立项申报材料，
+  遵循 GB/T 1.1。采用分阶段注入机制：立项锁权属；起草注入完整性依赖与切片降级；
+  征求意见稿挂载存证哈希语义锚；送审前补入动态留白判定节点。
+guardrail:
+  inviolable:
+    - 编制人署名
+    - 禁止碎片化拆分改编
+non_negotiable_meta:
+  - 保持资料性附录，拒绝升格为规范性附录
+  - 不要求正文强制绑定附录
+fallback:
+  if_rejected: archive to conservative branch, await next batch window
+hash_binding:
+  program_text_sha256: PENDING_LOCAL_COMPUTE
+  program_text_source: appendix_a_candidate_v0.txt（六部分连续拼接，由创立人本地计算）
+  seal_block_path: ledger/protocols/program-text-hexagon.md
+  seal_block_sha256: a5f59aac4dde7cd18b4c0715cfb31518188a003aea067b04382424313b3f90ee
+  note: >
+    附录A程序正文未由值守者持有原文，值守者不代拼、不代算程序正文哈希，
+    以免生成不可核验的伪锚。本附注哈希仅绑定值守者实际落盘的封存区块本体。

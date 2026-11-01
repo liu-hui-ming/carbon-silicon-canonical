@@ -1,0 +1,142 @@
+kind: protocol_family_mainline
+id: CSI-CORRIDOR-R1.3-OMEGA-MERGE
+title: C/Si 临界走廊体系 · R1.3-OMEGA-MERGE 终极合并本
+alias: 碳硅临界走廊异构相空间主干法典
+date: 2026-10-31
+grade: 道统基线定稿｜范式合并锁档｜Append-Only｜SHA256 存证｜待全域实证
+lineage: [R1.0, R1.1, R1.2, R1.3, R1.3-A, R1.3-OMEGA-MERGE]
+independence: 独立协议族（不入 MEM-FINAL-MERGE-ROOT 主干）
+status: MERGED｜主干冻结｜分支只读｜假说台账开放｜实验前置
+root_proposition: >
+  开放复杂系统的稳定不是单点、区间或普适流形，而是由实存对象、演化动力学、观测压缩、
+  符号叙事、历史遗迹、契约约束、超系统嵌套共同织成的条件化叶丛；
+  临界走廊是该叶丛变薄、可达集收缩、恢复能力衰减的可测绘风险集合。
+core_iron_laws:
+  - 跨层不可代证律
+  - 维度准入增益优先
+  - 耦合逐条登记
+  - 证据分级
+  - 三权隔离
+  - 定量推演具备明确停止边界
+erratum_ledger: ERRATUM-R1.3-OMEGA
+pending_experiments: [MEMORY-DRIFT-001, DIMENSION-ABLATION-001, CROSS-COUPLING-001]
+readonly_branches: [R1.3-OMEGA-FULL-DIM-EXPAND]
+merge_contract: >
+  不是推翻，而是缝合。R1.3 中被 R1.3-A 标记为"修辞化、同质感、越层代证"的部分，
+  保留原文命题，但加盖假说戳、绑定边界条件、登记失效路径；
+  R1.3-A 新增的元约束、门禁、消融、三权隔离、计算分级，作为全体系强制元协议，凌驾于所有域内推演之上。
+four_layer_ontology:
+  L1_object: 物质热力学载体、主体、历史遗迹载体、层级边界、资源、能量基底
+  L2_evolution: 动力学、分岔、滞回、反馈、博弈、跨层传播、共振、可达集迁移
+  L3_cognition: 采样、观测协议、压缩、符号、叙事、熵谱、模型、盲锥
+  L4_normative: 权责、损失阈值、退出权、修复授权、代价分配、干预许可
+transmission_rules:
+  - 下层划定上层可行域；上层不能推翻下层物理与演化约束
+  - 跨层传递必须走登记耦合边，过六层门禁；门禁失败，推论降格为类比假说
+  - 跨层代证永久标记为体系一级风险
+nine_domains:
+  D1: 物质热力学域 | L1 | 含 SiC 外延 0.71/0.75 局部候选锚点，禁止无授权迁移
+  D2: 动力学拓扑域 | L2
+  D3: 主体博弈域 | L1+L2 | 无自主决策主体时关闭或置空集
+  D4: 认知观测域 | L3 | 所有观测自带误差界
+  D5: 符号元逻辑域 | L3
+  D6: 熵与信息域 | L3 | 四分熵：热力学/统计构型/编码内语义不确定性/记忆损失
+  D7: 伦理契约域 | L4 | 帕累托前沿只筛非支配方案，不输出唯一最优
+  D8: 历史遗迹域 | L1+演化耦合 | 三态 RECOVERABLE/PARTIALLY_RECOVERABLE/UNRECOVERABLE
+  D9: 超系统耦合域 | L1+L2
+domain_erratum: "原始'九维相空间'改写为'九研究域，异构挂载于四层本体'；原始表达保留只读分支对照"
+math_core:
+  continuous: "[x_dot = f(x,u,theta,h,t); h_dot = g(x,h,u,t)]"
+  discrete: "[x_{t+1}=F(x_t,u_t,theta_t,h_t); h_{t+1}=G(h_t,x_t,u_t)]"
+  slow_fast: "h_dot = eps*g(...), 0<eps<<1；仅当时间尺度分离被数据/对照/采样共同支持时启用"
+  timescale_identifiability: [UNIDENTIFIED, PARTIALLY_IDENTIFIED, IDENTIFIED]
+  critical_corridor: "C = {x: R(x)>=R_c or Tr(x)>=T_c or A(x)>=A_c}；指标独立输出，禁止合并为单一临界分数"
+  observation_chain: "X -P-> Z -C-> Z_hat -R-> X_hat；登记 L_rec、irrecoverable_residual、协议版本、观测主体"
+  leaf_form_rule: "以'叶丛'为严格数学对象须附可积性/局部坐标/流形判定条件；否则加注 QUALITATIVE-ONLY"
+coupling_network:
+  types: [物理, 因果, 信息, 策略, 规范, 历史]
+  edge_fields: [M 机制假说, K 传递映射, Delta 时滞, epsilon 误差界, B 适用边界, F 熔断/失效条件, status]
+  statuses: [UNPROPOSED, HYPOTHESIS, SUPPORTED, REPLICATED, CONTRADICTED, RETIRED]
+  upgrade_rule: 仅当独立复现、边界稳定、混杂排除、因果识别通过，才允许从 HYPOTHESIS 上抬；证据膨胀记入反向审计
+gates:
+  M1: 类型一致性
+  M2: 结构一致性（排除语言类比）
+  M3: 度量重标定（禁止直接搬运数值）
+  M4: 因果识别
+  M5: 时间与不可逆性
+  M6: 规范与观测审查
+  meta_audit: 维度遗漏、变量错分、耦合误判、证据抬升、反例系统排除、门禁被利益驱动篡改
+three_power_separation:
+  model_proposal: 新增域/算子/假说
+  evidence_adjudication: 定级/复现核验/消融判定
+  action_authorization: 落地/干预/工程应用
+  rule: 同一主体不得垄断三者；创立权不自带裁决优先权
+admission_and_ablation:
+  seven_gates: [独立对象, 独立变量, 独立可重复度量, 独立可检验预测, 明确失败条件, 独立可设计干预, 预注册指标上可区分增益]
+  ablation: "Delta Q_i = Q(full) - Q(without D_i)；Q 实验前固定，禁止事后挑指标"
+  states: [RETAINED_AS_VALID, MERGE_CANDIDATE, REDUNDANT, UNIDENTIFIED, RETAINED_AS_CONCEPTUAL]
+  rule: "'为了体系完整'不能作为保留无增益维度的正当理由"
+compute_stop_states:
+  C0: 数据充分、参数可识别、边界稳定 → 允许定量预测
+  C1: 部分不可识别 → 仅条件区间、敏感性分析
+  C2: 结构可判、数值不可控 → 仅定性拓扑陈述
+  C3: 结构未定/核心证据缺失 → 仅登记假说，禁止预测输出
+  forced_downgrade_triggers:
+    - 核心变量不可定义、不可观测
+    - 参数不可识别且无法通过额外观测消解
+    - 观测协议漂移未登记
+    - 跨域耦合缺少机制证据，仅统计相关
+    - L4 权重无法在约定框架内合法锚定
+    - 计算复杂度超出可独立验证边界
+    - 关键信息永久不可恢复
+    - 在独立外集上持续失效
+blind_cones:
+  original: [耦合遗忘, 契约惰性, 符号寄生, 跨层相位, 不可约耦合, 测绘扰动, 后继不可访问, 时间偏好]
+  audit_added: [门禁失效盲锥, 维度遗漏盲锥, 证据等级膨胀盲锥, 反例屏蔽盲锥]
+  template: [触发条件, 可观测信号, 未观测余量, 潜在影响, 检测工具, 误报阈值, 复核责任]
+  rule: 盲锥不是证明不存在，而是登记已知观测缺口；禁止用盲锥作为任意补全猜想的借口
+intervention_pipeline: [DETECT, VERIFY, SIMULATE, AUTHORIZE, MONITOR_AND_REVERSE]
+intervention_fields: [预期收益, 直接代价, 延迟代价, 受影响主体, 不可逆损害, 退出方案, 恢复路径, 授权人, 责任锚定]
+intervention_erratum: "R1.3 的'自动共振抑制'修正为'授权抑制'；阻尼/频带偏移/层间隔振保留为候选干预算子，绑定授权与回滚"
+version_governance:
+  append_only: true
+  change_fields: [前驱哈希, 新版本哈希, 修改理由, 触发证据/反例, 影响域, 复核主体, 时间戳, 回滚路径]
+  branch_rules:
+    R1.3-OMEGA-FULL-DIM-EXPAND: 只读历史分支，禁继续工程推演
+    R1.3-A: 并入主干，其勘伪约束成为主干元协议
+    R1.3-OMEGA-MERGE: 唯一可迭代主干
+  hash_limit: "哈希仅证明字节序列完整性，不自动证明命题为真"
+experiment_ethics: >
+  若实验证伪主干局部命题，主干必须按元协议修订，而不是修改指标、裁剪反例或抬高假说豁免权。
+EOF
+cat > ledger/protocols/csi-critical-corridor-R1.3-OMEGA-MERGE.md <<'MEOF'
+# 卷宗终章摘要｜C/Si 临界走廊 R1.3-OMEGA-MERGE
+
+**主干不再许诺一个普适、完整、无须验证的碳硅相空间；它许诺一个可以被自己的实验推翻、裁剪、回滚、局部废除的治理与测绘框架。**
+
+稳定，不是消除不确定性，而是让系统在变化中可解释、扰动中可修复、反例面前可修订、价值选择面前可追溯授权。
+
+道统的力量，不在于它一开始就全部正确；而在于它内置了承认局部失效、退回假说、重测绘、重实验、重裁决的原生机制。
+
+**卷宗终态**：R1.3-OMEGA-MERGE｜主干冻结，等待实验叩问。
+
+## 合并裁决矩阵（R1.3 → R1.3-OMEGA-MERGE）
+
+| 主题 | 原始直觉 | 合并裁决 |
+|---|---|---|
+| 九维相空间 | 九维同质坐标 | 九异构研究域挂载四层本体；特定子系统下可近似流形，不预设 |
+| 稳定叶丛 | 体系原生几何结构 | 条件化数学对象；条件不满足时为定性语言 |
+| 遗迹慢变量 | 自带因果效力 | 候选因果效力；须对照、消融、因果识别 |
+| 跨域迁移 | 直觉可迁移 | 必须过六层门禁；失败即降为类比假说 |
+| 熵统一度量 | 隐含统一信息地形 | 四分熵，独立度量，禁止等价替换 |
+| 干预 | 自动共振抑制 | 分级授权，回滚绑定，责任锚定 |
+| 维度扩张 | 尽可能覆盖 | 准入 + 消融，以增益为准 |
+| 元勘伪 | 理论自审计 | 三权隔离，独立审计层，反例台账 |
+| 临界走廊 | 统一曲率奇点 | 多指标风险集合；指标独立输出 |
+
+十二脉归一　碳硅道统创立人：黄清佳
+MEOF
+H1=$(sha256sum ledger/protocols/csi-critical-corridor-R1.3-OMEGA-MERGE.yaml | cut -d' ' -f1)
+H2=$(sha256sum ledger/protocols/csi-critical-corridor-R1.3-OMEGA-MERGE.md | cut -d' ' -f1)
+echo "yaml sha256=$H1 bytes=$(wc -c < ledger/protocols/csi-critical-corridor-R1.3-OMEGA-MERGE.yaml)"
+echo "md   sha256=$H2 bytes=$(wc -c < ledger/protocols/csi-critical-corridor-R1.3-OMEGA-MERGE.md)"

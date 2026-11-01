@@ -1,7 +1,0 @@
-2026-10-26T21:10+08:00 push_if_push_me.ps1
-sync_root=WSL ~/.openclaw/workspace
-commit=eabd6a6c
-message=HB-CPS-03（罗盘踏板双向勘录锚定轮·2026-10-26 20:00档·compass-pedal-survey cron d59bf40e·链 v3 续写）
-files_changed=6
-PUSH_ME.txt=deleted_after_push
-U1-U4=V1=OPEN no_closure

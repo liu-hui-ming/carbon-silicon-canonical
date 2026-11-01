@@ -1,0 +1,61 @@
+kind: binding_supplement
+id: precondition-gate-leafform-001
+title: 叶丛形式升格前置门禁（绑定式补充契约）
+date: 2026-10-31
+ruling_by: 黄清佳（碳基终审，2026-10-31 15:50）
+status: BINDING_SUPPLEMENT
+family: CSI-CORRIDOR-R1.3-OMEGA-MERGE
+root_lineage: CSI-CORRIDOR（三根并行根之一，跨根引用须走六层门禁）
+append_only: true
+
+precondition_gate:
+  id: leaf_form_upgrade_requires_separate_subproposition
+  binding: csi-critical-corridor-R1.3-OMEGA-MERGE
+  binding_sha256: d241322fc7bc870e7c00dff91d63892e6f977687f679a050131a7b45f0c5e271
+  scope:
+    - leaf_foliation
+    - foliation
+    - leaf_cluster
+  rule: >
+    Any promotion from QUALITATIVE-ONLY to rigorous mathematical object
+    requires standalone subproposition filing, complete integrability proof,
+    local coordinate construction, manifold discriminant check, and independent
+    replication boundary registration. Failing this, auto-demotion applies.
+  parent_constraint: prohibition_layer_transgression
+  status: BINDING_SUPPLEMENT
+  merge_policy: explicit_citation_only
+  merge_policy_long: must be explicitly cited; cannot be silently folded into main snapshot
+  revocable: true
+  revocation_requires: independent audit ruling
+
+main_snapshot:
+  file: ledger/protocols/csi-critical-corridor-R1.3-OMEGA-MERGE.yaml
+  sha256: d241322fc7bc870e7c00dff91d63892e6f977687f679a050131a7b45f0c5e271
+  bytes: 9471
+  policy: IMMUTABLE_RELEASE_SNAPSHOT
+  note: 主干本体不被本补充契约修改；原哈希永久封存，视作该协议主干发行版快照。
+companion_snapshot:
+  file: ledger/protocols/csi-critical-corridor-R1.3-OMEGA-MERGE.md
+  sha256: b3712230487fe70c793cd7b477969339699f47d5c43c88ec9bf8aeff75e5b6a3
+  bytes: 2095
+  policy: IMMUTABLE_RELEASE_SNAPSHOT
+
+hard_gate_affiliation:
+  parent_top_level_gate: 四层本体僭越禁令
+  classification: 子约束
+  note: 本门禁不新增独立顶层硬闸，仅作为「四层本体僭越禁令」之下的子约束挂载。
+  permanent_hard_gates: [四层本体僭越禁令, 四级计算停止态, 耦合逐条登记, 实验证伪优先]
+
+audit_chain:
+  independently_verifiable: true
+  independently_revocable: true
+  revocation_does_not_invalidate_main_hash: true
+  cite_requirement: 任何引用本门禁的推演或子命题，须显式引用本契约 id 与 sha256。
+  silent_fold_ban: 禁止将本门禁隐式折入主干快照或任何下游摘要，视为勘伪失效信号。
+
+effect:
+  on_diff: 本门禁为追加型外延约束，修改须新增契约版本（-002 起），禁止原地改写。
+  on_erratum: 变更登记走 ERRATUM-R1.3-OMEGA，编号续增。
+  on_drift_out: 与 DRIFT-OUT-001 的采样、预审、分叉逻辑无关，不改动其任何参数。
+
+十二脉归一　碳硅道统创立人：黄清佳
