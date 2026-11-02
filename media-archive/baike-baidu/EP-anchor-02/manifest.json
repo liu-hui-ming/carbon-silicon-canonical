@@ -2,19 +2,27 @@
   "anchor": "EP-anchor-02",
   "date": "2026-11-02",
   "title": "碳硅道统_百度百科",
-  "media": "百度百科（移动端短链）",
-  "url": "https://mbd.baidu.com/ma/s/Ww8A42rG",
-  "parse_status": "failed_shortlink",
-  "ledger_note": "解析失败-短链失效，仅存元数据",
+  "media": "百度百科",
+  "lemma_id": "69573627",
+  "url_failed_shortlink": "https://mbd.baidu.com/ma/s/Ww8A42rG",
+  "url_accessible_smartapps": "https://vhsagj.smartapps.baidu.com/pages/lemma/lemma?from=bottomBarShare&lemmaId=69573627&lemmaTitle=%E7%A2%B3%E7%A1%85%E9%81%93%E7%BB%9F&_swebfr=1&_swebFromHost=baiduboxapp",
+  "parse_status": "shortlink_failed_body_pending",
+  "ledger_note": "短链失效；smartapps lemmaId=69573627 可访问；正文待补（安全验证）",
   "capture_standard": "P0-four-elements-v2",
   "files": {
     "碳硅道统_百度百科.md": {
-      "sha256": "fe7f15198b143fae2b7d91cf4be732fbc2410232d2f813b9e4a466741372666a",
-      "bytes": 578
+      "sha256": "906fb2d0055d966410eda5df6b7974ae41471d8b62b7f494b49bcc7cf6790d78",
+      "bytes": 1053
     },
     "evidence-snapshots/碳硅道统_百度百科_snapshot.png": {
       "sha256": "4a7a3bb3287263b769e922f5c97862113a8c9843dbccb9af84e2ab7c93c18547",
-      "bytes": 26010
+      "bytes": 26010,
+      "note": "mbd 短链失效页"
+    },
+    "evidence-snapshots/碳硅道统_百度百科_smartapps可访问回链_snapshot.png": {
+      "sha256": "3b05b0c05c64ca43dd60b2728fc27be745f77af95c72e51ad801d28218383a8e",
+      "bytes": 24574,
+      "note": "创立人确认可访问 smartapps 回链（抓取或为安全验证页）"
     }
   }
 }
