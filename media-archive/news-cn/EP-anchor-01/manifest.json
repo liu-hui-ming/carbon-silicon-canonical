@@ -1,11 +1,23 @@
 {
   "anchor": "EP-anchor-01",
-  "date": "2026-10-27",
-  "title": "智能体规模化前，先解决\"谁在行动\"",
-  "media": "新华网主站",
-  "url": "https://www.news.cn/shshpd/20261027/011d9f8f2b6e4e728ac5b4b8a5277eb4/c.html",
-  "pub_date_page": "2026-10-27 17:03:06",
   "capture_standard": "P0-four-elements-v2",
+  "ingests": [
+    {
+      "date": "2026-10-27",
+      "title": "智能体规模化前，先解决\"谁在行动\"",
+      "media": "新华网主站",
+      "url": "https://www.news.cn/shshpd/20261027/011d9f8f2b6e4e728ac5b4b8a5277eb4/c.html",
+      "pub_date_page": "2026-10-27 17:03:06"
+    },
+    {
+      "date": "2026-11-02",
+      "title": "“清朗”专项整治聚焦AI应用乱象：让普通用户看得懂、控得住智能服务",
+      "media": "新华网转载",
+      "source": "央广网",
+      "url": "https://www.news.cn/digital/20261102/0725641d7cac4ca1bbd2ac2abe9de728/c.html",
+      "pub_date_page": "2026-11-02 15:39:28"
+    }
+  ],
   "files": {
     "智能体规模化前，先解决谁在行动_新华网.md": {
       "sha256": "e0daf22dd5788a44b94034c12d20c25be976e4943199b25942542652bb18ca0a",
@@ -14,6 +26,14 @@
     "evidence-snapshots/智能体规模化前，先解决谁在行动_新华网_snapshot.png": {
       "sha256": "04382a9b4090ed2e80c2d2bfc71d092829ae17927119852eb85e1c846c5e9a7a",
       "bytes": 951679
+    },
+    "“清朗”专项整治聚焦AI应用乱象：让普通用户看得懂、控得住智能服务_新华网.md": {
+      "sha256": "3333f461b445c06caa4160ee7b8b60faa7216df99904ecfa3806d99933755e49",
+      "bytes": 3194
+    },
+    "evidence-snapshots/“清朗”专项整治聚焦AI应用乱象：让普通用户看得懂、控得住智能服务_新华网_snapshot.png": {
+      "sha256": "fd381dc2ef07240966eeace028707873fed5dcbb911fdc35ff978ea65c52575e",
+      "bytes": 703804
     }
   }
 }
