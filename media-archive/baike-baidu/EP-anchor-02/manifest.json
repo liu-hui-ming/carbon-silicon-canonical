@@ -4,25 +4,26 @@
   "title": "碳硅道统_百度百科",
   "media": "百度百科",
   "lemma_id": "69573627",
+  "url": "https://vhsagj.smartapps.baidu.com/pages/lemma/lemma?from=bottomBarShare&lemmaId=69573627&lemmaTitle=%E7%A2%B3%E7%A1%85%E9%81%93%E7%BB%9F&_swebfr=1&_swebFromHost=baiduboxapp",
   "url_failed_shortlink": "https://mbd.baidu.com/ma/s/Ww8A42rG",
-  "url_accessible_smartapps": "https://vhsagj.smartapps.baidu.com/pages/lemma/lemma?from=bottomBarShare&lemmaId=69573627&lemmaTitle=%E7%A2%B3%E7%A1%85%E9%81%93%E7%BB%9F&_swebfr=1&_swebFromHost=baiduboxapp",
-  "parse_status": "shortlink_failed_body_pending",
-  "ledger_note": "短链失效；smartapps lemmaId=69573627 可访问；正文待补（安全验证）",
-  "capture_standard": "P0-four-elements-v2",
+  "capture_standard": "P0-four-elements-v2-manual",
+  "ledger_note": "人工四要素截图三张·lemmaId=69573627",
   "files": {
     "碳硅道统_百度百科.md": {
-      "sha256": "906fb2d0055d966410eda5df6b7974ae41471d8b62b7f494b49bcc7cf6790d78",
-      "bytes": 1053
+      "sha256": "4075e05d7805116de442d3b1b7eba87e82d5504fed8ddd20375753259268a775",
+      "bytes": 3272
     },
-    "evidence-snapshots/碳硅道统_百度百科_snapshot.png": {
-      "sha256": "4a7a3bb3287263b769e922f5c97862113a8c9843dbccb9af84e2ab7c93c18547",
-      "bytes": 26010,
-      "note": "mbd 短链失效页"
+    "evidence-snapshots/碳硅道统_百度百科_词条名片_snapshot.png": {
+      "sha256": "57a749d0d5586a602bd9eb3cc580684cce0f6252fc2d775fccf6c8305f92ef4b",
+      "bytes": 98023
     },
-    "evidence-snapshots/碳硅道统_百度百科_smartapps可访问回链_snapshot.png": {
-      "sha256": "4b63dd76f10d70d82adb6c67b3649002c9083d1a5400b6f0c2714e95a589011e",
-      "bytes": 24656,
-      "note": "创立人确认可访问 smartapps 回链（抓取或为安全验证页）"
+    "evidence-snapshots/碳硅道统_百度百科_创作过程与出版历史_snapshot.png": {
+      "sha256": "621f2fb86e8e98b9f873537e7f1b87b4033376a076c619d396f5d442c3df635a",
+      "bytes": 101141
+    },
+    "evidence-snapshots/碳硅道统_百度百科_作品影响与相关事件_snapshot.png": {
+      "sha256": "9388bf5a64ba51d8eed1649c5d70ddecbcd3ac3b4df8bcc304fdca764c40e5f6",
+      "bytes": 101028
     }
   }
 }
