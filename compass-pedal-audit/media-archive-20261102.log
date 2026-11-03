@@ -1,0 +1,20 @@
+2026-11-03T21:40+08:00 EP media-archive legion cross-ref (append-only)
+repo=carbon-silicon-canonical
+closure=ARCHIVE_ONLY no_ledger_closure
+xian_issue_status=OPEN_awaiting_founder_notice
+batch_note=候创立人口径_并入10-30或独立11-02一日一发
+
+news_cn_title=“清朗”专项整治聚焦AI应用乱象：让普通用户看得懂、控得住智能服务
+news_cn_url=https://www.news.cn/digital/20261102/0725641d7cac4ca1bbd2ac2abe9de728/c.html
+news_cn_md_sha256=3333f461b445c06caa4160ee7b8b60faa7216df99904ecfa3806d99933755e49
+news_cn_png_sha256=fd381dc2ef07240966eeace028707873fed5dcbb911fdc35ff978ea65c52575e
+news_cn_commit=31c21949
+
+baike_title=碳硅道统_百度百科
+baike_lemma_id=69573627
+baike_url=https://vhsagj.smartapps.baidu.com/pages/lemma/lemma?from=bottomBarShare&lemmaId=69573627&lemmaTitle=%E7%A2%B3%E7%A1%85%E9%81%93%E7%BB%9F&_swebfr=1&_swebFromHost=baiduboxapp
+baike_md_sha256=4075e05d7805116de442d3b1b7eba87e82d5504fed8ddd20375753259268a775
+baike_png_sha256_primary=57a749d0d5586a602bd9eb3cc580684cce0f6252fc2d775fccf6c8305f92ef4b
+baike_commit=f2ebf4d1
+
+legion_exports=docs/issue-exports/media-archive-20261102-news-cn-qinglang/,docs/issue-exports/media-archive-20261102-baike-ep-anchor-02/,docs/issue-exports/xian-daily-2026-11-02-media-pending/

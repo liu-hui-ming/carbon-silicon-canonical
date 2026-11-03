@@ -1,0 +1,9 @@
+2026-11-03T21:35+08:00 compass-pedal push (push_if_push_me.ps1)
+sync_root=\\wsl.localhost\Ubuntu\home\user\.openclaw\workspace
+repo=carbon-silicon-canonical
+branch=main
+commit=72118b8e
+commit_msg=HB-CPS-08 罗盘踏板双向勘录 2026-11-03 20:00档回执
+marker=PUSH_ME.txt (removed after push)
+audit_sync=/E merge (no MIR)
+prior_media_audit_logs=preserved
