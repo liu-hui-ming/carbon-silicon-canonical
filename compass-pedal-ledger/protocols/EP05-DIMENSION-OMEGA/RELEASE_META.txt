@@ -1,0 +1,12 @@
+# RELEASE_META — EP05-DIMENSION-OMEGA 子卷宗落盘包
+Tag: EP05-DIMENSION-OMEGA-SUBSET-v0.1
+Time: 2026-11-01T13:00:00+08:00
+Author: qiongzhu (执行) / 黄清佳 (创立人裁决 12:42-12:50)
+Scope: 主线一文本层析出落盘（母卷 EP05-DIMENSION-OMEGA 只读未动）
+Contents:
+  - EP05-DIMENSION-OMEGA-GATE-YAML-v0.1.yaml   门禁配置骨架（A）
+  - EP05-DIMENSION-OMEGA-AUDIT-TODO-LEDGER-v0.1.md   审计待办台账表结构（B）
+  - EP05-DIMENSION-OMEGA-STATE-MACHINE-v0.1.md   双轴九态状态机转移矩阵（C）
+Status: PROPOSED / NOT_RUN（字段固化，无运行数据填充）
+Rulings: 12:42 批复五项机制+降级后门勘误条款；12:48 G-DEGRADE-01 四项绑定；12:49 B/C用.md、保留v0.1
+Note: 校验清单 SHA256SUM.txt 本身不列入其中（防自指循环）；sha256sum -c 兼容两列格式。

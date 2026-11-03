@@ -1,0 +1,91 @@
+# EP05-DIMENSION-OMEGA-GATE-YAML-v0.1
+# 宪章门禁配置 · 从 EP05-DIMENSION-OMEGA 七层分离逐条析出
+# 每条 gate 与母卷条款一一对应，source_clause 不可空
+# 状态：PROPOSED / NOT_RUN / 落盘固化版（原会话内候选，2026-11-01 13:00 窗口落盘）
+meta:
+  charter: EP05-DIMENSION-OMEGA
+  version: v0.1
+  status: PROPOSED
+  evidence_status: NOT_RUN
+  sealed_at: "2026-11-01T13:00:00+08:00"
+  parent: EP05-DIMENSION-OMEGA          # 母卷只读，本文件不回写
+  session_origin: true
+
+gates:
+  # —— 分离一：身份四层 ——
+  G-IDENT-01:
+    source_clause: "分离一 / 三态身份"
+    check: identity_continuity_review_required   # 变更触及任一身份层即触发
+    fields: [logical, operational, evidential, governance]
+    fail_state: IDENTITY_TRANSITION   # 评估期间暂停资格升级
+    hard_block_on: IDENTITY_REPLACED_WITHOUT_REGISTRATION
+  G-IDENT-02:
+    source_clause: "浅层误区·版本连续"
+    check: version_bump_does_not_inherit_qualification
+    fail_state: QUALIFICATION_INHERIT_BLOCKED
+
+  # —— 分离三：证据资格向量 ——
+  G-QUAL-01:
+    source_clause: "分离三"
+    check: qualification_vector_complete   # 六分量独立判定，禁止求和
+    vector: [provenance, reproducibility, uncertainty, independence, temporal_validity, review_status]
+    fail_on: ANY_COMPONENT_HIGH_RISK   # 一项高危不可被高分抵消
+
+  # —— 分离四：双图 ——
+  G-DEP-01:
+    source_clause: "分离四"
+    check: lineage_graph_acyclic
+    fail_state: LINEAGE_INCOMPLETE        # 冻结升级通道，禁出主裁决证据
+  G-DEP-02:
+    source_clause: "分离四"
+    check: feedback_loop_registered       # 时延/增益/稳定边界/失效触发/责任人
+    fail_state: FEEDBACK_UNSTABLE
+
+  # —— 分离五：五账本 ——
+  G-RES-01:
+    source_clause: "分离五"
+    check: ledger_summation_forbidden     # 禁止跨量纲求和与熵折算
+    ledgers: [uncertainty, acquisition, computation, audit, storage_retention]
+    exhaustion_action: TIERED_SHRINK      # 分级收缩；禁静默改证据结论
+
+  # —— 分离六：双轴 ——
+  G-STATE-01:
+    source_clause: "分离六"
+    check: dual_axis_independent          # 生命周期轴与资格轴互不代入
+    forbidden_equivalences:
+      - DORMANT_EQ_REJECTED
+      - RETIRED_EQ_ERASED
+      - REGISTERED_EQ_QUALIFIED
+      - ACTIVE_EQ_AUTHORIZED_FOR_ALL
+  G-STATE-02:
+    source_clause: "分离六 / 唤醒"
+    check: reactivation_full_review_by_dormancy_reason
+
+  # —— 分离七：留存 ——
+  G-HIST-01:
+    source_clause: "分离七"
+    check: no_silent_purge                # 每次删除留删除证明
+    authorized_delete_only: true
+
+  # —— 裁决分流 ——
+  G-ROUTE-01:
+    source_clause: "裁决分流三通道"
+    check: exclusive_routing              # BOUNDED_VERDICT / PARALLEL_HYPOTHESIS / STALEMATE_BOUNDED 互斥
+  G-ROUTE-02:
+    source_clause: "并行滥用风险"
+    check: parallel_requires_no_common_domain
+    on_common_intersection: FORCE_EVIDENCE_COMPARISON   # 有交集必须比对，不可借并行回避
+  G-RECUR-01:
+    source_clause: "递归收敛铁律"
+    check: review_stack_depth_limit       # 抵达硬上界 → 转僵局沉降
+  G-META-01:
+    source_clause: "元层特权剥夺"
+    check: meta_layer_no_overwrite_right  # 推翻须独立准入证据
+
+  # —— 降级勘误（2026-11-01 12:42 创立人批复 + 副作用加固）——
+  G-DEGRADE-01:
+    source_clause: "勘误备案·降级后门"
+    check: freeze_binds_audit_todo_list   # 冻结仅暂停运算，不豁免审计
+    todo_must_carry: [owner, mandatory_wakeup_deadline]
+    on_overdue: SET_SUSPENDED_AND_LEDGER_TRACE
+    wakeup_quota_source: STALEMATE_BOUNDED_POOL   # 与僵局唤醒同源复用

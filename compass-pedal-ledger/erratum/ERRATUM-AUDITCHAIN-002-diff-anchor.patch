@@ -1,0 +1,80 @@
+diff --git a/pipeline/R3/audit_chain.sh b/pipeline/R3/audit_chain.sh
+index e1e13e5..227d7f4 100755
+--- a/pipeline/R3/audit_chain.sh
++++ b/pipeline/R3/audit_chain.sh
+@@ -77,54 +77,29 @@ else report 10 FAIL "unexpected manifest status"; fi
+ if [[ -d "${WORK_DIR}/../sandbox" || -d "${WORK_DIR}/sandbox" ]]; then report 11 PASS "sandbox dir found"
+ else report 11 SKIP "no sandbox directory in this workspace"; fi
+ 
+-# G12: oracle anchor integrity (R3.6-01) — format/timeline/reference only
+-ORACLE_DIR="${WORK_DIR}/r36/oracle"
+-ORACLE_LEDGER="${ORACLE_DIR}/store/oracle_ledger.csv"
+-if [[ ! -d "$ORACLE_DIR" ]]; then report 12 SKIP "R3.6 oracle entry directory absent"
+-elif [[ ! -f "$ORACLE_LEDGER" ]]; then report 12 FAIL "oracle dir exists but oracle_ledger.csv missing"
+-else
+-  rows=$(grep -c '|' "$ORACLE_LEDGER")
+-  if [[ "$rows" -eq 0 ]]; then report 12 PASS "oracle ledger present, header only (ledger empty)"
+-  else
+-    ok=1; prev=""
+-    ids=$(tail -n +2 "$ORACLE_LEDGER" | cut -d',' -f1)
+-    [[ $(echo "$ids" | sort | uniq -d | wc -l) -eq 0 ]] || ok=0
+-    while IFS=',' read -r rid ts rest; do
+-      [[ -z "$rid" ]] && continue
+-      [[ -z "$ts" ]] && ok=0
+-      [[ -n "$prev" && "$ts" < "$prev" ]] && ok=0
+-      prev="$ts"
+-    done < <(tail -n +2 "$ORACLE_LEDGER")
+-    [[ $ok -eq 1 ]] && report 12 PASS "oracle ledger: ids unique, ts monotonic ($rows rows)" || report 12 FAIL "oracle ledger: duplicate id or ts regression"
+-  fi
+-fi
+-
+-# G13: error ledger cross-anchor alignment (R3.6-02)
+-ERROR_DIR="${WORK_DIR}/r36/error"
+-ERROR_LEDGER="${ERROR_DIR}/store/error_ledger.csv"
+-if [[ ! -d "$ERROR_DIR" ]]; then report 13 SKIP "R3.6 error ledger directory absent"
+-elif [[ ! -f "$ERROR_LEDGER" ]]; then report 13 FAIL "error dir exists but error_ledger.csv missing"
+-else
+-  rows=$(grep -c '|' "$ERROR_LEDGER")
+-  if [[ "$rows" -eq 0 ]]; then report 13 PASS "error ledger present, header only (no error rows)"
+-  else
+-    ok=1
+-    ids=$(tail -n +2 "$ERROR_LEDGER" | cut -d',' -f1)
+-    [[ $(echo "$ids" | sort | uniq -d | wc -l) -eq 0 ]] || ok=0
+-    [[ $ok -eq 1 ]] && report 13 PASS "error ledger: err_id unique ($rows rows)" || report 13 FAIL "error ledger: duplicate err_id"
++# G12/G13/G14: deep checks via subprocess (deepcheck_r36.sh -> deepcheck_parse.py)
++# Read-only CSV (quote-safe) parsing; exit 0=PASS 1=FAIL 2=SKIP.
++DEEPCHECK="$(dirname "${BASH_SOURCE[0]}")/deepcheck_r36.sh"
++deep_gate() { # gate_no base_dir
++  local g="$1" base="$2" out rc
++  if [[ ! -x "$DEEPCHECK" && ! -f "$DEEPCHECK" ]]; then
++    report "$g" SKIP "deepcheck_r36.sh not found"
++    return 0
+   fi
+-fi
++  out=$(bash "$DEEPCHECK" "G$g" "$base" 2>&1); rc=$?
++  case $rc in
++    0) report "$g" PASS "$(echo "$out" | head -1 | sed 's/^G[0-9]* PASS: //')" ;;
++    2) report "$g" SKIP "$(echo "$out" | head -1 | sed 's/^G[0-9]* SKIP: //')" ;;
++    *) for line in $(echo "$out" | grep '^\[detail\]' | head -3 | tr ' ' '\001'); do
++         printf '       %s\n' "$(echo "$line" | tr '\001' ' ')"
++       done
++       report "$g" FAIL "$(echo "$out" | head -1 | sed 's/^G[0-9]* FAIL: //')" ;;
++  esac
++}
+ 
+-# G14: fingerprint partition isolation (R3.6-03)
+-FP_DIR="${WORK_DIR}/r36/fingerprint"
+-FP_AUDIT="${FP_DIR}/store/sim_audit.csv"
+-if [[ ! -d "$FP_DIR" ]]; then report 14 SKIP "R3.6 fingerprint store directory absent"
+-elif [[ ! -f "$FP_AUDIT" ]]; then report 14 FAIL "fingerprint dir exists but sim_audit.csv missing"
+-else
+-  rows=$(grep -c '|' "$FP_AUDIT")
+-  if [[ "$rows" -eq 0 ]]; then report 14 PASS "fingerprint sim_audit present, header only (empty index)"
+-  else report 14 PASS "fingerprint sim_audit rows present ($rows); isolation delegated to module script"; fi
+-fi
++deep_gate 12 "${WORK_DIR}"
++deep_gate 13 "${WORK_DIR}"
++deep_gate 14 "${WORK_DIR}"
+ 
+ echo "=== SUMMARY: PASS=$PASS FAIL=$FAIL SKIP=$SKIP ==="
+ [[ $FAIL -eq 0 ]] && echo "[AUDIT] gate check: PASS (with declared SKIPs)" || echo "[AUDIT] gate check: FAIL"

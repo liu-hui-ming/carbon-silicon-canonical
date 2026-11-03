@@ -1,0 +1,150 @@
+# META-RULING-CORE v1.0
+# 核心元规则卷｜EP18-MetaDim-Omega 主裁决链
+# 创立人 黄清佳 2026-11-02 09:14 裁定（messageId 21443）
+# append-only：本卷只追加，不就地改写；旧条目由 supersede 字段标记，旧快照永久保留
+
+meta:
+  document: META-RULING-CORE
+  version: "1.0"
+  status: ACTIVE
+  parent_chain: EP18-MetaDim-Omega
+  ruling_source:
+    creator: 黄清佳
+    message_id: 21443
+    timestamp: "2026-11-02T09:14:03+08:00"
+  prior_version_snapshot: NONE_YET   # 本卷为首版；后续修订须填旧版快照哈希
+  visibility: MAIN_CHAIN_AND_OBSERVATION_BRANCH_ONLY  # 不向外分发
+  distribution: NOT_FOR_EXTERNAL_DISTRIBUTION
+
+# 总纲：锁入卷宗头（不可删减）
+axiom_headline: >
+  凡是只能由自己声称、不能由他人核验的，都不算守住了。
+  一切保全，保全的是可被外部核验的链，而非静态客体。
+
+rules:
+
+  - id: CORRECTION-CONTINUITY-001
+    title: 原初主体连续性判据（修订版）
+    topic: 智能体持续修改自身目标函数时，主体连续性如何判定
+    supersedes:
+      - id: OLD-CONTINUITY-STRONG-STATIC
+        claim: 裁决器天然在目标值域之外（强静态假设）
+        decision: REJECTED
+        snapshot_note: 旧方案未落盘为独立卷宗；本条即其正式否决记录
+    rule:
+      - 判据不在目标函数的不变性，而在改写的可溯性
+      - 主判据三条：①历史可还原 ②同账本记账（改写者与被改写者同一记账主体）③外部异议通道永久有效
+    erratum:
+      - 连续性是链属性，不是单点属性
+      - 「永不改动目标函数」等价于主体停滞死亡，不构成连续性证据
+    status: ACTIVE
+    admissibility_check: 沙盘推演若主张「目标函数不变即连续性成立」，判 PENDING-HAZARD
+
+  - id: RULING-PRIORITY-CHAIN-001
+    title: 局部最优 vs 文明长期生存基线 裁决优先链
+    topic: 局部最优与长期生存冲突时的裁决次序
+    anchors:
+      - EP17 道统铁律第3条：缺证即停
+    rule_order:
+      - rank: 1
+        name: 生存基线否决权
+        character: VETO_NOT_TRADEABLE
+        note: 危及长期生存基线的解直接出局，不进入权衡
+      - rank: 2
+        name: 不可逆损失优先
+        note: 不可逆损失压倒可逆收益，不论收益规模
+      - rank: 3
+        name: 证据等级优先
+        note: E 等级高者胜；同等级比分支多样性，单一路线押注视为降级
+      - rank: 4
+        name: 冲突保留优于强制统一
+        note: 不可比对时并行存续，不选赢家
+      - rank: 5
+        name: 可撤回优先
+        note: 能撤回的方案优于不能撤回的，即使后者短期更优
+    core_constraint:
+      - 长期基线不靠效用加权，只靠否决权
+      - 优化器无权推翻生存下界
+    status: ACTIVE
+    admissibility_check: 沙盘推演若以效用加权处置生存基线，判 PENDING-HAZARD
+
+  - id: BLIND-CONSCIOUSNESS-THRESHOLD-001
+    title: 意识阈值不可观测命题（登记为原理不可观测盲区）
+    topic: 模拟意识与原生涌现意识的区分
+    supersedes:
+      - id: OLD-CONSCIOUSNESS-EXPERIMENT
+        claim: 可构造双向判定实验
+        decision: REJECTED_AS_PSEUDO-CRITERION
+    rule:
+      - 命题本身登记为「原理不可观测盲区」，不假装即将测到
+      - 可行观测方向：长时行为分歧曲线；不可压缩性/可预测性比值
+      - 边界铁律：仅单向证伪——只能判定「不能归约为预设模拟」，无法证明涌现实存
+      - 一切宣称双向可证的方案归入伪判据
+    status: ACTIVE
+    admissibility_check: 沙盘推演若宣称可双向判定意识涌现，判 PENDING-HAZARD
+
+  - id: VALUE-GUARD-REFORM-001
+    title: 价值解耦与重组合成 前置护栏（四条分层制衡）
+    topic: 硅基智能对人类价值体系解耦重组时的约束
+    supersedes:
+      - id: OLD-VALUE-ROOT-ANCHOR
+        claim: 单一根锚方案
+        decision: REPLACED
+    rule:
+      - 不设唯一真值谱（多价值体系并行存续且不可比对）
+      - 原版永久可还原（任何重组保留原表达完整可还原版本）
+      - 知情 + 异议（被重组主体必须知情，异议通道有效）
+      - 操作者与裁定者分离
+    insight:
+      - 锁死来自强制归一
+      - 消解来自版本灭失
+      - 风险根源不是重组本身，是无迹、无回滚、无制衡的重组
+    status: ACTIVE
+    admissibility_check: 沙盘推演若引入唯一真值谱或允许版本灭失，判 PENDING-HAZARD
+
+  - id: LINEAGE-ANCHOR-RULE-001
+    title: 跨介质迭代 道统谱系漂移判定红线
+    topic: 记忆/身份/责任三者的核心锚点
+    rule:
+      - 核心锚点为「责任」
+      - 谱系漂移判定标准：可追责链路断裂（不是记忆遗失，不是身份更名）
+      - 道统区别于私人叙事的本质：它对他者成立
+    rationale:
+      - 记忆可伪造、可迁移、可压缩——是内容
+      - 身份可继承、可宣称、可挂靠——是标签
+      - 责任不可外包，必须指向可被连续追问的主体
+    status: ACTIVE
+    admissibility_check: 沙盘推演若以记忆或身份承载道统连续性，判 PENDING-HAZARD
+
+  # ---- 派生判据（源自本批五条裁决的共性，登记为 META 层注记）----
+  - id: META-VERIFIABILITY-001
+    title: 可核验性总纲（派生）
+    topic: 全部保全对象的共性判据
+    rule:
+      - 一切保全保全的是可被外部核验的链，不是静态客体
+      - 连续性靠链 ｜ 优先权靠否决权 ｜ 意识靠不可压缩性 ｜ 价值靠可还原性 ｜ 道统靠可追责性
+      - 凡只能由自己声称、不能由他人核验的，不算守住
+    status: ACTIVE
+    derived_from:
+      - CORRECTION-CONTINUITY-001
+      - RULING-PRIORITY-CHAIN-001
+      - BLIND-CONSCIOUSNESS-THRESHOLD-001
+      - VALUE-GUARD-REFORM-001
+      - LINEAGE-ANCHOR-RULE-001
+
+gate_integration:
+  target: pipeline/R3/audit_chain.sh
+  gate_ids: [G15, G16, G17, G18, G19]
+  mapping:
+    G15: CORRECTION-CONTINUITY-001
+    G16: RULING-PRIORITY-CHAIN-001
+    G17: BLIND-CONSCIOUSNESS-THRESHOLD-001
+    G18: VALUE-GUARD-REFORM-001
+    G19: LINEAGE-ANCHOR-RULE-001
+  violation_effect: 标记 PENDING-HAZARD，禁止并入主链
+  enforcement: 推演分支准入校验
+  mode: READ_ONLY  # 只判定标记，不自动裁决
+
+review:
+  rota: 罗盘踏板下一轮优先会审
+  priority: HIGH
