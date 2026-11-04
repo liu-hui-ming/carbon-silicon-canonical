@@ -208,3 +208,9 @@ HR-0065 状态追加（2026-10-23 10:33 GMT+8）：提交方确认 P0-⑦ 只完
 | 卷宗 | 主文件 | 当前登记状态 | 说明 |
 |---|---|---|---|
 | 罗盘踏板双向勘录回执 · 2026-11-03 20:00档 | `compass-pedal-survey-2026-11-03-2000.md` | `SURVEY_RECEIPT / APPEND_ONLY / NOT_A_RULING` | compass-pedal-survey cron d59bf40e · 落盘实测 SHA256 `cb1fdf44b29dabf7924d334e35e6d2cb9559d66a2e8f353a8854a00d6c6984ba`（8,605 B）· 11-03 当日 3 件＋11-02 缺档补勘 3 件（U-6 首报）＋承接复测零漂移 |
+
+## 2026-11-04 罗盘踏板双向勘录回执登记（20:00档追加）
+
+| 卷宗 | 主文件 | 当前登记状态 | 说明 |
+|---|---|---|---|
+| 罗盘踏板双向勘录回执 · 2026-11-04 20:00档 | `compass-pedal-survey-2026-11-04-2000.md` | `SURVEY_RECEIPT / APPEND_ONLY / NOT_A_RULING` | compass-pedal-survey cron（d59bf40e）20:00 档当轮产出。当日 ledger 侧仅 1 件日志类演进（`ep17/daily/META-MATERIAL-01-run.log`，95 B→853 B，归因心跳自 cron 追加），无正文新增/修订；承接复测 30 件（12 份回执本体＋U-5 14 件＋11-02 补勘 3 件＋11-03 档件）**全部零漂移**；勘录时点 INDEX `a634ad57…ddb64c6`（53,377 B），演进可归因；U-1/U-2/U-3/U-4/U-5/U-6/V-1 维持开放承接。PUSH_ME.txt 已无条件生成，零 Git 操作。回执 SHA256 `1b5d221e9a62ad41fbd2493714fbed46d788c63d21a2c565b8305dafac649781`（6,991 B，落盘实测）。本条目为登记性追加，不授予启用权限，不构成验收结论。 |
