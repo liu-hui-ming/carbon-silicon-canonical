@@ -1,0 +1,9 @@
+2026-11-04T20:40+08:00 compass-pedal push (push_if_push_me.ps1)
+sync_root=\\wsl.localhost\Ubuntu\home\user\.openclaw\workspace
+repo=carbon-silicon-canonical
+branch=main
+commit=c336bede
+commit_msg=ledger: compass-pedal-survey 2026-11-04 2000 receipt + INDEX registration + HB-CPS-09 chain anchor
+marker=PUSH_ME.txt (removed after push)
+audit_sync=/E merge (no MIR)
+prior_media_audit_logs=preserved

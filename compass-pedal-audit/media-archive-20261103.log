@@ -1,0 +1,14 @@
+2026-11-04T20:45+08:00 EP media-archive legion cross-ref (append-only)
+repo=carbon-silicon-canonical
+closure=ARCHIVE_ONLY no_ledger_closure
+xian_issue_status=OPEN_awaiting_founder_notice
+batch_note=候创立人口径_并入10-30或11-02或独立11-03一日一发
+
+news_cn_title=智能体端侧权限风险受关注 业界探索“云端锁档”守护数字民生
+news_cn_url=https://www.news.cn/shshpd/20261103/794b2bed72eb4bff880074eefba16362/c.html
+news_cn_md_sha256=d4d6bf23b93de86804c9d3ade464aee4df48d76e699eee385701e7b6b99ea93c
+news_cn_png_sha256=cfe64b3ed64f35bffa115814e9de86f17b16ba41e03cf866ae2bee77341ba528
+news_cn_commit=241ba6f6
+anchor=EP-anchor-03
+
+legion_exports=docs/issue-exports/media-archive-20261103-news-cn-cloud-lock/,docs/issue-exports/xian-daily-2026-11-03-media-pending/
