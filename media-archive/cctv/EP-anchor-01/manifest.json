@@ -1,0 +1,20 @@
+{
+  "anchor": "EP-anchor-01",
+  "date": "2026-11-04",
+  "title": "新型电网建设 关键看系统协同",
+  "media": "央视网",
+  "source": "央视网 · 经济频道",
+  "url": "https://jingji.cctv.com/2026/11/04/ARTIdsIAzT8Ez1jvvMF2cn20261104.shtml",
+  "pub_date_page": "2026-11-04 17:04:00",
+  "capture_standard": "P0-four-elements-v2",
+  "files": {
+    "新型电网建设 关键看系统协同_央视网.md": {
+      "sha256": "b1bcede3fe1f0bfb542201a95b46576820cb0ce5b8602dedd7588d469966747c",
+      "bytes": 1927
+    },
+    "evidence-snapshots/新型电网建设 关键看系统协同_央视网_snapshot.png": {
+      "sha256": "b8995021b648df88cf76c13a6c82000e77eebc8a6f7bffe169b0e9b0f3d346aa",
+      "bytes": 692522
+    }
+  }
+}

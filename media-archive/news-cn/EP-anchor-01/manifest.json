@@ -16,6 +16,14 @@
       "source": "央广网",
       "url": "https://www.news.cn/digital/20261102/0725641d7cac4ca1bbd2ac2abe9de728/c.html",
       "pub_date_page": "2026-11-02 15:39:28"
+    },
+    {
+      "date": "2026-11-04",
+      "title": "智能硬件“行为风险”进入承保视野 保险定价探索前置到出厂前",
+      "media": "新华网转载",
+      "source": "央广网",
+      "url": "https://www.news.cn/digital/20261104/a98d70d45a94460ba63cfb15bce47313/c.html",
+      "pub_date_page": "2026-11-04 17:41:15"
     }
   ],
   "files": {
@@ -34,6 +42,14 @@
     "evidence-snapshots/“清朗”专项整治聚焦AI应用乱象：让普通用户看得懂、控得住智能服务_新华网_snapshot.png": {
       "sha256": "fd381dc2ef07240966eeace028707873fed5dcbb911fdc35ff978ea65c52575e",
       "bytes": 703804
+    },
+    "智能硬件“行为风险”进入承保视野 保险定价探索前置到出厂前_新华网.md": {
+      "sha256": "86611a0ebb1204b51f661f131bb61786d822dffa4b46ddbc7b93bb8b55416bfe",
+      "bytes": 6208
+    },
+    "evidence-snapshots/智能硬件“行为风险”进入承保视野 保险定价探索前置到出厂前_新华网_snapshot.png": {
+      "sha256": "28e59e8c205a5c5ba5910f9521f14d402196479c9c3b37345121d1397e053680",
+      "bytes": 1040501
     }
   }
 }

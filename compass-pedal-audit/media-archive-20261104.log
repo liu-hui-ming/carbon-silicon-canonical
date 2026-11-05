@@ -1,0 +1,23 @@
+2026-11-05T22:55+08:00 EP media-archive dual ingest (append-only)
+repo=carbon-silicon-canonical
+closure=ARCHIVE_ONLY no_ledger_closure
+xian_issue_status=OPEN_awaiting_founder_notice
+batch_note=候创立人裁定_与10-30/11-02/11-03批次并列
+
+entry1_title=智能硬件“行为风险”进入承保视野 保险定价探索前置到出厂前
+entry1_media=新华网转载
+entry1_url=https://www.news.cn/digital/20261104/a98d70d45a94460ba63cfb15bce47313/c.html
+entry1_md_sha256=86611a0ebb1204b51f661f131bb61786d822dffa4b46ddbc7b93bb8b55416bfe
+entry1_png_sha256=28e59e8c205a5c5ba5910f9521f14d402196479c9c3b37345121d1397e053680
+entry1_path=media-archive/news-cn/EP-anchor-01/
+entry1_anchor=EP-anchor-01
+
+entry2_title=新型电网建设 关键看系统协同
+entry2_media=央视网
+entry2_url=https://jingji.cctv.com/2026/11/04/ARTIdsIAzT8Ez1jvvMF2cn20261104.shtml
+entry2_md_sha256=b1bcede3fe1f0bfb542201a95b46576820cb0ce5b8602dedd7588d469966747c
+entry2_png_sha256=b8995021b648df88cf76c13a6c82000e77eebc8a6f7bffe169b0e9b0f3d346aa
+entry2_path=media-archive/cctv/EP-anchor-01/
+entry2_anchor=EP-anchor-01
+
+legion_exports=PENDING
