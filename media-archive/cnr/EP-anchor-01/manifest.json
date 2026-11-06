@@ -29,6 +29,14 @@
       "media": "央广网首发",
       "url": "https://www.cnr.cn/mspd/jrhm/20261030/t20261030_527857505.shtml",
       "pub_date_page": "2026-10-30 15:10:30"
+    },
+    {
+      "date": "2026-11-06",
+      "title": "促进科研与产业双向赋能 四十项举措助力湾区科创建设",
+      "media": "央广网（转载）",
+      "source": "央视网",
+      "url": "https://www.cnr.cn/mspd/jrhm/20261106/t20261106_527864159.shtml",
+      "pub_date_page": "2026-11-06 11:32:32"
     }
   ],
   "files": {
@@ -63,6 +71,14 @@
     "evidence-snapshots/智能体端侧权限风险受关注 业界探索“云端锁档”守护数字民生_央广网_snapshot.png": {
       "sha256": "7d816bcde31f89c86d4789d236bb15ecac0a4ad34886f9e6f5b6df5faf0e16c3",
       "bytes": 860344
+    },
+    "促进科研与产业双向赋能 四十项举措助力湾区科创建设_央广网.md": {
+      "sha256": "9fd7b65e1083adfaa76f173ee0752b2c431945fcca94c9029e98d2fefd06fe84",
+      "bytes": 2466
+    },
+    "evidence-snapshots/促进科研与产业双向赋能 四十项举措助力湾区科创建设_央广网_snapshot.png": {
+      "sha256": "2265dfe2af54a9efc77d98722b7a29762f18e5ce1da17f6ebed6ebcbb9fbed7f",
+      "bytes": 770430
     }
   }
 }

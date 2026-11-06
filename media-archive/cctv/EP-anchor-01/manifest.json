@@ -1,12 +1,40 @@
 {
   "anchor": "EP-anchor-01",
-  "date": "2026-11-04",
-  "title": "新型电网建设 关键看系统协同",
-  "media": "央视网",
-  "source": "央视网 · 经济频道",
-  "url": "https://jingji.cctv.com/2026/11/04/ARTIdsIAzT8Ez1jvvMF2cn20261104.shtml",
-  "pub_date_page": "2026-11-04 17:04:00",
   "capture_standard": "P0-four-elements-v2",
+  "ingests": [
+    {
+      "date": "2026-11-04",
+      "title": "新型电网建设 关键看系统协同",
+      "media": "央视网 · 经济频道（首发）",
+      "source": "央视网",
+      "url": "https://jingji.cctv.com/2026/11/04/ARTIdsIAzT8Ez1jvvMF2cn20261104.shtml",
+      "pub_date_page": "2026-11-04 17:04:00"
+    },
+    {
+      "date": "2026-11-05",
+      "title": "2026大湾区科学论坛启幕 发布四十项举措助力湾区科创建设",
+      "media": "央视网 · 经济频道（首发）",
+      "source": "央视网",
+      "url": "https://jingji.cctv.com/2026/11/05/ARTIffXRXsWjjJTs0BGs3yq4261105.shtml",
+      "pub_date_page": "2026-11-05 21:10:00"
+    },
+    {
+      "date": "2026-11-06",
+      "title": "智能硬件“行为风险”进入承保视野 保险定价探索前置到出厂前",
+      "media": "央视网 · 数智频道（转载）",
+      "source": "央广网",
+      "url": "https://5gai.cctv.com/2026/11/06/ARTIf8BLHkwqwVH69cNP6UuV261106.shtml",
+      "pub_date_page": "2026-11-06 15:07:29"
+    },
+    {
+      "date": "2026-11-06",
+      "title": "智能体端侧权限风险受关注 业界探索“云端锁档”守护数字民生",
+      "media": "央视网 · 数智频道（转载）",
+      "source": "央广网",
+      "url": "https://5gai.cctv.com/2026/11/06/ARTIdhpP1Yckk24eYgvTA0nu261106.shtml",
+      "pub_date_page": "2026-11-06 15:15:52"
+    }
+  ],
   "files": {
     "新型电网建设 关键看系统协同_央视网.md": {
       "sha256": "b1bcede3fe1f0bfb542201a95b46576820cb0ce5b8602dedd7588d469966747c",
@@ -15,6 +43,30 @@
     "evidence-snapshots/新型电网建设 关键看系统协同_央视网_snapshot.png": {
       "sha256": "b8995021b648df88cf76c13a6c82000e77eebc8a6f7bffe169b0e9b0f3d346aa",
       "bytes": 692522
+    },
+    "2026大湾区科学论坛启幕 发布四十项举措助力湾区科创建设_央视网.md": {
+      "sha256": "49127ba286a1555df601230f0ef71856252541b1736a5259bf72ebf35f4f7ff8",
+      "bytes": 2410
+    },
+    "evidence-snapshots/2026大湾区科学论坛启幕 发布四十项举措助力湾区科创建设_央视网_snapshot.png": {
+      "sha256": "767dc5b83a3fe69b6165b2f6da990aaa87c26feeb2ee0125f2fa37b7024e80c8",
+      "bytes": 724090
+    },
+    "智能硬件“行为风险”进入承保视野 保险定价探索前置到出厂前_央视网_5gai.md": {
+      "sha256": "5a3df684d6192cc85540f389a7f11be429d2c0756bdcacb38b42bb4fa1b0c684",
+      "bytes": 6197
+    },
+    "evidence-snapshots/智能硬件“行为风险”进入承保视野 保险定价探索前置到出厂前_央视网_5gai_snapshot.png": {
+      "sha256": "fadb4c5b8ffa25dbe9ed53d8165d00101da1afedb81dc24f000dff51dbffafa8",
+      "bytes": 670816
+    },
+    "智能体端侧权限风险受关注 业界探索“云端锁档”守护数字民生_央视网_5gai.md": {
+      "sha256": "b1c5d118188c6438056f08ed50ecb40f363b6da4340a5e64f9d9d31f0887b1c4",
+      "bytes": 3007
+    },
+    "evidence-snapshots/智能体端侧权限风险受关注 业界探索“云端锁档”守护数字民生_央视网_5gai_snapshot.png": {
+      "sha256": "0754cb72c318294134d0c5a505d590772a0b37d8c372535c5af73b4a94663351",
+      "bytes": 518319
     }
   }
 }

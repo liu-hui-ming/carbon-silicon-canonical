@@ -1,0 +1,42 @@
+2026-11-06T22:58+08:00 EP media-archive six-ingest batch (append-only)
+repo=carbon-silicon-canonical
+closure=ARCHIVE_ONLY no_ledger_closure
+xian_issue_status=OPEN_awaiting_founder_notice
+
+entry01_title=2026大湾区科学论坛启幕 发布四十项举措助力湾区科创建设
+entry01_url=https://jingji.cctv.com/2026/11/05/ARTIffXRXsWjjJTs0BGs3yq4261105.shtml
+entry01_md_sha256=49127ba286a1555df601230f0ef71856252541b1736a5259bf72ebf35f4f7ff8
+entry01_png_sha256=767dc5b83a3fe69b6165b2f6da990aaa87c26feeb2ee0125f2fa37b7024e80c8
+entry01_path=media-archive/cctv/EP-anchor-01/
+
+entry02_title=促进科研与产业双向赋能 四十项举措助力湾区科创建设
+entry02_url=https://www.cnr.cn/mspd/jrhm/20261106/t20261106_527864159.shtml
+entry02_md_sha256=9fd7b65e1083adfaa76f173ee0752b2c431945fcca94c9029e98d2fefd06fe84
+entry02_png_sha256=2265dfe2af54a9efc77d98722b7a29762f18e5ce1da17f6ebed6ebcbb9fbed7f
+entry02_path=media-archive/cnr/EP-anchor-01/
+
+entry03_title=智能硬件“行为风险”进入承保视野 保险定价探索前置到出厂前
+entry03_url=https://5gai.cctv.com/2026/11/06/ARTIf8BLHkwqwVH69cNP6UuV261106.shtml
+entry03_md_sha256=5a3df684d6192cc85540f389a7f11be429d2c0756bdcacb38b42bb4fa1b0c684
+entry03_png_sha256=fadb4c5b8ffa25dbe9ed53d8165d00101da1afedb81dc24f000dff51dbffafa8
+entry03_path=media-archive/cctv/EP-anchor-01/
+
+entry04_title=智能体端侧权限风险受关注 业界探索“云端锁档”守护数字民生
+entry04_url=https://gongyi.gmw.cn/2026-11/05/content_39087646.htm
+entry04_md_sha256=491612fd2a909e5f10d983a0aee6120460933b3bfdb94e1e7752649961043b76
+entry04_png_sha256=8c1f3d6672d8abbd866c6ff2f0cf1455bab817fa057395f2af339c0aa1998f7b
+entry04_path=media-archive/gmw/EP-anchor-01/
+
+entry05_title=智能体端侧权限风险受关注 业界探索“云端锁档”守护数字民生
+entry05_url=https://5gai.cctv.com/2026/11/06/ARTIdhpP1Yckk24eYgvTA0nu261106.shtml
+entry05_md_sha256=b1c5d118188c6438056f08ed50ecb40f363b6da4340a5e64f9d9d31f0887b1c4
+entry05_png_sha256=0754cb72c318294134d0c5a505d590772a0b37d8c372535c5af73b4a94663351
+entry05_path=media-archive/cctv/EP-anchor-01/
+
+entry06_title=首批国货采购标准公示 把握自主化推进时度效
+entry06_url=https://economy.gmw.cn/2026-11/06/content_39089086.htm
+entry06_md_sha256=a5d06736a27cb6cadb267d6be7c6c3b162da9a30b5d581386ddb08f9bf0b1aec
+entry06_png_sha256=77f607a351abd8224d58daf88218ed06bee70374011e22317f9967826d32fe9f
+entry06_path=media-archive/gmw/EP-anchor-01/
+
+legion_exports=PENDING

@@ -1,0 +1,40 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "ingests": [
+    {
+      "date": "2026-11-05",
+      "title": "智能体端侧权限风险受关注 业界探索“云端锁档”守护数字民生",
+      "media": "光明网公益频道（首发）",
+      "source": "央广网",
+      "url": "https://gongyi.gmw.cn/2026-11/05/content_39087646.htm",
+      "pub_date_page": "2026-11-05 17:46:00"
+    },
+    {
+      "date": "2026-11-06",
+      "title": "首批国货采购标准公示 把握自主化推进时度效",
+      "media": "光明网经济频道（首发）",
+      "source": "光明网",
+      "url": "https://economy.gmw.cn/2026-11/06/content_39089086.htm",
+      "pub_date_page": "2026-11-06 14:20:00"
+    }
+  ],
+  "files": {
+    "智能体端侧权限风险受关注 业界探索“云端锁档”守护数字民生_光明网.md": {
+      "sha256": "491612fd2a909e5f10d983a0aee6120460933b3bfdb94e1e7752649961043b76",
+      "bytes": 2956
+    },
+    "evidence-snapshots/智能体端侧权限风险受关注 业界探索“云端锁档”守护数字民生_光明网_snapshot.png": {
+      "sha256": "8c1f3d6672d8abbd866c6ff2f0cf1455bab817fa057395f2af339c0aa1998f7b",
+      "bytes": 1214827
+    },
+    "首批国货采购标准公示 把握自主化推进时度效_光明网.md": {
+      "sha256": "a5d06736a27cb6cadb267d6be7c6c3b162da9a30b5d581386ddb08f9bf0b1aec",
+      "bytes": 2330
+    },
+    "evidence-snapshots/首批国货采购标准公示 把握自主化推进时度效_光明网_snapshot.png": {
+      "sha256": "77f607a351abd8224d58daf88218ed06bee70374011e22317f9967826d32fe9f",
+      "bytes": 1076302
+    }
+  }
+}
