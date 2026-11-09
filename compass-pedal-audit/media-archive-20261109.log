@@ -22,3 +22,7 @@ entry03_png_sha256=0c05841794189070f3a4a7a03cfb08888f731dbaaac8e335df424bef5e83c
 entry03_path=media-archive/news-cn/EP-anchor-01/
 
 entry02_fetch_note=share.gmw.cn HTTP 404 at capture; body aligned to cctv syndication
+2026-11-09T22:17+08:00 gmw_qinglang_url_correction .html->.htm recapture
+entry02_url=https://share.gmw.cn/e/2026-11/09/content_39093028.htm
+entry02_md_sha256=ff77686169537ae27d4cd7b6445c1a65649d900f0cb4135bb9b36cf7af0b15bd
+entry02_png_sha256=31f900030ed85eed9fc0da3f9a7a9ea5776aa7419987feea507edc1a5b038108

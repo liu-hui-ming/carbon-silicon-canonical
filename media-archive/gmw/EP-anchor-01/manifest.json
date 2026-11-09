@@ -21,11 +21,10 @@
     {
       "date": "2026-11-09",
       "title": "“清朗”专项整治聚焦AI应用乱象：让普通用户看得懂、控得住智能服务",
-      "media": "光明网（转载）",
+      "media": "光明网 · 文娱频道（转载）",
       "source": "央广网",
-      "url": "https://share.gmw.cn/e/2026-11/09/content_39093028.html",
-      "pub_date_page": "2026-11-09",
-      "fetch_note": "HTTP_404_at_capture"
+      "url": "https://share.gmw.cn/e/2026-11/09/content_39093028.htm",
+      "pub_date_page": "2026-11-09 17:42:00"
     }
   ],
   "files": {
@@ -46,12 +45,12 @@
       "bytes": 1076302
     },
     "“清朗”专项整治聚焦AI应用乱象：让普通用户看得懂、控得住智能服务_光明网.md": {
-      "sha256": "79131f2c3a7e20216854bb2b419dea9ac33edadfceffe4a8a669d2ac43e767e8",
-      "bytes": 3371
+      "sha256": "ff77686169537ae27d4cd7b6445c1a65649d900f0cb4135bb9b36cf7af0b15bd",
+      "bytes": 3121
     },
     "evidence-snapshots/“清朗”专项整治聚焦AI应用乱象：让普通用户看得懂、控得住智能服务_光明网_snapshot.png": {
-      "sha256": "8ea8c35f55bc0fd6dfda5bc366d5e739a3e698db4289cc40be027937393aead2",
-      "bytes": 555459
+      "sha256": "31f900030ed85eed9fc0da3f9a7a9ea5776aa7419987feea507edc1a5b038108",
+      "bytes": 1173633
     }
   }
 }
