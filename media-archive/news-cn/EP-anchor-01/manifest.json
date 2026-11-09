@@ -24,6 +24,14 @@
       "source": "央广网",
       "url": "https://www.news.cn/digital/20261104/a98d70d45a94460ba63cfb15bce47313/c.html",
       "pub_date_page": "2026-11-04 17:41:15"
+    },
+    {
+      "date": "2026-11-09",
+      "title": "2026大湾区科学论坛启幕 发布四十项举措助力湾区科创建设",
+      "media": "人民网转载",
+      "source": "央视网",
+      "url": "http://finance.people.com.cn/n1/2026/1109/c1004-40830135.html",
+      "pub_date_page": "2026-11-09 07:36:00"
     }
   ],
   "files": {
@@ -50,6 +58,14 @@
     "evidence-snapshots/智能硬件“行为风险”进入承保视野 保险定价探索前置到出厂前_新华网_snapshot.png": {
       "sha256": "28e59e8c205a5c5ba5910f9521f14d402196479c9c3b37345121d1397e053680",
       "bytes": 1040501
+    },
+    "2026大湾区科学论坛启幕 发布四十项举措助力湾区科创建设_人民网.md": {
+      "sha256": "6e66e0f708c6ff3e0ef004ea82dc77035851be284af8823bdf30a1c6c00ca022",
+      "bytes": 2372
+    },
+    "evidence-snapshots/2026大湾区科学论坛启幕 发布四十项举措助力湾区科创建设_人民网_snapshot.png": {
+      "sha256": "0c05841794189070f3a4a7a03cfb08888f731dbaaac8e335df424bef5e83c0ca",
+      "bytes": 610713
     }
   }
 }

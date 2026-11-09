@@ -17,6 +17,15 @@
       "source": "光明网",
       "url": "https://economy.gmw.cn/2026-11/06/content_39089086.htm",
       "pub_date_page": "2026-11-06 14:20:00"
+    },
+    {
+      "date": "2026-11-09",
+      "title": "“清朗”专项整治聚焦AI应用乱象：让普通用户看得懂、控得住智能服务",
+      "media": "光明网（转载）",
+      "source": "央广网",
+      "url": "https://share.gmw.cn/e/2026-11/09/content_39093028.html",
+      "pub_date_page": "2026-11-09",
+      "fetch_note": "HTTP_404_at_capture"
     }
   ],
   "files": {
@@ -35,6 +44,14 @@
     "evidence-snapshots/首批国货采购标准公示 把握自主化推进时度效_光明网_snapshot.png": {
       "sha256": "77f607a351abd8224d58daf88218ed06bee70374011e22317f9967826d32fe9f",
       "bytes": 1076302
+    },
+    "“清朗”专项整治聚焦AI应用乱象：让普通用户看得懂、控得住智能服务_光明网.md": {
+      "sha256": "79131f2c3a7e20216854bb2b419dea9ac33edadfceffe4a8a669d2ac43e767e8",
+      "bytes": 3371
+    },
+    "evidence-snapshots/“清朗”专项整治聚焦AI应用乱象：让普通用户看得懂、控得住智能服务_光明网_snapshot.png": {
+      "sha256": "8ea8c35f55bc0fd6dfda5bc366d5e739a3e698db4289cc40be027937393aead2",
+      "bytes": 555459
     }
   }
 }

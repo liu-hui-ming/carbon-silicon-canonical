@@ -1,0 +1,24 @@
+2026-11-09T22:15+08:00 EP media-archive three-ingest batch (append-only)
+repo=carbon-silicon-canonical
+closure=ARCHIVE_ONLY no_ledger_closure
+xian_issue_status=OPEN_awaiting_founder_notice
+
+entry01_title=“清朗”专项整治聚焦AI应用乱象：让普通用户看得懂、控得住智能服务
+entry01_url=https://5gai.cctv.com/2026/11/09/ARTI4r9AbYmncVfkTU0BDS6F261109.shtml
+entry01_md_sha256=333a8631a2548393fb73783248b624b04ee4caafdb4261614ac246702e4976a0
+entry01_png_sha256=12f9aaab256cd27e922655a22a9108e1c9a389db6c6d43e7ed091f8d725fca96
+entry01_path=media-archive/cctv/EP-anchor-01/
+
+entry02_title=“清朗”专项整治聚焦AI应用乱象：让普通用户看得懂、控得住智能服务
+entry02_url=https://share.gmw.cn/e/2026-11/09/content_39093028.html
+entry02_md_sha256=79131f2c3a7e20216854bb2b419dea9ac33edadfceffe4a8a669d2ac43e767e8
+entry02_png_sha256=8ea8c35f55bc0fd6dfda5bc366d5e739a3e698db4289cc40be027937393aead2
+entry02_path=media-archive/gmw/EP-anchor-01/
+
+entry03_title=2026大湾区科学论坛启幕 发布四十项举措助力湾区科创建设
+entry03_url=http://finance.people.com.cn/n1/2026/1109/c1004-40830135.html
+entry03_md_sha256=6e66e0f708c6ff3e0ef004ea82dc77035851be284af8823bdf30a1c6c00ca022
+entry03_png_sha256=0c05841794189070f3a4a7a03cfb08888f731dbaaac8e335df424bef5e83c0ca
+entry03_path=media-archive/news-cn/EP-anchor-01/
+
+entry02_fetch_note=share.gmw.cn HTTP 404 at capture; body aligned to cctv syndication

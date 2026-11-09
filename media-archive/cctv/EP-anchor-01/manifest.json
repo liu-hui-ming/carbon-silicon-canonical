@@ -33,6 +33,14 @@
       "source": "央广网",
       "url": "https://5gai.cctv.com/2026/11/06/ARTIdhpP1Yckk24eYgvTA0nu261106.shtml",
       "pub_date_page": "2026-11-06 15:15:52"
+    },
+    {
+      "date": "2026-11-09",
+      "title": "“清朗”专项整治聚焦AI应用乱象：让普通用户看得懂、控得住智能服务",
+      "media": "央视网 · 数智频道（转载）",
+      "source": "央广网",
+      "url": "https://5gai.cctv.com/2026/11/09/ARTI4r9AbYmncVfkTU0BDS6F261109.shtml",
+      "pub_date_page": "2026-11-09 12:02:30"
     }
   ],
   "files": {
@@ -67,6 +75,14 @@
     "evidence-snapshots/智能体端侧权限风险受关注 业界探索“云端锁档”守护数字民生_央视网_5gai_snapshot.png": {
       "sha256": "0754cb72c318294134d0c5a505d590772a0b37d8c372535c5af73b4a94663351",
       "bytes": 518319
+    },
+    "“清朗”专项整治聚焦AI应用乱象：让普通用户看得懂、控得住智能服务_央视网_5gai.md": {
+      "sha256": "333a8631a2548393fb73783248b624b04ee4caafdb4261614ac246702e4976a0",
+      "bytes": 3169
+    },
+    "evidence-snapshots/“清朗”专项整治聚焦AI应用乱象：让普通用户看得懂、控得住智能服务_央视网_5gai_snapshot.png": {
+      "sha256": "12f9aaab256cd27e922655a22a9108e1c9a389db6c6d43e7ed091f8d725fca96",
+      "bytes": 526814
     }
   }
 }
