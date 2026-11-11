@@ -1,0 +1,24 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "ingests": [
+    {
+      "date": "2026-11-11",
+      "title": "Hidden Pitfall in EUV Multilayer Lifetime Evaluation: The Missing Long‑Term Steady‑State Reference Baseline",
+      "media": "APNews美联社单发",
+      "source": "MarketersMEDIA · AP News Press Release",
+      "url": "https://apnews.com/press-release/marketersmedia/press-release-4974b0f633b4842e1204dad30b365e8b",
+      "pub_date_page": "November 10, 2026"
+    }
+  ],
+  "files": {
+    "Hidden Pitfall in EUV Multilayer Lifetime Evaluation: The Missing Long‑Term Steady‑State Reference Baseline_APNews美联社.md": {
+      "sha256": "b3e28102b498f248f0983762833f7404b0deea2da01e5696f4f2d23fcb617925",
+      "bytes": 10416
+    },
+    "evidence-snapshots/Hidden Pitfall in EUV Multilayer Lifetime Evaluation: The Missing Long‑Term Steady‑State Reference Baseline_APNews美联社_snapshot.png": {
+      "sha256": "eb587190aa11b9b4b0071e35d9d0b1bc8aa4726416e4339dbce519c24fdddf1a",
+      "bytes": 6117737
+    }
+  }
+}
