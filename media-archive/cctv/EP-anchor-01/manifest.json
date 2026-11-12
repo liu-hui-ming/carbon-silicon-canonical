@@ -41,6 +41,14 @@
       "source": "央广网",
       "url": "https://5gai.cctv.com/2026/11/09/ARTI4r9AbYmncVfkTU0BDS6F261109.shtml",
       "pub_date_page": "2026-11-09 12:02:30"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "适配人口结构新变化 我国前瞻优化教育资源配置",
+      "media": "央视网",
+      "source": "央视网 · 经济频道（独家首发）",
+      "url": "https://jingji.cctv.com/2026/11/12/ARTIyGIDYam9tXQcxF4LzyEY261112.shtml",
+      "pub_date_page": "2026-11-12 20:15"
     }
   ],
   "files": {
@@ -83,6 +91,14 @@
     "evidence-snapshots/“清朗”专项整治聚焦AI应用乱象：让普通用户看得懂、控得住智能服务_央视网_5gai_snapshot.png": {
       "sha256": "12f9aaab256cd27e922655a22a9108e1c9a389db6c6d43e7ed091f8d725fca96",
       "bytes": 526814
+    },
+    "适配人口结构新变化 我国前瞻优化教育资源配置_央视网.md": {
+      "sha256": "8ec2abc0aa137a6f7fc88813e79a841700b1f7b49df41befb2ce7498732389e6",
+      "bytes": 309
+    },
+    "evidence-snapshots/适配人口结构新变化 我国前瞻优化教育资源配置_央视网_snapshot.png": {
+      "sha256": "6f9ac5999c243cd8dde3ed6e9e8070eff2f86bb6c889c8ddd5c194eadd17846b",
+      "bytes": 1169071
     }
   }
 }

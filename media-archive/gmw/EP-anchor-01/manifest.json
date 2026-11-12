@@ -25,6 +25,22 @@
       "source": "央广网",
       "url": "https://share.gmw.cn/e/2026-11/09/content_39093028.htm",
       "pub_date_page": "2026-11-09 17:42:00"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "智能硬件“行为风险”进入承保视野 保险定价探索前置到出厂前",
+      "media": "光明网公益",
+      "source": "光明网公益（转载）",
+      "url": "https://gongyi.gmw.cn/2026-11/12/content_39098346.htm",
+      "pub_date_page": "2026-11-12T11:24:35+08:00"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "卫星互联网低轨29组升空：太空组网进入批量部署",
+      "media": "光明网经济科技首发",
+      "source": "光明网 · 经济科技（首发）",
+      "url": "https://economy.gmw.cn/2026-11/12/content_39098453.htm",
+      "pub_date_page": "2026-11-12T13:45:22+08:00"
     }
   ],
   "files": {
@@ -51,6 +67,22 @@
     "evidence-snapshots/“清朗”专项整治聚焦AI应用乱象：让普通用户看得懂、控得住智能服务_光明网_snapshot.png": {
       "sha256": "31f900030ed85eed9fc0da3f9a7a9ea5776aa7419987feea507edc1a5b038108",
       "bytes": 1173633
+    },
+    "智能硬件“行为风险”进入承保视野 保险定价探索前置到出厂前_光明网公益.md": {
+      "sha256": "e41e030a7f99f0485059805a77fb3abbea0906c609e1f5716be6e222ec1e3a38",
+      "bytes": 8613
+    },
+    "evidence-snapshots/智能硬件“行为风险”进入承保视野 保险定价探索前置到出厂前_光明网公益_snapshot.png": {
+      "sha256": "03695ddf5e40c2f36df5f50ab289a53c8da45503c218114ce825573aa7592582",
+      "bytes": 2671532
+    },
+    "卫星互联网低轨29组升空：太空组网进入批量部署_光明网经济.md": {
+      "sha256": "8f82553719ab1c83dc1a93bc3749e7442739c77774ed2d349e9a156d0c4a4bdd",
+      "bytes": 10262
+    },
+    "evidence-snapshots/卫星互联网低轨29组升空：太空组网进入批量部署_光明网经济_snapshot.png": {
+      "sha256": "f5f1cc81c1108baffe117a8d1d9258ed292292ce7b2fe7e4a678588e2f30f6e3",
+      "bytes": 2370676
     }
   }
 }

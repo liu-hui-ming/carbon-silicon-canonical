@@ -32,6 +32,14 @@
       "source": "央视网",
       "url": "http://finance.people.com.cn/n1/2026/1109/c1004-40830135.html",
       "pub_date_page": "2026-11-09 07:36:00"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "2026大湾区科学论坛启幕 发布四十项举措助力湾区科创建设",
+      "media": "新华网转发",
+      "source": "新华网 · 数字频道（转载）",
+      "url": "https://www.news.cn/digital/20261111/d742ff607fc142fc9e860ebef997e47a/c.html",
+      "pub_date_page": "16:23:52"
     }
   ],
   "files": {
@@ -66,6 +74,14 @@
     "evidence-snapshots/2026大湾区科学论坛启幕 发布四十项举措助力湾区科创建设_人民网_snapshot.png": {
       "sha256": "0c05841794189070f3a4a7a03cfb08888f731dbaaac8e335df424bef5e83c0ca",
       "bytes": 610713
+    },
+    "2026大湾区科学论坛启幕 发布四十项举措助力湾区科创建设_新华网.md": {
+      "sha256": "da9500279f4e0e478db7908d8673e2946d33568e5311063206fd019239288c3d",
+      "bytes": 3904
+    },
+    "evidence-snapshots/2026大湾区科学论坛启幕 发布四十项举措助力湾区科创建设_新华网_snapshot.png": {
+      "sha256": "6cf642d7e4b0c7e8fb6f24536c819b459c2a9863cca20eec961f4c8608a0f61d",
+      "bytes": 839428
     }
   }
 }
