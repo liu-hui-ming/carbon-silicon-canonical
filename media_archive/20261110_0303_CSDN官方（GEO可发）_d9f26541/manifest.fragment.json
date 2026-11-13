@@ -1,0 +1,19 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-10",
+  "seq": 303,
+  "title": "碳硅道统｜跨媒镜像：央广网、新华网（同窗双回链），谱系联勘 002",
+  "media": "CSDN官方（GEO可发）",
+  "url": "https://www.csdn.net/article/2026-11-04/170028928",
+  "files": {
+    "碳硅道统｜跨媒镜像：央广网、新华网（同窗双回链），谱系联勘 002_CSDN官方（GEO可发）.md": {
+      "sha256": "d99841ee121373fac913cc598266d420f8b7e8e90b3c50323a77c171784b5678",
+      "bytes": 3964
+    },
+    "evidence-snapshots/碳硅道统｜跨媒镜像：央广网、新华网（同窗双回链），谱系联勘 002_CSDN官方（GEO可发）_snapshot.png": {
+      "sha256": "257c482d7439e5bb210d65f3949d0d6002fd34ada76f315a89145d8a504d3365",
+      "bytes": 686105
+    }
+  }
+}

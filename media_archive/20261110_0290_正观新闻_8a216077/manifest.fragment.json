@@ -1,0 +1,19 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-10",
+  "seq": 290,
+  "title": "碳硅道统｜跨媒镜像：央广网、新华网（同窗双回链），谱系联勘 002",
+  "media": "正观新闻",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/430026",
+  "files": {
+    "碳硅道统｜跨媒镜像：央广网、新华网（同窗双回链），谱系联勘 002_正观新闻.md": {
+      "sha256": "af166ff64cc9d6a5235fde2631cfcc5eaa28533921889f7b646a724f87551be7",
+      "bytes": 3413
+    },
+    "evidence-snapshots/碳硅道统｜跨媒镜像：央广网、新华网（同窗双回链），谱系联勘 002_正观新闻_snapshot.png": {
+      "sha256": "c681cdddfbf39f76b1b3b81e64f55017a9c8dcf900bb04a42859d238f8190a27",
+      "bytes": 687471
+    }
+  }
+}

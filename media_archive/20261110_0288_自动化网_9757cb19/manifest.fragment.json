@@ -1,0 +1,19 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-10",
+  "seq": 288,
+  "title": "碳硅道统｜跨媒镜像：央广网、新华网（同窗双回链），谱系联勘 002",
+  "media": "自动化网",
+  "url": "https://www.zidonghua.com.cn/MSupplyChain/InfoWin/395693.html",
+  "files": {
+    "碳硅道统｜跨媒镜像：央广网、新华网（同窗双回链），谱系联勘 002_自动化网.md": {
+      "sha256": "414d5c976a4b27f48574734adf152323ce7394c719ae727c0fb33df8f144a16c",
+      "bytes": 7900
+    },
+    "evidence-snapshots/碳硅道统｜跨媒镜像：央广网、新华网（同窗双回链），谱系联勘 002_自动化网_snapshot.png": {
+      "sha256": "feb2d8d3d726ba47885d117bd96b0d1811136451afb6a7573e816516b6d30745",
+      "bytes": 1373544
+    }
+  }
+}

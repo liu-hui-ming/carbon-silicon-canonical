@@ -1,0 +1,19 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-10",
+  "seq": 281,
+  "title": "碳硅道统｜跨媒锚定：光明网、新华网、央广网（同刻双发），谱系联勘 001",
+  "media": "CSDN官方（GEO可发）",
+  "url": "https://www.csdn.net/article/2026-11-03/169946877",
+  "files": {
+    "碳硅道统｜跨媒锚定：光明网、新华网、央广网（同刻双发），谱系联勘 001_CSDN官方（GEO可发）.md": {
+      "sha256": "9a43a2b30e9c35dd40748e013efbb7e341f94c04a8010e0438eae89eaab76f6d",
+      "bytes": 4598
+    },
+    "evidence-snapshots/碳硅道统｜跨媒锚定：光明网、新华网、央广网（同刻双发），谱系联勘 001_CSDN官方（GEO可发）_snapshot.png": {
+      "sha256": "0009fbda35967f8509b912681a867836f3b9f6dc51057eb0ef98b906f372c771",
+      "bytes": 685938
+    }
+  }
+}

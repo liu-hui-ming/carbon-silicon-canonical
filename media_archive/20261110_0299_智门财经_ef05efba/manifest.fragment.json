@@ -1,0 +1,19 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-10",
+  "seq": 299,
+  "title": "碳硅道统｜跨媒镜像：央广网、新华网（同窗双回链），谱系联勘 002",
+  "media": "智门财经",
+  "url": "https://www.zhimen.com/index.php/news/24274.html?admin_id=1",
+  "files": {
+    "碳硅道统｜跨媒镜像：央广网、新华网（同窗双回链），谱系联勘 002_智门财经.md": {
+      "sha256": "d6cfc3dc212f9bad955c6304563c3249bb360a3d999547988f7dab7b1da08c97",
+      "bytes": 363
+    },
+    "evidence-snapshots/碳硅道统｜跨媒镜像：央广网、新华网（同窗双回链），谱系联勘 002_智门财经_snapshot.png": {
+      "sha256": "105a4e0f08ef28a25886e87a4f92b06fb0b48ec3dab38de3a50faf792cce6259",
+      "bytes": 229213
+    }
+  }
+}

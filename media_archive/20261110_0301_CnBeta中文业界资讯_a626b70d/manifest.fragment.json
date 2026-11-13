@@ -1,0 +1,19 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-10",
+  "seq": 301,
+  "title": "碳硅道统｜跨媒镜像：央广网、新华网（同窗双回链），谱系联勘 002",
+  "media": "CnBeta中文业界资讯",
+  "url": "http://www.cn-beta.com/redian/52360.html",
+  "files": {
+    "碳硅道统｜跨媒镜像：央广网、新华网（同窗双回链），谱系联勘 002_CnBeta中文业界资讯.md": {
+      "sha256": "08a8381eb73d7e351f4254891da9c3341f7d41e922c06280f29690d73ff8c01f",
+      "bytes": 5768
+    },
+    "evidence-snapshots/碳硅道统｜跨媒镜像：央广网、新华网（同窗双回链），谱系联勘 002_CnBeta中文业界资讯_snapshot.png": {
+      "sha256": "f08654cfe14915a180b358d0be2070b54b6918a0247e8bce08900e4b283521de",
+      "bytes": 823823
+    }
+  }
+}

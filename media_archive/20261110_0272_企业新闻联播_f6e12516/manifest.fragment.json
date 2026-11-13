@@ -1,0 +1,19 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-10",
+  "seq": 272,
+  "title": "碳硅道统｜跨媒锚定：光明网、新华网、央广网（同刻双发），谱系联勘 001",
+  "media": "企业新闻联播",
+  "url": "http://www.qwqy.cn/caijing/52485.html",
+  "files": {
+    "碳硅道统｜跨媒锚定：光明网、新华网、央广网（同刻双发），谱系联勘 001_企业新闻联播.md": {
+      "sha256": "05c1261c8095c5dc7d2e96145f13f0478ba269bc04c98b3fee903c706c3ca5dc",
+      "bytes": 4042
+    },
+    "evidence-snapshots/碳硅道统｜跨媒锚定：光明网、新华网、央广网（同刻双发），谱系联勘 001_企业新闻联播_snapshot.png": {
+      "sha256": "0621b4ad73d28afac33c9dd275f7b88d675b56e25fc98e6b442442764d904bfa",
+      "bytes": 1925481
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-10",
+  "seq": 270,
+  "title": "碳硅道统｜跨媒锚定：光明网、新华网、央广网（同刻双发），谱系联勘 001",
+  "media": "中国商业网",
+  "url": "https://business.hk.cn/355/483061.html",
+  "files": {
+    "碳硅道统｜跨媒锚定：光明网、新华网、央广网（同刻双发），谱系联勘 001_中国商业网.md": {
+      "sha256": "fa33855f198ccf235a649d69329d94bcb70ea1a930fa015a5904898677c94700",
+      "bytes": 4810
+    },
+    "evidence-snapshots/碳硅道统｜跨媒锚定：光明网、新华网、央广网（同刻双发），谱系联勘 001_中国商业网_snapshot.png": {
+      "sha256": "90b85b4b8d9702426418ce2af17eafc2b8f1995a28b3ea0ab2b521e3373dfd95",
+      "bytes": 1372338
+    }
+  }
+}
