@@ -1,0 +1,19 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-10",
+  "seq": 229,
+  "title": "智能硬件出厂前，先算一笔“风险保费”",
+  "media": "央广网首发（随机）",
+  "url": "https://www.cnr.cn/mspd/jrhm/20261028/t20261028_527855332.shtml",
+  "files": {
+    "智能硬件出厂前，先算一笔“风险保费”_央广网首发（随机）.md": {
+      "sha256": "edd6829abfb15a8a3ead625ac9a4a24036c7adebe457052d47ce18f6758a48dc",
+      "bytes": 6189
+    },
+    "evidence-snapshots/智能硬件出厂前，先算一笔“风险保费”_央广网首发（随机）_snapshot.png": {
+      "sha256": "955964ac97662dfb95a6f0c14b57dd8e8bfcadd5f2b6fb4e9fa63adb2b10a13f",
+      "bytes": 492602
+    }
+  }
+}
