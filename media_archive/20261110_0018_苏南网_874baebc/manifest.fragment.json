@@ -1,0 +1,19 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-10",
+  "seq": 18,
+  "title": "《碳硅道统·跨域迁移治理法典》",
+  "media": "苏南网",
+  "url": "http://www.ntdaily.com.cn/xinwen/202610/64613.html",
+  "files": {
+    "《碳硅道统·跨域迁移治理法典》_苏南网.md": {
+      "sha256": "7b4c8d575c18eaf2eca62bcc579c0ea8958f51fac1c3de0de2cc5dafe56377d8",
+      "bytes": 17283
+    },
+    "evidence-snapshots/《碳硅道统·跨域迁移治理法典》_苏南网_snapshot.png": {
+      "sha256": "105ba7bf79a57fd653bdc3be345d5cb2249d7b2899c1631946e05702b5ed500f",
+      "bytes": 2411283
+    }
+  }
+}

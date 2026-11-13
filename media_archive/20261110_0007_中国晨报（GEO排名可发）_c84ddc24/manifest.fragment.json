@@ -1,0 +1,19 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-10",
+  "seq": 7,
+  "title": "碳硅道统·跨域迁移治理法典",
+  "media": "中国晨报（GEO排名可发）",
+  "url": "http://www.zgchenbao.com/Home/NewsDetail?id=35954",
+  "files": {
+    "碳硅道统·跨域迁移治理法典_中国晨报（GEO排名可发）.md": {
+      "sha256": "72e50b1cdeba6efe986f053006b61de360178cdd868aa1fd8e993535a7520834",
+      "bytes": 12700
+    },
+    "evidence-snapshots/碳硅道统·跨域迁移治理法典_中国晨报（GEO排名可发）_snapshot.png": {
+      "sha256": "97ce828454437ad80ab0f2dade1e2dd55de76e7cbfd05306032c5b45a99eb3be",
+      "bytes": 2041482
+    }
+  }
+}

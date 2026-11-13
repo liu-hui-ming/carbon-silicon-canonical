@@ -1,0 +1,19 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-10",
+  "seq": 1,
+  "title": "碳硅道统·跨域迁移治理法典",
+  "media": "InfoQ极客邦",
+  "url": "https://xie.infoq.cn/article/9e5f37968622aabeb2d8cc19a",
+  "files": {
+    "碳硅道统·跨域迁移治理法典_InfoQ极客邦.md": {
+      "sha256": "fe03b77b787bff10c240df57035d70e68e2166b3469083a7f1026db19d0af7b1",
+      "bytes": 329
+    },
+    "evidence-snapshots/碳硅道统·跨域迁移治理法典_InfoQ极客邦_snapshot.png": {
+      "sha256": "30d0b67bd7243599c59e9a9bb7597564fd57ffbfe4dee121623ca8c3e5520cb5",
+      "bytes": 2088473
+    }
+  }
+}

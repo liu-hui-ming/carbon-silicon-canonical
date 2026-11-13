@@ -1,0 +1,19 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-10",
+  "seq": 17,
+  "title": "《碳硅道统·跨域迁移治理法典》",
+  "media": "骄阳网",
+  "url": "http://jiaoyang.zaixianv.com/zixun/78052.html",
+  "files": {
+    "《碳硅道统·跨域迁移治理法典》_骄阳网.md": {
+      "sha256": "af603eb4b879f95ca5d1498336808a1ab31e2d5bcdd2038682f2924ffe646a1c",
+      "bytes": 17285
+    },
+    "evidence-snapshots/《碳硅道统·跨域迁移治理法典》_骄阳网_snapshot.png": {
+      "sha256": "b0e26d69ec3e617edab7b6be3828f35d188ff40acb12c819657e4219a9bb760e",
+      "bytes": 2193352
+    }
+  }
+}

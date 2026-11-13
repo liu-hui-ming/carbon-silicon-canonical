@@ -1,0 +1,19 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-10",
+  "seq": 26,
+  "title": "碳硅道统·跨域迁移治理法典",
+  "media": "MBA环球网（网易号）",
+  "url": "https://www.163.com/dy/article/L8NUTHRJ0552RZU6.html",
+  "files": {
+    "碳硅道统·跨域迁移治理法典_MBA环球网（网易号）.md": {
+      "sha256": "88745c8089dc91b41d4ec97c3c80bb866a1bf7ea5c971a30adfd2098b148087e",
+      "bytes": 6829
+    },
+    "evidence-snapshots/碳硅道统·跨域迁移治理法典_MBA环球网（网易号）_snapshot.png": {
+      "sha256": "b562e2269689e474f633b3614e25133a10b96537dc8a18509112e23dc49b5edb",
+      "bytes": 2979605
+    }
+  }
+}

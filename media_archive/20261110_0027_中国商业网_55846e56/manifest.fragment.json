@@ -1,0 +1,19 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-10",
+  "seq": 27,
+  "title": "碳硅道统·跨域迁移治理法典",
+  "media": "中国商业网",
+  "url": "http://www.jkkjwz.cn/list_15/382.html",
+  "files": {
+    "碳硅道统·跨域迁移治理法典_中国商业网.md": {
+      "sha256": "46e7fc88e2493aba74d045054e32a6e7d69e61ce2b5bfe1bbf27d719f587a7d2",
+      "bytes": 6266
+    },
+    "evidence-snapshots/碳硅道统·跨域迁移治理法典_中国商业网_snapshot.png": {
+      "sha256": "2310bbc16d195b030c1a9c0f973a3ce3ecca04056bae6530129cb991f27f676e",
+      "bytes": 1962382
+    }
+  }
+}

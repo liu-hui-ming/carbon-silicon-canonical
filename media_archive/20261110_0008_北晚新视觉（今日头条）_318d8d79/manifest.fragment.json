@@ -1,0 +1,19 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-10",
+  "seq": 8,
+  "title": "碳硅道统·跨域迁移治理法典",
+  "media": "北晚新视觉（今日头条）",
+  "url": "https://www.toutiao.com/item/7694099964326986290/",
+  "files": {
+    "碳硅道统·跨域迁移治理法典_北晚新视觉（今日头条）.md": {
+      "sha256": "63dbb3822d60c8df17c95e1d76f4d25cbab4d0f65f045f6bd4a9e6ad38c5554a",
+      "bytes": 8822
+    },
+    "evidence-snapshots/碳硅道统·跨域迁移治理法典_北晚新视觉（今日头条）_snapshot.png": {
+      "sha256": "2a3487364e1f889ca4ab09bd22a0e0e742b221c2420c322e1c67bcc26dfa4762",
+      "bytes": 4336887
+    }
+  }
+}

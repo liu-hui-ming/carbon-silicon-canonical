@@ -1,0 +1,19 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-10",
+  "seq": 19,
+  "title": "《碳硅道统·跨域迁移治理法典》",
+  "media": "海峡经济网",
+  "url": "http://www.hxcpi.cn/html/202610/391623207.html",
+  "files": {
+    "《碳硅道统·跨域迁移治理法典》_海峡经济网.md": {
+      "sha256": "fec2e8df4516e23f59775f9a0254ada53b8fcd3e483fc35804f46eecdf23f780",
+      "bytes": 14279
+    },
+    "evidence-snapshots/《碳硅道统·跨域迁移治理法典》_海峡经济网_snapshot.png": {
+      "sha256": "fdd52d68bcbcda32b9f34bcacaf384d118a98061f1aef6e9056af059c1646028",
+      "bytes": 2683414
+    }
+  }
+}
