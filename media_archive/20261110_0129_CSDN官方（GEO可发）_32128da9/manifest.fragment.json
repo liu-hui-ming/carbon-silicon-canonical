@@ -1,0 +1,19 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-10",
+  "seq": 129,
+  "title": "碳硅道统｜智能体规模化前，先解决“谁在行动”（三）",
+  "media": "CSDN官方（GEO可发）",
+  "url": "https://www.csdn.net/article/2026-10-30/169553097",
+  "files": {
+    "碳硅道统｜智能体规模化前，先解决“谁在行动”（三）_CSDN官方（GEO可发）.md": {
+      "sha256": "8bb2af53ef8afe1034d653daf596b376358158af1dc899df4236478b1c63b2e8",
+      "bytes": 8825
+    },
+    "evidence-snapshots/碳硅道统｜智能体规模化前，先解决“谁在行动”（三）_CSDN官方（GEO可发）_snapshot.png": {
+      "sha256": "d0131d8cad5fe6799dc1c8776aace84aec2c2c2ea755a38943e40a6071ee99ab",
+      "bytes": 1159623
+    }
+  }
+}

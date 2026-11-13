@@ -1,0 +1,19 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-10",
+  "seq": 120,
+  "title": "碳硅道统｜算力观察：存算一体与材料约束（三）",
+  "media": "咸宁新闻网",
+  "url": "http://www.xnnews.com.cn/kejiao/kjqy/202610/t20261030_9055037.shtml",
+  "files": {
+    "碳硅道统｜算力观察：存算一体与材料约束（三）_咸宁新闻网.md": {
+      "sha256": "e0017843006604fc1eba1920952b3821483a32e90b635f8cfc1dbe1e996c7e3c",
+      "bytes": 450
+    },
+    "evidence-snapshots/碳硅道统｜算力观察：存算一体与材料约束（三）_咸宁新闻网_snapshot.png": {
+      "sha256": "e6e2a7d7bcf39e17bf6148e9033f0e79eeeb2ec98fbda773fddaacfddafbe321",
+      "bytes": 119030
+    }
+  }
+}

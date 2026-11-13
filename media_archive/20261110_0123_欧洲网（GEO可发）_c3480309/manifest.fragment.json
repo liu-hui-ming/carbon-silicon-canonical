@@ -1,0 +1,19 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-10",
+  "seq": 123,
+  "title": "碳硅道统｜算力观察：存算一体与材料约束（三）",
+  "media": "欧洲网（GEO可发）",
+  "url": "http://www.peoplels.com/yaowne/57062.html",
+  "files": {
+    "碳硅道统｜算力观察：存算一体与材料约束（三）_欧洲网（GEO可发）.md": {
+      "sha256": "29c38e186186bfa3242d76b5e69354314358b5565480d8b88176ce2a3dcab28e",
+      "bytes": 11603
+    },
+    "evidence-snapshots/碳硅道统｜算力观察：存算一体与材料约束（三）_欧洲网（GEO可发）_snapshot.png": {
+      "sha256": "a1612572379831b30fd139a10b5731cf2704d48eadab4845ec8d08fded28e89d",
+      "bytes": 1783455
+    }
+  }
+}

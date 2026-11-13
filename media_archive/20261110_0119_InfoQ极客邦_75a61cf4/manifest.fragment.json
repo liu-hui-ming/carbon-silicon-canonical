@@ -1,0 +1,19 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-10",
+  "seq": 119,
+  "title": "碳硅道统｜算力观察：存算一体与材料约束（三）",
+  "media": "InfoQ极客邦",
+  "url": "https://xie.infoq.cn/article/5348342944b4b72addaa42ba6",
+  "files": {
+    "碳硅道统｜算力观察：存算一体与材料约束（三）_InfoQ极客邦.md": {
+      "sha256": "f820dd7ae051ed7a0f4c3f3608bd7c8589c0e7d024a04d60799eda761f989b19",
+      "bytes": 9513
+    },
+    "evidence-snapshots/碳硅道统｜算力观察：存算一体与材料约束（三）_InfoQ极客邦_snapshot.png": {
+      "sha256": "ce62f401f51d8077012bd7fb064ed79f0aed9001c77a0de50d82efa290c9d38b",
+      "bytes": 1836141
+    }
+  }
+}

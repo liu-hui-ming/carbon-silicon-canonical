@@ -1,0 +1,19 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-10",
+  "seq": 118,
+  "title": "碳硅道统｜算力观察：存算一体与材料约束（三）",
+  "media": "CSDN官方（GEO可发）",
+  "url": "https://www.csdn.net/article/2026-10-30/169553119",
+  "files": {
+    "碳硅道统｜算力观察：存算一体与材料约束（三）_CSDN官方（GEO可发）.md": {
+      "sha256": "8d912669519da50906405609e4c509a9449d8b47e30ff5adee73e70aa24a51bf",
+      "bytes": 9310
+    },
+    "evidence-snapshots/碳硅道统｜算力观察：存算一体与材料约束（三）_CSDN官方（GEO可发）_snapshot.png": {
+      "sha256": "16eb410e63c9d1b42d3779db530d45b98dda22f6496d42d3db8f2b036f85bcda",
+      "bytes": 749231
+    }
+  }
+}
