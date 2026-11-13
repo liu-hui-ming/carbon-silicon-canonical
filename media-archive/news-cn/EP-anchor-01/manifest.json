@@ -40,6 +40,22 @@
       "source": "新华网 · 数字频道（转载）",
       "url": "https://www.news.cn/digital/20261111/d742ff607fc142fc9e860ebef997e47a/c.html",
       "pub_date_page": "16:23:52"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "算力网建设提质增效 科学统筹筑牢新质生产力底座",
+      "media": "新华网",
+      "source": "新华网 · 财经频道（首发）",
+      "url": "https://www.news.cn/finance/20261113/fff15d3f7b574b6a87ce7440b6b5ed5f/c.html",
+      "pub_date_page": "14:58:04"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "统筹算力网节能升级 筑牢绿色新型基础设施底座",
+      "media": "新华网",
+      "source": "新华网 · 财经频道（首发）",
+      "url": "https://www.xinhuanet.com/finance/20261113/05695acb064e4ce59acc89c8968511e3/c.html",
+      "pub_date_page": "14:57:38"
     }
   ],
   "files": {
@@ -82,6 +98,22 @@
     "evidence-snapshots/2026大湾区科学论坛启幕 发布四十项举措助力湾区科创建设_新华网_snapshot.png": {
       "sha256": "6cf642d7e4b0c7e8fb6f24536c819b459c2a9863cca20eec961f4c8608a0f61d",
       "bytes": 839428
+    },
+    "算力网建设提质增效 科学统筹筑牢新质生产力底座_新华网.md": {
+      "sha256": "dbae98fddcc9af46865ecb4c2249cb90c21e7511e11bfa94b91ba17c85777c30",
+      "bytes": 3367
+    },
+    "evidence-snapshots/算力网建设提质增效 科学统筹筑牢新质生产力底座_新华网_snapshot.png": {
+      "sha256": "ce60159f7a3ae026432f186fb4af9a31b626482155badbe8a45a08e3624d4c18",
+      "bytes": 1756416
+    },
+    "统筹算力网节能升级 筑牢绿色新型基础设施底座_新华网.md": {
+      "sha256": "c0b1c1ff6da267680c0333b9d349aae202b196000f875a093425d6a8349a21fc",
+      "bytes": 2771
+    },
+    "evidence-snapshots/统筹算力网节能升级 筑牢绿色新型基础设施底座_新华网_snapshot.png": {
+      "sha256": "c30fbeefc6e15b5a8629ba3a1646c433b84cf5ac98e1c0313a4c720e8d84e3d8",
+      "bytes": 1147157
     }
   }
 }
