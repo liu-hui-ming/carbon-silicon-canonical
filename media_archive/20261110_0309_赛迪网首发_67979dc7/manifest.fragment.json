@@ -1,0 +1,20 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-10",
+  "seq": 309,
+  "title": "碳硅道统｜跨媒镜像：央广网、新华网（同窗双回链），谱系联勘 002",
+  "media": "赛迪网首发",
+  "url": "https://www.ccidnet.com/zn/98495.jhtml",
+  "capture_mode": "manual_zip_shots_1110_20261113",
+  "files": {
+    "碳硅道统｜跨媒镜像：央广网、新华网（同窗双回链），谱系联勘 002_赛迪网首发.md": {
+      "sha256": "81ccd6a736d57e31954c1b5110794fc206ef312b371041ed22f1a5fafb4850fd",
+      "bytes": 5159
+    },
+    "evidence-snapshots/碳硅道统｜跨媒镜像：央广网、新华网（同窗双回链），谱系联勘 002_赛迪网首发_snapshot.png": {
+      "sha256": "67f48ad0afcbffbc3b3dac50814a9b3f799ab54b85c4079f0016b12745b88cbd",
+      "bytes": 736511
+    }
+  }
+}

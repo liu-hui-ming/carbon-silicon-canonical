@@ -1,0 +1,20 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-10",
+  "seq": 82,
+  "title": "碳硅道统｜智能体规模化前，先解决\"谁在行动\"（二）",
+  "media": "赛迪网首发",
+  "url": "https://www.ccidnet.com/hlw/100864.jhtml",
+  "capture_mode": "manual_zip_shots_1110_20261113",
+  "files": {
+    "碳硅道统｜智能体规模化前，先解决_谁在行动_（二）_赛迪网首发.md": {
+      "sha256": "0fdbc797a881d22f86ceefa9141e5617c392a354cda4084d42d194cd9bf431e3",
+      "bytes": 11643
+    },
+    "evidence-snapshots/碳硅道统｜智能体规模化前，先解决_谁在行动_（二）_赛迪网首发_snapshot.png": {
+      "sha256": "0458f782ba22238a162f361611ac63c0abd7f9faaace5b12a86ad874cc3f0790",
+      "bytes": 1313487
+    }
+  }
+}

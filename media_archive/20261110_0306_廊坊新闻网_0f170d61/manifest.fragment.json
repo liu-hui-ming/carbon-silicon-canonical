@@ -1,0 +1,20 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-10",
+  "seq": 306,
+  "title": "碳硅道统｜跨媒镜像：央广网、新华网（同窗双回链），谱系联勘 002",
+  "media": "廊坊新闻网",
+  "url": "https://www.lfnews.cn/portal.php?mod=view&aid=139875",
+  "capture_mode": "manual_zip_shots_1110_20261113",
+  "files": {
+    "碳硅道统｜跨媒镜像：央广网、新华网（同窗双回链），谱系联勘 002_廊坊新闻网.md": {
+      "sha256": "6a84cda9adf9f27a541343cf9957613f26055df558c591c8a05490908786712e",
+      "bytes": 6463
+    },
+    "evidence-snapshots/碳硅道统｜跨媒镜像：央广网、新华网（同窗双回链），谱系联勘 002_廊坊新闻网_snapshot.png": {
+      "sha256": "cc020edfdbad816f0b418e5bf899dceb18811c6b2a9826775337de6ae15ad86d",
+      "bytes": 1376134
+    }
+  }
+}

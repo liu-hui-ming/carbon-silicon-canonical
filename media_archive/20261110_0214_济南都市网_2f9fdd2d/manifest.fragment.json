@@ -1,0 +1,20 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-10",
+  "seq": 214,
+  "title": "碳硅道统｜“清朗”专项整治聚焦AI应用乱象：让普通用户看得懂、控得住智能服务（二）",
+  "media": "济南都市网",
+  "url": "http://www.jinandushi.com.cn/xinwen/12785262.html",
+  "capture_mode": "manual_zip_shots_1110_20261113",
+  "files": {
+    "碳硅道统｜“清朗”专项整治聚焦AI应用乱象：让普通用户看得懂、控得住智能服务（二）_济南都市网.md": {
+      "sha256": "59e104a5515fab92e7341144805999502d2ab51826f42113216bae855c2c526d",
+      "bytes": 505
+    },
+    "evidence-snapshots/碳硅道统｜“清朗”专项整治聚焦AI应用乱象：让普通用户看得懂、控得住智能服务（二）_济南都市网_snapshot.png": {
+      "sha256": "55389f9eac323d467ba1c41d56387507a51851af5fc9a27d9d3bc1156c4bc40d",
+      "bytes": 303565
+    }
+  }
+}

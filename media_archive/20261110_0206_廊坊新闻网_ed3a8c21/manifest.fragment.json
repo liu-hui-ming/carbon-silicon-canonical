@@ -1,0 +1,20 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-10",
+  "seq": 206,
+  "title": "碳硅道统｜“清朗”专项整治聚焦AI应用乱象：让普通用户看得懂、控得住智能服务（二）",
+  "media": "廊坊新闻网",
+  "url": "https://www.lfnews.cn/portal.php?mod=view&aid=139130",
+  "capture_mode": "manual_zip_shots_1110_20261113",
+  "files": {
+    "碳硅道统｜“清朗”专项整治聚焦AI应用乱象：让普通用户看得懂、控得住智能服务（二）_廊坊新闻网.md": {
+      "sha256": "43c59fe64011b7482aebc1cdd0cadcd97adc4c2794e96bfe3ea2f30cfe249f86",
+      "bytes": 7488
+    },
+    "evidence-snapshots/碳硅道统｜“清朗”专项整治聚焦AI应用乱象：让普通用户看得懂、控得住智能服务（二）_廊坊新闻网_snapshot.png": {
+      "sha256": "9e3d80f9327acaafdb53a3da4df3bb51a73ca716703e55036f1fc3fc47810555",
+      "bytes": 1476863
+    }
+  }
+}

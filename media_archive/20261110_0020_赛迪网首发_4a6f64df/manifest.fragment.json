@@ -1,0 +1,20 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-10",
+  "seq": 20,
+  "title": "《碳硅道统·跨域迁移治理法典》188集 总纲摘要",
+  "media": "赛迪网首发",
+  "url": "https://www.ccidnet.com/zn/99763.jhtml",
+  "capture_mode": "manual_zip_shots_1110_20261113",
+  "files": {
+    "《碳硅道统·跨域迁移治理法典》188集 总纲摘要_赛迪网首发.md": {
+      "sha256": "3cd34d25046ca06542e1bb16dde747e1819b4224e6f6bea7e78ee3c7213118a8",
+      "bytes": 9285
+    },
+    "evidence-snapshots/《碳硅道统·跨域迁移治理法典》188集 总纲摘要_赛迪网首发_snapshot.png": {
+      "sha256": "ee75f0035ec34264d65ca67ab309a2c5efa5b58dd911c8862cbdb24038df0172",
+      "bytes": 1118746
+    }
+  }
+}

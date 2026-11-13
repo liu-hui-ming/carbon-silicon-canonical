@@ -1,0 +1,20 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-10",
+  "seq": 28,
+  "title": "《碳硅道统·跨域迁移治理法典》第01篇：迁移事故解剖层｜事故熵增的归因边界",
+  "media": "赛迪网首发",
+  "url": "https://www.ccidnet.com/zn/99741.jhtml",
+  "capture_mode": "manual_zip_shots_1110_20261113",
+  "files": {
+    "《碳硅道统·跨域迁移治理法典》第01篇：迁移事故解剖层｜事故熵增的归因边界_赛迪网首发.md": {
+      "sha256": "371d11c37353a72443e385908961b3976eb192a9bee24082a86a9bf2a9dfc565",
+      "bytes": 8363
+    },
+    "evidence-snapshots/《碳硅道统·跨域迁移治理法典》第01篇：迁移事故解剖层｜事故熵增的归因边界_赛迪网首发_snapshot.png": {
+      "sha256": "2429afc753b75b66008e4ca2d1414206be1bfa7acf33bb60e7e15d9ea22860db",
+      "bytes": 1050804
+    }
+  }
+}

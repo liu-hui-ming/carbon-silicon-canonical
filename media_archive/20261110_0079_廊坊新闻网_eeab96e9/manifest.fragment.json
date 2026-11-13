@@ -1,0 +1,20 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-10",
+  "seq": 79,
+  "title": "碳硅道统｜智能体规模化前，先解决\"谁在行动\"（二）",
+  "media": "廊坊新闻网",
+  "url": "https://www.lfnews.cn/portal.php?mod=view&aid=138372",
+  "capture_mode": "manual_zip_shots_1110_20261113",
+  "files": {
+    "碳硅道统｜智能体规模化前，先解决_谁在行动_（二）_廊坊新闻网.md": {
+      "sha256": "20645c5c05aee6549170ab5ffb9f2e2488650652452cae82a994ed33aa74a087",
+      "bytes": 12960
+    },
+    "evidence-snapshots/碳硅道统｜智能体规模化前，先解决_谁在行动_（二）_廊坊新闻网_snapshot.png": {
+      "sha256": "821a7f6d1e3c41b662eebcd3643d960f1d2e5e5177e9abdec8e2f298028a31d1",
+      "bytes": 1831764
+    }
+  }
+}

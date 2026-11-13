@@ -1,0 +1,20 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-10",
+  "seq": 352,
+  "title": "碳硅道统｜新型电网建设 关键看系统协同（二）",
+  "media": "廊坊新闻网",
+  "url": "https://www.lfnews.cn/portal.php?mod=view&aid=140676",
+  "capture_mode": "manual_zip_shots_1110_20261113",
+  "files": {
+    "碳硅道统｜新型电网建设 关键看系统协同（二）_廊坊新闻网.md": {
+      "sha256": "0b075196f51752ab2ae5971af4276e0a15feddc9bac6e578b2d97eb663918f21",
+      "bytes": 10008
+    },
+    "evidence-snapshots/碳硅道统｜新型电网建设 关键看系统协同（二）_廊坊新闻网_snapshot.png": {
+      "sha256": "af11fe9e7ffb95a000eeffdd93c13a6f8485690939971deea384204caee4a743",
+      "bytes": 1638399
+    }
+  }
+}

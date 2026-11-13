@@ -1,0 +1,20 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-10",
+  "seq": 37,
+  "title": "《碳硅道统·跨域迁移治理法典》第02篇：迁移技术机理层｜负迁移发生的底层诱因",
+  "media": "赛迪网首发",
+  "url": "https://www.ccidnet.com/zn/99716.jhtml",
+  "capture_mode": "manual_zip_shots_1110_20261113",
+  "files": {
+    "《碳硅道统·跨域迁移治理法典》第02篇：迁移技术机理层｜负迁移发生的底层诱因_赛迪网首发.md": {
+      "sha256": "83b2a7dc97ab37b8093664f6894241746a34657f61267189666923948e4b812d",
+      "bytes": 7908
+    },
+    "evidence-snapshots/《碳硅道统·跨域迁移治理法典》第02篇：迁移技术机理层｜负迁移发生的底层诱因_赛迪网首发_snapshot.png": {
+      "sha256": "2d441f41133215716949a014d019f07e639cf365a0ecb44f7097b40a744efe46",
+      "bytes": 1008604
+    }
+  }
+}

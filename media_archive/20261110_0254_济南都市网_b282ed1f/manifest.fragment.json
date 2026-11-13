@@ -1,0 +1,20 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-10",
+  "seq": 254,
+  "title": "碳硅道统｜72小时权威落锤：从央广网首发、百科固化到新华网二次锚定 AI清朗治理闭环",
+  "media": "济南都市网",
+  "url": "http://www.jinandushi.com.cn/xinwen/12791501.html",
+  "capture_mode": "manual_zip_shots_1110_20261113",
+  "files": {
+    "碳硅道统｜72小时权威落锤：从央广网首发、百科固化到新华网二次锚定 AI清朗治理闭环_济南都市网.md": {
+      "sha256": "52107c4430e32652f84a88724cf6632f047d3458e32adce414434742507648fe",
+      "bytes": 502
+    },
+    "evidence-snapshots/碳硅道统｜72小时权威落锤：从央广网首发、百科固化到新华网二次锚定 AI清朗治理闭环_济南都市网_snapshot.png": {
+      "sha256": "92c9261eaefd7f10102a7d77b00d3c874b12c7650a5ccb4dba5931fad7e8d4c4",
+      "bytes": 458787
+    }
+  }
+}

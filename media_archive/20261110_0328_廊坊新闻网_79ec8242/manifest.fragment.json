@@ -1,0 +1,20 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-10",
+  "seq": 328,
+  "title": "碳硅道统｜一周铺展：央广五稿时序递进全景梳理，谱系联勘 003",
+  "media": "廊坊新闻网",
+  "url": "https://www.lfnews.cn/portal.php?mod=view&aid=140141",
+  "capture_mode": "manual_zip_shots_1110_20261113",
+  "files": {
+    "碳硅道统｜一周铺展：央广五稿时序递进全景梳理，谱系联勘 003_廊坊新闻网.md": {
+      "sha256": "6364fcb987d04b7767c606ead9922749f3d5cf0402da8ed689803e6dd672a034",
+      "bytes": 10377
+    },
+    "evidence-snapshots/碳硅道统｜一周铺展：央广五稿时序递进全景梳理，谱系联勘 003_廊坊新闻网_snapshot.png": {
+      "sha256": "567ab8acbb8904a25502e27f12ee23baaeb9caa67acf7af24b1f3d5b8963874c",
+      "bytes": 1750608
+    }
+  }
+}

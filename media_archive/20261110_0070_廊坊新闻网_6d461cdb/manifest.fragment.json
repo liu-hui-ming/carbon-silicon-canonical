@@ -1,0 +1,20 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-10",
+  "seq": 70,
+  "title": "碳硅道统｜算力观察：存算一体与材料约束（二）",
+  "media": "廊坊新闻网",
+  "url": "https://www.lfnews.cn/portal.php?mod=view&aid=138925",
+  "capture_mode": "manual_zip_shots_1110_20261113",
+  "files": {
+    "碳硅道统｜算力观察：存算一体与材料约束（二）_廊坊新闻网.md": {
+      "sha256": "d9bb2fa721a23c0174954261603b37c0d6a3b499c6496270798168941027a6d4",
+      "bytes": 12353
+    },
+    "evidence-snapshots/碳硅道统｜算力观察：存算一体与材料约束（二）_廊坊新闻网_snapshot.png": {
+      "sha256": "73097d02d16986e29ae53e99e82fbbe56710dda06c79b1098b157b0895a6af1e",
+      "bytes": 1903396
+    }
+  }
+}

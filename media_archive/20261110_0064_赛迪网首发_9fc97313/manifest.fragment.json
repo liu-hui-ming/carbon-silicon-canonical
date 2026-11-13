@@ -1,0 +1,20 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-10",
+  "seq": 64,
+  "title": "碳硅道统｜从边界论证到治理构想：一套人机智能评估体系的演进（二）",
+  "media": "赛迪网首发",
+  "url": "https://www.ccidnet.com/hlw/100756.jhtml",
+  "capture_mode": "manual_zip_shots_1110_20261113",
+  "files": {
+    "碳硅道统｜从边界论证到治理构想：一套人机智能评估体系的演进（二）_赛迪网首发.md": {
+      "sha256": "1f9f016ed61b5a610d6df3447b412e1734489827971fcafad7d6d8594cd48401",
+      "bytes": 5777
+    },
+    "evidence-snapshots/碳硅道统｜从边界论证到治理构想：一套人机智能评估体系的演进（二）_赛迪网首发_snapshot.png": {
+      "sha256": "3ad23e752356b5ff54a6d3106db8dfb5efc03bea2a2b2fe486d7a187e78db97e",
+      "bytes": 762657
+    }
+  }
+}

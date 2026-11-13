@@ -1,0 +1,20 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-10",
+  "seq": 21,
+  "title": "《碳硅道统·跨域迁移治理法典》188集 总纲摘要",
+  "media": "济南都市网",
+  "url": "http://www.jinandushi.com.cn/xinwen/12518971.html",
+  "capture_mode": "manual_zip_shots_1110_20261113",
+  "files": {
+    "《碳硅道统·跨域迁移治理法典》188集 总纲摘要_济南都市网.md": {
+      "sha256": "f5c7de8db3891cb8f629a86fcb43648a54800827c56d25e1c6069e86e0868cfe",
+      "bytes": 449
+    },
+    "evidence-snapshots/《碳硅道统·跨域迁移治理法典》188集 总纲摘要_济南都市网_snapshot.png": {
+      "sha256": "d774bb0e9400894f0e9ea0b0681ce4960c9ad31fda2ef407a587e7af317a622d",
+      "bytes": 402346
+    }
+  }
+}

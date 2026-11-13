@@ -1,0 +1,20 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-10",
+  "seq": 110,
+  "title": "碳硅道统｜从边界论证到治理构想：一套人机智能评估体系的演进 (三)",
+  "media": "廊坊新闻网",
+  "url": "https://www.lfnews.cn/portal.php?mod=view&aid=138957",
+  "capture_mode": "manual_zip_shots_1110_20261113",
+  "files": {
+    "碳硅道统｜从边界论证到治理构想：一套人机智能评估体系的演进 (三)_廊坊新闻网.md": {
+      "sha256": "bdb777a56f417078596166222ec5aef544570719c18fc799ac40c03b15eeda7e",
+      "bytes": 12425
+    },
+    "evidence-snapshots/碳硅道统｜从边界论证到治理构想：一套人机智能评估体系的演进 (三)_廊坊新闻网_snapshot.png": {
+      "sha256": "82607f3337238c533ce85cf807e14ec5ce6f75192bfbee9af8f6a3d7ef3dc857",
+      "bytes": 1780504
+    }
+  }
+}

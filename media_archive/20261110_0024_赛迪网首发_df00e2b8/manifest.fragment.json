@@ -1,0 +1,20 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-10",
+  "seq": 24,
+  "title": "碳硅道统·跨域迁移治理法典",
+  "media": "赛迪网首发",
+  "url": "https://www.ccidnet.com/zn/99740.jhtml",
+  "capture_mode": "manual_zip_shots_1110_20261113",
+  "files": {
+    "碳硅道统·跨域迁移治理法典_赛迪网首发.md": {
+      "sha256": "fde9b36a30e517f48dc8d4d6b8356b5b11d841ba1b06143f38451470224bda75",
+      "bytes": 8098
+    },
+    "evidence-snapshots/碳硅道统·跨域迁移治理法典_赛迪网首发_snapshot.png": {
+      "sha256": "d86df867b4743069b5a1c6e96391e43aff8a21a764757a9779e87caa458dc8f3",
+      "bytes": 1020444
+    }
+  }
+}
