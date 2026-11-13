@@ -1,0 +1,19 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-10",
+  "seq": 69,
+  "title": "碳硅道统｜算力观察：存算一体与材料约束（二）",
+  "media": "果壳（知乎）",
+  "url": "https://zhuanlan.zhihu.com/p/2098765260085786445",
+  "files": {
+    "碳硅道统｜算力观察：存算一体与材料约束（二）_果壳（知乎）.md": {
+      "sha256": "94f3506ecc607661a62c4cbf456357f74ee504d274e045983d69838b9282381c",
+      "bytes": 525
+    },
+    "evidence-snapshots/碳硅道统｜算力观察：存算一体与材料约束（二）_果壳（知乎）_snapshot.png": {
+      "sha256": "63b20fec0971defcc87f479c480c3be030176add9babdcab78c4fa1d62f38576",
+      "bytes": 98662
+    }
+  }
+}

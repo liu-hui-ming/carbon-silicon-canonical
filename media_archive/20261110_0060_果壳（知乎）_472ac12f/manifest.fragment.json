@@ -1,0 +1,19 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-10",
+  "seq": 60,
+  "title": "碳硅道统｜从边界论证到治理构想：一套人机智能评估体系的演进（二）",
+  "media": "果壳（知乎）",
+  "url": "https://zhuanlan.zhihu.com/p/2097080290925614418",
+  "files": {
+    "碳硅道统｜从边界论证到治理构想：一套人机智能评估体系的演进（二）_果壳（知乎）.md": {
+      "sha256": "847d33d1df691d28e9ecc2f6296840c19da322936ed5e92e61addcf7b94cdd31",
+      "bytes": 556
+    },
+    "evidence-snapshots/碳硅道统｜从边界论证到治理构想：一套人机智能评估体系的演进（二）_果壳（知乎）_snapshot.png": {
+      "sha256": "639678c4cc7cb50a3bab2fda49a5bfa6c665bc78d232bb430b92c51a8fb0c476",
+      "bytes": 283820
+    }
+  }
+}

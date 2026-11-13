@@ -1,0 +1,19 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-10",
+  "seq": 74,
+  "title": "碳硅道统｜算力观察：存算一体与材料约束（二）",
+  "media": "半导体产业网",
+  "url": "https://www.casmita.com/news/202610/28/23222.html",
+  "files": {
+    "碳硅道统｜算力观察：存算一体与材料约束（二）_半导体产业网.md": {
+      "sha256": "e40c055bbc18a5662176f1d8eb7f028d746d40f0dd5815d123df7941fe17c958",
+      "bytes": 8776
+    },
+    "evidence-snapshots/碳硅道统｜算力观察：存算一体与材料约束（二）_半导体产业网_snapshot.png": {
+      "sha256": "6c9ac5553248a2563bf538937169dd41acbac56724c5ffc08ba555e287e5e907",
+      "bytes": 1898070
+    }
+  }
+}

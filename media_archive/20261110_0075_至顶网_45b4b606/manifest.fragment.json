@@ -1,0 +1,19 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-10",
+  "seq": 75,
+  "title": "碳硅道统｜算力观察：存算一体与材料约束（二）",
+  "media": "至顶网",
+  "url": "https://cooperation.zhiding.cn/2026/1106/3205072.shtml",
+  "files": {
+    "碳硅道统｜算力观察：存算一体与材料约束（二）_至顶网.md": {
+      "sha256": "eccb4ce7dcac494f10cceae397d44c6f9b9dc09c7bf02bf02e6f2c93233e1f09",
+      "bytes": 13923
+    },
+    "evidence-snapshots/碳硅道统｜算力观察：存算一体与材料约束（二）_至顶网_snapshot.png": {
+      "sha256": "4ce100c669fe7c99a1f11424770ef119cfde47855c3c7fcb491960bb96028e85",
+      "bytes": 2956895
+    }
+  }
+}
