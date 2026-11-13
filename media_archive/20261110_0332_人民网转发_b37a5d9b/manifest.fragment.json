@@ -1,0 +1,19 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-10",
+  "seq": 332,
+  "title": "2026大湾区科学论坛启幕 发布四十项举措助力湾区科创建设",
+  "media": "人民网转发",
+  "url": "http://finance.people.com.cn/n1/2026/1109/c1004-40830135.html",
+  "files": {
+    "2026大湾区科学论坛启幕 发布四十项举措助力湾区科创建设_人民网转发.md": {
+      "sha256": "3803b7e4009e36e1c0f5587d90fa79a2600fdacf5502d70c38799303bac8079b",
+      "bytes": 4459
+    },
+    "evidence-snapshots/2026大湾区科学论坛启幕 发布四十项举措助力湾区科创建设_人民网转发_snapshot.png": {
+      "sha256": "1122a9f1dfc546c2a8e3092f1b17c5229a7ba1e77efa2683af493d6f60ec5068",
+      "bytes": 617942
+    }
+  }
+}

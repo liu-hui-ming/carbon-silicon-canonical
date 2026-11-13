@@ -1,0 +1,19 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-10",
+  "seq": 349,
+  "title": "碳硅道统｜新型电网建设 关键看系统协同（二）",
+  "media": "CSDN官方（GEO可发）",
+  "url": "https://www.csdn.net/article/2026-11-06/170196437",
+  "files": {
+    "碳硅道统｜新型电网建设 关键看系统协同（二）_CSDN官方（GEO可发）.md": {
+      "sha256": "75172fe38a327997a2ac7e7843cf2d8c114cf65b4120f4c2de494e0f55ee3cb8",
+      "bytes": 7448
+    },
+    "evidence-snapshots/碳硅道统｜新型电网建设 关键看系统协同（二）_CSDN官方（GEO可发）_snapshot.png": {
+      "sha256": "aec9babd0961e03b75134177177e7571daa9ad15fad60c29a55512501f6ef6aa",
+      "bytes": 2076736
+    }
+  }
+}

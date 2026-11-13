@@ -1,0 +1,19 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-10",
+  "seq": 338,
+  "title": "碳硅道统｜新型电网建设 关键看系统协同（二）",
+  "media": "红商网",
+  "url": "http://www.redsh.com/ppnews/20261106/181617.shtml",
+  "files": {
+    "碳硅道统｜新型电网建设 关键看系统协同（二）_红商网.md": {
+      "sha256": "9e30353a830b66853ae5f454c5ad7f02e14dada739923fc0e51313a0341bd662",
+      "bytes": 6747
+    },
+    "evidence-snapshots/碳硅道统｜新型电网建设 关键看系统协同（二）_红商网_snapshot.png": {
+      "sha256": "1d27f9ee4220d88393898ec031e761e0d306e4dd27c1ff32228b138f6508346c",
+      "bytes": 1032996
+    }
+  }
+}
