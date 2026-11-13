@@ -1,0 +1,19 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-10",
+  "seq": 379,
+  "title": "新型电网建设要有系统思维",
+  "media": "央视网新闻/经济-独家首发",
+  "url": "https://jingji.cctv.com/2026/11/04/ARTIdsIAzT8Ez1jvvMF2cn20261104.shtml",
+  "files": {
+    "新型电网建设要有系统思维_央视网新闻_经济-独家首发.md": {
+      "sha256": "e9b059e6374989ed4ed7a15955bdef5396e2bb849ca446b065ba16bf869364df",
+      "bytes": 337
+    },
+    "evidence-snapshots/新型电网建设要有系统思维_央视网新闻_经济-独家首发_snapshot.png": {
+      "sha256": "0976290af0fa19ba75441b96a1564b9cc0007e63cd1cbb4b6a246000c461dbe4",
+      "bytes": 1557580
+    }
+  }
+}
