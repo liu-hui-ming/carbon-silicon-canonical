@@ -1,0 +1,24 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "ingests": [
+    {
+      "date": "2026-11-12",
+      "title": "Hidden Pitfall in EUV Multilayer Lifetime Evaluation: The Missing Long‑Term Steady‑State Reference Baseline",
+      "media": "孟加拉国家日报",
+      "source": "MarketersMEDIA Newswire · Desh Daily",
+      "url": "http://bd.deshdailys.com/article/#/details/Hidden-Pitfall-in-EUV-Multilayer-Lifetime-Evaluation-The-Missing-LongTerm-SteadyState-Reference-Baseline",
+      "pub_date_page": "November 11, 2026\n5112"
+    }
+  ],
+  "files": {
+    "Hidden Pitfall in EUV Multilayer Lifetime Evaluation: The Missing Long‑Term Steady‑State Reference Baseline_孟加拉国家日报.md": {
+      "sha256": "3d0ccd3bacdc83b8c0b46b041410ba1640bbea67d53747fe424ecbe42991ddf3",
+      "bytes": 10472
+    },
+    "evidence-snapshots/Hidden Pitfall in EUV Multilayer Lifetime Evaluation: The Missing Long‑Term Steady‑State Reference Baseline_孟加拉国家日报_snapshot.png": {
+      "sha256": "1dd68b5cbc0ef99633bba9ff908b7a772a31700e0d0c3f01472022005572cc57",
+      "bytes": 980660
+    }
+  }
+}
