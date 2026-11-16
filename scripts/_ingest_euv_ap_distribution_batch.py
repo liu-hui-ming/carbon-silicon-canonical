@@ -124,10 +124,15 @@ def extract_body(page) -> tuple[str, str]:
     return text, pub
 
 
+def artifact_names(job: dict) -> tuple[str, str]:
+    """Short on-disk names avoid Windows MAX_PATH truncation on long English titles."""
+    tag = safe(job["media_cn"])[:36]
+    stem = f"EP-EUV-{int(job['no']):03d}_{tag}"
+    return f"{stem}.md", f"{stem}_snapshot.png"
+
+
 def write_md(base: Path, title: str, job: dict, body: str, pub: str) -> tuple[Path, str, str]:
-    suffix = safe(job["media_cn"])
-    md_name = f"{title}_{suffix}.md"
-    png_name = f"{title}_{suffix}_snapshot.png"
+    md_name, png_name = artifact_names(job)
     lines = [
         f"# {title}",
         "",
@@ -194,15 +199,51 @@ def rebuild_sums(base: Path) -> None:
     (base / "SHA256SUMS.txt").write_text("\n".join(lines) + "\n", encoding="utf-8", newline="\n")
 
 
-def append_index(job: dict, title: str, md_h: str, png_h: str) -> None:
+def append_index(job: dict, title: str, md_h: str, png_h: str, *, repair: bool = False) -> None:
     rel = f"media-archive/{job['media_key']}/{ANCHOR}/"
     line = f"| {DATE_ROW} | {ANCHOR} | {job['media_cn']} | {title} | `{md_h}` | `{png_h}` | `{rel}` |"
     text = INDEX_PATH.read_text(encoding="utf-8") if INDEX_PATH.is_file() else (
         "# media-archive INDEX\n\n| 日期 | 锚点 | 媒体 | 标题 | MD SHA256 | PNG SHA256 | 路径 |\n"
         "| --- | --- | --- | --- | --- | --- | --- |\n"
     )
-    if md_h not in text and job["url"] not in text:
+    if repair and title in text and job["media_cn"] in text:
+        lines_out: list[str] = []
+        for ln in text.splitlines():
+            if (
+                title in ln
+                and job["media_cn"] in ln
+                and ANCHOR in ln
+                and ln.strip().startswith("|")
+            ):
+                lines_out.append(line)
+            else:
+                lines_out.append(ln)
+        INDEX_PATH.write_text("\n".join(lines_out) + "\n", encoding="utf-8", newline="\n")
+    elif md_h not in text and job["url"] not in text:
         INDEX_PATH.write_text(text.rstrip() + "\n" + line + "\n", encoding="utf-8", newline="\n")
+
+
+def prune_stale_artifacts(base: Path) -> None:
+    for p in list(base.iterdir()):
+        if p.is_file() and p.suffix not in {".md", ".json", ".txt"}:
+            p.unlink(missing_ok=True)
+    ev = base / "evidence-snapshots"
+    if ev.is_dir():
+        for p in ev.iterdir():
+            if p.is_file() and p.suffix.lower() != ".png":
+                p.unlink(missing_ok=True)
+
+
+def capture_needed(base: Path, job: dict, repair: bool) -> bool:
+    if repair:
+        return True
+    if index_has_url(job["url"]) or manifest_has_url(base, job["url"]):
+        _, png_name = artifact_names(job)
+        png = base / "evidence-snapshots" / png_name
+        if png.is_file() and png.stat().st_size >= 50_000:
+            return False
+        return True
+    return True
 
 
 def build_jobs(rows: list[dict]) -> list[dict]:
@@ -236,6 +277,11 @@ def main() -> int:
         "--edge",
         action="store_true",
         help="Use system Edge (many distribution mirrors fail with ERR_BLOCKED_BY_CLIENT)",
+    )
+    ap.add_argument(
+        "--repair",
+        action="store_true",
+        help="Re-capture even if URL in manifest; fix truncated/empty PNG (short filenames)",
     )
     args = ap.parse_args()
 
@@ -272,10 +318,11 @@ def main() -> int:
             snap.prepare_maximized_page(page, rounds=3)
             for job in jobs:
                 base = ROOT / "media-archive" / job["media_key"] / ANCHOR
-                if index_has_url(job["url"]) or manifest_has_url(base, job["url"]):
+                if not capture_needed(base, job, args.repair):
                     skip += 1
                     print(f"skip no={job['no']} {job['media_key']}", flush=True)
                     continue
+                prune_stale_artifacts(base)
                 ev = base / "evidence-snapshots"
                 ev.mkdir(parents=True, exist_ok=True)
                 print(f"capture no={job['no']} {job['media_cn'][:24]}", flush=True)
@@ -306,7 +353,7 @@ def main() -> int:
                         pub,
                     )
                     rebuild_sums(base)
-                    append_index(job, title, md_h, png_h)
+                    append_index(job, title, md_h, png_h, repair=args.repair)
                     with AUDIT.open("a", encoding="utf-8", newline="\n") as f:
                         f.write(
                             f"ok no={job['no']} media={job['media_cn']} md={md_h} png={png_h} url={job['url']}\n"

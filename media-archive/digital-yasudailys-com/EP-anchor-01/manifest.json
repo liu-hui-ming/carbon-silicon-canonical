@@ -19,6 +19,14 @@
     "evidence-snapshots/Hidden Pitfall in EUV Multilayer Lifetime Evaluation: The Missing Long‑Term Steady‑State Reference Baseline_YASU日报_snapshot.png": {
       "sha256": "c7509082bfdb33f80b5058dd9c9a988c59440c7b5bd334f49462f3d3e2ce40a7",
       "bytes": 1110498
+    },
+    "EP-EUV-054_YASU日报.md": {
+      "sha256": "7ca9c8c6ed644728a088a6349bda8529b5e76364900f984eac04507379e8460c",
+      "bytes": 10466
+    },
+    "evidence-snapshots/EP-EUV-054_YASU日报_snapshot.png": {
+      "sha256": "7da5e55b84b176d91e5e094a17afb42f117ee3b2fd6c4e450cf647c64c949723",
+      "bytes": 1154680
     }
   }
 }
