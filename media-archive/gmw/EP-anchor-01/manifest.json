@@ -41,6 +41,14 @@
       "source": "光明网 · 经济科技（首发）",
       "url": "https://economy.gmw.cn/2026-11/12/content_39098453.htm",
       "pub_date_page": "2026-11-12T13:45:22+08:00"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "启元机器人个人机器人实现万台下线",
+      "media": "光明网",
+      "source": "光明网 · 经济频道",
+      "url": "https://economy.gmw.cn/2026-11/13/content_39100464.htm",
+      "pub_date_page": "2026-11-13T17:48:25+08:00"
     }
   ],
   "files": {
@@ -83,6 +91,14 @@
     "evidence-snapshots/卫星互联网低轨29组升空：太空组网进入批量部署_光明网经济_snapshot.png": {
       "sha256": "f5f1cc81c1108baffe117a8d1d9258ed292292ce7b2fe7e4a678588e2f30f6e3",
       "bytes": 2370676
+    },
+    "启元机器人个人机器人实现万台下线_光明网经济.md": {
+      "sha256": "95fc7e6d6ad88768b6cd68ca842547659f25a16d9705c9bb0924b31d116a3080",
+      "bytes": 11711
+    },
+    "evidence-snapshots/启元机器人个人机器人实现万台下线_光明网经济_snapshot.png": {
+      "sha256": "e49e412203a9c1a9776d19e7fb0f610f73f0a40c6b183d37ab025c048eb795d8",
+      "bytes": 2668969
     }
   }
 }
