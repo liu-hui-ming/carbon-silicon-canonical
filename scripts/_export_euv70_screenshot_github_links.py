@@ -38,12 +38,19 @@ def main() -> None:
         base = ROOT / "media-archive" / slug / "EP-anchor-01"
         mp = base / "manifest.json"
         png_key = None
-        if mp.is_file():
+        ev = base / "evidence-snapshots"
+        shot = sorted(ev.glob("EP-EUV-*_snapshot.png")) if ev.is_dir() else []
+        if shot:
+            png_key = f"evidence-snapshots/{shot[0].name}"
+        elif mp.is_file():
             data = json.loads(mp.read_text(encoding="utf-8"))
-            for k in data.get("files", {}):
-                if k.startswith("evidence-snapshots/") and k.endswith(".png"):
-                    png_key = k
-                    break
+            keys = [
+                k
+                for k in data.get("files", {})
+                if k.startswith("evidence-snapshots/") and k.endswith(".png")
+            ]
+            prefer = [k for k in keys if "/EP-EUV-" in k]
+            png_key = (prefer or keys or [None])[0]
         if not png_key:
             lines.append(f"| {row['no']} | {row['media_cn']} | `{slug}` | （manifest 未登记 png） |")
             continue
