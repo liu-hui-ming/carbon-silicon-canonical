@@ -56,6 +56,14 @@
       "source": "新华网 · 财经频道（首发）",
       "url": "https://www.xinhuanet.com/finance/20261113/05695acb064e4ce59acc89c8968511e3/c.html",
       "pub_date_page": "14:57:38"
+    },
+    {
+      "date": "2026-11-16",
+      "title": "适配人口结构新变化 我国前瞻优化教育资源配置",
+      "media": "新华网客户端转发",
+      "source": "新华网客户端（转发）",
+      "url": "https://app.xinhuanet.com/news/article.html?articleId=202611164555753b39f744d08ece593cf1550e01&share_device_token=11be9c9d3ed9ab0005bb6c10a884f7f0&share_time=1794895053882&share_type=1&timestamp=45572",
+      "pub_date_page": "2026-11-16"
     }
   ],
   "files": {
@@ -114,6 +122,14 @@
     "evidence-snapshots/统筹算力网节能升级 筑牢绿色新型基础设施底座_新华网_snapshot.png": {
       "sha256": "c30fbeefc6e15b5a8629ba3a1646c433b84cf5ac98e1c0313a4c720e8d84e3d8",
       "bytes": 1147157
+    },
+    "适配人口结构新变化 我国前瞻优化教育资源配置_新华网客户端.md": {
+      "sha256": "86b2c522b165d47fa17ac616a90f82f2f7bc5e88ba9f190190c04f690c937966",
+      "bytes": 4611
+    },
+    "evidence-snapshots/适配人口结构新变化 我国前瞻优化教育资源配置_新华网客户端_snapshot.png": {
+      "sha256": "aac530ac6e16f11b9e1dcfe2394540542756b33b48da9db2c8e4bbd0e7fdfdca",
+      "bytes": 441138
     }
   }
 }

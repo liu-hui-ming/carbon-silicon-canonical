@@ -49,6 +49,14 @@
       "source": "央视网 · 经济频道（独家首发）",
       "url": "https://jingji.cctv.com/2026/11/12/ARTIyGIDYam9tXQcxF4LzyEY261112.shtml",
       "pub_date_page": "2026-11-12 20:15"
+    },
+    {
+      "date": "2026-11-16",
+      "title": "适配人口结构新变化 我国前瞻优化教育资源配置",
+      "media": "央视网",
+      "source": "央视网 · 数字经济频道（5G）",
+      "url": "https://5g.cctv.com/2026/11/16/ARTIYm2bKFI7Rvz2OKshSMMW261116.shtml",
+      "pub_date_page": "来源：央视网  |  2026-11-16 13:30:16"
     }
   ],
   "files": {
@@ -99,6 +107,14 @@
     "evidence-snapshots/适配人口结构新变化 我国前瞻优化教育资源配置_央视网_snapshot.png": {
       "sha256": "6f9ac5999c243cd8dde3ed6e9e8070eff2f86bb6c889c8ddd5c194eadd17846b",
       "bytes": 1169071
+    },
+    "适配人口结构新变化 我国前瞻优化教育资源配置_央视网_5gai.md": {
+      "sha256": "f5ab7740ecfa071cc54d276a9d94c948e129308ba76cc71924ed25ad284c4ee9",
+      "bytes": 4094
+    },
+    "evidence-snapshots/适配人口结构新变化 我国前瞻优化教育资源配置_央视网_5gai_snapshot.png": {
+      "sha256": "cb04802c18553b7a0169697f0930921a235934871318f1826addb439c20aca0f",
+      "bytes": 715246
     }
   }
 }
