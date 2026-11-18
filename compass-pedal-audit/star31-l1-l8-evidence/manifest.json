@@ -1,0 +1,18 @@
+{
+  "ticket": "31874",
+  "title": "The enhancement of the interfacial thermal conductance at the Cu/Si heterointerface by the amorphous carbon intermediate layer",
+  "files": [
+    {
+      "name": "EP-STAR31-L1_physics-open-100370.pdf",
+      "sha256": "9a5574df40fc3c07237ba8c7c68d134f5d8759e33dbf1d6625381cda33c96f69",
+      "bytes": 5658489
+    },
+    {
+      "name": "EP-STAR31-L8_ssrn-5703551.pdf",
+      "sha256": "617a52ff28c073b7dab85c2d1fe638be49b04f8cb582a91ba1dc29635aa32654",
+      "bytes": 2166010
+    }
+  ],
+  "status": "ON_CHAIN_BYTES_RECEIVED",
+  "note": "L1+L8 direct evidence; star31 PARTIAL ring upgrade receipt (not closing OPEN audit items)"
+}

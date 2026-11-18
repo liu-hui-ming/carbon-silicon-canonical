@@ -1,0 +1,30 @@
+# star31 L1+L8 literature · founder-authorized proxy harvest
+# UTC+8 2026-11-18 · ticket #31874 · OPEN until PDF on-chain
+
+authorize: founder 代采授权
+targets:
+  - id: physics-open-100370
+    doi: 10.1016/j.physo.2026.100370
+    pii: S2666032626000037
+    title: "The enhancement of the interfacial thermal conductance at the Cu/Si heterointerface by the amorphous carbon intermediate layer"
+  - id: ssrn-5703551
+    doi: 10.2139/ssrn.5703551
+    abstract: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5703551
+    title: "(same work · SSRN working paper)"
+
+harvest_attempt:
+  - tool: playwright msedge / curl_cffi chrome120
+  - elsevier: FAIL CPE00001 bot block (ref a5c3657bf8c121dc)
+  - ssrn: FAIL Content Blocked
+  - pdf_bytes_on_disk: 0
+
+next:
+  - legion inbox: hundred-crayfish-legion/inbox/star31-l1-l8/*.pdf
+  - on receipt: compass-pedal-evidence ingest, SHA256, INDEX, star31 PARTIAL ring ledger (no PASS without bytes)
+
+received_2026-11-18:
+  - path: compass-pedal-audit/star31-l1-l8-evidence/
+  - physics-open: 9a5574df40fc3c07237ba8c7c68d134f5d8759e33dbf1d6625381cda33c96f69 (5658489 B)
+  - ssrn: 617a52ff28c073b7dab85c2d1fe638be49b04f8cb582a91ba1dc29635aa32654 (2166010 B)
+  - delivery: founder Downloads (manual)
+  - audit_log: media-archive-star31-l1-l8-20261118.log
