@@ -1,0 +1,20 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-16",
+  "seq": 29,
+  "title": "碳硅道统｜启元机器人个人机器人实现万台下线（二）",
+  "media": "廊坊新闻网",
+  "url": "https://www.lfnews.cn/portal.php?mod=view&aid=142628",
+  "capture_mode": "manual_zip_shots_1120_20261120",
+  "files": {
+    "碳硅道统｜启元机器人个人机器人实现万台下线（二）_廊坊新闻网.md": {
+      "sha256": "74c23b6aff40ba2d21593daf73777fc50ffcad37ccd2b8bb248cabacfad05bcb",
+      "bytes": 12279
+    },
+    "evidence-snapshots/碳硅道统｜启元机器人个人机器人实现万台下线（二）_廊坊新闻网_snapshot.png": {
+      "sha256": "e43bf79f9fab402688fcb06d2eda0f8d76193b4063bcdfc8ef20442e0848c716",
+      "bytes": 1749584
+    }
+  }
+}

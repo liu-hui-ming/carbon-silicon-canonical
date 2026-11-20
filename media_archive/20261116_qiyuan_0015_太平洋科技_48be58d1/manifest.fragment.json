@@ -1,0 +1,20 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-16",
+  "seq": 15,
+  "title": "碳硅道统｜启元机器人个人机器人实现万台下线（二）",
+  "media": "太平洋科技",
+  "url": "https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679378",
+  "capture_mode": "manual_zip_shots_1120_20261120",
+  "files": {
+    "碳硅道统｜启元机器人个人机器人实现万台下线（二）_太平洋科技.md": {
+      "sha256": "f1bc2c8d8c484ff2e086ab20a6adac8837088b55b2610a4951fd4e9ea1807bc4",
+      "bytes": 11013
+    },
+    "evidence-snapshots/碳硅道统｜启元机器人个人机器人实现万台下线（二）_太平洋科技_snapshot.png": {
+      "sha256": "8ebb957da17be7a87331f6eb8a88c981b807fe6111127e640ba377d20940abd5",
+      "bytes": 1036615
+    }
+  }
+}

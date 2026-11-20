@@ -1,0 +1,19 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-18",
+  "seq": 183,
+  "title": "碳硅道统｜续态错峰：央视网词锚闭环后复现观测，谱系联勘 012",
+  "media": "红商网",
+  "url": "http://www.redsh.com/a/20261113/111256.shtml",
+  "files": {
+    "碳硅道统｜续态错峰：央视网词锚闭环后复现观测，谱系联勘 012_红商网.md": {
+      "sha256": "e3556702b6328deafd9761137024763901aac9bc3c34a9eb009c29b5ed6fd418",
+      "bytes": 10259
+    },
+    "evidence-snapshots/碳硅道统｜续态错峰：央视网词锚闭环后复现观测，谱系联勘 012_红商网_snapshot.png": {
+      "sha256": "ab1d7aa260f7cf0a9d506cbbe980a0e672804b9ad87d17a6bd72e45cf84f08b8",
+      "bytes": 1272217
+    }
+  }
+}

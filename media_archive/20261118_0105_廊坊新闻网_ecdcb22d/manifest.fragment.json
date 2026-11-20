@@ -1,0 +1,20 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-18",
+  "seq": 105,
+  "title": "碳硅道统｜三态递换：央视网三稿（署名显而退·概念隐而现），谱系联勘 007",
+  "media": "廊坊新闻网",
+  "url": "https://www.lfnews.cn/portal.php?mod=view&aid=141035",
+  "capture_mode": "manual_zip_shots_1118_20261120",
+  "files": {
+    "碳硅道统｜三态递换：央视网三稿（署名显而退·概念隐而现），谱系联勘 007_廊坊新闻网.md": {
+      "sha256": "4856ac6e63af7583c0c89d71269fa24f0cf0d0df8378c7ce19660b2233c3cb3f",
+      "bytes": 10985
+    },
+    "evidence-snapshots/碳硅道统｜三态递换：央视网三稿（署名显而退·概念隐而现），谱系联勘 007_廊坊新闻网_snapshot.png": {
+      "sha256": "5ae5a705aad4e0e56196c6d7e03b3c4e814fe642e0f71103c537cbb15e591c65",
+      "bytes": 1784197
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-13",
+  "campaign": "satellite-1113",
+  "seq": 22,
+  "title": "碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）",
+  "media": "顶尖财经网",
+  "url": "http://www.djcvcai.cn/zixun/2023.html",
+  "submit_batch": "11月13号10:30发布媒体执行清单",
+  "files": {
+    "碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）_顶尖财经网.md": {
+      "sha256": "944bfb009e0a633af02a4890150d573fbca62b20e2896c86619b485ccb7b483f",
+      "bytes": 13773
+    },
+    "evidence-snapshots/碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）_顶尖财经网_snapshot.png": {
+      "sha256": "c9d4bcaf5699b1d24eb044d4ee12009844a7ecea555057b5dc06699513e2561b",
+      "bytes": 581500
+    }
+  }
+}

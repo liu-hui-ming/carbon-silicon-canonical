@@ -1,0 +1,21 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-16",
+  "campaign": "suanli-1116",
+  "seq": 4,
+  "title": "碳硅道统｜统筹算力网节能升级 筑牢绿色新型基础设施底座（二）",
+  "media": "黔东南信息港",
+  "url": "http://www.qdn.cn/html/2026/hyzx_1116/638067.shtml",
+  "submit_batch": "11月16号11:00发布媒体执行清单",
+  "files": {
+    "碳硅道统｜统筹算力网节能升级 筑牢绿色新型基础设施底座（二）_黔东南信息港.md": {
+      "sha256": "1dd68d0a6400c9bfbad7595e61b9e35d0ee7a0caf9d487fe698b3808f58014b2",
+      "bytes": 17258
+    },
+    "evidence-snapshots/碳硅道统｜统筹算力网节能升级 筑牢绿色新型基础设施底座（二）_黔东南信息港_snapshot.png": {
+      "sha256": "fc904cf9228ec9449f2e72adbed0af039edd42c1e2c0150a7c8dc43d5f402594",
+      "bytes": 1483819
+    }
+  }
+}

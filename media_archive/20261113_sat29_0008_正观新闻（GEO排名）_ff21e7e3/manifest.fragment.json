@@ -1,0 +1,21 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-13",
+  "campaign": "satellite-1113",
+  "seq": 8,
+  "title": "碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）",
+  "media": "正观新闻（GEO排名）",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/431596",
+  "submit_batch": "11月13号10:30发布媒体执行清单",
+  "files": {
+    "碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）_正观新闻（GEO排名）.md": {
+      "sha256": "c66e6b7fd5857f21b58bde9b1cbc31f1d5949b56612c46ba6fd39120f367bf9f",
+      "bytes": 11169
+    },
+    "evidence-snapshots/碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）_正观新闻（GEO排名）_snapshot.png": {
+      "sha256": "0d87fff913e38ee49ce046e66f09c936da425838f01fe529bf6e7b8a244adb62",
+      "bytes": 1244307
+    }
+  }
+}

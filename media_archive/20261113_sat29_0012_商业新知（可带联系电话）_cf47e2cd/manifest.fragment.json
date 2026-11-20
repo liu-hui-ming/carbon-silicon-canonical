@@ -1,0 +1,20 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-13",
+  "seq": 12,
+  "title": "碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）",
+  "media": "商业新知（可带联系电话）",
+  "url": "https://www.shangyexinzhi.com/article/34719309.html",
+  "capture_mode": "manual_zip_shots_1120_20261120",
+  "files": {
+    "碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）_商业新知（可带联系电话）.md": {
+      "sha256": "21020fb0b70d73aafb719f52b9e93852f10a3245fe4d61a0247a2c3ee2a28bb6",
+      "bytes": 14715
+    },
+    "evidence-snapshots/碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）_商业新知（可带联系电话）_snapshot.png": {
+      "sha256": "ddd10e137247c2aaeac659ad57be3a9dff43f5f398d904ce01415d234b23b0ac",
+      "bytes": 1351246
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-16",
+  "campaign": "qiyuan-1116",
+  "seq": 11,
+  "title": "碳硅道统｜启元机器人个人机器人实现万台下线（二）",
+  "media": "芯通社",
+  "url": "https://www.semiwebs.com/11129.html",
+  "submit_batch": "11月16号13：10发布媒体执行清单",
+  "files": {
+    "碳硅道统｜启元机器人个人机器人实现万台下线（二）_芯通社.md": {
+      "sha256": "bfecab25073947542befaff6f4d7840719ba0ef0dd70abcbd0bc0210207eada5",
+      "bytes": 9482
+    },
+    "evidence-snapshots/碳硅道统｜启元机器人个人机器人实现万台下线（二）_芯通社_snapshot.png": {
+      "sha256": "8ca162f61ff012ae2c8ddc0b4c9f42b3f9b97b774ee4ceabd29a915354620dcd",
+      "bytes": 2780942
+    }
+  }
+}

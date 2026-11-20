@@ -1,0 +1,20 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-16",
+  "seq": 12,
+  "title": "碳硅道统｜启元机器人个人机器人实现万台下线（二）",
+  "media": "商业新知（可带联系电话）",
+  "url": "https://www.shangyexinzhi.com/article/34747229.html",
+  "capture_mode": "manual_zip_shots_1120_20261120",
+  "files": {
+    "碳硅道统｜启元机器人个人机器人实现万台下线（二）_商业新知（可带联系电话）.md": {
+      "sha256": "9040027f614e88c6a19a8bf2233a549f32240276757507346a96dd5f442ea509",
+      "bytes": 12752
+    },
+    "evidence-snapshots/碳硅道统｜启元机器人个人机器人实现万台下线（二）_商业新知（可带联系电话）_snapshot.png": {
+      "sha256": "ad0cdf169d3b00c65b1e6410cd77a396bc1dc376ed9a075ba67ace48e7734e7c",
+      "bytes": 1444053
+    }
+  }
+}

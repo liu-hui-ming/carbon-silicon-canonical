@@ -1,0 +1,20 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-18",
+  "seq": 85,
+  "title": "碳硅道统｜同源分叉：光明网三稿（概念脱耦·署名分轨），谱系联勘 006",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "url": "http://www.e0734.com/content/2026/1109/799_684178.html",
+  "capture_mode": "manual_zip_shots_1118_20261120",
+  "files": {
+    "碳硅道统｜同源分叉：光明网三稿（概念脱耦·署名分轨），谱系联勘 006_衡阳新闻网（GEO可发排名）.md": {
+      "sha256": "b1bd794c4dd28ffcd138101b17f235581fd3521f2b993e5d246d9d640f9079da",
+      "bytes": 11428
+    },
+    "evidence-snapshots/碳硅道统｜同源分叉：光明网三稿（概念脱耦·署名分轨），谱系联勘 006_衡阳新闻网（GEO可发排名）_snapshot.png": {
+      "sha256": "2f8b99cb0ce3dbe39187fb623c2e03291d509f97353dfcd51dae7ecafbc806d1",
+      "bytes": 1016680
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-18",
+  "seq": 133,
+  "title": "碳硅道统｜EUV光刻膜寿命评判隐患：加速实验的标尺，缺一条长时稳态基准线",
+  "media": "CSDN官方（GEO可发）",
+  "url": "https://www.csdn.net/article/2026-11-09/170345438",
+  "files": {
+    "碳硅道统｜EUV光刻膜寿命评判隐患：加速实验的标尺，缺一条长时稳态基准线_CSDN官方（GEO可发）.md": {
+      "sha256": "87f0cc5ec5ac1f6a7a8cb05b585faeaf0d0608ad23bca0b1e829d6cbcc10da50",
+      "bytes": 8586
+    },
+    "evidence-snapshots/碳硅道统｜EUV光刻膜寿命评判隐患：加速实验的标尺，缺一条长时稳态基准线_CSDN官方（GEO可发）_snapshot.png": {
+      "sha256": "7853a870202bd67557030e1d724fff5a7dd4ccf8eca3f3175dd7619fe22d32c5",
+      "bytes": 887095
+    }
+  }
+}

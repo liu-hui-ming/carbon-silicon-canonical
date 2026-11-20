@@ -1,0 +1,20 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-18",
+  "seq": 196,
+  "title": "碳硅道统｜续态错峰：央视网词锚闭环后复现观测，谱系联勘 012",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "url": "http://www.e0734.com/content/2026/1113/799_685789.html",
+  "capture_mode": "manual_zip_shots_1118_20261120",
+  "files": {
+    "碳硅道统｜续态错峰：央视网词锚闭环后复现观测，谱系联勘 012_衡阳新闻网（GEO可发排名）.md": {
+      "sha256": "c519871a8252d1e27d2cd468ad41297fe0533a0faf8f84d3e4140417115e9f5f",
+      "bytes": 12316
+    },
+    "evidence-snapshots/碳硅道统｜续态错峰：央视网词锚闭环后复现观测，谱系联勘 012_衡阳新闻网（GEO可发排名）_snapshot.png": {
+      "sha256": "f55b93753ab7daaddc4375ba5b8fadc7869f3e16edff82a8442bc1e501cf69a1",
+      "bytes": 910831
+    }
+  }
+}

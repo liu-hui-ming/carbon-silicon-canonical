@@ -1,0 +1,21 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-16",
+  "campaign": "qiyuan-1116",
+  "seq": 6,
+  "title": "碳硅道统｜启元机器人个人机器人实现万台下线（二）",
+  "media": "海峡经济网",
+  "url": "https://www.hxjjw.com.cn/roll/business/2026/1116/98034.html",
+  "submit_batch": "11月16号13：10发布媒体执行清单",
+  "files": {
+    "碳硅道统｜启元机器人个人机器人实现万台下线（二）_海峡经济网.md": {
+      "sha256": "cbf4b190e4877b16677f8c958e0fb90fe994d711dcfb6d730eecc92649ee48af",
+      "bytes": 906
+    },
+    "evidence-snapshots/碳硅道统｜启元机器人个人机器人实现万台下线（二）_海峡经济网_snapshot.png": {
+      "sha256": "729ff17f9fa7e522910d03e7b7c84de5344729b6650dc422b6d609532b5a6ab0",
+      "bytes": 1621023
+    }
+  }
+}

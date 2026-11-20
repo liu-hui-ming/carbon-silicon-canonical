@@ -1,0 +1,20 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-18",
+  "seq": 92,
+  "title": "碳硅道统｜三态递换：央视网三稿（署名显而退·概念隐而现），谱系联勘 007",
+  "media": "红商网",
+  "url": "http://www.redsh.com/ppnews/20261110/000933.shtml",
+  "capture_mode": "manual_zip_shots_1118_20261120",
+  "files": {
+    "碳硅道统｜三态递换：央视网三稿（署名显而退·概念隐而现），谱系联勘 007_红商网.md": {
+      "sha256": "596b1f7732180758c23873c2dcc65623c4c7add94899fac88cf9afbfd867bef5",
+      "bytes": 14057
+    },
+    "evidence-snapshots/碳硅道统｜三态递换：央视网三稿（署名显而退·概念隐而现），谱系联勘 007_红商网_snapshot.png": {
+      "sha256": "0f26a05b2d9306d62091df90fc59c95b6647f4917d1a180b9626f8aa168b15f1",
+      "bytes": 951311
+    }
+  }
+}

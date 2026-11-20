@@ -1,0 +1,21 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-16",
+  "campaign": "qiyuan-1116",
+  "seq": 8,
+  "title": "碳硅道统｜启元机器人个人机器人实现万台下线（二）",
+  "media": "正观新闻(GE0排名",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/431898",
+  "submit_batch": "11月16号13：10发布媒体执行清单",
+  "files": {
+    "碳硅道统｜启元机器人个人机器人实现万台下线（二）_正观新闻(GE0排名.md": {
+      "sha256": "69e629087a16916dde862602bf64d14329eb905183a148f5d04bc4dccdb1a6d9",
+      "bytes": 9210
+    },
+    "evidence-snapshots/碳硅道统｜启元机器人个人机器人实现万台下线（二）_正观新闻(GE0排名_snapshot.png": {
+      "sha256": "936ef1c33732e4ebb89b7503ea4bd775484e03d4848f887f7ec083c6b9273f4f",
+      "bytes": 1172465
+    }
+  }
+}

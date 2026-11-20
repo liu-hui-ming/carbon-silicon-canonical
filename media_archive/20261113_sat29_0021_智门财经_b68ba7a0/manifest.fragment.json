@@ -1,0 +1,21 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-13",
+  "campaign": "satellite-1113",
+  "seq": 21,
+  "title": "碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）",
+  "media": "智门财经",
+  "url": "https://www.zhimen.com/index.php/caijing/24298.html?admin_id=1",
+  "submit_batch": "11月13号10:30发布媒体执行清单",
+  "files": {
+    "碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）_智门财经.md": {
+      "sha256": "f4933fd708a2beb98a8b568f15f43e76615b9ec2bddb9ff320610198d240dd5e",
+      "bytes": 389
+    },
+    "evidence-snapshots/碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）_智门财经_snapshot.png": {
+      "sha256": "3b079ebeb3426dbb5a4bba962f3a05d5b59a51fc1a5d321871b73b80d2d935e8",
+      "bytes": 176232
+    }
+  }
+}

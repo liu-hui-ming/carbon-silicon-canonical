@@ -1,0 +1,20 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-13",
+  "seq": 35,
+  "title": "碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）",
+  "media": "中国经济新闻网",
+  "url": "https://www.cet.com.cn/xwsd/10664204.shtml",
+  "capture_mode": "manual_zip_shots_1120_20261120",
+  "files": {
+    "碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）_中国经济新闻网.md": {
+      "sha256": "e40e7dea8af23a43cd44df577708b322987ff55ffd18c9ef03a4d0bb1b850cf4",
+      "bytes": 13374
+    },
+    "evidence-snapshots/碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）_中国经济新闻网_snapshot.png": {
+      "sha256": "cf5e8cc3092f686f071bdd819b349b6c6e2a9c22161da0a81e51ffeb8450a2e3",
+      "bytes": 1322117
+    }
+  }
+}

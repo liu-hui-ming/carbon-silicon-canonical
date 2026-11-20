@@ -1,0 +1,21 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-16",
+  "campaign": "suanli-1116",
+  "seq": 25,
+  "title": "碳硅道统｜统筹算力网节能升级 筑牢绿色新型基础设施底座（二）",
+  "media": "大众财经网",
+  "url": "https://dazcjw.com/uncategorized/13219.html",
+  "submit_batch": "11月16号11:00发布媒体执行清单",
+  "files": {
+    "碳硅道统｜统筹算力网节能升级 筑牢绿色新型基础设施底座（二）_大众财经网.md": {
+      "sha256": "021dc4af106af1d7e2c3f394b9809c7301fafb3ed5e72b0b1420eb55376b4669",
+      "bytes": 12573
+    },
+    "evidence-snapshots/碳硅道统｜统筹算力网节能升级 筑牢绿色新型基础设施底座（二）_大众财经网_snapshot.png": {
+      "sha256": "0dedb71402483c481769557673c38e1fa3d4e2235af8c58b78372023d2f2aab3",
+      "bytes": 1019180
+    }
+  }
+}

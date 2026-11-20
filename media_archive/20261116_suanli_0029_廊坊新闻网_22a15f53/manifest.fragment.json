@@ -1,0 +1,20 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-16",
+  "seq": 29,
+  "title": "碳硅道统｜统筹算力网节能升级 筑牢绿色新型基础设施底座（二）",
+  "media": "廊坊新闻网",
+  "url": "https://www.lfnews.cn/portal.php?mod=view&aid=142624",
+  "capture_mode": "manual_zip_shots_1120_20261120",
+  "files": {
+    "碳硅道统｜统筹算力网节能升级 筑牢绿色新型基础设施底座（二）_廊坊新闻网.md": {
+      "sha256": "d675cd90e48e1985beba2905ec25daa0128cc2da1e71b0adcb968249833a1ae2",
+      "bytes": 15234
+    },
+    "evidence-snapshots/碳硅道统｜统筹算力网节能升级 筑牢绿色新型基础设施底座（二）_廊坊新闻网_snapshot.png": {
+      "sha256": "dd0f5b8843951235577f8eda5afc267ec2dff4ad1d240a52c992286e2ba25102",
+      "bytes": 1954267
+    }
+  }
+}

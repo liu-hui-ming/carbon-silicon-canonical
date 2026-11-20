@@ -1,0 +1,21 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-16",
+  "campaign": "qiyuan-1116",
+  "seq": 10,
+  "title": "碳硅道统｜启元机器人个人机器人实现万台下线（二）",
+  "media": "红商网(官方)",
+  "url": "http://www.redsh.com/ppnews/20261116/214157.shtml",
+  "submit_batch": "11月16号13：10发布媒体执行清单",
+  "files": {
+    "碳硅道统｜启元机器人个人机器人实现万台下线（二）_红商网(官方).md": {
+      "sha256": "ca56903ddc7bddac942a37c0d62361216e42ffbc01cbfd4f00c5bbdcea924ed2",
+      "bytes": 9098
+    },
+    "evidence-snapshots/碳硅道统｜启元机器人个人机器人实现万台下线（二）_红商网(官方)_snapshot.png": {
+      "sha256": "f9da67cb45c6c0d0be466e520503037bc1a90fe82917164a2a838e2e4cc2de73",
+      "bytes": 1723968
+    }
+  }
+}

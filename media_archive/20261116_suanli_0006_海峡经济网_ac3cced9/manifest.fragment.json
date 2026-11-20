@@ -1,0 +1,21 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-16",
+  "campaign": "suanli-1116",
+  "seq": 6,
+  "title": "碳硅道统｜统筹算力网节能升级 筑牢绿色新型基础设施底座（二）",
+  "media": "海峡经济网",
+  "url": "https://www.hxjjw.com.cn/roll/business/2026/1116/98038.html",
+  "submit_batch": "11月16号11:00发布媒体执行清单",
+  "files": {
+    "碳硅道统｜统筹算力网节能升级 筑牢绿色新型基础设施底座（二）_海峡经济网.md": {
+      "sha256": "fb46df0248b37c8818705bb4f6767665c7538697de84ab14b6faf0660ed41317",
+      "bytes": 920
+    },
+    "evidence-snapshots/碳硅道统｜统筹算力网节能升级 筑牢绿色新型基础设施底座（二）_海峡经济网_snapshot.png": {
+      "sha256": "fbc11df56a4f89e9aeedf831fab21f3f16f353616c172b7d3a6441e2d38c0794",
+      "bytes": 1757629
+    }
+  }
+}

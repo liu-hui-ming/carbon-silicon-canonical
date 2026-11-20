@@ -1,0 +1,21 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-16",
+  "campaign": "suanli-1116",
+  "seq": 31,
+  "title": "碳硅道统｜统筹算力网节能升级 筑牢绿色新型基础设施底座（二）",
+  "media": "欧洲网",
+  "url": "http://www.peoplols.com/zixun/1912.html#",
+  "submit_batch": "11月16号11:00发布媒体执行清单",
+  "files": {
+    "碳硅道统｜统筹算力网节能升级 筑牢绿色新型基础设施底座（二）_欧洲网.md": {
+      "sha256": "9830cd69a75a718d88466f86bb2795e4497d4ce5cf2b805bbfd1940eafd1015e",
+      "bytes": 11012
+    },
+    "evidence-snapshots/碳硅道统｜统筹算力网节能升级 筑牢绿色新型基础设施底座（二）_欧洲网_snapshot.png": {
+      "sha256": "a72560df3aea23925370b9d9c3d80d5c5ea80419d44cc129eb4074438bf336ad",
+      "bytes": 1779640
+    }
+  }
+}

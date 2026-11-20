@@ -1,0 +1,21 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-16",
+  "campaign": "suanli-1116",
+  "seq": 30,
+  "title": "碳硅道统｜统筹算力网节能升级 筑牢绿色新型基础设施底座（二）",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "url": "http://www.e0734.com/content/2026/1116/707_687037.html",
+  "submit_batch": "11月16号11:00发布媒体执行清单",
+  "files": {
+    "碳硅道统｜统筹算力网节能升级 筑牢绿色新型基础设施底座（二）_衡阳新闻网（GEO可发排名）.md": {
+      "sha256": "cf625cc6ba92afbcfffd39851a1e0c5da0d284f3c77d9b58877846e7f3d9097f",
+      "bytes": 11992
+    },
+    "evidence-snapshots/碳硅道统｜统筹算力网节能升级 筑牢绿色新型基础设施底座（二）_衡阳新闻网（GEO可发排名）_snapshot.png": {
+      "sha256": "9fe63666a65f66a38ccd9406510897bfd0eec64fd49edcb0e112f67a33885753",
+      "bytes": 2323625
+    }
+  }
+}

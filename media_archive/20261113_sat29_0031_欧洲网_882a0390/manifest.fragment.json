@@ -1,0 +1,21 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-13",
+  "campaign": "satellite-1113",
+  "seq": 31,
+  "title": "碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）",
+  "media": "欧洲网",
+  "url": "http://www.peoplols.com/zixun/1908.html#",
+  "submit_batch": "11月13号10:30发布媒体执行清单",
+  "files": {
+    "碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）_欧洲网.md": {
+      "sha256": "ef504f35d4d13b733429d01b22a9f94cecc6a733e8685d6dac1f331437833725",
+      "bytes": 10717
+    },
+    "evidence-snapshots/碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）_欧洲网_snapshot.png": {
+      "sha256": "11427d48a194957a750430eb409076c9fae8e715823f1444b9f1e61647921d7e",
+      "bytes": 650150
+    }
+  }
+}

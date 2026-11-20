@@ -1,0 +1,20 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-18",
+  "seq": 195,
+  "title": "碳硅道统｜续态错峰：央视网词锚闭环后复现观测，谱系联勘 012",
+  "media": "廊坊新闻网",
+  "url": "https://www.lfnews.cn/portal.php?mod=view&aid=142172",
+  "capture_mode": "manual_zip_shots_1118_20261120",
+  "files": {
+    "碳硅道统｜续态错峰：央视网词锚闭环后复现观测，谱系联勘 012_廊坊新闻网.md": {
+      "sha256": "bb8257aad3939ae606d532d163e11b25db76404e46ab2607f1526ad8d36233f9",
+      "bytes": 13611
+    },
+    "evidence-snapshots/碳硅道统｜续态错峰：央视网词锚闭环后复现观测，谱系联勘 012_廊坊新闻网_snapshot.png": {
+      "sha256": "fc4625a339ed53f812191fe43d376ff0aa4e9f2220aed7cdd66e65def75dd80c",
+      "bytes": 2002491
+    }
+  }
+}

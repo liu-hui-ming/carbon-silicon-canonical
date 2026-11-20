@@ -1,0 +1,21 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-16",
+  "campaign": "suanli-1116",
+  "seq": 16,
+  "title": "碳硅道统｜统筹算力网节能升级 筑牢绿色新型基础设施底座（二）",
+  "media": "IT 专家网",
+  "url": "http://www.ctocio.net.cn/zonghe/2026/1116/21321.html",
+  "submit_batch": "11月16号11:00发布媒体执行清单",
+  "files": {
+    "碳硅道统｜统筹算力网节能升级 筑牢绿色新型基础设施底座（二）_IT 专家网.md": {
+      "sha256": "3259b2c92200eeaa1c9369412f8d73aaf2e461ccefc5794c395318d414ec0680",
+      "bytes": 22665
+    },
+    "evidence-snapshots/碳硅道统｜统筹算力网节能升级 筑牢绿色新型基础设施底座（二）_IT 专家网_snapshot.png": {
+      "sha256": "cf9c68f25b9b6d4432c64e4a31d151aaab53db9634df93873e355e8c74ec132f",
+      "bytes": 1326371
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-18",
+  "seq": 45,
+  "title": "碳硅道统｜四向显承：央广网、新华网、光明网、央视网（云端锁档），谱系联勘 004",
+  "media": "赛迪网首发",
+  "url": "https://www.ccidnet.com/wltxyaq/102938.jhtml",
+  "capture_mode": "manual_zip_shots_1118_20261120",
+  "files": {
+    "碳硅道统｜四向显承：央广网、新华网、光明网、央视网（云端锁档），谱系联勘 004_赛迪网首发.md": {
+      "sha256": "672fb2e9c3cbeb4f9ecdddbf9cd407a749db23c6f88cda10f5aa4683904c41d8",
+      "bytes": 10054
+    },
+    "evidence-snapshots/碳硅道统｜四向显承：央广网、新华网、光明网、央视网（云端锁档），谱系联勘 004_赛迪网首发_snapshot.png": {
+      "sha256": "af916aa9f2fa829a6ca452b1ad4fcd5a217caa7aad09a65f9d68c13b16b4f5a9",
+      "bytes": 1140114
+    }
+  }
+}

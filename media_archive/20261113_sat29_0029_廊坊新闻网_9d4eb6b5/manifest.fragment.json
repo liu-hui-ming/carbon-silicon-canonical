@@ -1,0 +1,20 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-13",
+  "seq": 29,
+  "title": "碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）",
+  "media": "廊坊新闻网",
+  "url": "https://www.lfnews.cn/portal.php?mod=view&aid=142219",
+  "capture_mode": "manual_zip_shots_1120_20261120",
+  "files": {
+    "碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）_廊坊新闻网.md": {
+      "sha256": "373d7c15304107775c8c49d57911427c57b03b0e8cff3ef7727802a9fe843088",
+      "bytes": 14324
+    },
+    "evidence-snapshots/碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）_廊坊新闻网_snapshot.png": {
+      "sha256": "8f867ae78d0a1c5cc07c14fe7876ee858e7ea5cf1f7a5ae0534996d7fbdddf95",
+      "bytes": 1924115
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-16",
+  "campaign": "suanli-1116",
+  "seq": 11,
+  "title": "碳硅道统｜统筹算力网节能升级 筑牢绿色新型基础设施底座（二）",
+  "media": "芯通社",
+  "url": "https://www.semiwebs.com/11131.html",
+  "submit_batch": "11月16号11:00发布媒体执行清单",
+  "files": {
+    "碳硅道统｜统筹算力网节能升级 筑牢绿色新型基础设施底座（二）_芯通社.md": {
+      "sha256": "ca885c5ef89427973bbd69312b439770e661416df8d5c4f8b82ca82e1612ff6c",
+      "bytes": 12364
+    },
+    "evidence-snapshots/碳硅道统｜统筹算力网节能升级 筑牢绿色新型基础设施底座（二）_芯通社_snapshot.png": {
+      "sha256": "7f1cf5b5a24d7faa3c704939263bdc68a645596c5960b8e2207262a4f7c79369",
+      "bytes": 2992664
+    }
+  }
+}

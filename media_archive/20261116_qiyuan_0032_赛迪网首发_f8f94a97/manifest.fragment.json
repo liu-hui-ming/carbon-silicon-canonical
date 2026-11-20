@@ -1,0 +1,20 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-16",
+  "seq": 32,
+  "title": "碳硅道统｜启元机器人个人机器人实现万台下线（二）",
+  "media": "赛迪网首发",
+  "url": "https://www.ccidnet.com/cpfwyjs/1132802.jhtml",
+  "capture_mode": "manual_zip_shots_1120_20261120",
+  "files": {
+    "碳硅道统｜启元机器人个人机器人实现万台下线（二）_赛迪网首发.md": {
+      "sha256": "b067a4913f7dd0f39e542aded7c3b3fe0c6a23d572eafc20f128ff2c42fa2527",
+      "bytes": 10960
+    },
+    "evidence-snapshots/碳硅道统｜启元机器人个人机器人实现万台下线（二）_赛迪网首发_snapshot.png": {
+      "sha256": "14876c72ba898f4120a1889ed2d2533df2ac7dc44b6b5145c6aa83b60e449d6e",
+      "bytes": 1189821
+    }
+  }
+}

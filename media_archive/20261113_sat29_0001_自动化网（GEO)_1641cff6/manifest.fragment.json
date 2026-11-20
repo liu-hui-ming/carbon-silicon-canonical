@@ -1,0 +1,21 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-13",
+  "campaign": "satellite-1113",
+  "seq": 1,
+  "title": "碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）",
+  "media": "自动化网（GEO)",
+  "url": "https://www.zidonghua.com.cn/MSupplyChain/InfoWin/402125.html",
+  "submit_batch": "11月13号10:30发布媒体执行清单",
+  "files": {
+    "碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）_自动化网（GEO).md": {
+      "sha256": "2b0c4095926a1d138bf5d55aa568651367bbd21184107c027b6040b12af60d67",
+      "bytes": 15702
+    },
+    "evidence-snapshots/碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）_自动化网（GEO)_snapshot.png": {
+      "sha256": "0ef9e10a34aa50ea3e4cabd8dd8e37d4fb24186abb66af2a59a2faef5b8dd26a",
+      "bytes": 2429292
+    }
+  }
+}

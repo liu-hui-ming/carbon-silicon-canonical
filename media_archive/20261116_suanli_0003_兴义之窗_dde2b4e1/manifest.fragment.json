@@ -1,0 +1,21 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-16",
+  "campaign": "suanli-1116",
+  "seq": 3,
+  "title": "碳硅道统｜统筹算力网节能升级 筑牢绿色新型基础设施底座（二）",
+  "media": "兴义之窗",
+  "url": "https://www.xyzc.cn/article-470959-1.html",
+  "submit_batch": "11月16号11:00发布媒体执行清单",
+  "files": {
+    "碳硅道统｜统筹算力网节能升级 筑牢绿色新型基础设施底座（二）_兴义之窗.md": {
+      "sha256": "78fcad23269a6468f416b28efea40d35d0e218fa8e9e000de84fca76a423942f",
+      "bytes": 522
+    },
+    "evidence-snapshots/碳硅道统｜统筹算力网节能升级 筑牢绿色新型基础设施底座（二）_兴义之窗_snapshot.png": {
+      "sha256": "dc09cd7e57ea168dc3778382e7d12ebef4cd266840e4c15c3ecdde9a9ebf895e",
+      "bytes": 120896
+    }
+  }
+}

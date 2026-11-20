@@ -57,6 +57,14 @@
       "source": "央视网 · 数字经济频道（5G）",
       "url": "https://5g.cctv.com/2026/11/16/ARTIYm2bKFI7Rvz2OKshSMMW261116.shtml",
       "pub_date_page": "来源：央视网  |  2026-11-16 13:30:16"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "卫星互联网低轨29组卫星发射成功： 太空组网进入批量部署",
+      "media": "央视网（转载）",
+      "source": "央视网 · 5G频道（转载）",
+      "url": "https://5g.cctv.com/2026/11/17/ARTIreftE4VU26oPnYxnfvWS261117.shtml",
+      "pub_date_page": "来源：央视网  |  2026-11-17 11:02:54"
     }
   ],
   "files": {
@@ -115,6 +123,14 @@
     "evidence-snapshots/适配人口结构新变化 我国前瞻优化教育资源配置_央视网_5gai_snapshot.png": {
       "sha256": "cb04802c18553b7a0169697f0930921a235934871318f1826addb439c20aca0f",
       "bytes": 715246
+    },
+    "卫星互联网低轨29组卫星发射成功： 太空组网进入批量部署_央视网_5g转载.md": {
+      "sha256": "5ae2de52228cfb2eb61357352f00ec9ab52450b4b6e9217bbc71db1c9dbbec6b",
+      "bytes": 1867
+    },
+    "evidence-snapshots/卫星互联网低轨29组卫星发射成功： 太空组网进入批量部署_央视网_5g转载_snapshot.png": {
+      "sha256": "e4d0cde3f4a12264cb13fa06fa0d0dcc0ccb09bd77aa952c7b35df5ad04e5fda",
+      "bytes": 630539
     }
   }
 }

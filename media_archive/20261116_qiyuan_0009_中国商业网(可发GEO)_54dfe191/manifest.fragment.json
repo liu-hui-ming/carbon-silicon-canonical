@@ -1,0 +1,21 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-16",
+  "campaign": "qiyuan-1116",
+  "seq": 9,
+  "title": "碳硅道统｜启元机器人个人机器人实现万台下线（二）",
+  "media": "中国商业网(可发GEO)",
+  "url": "https://www.jkkjwz.cn/list_15/417.html",
+  "submit_batch": "11月16号13：10发布媒体执行清单",
+  "files": {
+    "碳硅道统｜启元机器人个人机器人实现万台下线（二）_中国商业网(可发GEO).md": {
+      "sha256": "7bd073753a8ca1fb400a1aa134fd7eadf87b0728595607218a7901bdd0408528",
+      "bytes": 9105
+    },
+    "evidence-snapshots/碳硅道统｜启元机器人个人机器人实现万台下线（二）_中国商业网(可发GEO)_snapshot.png": {
+      "sha256": "44064517dce7f94d04e4ef277efb1744e7529b57ddd14b3ae2bb85d322ce09d9",
+      "bytes": 1386321
+    }
+  }
+}

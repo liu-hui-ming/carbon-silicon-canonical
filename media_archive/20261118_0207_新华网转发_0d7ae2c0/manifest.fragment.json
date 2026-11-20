@@ -1,0 +1,19 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-18",
+  "seq": 207,
+  "title": "启元机器人个人机器人实现万台下线",
+  "media": "新华网转发",
+  "url": "https://www.news.cn/digital/20261117/a69c73ff01754f3dad057a98c00aa7c9/c.html",
+  "files": {
+    "启元机器人个人机器人实现万台下线_新华网转发.md": {
+      "sha256": "4bab36842ae38e379ea049b8b157978fca5b9a1ad10c5cd5cd2ea946b946a4dd",
+      "bytes": 4572
+    },
+    "evidence-snapshots/启元机器人个人机器人实现万台下线_新华网转发_snapshot.png": {
+      "sha256": "ff23d58a25574a41876e767377b94e380ba9220f4eb258e4909fd0d063beb3b3",
+      "bytes": 789755
+    }
+  }
+}

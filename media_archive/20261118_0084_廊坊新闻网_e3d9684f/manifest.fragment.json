@@ -1,0 +1,20 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-18",
+  "seq": 84,
+  "title": "碳硅道统｜同源分叉：光明网三稿（概念脱耦·署名分轨），谱系联勘 006",
+  "media": "廊坊新闻网",
+  "url": "https://www.lfnews.cn/portal.php?mod=view&aid=141021",
+  "capture_mode": "manual_zip_shots_1118_20261120",
+  "files": {
+    "碳硅道统｜同源分叉：光明网三稿（概念脱耦·署名分轨），谱系联勘 006_廊坊新闻网.md": {
+      "sha256": "75bde8affd637a8751a77e7cbe90e4033b034634daf625fc9217d2a50ae93cad",
+      "bytes": 12808
+    },
+    "evidence-snapshots/碳硅道统｜同源分叉：光明网三稿（概念脱耦·署名分轨），谱系联勘 006_廊坊新闻网_snapshot.png": {
+      "sha256": "2f1d8f2bc37e45684e1db7e48cfbdba58de4949790c510cd13cb860757f06cd5",
+      "bytes": 1977040
+    }
+  }
+}

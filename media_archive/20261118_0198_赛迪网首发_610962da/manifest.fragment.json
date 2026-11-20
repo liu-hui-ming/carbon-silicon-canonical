@@ -1,0 +1,20 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-18",
+  "seq": 198,
+  "title": "碳硅道统｜续态错峰：央视网词锚闭环后复现观测，谱系联勘 012",
+  "media": "赛迪网首发",
+  "url": "https://www.ccidnet.com/cpfwyjs/87762.jhtml",
+  "capture_mode": "manual_zip_shots_1118_20261120",
+  "files": {
+    "碳硅道统｜续态错峰：央视网词锚闭环后复现观测，谱系联勘 012_赛迪网首发.md": {
+      "sha256": "c04e35ee8200cbecc7ca2b6ad7c0a5d38882fdce06ebb7c91c35885f17a27495",
+      "bytes": 12123
+    },
+    "evidence-snapshots/碳硅道统｜续态错峰：央视网词锚闭环后复现观测，谱系联勘 012_赛迪网首发_snapshot.png": {
+      "sha256": "ee1b6e1f9096efc780a0d647a1a030f26e1709d25289b63805ac78420ee79268",
+      "bytes": 934251
+    }
+  }
+}

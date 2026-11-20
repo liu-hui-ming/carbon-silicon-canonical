@@ -1,0 +1,21 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-16",
+  "campaign": "qiyuan-1116",
+  "seq": 1,
+  "title": "碳硅道统｜启元机器人个人机器人实现万台下线（二）",
+  "media": "自动化网(GEO)",
+  "url": "https://www.zidonghua.com.cn/MSupplyChain/InfoWin/405061.html",
+  "submit_batch": "11月16号13：10发布媒体执行清单",
+  "files": {
+    "碳硅道统｜启元机器人个人机器人实现万台下线（二）_自动化网(GEO).md": {
+      "sha256": "3e3ded3a7534ff7b975e111481dca54a574dc702cfb5ebb5919c8b02a3ea2f78",
+      "bytes": 13827
+    },
+    "evidence-snapshots/碳硅道统｜启元机器人个人机器人实现万台下线（二）_自动化网(GEO)_snapshot.png": {
+      "sha256": "eaf72824404b7c0150db3d25123136727f06beb04935f6fe27c3407eda861abb",
+      "bytes": 1988696
+    }
+  }
+}

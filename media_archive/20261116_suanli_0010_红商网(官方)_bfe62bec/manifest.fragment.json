@@ -1,0 +1,21 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-16",
+  "campaign": "suanli-1116",
+  "seq": 10,
+  "title": "碳硅道统｜统筹算力网节能升级 筑牢绿色新型基础设施底座（二）",
+  "media": "红商网(官方)",
+  "url": "http://www.redsh.com/ppnews/20261116/185738.shtml",
+  "submit_batch": "11月16号11:00发布媒体执行清单",
+  "files": {
+    "碳硅道统｜统筹算力网节能升级 筑牢绿色新型基础设施底座（二）_红商网(官方).md": {
+      "sha256": "760b8257b01fc694eb57648f3b11e1fd6f18e9d3b9c8fff7f97ebbe2d18b17a0",
+      "bytes": 11951
+    },
+    "evidence-snapshots/碳硅道统｜统筹算力网节能升级 筑牢绿色新型基础设施底座（二）_红商网(官方)_snapshot.png": {
+      "sha256": "3de51cba38a3a3c34db63c855ca050250ff309ee41c1fa9c77df52aa9aa4cf7e",
+      "bytes": 1648479
+    }
+  }
+}

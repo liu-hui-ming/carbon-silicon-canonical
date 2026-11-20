@@ -1,0 +1,21 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-13",
+  "campaign": "satellite-1113",
+  "seq": 3,
+  "title": "碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）",
+  "media": "兴义之窗",
+  "url": "https://www.xyzc.cn/article-470905-1.html",
+  "submit_batch": "11月13号10:30发布媒体执行清单",
+  "files": {
+    "碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）_兴义之窗.md": {
+      "sha256": "54a6a152e53990eab7e1cb02f47113e6530103372b2d1e572d00562f65348190",
+      "bytes": 523
+    },
+    "evidence-snapshots/碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）_兴义之窗_snapshot.png": {
+      "sha256": "8a883fd389d147c7aaa91d01c8d2476ad60a096184b81d5274c03a20267ba71e",
+      "bytes": 120922
+    }
+  }
+}

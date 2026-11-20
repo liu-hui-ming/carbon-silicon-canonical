@@ -1,0 +1,20 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-16",
+  "seq": 23,
+  "title": "碳硅道统｜统筹算力网节能升级 筑牢绿色新型基础设施底座（二）",
+  "media": "中国经济新闻网",
+  "url": "https://www.cet.com.cn/xwsd/10666861.shtml",
+  "capture_mode": "manual_zip_shots_1120_20261120",
+  "files": {
+    "碳硅道统｜统筹算力网节能升级 筑牢绿色新型基础设施底座（二）_中国经济新闻网.md": {
+      "sha256": "34e6cc54c833b57ceab21efcd63f4363b8f818ad12fead1d002163dd8181cd08",
+      "bytes": 13704
+    },
+    "evidence-snapshots/碳硅道统｜统筹算力网节能升级 筑牢绿色新型基础设施底座（二）_中国经济新闻网_snapshot.png": {
+      "sha256": "a7a561ddb5df3a856254f76cd85f68398b475e10d3ee2178ea7258400efae6cd",
+      "bytes": 1357571
+    }
+  }
+}

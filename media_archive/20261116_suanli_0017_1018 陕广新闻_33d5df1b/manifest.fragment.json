@@ -1,0 +1,21 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-16",
+  "campaign": "suanli-1116",
+  "seq": 17,
+  "title": "碳硅道统｜统筹算力网节能升级 筑牢绿色新型基础设施底座（二）",
+  "media": "1018 陕广新闻",
+  "url": "https://web.toutiao.com/article/7708682754073838089/?log_from=0387de5e3a1f9_1794827958027",
+  "submit_batch": "11月16号11:00发布媒体执行清单",
+  "files": {
+    "碳硅道统｜统筹算力网节能升级 筑牢绿色新型基础设施底座（二）_1018 陕广新闻.md": {
+      "sha256": "882b084861a0155f6f5420fa7385f28996437f817058ceea037231e0e4c4f403",
+      "bytes": 11699
+    },
+    "evidence-snapshots/碳硅道统｜统筹算力网节能升级 筑牢绿色新型基础设施底座（二）_1018 陕广新闻_snapshot.png": {
+      "sha256": "f504357f8adba6a628bd8b0bf4595d9390f76a7aada30b7e691da99f0377afeb",
+      "bytes": 2511754
+    }
+  }
+}

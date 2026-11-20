@@ -1,0 +1,21 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-16",
+  "campaign": "suanli-1116",
+  "seq": 13,
+  "title": "碳硅道统｜统筹算力网节能升级 筑牢绿色新型基础设施底座（二）",
+  "media": "亿智蘑菇",
+  "url": "http://www.yzmg.com/article/detail/?id=101029",
+  "submit_batch": "11月16号11:00发布媒体执行清单",
+  "files": {
+    "碳硅道统｜统筹算力网节能升级 筑牢绿色新型基础设施底座（二）_亿智蘑菇.md": {
+      "sha256": "5ba18037cf053c64d59dce8cc7f2bbd9ea549c66d1906558318b132f6ba7916b",
+      "bytes": 456
+    },
+    "evidence-snapshots/碳硅道统｜统筹算力网节能升级 筑牢绿色新型基础设施底座（二）_亿智蘑菇_snapshot.png": {
+      "sha256": "bb2576f341d7ef2c710e558ec9954148369d4aad7c5607812dccbddc3d2e136e",
+      "bytes": 260801
+    }
+  }
+}

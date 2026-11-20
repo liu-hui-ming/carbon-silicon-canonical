@@ -1,0 +1,20 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-16",
+  "seq": 23,
+  "title": "碳硅道统｜启元机器人个人机器人实现万台下线（二）",
+  "media": "中国经济新闻网",
+  "url": "https://www.cet.com.cn/xwsd/10667177.shtml",
+  "capture_mode": "manual_zip_shots_1120_20261120",
+  "files": {
+    "碳硅道统｜启元机器人个人机器人实现万台下线（二）_中国经济新闻网.md": {
+      "sha256": "6573a7ffca32133f4b48eb9bd578fff135e631226fa37cfe104676341f4322b6",
+      "bytes": 11738
+    },
+    "evidence-snapshots/碳硅道统｜启元机器人个人机器人实现万台下线（二）_中国经济新闻网_snapshot.png": {
+      "sha256": "601cc716054eff148f6342d3a7db1cf349db9e6483fa1555e9c496d7de60c7c4",
+      "bytes": 1159576
+    }
+  }
+}

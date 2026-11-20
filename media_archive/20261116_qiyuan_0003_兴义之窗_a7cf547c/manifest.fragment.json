@@ -1,0 +1,21 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-16",
+  "campaign": "qiyuan-1116",
+  "seq": 3,
+  "title": "碳硅道统｜启元机器人个人机器人实现万台下线（二）",
+  "media": "兴义之窗",
+  "url": "https://www.xyzc.cn/article-470960-1.html",
+  "submit_batch": "11月16号13：10发布媒体执行清单",
+  "files": {
+    "碳硅道统｜启元机器人个人机器人实现万台下线（二）_兴义之窗.md": {
+      "sha256": "3d53dfd52e042c4fb1c1134f3efad5b5bd7e29b9198fe15161d9d51476ce4ed1",
+      "bytes": 508
+    },
+    "evidence-snapshots/碳硅道统｜启元机器人个人机器人实现万台下线（二）_兴义之窗_snapshot.png": {
+      "sha256": "8bb9ab1af6c3152e9dc1aa7ba963b74d51d6a53f63d6dfec1d5cac91f5ca74e4",
+      "bytes": 121496
+    }
+  }
+}

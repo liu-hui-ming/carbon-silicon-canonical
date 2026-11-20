@@ -1,0 +1,21 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-16",
+  "campaign": "qiyuan-1116",
+  "seq": 18,
+  "title": "碳硅道统｜启元机器人个人机器人实现万台下线（二）",
+  "media": "二三里客户端",
+  "url": "https://www.ersanli.cn/longtext/detail.html?feedId=226521190364439&type=6&appId=1&type=11",
+  "submit_batch": "11月16号13：10发布媒体执行清单",
+  "files": {
+    "碳硅道统｜启元机器人个人机器人实现万台下线（二）_二三里客户端.md": {
+      "sha256": "f4cee133e076e440294e735587e7a7db4b4140dbcc43ae5464f536cc4d0fcce9",
+      "bytes": 9991
+    },
+    "evidence-snapshots/碳硅道统｜启元机器人个人机器人实现万台下线（二）_二三里客户端_snapshot.png": {
+      "sha256": "1a3bd9fb0f32073769de685ea12517fb505c1d882510c153a53aba87f9df332b",
+      "bytes": 3249841
+    }
+  }
+}

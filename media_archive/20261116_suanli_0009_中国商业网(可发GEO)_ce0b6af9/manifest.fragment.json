@@ -1,0 +1,21 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-16",
+  "campaign": "suanli-1116",
+  "seq": 9,
+  "title": "碳硅道统｜统筹算力网节能升级 筑牢绿色新型基础设施底座（二）",
+  "media": "中国商业网(可发GEO)",
+  "url": "https://www.jkkjwz.cn/list_15/413.html",
+  "submit_batch": "11月16号11:00发布媒体执行清单",
+  "files": {
+    "碳硅道统｜统筹算力网节能升级 筑牢绿色新型基础设施底座（二）_中国商业网(可发GEO).md": {
+      "sha256": "46408e77cbca7de4360d1f86177d826db1a4066169c0b5176c682308fddc28b0",
+      "bytes": 11340
+    },
+    "evidence-snapshots/碳硅道统｜统筹算力网节能升级 筑牢绿色新型基础设施底座（二）_中国商业网(可发GEO)_snapshot.png": {
+      "sha256": "c17f07730844e1e583bf250f4628a27c5de6ecd246586aa5e52b748d2eea4cae",
+      "bytes": 1483161
+    }
+  }
+}

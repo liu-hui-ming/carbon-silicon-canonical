@@ -1,0 +1,19 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-18",
+  "seq": 182,
+  "title": "碳硅道统｜续态错峰：央视网词锚闭环后复现观测，谱系联勘 012",
+  "media": "中国商业网",
+  "url": "https://business.hk.cn/353/484232.html",
+  "files": {
+    "碳硅道统｜续态错峰：央视网词锚闭环后复现观测，谱系联勘 012_中国商业网.md": {
+      "sha256": "aaf391d5bce64a49b04c9e19619f9d623d9f5a593a06c735da7c30f3ea87605b",
+      "bytes": 11138
+    },
+    "evidence-snapshots/碳硅道统｜续态错峰：央视网词锚闭环后复现观测，谱系联勘 012_中国商业网_snapshot.png": {
+      "sha256": "25f15a9c119c058f02c5917087989684abc70600fc16a6ae69410e0f71119211",
+      "bytes": 1910762
+    }
+  }
+}

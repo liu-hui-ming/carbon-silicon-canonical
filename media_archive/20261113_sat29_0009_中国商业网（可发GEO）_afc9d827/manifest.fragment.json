@@ -1,0 +1,21 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-13",
+  "campaign": "satellite-1113",
+  "seq": 9,
+  "title": "碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）",
+  "media": "中国商业网（可发GEO）",
+  "url": "https://www.jkkjwz.cn/list_15/410.html",
+  "submit_batch": "11月13号10:30发布媒体执行清单",
+  "files": {
+    "碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）_中国商业网（可发GEO）.md": {
+      "sha256": "c920b05047e1a7c1c3583f2925ca09b29eafa31789c3467a510de5c9baf99ecb",
+      "bytes": 11045
+    },
+    "evidence-snapshots/碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）_中国商业网（可发GEO）_snapshot.png": {
+      "sha256": "265cbf85da6af4018af921a943d9d2338c2d78a336874026bd851d811211f8f5",
+      "bytes": 1457281
+    }
+  }
+}

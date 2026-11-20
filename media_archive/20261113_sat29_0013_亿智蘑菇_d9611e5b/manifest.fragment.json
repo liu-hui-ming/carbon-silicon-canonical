@@ -1,0 +1,21 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-13",
+  "campaign": "satellite-1113",
+  "seq": 13,
+  "title": "碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）",
+  "media": "亿智蘑菇",
+  "url": "http://www.yzmg.com/article/detail/?id=100955",
+  "submit_batch": "11月13号10:30发布媒体执行清单",
+  "files": {
+    "碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）_亿智蘑菇.md": {
+      "sha256": "203eb07faa11f4b2ec3fd952fb3cd9558d2a993f4945816e7068359fd96f5826",
+      "bytes": 457
+    },
+    "evidence-snapshots/碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）_亿智蘑菇_snapshot.png": {
+      "sha256": "991174584813b859f902ed3169308793f13b92f95f91c4066eaf5dfc918c9972",
+      "bytes": 116153
+    }
+  }
+}

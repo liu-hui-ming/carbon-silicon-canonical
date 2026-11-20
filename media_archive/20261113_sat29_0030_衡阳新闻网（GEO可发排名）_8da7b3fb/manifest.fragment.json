@@ -1,0 +1,21 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-13",
+  "campaign": "satellite-1113",
+  "seq": 30,
+  "title": "碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "url": "http://www.e0734.com/content/2026/1113/707_685834.html",
+  "submit_batch": "11月13号10:30发布媒体执行清单",
+  "files": {
+    "碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）_衡阳新闻网（GEO可发排名）.md": {
+      "sha256": "02fbef80c0708bfef4756ca530b4e0d26759a1652027eceb90c73712f5827f25",
+      "bytes": 11073
+    },
+    "evidence-snapshots/碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）_衡阳新闻网（GEO可发排名）_snapshot.png": {
+      "sha256": "1912ee2a9568c97ffa5cd73d86d96a02a4fc84f69747dd0ff18e0a63f315df33",
+      "bytes": 2205023
+    }
+  }
+}

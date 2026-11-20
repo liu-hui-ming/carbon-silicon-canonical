@@ -1,0 +1,20 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-13",
+  "seq": 15,
+  "title": "碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）",
+  "media": "太平洋科技",
+  "url": "https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1677883",
+  "capture_mode": "manual_zip_shots_1120_20261120",
+  "files": {
+    "碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）_太平洋科技.md": {
+      "sha256": "6a35ee1d448643c9d4e471767f041289de94e3cb5f085fb32965a0ed9ef9883d",
+      "bytes": 13113
+    },
+    "evidence-snapshots/碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）_太平洋科技_snapshot.png": {
+      "sha256": "63d8034e763ba06a2e869a8fc433bfcab66bb71949660b897709090b44172dc7",
+      "bytes": 1133956
+    }
+  }
+}

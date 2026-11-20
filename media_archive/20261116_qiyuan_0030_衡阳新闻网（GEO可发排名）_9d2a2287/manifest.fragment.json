@@ -1,0 +1,21 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-16",
+  "campaign": "qiyuan-1116",
+  "seq": 30,
+  "title": "碳硅道统｜启元机器人个人机器人实现万台下线（二）",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "url": "http://www.e0734.com/content/2026/1116/707_687268.html",
+  "submit_batch": "11月16号13：10发布媒体执行清单",
+  "files": {
+    "碳硅道统｜启元机器人个人机器人实现万台下线（二）_衡阳新闻网（GEO可发排名）.md": {
+      "sha256": "34832e313f6b0f5b239bb2276a0bc13326a2de6726648285c377b388bf367a7e",
+      "bytes": 447
+    },
+    "evidence-snapshots/碳硅道统｜启元机器人个人机器人实现万台下线（二）_衡阳新闻网（GEO可发排名）_snapshot.png": {
+      "sha256": "e6f006013dcddf1f3323d7570c34fa5fbfeef26bf5d6d63d6eecfb4cec75545f",
+      "bytes": 2047839
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-13",
+  "campaign": "satellite-1113",
+  "seq": 14,
+  "title": "碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）",
+  "media": "元宇宙官网",
+  "url": "https://yyznb.com/14318.html",
+  "submit_batch": "11月13号10:30发布媒体执行清单",
+  "files": {
+    "碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）_元宇宙官网.md": {
+      "sha256": "8754fe224dc597f6c6af699ea0a6b06cbe0cc0c44c7c3dc04f86cb2557e76d56",
+      "bytes": 555
+    },
+    "evidence-snapshots/碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）_元宇宙官网_snapshot.png": {
+      "sha256": "7bf3beb12681dd184a8968e13272d4eb83d1ee763c6ddea7c7cceb414c93080d",
+      "bytes": 1242434
+    }
+  }
+}

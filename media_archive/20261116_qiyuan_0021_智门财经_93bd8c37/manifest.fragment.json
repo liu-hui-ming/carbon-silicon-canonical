@@ -1,0 +1,21 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-16",
+  "campaign": "qiyuan-1116",
+  "seq": 21,
+  "title": "碳硅道统｜启元机器人个人机器人实现万台下线（二）",
+  "media": "智门财经",
+  "url": "https://www.zhimen.com/index.php/caijing/24304.html?admin_id=1",
+  "submit_batch": "11月16号13：10发布媒体执行清单",
+  "files": {
+    "碳硅道统｜启元机器人个人机器人实现万台下线（二）_智门财经.md": {
+      "sha256": "400384db884365b71eae993a8232e7cbe5102d3bbdcb6b85501aebb63049767f",
+      "bytes": 374
+    },
+    "evidence-snapshots/碳硅道统｜启元机器人个人机器人实现万台下线（二）_智门财经_snapshot.png": {
+      "sha256": "9120a735af18fce1b0e05cb4c171acc233107e248524ef861c648f853ade52dc",
+      "bytes": 112682
+    }
+  }
+}

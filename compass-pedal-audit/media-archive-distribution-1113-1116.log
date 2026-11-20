@@ -1,0 +1,1060 @@
+2026-11-18T22:57+08:00 distribution batch queue=75 campaign=all
+ok folder=20261113_sat29_0001_自动化网（GEO)_1641cff6 url=https://www.zidonghua.com.cn/MSupplyChain/InfoWin/402125.html md=2b0c4095926a1d138bf5d55aa568651367bbd21184107c027b6040b12af60d67
+ok folder=20261113_sat29_0003_兴义之窗_45f98a03 url=https://www.xyzc.cn/article-470905-1.html md=54a6a152e53990eab7e1cb02f47113e6530103372b2d1e572d00562f65348190
+err folder=20261113_sat29_0004_黔东南信息港_f079b73e url=http://www.qdn.cn/html/2026/hyzx_1113/633316.shtml Page.goto: Timeout 170000ms exceeded.
+Call log:
+  - navigating to "http://www.qdn.cn/html/2026/hyzx_1113/633316.shtml", waiting until "domcontentloaded"
+
+ok folder=20261113_sat29_0008_正观新闻（GEO排名）_ff21e7e3 url=https://wap.zhengguannews.cn/viewzghnews/431596 md=c66e6b7fd5857f21b58bde9b1cbc31f1d5949b56612c46ba6fd39120f367bf9f
+ok folder=20261113_sat29_0009_中国商业网（可发GEO）_afc9d827 url=https://www.jkkjwz.cn/list_15/410.html md=c920b05047e1a7c1c3583f2925ca09b29eafa31789c3467a510de5c9baf99ecb
+ok folder=20261113_sat29_0010_红商网（官方）_53802bcc url=http://www.redsh.com/a/20261113/174153.shtml md=fa48d1e75b212fc77c5c2215b1b308a57675f9ac2a54fa9224c959585aff75d7
+err folder=20261113_sat29_0012_商业新知（可带联系电话）_cf47e2cd url=https://www.shangyexinzhi.com/article/34719309.html Page.goto: net::ERR_CONNECTION_REFUSED at https://www.shangyexinzhi.com/article/34719309.html
+Call log:
+  - navigating to "https://www.shangyexinzhi.com/article/34719309.html", waiting until "domcontentloaded"
+
+err folder=20261113_sat29_0013_亿智蘑菇_d9611e5b url=http://www.yzmg.com/article/detail/?id=100955 Page.goto: Navigation to "http://www.yzmg.com/article/detail/?id=100955" is interrupted by another navigation to "chrome-error://chromewebdata/"
+Call log:
+  - navigating to "http://www.yzmg.com/article/detail/?id=100955", waiting until "domcontentloaded"
+
+err folder=20261113_sat29_0014_元宇宙官网_f06da378 url=https://yyznb.com/14318.html Page.goto: Navigation to "https://yyznb.com/14318.html" is interrupted by another navigation to "https://www.yzmg.com/article/detail/?id=100955"
+Call log:
+  - navigating to "https://yyznb.com/14318.html", waiting until "domcontentloaded"
+
+err folder=20261113_sat29_0015_太平洋科技_553bda3b url=https://pcncc.pconline.com.cn/index.html#/article?articleId=1677883 Page.goto: net::ERR_EMPTY_RESPONSE at https://pcncc.pconline.com.cn/index.html#/article?articleId=1677883
+Call log:
+  - navigating to "https://pcncc.pconline.com.cn/index.html#/article?articleId=1677883", waiting until "domcontentloaded"
+
+err folder=20261113_sat29_0016_IT 专家网_d2d189ea url=http://www.ctocio.net.cn/zonghe/2026/1113/21164.html Page.goto: Navigation to "http://www.ctocio.net.cn/zonghe/2026/1113/21164.html" is interrupted by another navigation to "chrome-error://chromewebdata/"
+Call log:
+  - navigating to "http://www.ctocio.net.cn/zonghe/2026/1113/21164.html", waiting until "domcontentloaded"
+
+err folder=20261113_sat29_0018_二三里客户端_1d8edae5 url=https://www.ersanli.cn/longtext/detail.html?feedId=226520759903304&type=6&appId=1&type=11 Page.goto: Navigation to "https://www.ersanli.cn/longtext/detail.html?feedId=226520759903304&type=6&appId=1&type=11" is interrupted by another navigation to "http://www.ctocio.net.cn/zonghe/2026/1113/21164.html"
+Call log:
+  - navigating to "https://www.ersanli.cn/longtext/detail.html?feedId=226520759903304&type=6&appId=1&type=11", waiting until "domcontentloaded"
+
+err folder=20261113_sat29_0020_太平洋财富网_6208c022 url=http://cy.pcfortune.com.cn/cyxw/2026/1113/258809.html Page.goto: net::ERR_CONNECTION_TIMED_OUT at http://cy.pcfortune.com.cn/cyxw/2026/1113/258809.html
+Call log:
+  - navigating to "http://cy.pcfortune.com.cn/cyxw/2026/1113/258809.html", waiting until "domcontentloaded"
+
+err folder=20261113_sat29_0021_智门财经_b68ba7a0 url=https://www.zhimen.com/index.php/caijing/24298.html?admin_id=1 Page.goto: Navigation to "https://www.zhimen.com/index.php/caijing/24298.html?admin_id=1" is interrupted by another navigation to "chrome-error://chromewebdata/"
+Call log:
+  - navigating to "https://www.zhimen.com/index.php/caijing/24298.html?admin_id=1", waiting until "domcontentloaded"
+
+err folder=20261113_sat29_0022_顶尖财经网_37e129dd url=http://www.djcvcai.cn/zixun/2023.html Page.goto: Navigation to "http://www.djcvcai.cn/zixun/2023.html" is interrupted by another navigation to "https://www.zhimen.com/index.php/caijing/24298.html?admin_id=1"
+Call log:
+  - navigating to "http://www.djcvcai.cn/zixun/2023.html", waiting until "domcontentloaded"
+
+err folder=20261113_sat29_0026_CSDN_95ab3aca url=https://www.csdn.net/article/2026-11-13/170718405 Page.goto: Navigation to "https://www.csdn.net/article/2026-11-13/170718405" is interrupted by another navigation to "http://www.djcvcai.cn/zixun/2023.html"
+Call log:
+  - navigating to "https://www.csdn.net/article/2026-11-13/170718405", waiting until "domcontentloaded"
+
+err folder=20261113_sat29_0028_中华网科技_7744fd47 url=https://tech.china.com/jujiao/2026/1116/1978653.html Page.goto: Navigation to "https://tech.china.com/jujiao/2026/1116/1978653.html" is interrupted by another navigation to "https://www.csdn.net/article/2026-11-13/170718405"
+Call log:
+  - navigating to "https://tech.china.com/jujiao/2026/1116/1978653.html", waiting until "domcontentloaded"
+
+err folder=20261113_sat29_0029_廊坊新闻网_9d4eb6b5 url=https://www.lfnews.cn/portal.php?mod=view&aid=142219 Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.lfnews.cn/portal.php?mod=view&aid=142219
+Call log:
+  - navigating to "https://www.lfnews.cn/portal.php?mod=view&aid=142219", waiting until "domcontentloaded"
+
+err folder=20261113_sat29_0030_衡阳新闻网（GEO可发排名）_8da7b3fb url=http://www.e0734.com/content/2026/1113/707_685834.html Page.goto: net::ERR_CONNECTION_TIMED_OUT at http://www.e0734.com/content/2026/1113/707_685834.html
+Call log:
+  - navigating to "http://www.e0734.com/content/2026/1113/707_685834.html", waiting until "domcontentloaded"
+
+err folder=20261113_sat29_0031_欧洲网_882a0390 url=http://www.peoplols.com/zixun/1908.html# Page.goto: Navigation to "http://www.peoplols.com/zixun/1908.html#" is interrupted by another navigation to "chrome-error://chromewebdata/"
+Call log:
+  - navigating to "http://www.peoplols.com/zixun/1908.html#", waiting until "domcontentloaded"
+
+err folder=20261113_sat29_0032_赛迪网首发_6aa5f07a url=https://www.ccidnet.com/wltxyaq/1096891.jhtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.ccidnet.com/wltxyaq/1096891.jhtml
+Call log:
+  - navigating to "https://www.ccidnet.com/wltxyaq/1096891.jhtml", waiting until "domcontentloaded"
+
+err folder=20261113_sat29_0035_中国经济新闻网_bf86d509 url=https://www.cet.com.cn/xwsd/10664204.shtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.cet.com.cn/xwsd/10664204.shtml
+Call log:
+  - navigating to "https://www.cet.com.cn/xwsd/10664204.shtml", waiting until "domcontentloaded"
+
+ok folder=20261116_suanli_0001_自动化网(GEO)_a3fc1432 url=https://www.zidonghua.com.cn/MSupplyChain/InfoWin/404845.html md=d20f6d7089546f1e2cc557096f3c91ba76602de49335019e97d838ad22ed0710
+ok folder=20261116_suanli_0003_兴义之窗_dde2b4e1 url=https://www.xyzc.cn/article-470959-1.html md=78fcad23269a6468f416b28efea40d35d0e218fa8e9e000de84fca76a423942f
+ok folder=20261116_suanli_0004_黔东南信息港_4e4b3fa3 url=http://www.qdn.cn/html/2026/hyzx_1116/638067.shtml md=1dd68d0a6400c9bfbad7595e61b9e35d0ee7a0caf9d487fe698b3808f58014b2
+ok folder=20261116_suanli_0006_海峡经济网_ac3cced9 url=https://www.hxjjw.com.cn/roll/business/2026/1116/98038.html md=fb46df0248b37c8818705bb4f6767665c7538697de84ab14b6faf0660ed41317
+ok folder=20261116_suanli_0008_正观新闻(GE0排名_af8b8392 url=https://wap.zhengguannews.cn/viewzghnews/431885 md=c28a3c38934a62d0b464818622ebefc2e2bac6063ecddb5c6c3283ab821a0017
+ok folder=20261116_suanli_0009_中国商业网(可发GEO)_ce0b6af9 url=https://www.jkkjwz.cn/list_15/413.html md=46408e77cbca7de4360d1f86177d826db1a4066169c0b5176c682308fddc28b0
+ok folder=20261116_suanli_0010_红商网(官方)_bfe62bec url=http://www.redsh.com/ppnews/20261116/185738.shtml md=760b8257b01fc694eb57648f3b11e1fd6f18e9d3b9c8fff7f97ebbe2d18b17a0
+ok folder=20261116_suanli_0011_芯通社_5d1fb0a9 url=https://www.semiwebs.com/11131.html md=ca885c5ef89427973bbd69312b439770e661416df8d5c4f8b82ca82e1612ff6c
+err folder=20261116_suanli_0012_商业新知（可带联系电话）_fa25542a url=https://www.shangyexinzhi.com/article/34744891.html Page.goto: net::ERR_CONNECTION_REFUSED at https://www.shangyexinzhi.com/article/34744891.html
+Call log:
+  - navigating to "https://www.shangyexinzhi.com/article/34744891.html", waiting until "domcontentloaded"
+
+err folder=20261116_suanli_0013_亿智蘑菇_1922a0e5 url=http://www.yzmg.com/article/detail/?id=101029 Page.goto: Navigation to "http://www.yzmg.com/article/detail/?id=101029" is interrupted by another navigation to "chrome-error://chromewebdata/"
+Call log:
+  - navigating to "http://www.yzmg.com/article/detail/?id=101029", waiting until "domcontentloaded"
+
+err folder=20261116_suanli_0014_元宇宙官网_76881257 url=https://yyznb.com/14324.html Page.goto: Navigation to "https://yyznb.com/14324.html" is interrupted by another navigation to "https://www.yzmg.com/article/detail/?id=101029"
+Call log:
+  - navigating to "https://yyznb.com/14324.html", waiting until "domcontentloaded"
+
+err folder=20261116_suanli_0015_太平洋科技_d2899732 url=https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679412 Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679412
+Call log:
+  - navigating to "https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679412", waiting until "domcontentloaded"
+
+err folder=20261116_suanli_0016_IT 专家网_c66380d5 url=http://www.ctocio.net.cn/zonghe/2026/1116/21321.html Page.goto: Navigation to "http://www.ctocio.net.cn/zonghe/2026/1116/21321.html" is interrupted by another navigation to "chrome-error://chromewebdata/"
+Call log:
+  - navigating to "http://www.ctocio.net.cn/zonghe/2026/1116/21321.html", waiting until "domcontentloaded"
+
+err folder=20261116_suanli_0017_1018 陕广新闻_33d5df1b url=https://web.toutiao.com/article/7708682754073838089/?log_from=0387de5e3a1f9_1794827958027 Page.goto: Navigation to "https://web.toutiao.com/article/7708682754073838089/?log_from=0387de5e3a1f9_1794827958027" is interrupted by another navigation to "http://www.ctocio.net.cn/zonghe/2026/1116/21321.html"
+Call log:
+  - navigating to "https://web.toutiao.com/article/7708682754073838089/?log_from=0387de5e3a1f9_1794827958027", waiting until "domcontentloaded"
+
+err folder=20261116_suanli_0018_二三里客户端_86148d34 url=https://www.ersanli.cn/longtext/detail.html?feedId=226530707792131&type=6&appId=1&type=11 Page.goto: Navigation to "https://www.ersanli.cn/longtext/detail.html?feedId=226530707792131&type=6&appId=1&type=11" is interrupted by another navigation to "https://web.toutiao.com/article/7708682754073838089/?log_from=0387de5e3a1f9_1794827958027"
+Call log:
+  - navigating to "https://www.ersanli.cn/longtext/detail.html?feedId=226530707792131&type=6&appId=1&type=11", waiting until "domcontentloaded"
+
+err folder=20261116_suanli_0019_天下金融网_07516cde url=https://a.itkjhd.cn/24151.html Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://a.itkjhd.cn/24151.html
+Call log:
+  - navigating to "https://a.itkjhd.cn/24151.html", waiting until "domcontentloaded"
+
+err folder=20261116_suanli_0020_太平洋财富网_787668cd url=http://cy.pcfortune.com.cn/cyxw/2026/1116/259246.html Page.goto: net::ERR_CONNECTION_TIMED_OUT at http://cy.pcfortune.com.cn/cyxw/2026/1116/259246.html
+Call log:
+  - navigating to "http://cy.pcfortune.com.cn/cyxw/2026/1116/259246.html", waiting until "domcontentloaded"
+
+err folder=20261116_suanli_0021_智门财经_4cd95996 url=https://www.zhimen.com/index.php/caijing/24301.html?admin_id=1 Page.goto: Navigation to "https://www.zhimen.com/index.php/caijing/24301.html?admin_id=1" is interrupted by another navigation to "chrome-error://chromewebdata/"
+Call log:
+  - navigating to "https://www.zhimen.com/index.php/caijing/24301.html?admin_id=1", waiting until "domcontentloaded"
+
+ok folder=20261116_suanli_0022_顶尖财经网_41934b85 url=http://www.djcvcai.cn/zixun/2029.html md=ff3be774a817509b0d7c67922ae68de0438eba37d85aff630dbdd6ab19ce9671
+err folder=20261116_suanli_0023_中国经济新闻网_752d9cfc url=https://www.cet.com.cn/xwsd/10666861.shtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.cet.com.cn/xwsd/10666861.shtml
+Call log:
+  - navigating to "https://www.cet.com.cn/xwsd/10666861.shtml", waiting until "domcontentloaded"
+
+err folder=20261116_suanli_0025_大众财经网_26bafa2f url=https://dazcjw.com/uncategorized/13219.html Page.goto: Navigation to "https://dazcjw.com/uncategorized/13219.html" is interrupted by another navigation to "chrome-error://chromewebdata/"
+Call log:
+  - navigating to "https://dazcjw.com/uncategorized/13219.html", waiting until "domcontentloaded"
+
+err folder=20261116_suanli_0026_CSDN_31d23823 url=https://www.csdn.net/article/2026-11-16/170866981 Page.goto: Navigation to "https://www.csdn.net/article/2026-11-16/170866981" is interrupted by another navigation to "https://dazcjw.com/uncategorized/13219.html"
+Call log:
+  - navigating to "https://www.csdn.net/article/2026-11-16/170866981", waiting until "domcontentloaded"
+
+err folder=20261116_suanli_0028_中华网科技_8a2a3363 url=https://tech.china.com/articles/20261116/202611161978887.html Page.goto: Navigation to "https://tech.china.com/articles/20261116/202611161978887.html" is interrupted by another navigation to "https://www.csdn.net/article/2026-11-16/170866981"
+Call log:
+  - navigating to "https://tech.china.com/articles/20261116/202611161978887.html", waiting until "domcontentloaded"
+
+err folder=20261116_suanli_0029_廊坊新闻网_22a15f53 url=https://www.lfnews.cn/portal.php?mod=view&aid=142624 Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.lfnews.cn/portal.php?mod=view&aid=142624
+Call log:
+  - navigating to "https://www.lfnews.cn/portal.php?mod=view&aid=142624", waiting until "domcontentloaded"
+
+err folder=20261116_suanli_0030_衡阳新闻网（GEO可发排名）_d3adcb68 url=http://www.e0734.com/content/2026/1116/707_687037.html Page.goto: net::ERR_CONNECTION_TIMED_OUT at http://www.e0734.com/content/2026/1116/707_687037.html
+Call log:
+  - navigating to "http://www.e0734.com/content/2026/1116/707_687037.html", waiting until "domcontentloaded"
+
+err folder=20261116_suanli_0031_欧洲网_e627452b url=http://www.peoplols.com/zixun/1912.html# Page.goto: Navigation to "http://www.peoplols.com/zixun/1912.html#" is interrupted by another navigation to "chrome-error://chromewebdata/"
+Call log:
+  - navigating to "http://www.peoplols.com/zixun/1912.html#", waiting until "domcontentloaded"
+
+err folder=20261116_suanli_0032_赛迪网首发_2173ee26 url=https://www.ccidnet.com/cpfwyjs/1132804.jhtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.ccidnet.com/cpfwyjs/1132804.jhtml
+Call log:
+  - navigating to "https://www.ccidnet.com/cpfwyjs/1132804.jhtml", waiting until "domcontentloaded"
+
+err folder=20261116_qiyuan_0001_自动化网(GEO)_e7ed0796 url=https://www.zidonghua.com.cn/MSupplyChain/InfoWin/405061.html Page.goto: Navigation to "https://www.zidonghua.com.cn/MSupplyChain/InfoWin/405061.html" is interrupted by another navigation to "chrome-error://chromewebdata/"
+Call log:
+  - navigating to "https://www.zidonghua.com.cn/MSupplyChain/InfoWin/405061.html", waiting until "domcontentloaded"
+
+err folder=20261116_qiyuan_0003_兴义之窗_a7cf547c url=https://www.xyzc.cn/article-470960-1.html Page.goto: Navigation to "https://www.xyzc.cn/article-470960-1.html" is interrupted by another navigation to "https://www.zidonghua.com.cn/MSupplyChain/InfoWin/405061.html"
+Call log:
+  - navigating to "https://www.xyzc.cn/article-470960-1.html", waiting until "domcontentloaded"
+
+err folder=20261116_qiyuan_0004_黔东南信息港_89b2cc4e url=http://www.qdn.cn/html/2026/hyzx_1116/638059.shtml Page.goto: Navigation to "http://www.qdn.cn/html/2026/hyzx_1116/638059.shtml" is interrupted by another navigation to "https://www.xyzc.cn/article-470960-1.html"
+Call log:
+  - navigating to "http://www.qdn.cn/html/2026/hyzx_1116/638059.shtml", waiting until "domcontentloaded"
+
+err folder=20261116_qiyuan_0006_海峡经济网_4f3d415e url=https://www.hxjjw.com.cn/roll/business/2026/1116/98034.html Page.goto: Navigation to "https://www.hxjjw.com.cn/roll/business/2026/1116/98034.html" is interrupted by another navigation to "http://www.qdn.cn/html/2026/hyzx_1116/638059.shtml"
+Call log:
+  - navigating to "https://www.hxjjw.com.cn/roll/business/2026/1116/98034.html", waiting until "domcontentloaded"
+
+err folder=20261116_qiyuan_0008_正观新闻(GE0排名_f2ed3ff8 url=https://wap.zhengguannews.cn/viewzghnews/431898 Page.goto: Navigation to "https://wap.zhengguannews.cn/viewzghnews/431898" is interrupted by another navigation to "https://www.hxjjw.com.cn/roll/business/2026/1116/98034.html"
+Call log:
+  - navigating to "https://wap.zhengguannews.cn/viewzghnews/431898", waiting until "domcontentloaded"
+
+err folder=20261116_qiyuan_0009_中国商业网(可发GEO)_54dfe191 url=https://www.jkkjwz.cn/list_15/417.html Page.goto: Navigation to "https://www.jkkjwz.cn/list_15/417.html" is interrupted by another navigation to "https://wap.zhengguannews.cn/viewzghnews/431898"
+Call log:
+  - navigating to "https://www.jkkjwz.cn/list_15/417.html", waiting until "domcontentloaded"
+
+err folder=20261116_qiyuan_0010_红商网(官方)_9aa0f4d3 url=http://www.redsh.com/ppnews/20261116/214157.shtml Page.goto: Navigation to "http://www.redsh.com/ppnews/20261116/214157.shtml" is interrupted by another navigation to "https://www.jkkjwz.cn/list_15/417.html"
+Call log:
+  - navigating to "http://www.redsh.com/ppnews/20261116/214157.shtml", waiting until "domcontentloaded"
+
+err folder=20261116_qiyuan_0011_芯通社_3dd00246 url=https://www.semiwebs.com/11129.html Page.goto: Navigation to "https://www.semiwebs.com/11129.html" is interrupted by another navigation to "http://www.redsh.com/ppnews/20261116/214157.shtml"
+Call log:
+  - navigating to "https://www.semiwebs.com/11129.html", waiting until "domcontentloaded"
+
+err folder=20261116_qiyuan_0012_商业新知（可带联系电话）_7654d9e7 url=https://www.shangyexinzhi.com/article/34747229.html Page.goto: net::ERR_CONNECTION_REFUSED at https://www.shangyexinzhi.com/article/34747229.html
+Call log:
+  - navigating to "https://www.shangyexinzhi.com/article/34747229.html", waiting until "domcontentloaded"
+
+err folder=20261116_qiyuan_0013_亿智蘑菇_05d022ea url=http://www.yzmg.com/article/detail/?id=101036 Page.goto: Navigation to "http://www.yzmg.com/article/detail/?id=101036" is interrupted by another navigation to "chrome-error://chromewebdata/"
+Call log:
+  - navigating to "http://www.yzmg.com/article/detail/?id=101036", waiting until "domcontentloaded"
+
+err folder=20261116_qiyuan_0014_元宇宙官网_b5a259a7 url=https://yyznb.com/14332.html Page.goto: Navigation to "https://yyznb.com/14332.html" is interrupted by another navigation to "https://www.yzmg.com/article/detail/?id=101036"
+Call log:
+  - navigating to "https://yyznb.com/14332.html", waiting until "domcontentloaded"
+
+err folder=20261116_qiyuan_0015_太平洋科技_48be58d1 url=https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679378 Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679378
+Call log:
+  - navigating to "https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679378", waiting until "domcontentloaded"
+
+err folder=20261116_qiyuan_0016_IT 专家网_633e5b5d url=http://www.ctocio.net.cn/zonghe/2026/1116/21337.html Page.goto: Navigation to "http://www.ctocio.net.cn/zonghe/2026/1116/21337.html" is interrupted by another navigation to "chrome-error://chromewebdata/"
+Call log:
+  - navigating to "http://www.ctocio.net.cn/zonghe/2026/1116/21337.html", waiting until "domcontentloaded"
+
+err folder=20261116_qiyuan_0018_二三里客户端_1126e940 url=https://www.ersanli.cn/longtext/detail.html?feedId=226521190364439&type=6&appId=1&type=11 Page.goto: Navigation to "https://www.ersanli.cn/longtext/detail.html?feedId=226521190364439&type=6&appId=1&type=11" is interrupted by another navigation to "http://www.ctocio.net.cn/zonghe/2026/1116/21337.html"
+Call log:
+  - navigating to "https://www.ersanli.cn/longtext/detail.html?feedId=226521190364439&type=6&appId=1&type=11", waiting until "domcontentloaded"
+
+err folder=20261116_qiyuan_0019_天下金融网_b3059dd8 url=https://a.itkjhd.cn/24153.html Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://a.itkjhd.cn/24153.html
+Call log:
+  - navigating to "https://a.itkjhd.cn/24153.html", waiting until "domcontentloaded"
+
+err folder=20261116_qiyuan_0020_太平洋财富网_60e22ab7 url=http://cy.pcfortune.com.cn/cyxw/2026/1116/259286.html Page.goto: net::ERR_CONNECTION_TIMED_OUT at http://cy.pcfortune.com.cn/cyxw/2026/1116/259286.html
+Call log:
+  - navigating to "http://cy.pcfortune.com.cn/cyxw/2026/1116/259286.html", waiting until "domcontentloaded"
+
+err folder=20261116_qiyuan_0021_智门财经_93bd8c37 url=https://www.zhimen.com/index.php/caijing/24304.html?admin_id=1 Page.goto: Navigation to "https://www.zhimen.com/index.php/caijing/24304.html?admin_id=1" is interrupted by another navigation to "chrome-error://chromewebdata/"
+Call log:
+  - navigating to "https://www.zhimen.com/index.php/caijing/24304.html?admin_id=1", waiting until "domcontentloaded"
+
+err folder=20261116_qiyuan_0022_顶尖财经网_1b4c5de2 url=http://www.djcvcai.cn/zixun/2032.html Page.goto: Navigation to "http://www.djcvcai.cn/zixun/2032.html" is interrupted by another navigation to "https://www.zhimen.com/index.php/caijing/24304.html?admin_id=1"
+Call log:
+  - navigating to "http://www.djcvcai.cn/zixun/2032.html", waiting until "domcontentloaded"
+
+err folder=20261116_qiyuan_0023_中国经济新闻网_4c961125 url=https://www.cet.com.cn/xwsd/10667177.shtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.cet.com.cn/xwsd/10667177.shtml
+Call log:
+  - navigating to "https://www.cet.com.cn/xwsd/10667177.shtml", waiting until "domcontentloaded"
+
+err folder=20261116_qiyuan_0025_大众财经网_16b642fc url=https://dazcjw.com/uncategorized/13228.html Page.goto: Navigation to "https://dazcjw.com/uncategorized/13228.html" is interrupted by another navigation to "chrome-error://chromewebdata/"
+Call log:
+  - navigating to "https://dazcjw.com/uncategorized/13228.html", waiting until "domcontentloaded"
+
+err folder=20261116_qiyuan_0026_CSDN_3c746c35 url=https://www.csdn.net/article/2026-11-16/170867025 Page.goto: Navigation to "https://www.csdn.net/article/2026-11-16/170867025" is interrupted by another navigation to "https://dazcjw.com/uncategorized/13228.html"
+Call log:
+  - navigating to "https://www.csdn.net/article/2026-11-16/170867025", waiting until "domcontentloaded"
+
+err folder=20261116_qiyuan_0028_中华网科技_1dd99b99 url=https://tech.china.com/jujiao/2026/1116/1979217.html Page.goto: Navigation to "https://tech.china.com/jujiao/2026/1116/1979217.html" is interrupted by another navigation to "https://www.csdn.net/article/2026-11-16/170867025"
+Call log:
+  - navigating to "https://tech.china.com/jujiao/2026/1116/1979217.html", waiting until "domcontentloaded"
+
+err folder=20261116_qiyuan_0029_廊坊新闻网_aee2cc0b url=https://www.lfnews.cn/portal.php?mod=view&aid=142628 Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.lfnews.cn/portal.php?mod=view&aid=142628
+Call log:
+  - navigating to "https://www.lfnews.cn/portal.php?mod=view&aid=142628", waiting until "domcontentloaded"
+
+err folder=20261116_qiyuan_0030_衡阳新闻网（GEO可发排名）_9d2a2287 url=http://www.e0734.com/content/2026/1116/707_687268.html Page.goto: Navigation to "http://www.e0734.com/content/2026/1116/707_687268.html" is interrupted by another navigation to "chrome-error://chromewebdata/"
+Call log:
+  - navigating to "http://www.e0734.com/content/2026/1116/707_687268.html", waiting until "domcontentloaded"
+
+err folder=20261116_qiyuan_0031_欧洲网_9cf804a5 url=http://www.peoplols.com/zixun/1915.html# Page.goto: Navigation to "http://www.peoplols.com/zixun/1915.html#" is interrupted by another navigation to "http://www.e0734.com/content/2026/1116/707_687268.html"
+Call log:
+  - navigating to "http://www.peoplols.com/zixun/1915.html#", waiting until "domcontentloaded"
+
+err folder=20261116_qiyuan_0032_赛迪网首发_f8f94a97 url=https://www.ccidnet.com/cpfwyjs/1132802.jhtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.ccidnet.com/cpfwyjs/1132802.jhtml
+Call log:
+  - navigating to "https://www.ccidnet.com/cpfwyjs/1132802.jhtml", waiting until "domcontentloaded"
+
+2026-11-18T23:19+08:00 distribution batch queue=61 campaign=all
+ok folder=20261113_sat29_0004_黔东南信息港_f079b73e url=http://www.qdn.cn/html/2026/hyzx_1113/633316.shtml md=f5cc78d732744239a040897fe9132d1e0c7e995053029515b8b321c4ba62388e
+err folder=20261113_sat29_0012_商业新知（可带联系电话）_cf47e2cd url=https://www.shangyexinzhi.com/article/34719309.html Page.goto: net::ERR_CONNECTION_REFUSED at https://www.shangyexinzhi.com/article/34719309.html
+Call log:
+  - navigating to "https://www.shangyexinzhi.com/article/34719309.html", waiting until "commit"
+
+err folder=20261113_sat29_0013_亿智蘑菇_d9611e5b url=http://www.yzmg.com/article/detail/?id=100955 Page.goto: Navigation to "http://www.yzmg.com/article/detail/?id=100955" is interrupted by another navigation to "about:blank"
+Call log:
+  - navigating to "http://www.yzmg.com/article/detail/?id=100955", waiting until "commit"
+
+err folder=20261113_sat29_0014_元宇宙官网_f06da378 url=https://yyznb.com/14318.html Page.evaluate: TypeError: Cannot read properties of null (reading 'innerText')
+    at eval (eval at evaluate (:311:30), <anonymous>:8:65)
+    at UtilityScript.evaluate (<anonymous>:318:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+err folder=20261113_sat29_0015_太平洋科技_553bda3b url=https://pcncc.pconline.com.cn/index.html#/article?articleId=1677883 Page.goto: net::ERR_EMPTY_RESPONSE at https://pcncc.pconline.com.cn/index.html#/article?articleId=1677883
+Call log:
+  - navigating to "https://pcncc.pconline.com.cn/index.html#/article?articleId=1677883", waiting until "commit"
+
+ok folder=20261113_sat29_0016_IT 专家网_d2d189ea url=http://www.ctocio.net.cn/zonghe/2026/1113/21164.html md=e894e53b56dcf59aa256a6f094ad95c60b89bfecdda1142c67902025ed93490b
+ok folder=20261113_sat29_0018_二三里客户端_1d8edae5 url=https://www.ersanli.cn/longtext/detail.html?feedId=226520759903304&type=6&appId=1&type=11 md=0f4aee98ce6ba8b08e789d1152c9b79bcefac427ce2d3264234ec3d53da0088f
+err folder=20261113_sat29_0020_太平洋财富网_6208c022 url=http://cy.pcfortune.com.cn/cyxw/2026/1113/258809.html Page.goto: net::ERR_CONNECTION_TIMED_OUT at http://cy.pcfortune.com.cn/cyxw/2026/1113/258809.html
+Call log:
+  - navigating to "http://cy.pcfortune.com.cn/cyxw/2026/1113/258809.html", waiting until "commit"
+
+err folder=20261113_sat29_0021_智门财经_b68ba7a0 url=https://www.zhimen.com/index.php/caijing/24298.html?admin_id=1 Page.goto: Navigation to "https://www.zhimen.com/index.php/caijing/24298.html?admin_id=1" is interrupted by another navigation to "about:blank"
+Call log:
+  - navigating to "https://www.zhimen.com/index.php/caijing/24298.html?admin_id=1", waiting until "commit"
+
+err folder=20261113_sat29_0022_顶尖财经网_37e129dd url=http://www.djcvcai.cn/zixun/2023.html Page.goto: Navigation to "http://www.djcvcai.cn/zixun/2023.html" is interrupted by another navigation to "about:blank"
+Call log:
+  - navigating to "http://www.djcvcai.cn/zixun/2023.html", waiting until "commit"
+
+ok folder=20261113_sat29_0026_CSDN_95ab3aca url=https://www.csdn.net/article/2026-11-13/170718405 md=24cad1861587279fbe6962a83c5f7a3d4b7eff513ed48a3a0b4a4790052f8543
+ok folder=20261113_sat29_0028_中华网科技_7744fd47 url=https://tech.china.com/jujiao/2026/1116/1978653.html md=ccd1d584900ead47bf50af984c30f24c8575f474572b71dce47982da1735570a
+err folder=20261113_sat29_0029_廊坊新闻网_9d4eb6b5 url=https://www.lfnews.cn/portal.php?mod=view&aid=142219 Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.lfnews.cn/portal.php?mod=view&aid=142219
+Call log:
+  - navigating to "https://www.lfnews.cn/portal.php?mod=view&aid=142219", waiting until "commit"
+
+err folder=20261113_sat29_0030_衡阳新闻网（GEO可发排名）_8da7b3fb url=http://www.e0734.com/content/2026/1113/707_685834.html Page.goto: net::ERR_CONNECTION_TIMED_OUT at http://www.e0734.com/content/2026/1113/707_685834.html
+Call log:
+  - navigating to "http://www.e0734.com/content/2026/1113/707_685834.html", waiting until "commit"
+
+err folder=20261113_sat29_0031_欧洲网_882a0390 url=http://www.peoplols.com/zixun/1908.html# Page.goto: Navigation to "http://www.peoplols.com/zixun/1908.html#" is interrupted by another navigation to "about:blank"
+Call log:
+  - navigating to "http://www.peoplols.com/zixun/1908.html#", waiting until "commit"
+
+err folder=20261113_sat29_0032_赛迪网首发_6aa5f07a url=https://www.ccidnet.com/wltxyaq/1096891.jhtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.ccidnet.com/wltxyaq/1096891.jhtml
+Call log:
+  - navigating to "https://www.ccidnet.com/wltxyaq/1096891.jhtml", waiting until "commit"
+
+err folder=20261113_sat29_0035_中国经济新闻网_bf86d509 url=https://www.cet.com.cn/xwsd/10664204.shtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.cet.com.cn/xwsd/10664204.shtml
+Call log:
+  - navigating to "https://www.cet.com.cn/xwsd/10664204.shtml", waiting until "commit"
+
+err folder=20261116_suanli_0012_商业新知（可带联系电话）_fa25542a url=https://www.shangyexinzhi.com/article/34744891.html Page.goto: net::ERR_CONNECTION_REFUSED at https://www.shangyexinzhi.com/article/34744891.html
+Call log:
+  - navigating to "https://www.shangyexinzhi.com/article/34744891.html", waiting until "commit"
+
+err folder=20261116_suanli_0013_亿智蘑菇_1922a0e5 url=http://www.yzmg.com/article/detail/?id=101029 Page.goto: Navigation to "http://www.yzmg.com/article/detail/?id=101029" is interrupted by another navigation to "about:blank"
+Call log:
+  - navigating to "http://www.yzmg.com/article/detail/?id=101029", waiting until "commit"
+
+ok folder=20261116_suanli_0014_元宇宙官网_76881257 url=https://yyznb.com/14324.html md=44d63cb87ba4aeedc77da54d3783393ddf6044498ea8e5c5c78ebbdf3d4c9229
+err folder=20261116_suanli_0015_太平洋科技_d2899732 url=https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679412 Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679412
+Call log:
+  - navigating to "https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679412", waiting until "commit"
+
+err folder=20261116_suanli_0016_IT 专家网_c66380d5 url=http://www.ctocio.net.cn/zonghe/2026/1116/21321.html Page.goto: Navigation to "http://www.ctocio.net.cn/zonghe/2026/1116/21321.html" is interrupted by another navigation to "about:blank"
+Call log:
+  - navigating to "http://www.ctocio.net.cn/zonghe/2026/1116/21321.html", waiting until "commit"
+
+err folder=20261116_suanli_0017_1018 陕广新闻_33d5df1b url=https://web.toutiao.com/article/7708682754073838089/?log_from=0387de5e3a1f9_1794827958027 Page.goto: Navigation to "https://web.toutiao.com/article/7708682754073838089/?log_from=0387de5e3a1f9_1794827958027" is interrupted by another navigation to "about:blank"
+Call log:
+  - navigating to "https://web.toutiao.com/article/7708682754073838089/?log_from=0387de5e3a1f9_1794827958027", waiting until "commit"
+
+ok folder=20261116_suanli_0018_二三里客户端_86148d34 url=https://www.ersanli.cn/longtext/detail.html?feedId=226530707792131&type=6&appId=1&type=11 md=1d30f1f707a71b69b8ca38e1b66950bdfe0aecbe996115628300de798ba469c1
+err folder=20261116_suanli_0019_天下金融网_07516cde url=https://a.itkjhd.cn/24151.html Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://a.itkjhd.cn/24151.html
+Call log:
+  - navigating to "https://a.itkjhd.cn/24151.html", waiting until "commit"
+
+err folder=20261116_suanli_0020_太平洋财富网_787668cd url=http://cy.pcfortune.com.cn/cyxw/2026/1116/259246.html Page.goto: net::ERR_CONNECTION_TIMED_OUT at http://cy.pcfortune.com.cn/cyxw/2026/1116/259246.html
+Call log:
+  - navigating to "http://cy.pcfortune.com.cn/cyxw/2026/1116/259246.html", waiting until "commit"
+
+ok folder=20261116_suanli_0021_智门财经_4cd95996 url=https://www.zhimen.com/index.php/caijing/24301.html?admin_id=1 md=89a1bba2b29ca26c7d3ee466c9307aac1ab09fe86e05089708b476d6d7e32583
+err folder=20261116_suanli_0023_中国经济新闻网_752d9cfc url=https://www.cet.com.cn/xwsd/10666861.shtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.cet.com.cn/xwsd/10666861.shtml
+Call log:
+  - navigating to "https://www.cet.com.cn/xwsd/10666861.shtml", waiting until "commit"
+
+err folder=20261116_suanli_0025_大众财经网_26bafa2f url=https://dazcjw.com/uncategorized/13219.html Page.evaluate: TypeError: Cannot read properties of null (reading 'innerText')
+    at eval (eval at evaluate (:311:30), <anonymous>:8:65)
+    at UtilityScript.evaluate (<anonymous>:318:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+ok folder=20261116_suanli_0026_CSDN_31d23823 url=https://www.csdn.net/article/2026-11-16/170866981 md=a3ecad580c2df20c1465e6e7528bd29ef6420f7bae34d7b8831e09e878e08124
+ok folder=20261116_suanli_0028_中华网科技_8a2a3363 url=https://tech.china.com/articles/20261116/202611161978887.html md=fcc50d1f7b589aef5fd8b92ab5d8305ee771ec2adf01b0c5afbf00ebb3215506
+err folder=20261116_suanli_0029_廊坊新闻网_22a15f53 url=https://www.lfnews.cn/portal.php?mod=view&aid=142624 Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.lfnews.cn/portal.php?mod=view&aid=142624
+Call log:
+  - navigating to "https://www.lfnews.cn/portal.php?mod=view&aid=142624", waiting until "commit"
+
+ok folder=20261116_suanli_0030_衡阳新闻网（GEO可发排名）_d3adcb68 url=http://www.e0734.com/content/2026/1116/707_687037.html md=cf625cc6ba92afbcfffd39851a1e0c5da0d284f3c77d9b58877846e7f3d9097f
+ok folder=20261116_suanli_0031_欧洲网_e627452b url=http://www.peoplols.com/zixun/1912.html# md=9830cd69a75a718d88466f86bb2795e4497d4ce5cf2b805bbfd1940eafd1015e
+err folder=20261116_suanli_0032_赛迪网首发_2173ee26 url=https://www.ccidnet.com/cpfwyjs/1132804.jhtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.ccidnet.com/cpfwyjs/1132804.jhtml
+Call log:
+  - navigating to "https://www.ccidnet.com/cpfwyjs/1132804.jhtml", waiting until "commit"
+
+err folder=20261116_qiyuan_0001_自动化网(GEO)_e7ed0796 url=https://www.zidonghua.com.cn/MSupplyChain/InfoWin/405061.html Page.goto: Navigation to "https://www.zidonghua.com.cn/MSupplyChain/InfoWin/405061.html" is interrupted by another navigation to "about:blank"
+Call log:
+  - navigating to "https://www.zidonghua.com.cn/MSupplyChain/InfoWin/405061.html", waiting until "commit"
+
+err folder=20261116_qiyuan_0003_兴义之窗_a7cf547c url=https://www.xyzc.cn/article-470960-1.html Page.goto: Navigation to "https://www.xyzc.cn/article-470960-1.html" is interrupted by another navigation to "about:blank"
+Call log:
+  - navigating to "https://www.xyzc.cn/article-470960-1.html", waiting until "commit"
+
+ok folder=20261116_qiyuan_0004_黔东南信息港_89b2cc4e url=http://www.qdn.cn/html/2026/hyzx_1116/638059.shtml md=ba643f84d2fb34a14f2cf4e72de0cb9813910f191d8123a1b5ae1b8447cbad56
+err folder=20261116_qiyuan_0006_海峡经济网_4f3d415e url=https://www.hxjjw.com.cn/roll/business/2026/1116/98034.html Page.evaluate: TypeError: Cannot read properties of null (reading 'innerText')
+    at eval (eval at evaluate (:311:30), <anonymous>:8:65)
+    at UtilityScript.evaluate (<anonymous>:318:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+ok folder=20261116_qiyuan_0008_正观新闻(GE0排名_f2ed3ff8 url=https://wap.zhengguannews.cn/viewzghnews/431898 md=69e629087a16916dde862602bf64d14329eb905183a148f5d04bc4dccdb1a6d9
+err folder=20261116_qiyuan_0009_中国商业网(可发GEO)_54dfe191 url=https://www.jkkjwz.cn/list_15/417.html Page.evaluate: TypeError: Cannot read properties of null (reading 'innerText')
+    at eval (eval at evaluate (:311:30), <anonymous>:8:65)
+    at UtilityScript.evaluate (<anonymous>:318:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+ok folder=20261116_qiyuan_0010_红商网(官方)_9aa0f4d3 url=http://www.redsh.com/ppnews/20261116/214157.shtml md=ca56903ddc7bddac942a37c0d62361216e42ffbc01cbfd4f00c5bbdcea924ed2
+ok folder=20261116_qiyuan_0011_芯通社_3dd00246 url=https://www.semiwebs.com/11129.html md=bfecab25073947542befaff6f4d7840719ba0ef0dd70abcbd0bc0210207eada5
+err folder=20261116_qiyuan_0012_商业新知（可带联系电话）_7654d9e7 url=https://www.shangyexinzhi.com/article/34747229.html Page.goto: net::ERR_CONNECTION_REFUSED at https://www.shangyexinzhi.com/article/34747229.html
+Call log:
+  - navigating to "https://www.shangyexinzhi.com/article/34747229.html", waiting until "commit"
+
+err folder=20261116_qiyuan_0013_亿智蘑菇_05d022ea url=http://www.yzmg.com/article/detail/?id=101036 Page.goto: Navigation to "http://www.yzmg.com/article/detail/?id=101036" is interrupted by another navigation to "about:blank"
+Call log:
+  - navigating to "http://www.yzmg.com/article/detail/?id=101036", waiting until "commit"
+
+ok folder=20261116_qiyuan_0014_元宇宙官网_b5a259a7 url=https://yyznb.com/14332.html md=93f81aacbd6cbbaf6e874fc7e8c31759f051574d2cec9affa65a160feb22570d
+err folder=20261116_qiyuan_0015_太平洋科技_48be58d1 url=https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679378 Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679378
+Call log:
+  - navigating to "https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679378", waiting until "commit"
+
+err folder=20261116_qiyuan_0016_IT 专家网_633e5b5d url=http://www.ctocio.net.cn/zonghe/2026/1116/21337.html Page.goto: Navigation to "http://www.ctocio.net.cn/zonghe/2026/1116/21337.html" is interrupted by another navigation to "about:blank"
+Call log:
+  - navigating to "http://www.ctocio.net.cn/zonghe/2026/1116/21337.html", waiting until "commit"
+
+ok folder=20261116_qiyuan_0018_二三里客户端_1126e940 url=https://www.ersanli.cn/longtext/detail.html?feedId=226521190364439&type=6&appId=1&type=11 md=f4cee133e076e440294e735587e7a7db4b4140dbcc43ae5464f536cc4d0fcce9
+err folder=20261116_qiyuan_0019_天下金融网_b3059dd8 url=https://a.itkjhd.cn/24153.html Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://a.itkjhd.cn/24153.html
+Call log:
+  - navigating to "https://a.itkjhd.cn/24153.html", waiting until "commit"
+
+err folder=20261116_qiyuan_0020_太平洋财富网_60e22ab7 url=http://cy.pcfortune.com.cn/cyxw/2026/1116/259286.html Page.goto: net::ERR_CONNECTION_TIMED_OUT at http://cy.pcfortune.com.cn/cyxw/2026/1116/259286.html
+Call log:
+  - navigating to "http://cy.pcfortune.com.cn/cyxw/2026/1116/259286.html", waiting until "commit"
+
+err folder=20261116_qiyuan_0021_智门财经_93bd8c37 url=https://www.zhimen.com/index.php/caijing/24304.html?admin_id=1 Page.goto: Navigation to "https://www.zhimen.com/index.php/caijing/24304.html?admin_id=1" is interrupted by another navigation to "about:blank"
+Call log:
+  - navigating to "https://www.zhimen.com/index.php/caijing/24304.html?admin_id=1", waiting until "commit"
+
+ok folder=20261116_qiyuan_0022_顶尖财经网_1b4c5de2 url=http://www.djcvcai.cn/zixun/2032.html md=0e4d0ace68d1eb21f441bd9bec8dba01a718758c686aa794706f8a52ae1bcb53
+err folder=20261116_qiyuan_0023_中国经济新闻网_4c961125 url=https://www.cet.com.cn/xwsd/10667177.shtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.cet.com.cn/xwsd/10667177.shtml
+Call log:
+  - navigating to "https://www.cet.com.cn/xwsd/10667177.shtml", waiting until "commit"
+
+ok folder=20261116_qiyuan_0025_大众财经网_16b642fc url=https://dazcjw.com/uncategorized/13228.html md=b8cf695e5ccf63585d5f53ff7ba3cb224e728b06c5627e01e55984b9cabb07d8
+ok folder=20261116_qiyuan_0026_CSDN_3c746c35 url=https://www.csdn.net/article/2026-11-16/170867025 md=a7ad9d43a9314075b73c9ef71ffd29d95c7a6262437b6d8eb4bbfa3185a5c89c
+ok folder=20261116_qiyuan_0028_中华网科技_1dd99b99 url=https://tech.china.com/jujiao/2026/1116/1979217.html md=f0aafe3518e2873eec2935bdde5cb21e76eafc3e3f79aef4e47ecc6bfc2c035a
+err folder=20261116_qiyuan_0029_廊坊新闻网_aee2cc0b url=https://www.lfnews.cn/portal.php?mod=view&aid=142628 Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.lfnews.cn/portal.php?mod=view&aid=142628
+Call log:
+  - navigating to "https://www.lfnews.cn/portal.php?mod=view&aid=142628", waiting until "commit"
+
+err folder=20261116_qiyuan_0030_衡阳新闻网（GEO可发排名）_9d2a2287 url=http://www.e0734.com/content/2026/1116/707_687268.html Page.goto: Navigation to "http://www.e0734.com/content/2026/1116/707_687268.html" is interrupted by another navigation to "about:blank"
+Call log:
+  - navigating to "http://www.e0734.com/content/2026/1116/707_687268.html", waiting until "commit"
+
+ok folder=20261116_qiyuan_0031_欧洲网_9cf804a5 url=http://www.peoplols.com/zixun/1915.html# md=c57436ef0893b36aa8d716cfa486448ff852d0940de4135da41f5f3d54572e37
+err folder=20261116_qiyuan_0032_赛迪网首发_f8f94a97 url=https://www.ccidnet.com/cpfwyjs/1132802.jhtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.ccidnet.com/cpfwyjs/1132802.jhtml
+Call log:
+  - navigating to "https://www.ccidnet.com/cpfwyjs/1132802.jhtml", waiting until "commit"
+
+2026-11-18T23:36+08:00 distribution batch queue=12 campaign=satellite-1113
+2026-11-18T23:36+08:00 distribution batch queue=11 campaign=suanli-1116
+2026-11-18T23:36+08:00 distribution batch queue=15 campaign=qiyuan-1116
+err folder=20261113_sat29_0012_商业新知（可带联系电话）_cf47e2cd url=https://www.shangyexinzhi.com/article/34719309.html Page.goto: net::ERR_CONNECTION_REFUSED at https://www.shangyexinzhi.com/article/34719309.html
+Call log:
+  - navigating to "https://www.shangyexinzhi.com/article/34719309.html", waiting until "commit"
+
+err folder=20261113_sat29_0013_亿智蘑菇_d9611e5b url=http://www.yzmg.com/article/detail/?id=100955 Page.goto: Navigation to "http://www.yzmg.com/article/detail/?id=100955" is interrupted by another navigation to "chrome-error://chromewebdata/"
+Call log:
+  - navigating to "http://www.yzmg.com/article/detail/?id=100955", waiting until "commit"
+
+err folder=20261116_suanli_0012_商业新知（可带联系电话）_fa25542a url=https://www.shangyexinzhi.com/article/34744891.html Page.goto: net::ERR_CONNECTION_REFUSED at https://www.shangyexinzhi.com/article/34744891.html
+Call log:
+  - navigating to "https://www.shangyexinzhi.com/article/34744891.html", waiting until "commit"
+
+err folder=20261116_suanli_0013_亿智蘑菇_1922a0e5 url=http://www.yzmg.com/article/detail/?id=101029 Page.goto: Navigation to "http://www.yzmg.com/article/detail/?id=101029" is interrupted by another navigation to "chrome-error://chromewebdata/"
+Call log:
+  - navigating to "http://www.yzmg.com/article/detail/?id=101029", waiting until "commit"
+
+err folder=20261116_suanli_0015_太平洋科技_d2899732 url=https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679412 Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679412
+Call log:
+  - navigating to "https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679412", waiting until "commit"
+
+ok folder=20261116_qiyuan_0001_自动化网(GEO)_e7ed0796 url=https://www.zidonghua.com.cn/MSupplyChain/InfoWin/405061.html md=3e3ded3a7534ff7b975e111481dca54a574dc702cfb5ebb5919c8b02a3ea2f78
+ok folder=20261116_suanli_0016_IT 专家网_c66380d5 url=http://www.ctocio.net.cn/zonghe/2026/1116/21321.html md=3259b2c92200eeaa1c9369412f8d73aaf2e461ccefc5794c395318d414ec0680
+ok folder=20261113_sat29_0014_元宇宙官网_f06da378 url=https://yyznb.com/14318.html md=8754fe224dc597f6c6af699ea0a6b06cbe0cc0c44c7c3dc04f86cb2557e76d56
+err folder=20261113_sat29_0015_太平洋科技_fcfcf857 url=https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1677883 Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1677883
+Call log:
+  - navigating to "https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1677883", waiting until "commit"
+
+ok folder=20261116_qiyuan_0003_兴义之窗_a7cf547c url=https://www.xyzc.cn/article-470960-1.html md=3d53dfd52e042c4fb1c1134f3efad5b5bd7e29b9198fe15161d9d51476ce4ed1
+ok folder=20261116_suanli_0017_1018 陕广新闻_33d5df1b url=https://web.toutiao.com/article/7708682754073838089/?log_from=0387de5e3a1f9_1794827958027 md=882b084861a0155f6f5420fa7385f28996437f817058ceea037231e0e4c4f403
+err folder=20261116_suanli_0019_天下金融网_07516cde url=https://a.itkjhd.cn/24151.html Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://a.itkjhd.cn/24151.html
+Call log:
+  - navigating to "https://a.itkjhd.cn/24151.html", waiting until "commit"
+
+ok folder=20261116_qiyuan_0006_海峡经济网_4f3d415e url=https://www.hxjjw.com.cn/roll/business/2026/1116/98034.html md=cbf4b190e4877b16677f8c958e0fb90fe994d711dcfb6d730eecc92649ee48af
+err folder=20261113_sat29_0020_太平洋财富网_6208c022 url=http://cy.pcfortune.com.cn/cyxw/2026/1113/258809.html Page.goto: net::ERR_CONNECTION_TIMED_OUT at http://cy.pcfortune.com.cn/cyxw/2026/1113/258809.html
+Call log:
+  - navigating to "http://cy.pcfortune.com.cn/cyxw/2026/1113/258809.html", waiting until "commit"
+
+ok folder=20261113_sat29_0021_智门财经_b68ba7a0 url=https://www.zhimen.com/index.php/caijing/24298.html?admin_id=1 md=f4933fd708a2beb98a8b568f15f43e76615b9ec2bddb9ff320610198d240dd5e
+ok folder=20261116_qiyuan_0009_中国商业网(可发GEO)_54dfe191 url=https://www.jkkjwz.cn/list_15/417.html md=7bd073753a8ca1fb400a1aa134fd7eadf87b0728595607218a7901bdd0408528
+err folder=20261116_qiyuan_0012_商业新知（可带联系电话）_7654d9e7 url=https://www.shangyexinzhi.com/article/34747229.html Page.goto: net::ERR_CONNECTION_REFUSED at https://www.shangyexinzhi.com/article/34747229.html
+Call log:
+  - navigating to "https://www.shangyexinzhi.com/article/34747229.html", waiting until "commit"
+
+err folder=20261116_qiyuan_0013_亿智蘑菇_05d022ea url=http://www.yzmg.com/article/detail/?id=101036 Page.goto: Navigation to "http://www.yzmg.com/article/detail/?id=101036" is interrupted by another navigation to "chrome-error://chromewebdata/"
+Call log:
+  - navigating to "http://www.yzmg.com/article/detail/?id=101036", waiting until "commit"
+
+err folder=20261116_qiyuan_0015_太平洋科技_48be58d1 url=https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679378 Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679378
+Call log:
+  - navigating to "https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679378", waiting until "commit"
+
+err folder=20261116_qiyuan_0016_IT 专家网_633e5b5d url=http://www.ctocio.net.cn/zonghe/2026/1116/21337.html Page.goto: Navigation to "http://www.ctocio.net.cn/zonghe/2026/1116/21337.html" is interrupted by another navigation to "chrome-error://chromewebdata/"
+Call log:
+  - navigating to "http://www.ctocio.net.cn/zonghe/2026/1116/21337.html", waiting until "commit"
+
+err folder=20261116_qiyuan_0019_天下金融网_b3059dd8 url=https://a.itkjhd.cn/24153.html Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://a.itkjhd.cn/24153.html
+Call log:
+  - navigating to "https://a.itkjhd.cn/24153.html", waiting until "commit"
+
+err folder=20261116_suanli_0020_太平洋财富网_787668cd url=http://cy.pcfortune.com.cn/cyxw/2026/1116/259246.html Page.goto: net::ERR_CONNECTION_TIMED_OUT at http://cy.pcfortune.com.cn/cyxw/2026/1116/259246.html
+Call log:
+  - navigating to "http://cy.pcfortune.com.cn/cyxw/2026/1116/259246.html", waiting until "commit"
+
+ok folder=20261113_sat29_0022_顶尖财经网_37e129dd url=http://www.djcvcai.cn/zixun/2023.html md=944bfb009e0a633af02a4890150d573fbca62b20e2896c86619b485ccb7b483f
+err folder=20261113_sat29_0029_廊坊新闻网_9d4eb6b5 url=https://www.lfnews.cn/portal.php?mod=view&aid=142219 Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.lfnews.cn/portal.php?mod=view&aid=142219
+Call log:
+  - navigating to "https://www.lfnews.cn/portal.php?mod=view&aid=142219", waiting until "commit"
+
+err folder=20261113_sat29_0030_衡阳新闻网（GEO可发排名）_8da7b3fb url=http://www.e0734.com/content/2026/1113/707_685834.html Page.goto: Navigation to "http://www.e0734.com/content/2026/1113/707_685834.html" is interrupted by another navigation to "chrome-error://chromewebdata/"
+Call log:
+  - navigating to "http://www.e0734.com/content/2026/1113/707_685834.html", waiting until "commit"
+
+err folder=20261116_qiyuan_0020_太平洋财富网_60e22ab7 url=http://cy.pcfortune.com.cn/cyxw/2026/1116/259286.html Page.goto: net::ERR_CONNECTION_TIMED_OUT at http://cy.pcfortune.com.cn/cyxw/2026/1116/259286.html
+Call log:
+  - navigating to "http://cy.pcfortune.com.cn/cyxw/2026/1116/259286.html", waiting until "commit"
+
+ok folder=20261113_sat29_0031_欧洲网_882a0390 url=http://www.peoplols.com/zixun/1908.html# md=ef504f35d4d13b733429d01b22a9f94cecc6a733e8685d6dac1f331437833725
+err folder=20261116_suanli_0023_中国经济新闻网_752d9cfc url=https://www.cet.com.cn/xwsd/10666861.shtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.cet.com.cn/xwsd/10666861.shtml
+Call log:
+  - navigating to "https://www.cet.com.cn/xwsd/10666861.shtml", waiting until "commit"
+
+ok folder=20261116_qiyuan_0021_智门财经_93bd8c37 url=https://www.zhimen.com/index.php/caijing/24304.html?admin_id=1 md=400384db884365b71eae993a8232e7cbe5102d3bbdcb6b85501aebb63049767f
+ok folder=20261116_suanli_0025_大众财经网_26bafa2f url=https://dazcjw.com/uncategorized/13219.html md=021dc4af106af1d7e2c3f394b9809c7301fafb3ed5e72b0b1420eb55376b4669
+err folder=20261116_suanli_0029_廊坊新闻网_22a15f53 url=https://www.lfnews.cn/portal.php?mod=view&aid=142624 Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.lfnews.cn/portal.php?mod=view&aid=142624
+Call log:
+  - navigating to "https://www.lfnews.cn/portal.php?mod=view&aid=142624", waiting until "commit"
+
+err folder=20261113_sat29_0032_赛迪网首发_6aa5f07a url=https://www.ccidnet.com/wltxyaq/1096891.jhtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.ccidnet.com/wltxyaq/1096891.jhtml
+Call log:
+  - navigating to "https://www.ccidnet.com/wltxyaq/1096891.jhtml", waiting until "commit"
+
+err folder=20261116_qiyuan_0023_中国经济新闻网_4c961125 url=https://www.cet.com.cn/xwsd/10667177.shtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.cet.com.cn/xwsd/10667177.shtml
+Call log:
+  - navigating to "https://www.cet.com.cn/xwsd/10667177.shtml", waiting until "commit"
+
+err folder=20261116_qiyuan_0029_廊坊新闻网_aee2cc0b url=https://www.lfnews.cn/portal.php?mod=view&aid=142628 Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.lfnews.cn/portal.php?mod=view&aid=142628
+Call log:
+  - navigating to "https://www.lfnews.cn/portal.php?mod=view&aid=142628", waiting until "commit"
+
+err folder=20261116_suanli_0032_赛迪网首发_2173ee26 url=https://www.ccidnet.com/cpfwyjs/1132804.jhtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.ccidnet.com/cpfwyjs/1132804.jhtml
+Call log:
+  - navigating to "https://www.ccidnet.com/cpfwyjs/1132804.jhtml", waiting until "commit"
+
+ok folder=20261116_qiyuan_0030_衡阳新闻网（GEO可发排名）_9d2a2287 url=http://www.e0734.com/content/2026/1116/707_687268.html md=34832e313f6b0f5b239bb2276a0bc13326a2de6726648285c377b388bf367a7e
+err folder=20261113_sat29_0035_中国经济新闻网_bf86d509 url=https://www.cet.com.cn/xwsd/10664204.shtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.cet.com.cn/xwsd/10664204.shtml
+Call log:
+  - navigating to "https://www.cet.com.cn/xwsd/10664204.shtml", waiting until "commit"
+
+err folder=20261116_qiyuan_0032_赛迪网首发_f8f94a97 url=https://www.ccidnet.com/cpfwyjs/1132802.jhtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.ccidnet.com/cpfwyjs/1132802.jhtml
+Call log:
+  - navigating to "https://www.ccidnet.com/cpfwyjs/1132802.jhtml", waiting until "commit"
+
+2026-11-19T21:58+08:00 distribution batch queue=25 campaign=all
+err folder=20261113_sat29_0012_商业新知（可带联系电话）_cf47e2cd url=https://www.shangyexinzhi.com/article/34719309.html Page.goto: net::ERR_CONNECTION_REFUSED at https://www.shangyexinzhi.com/article/34719309.html
+Call log:
+  - navigating to "https://www.shangyexinzhi.com/article/34719309.html", waiting until "commit"
+
+err folder=20261113_sat29_0013_亿智蘑菇_d9611e5b url=http://www.yzmg.com/article/detail/?id=100955 Page.goto: Navigation to "http://www.yzmg.com/article/detail/?id=100955" is interrupted by another navigation to "chrome-error://chromewebdata/"
+Call log:
+  - navigating to "http://www.yzmg.com/article/detail/?id=100955", waiting until "commit"
+
+err folder=20261113_sat29_0015_太平洋科技_fcfcf857 url=https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1677883 Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1677883
+Call log:
+  - navigating to "https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1677883", waiting until "commit"
+
+err folder=20261113_sat29_0020_太平洋财富网_6208c022 url=http://cy.pcfortune.com.cn/cyxw/2026/1113/258809.html Page.goto: net::ERR_CONNECTION_TIMED_OUT at http://cy.pcfortune.com.cn/cyxw/2026/1113/258809.html
+Call log:
+  - navigating to "http://cy.pcfortune.com.cn/cyxw/2026/1113/258809.html", waiting until "commit"
+
+err folder=20261113_sat29_0029_廊坊新闻网_9d4eb6b5 url=https://www.lfnews.cn/portal.php?mod=view&aid=142219 Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.lfnews.cn/portal.php?mod=view&aid=142219
+Call log:
+  - navigating to "https://www.lfnews.cn/portal.php?mod=view&aid=142219", waiting until "commit"
+
+ok folder=20261113_sat29_0030_衡阳新闻网（GEO可发排名）_8da7b3fb url=http://www.e0734.com/content/2026/1113/707_685834.html md=02fbef80c0708bfef4756ca530b4e0d26759a1652027eceb90c73712f5827f25
+err folder=20261113_sat29_0032_赛迪网首发_6aa5f07a url=https://www.ccidnet.com/wltxyaq/1096891.jhtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.ccidnet.com/wltxyaq/1096891.jhtml
+Call log:
+  - navigating to "https://www.ccidnet.com/wltxyaq/1096891.jhtml", waiting until "commit"
+
+err folder=20261113_sat29_0035_中国经济新闻网_bf86d509 url=https://www.cet.com.cn/xwsd/10664204.shtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.cet.com.cn/xwsd/10664204.shtml
+Call log:
+  - navigating to "https://www.cet.com.cn/xwsd/10664204.shtml", waiting until "commit"
+
+err folder=20261116_suanli_0012_商业新知（可带联系电话）_fa25542a url=https://www.shangyexinzhi.com/article/34744891.html Page.goto: net::ERR_CONNECTION_REFUSED at https://www.shangyexinzhi.com/article/34744891.html
+Call log:
+  - navigating to "https://www.shangyexinzhi.com/article/34744891.html", waiting until "commit"
+
+ok folder=20261116_suanli_0013_亿智蘑菇_1922a0e5 url=http://www.yzmg.com/article/detail/?id=101029 md=5ba18037cf053c64d59dce8cc7f2bbd9ea549c66d1906558318b132f6ba7916b
+err folder=20261116_suanli_0015_太平洋科技_d2899732 url=https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679412 Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679412
+Call log:
+  - navigating to "https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679412", waiting until "commit"
+
+err folder=20261116_suanli_0019_天下金融网_07516cde url=https://a.itkjhd.cn/24151.html Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://a.itkjhd.cn/24151.html
+Call log:
+  - navigating to "https://a.itkjhd.cn/24151.html", waiting until "commit"
+
+err folder=20261116_suanli_0020_太平洋财富网_787668cd url=http://cy.pcfortune.com.cn/cyxw/2026/1116/259246.html Page.goto: net::ERR_CONNECTION_TIMED_OUT at http://cy.pcfortune.com.cn/cyxw/2026/1116/259246.html
+Call log:
+  - navigating to "http://cy.pcfortune.com.cn/cyxw/2026/1116/259246.html", waiting until "commit"
+
+2026-11-19T22:00+08:00 distribution batch queue=23 campaign=all edge=1 bundled=0
+err folder=20261113_sat29_0012_商业新知（可带联系电话）_cf47e2cd url=https://www.shangyexinzhi.com/article/34719309.html Page.goto: net::ERR_CONNECTION_REFUSED at https://www.shangyexinzhi.com/article/34719309.html
+Call log:
+  - navigating to "https://www.shangyexinzhi.com/article/34719309.html", waiting until "commit"
+
+ok folder=20261113_sat29_0013_亿智蘑菇_d9611e5b url=http://www.yzmg.com/article/detail/?id=100955 md=203eb07faa11f4b2ec3fd952fb3cd9558d2a993f4945816e7068359fd96f5826
+err folder=20261113_sat29_0015_太平洋科技_fcfcf857 url=https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1677883 Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1677883
+Call log:
+  - navigating to "https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1677883", waiting until "commit"
+
+err folder=20261116_suanli_0023_中国经济新闻网_752d9cfc url=https://www.cet.com.cn/xwsd/10666861.shtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.cet.com.cn/xwsd/10666861.shtml
+Call log:
+  - navigating to "https://www.cet.com.cn/xwsd/10666861.shtml", waiting until "commit"
+
+err folder=20261116_suanli_0029_廊坊新闻网_22a15f53 url=https://www.lfnews.cn/portal.php?mod=view&aid=142624 Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.lfnews.cn/portal.php?mod=view&aid=142624
+Call log:
+  - navigating to "https://www.lfnews.cn/portal.php?mod=view&aid=142624", waiting until "commit"
+
+err folder=20261113_sat29_0020_太平洋财富网_6208c022 url=http://cy.pcfortune.com.cn/cyxw/2026/1113/258809.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://cy.pcfortune.com.cn/cyxw/2026/1113/258809.html
+Call log:
+  - navigating to "http://cy.pcfortune.com.cn/cyxw/2026/1113/258809.html", waiting until "commit"
+
+err folder=20261113_sat29_0029_廊坊新闻网_9d4eb6b5 url=https://www.lfnews.cn/portal.php?mod=view&aid=142219 Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.lfnews.cn/portal.php?mod=view&aid=142219
+Call log:
+  - navigating to "https://www.lfnews.cn/portal.php?mod=view&aid=142219", waiting until "commit"
+
+err folder=20261116_suanli_0032_赛迪网首发_2173ee26 url=https://www.ccidnet.com/cpfwyjs/1132804.jhtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.ccidnet.com/cpfwyjs/1132804.jhtml
+Call log:
+  - navigating to "https://www.ccidnet.com/cpfwyjs/1132804.jhtml", waiting until "commit"
+
+err folder=20261116_qiyuan_0012_商业新知（可带联系电话）_7654d9e7 url=https://www.shangyexinzhi.com/article/34747229.html Page.goto: net::ERR_CONNECTION_REFUSED at https://www.shangyexinzhi.com/article/34747229.html
+Call log:
+  - navigating to "https://www.shangyexinzhi.com/article/34747229.html", waiting until "commit"
+
+err folder=20261113_sat29_0032_赛迪网首发_6aa5f07a url=https://www.ccidnet.com/wltxyaq/1096891.jhtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.ccidnet.com/wltxyaq/1096891.jhtml
+Call log:
+  - navigating to "https://www.ccidnet.com/wltxyaq/1096891.jhtml", waiting until "commit"
+
+ok folder=20261116_qiyuan_0013_亿智蘑菇_05d022ea url=http://www.yzmg.com/article/detail/?id=101036 md=951d8917fedcc91c077a87494f66d0f57affb3272e656dacb8483bfe58d59cd8
+err folder=20261116_qiyuan_0015_太平洋科技_48be58d1 url=https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679378 Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679378
+Call log:
+  - navigating to "https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679378", waiting until "commit"
+
+err folder=20261116_qiyuan_0016_IT 专家网_633e5b5d url=http://www.ctocio.net.cn/zonghe/2026/1116/21337.html Page.goto: Navigation to "http://www.ctocio.net.cn/zonghe/2026/1116/21337.html" is interrupted by another navigation to "chrome-error://chromewebdata/"
+Call log:
+  - navigating to "http://www.ctocio.net.cn/zonghe/2026/1116/21337.html", waiting until "commit"
+
+err folder=20261116_qiyuan_0019_天下金融网_b3059dd8 url=https://a.itkjhd.cn/24153.html Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://a.itkjhd.cn/24153.html
+Call log:
+  - navigating to "https://a.itkjhd.cn/24153.html", waiting until "commit"
+
+err folder=20261113_sat29_0035_中国经济新闻网_bf86d509 url=https://www.cet.com.cn/xwsd/10664204.shtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.cet.com.cn/xwsd/10664204.shtml
+Call log:
+  - navigating to "https://www.cet.com.cn/xwsd/10664204.shtml", waiting until "commit"
+
+err folder=20261116_suanli_0012_商业新知（可带联系电话）_fa25542a url=https://www.shangyexinzhi.com/article/34744891.html Page.goto: net::ERR_CONNECTION_REFUSED at https://www.shangyexinzhi.com/article/34744891.html
+Call log:
+  - navigating to "https://www.shangyexinzhi.com/article/34744891.html", waiting until "commit"
+
+err folder=20261116_suanli_0015_太平洋科技_d2899732 url=https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679412 Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679412
+Call log:
+  - navigating to "https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679412", waiting until "commit"
+
+err folder=20261116_suanli_0019_天下金融网_07516cde url=https://a.itkjhd.cn/24151.html Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://a.itkjhd.cn/24151.html
+Call log:
+  - navigating to "https://a.itkjhd.cn/24151.html", waiting until "commit"
+
+err folder=20261116_suanli_0020_太平洋财富网_787668cd url=http://cy.pcfortune.com.cn/cyxw/2026/1116/259246.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://cy.pcfortune.com.cn/cyxw/2026/1116/259246.html
+Call log:
+  - navigating to "http://cy.pcfortune.com.cn/cyxw/2026/1116/259246.html", waiting until "commit"
+
+err folder=20261116_qiyuan_0020_太平洋财富网_60e22ab7 url=http://cy.pcfortune.com.cn/cyxw/2026/1116/259286.html Page.goto: net::ERR_CONNECTION_TIMED_OUT at http://cy.pcfortune.com.cn/cyxw/2026/1116/259286.html
+Call log:
+  - navigating to "http://cy.pcfortune.com.cn/cyxw/2026/1116/259286.html", waiting until "commit"
+
+err folder=20261116_suanli_0023_中国经济新闻网_752d9cfc url=https://www.cet.com.cn/xwsd/10666861.shtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.cet.com.cn/xwsd/10666861.shtml
+Call log:
+  - navigating to "https://www.cet.com.cn/xwsd/10666861.shtml", waiting until "commit"
+
+err folder=20261116_qiyuan_0023_中国经济新闻网_4c961125 url=https://www.cet.com.cn/xwsd/10667177.shtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.cet.com.cn/xwsd/10667177.shtml
+Call log:
+  - navigating to "https://www.cet.com.cn/xwsd/10667177.shtml", waiting until "commit"
+
+err folder=20261116_suanli_0029_廊坊新闻网_22a15f53 url=https://www.lfnews.cn/portal.php?mod=view&aid=142624 Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.lfnews.cn/portal.php?mod=view&aid=142624
+Call log:
+  - navigating to "https://www.lfnews.cn/portal.php?mod=view&aid=142624", waiting until "commit"
+
+err folder=20261116_qiyuan_0029_廊坊新闻网_aee2cc0b url=https://www.lfnews.cn/portal.php?mod=view&aid=142628 Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.lfnews.cn/portal.php?mod=view&aid=142628
+Call log:
+  - navigating to "https://www.lfnews.cn/portal.php?mod=view&aid=142628", waiting until "commit"
+
+err folder=20261116_suanli_0032_赛迪网首发_2173ee26 url=https://www.ccidnet.com/cpfwyjs/1132804.jhtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.ccidnet.com/cpfwyjs/1132804.jhtml
+Call log:
+  - navigating to "https://www.ccidnet.com/cpfwyjs/1132804.jhtml", waiting until "commit"
+
+err folder=20261116_qiyuan_0012_商业新知（可带联系电话）_7654d9e7 url=https://www.shangyexinzhi.com/article/34747229.html Page.goto: net::ERR_CONNECTION_REFUSED at https://www.shangyexinzhi.com/article/34747229.html
+Call log:
+  - navigating to "https://www.shangyexinzhi.com/article/34747229.html", waiting until "commit"
+
+err folder=20261116_qiyuan_0032_赛迪网首发_f8f94a97 url=https://www.ccidnet.com/cpfwyjs/1132802.jhtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.ccidnet.com/cpfwyjs/1132802.jhtml
+Call log:
+  - navigating to "https://www.ccidnet.com/cpfwyjs/1132802.jhtml", waiting until "commit"
+
+ok folder=20261116_qiyuan_0013_亿智蘑菇_05d022ea url=http://www.yzmg.com/article/detail/?id=101036 md=951d8917fedcc91c077a87494f66d0f57affb3272e656dacb8483bfe58d59cd8
+err folder=20261116_qiyuan_0015_太平洋科技_48be58d1 url=https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679378 Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679378
+Call log:
+  - navigating to "https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679378", waiting until "commit"
+
+err folder=20261116_qiyuan_0016_IT 专家网_633e5b5d url=http://www.ctocio.net.cn/zonghe/2026/1116/21337.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.ctocio.net.cn/zonghe/2026/1116/21337.html
+Call log:
+  - navigating to "http://www.ctocio.net.cn/zonghe/2026/1116/21337.html", waiting until "commit"
+
+err folder=20261116_qiyuan_0019_天下金融网_b3059dd8 url=https://a.itkjhd.cn/24153.html Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://a.itkjhd.cn/24153.html
+Call log:
+  - navigating to "https://a.itkjhd.cn/24153.html", waiting until "commit"
+
+err folder=20261116_qiyuan_0020_太平洋财富网_60e22ab7 url=http://cy.pcfortune.com.cn/cyxw/2026/1116/259286.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://cy.pcfortune.com.cn/cyxw/2026/1116/259286.html
+Call log:
+  - navigating to "http://cy.pcfortune.com.cn/cyxw/2026/1116/259286.html", waiting until "commit"
+
+err folder=20261116_qiyuan_0023_中国经济新闻网_4c961125 url=https://www.cet.com.cn/xwsd/10667177.shtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.cet.com.cn/xwsd/10667177.shtml
+Call log:
+  - navigating to "https://www.cet.com.cn/xwsd/10667177.shtml", waiting until "commit"
+
+err folder=20261116_qiyuan_0029_廊坊新闻网_aee2cc0b url=https://www.lfnews.cn/portal.php?mod=view&aid=142628 Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.lfnews.cn/portal.php?mod=view&aid=142628
+Call log:
+  - navigating to "https://www.lfnews.cn/portal.php?mod=view&aid=142628", waiting until "commit"
+
+err folder=20261116_qiyuan_0032_赛迪网首发_f8f94a97 url=https://www.ccidnet.com/cpfwyjs/1132802.jhtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.ccidnet.com/cpfwyjs/1132802.jhtml
+Call log:
+  - navigating to "https://www.ccidnet.com/cpfwyjs/1132802.jhtml", waiting until "commit"
+
+2026-11-19T22:24+08:00 distribution batch queue=21 campaign=all edge=1 bundled=0
+err folder=20261113_sat29_0012_商业新知（可带联系电话）_cf47e2cd url=https://www.shangyexinzhi.com/article/34719309.html Page.goto: net::ERR_CONNECTION_REFUSED at https://www.shangyexinzhi.com/article/34719309.html
+Call log:
+  - navigating to "https://www.shangyexinzhi.com/article/34719309.html", waiting until "commit"
+
+err folder=20261113_sat29_0015_太平洋科技_fcfcf857 url=https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1677883 Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1677883
+Call log:
+  - navigating to "https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1677883", waiting until "commit"
+
+err folder=20261113_sat29_0020_太平洋财富网_6208c022 url=http://cy.pcfortune.com.cn/cyxw/2026/1113/258809.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://cy.pcfortune.com.cn/cyxw/2026/1113/258809.html
+Call log:
+  - navigating to "http://cy.pcfortune.com.cn/cyxw/2026/1113/258809.html", waiting until "commit"
+
+err folder=20261113_sat29_0029_廊坊新闻网_9d4eb6b5 url=https://www.lfnews.cn/portal.php?mod=view&aid=142219 Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.lfnews.cn/portal.php?mod=view&aid=142219
+Call log:
+  - navigating to "https://www.lfnews.cn/portal.php?mod=view&aid=142219", waiting until "commit"
+
+err folder=20261113_sat29_0032_赛迪网首发_6aa5f07a url=https://www.ccidnet.com/wltxyaq/1096891.jhtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.ccidnet.com/wltxyaq/1096891.jhtml
+Call log:
+  - navigating to "https://www.ccidnet.com/wltxyaq/1096891.jhtml", waiting until "commit"
+
+err folder=20261113_sat29_0035_中国经济新闻网_bf86d509 url=https://www.cet.com.cn/xwsd/10664204.shtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.cet.com.cn/xwsd/10664204.shtml
+Call log:
+  - navigating to "https://www.cet.com.cn/xwsd/10664204.shtml", waiting until "commit"
+
+err folder=20261116_suanli_0012_商业新知（可带联系电话）_fa25542a url=https://www.shangyexinzhi.com/article/34744891.html Page.goto: net::ERR_CONNECTION_REFUSED at https://www.shangyexinzhi.com/article/34744891.html
+Call log:
+  - navigating to "https://www.shangyexinzhi.com/article/34744891.html", waiting until "commit"
+
+err folder=20261116_suanli_0015_太平洋科技_d2899732 url=https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679412 Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679412
+Call log:
+  - navigating to "https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679412", waiting until "commit"
+
+err folder=20261116_suanli_0019_天下金融网_07516cde url=https://a.itkjhd.cn/24151.html Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://a.itkjhd.cn/24151.html
+Call log:
+  - navigating to "https://a.itkjhd.cn/24151.html", waiting until "commit"
+
+err folder=20261116_suanli_0020_太平洋财富网_787668cd url=http://cy.pcfortune.com.cn/cyxw/2026/1116/259246.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://cy.pcfortune.com.cn/cyxw/2026/1116/259246.html
+Call log:
+  - navigating to "http://cy.pcfortune.com.cn/cyxw/2026/1116/259246.html", waiting until "commit"
+
+err folder=20261116_suanli_0023_中国经济新闻网_752d9cfc url=https://www.cet.com.cn/xwsd/10666861.shtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.cet.com.cn/xwsd/10666861.shtml
+Call log:
+  - navigating to "https://www.cet.com.cn/xwsd/10666861.shtml", waiting until "commit"
+
+err folder=20261116_suanli_0029_廊坊新闻网_22a15f53 url=https://www.lfnews.cn/portal.php?mod=view&aid=142624 Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.lfnews.cn/portal.php?mod=view&aid=142624
+Call log:
+  - navigating to "https://www.lfnews.cn/portal.php?mod=view&aid=142624", waiting until "commit"
+
+err folder=20261116_suanli_0032_赛迪网首发_2173ee26 url=https://www.ccidnet.com/cpfwyjs/1132804.jhtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.ccidnet.com/cpfwyjs/1132804.jhtml
+Call log:
+  - navigating to "https://www.ccidnet.com/cpfwyjs/1132804.jhtml", waiting until "commit"
+
+err folder=20261116_qiyuan_0012_商业新知（可带联系电话）_7654d9e7 url=https://www.shangyexinzhi.com/article/34747229.html Page.goto: net::ERR_CONNECTION_REFUSED at https://www.shangyexinzhi.com/article/34747229.html
+Call log:
+  - navigating to "https://www.shangyexinzhi.com/article/34747229.html", waiting until "commit"
+
+err folder=20261116_qiyuan_0015_太平洋科技_48be58d1 url=https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679378 Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679378
+Call log:
+  - navigating to "https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679378", waiting until "commit"
+
+err folder=20261116_qiyuan_0016_IT 专家网_633e5b5d url=http://www.ctocio.net.cn/zonghe/2026/1116/21337.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.ctocio.net.cn/zonghe/2026/1116/21337.html
+Call log:
+  - navigating to "http://www.ctocio.net.cn/zonghe/2026/1116/21337.html", waiting until "commit"
+
+err folder=20261116_qiyuan_0019_天下金融网_b3059dd8 url=https://a.itkjhd.cn/24153.html Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://a.itkjhd.cn/24153.html
+Call log:
+  - navigating to "https://a.itkjhd.cn/24153.html", waiting until "commit"
+
+err folder=20261116_qiyuan_0020_太平洋财富网_60e22ab7 url=http://cy.pcfortune.com.cn/cyxw/2026/1116/259286.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://cy.pcfortune.com.cn/cyxw/2026/1116/259286.html
+Call log:
+  - navigating to "http://cy.pcfortune.com.cn/cyxw/2026/1116/259286.html", waiting until "commit"
+
+err folder=20261116_qiyuan_0023_中国经济新闻网_4c961125 url=https://www.cet.com.cn/xwsd/10667177.shtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.cet.com.cn/xwsd/10667177.shtml
+Call log:
+  - navigating to "https://www.cet.com.cn/xwsd/10667177.shtml", waiting until "commit"
+
+err folder=20261116_qiyuan_0029_廊坊新闻网_aee2cc0b url=https://www.lfnews.cn/portal.php?mod=view&aid=142628 Page.goto: net::ERR_ABORTED; maybe frame was detached?
+Call log:
+  - navigating to "https://www.lfnews.cn/portal.php?mod=view&aid=142628", waiting until "commit"
+
+err folder=20261116_qiyuan_0032_赛迪网首发_f8f94a97 url=https://www.ccidnet.com/cpfwyjs/1132802.jhtml Page.goto: Target page, context or browser has been closed
+2026-11-19T22:33+08:00 distribution batch queue=21 campaign=all edge=1 bundled=0
+err folder=20261113_sat29_0012_商业新知（可带联系电话）_cf47e2cd url=https://www.shangyexinzhi.com/article/34719309.html Page.goto: net::ERR_CONNECTION_REFUSED at https://www.shangyexinzhi.com/article/34719309.html
+Call log:
+  - navigating to "https://www.shangyexinzhi.com/article/34719309.html", waiting until "commit"
+
+err folder=20261113_sat29_0015_太平洋科技_fcfcf857 url=https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1677883 Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1677883
+Call log:
+  - navigating to "https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1677883", waiting until "commit"
+
+err folder=20261113_sat29_0020_太平洋财富网_6208c022 url=http://cy.pcfortune.com.cn/cyxw/2026/1113/258809.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://cy.pcfortune.com.cn/cyxw/2026/1113/258809.html
+Call log:
+  - navigating to "http://cy.pcfortune.com.cn/cyxw/2026/1113/258809.html", waiting until "commit"
+
+err folder=20261113_sat29_0029_廊坊新闻网_9d4eb6b5 url=https://www.lfnews.cn/portal.php?mod=view&aid=142219 Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.lfnews.cn/portal.php?mod=view&aid=142219
+Call log:
+  - navigating to "https://www.lfnews.cn/portal.php?mod=view&aid=142219", waiting until "commit"
+
+err folder=20261113_sat29_0032_赛迪网首发_6aa5f07a url=https://www.ccidnet.com/wltxyaq/1096891.jhtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.ccidnet.com/wltxyaq/1096891.jhtml
+Call log:
+  - navigating to "https://www.ccidnet.com/wltxyaq/1096891.jhtml", waiting until "commit"
+
+err folder=20261113_sat29_0035_中国经济新闻网_bf86d509 url=https://www.cet.com.cn/xwsd/10664204.shtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.cet.com.cn/xwsd/10664204.shtml
+Call log:
+  - navigating to "https://www.cet.com.cn/xwsd/10664204.shtml", waiting until "commit"
+
+err folder=20261116_suanli_0012_商业新知（可带联系电话）_fa25542a url=https://www.shangyexinzhi.com/article/34744891.html Page.goto: net::ERR_CONNECTION_REFUSED at https://www.shangyexinzhi.com/article/34744891.html
+Call log:
+  - navigating to "https://www.shangyexinzhi.com/article/34744891.html", waiting until "commit"
+
+err folder=20261116_suanli_0015_太平洋科技_d2899732 url=https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679412 Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679412
+Call log:
+  - navigating to "https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679412", waiting until "commit"
+
+err folder=20261116_suanli_0019_天下金融网_07516cde url=https://a.itkjhd.cn/24151.html Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://a.itkjhd.cn/24151.html
+Call log:
+  - navigating to "https://a.itkjhd.cn/24151.html", waiting until "commit"
+
+err folder=20261116_suanli_0020_太平洋财富网_787668cd url=http://cy.pcfortune.com.cn/cyxw/2026/1116/259246.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://cy.pcfortune.com.cn/cyxw/2026/1116/259246.html
+Call log:
+  - navigating to "http://cy.pcfortune.com.cn/cyxw/2026/1116/259246.html", waiting until "commit"
+
+err folder=20261116_suanli_0023_中国经济新闻网_752d9cfc url=https://www.cet.com.cn/xwsd/10666861.shtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.cet.com.cn/xwsd/10666861.shtml
+Call log:
+  - navigating to "https://www.cet.com.cn/xwsd/10666861.shtml", waiting until "commit"
+
+err folder=20261116_suanli_0029_廊坊新闻网_22a15f53 url=https://www.lfnews.cn/portal.php?mod=view&aid=142624 Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.lfnews.cn/portal.php?mod=view&aid=142624
+Call log:
+  - navigating to "https://www.lfnews.cn/portal.php?mod=view&aid=142624", waiting until "commit"
+
+err folder=20261116_suanli_0032_赛迪网首发_2173ee26 url=https://www.ccidnet.com/cpfwyjs/1132804.jhtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.ccidnet.com/cpfwyjs/1132804.jhtml
+Call log:
+  - navigating to "https://www.ccidnet.com/cpfwyjs/1132804.jhtml", waiting until "commit"
+
+err folder=20261116_qiyuan_0012_商业新知（可带联系电话）_7654d9e7 url=https://www.shangyexinzhi.com/article/34747229.html Page.goto: net::ERR_CONNECTION_REFUSED at https://www.shangyexinzhi.com/article/34747229.html
+Call log:
+  - navigating to "https://www.shangyexinzhi.com/article/34747229.html", waiting until "commit"
+
+err folder=20261116_qiyuan_0015_太平洋科技_48be58d1 url=https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679378 Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679378
+Call log:
+  - navigating to "https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679378", waiting until "commit"
+
+err folder=20261116_qiyuan_0016_IT 专家网_633e5b5d url=http://www.ctocio.net.cn/zonghe/2026/1116/21337.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.ctocio.net.cn/zonghe/2026/1116/21337.html
+Call log:
+  - navigating to "http://www.ctocio.net.cn/zonghe/2026/1116/21337.html", waiting until "commit"
+
+err folder=20261116_qiyuan_0019_天下金融网_b3059dd8 url=https://a.itkjhd.cn/24153.html Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://a.itkjhd.cn/24153.html
+Call log:
+  - navigating to "https://a.itkjhd.cn/24153.html", waiting until "commit"
+
+err folder=20261116_qiyuan_0020_太平洋财富网_60e22ab7 url=http://cy.pcfortune.com.cn/cyxw/2026/1116/259286.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://cy.pcfortune.com.cn/cyxw/2026/1116/259286.html
+Call log:
+  - navigating to "http://cy.pcfortune.com.cn/cyxw/2026/1116/259286.html", waiting until "commit"
+
+err folder=20261116_qiyuan_0023_中国经济新闻网_4c961125 url=https://www.cet.com.cn/xwsd/10667177.shtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.cet.com.cn/xwsd/10667177.shtml
+Call log:
+  - navigating to "https://www.cet.com.cn/xwsd/10667177.shtml", waiting until "commit"
+
+err folder=20261116_qiyuan_0029_廊坊新闻网_aee2cc0b url=https://www.lfnews.cn/portal.php?mod=view&aid=142628 Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.lfnews.cn/portal.php?mod=view&aid=142628
+Call log:
+  - navigating to "https://www.lfnews.cn/portal.php?mod=view&aid=142628", waiting until "commit"
+
+err folder=20261116_qiyuan_0032_赛迪网首发_f8f94a97 url=https://www.ccidnet.com/cpfwyjs/1132802.jhtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.ccidnet.com/cpfwyjs/1132802.jhtml
+Call log:
+  - navigating to "https://www.ccidnet.com/cpfwyjs/1132802.jhtml", waiting until "commit"
+
+2026-11-19T22:52+08:00 distribution batch queue=21 campaign=all edge=0 bundled=1
+err folder=20261113_sat29_0012_商业新知（可带联系电话）_cf47e2cd url=https://www.shangyexinzhi.com/article/34719309.html Page.goto: net::ERR_CONNECTION_REFUSED at https://www.shangyexinzhi.com/article/34719309.html
+Call log:
+  - navigating to "https://www.shangyexinzhi.com/article/34719309.html", waiting until "commit"
+
+err folder=20261113_sat29_0015_太平洋科技_fcfcf857 url=https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1677883 Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1677883
+Call log:
+  - navigating to "https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1677883", waiting until "commit"
+
+err folder=20261113_sat29_0020_太平洋财富网_6208c022 url=http://cy.pcfortune.com.cn/cyxw/2026/1113/258809.html Page.goto: net::ERR_CONNECTION_TIMED_OUT at http://cy.pcfortune.com.cn/cyxw/2026/1113/258809.html
+Call log:
+  - navigating to "http://cy.pcfortune.com.cn/cyxw/2026/1113/258809.html", waiting until "commit"
+
+err folder=20261113_sat29_0029_廊坊新闻网_9d4eb6b5 url=https://www.lfnews.cn/portal.php?mod=view&aid=142219 Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.lfnews.cn/portal.php?mod=view&aid=142219
+Call log:
+  - navigating to "https://www.lfnews.cn/portal.php?mod=view&aid=142219", waiting until "commit"
+
+err folder=20261113_sat29_0032_赛迪网首发_6aa5f07a url=https://www.ccidnet.com/wltxyaq/1096891.jhtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.ccidnet.com/wltxyaq/1096891.jhtml
+Call log:
+  - navigating to "https://www.ccidnet.com/wltxyaq/1096891.jhtml", waiting until "commit"
+
+err folder=20261113_sat29_0035_中国经济新闻网_bf86d509 url=https://www.cet.com.cn/xwsd/10664204.shtml Page.goto: net::ERR_ABORTED at https://www.cet.com.cn/xwsd/10664204.shtml
+Call log:
+  - navigating to "https://www.cet.com.cn/xwsd/10664204.shtml", waiting until "commit"
+
+err folder=20261116_suanli_0012_商业新知（可带联系电话）_fa25542a url=https://www.shangyexinzhi.com/article/34744891.html Page.goto: net::ERR_CONNECTION_REFUSED at https://www.shangyexinzhi.com/article/34744891.html
+Call log:
+  - navigating to "https://www.shangyexinzhi.com/article/34744891.html", waiting until "commit"
+
+err folder=20261116_suanli_0015_太平洋科技_d2899732 url=https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679412 Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679412
+Call log:
+  - navigating to "https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679412", waiting until "commit"
+
+err folder=20261116_suanli_0019_天下金融网_07516cde url=https://a.itkjhd.cn/24151.html Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://a.itkjhd.cn/24151.html
+Call log:
+  - navigating to "https://a.itkjhd.cn/24151.html", waiting until "commit"
+
+err folder=20261116_suanli_0020_太平洋财富网_787668cd url=http://cy.pcfortune.com.cn/cyxw/2026/1116/259246.html Page.goto: net::ERR_CONNECTION_TIMED_OUT at http://cy.pcfortune.com.cn/cyxw/2026/1116/259246.html
+Call log:
+  - navigating to "http://cy.pcfortune.com.cn/cyxw/2026/1116/259246.html", waiting until "commit"
+
+err folder=20261116_suanli_0023_中国经济新闻网_752d9cfc url=https://www.cet.com.cn/xwsd/10666861.shtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.cet.com.cn/xwsd/10666861.shtml
+Call log:
+  - navigating to "https://www.cet.com.cn/xwsd/10666861.shtml", waiting until "commit"
+
+err folder=20261116_suanli_0029_廊坊新闻网_22a15f53 url=https://www.lfnews.cn/portal.php?mod=view&aid=142624 Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.lfnews.cn/portal.php?mod=view&aid=142624
+Call log:
+  - navigating to "https://www.lfnews.cn/portal.php?mod=view&aid=142624", waiting until "commit"
+
+err folder=20261116_suanli_0032_赛迪网首发_2173ee26 url=https://www.ccidnet.com/cpfwyjs/1132804.jhtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.ccidnet.com/cpfwyjs/1132804.jhtml
+Call log:
+  - navigating to "https://www.ccidnet.com/cpfwyjs/1132804.jhtml", waiting until "commit"
+
+err folder=20261116_qiyuan_0012_商业新知（可带联系电话）_7654d9e7 url=https://www.shangyexinzhi.com/article/34747229.html Page.goto: net::ERR_CONNECTION_REFUSED at https://www.shangyexinzhi.com/article/34747229.html
+Call log:
+  - navigating to "https://www.shangyexinzhi.com/article/34747229.html", waiting until "commit"
+
+err folder=20261116_qiyuan_0015_太平洋科技_48be58d1 url=https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679378 Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679378
+Call log:
+  - navigating to "https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679378", waiting until "commit"
+
+ok folder=20261116_qiyuan_0016_IT 专家网_633e5b5d url=http://www.ctocio.net.cn/zonghe/2026/1116/21337.html md=9a19865ebdb23558d25df6f05afd30e47288e54c0208d8fd877a30043e584896
+err folder=20261116_qiyuan_0019_天下金融网_b3059dd8 url=https://a.itkjhd.cn/24153.html Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://a.itkjhd.cn/24153.html
+Call log:
+  - navigating to "https://a.itkjhd.cn/24153.html", waiting until "commit"
+
+err folder=20261116_qiyuan_0020_太平洋财富网_60e22ab7 url=http://cy.pcfortune.com.cn/cyxw/2026/1116/259286.html Page.goto: net::ERR_CONNECTION_TIMED_OUT at http://cy.pcfortune.com.cn/cyxw/2026/1116/259286.html
+Call log:
+  - navigating to "http://cy.pcfortune.com.cn/cyxw/2026/1116/259286.html", waiting until "commit"
+
+err folder=20261116_qiyuan_0023_中国经济新闻网_4c961125 url=https://www.cet.com.cn/xwsd/10667177.shtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.cet.com.cn/xwsd/10667177.shtml
+Call log:
+  - navigating to "https://www.cet.com.cn/xwsd/10667177.shtml", waiting until "commit"
+
+err folder=20261116_qiyuan_0029_廊坊新闻网_aee2cc0b url=https://www.lfnews.cn/portal.php?mod=view&aid=142628 Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.lfnews.cn/portal.php?mod=view&aid=142628
+Call log:
+  - navigating to "https://www.lfnews.cn/portal.php?mod=view&aid=142628", waiting until "commit"
+
+err folder=20261116_qiyuan_0032_赛迪网首发_f8f94a97 url=https://www.ccidnet.com/cpfwyjs/1132802.jhtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.ccidnet.com/cpfwyjs/1132802.jhtml
+Call log:
+  - navigating to "https://www.ccidnet.com/cpfwyjs/1132802.jhtml", waiting until "commit"
+
+2026-11-19T22:58+08:00 distribution batch queue=20 campaign=all edge=1 bundled=0
+err folder=20261113_sat29_0012_商业新知（可带联系电话）_cf47e2cd url=https://www.shangyexinzhi.com/article/34719309.html Page.goto: net::ERR_CONNECTION_REFUSED at https://www.shangyexinzhi.com/article/34719309.html
+Call log:
+  - navigating to "https://www.shangyexinzhi.com/article/34719309.html", waiting until "commit"
+
+err folder=20261113_sat29_0015_太平洋科技_fcfcf857 url=https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1677883 Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1677883
+Call log:
+  - navigating to "https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1677883", waiting until "commit"
+
+err folder=20261113_sat29_0020_太平洋财富网_6208c022 url=http://cy.pcfortune.com.cn/cyxw/2026/1113/258809.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://cy.pcfortune.com.cn/cyxw/2026/1113/258809.html
+Call log:
+  - navigating to "http://cy.pcfortune.com.cn/cyxw/2026/1113/258809.html", waiting until "commit"
+
+err folder=20261113_sat29_0029_廊坊新闻网_9d4eb6b5 url=https://www.lfnews.cn/portal.php?mod=view&aid=142219 Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.lfnews.cn/portal.php?mod=view&aid=142219
+Call log:
+  - navigating to "https://www.lfnews.cn/portal.php?mod=view&aid=142219", waiting until "commit"
+
+err folder=20261113_sat29_0032_赛迪网首发_6aa5f07a url=https://www.ccidnet.com/wltxyaq/1096891.jhtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.ccidnet.com/wltxyaq/1096891.jhtml
+Call log:
+  - navigating to "https://www.ccidnet.com/wltxyaq/1096891.jhtml", waiting until "commit"
+
+err folder=20261113_sat29_0035_中国经济新闻网_bf86d509 url=https://www.cet.com.cn/xwsd/10664204.shtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.cet.com.cn/xwsd/10664204.shtml
+Call log:
+  - navigating to "https://www.cet.com.cn/xwsd/10664204.shtml", waiting until "commit"
+
+err folder=20261116_suanli_0012_商业新知（可带联系电话）_fa25542a url=https://www.shangyexinzhi.com/article/34744891.html Page.goto: net::ERR_CONNECTION_REFUSED at https://www.shangyexinzhi.com/article/34744891.html
+Call log:
+  - navigating to "https://www.shangyexinzhi.com/article/34744891.html", waiting until "commit"
+
+err folder=20261116_suanli_0015_太平洋科技_d2899732 url=https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679412 Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679412
+Call log:
+  - navigating to "https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679412", waiting until "commit"
+
+err folder=20261116_suanli_0019_天下金融网_07516cde url=https://a.itkjhd.cn/24151.html Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://a.itkjhd.cn/24151.html
+Call log:
+  - navigating to "https://a.itkjhd.cn/24151.html", waiting until "commit"
+
+err folder=20261116_suanli_0020_太平洋财富网_787668cd url=http://cy.pcfortune.com.cn/cyxw/2026/1116/259246.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://cy.pcfortune.com.cn/cyxw/2026/1116/259246.html
+Call log:
+  - navigating to "http://cy.pcfortune.com.cn/cyxw/2026/1116/259246.html", waiting until "commit"
+
+err folder=20261116_suanli_0023_中国经济新闻网_752d9cfc url=https://www.cet.com.cn/xwsd/10666861.shtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.cet.com.cn/xwsd/10666861.shtml
+Call log:
+  - navigating to "https://www.cet.com.cn/xwsd/10666861.shtml", waiting until "commit"
+
+err folder=20261116_suanli_0029_廊坊新闻网_22a15f53 url=https://www.lfnews.cn/portal.php?mod=view&aid=142624 Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.lfnews.cn/portal.php?mod=view&aid=142624
+Call log:
+  - navigating to "https://www.lfnews.cn/portal.php?mod=view&aid=142624", waiting until "commit"
+
+err folder=20261116_suanli_0032_赛迪网首发_2173ee26 url=https://www.ccidnet.com/cpfwyjs/1132804.jhtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.ccidnet.com/cpfwyjs/1132804.jhtml
+Call log:
+  - navigating to "https://www.ccidnet.com/cpfwyjs/1132804.jhtml", waiting until "commit"
+
+err folder=20261116_qiyuan_0012_商业新知（可带联系电话）_7654d9e7 url=https://www.shangyexinzhi.com/article/34747229.html Page.goto: net::ERR_CONNECTION_REFUSED at https://www.shangyexinzhi.com/article/34747229.html
+Call log:
+  - navigating to "https://www.shangyexinzhi.com/article/34747229.html", waiting until "commit"
+
+err folder=20261116_qiyuan_0015_太平洋科技_48be58d1 url=https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679378 Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679378
+Call log:
+  - navigating to "https://mrobot.pconline.com.cn/s/onlineinfo/pgc/terminals/article/1679378", waiting until "commit"
+
+err folder=20261116_qiyuan_0019_天下金融网_b3059dd8 url=https://a.itkjhd.cn/24153.html Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://a.itkjhd.cn/24153.html
+Call log:
+  - navigating to "https://a.itkjhd.cn/24153.html", waiting until "commit"
+
+err folder=20261116_qiyuan_0020_太平洋财富网_60e22ab7 url=http://cy.pcfortune.com.cn/cyxw/2026/1116/259286.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://cy.pcfortune.com.cn/cyxw/2026/1116/259286.html
+Call log:
+  - navigating to "http://cy.pcfortune.com.cn/cyxw/2026/1116/259286.html", waiting until "commit"
+
+err folder=20261116_qiyuan_0023_中国经济新闻网_4c961125 url=https://www.cet.com.cn/xwsd/10667177.shtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.cet.com.cn/xwsd/10667177.shtml
+Call log:
+  - navigating to "https://www.cet.com.cn/xwsd/10667177.shtml", waiting until "commit"
+
+err folder=20261116_qiyuan_0029_廊坊新闻网_aee2cc0b url=https://www.lfnews.cn/portal.php?mod=view&aid=142628 Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.lfnews.cn/portal.php?mod=view&aid=142628
+Call log:
+  - navigating to "https://www.lfnews.cn/portal.php?mod=view&aid=142628", waiting until "commit"
+
+err folder=20261116_qiyuan_0032_赛迪网首发_f8f94a97 url=https://www.ccidnet.com/cpfwyjs/1132802.jhtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.ccidnet.com/cpfwyjs/1132802.jhtml
+Call log:
+  - navigating to "https://www.ccidnet.com/cpfwyjs/1132802.jhtml", waiting until "commit"
+

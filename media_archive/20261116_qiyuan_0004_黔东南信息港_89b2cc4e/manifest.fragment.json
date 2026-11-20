@@ -1,0 +1,21 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-16",
+  "campaign": "qiyuan-1116",
+  "seq": 4,
+  "title": "碳硅道统｜启元机器人个人机器人实现万台下线（二）",
+  "media": "黔东南信息港",
+  "url": "http://www.qdn.cn/html/2026/hyzx_1116/638059.shtml",
+  "submit_batch": "11月16号13：10发布媒体执行清单",
+  "files": {
+    "碳硅道统｜启元机器人个人机器人实现万台下线（二）_黔东南信息港.md": {
+      "sha256": "ba643f84d2fb34a14f2cf4e72de0cb9813910f191d8123a1b5ae1b8447cbad56",
+      "bytes": 14415
+    },
+    "evidence-snapshots/碳硅道统｜启元机器人个人机器人实现万台下线（二）_黔东南信息港_snapshot.png": {
+      "sha256": "a5a7e53d131e9764c09bbc8ef2d97d72751b0805dd2148c926e6dcccb17e428a",
+      "bytes": 1190171
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-16",
+  "campaign": "suanli-1116",
+  "seq": 26,
+  "title": "碳硅道统｜统筹算力网节能升级 筑牢绿色新型基础设施底座（二）",
+  "media": "CSDN",
+  "url": "https://www.csdn.net/article/2026-11-16/170866981",
+  "submit_batch": "11月16号11:00发布媒体执行清单",
+  "files": {
+    "碳硅道统｜统筹算力网节能升级 筑牢绿色新型基础设施底座（二）_CSDN.md": {
+      "sha256": "a3ecad580c2df20c1465e6e7528bd29ef6420f7bae34d7b8831e09e878e08124",
+      "bytes": 14233
+    },
+    "evidence-snapshots/碳硅道统｜统筹算力网节能升级 筑牢绿色新型基础设施底座（二）_CSDN_snapshot.png": {
+      "sha256": "034f7d7c92e554c8d182c472186c22a71a6ff2d06c02c3df7a9afa887621cd39",
+      "bytes": 1217396
+    }
+  }
+}

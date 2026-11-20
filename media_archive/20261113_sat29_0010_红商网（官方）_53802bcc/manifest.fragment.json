@@ -1,0 +1,21 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-13",
+  "campaign": "satellite-1113",
+  "seq": 10,
+  "title": "碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）",
+  "media": "红商网（官方）",
+  "url": "http://www.redsh.com/a/20261113/174153.shtml",
+  "submit_batch": "11月13号10:30发布媒体执行清单",
+  "files": {
+    "碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）_红商网（官方）.md": {
+      "sha256": "fa48d1e75b212fc77c5c2215b1b308a57675f9ac2a54fa9224c959585aff75d7",
+      "bytes": 11033
+    },
+    "evidence-snapshots/碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）_红商网（官方）_snapshot.png": {
+      "sha256": "b652285875b69e0234ea4e51240111e872db8835aeb1db4edbfac3771d51ce5e",
+      "bytes": 1970289
+    }
+  }
+}

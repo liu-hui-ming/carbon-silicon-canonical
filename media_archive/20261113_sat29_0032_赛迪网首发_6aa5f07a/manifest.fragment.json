@@ -1,0 +1,20 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-13",
+  "seq": 32,
+  "title": "碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）",
+  "media": "赛迪网首发",
+  "url": "https://www.ccidnet.com/wltxyaq/1096891.jhtml",
+  "capture_mode": "manual_zip_shots_1120_20261120",
+  "files": {
+    "碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）_赛迪网首发.md": {
+      "sha256": "978397f0ffec2708662c4aa04b637347bb3ce2a959f92bfaeb1cd4e82a94bf02",
+      "bytes": 12898
+    },
+    "evidence-snapshots/碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）_赛迪网首发_snapshot.png": {
+      "sha256": "0d46470c68e68d9675c7e5c342f0d41aedef0bd292200449b4faa0649170395a",
+      "bytes": 1176902
+    }
+  }
+}

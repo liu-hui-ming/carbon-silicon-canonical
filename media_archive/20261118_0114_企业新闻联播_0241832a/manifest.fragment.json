@@ -1,0 +1,20 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-18",
+  "seq": 114,
+  "title": "碳硅道统｜题名回潮：央视网—央广网—人民网（原题复归·署名跨留），谱系联勘 008",
+  "media": "企业新闻联播",
+  "url": "http://www.qwqy.cn/caijing/52504.html",
+  "capture_mode": "manual_zip_shots_1118_20261120",
+  "files": {
+    "碳硅道统｜题名回潮：央视网—央广网—人民网（原题复归·署名跨留），谱系联勘 008_企业新闻联播.md": {
+      "sha256": "206f49086cc5dcd2fbb3144e24cc49c8754048bf4a82b39c115952beee3913ad",
+      "bytes": 15243
+    },
+    "evidence-snapshots/碳硅道统｜题名回潮：央视网—央广网—人民网（原题复归·署名跨留），谱系联勘 008_企业新闻联播_snapshot.png": {
+      "sha256": "cbd1fead308ce79c022e501fbaee6534f9cf3f4057cc68d31a149ed7ecc1d3df",
+      "bytes": 1374632
+    }
+  }
+}

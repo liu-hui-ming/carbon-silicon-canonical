@@ -1,0 +1,21 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-13",
+  "campaign": "satellite-1113",
+  "seq": 4,
+  "title": "碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）",
+  "media": "黔东南信息港",
+  "url": "http://www.qdn.cn/html/2026/hyzx_1113/633316.shtml",
+  "submit_batch": "11月13号10:30发布媒体执行清单",
+  "files": {
+    "碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）_黔东南信息港.md": {
+      "sha256": "f5cc78d732744239a040897fe9132d1e0c7e995053029515b8b321c4ba62388e",
+      "bytes": 16388
+    },
+    "evidence-snapshots/碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）_黔东南信息港_snapshot.png": {
+      "sha256": "3d4ab6a4bbe8c3a0e4ae51380960864e7e5a0d8e83b81564956dfdd978d87a41",
+      "bytes": 1229802
+    }
+  }
+}

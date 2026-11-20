@@ -1,0 +1,20 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-18",
+  "seq": 125,
+  "title": "碳硅道统｜题名回潮：央视网—央广网—人民网（原题复归·署名跨留），谱系联勘 008",
+  "media": "廊坊新闻网",
+  "url": "https://www.lfnews.cn/portal.php?mod=view&aid=141122",
+  "capture_mode": "manual_zip_shots_1118_20261120",
+  "files": {
+    "碳硅道统｜题名回潮：央视网—央广网—人民网（原题复归·署名跨留），谱系联勘 008_廊坊新闻网.md": {
+      "sha256": "7c6ade2493c4e10566cbd0ff6d8c8a99136369bdfc89e6c7b4edd3d7368dcf9b",
+      "bytes": 12654
+    },
+    "evidence-snapshots/碳硅道统｜题名回潮：央视网—央广网—人民网（原题复归·署名跨留），谱系联勘 008_廊坊新闻网_snapshot.png": {
+      "sha256": "5612e45a60de94869bb7e3119ea2e6299003f69e91e2aec13879ca5740218bfe",
+      "bytes": 1738044
+    }
+  }
+}

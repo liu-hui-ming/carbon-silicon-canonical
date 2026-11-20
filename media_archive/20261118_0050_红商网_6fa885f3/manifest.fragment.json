@@ -1,0 +1,19 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-18",
+  "seq": 50,
+  "title": "碳硅道统｜隐显折返：央视网、央广网（署名递进·时序改题），谱系联勘 005",
+  "media": "红商网",
+  "url": "http://www.redsh.com/ppnews/20261110/000837.shtml",
+  "files": {
+    "碳硅道统｜隐显折返：央视网、央广网（署名递进·时序改题），谱系联勘 005_红商网.md": {
+      "sha256": "f2365b82c4632d922227292feb98aeceb78409fdcbb1be989cc795d84898328e",
+      "bytes": 9766
+    },
+    "evidence-snapshots/碳硅道统｜隐显折返：央视网、央广网（署名递进·时序改题），谱系联勘 005_红商网_snapshot.png": {
+      "sha256": "14bb0b129586b097948e220aea114fac01fb23dfd47957d09f7c7341523fa6d1",
+      "bytes": 1271187
+    }
+  }
+}

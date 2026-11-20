@@ -1,0 +1,20 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-18",
+  "seq": 130,
+  "title": "碳硅道统｜EUV光刻膜寿命评判隐患：加速实验的标尺，缺一条长时稳态基准线",
+  "media": "半导体行业观察",
+  "url": "http://www.semi-insights.com/s/bdt/15/51077.shtml",
+  "capture_mode": "manual_zip_shots_1118_20261120",
+  "files": {
+    "碳硅道统｜EUV光刻膜寿命评判隐患：加速实验的标尺，缺一条长时稳态基准线_半导体行业观察.md": {
+      "sha256": "5d3c0f34b5b392124dd462187dc6bfa02e2d605d60e273bc8e088d00cf87d7d7",
+      "bytes": 8260
+    },
+    "evidence-snapshots/碳硅道统｜EUV光刻膜寿命评判隐患：加速实验的标尺，缺一条长时稳态基准线_半导体行业观察_snapshot.png": {
+      "sha256": "6ea523cb3cd977c952ab483e0574ce0188979ee77dc73a7a0080dfa9debf9843",
+      "bytes": 834674
+    }
+  }
+}

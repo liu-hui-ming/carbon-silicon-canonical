@@ -1,0 +1,21 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-13",
+  "campaign": "satellite-1113",
+  "seq": 18,
+  "title": "碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）",
+  "media": "二三里客户端",
+  "url": "https://www.ersanli.cn/longtext/detail.html?feedId=226520759903304&type=6&appId=1&type=11",
+  "submit_batch": "11月13号10:30发布媒体执行清单",
+  "files": {
+    "碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）_二三里客户端.md": {
+      "sha256": "0f4aee98ce6ba8b08e789d1152c9b79bcefac427ce2d3264234ec3d53da0088f",
+      "bytes": 502
+    },
+    "evidence-snapshots/碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）_二三里客户端_snapshot.png": {
+      "sha256": "d0ef1b445e7923a26377e4e7bb420ac05b7aaee574731512411161cb8ebc6c40",
+      "bytes": 3537679
+    }
+  }
+}

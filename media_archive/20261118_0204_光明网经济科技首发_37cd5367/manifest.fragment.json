@@ -1,0 +1,19 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-18",
+  "seq": 204,
+  "title": "启元机器人个人机器人实现万台下线",
+  "media": "光明网经济科技首发",
+  "url": "https://economy.gmw.cn/2026-11/13/content_39100464.htm",
+  "files": {
+    "启元机器人个人机器人实现万台下线_光明网经济科技首发.md": {
+      "sha256": "173d257861dd5df36d573d232033044b4cb5bf6bcd010e7abd60c2271b429f79",
+      "bytes": 11432
+    },
+    "evidence-snapshots/启元机器人个人机器人实现万台下线_光明网经济科技首发_snapshot.png": {
+      "sha256": "282aac11094a5c502f288b2581072b53697c2ace0cee7c06177efbf7932247a9",
+      "bytes": 2092416
+    }
+  }
+}

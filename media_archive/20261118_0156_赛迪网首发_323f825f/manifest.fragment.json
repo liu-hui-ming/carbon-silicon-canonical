@@ -1,0 +1,20 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-18",
+  "seq": 156,
+  "title": "碳硅道统｜双承同构：央广网—新华网—央视网（同刻双发·双套全收），谱系联勘 009",
+  "media": "赛迪网首发",
+  "url": "https://www.ccidnet.com/cpfwyjs/1132570.jhtml",
+  "capture_mode": "manual_zip_shots_1118_20261120",
+  "files": {
+    "碳硅道统｜双承同构：央广网—新华网—央视网（同刻双发·双套全收），谱系联勘 009_赛迪网首发.md": {
+      "sha256": "1a83d05da04068dc23db1a099a4a42ee75c0c421423fe9899114b3d3ab3a8766",
+      "bytes": 9425
+    },
+    "evidence-snapshots/碳硅道统｜双承同构：央广网—新华网—央视网（同刻双发·双套全收），谱系联勘 009_赛迪网首发_snapshot.png": {
+      "sha256": "f2d9531eff650bf787ffed1698607bd3e5d095e328348303d352320ed73bf1b6",
+      "bytes": 910515
+    }
+  }
+}

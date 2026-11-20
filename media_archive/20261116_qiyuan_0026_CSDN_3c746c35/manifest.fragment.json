@@ -1,0 +1,21 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-16",
+  "campaign": "qiyuan-1116",
+  "seq": 26,
+  "title": "碳硅道统｜启元机器人个人机器人实现万台下线（二）",
+  "media": "CSDN",
+  "url": "https://www.csdn.net/article/2026-11-16/170867025",
+  "submit_batch": "11月16号13：10发布媒体执行清单",
+  "files": {
+    "碳硅道统｜启元机器人个人机器人实现万台下线（二）_CSDN.md": {
+      "sha256": "a7ad9d43a9314075b73c9ef71ffd29d95c7a6262437b6d8eb4bbfa3185a5c89c",
+      "bytes": 11364
+    },
+    "evidence-snapshots/碳硅道统｜启元机器人个人机器人实现万台下线（二）_CSDN_snapshot.png": {
+      "sha256": "46d0c90a230f13692653428815d745d7d2ba85c65716fad55d94fdb0ae00e187",
+      "bytes": 1117503
+    }
+  }
+}

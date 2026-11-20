@@ -1,0 +1,21 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-16",
+  "campaign": "suanli-1116",
+  "seq": 21,
+  "title": "碳硅道统｜统筹算力网节能升级 筑牢绿色新型基础设施底座（二）",
+  "media": "智门财经",
+  "url": "https://www.zhimen.com/index.php/caijing/24301.html?admin_id=1",
+  "submit_batch": "11月16号11:00发布媒体执行清单",
+  "files": {
+    "碳硅道统｜统筹算力网节能升级 筑牢绿色新型基础设施底座（二）_智门财经.md": {
+      "sha256": "89a1bba2b29ca26c7d3ee466c9307aac1ab09fe86e05089708b476d6d7e32583",
+      "bytes": 388
+    },
+    "evidence-snapshots/碳硅道统｜统筹算力网节能升级 筑牢绿色新型基础设施底座（二）_智门财经_snapshot.png": {
+      "sha256": "fa1cd70cdf38676863c44d2ae6bd3b5ca756d022cf99c74d2dc32104e5fe32d3",
+      "bytes": 111589
+    }
+  }
+}
