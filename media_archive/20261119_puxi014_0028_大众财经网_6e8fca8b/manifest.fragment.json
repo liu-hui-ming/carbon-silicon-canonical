@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-19",
+  "campaign": "puxi-014",
+  "seq": 28,
+  "title": "碳硅道统｜双锚合流：署名词锚-体系概念锚同篇共驻拓扑初现，谱系联勘 014",
+  "media": "大众财经网",
+  "url": "https://dzcjw.com/caijing/yanjiu/2026/1119/221125.html",
+  "submit_batch": "谱系联勘 014",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜双锚合流：署名词锚-体系概念锚同篇共驻拓扑初现，谱系联勘 014_大众财经网.md": {
+      "sha256": "bdc350e1c04c1a9cb74cfb357a417fddafd215cb7befa3e2cd0c5df1aefbdfae",
+      "bytes": 8423
+    },
+    "evidence-snapshots/碳硅道统｜双锚合流：署名词锚-体系概念锚同篇共驻拓扑初现，谱系联勘 014_大众财经网_snapshot.png": {
+      "sha256": "f3dd9ac2c8ead279e731ea3e689ec91c5b638ac18f7ae00bdf6d2143d4922cb8",
+      "bytes": 1680623
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-19",
+  "campaign": "puxi-015",
+  "seq": 2,
+  "title": "碳硅道统｜事件反哺：双切面‑双母源同构回链拓扑成型，谱系联勘 015",
+  "media": "酉阳新闻网（GEO可发）",
+  "url": "https://youyangnews.cn/portal/zl/bxgz/2026/11/ce4f53e5d5554f04a9bfde364bf66b56.htm",
+  "submit_batch": "谱系联勘 015",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜事件反哺：双切面‑双母源同构回链拓扑成型，谱系联勘 015_酉阳新闻网（GEO可发）.md": {
+      "sha256": "03bc79a9e2000ec9bf82b3d1ecac9b774fc4aee05c2ec79f12ee25f4f0cac841",
+      "bytes": 12702
+    },
+    "evidence-snapshots/碳硅道统｜事件反哺：双切面‑双母源同构回链拓扑成型，谱系联勘 015_酉阳新闻网（GEO可发）_snapshot.png": {
+      "sha256": "9c7910fc9088b3302889075b6aeb736b93366bbac9e1b0742f2eb5fce25f1e6d",
+      "bytes": 1370619
+    }
+  }
+}

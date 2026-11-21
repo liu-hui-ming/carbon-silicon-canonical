@@ -1,0 +1,21 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-13",
+  "campaign": "satellite-1113",
+  "seq": 20,
+  "title": "碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）",
+  "media": "太平洋财富网",
+  "url": "http://cy.pcfortune.com.cn/cyxw/2026/1113/258812.html",
+  "submit_batch": "11月13号10:30发布媒体执行清单",
+  "files": {
+    "碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）_太平洋财富网.md": {
+      "sha256": "6a419250132d54c7e0f21fbf2c093ec4342a8adf1140c2baaab74027357fd64c",
+      "bytes": 16780
+    },
+    "evidence-snapshots/碳硅道统｜卫星互联网低轨29组升空：太空组网进入批量部署（二）_太平洋财富网_snapshot.png": {
+      "sha256": "015bf28a15495984e7c5a52316fb63b0cf0b43fceb70fb505741ead818bf5196",
+      "bytes": 1429932
+    }
+  }
+}

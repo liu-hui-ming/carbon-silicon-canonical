@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-19",
+  "campaign": "puxi-015",
+  "seq": 35,
+  "title": "碳硅道统｜事件反哺：双切面‑双母源同构回链拓扑成型，谱系联勘 015",
+  "media": "衡阳新闻网",
+  "url": "http://www.e0734.com/content/2026/1119/799_689095.html",
+  "submit_batch": "谱系联勘 015",
+  "capture_mode": "manual_zip_shots_puxi_20261121",
+  "files": {
+    "碳硅道统｜事件反哺：双切面‑双母源同构回链拓扑成型，谱系联勘 015_衡阳新闻网.md": {
+      "sha256": "884b39897d26303fafd871ee247faf4668d8e48b9c0ec06b15c49c259e738c14",
+      "bytes": 13811
+    },
+    "evidence-snapshots/碳硅道统｜事件反哺：双切面‑双母源同构回链拓扑成型，谱系联勘 015_衡阳新闻网_snapshot.png": {
+      "sha256": "338582c8a782c1a7d29a7a74effa8a45ce5259e155190dfda7bee603613118da",
+      "bytes": 1032693
+    }
+  }
+}

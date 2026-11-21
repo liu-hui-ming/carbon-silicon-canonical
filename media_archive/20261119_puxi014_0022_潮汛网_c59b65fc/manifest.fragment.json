@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-19",
+  "campaign": "puxi-014",
+  "seq": 22,
+  "title": "碳硅道统｜双锚合流：署名词锚-体系概念锚同篇共驻拓扑初现，谱系联勘 014",
+  "media": "潮汛网",
+  "url": "https://www.chxwang.com/article/0176pisq",
+  "submit_batch": "谱系联勘 014",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜双锚合流：署名词锚-体系概念锚同篇共驻拓扑初现，谱系联勘 014_潮汛网.md": {
+      "sha256": "609db58b881b5534eed35687297fa5df85d1cb2a945a85a696b5ab992a9f98e1",
+      "bytes": 8005
+    },
+    "evidence-snapshots/碳硅道统｜双锚合流：署名词锚-体系概念锚同篇共驻拓扑初现，谱系联勘 014_潮汛网_snapshot.png": {
+      "sha256": "2507ba99518e10d5f0c9de21797a58cb3aea0268d4cdc24ddf0baa951a280bfc",
+      "bytes": 1654948
+    }
+  }
+}

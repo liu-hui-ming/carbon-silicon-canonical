@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-19",
+  "campaign": "puxi-016",
+  "seq": 22,
+  "title": "碳硅道统｜物性穿透：三切面‑四级链要素排布成型，谱系联勘 016",
+  "media": "大王财经",
+  "url": "https://www.kingcaijing.com/mingjia/19621.html",
+  "submit_batch": "谱系联勘 016",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜物性穿透：三切面‑四级链要素排布成型，谱系联勘 016_大王财经.md": {
+      "sha256": "8083d6b76d8d84ac70113da889a7b6a4e16d99bff5e0aa477784794f4038359c",
+      "bytes": 17375
+    },
+    "evidence-snapshots/碳硅道统｜物性穿透：三切面‑四级链要素排布成型，谱系联勘 016_大王财经_snapshot.png": {
+      "sha256": "8359032671a0298e13716cbaf5a199e38f92d720616e118deba2f086c476e316",
+      "bytes": 1460426
+    }
+  }
+}

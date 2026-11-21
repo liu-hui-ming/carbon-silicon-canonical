@@ -22,13 +22,18 @@ ARCHIVE = ROOT / "media_archive"
 OUT_DIR = Path(r"e:/hundred-crayfish-legion/carbon-silicon-daotong/归档日报")
 OUT_XLSX_1118 = OUT_DIR / "1118结算-待补P0.xlsx"
 OUT_XLSX_DIST = OUT_DIR / "三清单分发-待补P0.xlsx"
+OUT_XLSX_PUXI = OUT_DIR / "谱系联勘014-016-待补P0.xlsx"
 OUT_MD = OUT_DIR / "媒体归档-未采集汇总.md"
 JOBS_PATH = ROOT / "compass-pedal-audit/media-archive-distribution-1113-1116.json"
 STATE_PATH = ROOT / "compass-pedal-audit/media-archive-distribution-1113-1116.state.json"
+PUXI_JOBS = ROOT / "compass-pedal-audit/media-archive-puxi-014-016-20261119.json"
+PUXI_STATE = ROOT / "compass-pedal-audit/media-archive-puxi-014-016-20261119.state.json"
 SETTLE_STATE = ROOT / "compass-pedal-audit/media-archive-1118-settlement.state.json"
 BAD = re.compile(r'[\\/:*?"<>|]')
 CS = {"satellite-1113": "sat29", "suanli-1116": "suanli", "qiyuan-1116": "qiyuan"}
 CMAP = {"satellite-1113": "卫星29", "suanli-1116": "算力", "qiyuan-1116": "启元"}
+PUXI_CS = {"puxi-014": "puxi014", "puxi-015": "puxi015", "puxi-016": "puxi016"}
+PUXI_CMAP = {"puxi-014": "联勘014", "puxi-015": "联勘015", "puxi-016": "联勘016"}
 TZ_CN = timezone(timedelta(hours=8))
 
 
@@ -39,6 +44,12 @@ def safe(s: str) -> str:
 def dist_folder(j: dict) -> str:
     h = hashlib.sha256(j["url"].strip().encode()).hexdigest()[:8]
     return f"{j['date_prefix']}_{CS[j['campaign']]}_{j['seq']:04d}_{safe(j['media'])[:24]}_{h}"
+
+
+def puxi_folder(j: dict) -> str:
+    h = hashlib.sha256(j["url"].strip().encode()).hexdigest()[:8]
+    camp = PUXI_CS.get(j["campaign"], j["campaign"][:8])
+    return f"{j['date_prefix']}_{camp}_{j['seq']:04d}_{safe(j['media'])[:24]}_{h}"
 
 
 def err_short(msg: str, n: int = 120) -> str:
@@ -133,6 +144,40 @@ def collect_dist_gaps() -> tuple[list[dict], int]:
     return rows, valid
 
 
+def collect_puxi_gaps() -> tuple[list[dict], int]:
+    if not PUXI_JOBS.is_file():
+        return [], 0
+    jobs = json.loads(PUXI_JOBS.read_text(encoding="utf-8"))
+    state = json.loads(PUXI_STATE.read_text(encoding="utf-8")) if PUXI_STATE.is_file() else {}
+    errors = state.get("errors", {})
+    rows: list[dict] = []
+    valid = 0
+    for j in jobs:
+        folder_name = puxi_folder(j)
+        if p0gate.should_skip_capture(j["url"], folder_name, ARCHIVE)[0]:
+            valid += 1
+            continue
+        folder = ARCHIVE / folder_name
+        err_full = str(errors.get(j["url"], {}).get("error", ""))
+        rows.append(
+            {
+                "篇目": PUXI_CMAP.get(j["campaign"], j["campaign"]),
+                "campaign": j["campaign"],
+                "序号": j["seq"],
+                "媒体": j["media"],
+                "标题": j.get("title", ""),
+                "回链": j["url"],
+                "提交批次": j.get("submit_batch", ""),
+                "归档目录": folder_name,
+                "磁盘状态": on_disk_status(folder),
+                "末次错误摘要": err_short(err_full),
+                "末次错误全文": err_full[:2000],
+            }
+        )
+    rows.sort(key=lambda r: (r["campaign"], r["序号"]))
+    return rows, valid
+
+
 def write_sheet(wb: openpyxl.Workbook, title: str, headers: list[str], rows: list[dict], meta: str) -> None:
     ws = wb.active
     ws.title = title[:31]
@@ -159,6 +204,8 @@ def main() -> int:
     stamp = datetime.now(TZ_CN).strftime("%Y-%m-%d %H:%M")
     rows1118, v1118 = collect_1118_gaps()
     rows_dist, v_dist = collect_dist_gaps()
+    rows_puxi, v_puxi = collect_puxi_gaps()
+    total_puxi = len(rows_puxi) + v_puxi
     OUT_DIR.mkdir(parents=True, exist_ok=True)
 
     h1118 = ["序号", "媒体", "标题", "回链", "归档目录", "磁盘状态", "末次错误摘要", "末次错误全文"]
@@ -194,6 +241,29 @@ def main() -> int:
     )
     wb2.save(OUT_XLSX_DIST)
 
+    if rows_puxi or PUXI_JOBS.is_file():
+        hpuxi = [
+            "篇目",
+            "序号",
+            "媒体",
+            "标题",
+            "回链",
+            "提交批次",
+            "归档目录",
+            "磁盘状态",
+            "末次错误摘要",
+            "末次错误全文",
+        ]
+        wb3 = openpyxl.Workbook()
+        write_sheet(
+            wb3,
+            "待补42",
+            hpuxi,
+            rows_puxi,
+            f"谱系联勘014/015/016 · 11-19已发布入队91 · 有效P0 {v_puxi}/{total_puxi or 91} · 待补 {len(rows_puxi)} · 盘检 {stamp}",
+        )
+        wb3.save(OUT_XLSX_PUXI)
+
     OUT_MD.write_text(
         "\n".join(
             [
@@ -203,8 +273,9 @@ def main() -> int:
                 "",
                 f"- 表一：[1118结算-待补P0.xlsx](./1118结算-待补P0.xlsx)（{len(rows1118)} 行 · 有效 {v1118}/207）",
                 f"- 表二：[三清单分发-待补P0.xlsx](./三清单分发-待补P0.xlsx)（{len(rows_dist)} 行 · 有效 {v_dist}/75）",
+                f"- 表三：[谱系联勘014-016-待补P0.xlsx](./谱系联勘014-016-待补P0.xlsx)（{len(rows_puxi)} 行 · 有效 {v_puxi}/{total_puxi or 91}）",
                 "",
-                f"*合计待补 {len(rows1118) + len(rows_dist)} · 生成脚本 `carbon-silicon-canonical/scripts/_export_gap_tables.py`*",
+                f"*合计待补 {len(rows1118) + len(rows_dist) + len(rows_puxi)} · 生成脚本 `carbon-silicon-canonical/scripts/_export_gap_tables.py`*",
                 "",
             ]
         ),
@@ -213,6 +284,8 @@ def main() -> int:
     )
     print("wrote", OUT_XLSX_1118)
     print("wrote", OUT_XLSX_DIST)
+    if rows_puxi or PUXI_JOBS.is_file():
+        print("wrote", OUT_XLSX_PUXI)
     print("wrote", OUT_MD)
     return 0
 

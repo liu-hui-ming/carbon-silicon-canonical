@@ -1,0 +1,21 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-16",
+  "campaign": "qiyuan-1116",
+  "seq": 20,
+  "title": "碳硅道统｜启元机器人个人机器人实现万台下线（二）",
+  "media": "太平洋财富网",
+  "url": "http://cy.pcfortune.com.cn/cyxw/2026/1116/259286.html",
+  "submit_batch": "11月16号13：10发布媒体执行清单",
+  "files": {
+    "碳硅道统｜启元机器人个人机器人实现万台下线（二）_太平洋财富网.md": {
+      "sha256": "c925244b77a434ea7de409e8fd9f3069062385e9683d48b1ae48cd2d5d7c3ff7",
+      "bytes": 14516
+    },
+    "evidence-snapshots/碳硅道统｜启元机器人个人机器人实现万台下线（二）_太平洋财富网_snapshot.png": {
+      "sha256": "4c3dc6427adfb1e27d3a70ae46c8971d4aac4ae076aa25d19f757e17f5c0bd6b",
+      "bytes": 1354775
+    }
+  }
+}

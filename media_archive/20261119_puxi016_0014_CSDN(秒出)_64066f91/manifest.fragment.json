@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-19",
+  "campaign": "puxi-016",
+  "seq": 14,
+  "title": "碳硅道统｜物性穿透：三切面‑四级链要素排布成型，谱系联勘 016",
+  "media": "CSDN(秒出)",
+  "url": "https://www.csdn.net/article/2026-11-19/171024862",
+  "submit_batch": "谱系联勘 016",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜物性穿透：三切面‑四级链要素排布成型，谱系联勘 016_CSDN(秒出).md": {
+      "sha256": "25c040995bb92da8d88608170ad48c13dc923d106416fd650fd25d4c6ebe4d61",
+      "bytes": 12092
+    },
+    "evidence-snapshots/碳硅道统｜物性穿透：三切面‑四级链要素排布成型，谱系联勘 016_CSDN(秒出)_snapshot.png": {
+      "sha256": "e7b0ee2db7cadaa879b6c89adc29bfcfa9ac48d039c1223a35dfc05250649544",
+      "bytes": 1445430
+    }
+  }
+}

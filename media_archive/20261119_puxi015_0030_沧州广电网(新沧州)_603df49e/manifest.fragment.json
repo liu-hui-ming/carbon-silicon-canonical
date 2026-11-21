@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-19",
+  "campaign": "puxi-015",
+  "seq": 30,
+  "title": "碳硅道统｜事件反哺：双切面‑双母源同构回链拓扑成型，谱系联勘 015",
+  "media": "沧州广电网(新沧州)",
+  "url": "https://www.czgd.tv/Article/des?infoid=142943&modelid=2",
+  "submit_batch": "谱系联勘 015",
+  "capture_mode": "manual_zip_shots_puxi_20261121",
+  "files": {
+    "碳硅道统｜事件反哺：双切面‑双母源同构回链拓扑成型，谱系联勘 015_沧州广电网(新沧州).md": {
+      "sha256": "4e8bd17d4b25006d79262f903dd84b10dcf6c0bf828b16fd6c55f279dadf5bbc",
+      "bytes": 16386
+    },
+    "evidence-snapshots/碳硅道统｜事件反哺：双切面‑双母源同构回链拓扑成型，谱系联勘 015_沧州广电网(新沧州)_snapshot.png": {
+      "sha256": "bdb5183005b514bf01c5a4ad7636ebff556f62613c14d9465454b3421186edc9",
+      "bytes": 1427275
+    }
+  }
+}

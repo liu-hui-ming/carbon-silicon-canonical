@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-19",
+  "campaign": "puxi-015",
+  "seq": 22,
+  "title": "碳硅道统｜事件反哺：双切面‑双母源同构回链拓扑成型，谱系联勘 015",
+  "media": "大王财经",
+  "url": "https://www.kingcaijing.com/mingjia/19622.html",
+  "submit_batch": "谱系联勘 015",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜事件反哺：双切面‑双母源同构回链拓扑成型，谱系联勘 015_大王财经.md": {
+      "sha256": "f5f893e3f19be59d4faa4d5943857f565953b244ae678f331fe6f5ae6286afbb",
+      "bytes": 17282
+    },
+    "evidence-snapshots/碳硅道统｜事件反哺：双切面‑双母源同构回链拓扑成型，谱系联勘 015_大王财经_snapshot.png": {
+      "sha256": "ec25d85652f11a787820715d70b67e13f5e3fe58c933e2e8919f1bfa6f914410",
+      "bytes": 1521312
+    }
+  }
+}

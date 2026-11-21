@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-19",
+  "campaign": "puxi-016",
+  "seq": 30,
+  "title": "碳硅道统｜物性穿透：三切面‑四级链要素排布成型，谱系联勘 016",
+  "media": "沧州广电网(新沧州)",
+  "url": "https://www.czgd.tv/Article/des?infoid=142944&modelid=2",
+  "submit_batch": "谱系联勘 016",
+  "capture_mode": "manual_zip_shots_puxi_20261121",
+  "files": {
+    "碳硅道统｜物性穿透：三切面‑四级链要素排布成型，谱系联勘 016_沧州广电网(新沧州).md": {
+      "sha256": "4ab50abc031e591825791e40f3b5620901be0410737f0ce5ec2ed9403e553b84",
+      "bytes": 14265
+    },
+    "evidence-snapshots/碳硅道统｜物性穿透：三切面‑四级链要素排布成型，谱系联勘 016_沧州广电网(新沧州)_snapshot.png": {
+      "sha256": "85b646d3599785e2efe9fa49dcd97acd984c16018284ecdebd95db48660a5546",
+      "bytes": 1475157
+    }
+  }
+}

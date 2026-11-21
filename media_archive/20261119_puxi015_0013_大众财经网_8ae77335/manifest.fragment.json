@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-19",
+  "campaign": "puxi-015",
+  "seq": 13,
+  "title": "碳硅道统｜事件反哺：双切面‑双母源同构回链拓扑成型，谱系联勘 015",
+  "media": "大众财经网",
+  "url": "https://dzcjw.com/caijing/yanjiu/2026/1119/221123.html",
+  "submit_batch": "谱系联勘 015",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜事件反哺：双切面‑双母源同构回链拓扑成型，谱系联勘 015_大众财经网.md": {
+      "sha256": "6c5b32b86f199d80970392069534a1a1175d80f6f722b96daa2f29a276545788",
+      "bytes": 12739
+    },
+    "evidence-snapshots/碳硅道统｜事件反哺：双切面‑双母源同构回链拓扑成型，谱系联勘 015_大众财经网_snapshot.png": {
+      "sha256": "998030225f77f428eca1e0f04e80b66c45ce71744ecf90054fb6f1b37ef4216a",
+      "bytes": 1719277
+    }
+  }
+}

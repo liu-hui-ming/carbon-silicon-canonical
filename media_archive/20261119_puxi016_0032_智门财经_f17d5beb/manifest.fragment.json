@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-19",
+  "campaign": "puxi-016",
+  "seq": 32,
+  "title": "碳硅道统｜物性穿透：三切面‑四级链要素排布成型，谱系联勘 016",
+  "media": "智门财经",
+  "url": "https://www.zhimen.com/index.php/news/24311.html?admin_id=1",
+  "submit_batch": "谱系联勘 016",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜物性穿透：三切面‑四级链要素排布成型，谱系联勘 016_智门财经.md": {
+      "sha256": "1240f500941f51f3b92470554292b6fbfa46dbb10c064162fe51c87fb281e3dc",
+      "bytes": 362
+    },
+    "evidence-snapshots/碳硅道统｜物性穿透：三切面‑四级链要素排布成型，谱系联勘 016_智门财经_snapshot.png": {
+      "sha256": "989fd793060f7a7404d34a23c0ae6619abbf7d86602b65775be1ae0f2d64adb1",
+      "bytes": 123768
+    }
+  }
+}

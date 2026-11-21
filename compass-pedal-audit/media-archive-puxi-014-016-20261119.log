@@ -1,0 +1,395 @@
+2026-11-21T20:56+08:00 puxi batch queue=91 campaign=all edge=1 bundled=0
+ok folder=20261119_puxi015_0002_酉阳新闻网（GEO可发）_78ff4034 url=https://youyangnews.cn/portal/zl/bxgz/2026/11/ce4f53e5d5554f04a9bfde364bf66b56.htm md=03bc79a9e2000ec9bf82b3d1ecac9b774fc4aee05c2ec79f12ee25f4f0cac841
+err folder=20261119_puxi015_0003_环球商业产业网_aed0c6a3 url=http://www.sycyw.com.cn/n/2173.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.sycyw.com.cn/n/2173.html
+Call log:
+  - navigating to "http://www.sycyw.com.cn/n/2173.html", waiting until "commit"
+
+err folder=20261119_puxi015_0004_第一财经新闻网_87a9ce13 url=http://www.zgcaishang.cn/n/20261119/2590.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.zgcaishang.cn/n/20261119/2590.html
+Call log:
+  - navigating to "http://www.zgcaishang.cn/n/20261119/2590.html", waiting until "commit"
+
+err folder=20261119_puxi015_0005_华讯科技网_940de1d3 url=http://www.pgkeji.cn/n/3241.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.pgkeji.cn/n/3241.html
+Call log:
+  - navigating to "http://www.pgkeji.cn/n/3241.html", waiting until "commit"
+
+ok folder=20261119_puxi015_0006_中华网科技_8ef1fdb1 url=https://tech.china.com/articles/20261119/202611191981046.html md=a07aa315d36d7d90e65d523b81185b9f533a9bdd36ff5e0c98891534b6bc9ec8
+ok folder=20261119_puxi015_0008_芯通社_aeb73429 url=https://www.semiwebs.com/11191.html md=b8327ef18f1d21371d1ea69e172d8a17e42919d25cb5fecc09f0104da1e6c2c2
+ok folder=20261119_puxi015_0009_至顶网_ce80d62e url=https://www.zhiding.cn/cooperation/2026/1119/3206432.shtml md=6a63ae5696a59f5329ccafe64ef70d02bfb3bda74a4c9d1c9b60f415b7368b22
+ok folder=20261119_puxi015_0010_网经社_9e39535a url=https://www.100ec.cn/wjs-hy/detail-112677.html md=d70574f89aa64c97109891aef4669df40bf32cc2394f5977c91430a036009025
+err folder=20261119_puxi015_0011_赛迪网首发_54522036 url=https://www.ccidnet.com/hlw/101660.jhtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.ccidnet.com/hlw/101660.jhtml
+Call log:
+  - navigating to "https://www.ccidnet.com/hlw/101660.jhtml", waiting until "commit"
+
+ok folder=20261119_puxi015_0013_大众财经网_8ae77335 url=https://dzcjw.com/caijing/yanjiu/2026/1119/221123.html md=6c5b32b86f199d80970392069534a1a1175d80f6f722b96daa2f29a276545788
+ok folder=20261119_puxi015_0014_CSDN(秒出)_463c23f3 url=https://www.csdn.net/article/2026-11-19/171024362 md=d339c2eac0b90a97eb6e2be6b5499d956202f06b506edeb0e9a2606571188155
+ok folder=20261119_puxi015_0015_潮汛网_b7fb78ab url=https://www.chxwang.com/article/y1gi0t7g md=d61e4ff9a8494e07cc6fd7cca6745fbca4029e3efa26f24fd5bc07bd210a0ed0
+err folder=20261119_puxi015_0016_IT专家网_6addceeb url=http://www.ctocio.net.cn/zonghe/2026/1119/21587.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.ctocio.net.cn/zonghe/2026/1119/21587.html
+Call log:
+  - navigating to "http://www.ctocio.net.cn/zonghe/2026/1119/21587.html", waiting until "commit"
+
+ok folder=20261119_puxi015_0018_中国机器人网(主站)_9d573105 url=https://www.robot-china.com/news/202611/19/97495.html md=aefcec3f33339f805c8252c3e41e897b95e1ce1475f1e2e44c0157f15de56337
+err folder=20261119_puxi015_0020_红商网(3图内)_c7f7a321 url=http://www.redsh.com/ppnews/20261119/164203.shtml Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.redsh.com/ppnews/20261119/164203.shtml
+Call log:
+  - navigating to "http://www.redsh.com/ppnews/20261119/164203.shtml", waiting until "commit"
+
+ok folder=20261119_puxi015_0022_大王财经_146df3bd url=https://www.kingcaijing.com/mingjia/19622.html md=f5f893e3f19be59d4faa4d5943857f565953b244ae678f331fe6f5ae6286afbb
+ok folder=20261119_puxi015_0024_成都在线_7e65b501 url=https://www.chengduzaixian.cn/4/538/2263402 md=2a8635dceb31acf11702515bce678a11376e779c18e07ccc0e28c1543e701d9f
+err folder=20261119_puxi015_0025_太平洋财富网_5604e99d url=http://www.pcfortuna.com.cn/news/202611/192031.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.pcfortuna.com.cn/news/202611/192031.html
+Call log:
+  - navigating to "http://www.pcfortuna.com.cn/news/202611/192031.html", waiting until "commit"
+
+ok folder=20261119_puxi015_0026_孝感新闻网_05336c88 url=https://www.xgnews.cn/p/293928.html md=da89a9b6717c23625acb04c9b4b934c30ff61f7ba5b29a1e4c3af948f42d4f7d
+err folder=20261119_puxi015_0027_顶尖财经网_bbb3617e url=http://www.58i88.com/news/2026/11-19/3776.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.58i88.com/news/2026/11-19/3776.html
+Call log:
+  - navigating to "http://www.58i88.com/news/2026/11-19/3776.html", waiting until "commit"
+
+err folder=20261119_puxi015_0028_黔东南信息港_0bedf7b4 url=http://www.qdn.cn/html/2026/hyzx_1119/644225.shtml Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.qdn.cn/html/2026/hyzx_1119/644225.shtml
+Call log:
+  - navigating to "http://www.qdn.cn/html/2026/hyzx_1119/644225.shtml", waiting until "commit"
+
+ok folder=20261119_puxi015_0029_东阳新闻网_5045cefe url=https://www.dynews.zj.cn/toutiao/202611/t20261119_7837347.shtml md=deac088c31049440277e1f572236b958a0065b2b252462e1e1578f1a1b53e665
+err folder=20261119_puxi015_0030_沧州广电网(新沧州)_603df49e url=https://www.czgd.tv/Article/des?infoid=142943&modelid=2 Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.czgd.tv/Article/des?infoid=142943&modelid=2
+Call log:
+  - navigating to "https://www.czgd.tv/Article/des?infoid=142943&modelid=2", waiting until "commit"
+
+ok folder=20261119_puxi015_0032_智门财经_472d74a0 url=https://www.zhimen.com/index.php/news/24310.html?admin_id=1 md=c267c2becbb51bc3270ae1ee50143d02827a82307e7307b8a00220ce5025f3a8
+err folder=20261119_puxi015_0033_廊坊新闻网_b0707b2d url=https://www.lfnews.cn/portal.php?mod=view&aid=143406 Page.goto: net::ERR_CONNECTION_RESET at https://www.lfnews.cn/portal.php?mod=view&aid=143406
+Call log:
+  - navigating to "https://www.lfnews.cn/portal.php?mod=view&aid=143406", waiting until "commit"
+
+err folder=20261119_puxi015_0034_四平新闻网_0c8cc12a url=http://www.spxww.com.cn/index.php?m=content&c=index&a=show&catid=9&id=75320 Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.spxww.com.cn/index.php?m=content&c=index&a=show&catid=9&id=75320
+Call log:
+  - navigating to "http://www.spxww.com.cn/index.php?m=content&c=index&a=show&catid=9&id=75320", waiting until "commit"
+
+err folder=20261119_puxi015_0035_衡阳新闻网_b037fdc6 url=http://www.e0734.com/content/2026/1119/799_689095.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.e0734.com/content/2026/1119/799_689095.html
+Call log:
+  - navigating to "http://www.e0734.com/content/2026/1119/799_689095.html", waiting until "commit"
+
+err folder=20261119_puxi015_0036_青海传媒网_a817b012 url=http://www.qhcmbdw.com/blog/article/1717 Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.qhcmbdw.com/blog/article/1717
+Call log:
+  - navigating to "http://www.qhcmbdw.com/blog/article/1717", waiting until "commit"
+
+ok folder=20261119_puxi015_0037_兴义之窗_052cd6d5 url=https://www.xyzc.cn/article-471004-1.html md=89448055721403edc0a9970c4fb4d4ce1b1352a3acc8494c7168d4ffb55ed6d4
+ok folder=20261119_puxi015_0040_自动化网_c7c7b58d url=https://www.zidonghua.com.cn/MSupplyChain/BizChan/408794.html md=138f8df0b770f9f13cb27f491352069cbc96dace80078290e60544b9cf18bfe9
+ok folder=20261119_puxi015_0041_InfoQ极客网(极客邦)_8e691a3c url=https://xie.infoq.cn/article/71f8321bec879b93fab36099c md=6e26884e3a82b670dd38aaff44d7d1b9893c30ee0ce656d55eb9795e2ba56c20
+err folder=20261119_puxi014_0002_赛迪网首发_392f2d1a url=https://www.ccidnet.com/hlw/101658.jhtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.ccidnet.com/hlw/101658.jhtml
+Call log:
+  - navigating to "https://www.ccidnet.com/hlw/101658.jhtml", waiting until "commit"
+
+ok folder=20261119_puxi014_0004_芯通社_f61503db url=https://www.semiwebs.com/11195.html md=2efe635c7c9a682f22158fd61ac049323153060321e545f35336672c3606df0e
+ok folder=20261119_puxi014_0005_至顶网_d7d35e64 url=https://www.zhiding.cn/cooperation/2026/1119/3206434.shtml md=d95936ed1911b78b4df95edae42ab3f4cfc9341daf5c9434805c7c8020f05fc8
+ok folder=20261119_puxi014_0006_InfoQ极客网(极客邦)_90c5a70c url=https://xie.infoq.cn/article/f3c3d0a0608eec81a7cff2349 md=913058316dce99414a38993981058d0e84090d4e9b0880d18199ef9d8f5aec02
+ok folder=20261119_puxi014_0008_网经社_72e599e8 url=https://www.100ec.cn/wjs-hy/detail-112700.html md=c6ff0f89e659ea0f5e553d8662cc1835c53c81c6b0683eb0c150771f8fe29125
+ok folder=20261119_puxi014_0010_中华网科技_4d0cd6ea url=https://tech.china.com/articles/20261119/202611191981052.html md=24bc947155b96ea5e70e6f488b1e9072348d6fcc8bb51b52606a2a3e840f81fa
+ok folder=20261119_puxi014_0011_CSDN(秒出)_4e976013 url=https://www.csdn.net/article/2026-11-19/171026321 md=89e7aa90eacbfb3afece58822a721f53d46a586ebb506fd71493d4a82dd855b4
+err folder=20261119_puxi014_0013_华讯科技网_cb8722fd url=http://www.pgkeji.cn/n/3240.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.pgkeji.cn/n/3240.html
+Call log:
+  - navigating to "http://www.pgkeji.cn/n/3240.html", waiting until "commit"
+
+ok folder=20261119_puxi014_0014_自动化网_68052dab url=https://www.zidonghua.com.cn/MSupplyChain/BizChan/408806.html md=c65f7562628c639a717cd56c3c7508a970a38c2fc80abcbf72fc01121a824ff4
+ok folder=20261119_puxi014_0016_兴义之窗_5ead0a74 url=https://www.xyzc.cn/article-471005-1.html md=0d96ab3cfc59d94ebaeb541edfc3ea0f6c9d43f7b22d0d783dae0b9db1a2fa94
+err folder=20261119_puxi014_0017_黔东南信息港_e4157db2 url=http://www.qdn.cn/html/2026/car_0630/221541.shtml Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.qdn.cn/html/2026/car_0630/221541.shtml
+Call log:
+  - navigating to "http://www.qdn.cn/html/2026/car_0630/221541.shtml", waiting until "commit"
+
+err folder=20261119_puxi014_0018_第一财经新闻网_34c8d91e url=http://www.zgcaishang.cn/n/20261119/2589.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.zgcaishang.cn/n/20261119/2589.html
+Call log:
+  - navigating to "http://www.zgcaishang.cn/n/20261119/2589.html", waiting until "commit"
+
+err folder=20261119_puxi014_0019_环球商业产业网_c06ab4a9 url=http://www.sycyw.com.cn/n/2172.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.sycyw.com.cn/n/2172.html
+Call log:
+  - navigating to "http://www.sycyw.com.cn/n/2172.html", waiting until "commit"
+
+err folder=20261119_puxi014_0020_红商网(3图内)_eb7392a9 url=http://www.redsh.com/a/20261119/181624.shtml Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.redsh.com/a/20261119/181624.shtml
+Call log:
+  - navigating to "http://www.redsh.com/a/20261119/181624.shtml", waiting until "commit"
+
+ok folder=20261119_puxi014_0021_大王财经_35342d30 url=https://www.kingcaijing.com/mingjia/19620.html md=02a980aef867012855e2cbcb1e6e7334412e0726819cb1ba822623180e2eb849
+ok folder=20261119_puxi014_0022_潮汛网_c59b65fc url=https://www.chxwang.com/article/0176pisq md=609db58b881b5534eed35687297fa5df85d1cb2a945a85a696b5ab992a9f98e1
+err folder=20261119_puxi014_0023_IT专家网_19f73be3 url=http://www.ctocio.net.cn/zonghe/2026/1119/21560.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.ctocio.net.cn/zonghe/2026/1119/21560.html
+Call log:
+  - navigating to "http://www.ctocio.net.cn/zonghe/2026/1119/21560.html", waiting until "commit"
+
+ok folder=20261119_puxi014_0026_智门财经_b83d192c url=https://www.zhimen.com/index.php/news/24312.html?admin_id=1 md=b43a5b77a65817413c4c21f8177f4bf644a39b6ace201dd05912f52085c0b7ae
+err folder=20261119_puxi014_0027_顶尖财经网_02a887d3 url=http://www.58i88.com/news/2026/11-19/3777.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.58i88.com/news/2026/11-19/3777.html
+Call log:
+  - navigating to "http://www.58i88.com/news/2026/11-19/3777.html", waiting until "commit"
+
+ok folder=20261119_puxi014_0028_大众财经网_6e8fca8b url=https://dzcjw.com/caijing/yanjiu/2026/1119/221125.html md=bdc350e1c04c1a9cb74cfb357a417fddafd215cb7befa3e2cd0c5df1aefbdfae
+err folder=20261119_puxi014_0029_廊坊新闻网_1c849cff url=https://www.lfnews.cn/portal.php?mod=view&aid=143422 Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.lfnews.cn/portal.php?mod=view&aid=143422
+Call log:
+  - navigating to "https://www.lfnews.cn/portal.php?mod=view&aid=143422", waiting until "commit"
+
+err folder=20261119_puxi014_0030_衡阳新闻网_3da2fc7a url=http://www.e0734.com/content/2026/1119/799_689093.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.e0734.com/content/2026/1119/799_689093.html
+Call log:
+  - navigating to "http://www.e0734.com/content/2026/1119/799_689093.html", waiting until "commit"
+
+ok folder=20261119_puxi014_0031_东阳新闻网_2e8af2c3 url=https://www.dynews.zj.cn/toutiao/202611/t20261119_7837342.shtml md=c501bb21277ca4917704d10403914b68773225a016f4650b979876dbd9f6f9ab
+ok folder=20261119_puxi014_0032_孝感新闻网_93fc5c2c url=https://www.xgnews.cn/p/293930.html md=0cc493c6a5f61134b12b10131aad1e17655ae4fef21a1c1868d363532d6ae52f
+err folder=20261119_puxi014_0033_四平新闻网_2adb8c70 url=http://www.spxww.com.cn/index.php?m=content&c=index&a=show&catid=9&id=75323 Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.spxww.com.cn/index.php?m=content&c=index&a=show&catid=9&id=75323
+Call log:
+  - navigating to "http://www.spxww.com.cn/index.php?m=content&c=index&a=show&catid=9&id=75323", waiting until "commit"
+
+err folder=20261119_puxi014_0034_沧州广电网(新沧州)_232034c9 url=https://www.czgd.tv/Article/des?infoid=142945&modelid=2 Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.czgd.tv/Article/des?infoid=142945&modelid=2
+Call log:
+  - navigating to "https://www.czgd.tv/Article/des?infoid=142945&modelid=2", waiting until "commit"
+
+ok folder=20261119_puxi014_0035_酉阳新闻网（GEO可发）_513b7870 url=https://youyangnews.cn/portal/zl/bxgz/2026/11/3f4fb4bdcd08407e95acffee5005698a.htm md=4675b6269fe097c74c3d11ea2ce7aa70ba04149bc1362033c2b6c45068e5ca57
+err folder=20261119_puxi014_0036_青海传媒网_9156a258 url=http://www.qhcmbdw.com/blog/article/1719 Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.qhcmbdw.com/blog/article/1719
+Call log:
+  - navigating to "http://www.qhcmbdw.com/blog/article/1719", waiting until "commit"
+
+ok folder=20261119_puxi014_0037_成都在线_19379ba3 url=https://www.chengduzaixian.cn/4/538/2263404 md=ac14df4f0f94be769a050786d1ca922b0d0e7a75fa295ba69a655aa69f0cf4e6
+err folder=20261119_puxi014_0040_太平洋财富网_311b5d85 url=http://www.pcfortuna.com.cn/news/202611/192032.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.pcfortuna.com.cn/news/202611/192032.html
+Call log:
+  - navigating to "http://www.pcfortuna.com.cn/news/202611/192032.html", waiting until "commit"
+
+ok folder=20261119_puxi016_0002_酉阳新闻网（GEO可发）_fc315af5 url=https://youyangnews.cn/portal/zl/bxgz/2026/11/7d72a8ac835e4ac1a4ee1b2063eb6a83.htm md=a5520957ab6992cdfb4af2ceb22ff715a6d5b7b19ef6edf8a66faa60951a83ac
+err folder=20261119_puxi016_0003_环球商业产业网_ba2631d6 url=http://www.sycyw.com.cn/n/2174.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.sycyw.com.cn/n/2174.html
+Call log:
+  - navigating to "http://www.sycyw.com.cn/n/2174.html", waiting until "commit"
+
+err folder=20261119_puxi016_0004_第一财经新闻网_78d247e9 url=http://www.zgcaishang.cn/n/20261119/2591.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.zgcaishang.cn/n/20261119/2591.html
+Call log:
+  - navigating to "http://www.zgcaishang.cn/n/20261119/2591.html", waiting until "commit"
+
+err folder=20261119_puxi016_0005_华讯科技网_a52f31d6 url=http://www.pgkeji.cn/n/3242.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.pgkeji.cn/n/3242.html
+Call log:
+  - navigating to "http://www.pgkeji.cn/n/3242.html", waiting until "commit"
+
+ok folder=20261119_puxi016_0006_中华网科技_e8dd75f3 url=https://tech.china.com/articles/20261119/202611191981177.html md=0ecdab9e40d2e9e7fa7905cf3555d1013413db6a014708dacfa493ea149f30dd
+ok folder=20261119_puxi016_0008_芯通社_98195d36 url=https://www.semiwebs.com/11193.html md=8d7542b7c05a3f9bf1678c9de84b21385696facb6980ea9754c3c526a26345eb
+ok folder=20261119_puxi016_0009_至顶网_3b9d0401 url=https://www.zhiding.cn/cooperation/2026/1119/3206433.shtml md=01da623355613b299d732b7e8a71df8492b86780c35f72982580e7b11a1d73c6
+ok folder=20261119_puxi016_0010_网经社_fabbd12a url=https://www.100ec.cn/wjs-hy/detail-112702.html md=8ca6336b7d3b0dbaf6060f337256486d86fd6b9999e512bd68f2808f2614b2ac
+err folder=20261119_puxi016_0011_赛迪网首发_df90a0ca url=https://www.ccidnet.com/hlw/101659.jhtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.ccidnet.com/hlw/101659.jhtml
+Call log:
+  - navigating to "https://www.ccidnet.com/hlw/101659.jhtml", waiting until "commit"
+
+ok folder=20261119_puxi016_0013_大众财经网_372a2b71 url=https://dzcjw.com/caijing/yanjiu/2026/1119/221124.html md=7d30a1f7f25e131e81c3024568945d164f82827bc3620564e926eb9803876bdc
+ok folder=20261119_puxi016_0014_CSDN(秒出)_64066f91 url=https://www.csdn.net/article/2026-11-19/171024862 md=25c040995bb92da8d88608170ad48c13dc923d106416fd650fd25d4c6ebe4d61
+ok folder=20261119_puxi016_0015_潮汛网_ac343e5c url=https://www.chxwang.com/article/z1bud2ub md=34c047461f95ad67c5512c9c620dc13cccf834502b919f6e3be6efa7219e2793
+err folder=20261119_puxi016_0016_IT专家网_9513c64f url=http://www.ctocio.net.cn/zonghe/2026/1119/21589.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.ctocio.net.cn/zonghe/2026/1119/21589.html
+Call log:
+  - navigating to "http://www.ctocio.net.cn/zonghe/2026/1119/21589.html", waiting until "commit"
+
+err folder=20261119_puxi016_0020_红商网(3图内)_eb70cd57 url=http://www.redsh.com/a/20261119/165703.shtml Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.redsh.com/a/20261119/165703.shtml
+Call log:
+  - navigating to "http://www.redsh.com/a/20261119/165703.shtml", waiting until "commit"
+
+err folder=20261119_puxi016_0022_大王财经_06dd3a32 url=https://www.kingcaijing.com/mingjia/19621.html Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.kingcaijing.com/mingjia/19621.html
+Call log:
+  - navigating to "https://www.kingcaijing.com/mingjia/19621.html", waiting until "commit"
+
+ok folder=20261119_puxi016_0024_成都在线_5ae898cf url=https://www.chengduzaixian.cn/4/538/2263407 md=205e7779320d18d498b98a5f70f198000180d08e23dacd563a33d060f9b11711
+err folder=20261119_puxi016_0025_太平洋财富网_529d39dd url=http://www.pcfortuna.com.cn/news/202611/192033.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.pcfortuna.com.cn/news/202611/192033.html
+Call log:
+  - navigating to "http://www.pcfortuna.com.cn/news/202611/192033.html", waiting until "commit"
+
+err folder=20261119_puxi016_0026_孝感新闻网_d991fbf9 url=https://www.xgnews.cn/p/293929.html Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.xgnews.cn/p/293929.html
+Call log:
+  - navigating to "https://www.xgnews.cn/p/293929.html", waiting until "commit"
+
+err folder=20261119_puxi016_0027_顶尖财经网_06ee0fc0 url=http://www.58i88.com/news/2026/11-19/3778.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.58i88.com/news/2026/11-19/3778.html
+Call log:
+  - navigating to "http://www.58i88.com/news/2026/11-19/3778.html", waiting until "commit"
+
+err folder=20261119_puxi016_0028_黔东南信息港_c9c0161c url=http://www.qdn.cn/html/2026/hyzx_1119/644226.shtml Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.qdn.cn/html/2026/hyzx_1119/644226.shtml
+Call log:
+  - navigating to "http://www.qdn.cn/html/2026/hyzx_1119/644226.shtml", waiting until "commit"
+
+ok folder=20261119_puxi016_0029_东阳新闻网_150ef86e url=https://www.dynews.zj.cn/toutiao/202611/t20261119_7837345.shtml md=dfe4927b405b825b3a26fcffa94a38f0aef13f750feff369b582a29a1be726ed
+err folder=20261119_puxi016_0030_沧州广电网(新沧州)_4747e568 url=https://www.czgd.tv/Article/des?infoid=142944&modelid=2 Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.czgd.tv/Article/des?infoid=142944&modelid=2
+Call log:
+  - navigating to "https://www.czgd.tv/Article/des?infoid=142944&modelid=2", waiting until "commit"
+
+ok folder=20261119_puxi016_0032_智门财经_f17d5beb url=https://www.zhimen.com/index.php/news/24311.html?admin_id=1 md=1240f500941f51f3b92470554292b6fbfa46dbb10c064162fe51c87fb281e3dc
+err folder=20261119_puxi016_0033_廊坊新闻网_5146e436 url=https://www.lfnews.cn/portal.php?mod=view&aid=143423 Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.lfnews.cn/portal.php?mod=view&aid=143423
+Call log:
+  - navigating to "https://www.lfnews.cn/portal.php?mod=view&aid=143423", waiting until "commit"
+
+err folder=20261119_puxi016_0034_四平新闻网_fbb094cd url=http://www.spxww.com.cn/index.php?m=content&c=index&a=show&catid=9&id=75319 Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.spxww.com.cn/index.php?m=content&c=index&a=show&catid=9&id=75319
+Call log:
+  - navigating to "http://www.spxww.com.cn/index.php?m=content&c=index&a=show&catid=9&id=75319", waiting until "commit"
+
+err folder=20261119_puxi016_0035_衡阳新闻网_b402a0cc url=http://www.e0734.com/content/2026/1119/799_689094.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.e0734.com/content/2026/1119/799_689094.html
+Call log:
+  - navigating to "http://www.e0734.com/content/2026/1119/799_689094.html", waiting until "commit"
+
+err folder=20261119_puxi016_0036_青海传媒网_42a0ac26 url=http://www.qhcmbdw.com/blog/article/1718 Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.qhcmbdw.com/blog/article/1718
+Call log:
+  - navigating to "http://www.qhcmbdw.com/blog/article/1718", waiting until "commit"
+
+ok folder=20261119_puxi016_0037_兴义之窗_57c00c80 url=https://www.xyzc.cn/article-471003-1.html md=542308633ab77287bebdca8a54f96f9292eb4f36dad9b30b96daf1694defa3d3
+ok folder=20261119_puxi016_0040_自动化网_4bf0aa50 url=https://www.zidonghua.com.cn/MSupplyChain/BizChan/408803.html md=696c862d54a158ddf6fb8bdf49d55c7bac2c63c1e9b0e6030919ad43c3608cea
+ok folder=20261119_puxi016_0041_InfoQ极客网(极客邦)_5cc12086 url=https://xie.infoq.cn/article/6c13e9d7d015fb339b6c6fc24 md=cf01362699346da71d72baa5aea033861bc7b83ffb60e246bab03ac7bd0a3393
+2026-11-21T22:06+08:00 puxi batch queue=44 campaign=all edge=1 bundled=0
+err folder=20261119_puxi015_0003_环球商业产业网_aed0c6a3 url=http://www.sycyw.com.cn/n/2173.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.sycyw.com.cn/n/2173.html
+Call log:
+  - navigating to "http://www.sycyw.com.cn/n/2173.html", waiting until "commit"
+
+err folder=20261119_puxi015_0004_第一财经新闻网_87a9ce13 url=http://www.zgcaishang.cn/n/20261119/2590.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.zgcaishang.cn/n/20261119/2590.html
+Call log:
+  - navigating to "http://www.zgcaishang.cn/n/20261119/2590.html", waiting until "commit"
+
+err folder=20261119_puxi015_0005_华讯科技网_940de1d3 url=http://www.pgkeji.cn/n/3241.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.pgkeji.cn/n/3241.html
+Call log:
+  - navigating to "http://www.pgkeji.cn/n/3241.html", waiting until "commit"
+
+err folder=20261119_puxi015_0011_赛迪网首发_54522036 url=https://www.ccidnet.com/hlw/101660.jhtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.ccidnet.com/hlw/101660.jhtml
+Call log:
+  - navigating to "https://www.ccidnet.com/hlw/101660.jhtml", waiting until "commit"
+
+err folder=20261119_puxi015_0016_IT专家网_6addceeb url=http://www.ctocio.net.cn/zonghe/2026/1119/21587.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.ctocio.net.cn/zonghe/2026/1119/21587.html
+Call log:
+  - navigating to "http://www.ctocio.net.cn/zonghe/2026/1119/21587.html", waiting until "commit"
+
+err folder=20261119_puxi015_0020_红商网(3图内)_c7f7a321 url=http://www.redsh.com/ppnews/20261119/164203.shtml Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.redsh.com/ppnews/20261119/164203.shtml
+Call log:
+  - navigating to "http://www.redsh.com/ppnews/20261119/164203.shtml", waiting until "commit"
+
+err folder=20261119_puxi015_0025_太平洋财富网_5604e99d url=http://www.pcfortuna.com.cn/news/202611/192031.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.pcfortuna.com.cn/news/202611/192031.html
+Call log:
+  - navigating to "http://www.pcfortuna.com.cn/news/202611/192031.html", waiting until "commit"
+
+err folder=20261119_puxi015_0027_顶尖财经网_bbb3617e url=http://www.58i88.com/news/2026/11-19/3776.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.58i88.com/news/2026/11-19/3776.html
+Call log:
+  - navigating to "http://www.58i88.com/news/2026/11-19/3776.html", waiting until "commit"
+
+err folder=20261119_puxi015_0028_黔东南信息港_0bedf7b4 url=http://www.qdn.cn/html/2026/hyzx_1119/644225.shtml Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.qdn.cn/html/2026/hyzx_1119/644225.shtml
+Call log:
+  - navigating to "http://www.qdn.cn/html/2026/hyzx_1119/644225.shtml", waiting until "commit"
+
+err folder=20261119_puxi015_0030_沧州广电网(新沧州)_603df49e url=https://www.czgd.tv/Article/des?infoid=142943&modelid=2 Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.czgd.tv/Article/des?infoid=142943&modelid=2
+Call log:
+  - navigating to "https://www.czgd.tv/Article/des?infoid=142943&modelid=2", waiting until "commit"
+
+err folder=20261119_puxi015_0033_廊坊新闻网_b0707b2d url=https://www.lfnews.cn/portal.php?mod=view&aid=143406 Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.lfnews.cn/portal.php?mod=view&aid=143406
+Call log:
+  - navigating to "https://www.lfnews.cn/portal.php?mod=view&aid=143406", waiting until "commit"
+
+err folder=20261119_puxi015_0034_四平新闻网_0c8cc12a url=http://www.spxww.com.cn/index.php?m=content&c=index&a=show&catid=9&id=75320 Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.spxww.com.cn/index.php?m=content&c=index&a=show&catid=9&id=75320
+Call log:
+  - navigating to "http://www.spxww.com.cn/index.php?m=content&c=index&a=show&catid=9&id=75320", waiting until "commit"
+
+err folder=20261119_puxi015_0035_衡阳新闻网_b037fdc6 url=http://www.e0734.com/content/2026/1119/799_689095.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.e0734.com/content/2026/1119/799_689095.html
+Call log:
+  - navigating to "http://www.e0734.com/content/2026/1119/799_689095.html", waiting until "commit"
+
+err folder=20261119_puxi015_0036_青海传媒网_a817b012 url=http://www.qhcmbdw.com/blog/article/1717 Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.qhcmbdw.com/blog/article/1717
+Call log:
+  - navigating to "http://www.qhcmbdw.com/blog/article/1717", waiting until "commit"
+
+err folder=20261119_puxi014_0002_赛迪网首发_392f2d1a url=https://www.ccidnet.com/hlw/101658.jhtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.ccidnet.com/hlw/101658.jhtml
+Call log:
+  - navigating to "https://www.ccidnet.com/hlw/101658.jhtml", waiting until "commit"
+
+err folder=20261119_puxi014_0013_华讯科技网_cb8722fd url=http://www.pgkeji.cn/n/3240.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.pgkeji.cn/n/3240.html
+Call log:
+  - navigating to "http://www.pgkeji.cn/n/3240.html", waiting until "commit"
+
+err folder=20261119_puxi014_0017_黔东南信息港_e4157db2 url=http://www.qdn.cn/html/2026/car_0630/221541.shtml Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.qdn.cn/html/2026/car_0630/221541.shtml
+Call log:
+  - navigating to "http://www.qdn.cn/html/2026/car_0630/221541.shtml", waiting until "commit"
+
+err folder=20261119_puxi014_0018_第一财经新闻网_34c8d91e url=http://www.zgcaishang.cn/n/20261119/2589.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.zgcaishang.cn/n/20261119/2589.html
+Call log:
+  - navigating to "http://www.zgcaishang.cn/n/20261119/2589.html", waiting until "commit"
+
+err folder=20261119_puxi014_0019_环球商业产业网_c06ab4a9 url=http://www.sycyw.com.cn/n/2172.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.sycyw.com.cn/n/2172.html
+Call log:
+  - navigating to "http://www.sycyw.com.cn/n/2172.html", waiting until "commit"
+
+err folder=20261119_puxi014_0020_红商网(3图内)_eb7392a9 url=http://www.redsh.com/a/20261119/181624.shtml Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.redsh.com/a/20261119/181624.shtml
+Call log:
+  - navigating to "http://www.redsh.com/a/20261119/181624.shtml", waiting until "commit"
+
+err folder=20261119_puxi014_0023_IT专家网_19f73be3 url=http://www.ctocio.net.cn/zonghe/2026/1119/21560.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.ctocio.net.cn/zonghe/2026/1119/21560.html
+Call log:
+  - navigating to "http://www.ctocio.net.cn/zonghe/2026/1119/21560.html", waiting until "commit"
+
+err folder=20261119_puxi014_0027_顶尖财经网_02a887d3 url=http://www.58i88.com/news/2026/11-19/3777.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.58i88.com/news/2026/11-19/3777.html
+Call log:
+  - navigating to "http://www.58i88.com/news/2026/11-19/3777.html", waiting until "commit"
+
+err folder=20261119_puxi014_0029_廊坊新闻网_1c849cff url=https://www.lfnews.cn/portal.php?mod=view&aid=143422 Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.lfnews.cn/portal.php?mod=view&aid=143422
+Call log:
+  - navigating to "https://www.lfnews.cn/portal.php?mod=view&aid=143422", waiting until "commit"
+
+err folder=20261119_puxi014_0030_衡阳新闻网_3da2fc7a url=http://www.e0734.com/content/2026/1119/799_689093.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.e0734.com/content/2026/1119/799_689093.html
+Call log:
+  - navigating to "http://www.e0734.com/content/2026/1119/799_689093.html", waiting until "commit"
+
+err folder=20261119_puxi014_0033_四平新闻网_2adb8c70 url=http://www.spxww.com.cn/index.php?m=content&c=index&a=show&catid=9&id=75323 Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.spxww.com.cn/index.php?m=content&c=index&a=show&catid=9&id=75323
+Call log:
+  - navigating to "http://www.spxww.com.cn/index.php?m=content&c=index&a=show&catid=9&id=75323", waiting until "commit"
+
+err folder=20261119_puxi014_0034_沧州广电网(新沧州)_232034c9 url=https://www.czgd.tv/Article/des?infoid=142945&modelid=2 Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.czgd.tv/Article/des?infoid=142945&modelid=2
+Call log:
+  - navigating to "https://www.czgd.tv/Article/des?infoid=142945&modelid=2", waiting until "commit"
+
+err folder=20261119_puxi014_0036_青海传媒网_9156a258 url=http://www.qhcmbdw.com/blog/article/1719 Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.qhcmbdw.com/blog/article/1719
+Call log:
+  - navigating to "http://www.qhcmbdw.com/blog/article/1719", waiting until "commit"
+
+err folder=20261119_puxi014_0040_太平洋财富网_311b5d85 url=http://www.pcfortuna.com.cn/news/202611/192032.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.pcfortuna.com.cn/news/202611/192032.html
+Call log:
+  - navigating to "http://www.pcfortuna.com.cn/news/202611/192032.html", waiting until "commit"
+
+err folder=20261119_puxi016_0003_环球商业产业网_ba2631d6 url=http://www.sycyw.com.cn/n/2174.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.sycyw.com.cn/n/2174.html
+Call log:
+  - navigating to "http://www.sycyw.com.cn/n/2174.html", waiting until "commit"
+
+err folder=20261119_puxi016_0004_第一财经新闻网_78d247e9 url=http://www.zgcaishang.cn/n/20261119/2591.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.zgcaishang.cn/n/20261119/2591.html
+Call log:
+  - navigating to "http://www.zgcaishang.cn/n/20261119/2591.html", waiting until "commit"
+
+err folder=20261119_puxi016_0005_华讯科技网_a52f31d6 url=http://www.pgkeji.cn/n/3242.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.pgkeji.cn/n/3242.html
+Call log:
+  - navigating to "http://www.pgkeji.cn/n/3242.html", waiting until "commit"
+
+err folder=20261119_puxi016_0011_赛迪网首发_df90a0ca url=https://www.ccidnet.com/hlw/101659.jhtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.ccidnet.com/hlw/101659.jhtml
+Call log:
+  - navigating to "https://www.ccidnet.com/hlw/101659.jhtml", waiting until "commit"
+
+err folder=20261119_puxi016_0016_IT专家网_9513c64f url=http://www.ctocio.net.cn/zonghe/2026/1119/21589.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.ctocio.net.cn/zonghe/2026/1119/21589.html
+Call log:
+  - navigating to "http://www.ctocio.net.cn/zonghe/2026/1119/21589.html", waiting until "commit"
+
+err folder=20261119_puxi016_0020_红商网(3图内)_eb70cd57 url=http://www.redsh.com/a/20261119/165703.shtml Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.redsh.com/a/20261119/165703.shtml
+Call log:
+  - navigating to "http://www.redsh.com/a/20261119/165703.shtml", waiting until "commit"
+
+ok folder=20261119_puxi016_0022_大王财经_06dd3a32 url=https://www.kingcaijing.com/mingjia/19621.html md=8083d6b76d8d84ac70113da889a7b6a4e16d99bff5e0aa477784794f4038359c
+err folder=20261119_puxi016_0025_太平洋财富网_529d39dd url=http://www.pcfortuna.com.cn/news/202611/192033.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.pcfortuna.com.cn/news/202611/192033.html
+Call log:
+  - navigating to "http://www.pcfortuna.com.cn/news/202611/192033.html", waiting until "commit"
+
+ok folder=20261119_puxi016_0026_孝感新闻网_d991fbf9 url=https://www.xgnews.cn/p/293929.html md=31ed96bf7b09cfe99a4c49bd7abe1df6d3319e5f81cc596164ddd0a1b5f9f26f
+err folder=20261119_puxi016_0027_顶尖财经网_06ee0fc0 url=http://www.58i88.com/news/2026/11-19/3778.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.58i88.com/news/2026/11-19/3778.html
+Call log:
+  - navigating to "http://www.58i88.com/news/2026/11-19/3778.html", waiting until "commit"
+
+err folder=20261119_puxi016_0028_黔东南信息港_c9c0161c url=http://www.qdn.cn/html/2026/hyzx_1119/644226.shtml Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.qdn.cn/html/2026/hyzx_1119/644226.shtml
+Call log:
+  - navigating to "http://www.qdn.cn/html/2026/hyzx_1119/644226.shtml", waiting until "commit"
+
+err folder=20261119_puxi016_0030_沧州广电网(新沧州)_4747e568 url=https://www.czgd.tv/Article/des?infoid=142944&modelid=2 Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.czgd.tv/Article/des?infoid=142944&modelid=2
+Call log:
+  - navigating to "https://www.czgd.tv/Article/des?infoid=142944&modelid=2", waiting until "commit"
+
+err folder=20261119_puxi016_0033_廊坊新闻网_5146e436 url=https://www.lfnews.cn/portal.php?mod=view&aid=143423 Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.lfnews.cn/portal.php?mod=view&aid=143423
+Call log:
+  - navigating to "https://www.lfnews.cn/portal.php?mod=view&aid=143423", waiting until "commit"
+
+err folder=20261119_puxi016_0034_四平新闻网_fbb094cd url=http://www.spxww.com.cn/index.php?m=content&c=index&a=show&catid=9&id=75319 Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.spxww.com.cn/index.php?m=content&c=index&a=show&catid=9&id=75319
+Call log:
+  - navigating to "http://www.spxww.com.cn/index.php?m=content&c=index&a=show&catid=9&id=75319", waiting until "commit"
+
+err folder=20261119_puxi016_0035_衡阳新闻网_b402a0cc url=http://www.e0734.com/content/2026/1119/799_689094.html Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.e0734.com/content/2026/1119/799_689094.html
+Call log:
+  - navigating to "http://www.e0734.com/content/2026/1119/799_689094.html", waiting until "commit"
+
+err folder=20261119_puxi016_0036_青海传媒网_42a0ac26 url=http://www.qhcmbdw.com/blog/article/1718 Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.qhcmbdw.com/blog/article/1718
+Call log:
+  - navigating to "http://www.qhcmbdw.com/blog/article/1718", waiting until "commit"
+

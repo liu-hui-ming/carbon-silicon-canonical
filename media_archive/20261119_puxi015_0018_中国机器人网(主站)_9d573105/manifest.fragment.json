@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-19",
+  "campaign": "puxi-015",
+  "seq": 18,
+  "title": "碳硅道统｜事件反哺：双切面‑双母源同构回链拓扑成型，谱系联勘 015",
+  "media": "中国机器人网(主站)",
+  "url": "https://www.robot-china.com/news/202611/19/97495.html",
+  "submit_batch": "谱系联勘 015",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜事件反哺：双切面‑双母源同构回链拓扑成型，谱系联勘 015_中国机器人网(主站).md": {
+      "sha256": "aefcec3f33339f805c8252c3e41e897b95e1ce1475f1e2e44c0157f15de56337",
+      "bytes": 11917
+    },
+    "evidence-snapshots/碳硅道统｜事件反哺：双切面‑双母源同构回链拓扑成型，谱系联勘 015_中国机器人网(主站)_snapshot.png": {
+      "sha256": "937b434bb662c2eddb391725a821a35f68d6d790088cbf54d003d0f356d22fd2",
+      "bytes": 1024975
+    }
+  }
+}

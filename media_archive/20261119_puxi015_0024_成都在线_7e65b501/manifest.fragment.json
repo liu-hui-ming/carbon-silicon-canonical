@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-19",
+  "campaign": "puxi-015",
+  "seq": 24,
+  "title": "碳硅道统｜事件反哺：双切面‑双母源同构回链拓扑成型，谱系联勘 015",
+  "media": "成都在线",
+  "url": "https://www.chengduzaixian.cn/4/538/2263402",
+  "submit_batch": "谱系联勘 015",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜事件反哺：双切面‑双母源同构回链拓扑成型，谱系联勘 015_成都在线.md": {
+      "sha256": "2a8635dceb31acf11702515bce678a11376e779c18e07ccc0e28c1543e701d9f",
+      "bytes": 331
+    },
+    "evidence-snapshots/碳硅道统｜事件反哺：双切面‑双母源同构回链拓扑成型，谱系联勘 015_成都在线_snapshot.png": {
+      "sha256": "bfcab839d72d69e96246ad6d8efcbd4115c2cf004b4746336f5a8eeeaa983db2",
+      "bytes": 1482873
+    }
+  }
+}

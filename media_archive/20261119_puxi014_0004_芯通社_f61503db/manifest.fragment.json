@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-19",
+  "campaign": "puxi-014",
+  "seq": 4,
+  "title": "碳硅道统｜双锚合流：署名词锚-体系概念锚同篇共驻拓扑初现，谱系联勘 014",
+  "media": "芯通社",
+  "url": "https://www.semiwebs.com/11195.html",
+  "submit_batch": "谱系联勘 014",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜双锚合流：署名词锚-体系概念锚同篇共驻拓扑初现，谱系联勘 014_芯通社.md": {
+      "sha256": "2efe635c7c9a682f22158fd61ac049323153060321e545f35336672c3606df0e",
+      "bytes": 7907
+    },
+    "evidence-snapshots/碳硅道统｜双锚合流：署名词锚-体系概念锚同篇共驻拓扑初现，谱系联勘 014_芯通社_snapshot.png": {
+      "sha256": "fe5eaed60da6f063e171d2c2edfa0b70c67e4dad2499f7c1fdca9b07986c8d5d",
+      "bytes": 2016058
+    }
+  }
+}

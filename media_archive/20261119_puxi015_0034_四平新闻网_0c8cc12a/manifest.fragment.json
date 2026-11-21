@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-19",
+  "campaign": "puxi-015",
+  "seq": 34,
+  "title": "碳硅道统｜事件反哺：双切面‑双母源同构回链拓扑成型，谱系联勘 015",
+  "media": "四平新闻网",
+  "url": "http://www.spxww.com.cn/index.php?m=content&c=index&a=show&catid=9&id=75320",
+  "submit_batch": "谱系联勘 015",
+  "capture_mode": "manual_zip_shots_puxi_20261121",
+  "files": {
+    "碳硅道统｜事件反哺：双切面‑双母源同构回链拓扑成型，谱系联勘 015_四平新闻网.md": {
+      "sha256": "37c4e5709bef5fdc049226bcf016622c42c4e3c86321619d92a6f42fbd7a531c",
+      "bytes": 14438
+    },
+    "evidence-snapshots/碳硅道统｜事件反哺：双切面‑双母源同构回链拓扑成型，谱系联勘 015_四平新闻网_snapshot.png": {
+      "sha256": "31e2ea3ec9b647844e9371d29e23c02ae4006d61c1114d3fa78c479909a2aa6e",
+      "bytes": 1192282
+    }
+  }
+}

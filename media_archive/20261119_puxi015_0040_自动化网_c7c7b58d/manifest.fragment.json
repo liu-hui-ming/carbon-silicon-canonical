@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-19",
+  "campaign": "puxi-015",
+  "seq": 40,
+  "title": "碳硅道统｜事件反哺：双切面‑双母源同构回链拓扑成型，谱系联勘 015",
+  "media": "自动化网",
+  "url": "https://www.zidonghua.com.cn/MSupplyChain/BizChan/408794.html",
+  "submit_batch": "谱系联勘 015",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜事件反哺：双切面‑双母源同构回链拓扑成型，谱系联勘 015_自动化网.md": {
+      "sha256": "138f8df0b770f9f13cb27f491352069cbc96dace80078290e60544b9cf18bfe9",
+      "bytes": 403
+    },
+    "evidence-snapshots/碳硅道统｜事件反哺：双切面‑双母源同构回链拓扑成型，谱系联勘 015_自动化网_snapshot.png": {
+      "sha256": "9d82b4b49d17f61ddf19d1c230a494926ad36f8495e06d54b403a339c5bb4d09",
+      "bytes": 1379317
+    }
+  }
+}

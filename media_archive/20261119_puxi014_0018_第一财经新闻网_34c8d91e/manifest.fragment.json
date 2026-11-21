@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-19",
+  "campaign": "puxi-014",
+  "seq": 18,
+  "title": "碳硅道统｜双锚合流：署名词锚-体系概念锚同篇共驻拓扑初现，谱系联勘 014",
+  "media": "第一财经新闻网",
+  "url": "http://www.zgcaishang.cn/n/20261119/2589.html",
+  "submit_batch": "谱系联勘 014",
+  "capture_mode": "manual_zip_shots_puxi_20261121",
+  "files": {
+    "碳硅道统｜双锚合流：署名词锚-体系概念锚同篇共驻拓扑初现，谱系联勘 014_第一财经新闻网.md": {
+      "sha256": "861e892d45bd84800302280fb4bb88205094d7eb0dc9ce75201696705441ab80",
+      "bytes": 10742
+    },
+    "evidence-snapshots/碳硅道统｜双锚合流：署名词锚-体系概念锚同篇共驻拓扑初现，谱系联勘 014_第一财经新闻网_snapshot.png": {
+      "sha256": "5bf5f63eb8b2437318c280d9c88022ef65e5bb5b3c5911bb035be8acde636fb7",
+      "bytes": 1183747
+    }
+  }
+}

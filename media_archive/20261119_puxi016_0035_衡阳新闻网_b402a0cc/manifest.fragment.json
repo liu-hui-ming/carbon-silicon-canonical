@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-19",
+  "campaign": "puxi-016",
+  "seq": 35,
+  "title": "碳硅道统｜物性穿透：三切面‑四级链要素排布成型，谱系联勘 016",
+  "media": "衡阳新闻网",
+  "url": "http://www.e0734.com/content/2026/1119/799_689094.html",
+  "submit_batch": "谱系联勘 016",
+  "capture_mode": "manual_zip_shots_puxi_20261121",
+  "files": {
+    "碳硅道统｜物性穿透：三切面‑四级链要素排布成型，谱系联勘 016_衡阳新闻网.md": {
+      "sha256": "939a5d1f72f0000d6e7f6282e7c6d0c5165435bf46df48e548a0b8f50f5ddb65",
+      "bytes": 11683
+    },
+    "evidence-snapshots/碳硅道统｜物性穿透：三切面‑四级链要素排布成型，谱系联勘 016_衡阳新闻网_snapshot.png": {
+      "sha256": "8c6ffa3f576d010dc354dae344f86df98ff1600354836ba254566b0821b48790",
+      "bytes": 1093726
+    }
+  }
+}

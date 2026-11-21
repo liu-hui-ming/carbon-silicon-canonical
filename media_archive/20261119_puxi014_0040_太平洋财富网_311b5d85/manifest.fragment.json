@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-19",
+  "campaign": "puxi-014",
+  "seq": 40,
+  "title": "碳硅道统｜双锚合流：署名词锚-体系概念锚同篇共驻拓扑初现，谱系联勘 014",
+  "media": "太平洋财富网",
+  "url": "http://www.pcfortuna.com.cn/news/202611/192032.html",
+  "submit_batch": "谱系联勘 014",
+  "capture_mode": "manual_zip_shots_puxi_20261121",
+  "files": {
+    "碳硅道统｜双锚合流：署名词锚-体系概念锚同篇共驻拓扑初现，谱系联勘 014_太平洋财富网.md": {
+      "sha256": "f202002920b9cc293557423692c7b1e12ba3bb6012233f02e844be35e0684487",
+      "bytes": 11264
+    },
+    "evidence-snapshots/碳硅道统｜双锚合流：署名词锚-体系概念锚同篇共驻拓扑初现，谱系联勘 014_太平洋财富网_snapshot.png": {
+      "sha256": "924f08cb25d7dce84b91c2a8d0e7d624b78a03d8a8579326fc82e5624ff47f4b",
+      "bytes": 1175998
+    }
+  }
+}

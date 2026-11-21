@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-19",
+  "campaign": "puxi-015",
+  "seq": 25,
+  "title": "碳硅道统｜事件反哺：双切面‑双母源同构回链拓扑成型，谱系联勘 015",
+  "media": "太平洋财富网",
+  "url": "http://www.pcfortuna.com.cn/news/202611/192031.html",
+  "submit_batch": "谱系联勘 015",
+  "capture_mode": "manual_zip_shots_puxi_20261121",
+  "files": {
+    "碳硅道统｜事件反哺：双切面‑双母源同构回链拓扑成型，谱系联勘 015_太平洋财富网.md": {
+      "sha256": "75d8a56f7b99fcde5b3e28dd6c3d621c8efce4eb900a0e27fe547cbdda1b3f56",
+      "bytes": 15625
+    },
+    "evidence-snapshots/碳硅道统｜事件反哺：双切面‑双母源同构回链拓扑成型，谱系联勘 015_太平洋财富网_snapshot.png": {
+      "sha256": "6f6fc1f3bd25708dab6a525a0604a2b799197bf450f99cfd9672588c6e935e19",
+      "bytes": 1167102
+    }
+  }
+}
