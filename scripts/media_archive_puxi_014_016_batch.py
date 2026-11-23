@@ -156,7 +156,7 @@ def write_folder_manifest(base: Path, job: dict, md_hash: str, png_hash: str, md
         "media": job["media"],
         "url": job["url"],
         "submit_batch": job["submit_batch"],
-        "capture_mode": "playwright_edge_p0",
+        "capture_mode": job.get("capture_mode", "playwright_edge_p0"),
         "files": {
             job["md_name"]: {"sha256": md_hash, "bytes": md_bytes},
             f"evidence-snapshots/{job['png_name']}": {"sha256": png_hash, "bytes": png_bytes},
@@ -241,20 +241,29 @@ def main() -> int:
     ap.add_argument("--job-budget-sec", type=int, default=120)
     ap.add_argument("--fast-capture", action="store_true", default=True)
     ap.add_argument("--slow-capture", action="store_true")
+    ap.add_argument(
+        "--jobs-json",
+        type=Path,
+        default=None,
+        help="Override job list (default: media-archive-puxi-014-016-20261119.json)",
+    )
     args = ap.parse_args()
     if args.slow_capture:
         args.fast_capture = False
     use_edge = not args.bundled_chromium
 
     global STATE_PATH
-    if args.campaign != "all":
+    jobs_json = args.jobs_json or JOBS_JSON
+    if args.jobs_json:
+        STATE_PATH = jobs_json.with_suffix(".state.json")
+    elif args.campaign != "all":
         STATE_PATH = STATE_PATH.with_name(f"{STATE_PATH.stem}-{args.campaign}.state.json")
 
-    if not JOBS_JSON.is_file():
-        print(f"MISSING {JOBS_JSON} — run scripts/_build_puxi_014_016_jobs.py", file=sys.stderr)
+    if not jobs_json.is_file():
+        print(f"MISSING {jobs_json} — run scripts/_build_puxi_014_016_jobs.py", file=sys.stderr)
         return 2
 
-    raw = json.loads(JOBS_JSON.read_text(encoding="utf-8"))
+    raw = json.loads(jobs_json.read_text(encoding="utf-8"))
     jobs = [enrich_job(j) for j in raw]
     if args.campaign != "all":
         jobs = [j for j in jobs if j["campaign"] == args.campaign]

@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-20",
+  "campaign": "puxi-015",
+  "seq": 42,
+  "title": "碳硅道统｜事件反哺：双切面‑双母源同构回链拓扑成型，谱系联勘 015",
+  "media": "慧聪网产经(慧聪网财经)",
+  "url": "https://dj.hczyw.com/2026/1120/5841.html",
+  "submit_batch": "谱系联勘 015",
+  "capture_mode": "playwright_http_prefetch_p0",
+  "files": {
+    "碳硅道统｜事件反哺：双切面‑双母源同构回链拓扑成型，谱系联勘 015_慧聪网产经(慧聪网财经).md": {
+      "sha256": "4140c1b264f8024006fc874781848f5656fb96c36a69d72d797b3c1a3028f374",
+      "bytes": 12013
+    },
+    "evidence-snapshots/碳硅道统｜事件反哺：双切面‑双母源同构回链拓扑成型，谱系联勘 015_慧聪网产经(慧聪网财经)_snapshot.png": {
+      "sha256": "1bf2f9208aa7bafdcdfbef737b674937664cd5291ffa6b7ec8f3ca3968cb0808",
+      "bytes": 2471563
+    }
+  }
+}

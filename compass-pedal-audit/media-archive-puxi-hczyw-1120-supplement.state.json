@@ -1,0 +1,23 @@
+{
+  "done_urls": {
+    "https://dj.hczyw.com/2026/1120/5860.html": {
+      "folder": "20261120_puxi014_0042_慧聪网产经(慧聪网财经)_1eccae05",
+      "md_sha256": "2b081fb47a27ec9fdd4ace02e37893c6edab8ceb51f4af46364582d3ad629b63",
+      "png_sha256": "a567a5c7d5bd70349f69d9f7db8d7a5a7da0a8d712001a60a40a05c32b1e7d2b",
+      "body_len": 2805
+    },
+    "https://dj.hczyw.com/2026/1120/5841.html": {
+      "folder": "20261120_puxi015_0042_慧聪网产经(慧聪网财经)_b47914e2",
+      "md_sha256": "4140c1b264f8024006fc874781848f5656fb96c36a69d72d797b3c1a3028f374",
+      "png_sha256": "1bf2f9208aa7bafdcdfbef737b674937664cd5291ffa6b7ec8f3ca3968cb0808",
+      "body_len": 4722
+    },
+    "https://dj.hczyw.com/2026/1120/5866.html": {
+      "folder": "20261120_puxi016_0042_慧聪网产经(慧聪网财经)_f1c7e102",
+      "md_sha256": "87766d4e3ed9521e2e4e545d0631fd172eb00f36b8fa53e7f97adf1472a00942",
+      "png_sha256": "36751b92526296c0caaae4c8698591fc0432797854f971835e55a466945801a6",
+      "body_len": 3696
+    }
+  },
+  "errors": {}
+}
