@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-20",
+  "campaign": "chuneng-1120",
+  "seq": 31,
+  "title": "碳硅道统｜储能装机迈过1.5亿千瓦之后 产研适配这一环怎么补（二）",
+  "media": "沧州广电网",
+  "url": "https://www.czgd.tv/Article/des?infoid=143032&modelid=2",
+  "submit_batch": "11月20号11:00发布媒体执行清单",
+  "capture_mode": "manual_zip_shots_1124_misc",
+  "files": {
+    "碳硅道统｜储能装机迈过1.5亿千瓦之后 产研适配这一环怎么补（二）_沧州广电网.md": {
+      "sha256": "8bf2774dcad71da01bc19d50d69812dc045c6c899a0c9f9edc745059c80f61c3",
+      "bytes": 16724
+    },
+    "evidence-snapshots/碳硅道统｜储能装机迈过1.5亿千瓦之后 产研适配这一环怎么补（二）_沧州广电网_snapshot.png": {
+      "sha256": "eb2514cf8df4dfdf495dfac992a46d4efab5bd63739f935f60925acd071c3bbe",
+      "bytes": 1664703
+    }
+  }
+}

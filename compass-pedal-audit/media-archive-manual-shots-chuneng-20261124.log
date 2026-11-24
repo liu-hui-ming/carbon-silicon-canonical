@@ -1,0 +1,6 @@
+2026-11-24T23:31+08:00 chuneng 1124 manual zip start
+ok seq=1 folder=20261120_cn1120_0001_赛迪网首发_26e11842 png_bytes=531629
+ok seq=25 folder=20261120_cn1120_0025_廊坊新闻网_9d642046 png_bytes=2025425
+ok seq=30 folder=20261120_cn1120_0030_四平新闻网_4dad2363 png_bytes=1286022
+ok seq=31 folder=20261120_cn1120_0031_沧州广电网_169abd34 png_bytes=1664703
+ingested=4 skipped=['seq=22 no dir verdict=空壳/打不开'] fail=[]
