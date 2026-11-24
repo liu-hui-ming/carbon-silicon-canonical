@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-20",
+  "campaign": "chuneng-1120",
+  "seq": 21,
+  "title": "碳硅道统｜储能装机迈过1.5亿千瓦之后 产研适配这一环怎么补（二）",
+  "media": "二三里客户端",
+  "url": "https://www.ersanli.cn/longtext/detail.html?feedId=226531051380020&type=6&appId=1&type=11",
+  "submit_batch": "11月20号11:00发布媒体执行清单",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜储能装机迈过1.5亿千瓦之后 产研适配这一环怎么补（二）_二三里客户端.md": {
+      "sha256": "8ec522bea472dcfd192fd2d2eded0d91abeacf915a0360033ca9ee3cc34cdb6d",
+      "bytes": 504
+    },
+    "evidence-snapshots/碳硅道统｜储能装机迈过1.5亿千瓦之后 产研适配这一环怎么补（二）_二三里客户端_snapshot.png": {
+      "sha256": "16c6f8b1ec1f4225525c998ba6e2664445b36b3dfb2dd6929d8ca2c49faeec82",
+      "bytes": 3661655
+    }
+  }
+}

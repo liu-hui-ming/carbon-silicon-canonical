@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-20",
+  "campaign": "chuneng-1120",
+  "seq": 35,
+  "title": "碳硅道统｜储能装机迈过1.5亿千瓦之后 产研适配这一环怎么补（二）",
+  "media": "中国机器人网",
+  "url": "https://www.robot-china.com/news/202611/20/97511.html",
+  "submit_batch": "11月20号11:00发布媒体执行清单",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜储能装机迈过1.5亿千瓦之后 产研适配这一环怎么补（二）_中国机器人网.md": {
+      "sha256": "fd999a6f85c78ab65617cf489ada60df0649bfa2376fe73f28aa3013f3612f3f",
+      "bytes": 12162
+    },
+    "evidence-snapshots/碳硅道统｜储能装机迈过1.5亿千瓦之后 产研适配这一环怎么补（二）_中国机器人网_snapshot.png": {
+      "sha256": "041fc6e221a049c7a0e83a1e2a5656c4247f5bf1ae9cb4c8af1ad67b73805e9e",
+      "bytes": 1504377
+    }
+  }
+}

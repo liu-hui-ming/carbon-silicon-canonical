@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-20",
+  "campaign": "chuneng-1120",
+  "seq": 6,
+  "title": "碳硅道统｜储能装机迈过1.5亿千瓦之后 产研适配这一环怎么补（二）",
+  "media": "欧洲网",
+  "url": "http://www.peoplols.com/zixun/1917.html",
+  "submit_batch": "11月20号11:00发布媒体执行清单",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜储能装机迈过1.5亿千瓦之后 产研适配这一环怎么补（二）_欧洲网.md": {
+      "sha256": "0dd0193180e14d218a7cb66efe77054d539e2172ca819ed59694a3a3ba7755a0",
+      "bytes": 11824
+    },
+    "evidence-snapshots/碳硅道统｜储能装机迈过1.5亿千瓦之后 产研适配这一环怎么补（二）_欧洲网_snapshot.png": {
+      "sha256": "0d8e2b1595464b56780530f89b17dd39d2f70a87cb4872b95f66ac58a0f6439f",
+      "bytes": 1770108
+    }
+  }
+}

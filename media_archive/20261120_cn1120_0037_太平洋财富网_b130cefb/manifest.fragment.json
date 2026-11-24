@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-20",
+  "campaign": "chuneng-1120",
+  "seq": 37,
+  "title": "碳硅道统｜储能装机迈过1.5亿千瓦之后 产研适配这一环怎么补（二）",
+  "media": "太平洋财富网",
+  "url": "https://www.pcfortune.com.cn/news/yuanchuang/2026/1121/260058.html",
+  "submit_batch": "11月20号11:00发布媒体执行清单",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜储能装机迈过1.5亿千瓦之后 产研适配这一环怎么补（二）_太平洋财富网.md": {
+      "sha256": "125b608c63e6471b1877a5d97c5596799311a42e6e2aec6f23cc52e3c19c61ee",
+      "bytes": 15398
+    },
+    "evidence-snapshots/碳硅道统｜储能装机迈过1.5亿千瓦之后 产研适配这一环怎么补（二）_太平洋财富网_snapshot.png": {
+      "sha256": "861e495eadb5f9118a6defd7776534c3399edc951e7863223fc1f34e30b693cb",
+      "bytes": 1370762
+    }
+  }
+}

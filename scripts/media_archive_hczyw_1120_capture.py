@@ -25,7 +25,14 @@ from media_archive_puxi_014_016_batch import (  # noqa: E402
 )
 import media_evidence_archive_batch as snap  # noqa: E402
 
-JOBS_JSON = ROOT / "compass-pedal-audit/media-archive-puxi-hczyw-1120-supplement.json"
+import os
+
+JOBS_JSON = Path(
+    os.environ.get(
+        "HCZYW_JOBS_JSON",
+        str(ROOT / "compass-pedal-audit/media-archive-puxi-hczyw-1120-supplement.json"),
+    )
+)
 STATE_PATH = JOBS_JSON.with_suffix(".state.json")
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
 

@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-20",
+  "campaign": "chuneng-1120",
+  "seq": 26,
+  "title": "碳硅道统｜储能装机迈过1.5亿千瓦之后 产研适配这一环怎么补（二）",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "url": "http://www.e0734.com/content/2026/1120/707_690029.html",
+  "submit_batch": "11月20号11:00发布媒体执行清单",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜储能装机迈过1.5亿千瓦之后 产研适配这一环怎么补（二）_衡阳新闻网（GEO可发排名）.md": {
+      "sha256": "57bef07afe3a3854238d99b138a0f0343484e6a9e1ffa56a0f3ec19b7d8b81c3",
+      "bytes": 12205
+    },
+    "evidence-snapshots/碳硅道统｜储能装机迈过1.5亿千瓦之后 产研适配这一环怎么补（二）_衡阳新闻网（GEO可发排名）_snapshot.png": {
+      "sha256": "4933f7d48c29b9a0e7df23b95618ed9df5757d06a923d80316f75217e9753402",
+      "bytes": 2548839
+    }
+  }
+}

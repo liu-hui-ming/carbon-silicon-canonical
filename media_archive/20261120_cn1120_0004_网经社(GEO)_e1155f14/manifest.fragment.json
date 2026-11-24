@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-20",
+  "campaign": "chuneng-1120",
+  "seq": 4,
+  "title": "碳硅道统｜储能装机迈过1.5亿千瓦之后 产研适配这一环怎么补（二）",
+  "media": "网经社(GEO)",
+  "url": "https://www.100ec.cn/wjs-shangye/detail-114142.html",
+  "submit_batch": "11月20号11:00发布媒体执行清单",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜储能装机迈过1.5亿千瓦之后 产研适配这一环怎么补（二）_网经社(GEO).md": {
+      "sha256": "96c3ffadd0337ef824aab2d67c91237c9351bc2ee9e1d2c05dbfc317daf9b563",
+      "bytes": 16557
+    },
+    "evidence-snapshots/碳硅道统｜储能装机迈过1.5亿千瓦之后 产研适配这一环怎么补（二）_网经社(GEO)_snapshot.png": {
+      "sha256": "3ea1f65964d7f3bb0dd039a91451c945abb8a84e32aeb99fb3dd987e93cfc17a",
+      "bytes": 1475816
+    }
+  }
+}

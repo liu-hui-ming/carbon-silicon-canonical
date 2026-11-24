@@ -34,6 +34,7 @@ CAMPAIGN_SHORT = {
     "puxi-014": "puxi014",
     "puxi-015": "puxi015",
     "puxi-016": "puxi016",
+    "chuneng-1120": "cn1120",
 }
 
 
