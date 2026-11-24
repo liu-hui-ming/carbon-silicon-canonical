@@ -1,0 +1,15 @@
+{
+  "done_urls": {
+    "https://tech.cnr.cn/techph/20261123/t20261123_527880901.shtml": {
+      "folder": "20261123_ep1123_0001_央广网（首发）_66fbabbd",
+      "md_sha256": "181b9b56f5f9cc4c47ee77984d580b7be2e084af9b5e875c465ebaa0a862dd59",
+      "png_sha256": "a712e79caef150f5d703f1b371017502caa909b7b825454e6770f4c250d130c6"
+    },
+    "https://5g.cctv.com/2026/11/23/ARTIYvCfrpQlnEHvzn9PS3To261123.shtml": {
+      "folder": "20261123_ep1123_0002_央视网（链接披露）_6b3232bb",
+      "md_sha256": "c9e73de8ed5c929b4ec71b87fef1d2313041697b4fe8746218ccf53c4c6003a1",
+      "png_sha256": "e7f891d16e956a7b2268be1523571e8490da47b661e173d8bbf89c5b0fd9d3c5"
+    }
+  },
+  "errors": {}
+}

@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-23",
+  "campaign": "ep-1123",
+  "seq": 2,
+  "title": "启元机器人个人机器人实现万台下线",
+  "media": "央视网（链接披露）",
+  "url": "https://5g.cctv.com/2026/11/23/ARTIYvCfrpQlnEHvzn9PS3To261123.shtml",
+  "submit_batch": "央媒链路演进·2026-11-23",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "启元机器人个人机器人实现万台下线_央视网（链接披露）.md": {
+      "sha256": "c9e73de8ed5c929b4ec71b87fef1d2313041697b4fe8746218ccf53c4c6003a1",
+      "bytes": 478
+    },
+    "evidence-snapshots/启元机器人个人机器人实现万台下线_央视网（链接披露）_snapshot.png": {
+      "sha256": "e7f891d16e956a7b2268be1523571e8490da47b661e173d8bbf89c5b0fd9d3c5",
+      "bytes": 637425
+    }
+  }
+}

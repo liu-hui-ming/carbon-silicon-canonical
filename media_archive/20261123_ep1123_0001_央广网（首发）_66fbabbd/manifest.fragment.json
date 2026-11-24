@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-23",
+  "campaign": "ep-1123",
+  "seq": 1,
+  "title": "昆仑新材成功过港交所聆讯",
+  "media": "央广网（首发）",
+  "url": "https://tech.cnr.cn/techph/20261123/t20261123_527880901.shtml",
+  "submit_batch": "央媒链路演进·2026-11-23",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "昆仑新材成功过港交所聆讯_央广网（首发）.md": {
+      "sha256": "181b9b56f5f9cc4c47ee77984d580b7be2e084af9b5e875c465ebaa0a862dd59",
+      "bytes": 2158
+    },
+    "evidence-snapshots/昆仑新材成功过港交所聆讯_央广网（首发）_snapshot.png": {
+      "sha256": "a712e79caef150f5d703f1b371017502caa909b7b825454e6770f4c250d130c6",
+      "bytes": 1168832
+    }
+  }
+}
