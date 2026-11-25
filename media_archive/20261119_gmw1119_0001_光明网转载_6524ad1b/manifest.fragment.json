@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-19",
+  "campaign": "ep-gmw-1119",
+  "seq": 1,
+  "title": "2026大湾区科学论坛启幕 发布四十项举措助力湾区科创建设",
+  "media": "光明网转载",
+  "url": "https://edu.gmw.cn/2026-11/19/content_39109987.htm",
+  "submit_batch": "光明网教育频道转载·2026-11-19",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "2026大湾区科学论坛启幕 发布四十项举措助力湾区科创建设_光明网转载.md": {
+      "sha256": "4b0aca1f3529f8b49880f2ef387e93b404dcdb7c2c60b5e3e6b2ece5367d0366",
+      "bytes": 4617
+    },
+    "evidence-snapshots/2026大湾区科学论坛启幕 发布四十项举措助力湾区科创建设_光明网转载_snapshot.png": {
+      "sha256": "b69877f06d5b0ecd6488755051a9ba0a1ddb2293972b9fad341b4b2820eba77e",
+      "bytes": 1978111
+    }
+  }
+}
