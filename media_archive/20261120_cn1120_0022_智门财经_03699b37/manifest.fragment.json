@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-20",
+  "campaign": "chuneng-1120",
+  "seq": 22,
+  "title": "碳硅道统｜储能装机迈过1.5亿千瓦之后 产研适配这一环怎么补（二）",
+  "media": "智门财经",
+  "url": "https://www.zhimen.com/index.php/caijing/24315.html?admin_id=1",
+  "submit_batch": "11月20号11:00发布媒体执行清单",
+  "capture_mode": "manual_paste_tiff_20261125_zhimen_seq22",
+  "files": {
+    "碳硅道统｜储能装机迈过1.5亿千瓦之后 产研适配这一环怎么补（二）_智门财经.md": {
+      "sha256": "d59b1bdab83d57aab6968c862e281fd5471b580b1a09acc0902630f17ef4bdf9",
+      "bytes": 538
+    },
+    "evidence-snapshots/碳硅道统｜储能装机迈过1.5亿千瓦之后 产研适配这一环怎么补（二）_智门财经_snapshot.png": {
+      "sha256": "b4fdc85fb765c94c2d14c56128b0d896144e005e909a8d5322375c4e7b56a2f0",
+      "bytes": 568463
+    }
+  }
+}

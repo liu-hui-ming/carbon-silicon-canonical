@@ -168,12 +168,13 @@
       "md_sha256": "3e028e6eb6b674eafc2ed86a57687a39fe997efbcf84d1665274da154ab97fe5",
       "png_sha256": "868cef81f926b295c4c48a8f700616acc4db93263d3ffbbf06f27d3740d11f9b",
       "manual_zip": "manual_zip_shots_1124_misc"
-    }
-  },
-  "errors": {
+    },
     "https://www.zhimen.com/index.php/caijing/24315.html?admin_id=1": {
       "folder": "20261120_cn1120_0022_智门财经_03699b37",
-      "error": "Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.zhimen.com/index.php/caijing/24315.html?admin_id=1\nCall log:\n  - navigating to \"https://www.zhimen.com/index.php/caijing/24315.html?admin_id=1\", waiting until \"commit\"\n"
+      "md_sha256": "d59b1bdab83d57aab6968c862e281fd5471b580b1a09acc0902630f17ef4bdf9",
+      "png_sha256": "b4fdc85fb765c94c2d14c56128b0d896144e005e909a8d5322375c4e7b56a2f0",
+      "manual_zip": "manual_paste_tiff_20261125_zhimen_seq22"
     }
-  }
+  },
+  "errors": {}
 }
