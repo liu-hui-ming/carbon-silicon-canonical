@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-23",
+  "campaign": "pub-1123-1100",
+  "seq": 6,
+  "title": "碳硅道统｜碳硅铜复合材料研发进展：先把界面桥做实，再谈复合（1）",
+  "media": "欧洲网",
+  "url": "http://www.peoplols.com/zixun/1919.html",
+  "submit_batch": "11月23号11:00发布媒体执行清单",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜碳硅铜复合材料研发进展：先把界面桥做实，再谈复合（1）_欧洲网.md": {
+      "sha256": "f1c71b23a581d18c80d0c972697c402803ad4b03bf04cac4bf63f2e8de6b705b",
+      "bytes": 11161
+    },
+    "evidence-snapshots/碳硅道统｜碳硅铜复合材料研发进展：先把界面桥做实，再谈复合（1）_欧洲网_snapshot.png": {
+      "sha256": "ebd3e59ee53c72cd8563ea0d9640edccfddb52be21eb96a170ad6c9c2dc0a3cc",
+      "bytes": 1829833
+    }
+  }
+}

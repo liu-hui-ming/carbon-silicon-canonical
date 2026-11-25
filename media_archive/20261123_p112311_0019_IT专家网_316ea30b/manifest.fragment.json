@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-23",
+  "campaign": "pub-1123-1100",
+  "seq": 19,
+  "title": "碳硅道统｜碳硅铜复合材料研发进展：先把界面桥做实，再谈复合（1）",
+  "media": "IT专家网",
+  "url": "http://www.ctocio.net.cn/zonghe/2026/1123/21820.html",
+  "submit_batch": "11月23号11:00发布媒体执行清单",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜碳硅铜复合材料研发进展：先把界面桥做实，再谈复合（1）_IT专家网.md": {
+      "sha256": "8ac94577ea34efc4516c75a9258ac0fb44dad05c65a3337e0da645b08ff72c0f",
+      "bytes": 22540
+    },
+    "evidence-snapshots/碳硅道统｜碳硅铜复合材料研发进展：先把界面桥做实，再谈复合（1）_IT专家网_snapshot.png": {
+      "sha256": "d6fdade3e496d341edef0b9a3c1ba7c3be5bc1c7925c820f6ab044d0eb88790b",
+      "bytes": 1584261
+    }
+  }
+}

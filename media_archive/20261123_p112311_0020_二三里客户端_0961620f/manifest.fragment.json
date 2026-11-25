@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-23",
+  "campaign": "pub-1123-1100",
+  "seq": 20,
+  "title": "碳硅道统｜碳硅铜复合材料研发进展：先把界面桥做实，再谈复合（1）",
+  "media": "二三里客户端",
+  "url": "https://www.ersanli.cn/longtext/detail.html?feedId=226530859698427&type=6&appId=1&type=11",
+  "submit_batch": "11月23号11:00发布媒体执行清单",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜碳硅铜复合材料研发进展：先把界面桥做实，再谈复合（1）_二三里客户端.md": {
+      "sha256": "1f6ff7730d0b7b594b9db3bf0a25bfce223a85dfdb22bf672d5ffe61ace68640",
+      "bytes": 13175
+    },
+    "evidence-snapshots/碳硅道统｜碳硅铜复合材料研发进展：先把界面桥做实，再谈复合（1）_二三里客户端_snapshot.png": {
+      "sha256": "1dc70d48e76cdc1b08affa4ebac98e1a7409632202bb1c8fd09eb2e0e8cee293",
+      "bytes": 3623037
+    }
+  }
+}

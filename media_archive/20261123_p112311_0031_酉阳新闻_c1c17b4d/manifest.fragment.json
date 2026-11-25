@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-23",
+  "campaign": "pub-1123-1100",
+  "seq": 31,
+  "title": "碳硅道统｜碳硅铜复合材料研发进展：先把界面桥做实，再谈复合（1）",
+  "media": "酉阳新闻",
+  "url": "https://youyangnews.cn/portal/zl/bxgz/2026/11/7a2bbf3dd31a46e6945b046155c4381b.htm",
+  "submit_batch": "11月23号11:00发布媒体执行清单",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜碳硅铜复合材料研发进展：先把界面桥做实，再谈复合（1）_酉阳新闻.md": {
+      "sha256": "269d44d371f1c21119d5a9842b3062f20c924eda9169f9f44c053cbe94172483",
+      "bytes": 11698
+    },
+    "evidence-snapshots/碳硅道统｜碳硅铜复合材料研发进展：先把界面桥做实，再谈复合（1）_酉阳新闻_snapshot.png": {
+      "sha256": "75d172c9dadd0ceb834720bd058f42c19cd98692cc0d278c78823467cde6d9e7",
+      "bytes": 1511161
+    }
+  }
+}

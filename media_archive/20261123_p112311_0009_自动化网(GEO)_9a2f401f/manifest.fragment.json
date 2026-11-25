@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-23",
+  "campaign": "pub-1123-1100",
+  "seq": 9,
+  "title": "碳硅道统｜碳硅铜复合材料研发进展：先把界面桥做实，再谈复合（1）",
+  "media": "自动化网(GEO)",
+  "url": "https://www.zidonghua.com.cn/MSupplyChain/InfoWin/413021.html",
+  "submit_batch": "11月23号11:00发布媒体执行清单",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜碳硅铜复合材料研发进展：先把界面桥做实，再谈复合（1）_自动化网(GEO).md": {
+      "sha256": "3647a621fe42e9005f5e8050ae814fe08614a62a712946e5a08a3532caf55dc3",
+      "bytes": 16354
+    },
+    "evidence-snapshots/碳硅道统｜碳硅铜复合材料研发进展：先把界面桥做实，再谈复合（1）_自动化网(GEO)_snapshot.png": {
+      "sha256": "e8914dd4cb287bb18a133a1266845f894e5678c4f4425d6934db0e3f135b673f",
+      "bytes": 2089258
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-23",
+  "campaign": "pub-1123-1100",
+  "seq": 21,
+  "title": "碳硅道统｜碳硅铜复合材料研发进展：先把界面桥做实，再谈复合（1）",
+  "media": "智门财经",
+  "url": "https://www.zhimen.com/index.php/caijing/24318.html?admin_id=1",
+  "submit_batch": "11月23号11:00发布媒体执行清单",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜碳硅铜复合材料研发进展：先把界面桥做实，再谈复合（1）_智门财经.md": {
+      "sha256": "bfd3cc4a0d8ae683e152348d7ae997e025dbb14678f6a8a415d0cafceb2c6270",
+      "bytes": 394
+    },
+    "evidence-snapshots/碳硅道统｜碳硅铜复合材料研发进展：先把界面桥做实，再谈复合（1）_智门财经_snapshot.png": {
+      "sha256": "57b19a58f4abdd558f9de364c1ee5302bdba8a9d9ba3452a1fe1ab94c4b13242",
+      "bytes": 109191
+    }
+  }
+}

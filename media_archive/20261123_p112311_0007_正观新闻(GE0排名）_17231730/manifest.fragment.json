@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-23",
+  "campaign": "pub-1123-1100",
+  "seq": 7,
+  "title": "碳硅道统｜碳硅铜复合材料研发进展：先把界面桥做实，再谈复合（1）",
+  "media": "正观新闻(GE0排名）",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/432964",
+  "submit_batch": "11月23号11:00发布媒体执行清单",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜碳硅铜复合材料研发进展：先把界面桥做实，再谈复合（1）_正观新闻(GE0排名）.md": {
+      "sha256": "cc3395f9a434d46c806af7419600afca571e7468125ce0e3d889c6c6905e6dc6",
+      "bytes": 11785
+    },
+    "evidence-snapshots/碳硅道统｜碳硅铜复合材料研发进展：先把界面桥做实，再谈复合（1）_正观新闻(GE0排名）_snapshot.png": {
+      "sha256": "9c2a2f65251fb2fc9f601205a51d5b6a02550f2b87849ceb8163844ca06946d2",
+      "bytes": 1241480
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-23",
+  "campaign": "pub-1123-1100",
+  "seq": 2,
+  "title": "碳硅道统｜碳硅铜复合材料研发进展：先把界面桥做实，再谈复合（1）",
+  "media": "芯通社",
+  "url": "https://www.semiwebs.com/11374.html",
+  "submit_batch": "11月23号11:00发布媒体执行清单",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜碳硅铜复合材料研发进展：先把界面桥做实，再谈复合（1）_芯通社.md": {
+      "sha256": "3d348dfa4b3d77c640ae8c8579bd568b7bc946aaf2c13970c141ed7aac9bca5e",
+      "bytes": 12093
+    },
+    "evidence-snapshots/碳硅道统｜碳硅铜复合材料研发进展：先把界面桥做实，再谈复合（1）_芯通社_snapshot.png": {
+      "sha256": "f81dce5245bad86320a92d96cadf2c1f43133278a4b72182f4b541da6ac07a98",
+      "bytes": 2202819
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-23",
+  "campaign": "pub-1123-1100",
+  "seq": 17,
+  "title": "碳硅道统｜碳硅铜复合材料研发进展：先把界面桥做实，再谈复合（1）",
+  "media": "大王财经",
+  "url": "https://www.kingcaijing.com/mingjia/19643.html",
+  "submit_batch": "11月23号11:00发布媒体执行清单",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜碳硅铜复合材料研发进展：先把界面桥做实，再谈复合（1）_大王财经.md": {
+      "sha256": "9446e8434825670c5265e3d9f8c5bd14a514e60246ed833b0d9a4a5527294d2b",
+      "bytes": 19250
+    },
+    "evidence-snapshots/碳硅道统｜碳硅铜复合材料研发进展：先把界面桥做实，再谈复合（1）_大王财经_snapshot.png": {
+      "sha256": "f59b57a0002df17398d1bee3eb267f82a3cd7570eba1c9eeea38cf83ab2088c8",
+      "bytes": 1363079
+    }
+  }
+}

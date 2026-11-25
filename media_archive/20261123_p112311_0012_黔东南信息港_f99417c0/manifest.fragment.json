@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-23",
+  "campaign": "pub-1123-1100",
+  "seq": 12,
+  "title": "碳硅道统｜碳硅铜复合材料研发进展：先把界面桥做实，再谈复合（1）",
+  "media": "黔东南信息港",
+  "url": "http://www.qdn.cn/html/2026/hyzx_1123/652078.shtml",
+  "submit_batch": "11月23号11:00发布媒体执行清单",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜碳硅铜复合材料研发进展：先把界面桥做实，再谈复合（1）_黔东南信息港.md": {
+      "sha256": "56d5be5cae9385ff2851781990832c3946c2901dfdd99b1827e1136bd304a89c",
+      "bytes": 14874
+    },
+    "evidence-snapshots/碳硅道统｜碳硅铜复合材料研发进展：先把界面桥做实，再谈复合（1）_黔东南信息港_snapshot.png": {
+      "sha256": "1a327d60712c5606576f5c1f8c1e440fc18afa0e7034cfe607a285814ba3f263",
+      "bytes": 1162206
+    }
+  }
+}

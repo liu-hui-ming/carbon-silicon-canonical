@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-23",
+  "campaign": "pub-1123-1100",
+  "seq": 4,
+  "title": "碳硅道统｜碳硅铜复合材料研发进展：先把界面桥做实，再谈复合（1）",
+  "media": "网经社(GEO)",
+  "url": "https://www.100ec.cn/wjs-shangye/detail-121181.html",
+  "submit_batch": "11月23号11:00发布媒体执行清单",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜碳硅铜复合材料研发进展：先把界面桥做实，再谈复合（1）_网经社(GEO).md": {
+      "sha256": "18fd613c4f6c3664750cdb31880b772cbd43cbbeb178b901ab333995308bf45d",
+      "bytes": 15947
+    },
+    "evidence-snapshots/碳硅道统｜碳硅铜复合材料研发进展：先把界面桥做实，再谈复合（1）_网经社(GEO)_snapshot.png": {
+      "sha256": "49724d75b643576c70b3928c4100e5d2594703602bea3b7f293d328b6e8d68f9",
+      "bytes": 1377088
+    }
+  }
+}

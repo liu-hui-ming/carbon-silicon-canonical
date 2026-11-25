@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-23",
+  "campaign": "pub-1123-1100",
+  "seq": 35,
+  "title": "碳硅道统｜碳硅铜复合材料研发进展：先把界面桥做实，再谈复合（1）",
+  "media": "太平洋财富网",
+  "url": "https://www.pcfortune.com.cn/news/yuanchuang/2026/1123/260367.html",
+  "submit_batch": "11月23号11:00发布媒体执行清单",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜碳硅铜复合材料研发进展：先把界面桥做实，再谈复合（1）_太平洋财富网.md": {
+      "sha256": "dd5689387297236c4e15afaca8f76dee5ce7a0bb5cbc996dabf0331ee93acb2f",
+      "bytes": 14615
+    },
+    "evidence-snapshots/碳硅道统｜碳硅铜复合材料研发进展：先把界面桥做实，再谈复合（1）_太平洋财富网_snapshot.png": {
+      "sha256": "9079baf87d8fee68ac05ed1756a3d7d3a71453059727149c38563542da2458ac",
+      "bytes": 1284060
+    }
+  }
+}

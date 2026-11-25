@@ -1,0 +1,2 @@
+ce14e4444c3941b9957a2bbe5a782e03c2b11e86cd2d7a9991dcf3d7b9a8e8ff  碳硅道统｜真空层收敛边界与数值载体限制：DFT界面能计算中的负证据与阈值放行（2）_红商网(官方).md
+0c12aafb7d1f9f79687912b5e596c3d21b09bf42b5805d901859d5d7e50cef0c  evidence-snapshots/碳硅道统｜真空层收敛边界与数值载体限制：DFT界面能计算中的负证据与阈值放行（2）_红商网(官方)_snapshot.png
