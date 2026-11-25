@@ -1,0 +1,40 @@
+{
+  "done_urls": {
+    "https://www.ytnews.cn/hzxw/news/2026/1123/2026112377762.html": {
+      "folder": "20261123_ep1124_0001_烟台新闻网_5c207146",
+      "md_sha256": "1f5f5b73e3b080a42eaefa94b08a37ab3b5ecda72b5c008d94e27821a16f51a1",
+      "png_sha256": "cb82d2e342912256a3a21ac4f26d60a7c5dbfeb6090bf1127f86fad0534a79aa"
+    },
+    "https://www.ytnews.cn/hzxw/news/2026/1123/2026112377763.html": {
+      "folder": "20261123_ep1124_0002_烟台新闻网_7547ca94",
+      "md_sha256": "4b51bf5f200ff1a57c656cf72e05f47b2f99bc39257d62acee67e1b95c545cdd",
+      "png_sha256": "fb82dd1292fb909ce95a98acd058015f8604a56f65606e1298f45ee612e27bee"
+    },
+    "https://www.ytnews.cn/hzxw/news/2026/1123/2026112377765.html": {
+      "folder": "20261123_ep1124_0003_烟台新闻网_13f0e6e9",
+      "md_sha256": "2c1d0f5bf9e7ed955a7191adc3dcb729b0c769240ab20395785b079f8b674976",
+      "png_sha256": "340773816d53096341c6f798dcf2c5548549d4e2b6c2b96a0434115696e79c0b"
+    },
+    "https://www.ytnews.cn/hzxw/news/2026/1123/2026112377772.html": {
+      "folder": "20261123_ep1124_0004_烟台新闻网_2e3d6a7e",
+      "md_sha256": "d8c80eca717a393b5b5fb96ada209f52d78759a26e91a99fb6c97b8f8f01f024",
+      "png_sha256": "356f0ef2872adb8c785120294a656d8fe92504455aa88fc455261c5a2f0241a0"
+    },
+    "https://5g.cctv.com/2026/11/24/ARTIWWjLDlvLIgQVdj7HlSEB261124.shtml": {
+      "folder": "20261124_ep1124_0005_央视网（链接披露）_327bf220",
+      "md_sha256": "0908dde6f71e3782ad5b76c128f3ddbb42226b6b394345bdf655a545a7a8e483",
+      "png_sha256": "30783fd840ee65623664b9a4428dd939985ada34be5d10130a421f1a4de91ffc"
+    },
+    "https://5g.cctv.com/2026/11/24/ARTI5smiBkeHce0vz2ROD0Gp261124.shtml": {
+      "folder": "20261124_ep1124_0006_央视网（链接披露）_da40de54",
+      "md_sha256": "812c353e03a642c99d852808f9dae3f2a2e79c0bdb4191527836a5687fc7a630",
+      "png_sha256": "c54134084e5cb4be4e7b5e8610f4db057b364a9059b67b862675350510a5804a"
+    },
+    "https://5g.cctv.com/2026/11/24/ARTIASDiimUtirrvv2GGGc9e261124.shtml": {
+      "folder": "20261124_ep1124_0007_央视网（链接披露）_e62c94f6",
+      "md_sha256": "a09059dd84a708094eec6a7119d7e5d31aa6498899a63b94aa7515028e5408b5",
+      "png_sha256": "65769fa63eedc1b37bfc69ab00e4e297414edef5264945a8fac4f77f4f0f8144"
+    }
+  },
+  "errors": {}
+}

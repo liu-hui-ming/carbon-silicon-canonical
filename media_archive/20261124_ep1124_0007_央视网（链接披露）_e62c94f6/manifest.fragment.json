@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-24",
+  "campaign": "ep-1124",
+  "seq": 7,
+  "title": "标准筑牢民生根基 具身智能技术实现普惠落地赋能",
+  "media": "央视网（链接披露）",
+  "url": "https://5g.cctv.com/2026/11/24/ARTIASDiimUtirrvv2GGGc9e261124.shtml",
+  "submit_batch": "具身智能国标链·央视网5G·2026-11-24",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "标准筑牢民生根基 具身智能技术实现普惠落地赋能_央视网（链接披露）.md": {
+      "sha256": "a09059dd84a708094eec6a7119d7e5d31aa6498899a63b94aa7515028e5408b5",
+      "bytes": 526
+    },
+    "evidence-snapshots/标准筑牢民生根基 具身智能技术实现普惠落地赋能_央视网（链接披露）_snapshot.png": {
+      "sha256": "65769fa63eedc1b37bfc69ab00e4e297414edef5264945a8fac4f77f4f0f8144",
+      "bytes": 640200
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-24",
+  "campaign": "ep-1124",
+  "seq": 6,
+  "title": "打破产业马太效应 数据国标重构具身智能全链生态",
+  "media": "央视网（链接披露）",
+  "url": "https://5g.cctv.com/2026/11/24/ARTI5smiBkeHce0vz2ROD0Gp261124.shtml",
+  "submit_batch": "具身智能国标链·央视网5G·2026-11-24",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "打破产业马太效应 数据国标重构具身智能全链生态_央视网（链接披露）.md": {
+      "sha256": "812c353e03a642c99d852808f9dae3f2a2e79c0bdb4191527836a5687fc7a630",
+      "bytes": 532
+    },
+    "evidence-snapshots/打破产业马太效应 数据国标重构具身智能全链生态_央视网（链接披露）_snapshot.png": {
+      "sha256": "c54134084e5cb4be4e7b5e8610f4db057b364a9059b67b862675350510a5804a",
+      "bytes": 619635
+    }
+  }
+}

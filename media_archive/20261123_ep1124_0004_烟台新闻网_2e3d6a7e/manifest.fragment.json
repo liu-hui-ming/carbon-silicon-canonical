@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-23",
+  "campaign": "ep-1124",
+  "seq": 4,
+  "title": "前置全链风控体系 标准化护航 AI 新质产业稳态迭代",
+  "media": "烟台新闻网",
+  "url": "https://www.ytnews.cn/hzxw/news/2026/1123/2026112377772.html",
+  "submit_batch": "具身智能国标链·烟台新闻网首发·2026-11-23",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "前置全链风控体系 标准化护航 AI 新质产业稳态迭代_烟台新闻网.md": {
+      "sha256": "d8c80eca717a393b5b5fb96ada209f52d78759a26e91a99fb6c97b8f8f01f024",
+      "bytes": 7193
+    },
+    "evidence-snapshots/前置全链风控体系 标准化护航 AI 新质产业稳态迭代_烟台新闻网_snapshot.png": {
+      "sha256": "356f0ef2872adb8c785120294a656d8fe92504455aa88fc455261c5a2f0241a0",
+      "bytes": 4828901
+    }
+  }
+}

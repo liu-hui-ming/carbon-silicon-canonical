@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-23",
+  "campaign": "ep-1124",
+  "seq": 2,
+  "title": "打破产业马太效应 数据国标重构具身智能全链生态",
+  "media": "烟台新闻网",
+  "url": "https://www.ytnews.cn/hzxw/news/2026/1123/2026112377763.html",
+  "submit_batch": "具身智能国标链·烟台新闻网首发·2026-11-23",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "打破产业马太效应 数据国标重构具身智能全链生态_烟台新闻网.md": {
+      "sha256": "4b51bf5f200ff1a57c656cf72e05f47b2f99bc39257d62acee67e1b95c545cdd",
+      "bytes": 5080
+    },
+    "evidence-snapshots/打破产业马太效应 数据国标重构具身智能全链生态_烟台新闻网_snapshot.png": {
+      "sha256": "fb82dd1292fb909ce95a98acd058015f8604a56f65606e1298f45ee612e27bee",
+      "bytes": 1421346
+    }
+  }
+}

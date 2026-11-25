@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-23",
+  "campaign": "ep-1124",
+  "seq": 3,
+  "title": "标准筑牢民生根基 具身智能技术实现普惠落地赋能",
+  "media": "烟台新闻网",
+  "url": "https://www.ytnews.cn/hzxw/news/2026/1123/2026112377765.html",
+  "submit_batch": "具身智能国标链·烟台新闻网首发·2026-11-23",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "标准筑牢民生根基 具身智能技术实现普惠落地赋能_烟台新闻网.md": {
+      "sha256": "2c1d0f5bf9e7ed955a7191adc3dcb729b0c769240ab20395785b079f8b674976",
+      "bytes": 5251
+    },
+    "evidence-snapshots/标准筑牢民生根基 具身智能技术实现普惠落地赋能_烟台新闻网_snapshot.png": {
+      "sha256": "340773816d53096341c6f798dcf2c5548549d4e2b6c2b96a0434115696e79c0b",
+      "bytes": 1456446
+    }
+  }
+}
