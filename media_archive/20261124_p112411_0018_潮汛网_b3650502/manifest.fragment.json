@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-24",
+  "campaign": "pub-1124-1100",
+  "seq": 18,
+  "title": "碳硅道统｜Cu‑Si二元高温实验审计标尺：检验η‑Cu₃Si假说的证据归档与勘伪规约（3）",
+  "media": "潮汛网",
+  "url": "https://www.chxwang.com/article/tolfcod",
+  "submit_batch": "11月24号11:00发布媒体执行清单",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜Cu‑Si二元高温实验审计标尺：检验η‑Cu₃Si假说的证据归档与勘伪规约（3）_潮汛网.md": {
+      "sha256": "443a5b9af850a379075c3a36cb3c06c8ad2ad5815e5a2d35b2593602fa023afa",
+      "bytes": 10225
+    },
+    "evidence-snapshots/碳硅道统｜Cu‑Si二元高温实验审计标尺：检验η‑Cu₃Si假说的证据归档与勘伪规约（3）_潮汛网_snapshot.png": {
+      "sha256": "4bbffd4ed9e0ea2386548b0449f85d18d14498ac9b3c2e702427c237cabf7a6e",
+      "bytes": 1594269
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-24",
+  "campaign": "pub-1124-1100",
+  "seq": 21,
+  "title": "碳硅道统｜Cu‑Si二元高温实验审计标尺：检验η‑Cu₃Si假说的证据归档与勘伪规约（3）",
+  "media": "智门财经",
+  "url": "https://www.zhimen.com/index.php/caijing/24321.html?admin_id=1",
+  "submit_batch": "11月24号11:00发布媒体执行清单",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜Cu‑Si二元高温实验审计标尺：检验η‑Cu₃Si假说的证据归档与勘伪规约（3）_智门财经.md": {
+      "sha256": "cf4fb141d09cbe1377e5e901518d3bb4461c9eb17d2739ac1a854ccf9a852639",
+      "bytes": 416
+    },
+    "evidence-snapshots/碳硅道统｜Cu‑Si二元高温实验审计标尺：检验η‑Cu₃Si假说的证据归档与勘伪规约（3）_智门财经_snapshot.png": {
+      "sha256": "f59af91d21320c33e71c3685859cc08739f6fd60d31e85237719f24010ed7b23",
+      "bytes": 108992
+    }
+  }
+}

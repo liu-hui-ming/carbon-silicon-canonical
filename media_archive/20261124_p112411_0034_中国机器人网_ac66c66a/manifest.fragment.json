@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-24",
+  "campaign": "pub-1124-1100",
+  "seq": 34,
+  "title": "碳硅道统｜Cu‑Si二元高温实验审计标尺：检验η‑Cu₃Si假说的证据归档与勘伪规约（3）",
+  "media": "中国机器人网",
+  "url": "https://www.robot-china.com/news/202611/24/97533.html",
+  "submit_batch": "11月24号11:00发布媒体执行清单",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜Cu‑Si二元高温实验审计标尺：检验η‑Cu₃Si假说的证据归档与勘伪规约（3）_中国机器人网.md": {
+      "sha256": "6606e515f4da5ea569749816adc71d7ab420fe9b4de0b1df7d5d79d6c0e12259",
+      "bytes": 9781
+    },
+    "evidence-snapshots/碳硅道统｜Cu‑Si二元高温实验审计标尺：检验η‑Cu₃Si假说的证据归档与勘伪规约（3）_中国机器人网_snapshot.png": {
+      "sha256": "72fd97a612caa3f0988f2cceb04958c4e125afcc6e72b13451c4bd834365778f",
+      "bytes": 1357229
+    }
+  }
+}
