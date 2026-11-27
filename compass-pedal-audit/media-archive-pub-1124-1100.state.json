@@ -134,32 +134,43 @@
       "folder": "20261124_p112411_0035_太平洋财富网_7f7ad06b",
       "md_sha256": "d22259c52f771e7623bce0894a3088a30b3e51ad56546f89ffec52ea1ccc60f4",
       "png_sha256": "0382ecbe7891dc49488940673d6ac55404f9f157e305c8473cfa06b550076ddc"
-    }
-  },
-  "errors": {
+    },
     "https://www.ccidnet.com/wltxyaq/1017252.jhtml": {
       "folder": "20261124_p112411_0001_赛迪网首发_77f06706",
-      "error": "Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.ccidnet.com/wltxyaq/1017252.jhtml\nCall log:\n  - navigating to \"https://www.ccidnet.com/wltxyaq/1017252.jhtml\", waiting until \"commit\"\n"
+      "md_sha256": "88ea45c0e93a7586bb11800ae4e83de1e68b43f565b65dfe62d00d5cce9a3fd9",
+      "png_sha256": "72ee3eabf9533aed58878e6967931dd50815c10eca250abd72b7900b51478a5e",
+      "manual_zip": "manual_zip_shots_pub_1123_1124_20261127"
     },
     "https://www.lfnews.cn/portal.php?mod=view&aid=144295": {
       "folder": "20261124_p112411_0024_廊坊新闻网_0189d721",
-      "error": "Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.lfnews.cn/portal.php?mod=view&aid=144295\nCall log:\n  - navigating to \"https://www.lfnews.cn/portal.php?mod=view&aid=144295\", waiting until \"commit\"\n"
+      "md_sha256": "23857ab41cd3ec87352a8f697819ad01e7ab386e70b6a4cef4017ba9b06bca70",
+      "png_sha256": "d1f749588ec49bc2144e4cd53e04c748f49e13a133824c03101fa9c6b6bd9ac6",
+      "manual_zip": "manual_zip_shots_pub_1123_1124_20261127"
     },
     "http://www.e0734.com/content/2026/1124/707_692509.html": {
       "folder": "20261124_p112411_0025_衡阳新闻网（GEO可发排名）_1343bb7a",
-      "error": "Page.goto: net::ERR_CONNECTION_TIMED_OUT at http://www.e0734.com/content/2026/1124/707_692509.html\nCall log:\n  - navigating to \"http://www.e0734.com/content/2026/1124/707_692509.html\", waiting until \"commit\"\n"
+      "md_sha256": "94a35c7bbe03ea0bf3ed3aab065a8edf170e5e4b2a46ff7eb9b45b510d386b15",
+      "png_sha256": "11cfd65edaebe8620cf224f5a90a8f21fa67b073a6b249400f964b546f284483",
+      "manual_zip": "manual_zip_shots_pub_1123_1124_20261127"
     },
     "https://m.xgnews.cn/p/294574.html": {
       "folder": "20261124_p112411_0026_云上孝感(AI包收录)_724032d2",
-      "error": "Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://m.xgnews.cn/p/294574.html\nCall log:\n  - navigating to \"https://m.xgnews.cn/p/294574.html\", waiting until \"commit\"\n"
+      "md_sha256": "c403eb1aa10ed316dd3f0a4e14f28eeb103e1e02ea9311dbd604d7e7c3db1df2",
+      "png_sha256": "52d143e626829a4359a9e738d3eb578185225d22aa09b73a4d482544fd4b92f9",
+      "manual_zip": "manual_zip_shots_pub_1123_1124_20261127"
     },
     "http://www.spxww.com.cn/index.php?m=content&c=index&a=show&catid=11&id=75402": {
       "folder": "20261124_p112411_0029_四平新闻网_960f74b8",
-      "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.spxww.com.cn/index.php?m=content&c=index&a=show&catid=11&id=75402\nCall log:\n  - navigating to \"http://www.spxww.com.cn/index.php?m=content&c=index&a=show&catid=11&id=75402\", waiting until \"commit\"\n"
+      "md_sha256": "43af6a9ced8f3a1431534120bfaec5b48848d1fb260ca21c959defa5f48d8bda",
+      "png_sha256": "8a61bd5af1ea331d3a4b650a221a0c7e36f8aef78cb651effe82e882dd91591b",
+      "manual_zip": "manual_zip_shots_pub_1123_1124_20261127"
     },
     "https://www.czgd.tv/Article/des?infoid=143172&modelid=2": {
       "folder": "20261124_p112411_0030_沧州广电网_50b6b628",
-      "error": "Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.czgd.tv/Article/des?infoid=143172&modelid=2\nCall log:\n  - navigating to \"https://www.czgd.tv/Article/des?infoid=143172&modelid=2\", waiting until \"commit\"\n"
+      "md_sha256": "512df5be5d845e871d35201fa031cc6938dcdaaa2c7cabfd76994ded4b7cfbff",
+      "png_sha256": "6bceec2da8c0c497895c2eded3e098da3f8367608d59bf5c9582bb5eb5652b15",
+      "manual_zip": "manual_zip_shots_pub_1123_1124_20261127"
     }
-  }
+  },
+  "errors": {}
 }

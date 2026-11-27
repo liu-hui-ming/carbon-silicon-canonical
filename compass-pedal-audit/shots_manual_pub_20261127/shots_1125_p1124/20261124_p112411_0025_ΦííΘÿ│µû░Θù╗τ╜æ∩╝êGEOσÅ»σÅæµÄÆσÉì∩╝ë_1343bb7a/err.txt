@@ -1,0 +1,22 @@
+[3029:11044787:1126/233746.518155:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[3029:11044787:1126/233746.521259:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[3029:11044787:1126/233746.526400:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[3029:11044787:1126/233746.530510:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+Trying to load the allocator multiple times. This is *not* supported.
+[3030:11044798:1126/233746.989603:ERROR:net/socket/ssl_client_socket_impl.cc:946] handshake failed; returned -1, SSL error code 1, net_error -113
+[3030:11044798:1126/233747.412082:ERROR:net/socket/ssl_client_socket_impl.cc:946] handshake failed; returned -1, SSL error code 1, net_error -113
+[3030:11044798:1126/233747.737735:ERROR:net/socket/ssl_client_socket_impl.cc:946] handshake failed; returned -1, SSL error code 1, net_error -113
+[3029:11044787:1126/233747.836716:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[3023:11044706:1126/233747.852129:ERROR:components/headless/command_handler/headless_command_handler.cc:403] Page load failed: net::ERR_BLOCKED_BY_CLIENT
+[3023:11044706:1126/233747.899930:ERROR:chrome/browser/web_applications/externally_managed_app_manager.cc:681] https://mail.google.com/mail/installwebapp?usp=chrome_default from install source 1 failed to install with reason 21
+[3050:11045174:1126/233748.659585:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[3050:11045174:1126/233748.661180:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[3050:11045174:1126/233748.661280:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[3050:11045174:1126/233748.661378:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+Trying to load the allocator multiple times. This is *not* supported.
+[3051:11045160:1126/233749.059230:ERROR:net/socket/ssl_client_socket_impl.cc:946] handshake failed; returned -1, SSL error code 1, net_error -113
+[3051:11045160:1126/233749.313568:ERROR:net/socket/ssl_client_socket_impl.cc:946] handshake failed; returned -1, SSL error code 1, net_error -113
+[3051:11045160:1126/233749.390730:ERROR:net/socket/ssl_client_socket_impl.cc:946] handshake failed; returned -1, SSL error code 1, net_error -113
+[3050:11045174:1126/233749.444023:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[3046:11045085:1126/233749.469544:ERROR:components/headless/command_handler/headless_command_handler.cc:403] Page load failed: net::ERR_BLOCKED_BY_CLIENT
+[3046:11045085:1126/233749.501915:ERROR:chrome/browser/web_applications/externally_managed_app_manager.cc:681] https://mail.google.com/mail/installwebapp?usp=chrome_default from install source 1 failed to install with reason 21

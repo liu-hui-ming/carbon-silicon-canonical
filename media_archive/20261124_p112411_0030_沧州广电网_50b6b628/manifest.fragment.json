@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-24",
+  "campaign": "pub-1124-1100",
+  "seq": 30,
+  "title": "碳硅道统｜Cu‑Si二元高温实验审计标尺：检验η‑Cu₃Si假说的证据归档与勘伪规约（3）",
+  "media": "沧州广电网",
+  "url": "https://www.czgd.tv/Article/des?infoid=143172&modelid=2",
+  "submit_batch": "11月24号11:00发布媒体执行清单",
+  "capture_mode": "manual_zip_shots_pub_1123_1124_20261127",
+  "files": {
+    "碳硅道统｜Cu‑Si二元高温实验审计标尺：检验η‑Cu₃Si假说的证据归档与勘伪规约（3）_沧州广电网.md": {
+      "sha256": "512df5be5d845e871d35201fa031cc6938dcdaaa2c7cabfd76994ded4b7cfbff",
+      "bytes": 14106
+    },
+    "evidence-snapshots/碳硅道统｜Cu‑Si二元高温实验审计标尺：检验η‑Cu₃Si假说的证据归档与勘伪规约（3）_沧州广电网_snapshot.png": {
+      "sha256": "6bceec2da8c0c497895c2eded3e098da3f8367608d59bf5c9582bb5eb5652b15",
+      "bytes": 1431174
+    }
+  }
+}

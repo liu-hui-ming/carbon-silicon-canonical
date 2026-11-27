@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-23",
+  "campaign": "pub-1123-1100",
+  "seq": 29,
+  "title": "碳硅道统｜碳硅铜复合材料研发进展：先把界面桥做实，再谈复合（1）",
+  "media": "四平新闻网",
+  "url": "http://www.spxww.com.cn/index.php?m=content&c=index&a=show&catid=11&id=75381",
+  "submit_batch": "11月23号11:00发布媒体执行清单",
+  "capture_mode": "manual_zip_shots_pub_1123_1124_20261127",
+  "files": {
+    "碳硅道统｜碳硅铜复合材料研发进展：先把界面桥做实，再谈复合（1）_四平新闻网.md": {
+      "sha256": "42b117c8671c9035a1c5c14061802aae742d7f92e682d0d2c1e3768d0ce7d405",
+      "bytes": 14675
+    },
+    "evidence-snapshots/碳硅道统｜碳硅铜复合材料研发进展：先把界面桥做实，再谈复合（1）_四平新闻网_snapshot.png": {
+      "sha256": "a4b253f31dbb4b1eb7b345473650cde00d948fab1670770fb5d9dfb1abe2d718",
+      "bytes": 1228765
+    }
+  }
+}

@@ -1,0 +1,18 @@
+[2615:11037912:1126/233527.022830:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[2615:11037912:1126/233527.024964:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[2615:11037912:1126/233527.025051:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[2615:11037912:1126/233527.025238:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+Trying to load the allocator multiple times. This is *not* supported.
+[2616:11037899:1126/233527.523726:ERROR:net/socket/ssl_client_socket_impl.cc:946] handshake failed; returned -1, SSL error code 1, net_error -200
+[2615:11037912:1126/233527.589452:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[2611:11037836:1126/233527.612317:ERROR:components/headless/command_handler/headless_command_handler.cc:403] Page load failed: net::ERR_BLOCKED_BY_CLIENT
+[2611:11037836:1126/233527.655085:ERROR:chrome/browser/web_applications/externally_managed_app_manager.cc:681] https://mail.google.com/mail/installwebapp?usp=chrome_default from install source 1 failed to install with reason 21
+[2637:11038217:1126/233528.293094:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[2637:11038217:1126/233528.302799:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+Trying to load the allocator multiple times. This is *not* supported.
+[2637:11038217:1126/233528.308340:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[2637:11038217:1126/233528.308484:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[2638:11038225:1126/233528.767588:ERROR:net/socket/ssl_client_socket_impl.cc:946] handshake failed; returned -1, SSL error code 1, net_error -200
+[2637:11038217:1126/233528.804511:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[2633:11038149:1126/233528.836460:ERROR:components/headless/command_handler/headless_command_handler.cc:403] Page load failed: net::ERR_BLOCKED_BY_CLIENT
+[2633:11038149:1126/233528.864731:ERROR:chrome/browser/web_applications/externally_managed_app_manager.cc:681] https://mail.google.com/mail/installwebapp?usp=chrome_default from install source 1 failed to install with reason 21

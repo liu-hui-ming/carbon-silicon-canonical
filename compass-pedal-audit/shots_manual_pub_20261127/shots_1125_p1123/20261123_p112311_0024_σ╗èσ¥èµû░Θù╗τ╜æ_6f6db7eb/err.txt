@@ -1,0 +1,29 @@
+[2444:11035201:1126/233503.076133:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[2444:11035201:1126/233503.077773:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[2444:11035201:1126/233503.088162:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[2444:11035201:1126/233503.089809:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+Trying to load the allocator multiple times. This is *not* supported.
+[2444:11035201:1126/233505.796693:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[2444:11035201:1126/233505.841415:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[2445:11035210:1126/233505.871677:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for stun.miwifi.com., errorcode: -105
+[2444:11035201:1126/233505.882998:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[2445:11035210:1126/233505.885708:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for stun.qq.com., errorcode: -105
+[2444:11035201:1126/233505.921314:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[2444:11035201:1126/233505.984795:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[2444:11035201:1126/233506.054024:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[2444:11035201:1126/233506.093522:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+Trying to load the allocator multiple times. This is *not* supported.
+[2473:11035749:1126/233506.985438:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[2473:11035749:1126/233506.990706:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[2473:11035749:1126/233506.991010:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[2473:11035749:1126/233506.991106:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[2474:11035740:1126/233508.957018:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for stun.miwifi.com., errorcode: -105
+[2474:11035740:1126/233508.970129:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for stun.qq.com., errorcode: -105
+[2473:11035749:1126/233509.104933:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[2473:11035749:1126/233509.138908:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[2473:11035749:1126/233509.188964:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[2473:11035749:1126/233509.227165:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[2473:11035749:1126/233509.276602:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[2473:11035749:1126/233509.320515:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[2473:11035749:1126/233509.359766:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+1964045 bytes written to file shots_1125_p1123/20261123_p112311_0024_廊坊新闻网_6f6db7eb/page_screenshot.png

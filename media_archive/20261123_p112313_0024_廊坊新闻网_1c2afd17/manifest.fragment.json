@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-23",
+  "campaign": "pub-1123-1330",
+  "seq": 24,
+  "title": "碳硅道统｜真空层收敛边界与数值载体限制：DFT界面能计算中的负证据与阈值放行（2）",
+  "media": "廊坊新闻网",
+  "url": "https://www.lfnews.cn/portal.php?mod=view&aid=144018",
+  "submit_batch": "11月23号13:30发布媒体执行清单",
+  "capture_mode": "manual_zip_shots_pub_1123_1124_20261127",
+  "files": {
+    "碳硅道统｜真空层收敛边界与数值载体限制：DFT界面能计算中的负证据与阈值放行（2）_廊坊新闻网.md": {
+      "sha256": "353eee3647286e6a15c1080131fdab15a7da812e2e713d17b1e174422e07d455",
+      "bytes": 12625
+    },
+    "evidence-snapshots/碳硅道统｜真空层收敛边界与数值载体限制：DFT界面能计算中的负证据与阈值放行（2）_廊坊新闻网_snapshot.png": {
+      "sha256": "63e2592125e4b36d5f38da2eff65cd1a3ea9fca9924c8839b4da15339dedac05",
+      "bytes": 1793512
+    }
+  }
+}

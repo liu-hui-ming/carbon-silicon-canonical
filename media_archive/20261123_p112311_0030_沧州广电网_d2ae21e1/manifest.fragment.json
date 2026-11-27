@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-23",
+  "campaign": "pub-1123-1100",
+  "seq": 30,
+  "title": "碳硅道统｜碳硅铜复合材料研发进展：先把界面桥做实，再谈复合（1）",
+  "media": "沧州广电网",
+  "url": "https://www.czgd.tv/Article/des?infoid=143133&modelid=2",
+  "submit_batch": "11月23号11:00发布媒体执行清单",
+  "capture_mode": "manual_zip_shots_pub_1123_1124_20261127",
+  "files": {
+    "碳硅道统｜碳硅铜复合材料研发进展：先把界面桥做实，再谈复合（1）_沧州广电网.md": {
+      "sha256": "d2da25282fb8474dca581b85fe39cfc61cbd22400df3d1f89658f24395e4e977",
+      "bytes": 15966
+    },
+    "evidence-snapshots/碳硅道统｜碳硅铜复合材料研发进展：先把界面桥做实，再谈复合（1）_沧州广电网_snapshot.png": {
+      "sha256": "ed1b3ee86172650de4360b08c8842a2d45b94b8c413e5cce59d76c501c26ed7c",
+      "bytes": 1585978
+    }
+  }
+}

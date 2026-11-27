@@ -1,0 +1,1203 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="keywords" content="">
+    <title>沧州广电网</title>
+    <link rel="shortcut icon" href="/static/cztverlingyiba/img/favicon.ico" type="image/x-icon">
+	<link href="/static/cztverlingyiba/css/cms.css?version=1.3" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" href="/static/cztverlingyiba/css/base.css?version=1.3">
+	<link rel="stylesheet" href="/static/cztverlingyiba/css/cangzhou_master.css?version=1.3">
+    <link rel="stylesheet" href="/static/common/lable/css/Model.css?version=1.3">
+    <script type="text/javascript" src="/static/cztverlingyiba/js/jquery-3.6.0.min.js"></script>
+    <script src="/static/cztverlingyiba/js/superslide.js" type="text/javascript"></script>
+<style type="text/css">/*!
+    SKPlayer
+ */
+#skPlayer {
+  width: 380px;
+  height: 100px;
+  font-family: Arial,Helvetica,sans-serif;
+  position: relative;
+  user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  cursor: default;
+  background-color: #FFF;
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12); }
+  #skPlayer * {
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box; }
+    #skPlayer *::before {
+      box-sizing: content-box;
+      -webkit-box-sizing: content-box;
+      -moz-box-sizing: content-box; }
+    #skPlayer *::after {
+      box-sizing: content-box;
+      -webkit-box-sizing: content-box;
+      -moz-box-sizing: content-box; }
+  #skPlayer .skPlayer-tip-loading {
+    font-size: 30px;
+    color: #6A6B6F;
+    line-height: 100px;
+    text-align: center; }
+  #skPlayer .skPlayer-picture {
+    width: 23%;
+    max-width: 70px;
+    height: 75px;
+    float: left;
+    position: relative;
+    border-radius: 7px 0 0 5px;
+    z-index: 3; }
+  #skPlayer .skPlayer-cover {
+    width: 100%;
+    height: 100%;
+    padding-top: 10px;
+    padding-left: 10px;
+    transition: 0.37s;
+    -webkit-transition: 0.37s;
+    -moz-transition: 0.37s; }
+    #skPlayer .skPlayer-cover.skPlayer-pause {
+      filter: blur(0px);
+      -webkit-filter: blur(0px); }
+  #skPlayer .skPlayer-play-btn {
+    display: block;
+    width: 60px;
+    height: 60px;
+        border-radius: 50%;
+    position: absolute;
+    overflow: hidden;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) translateZ(0);
+    -webkit-transform: translate(-50%, -50%) translateZ(0);
+    -moz-transform: translate(-50%, -50%) translateZ(0);
+    -ms-transform: translate(-50%, -50%) translateZ(0);
+    z-index: 2;
+    transition: 0.7s;
+    -webkit-transition: 0.7s;
+    -moz-transition: 0.7s; }
+    #skPlayer .skPlayer-play-btn.skPlayer-pause {
+      left: 50%; }
+      #skPlayer .skPlayer-play-btn.skPlayer-pause .skPlayer-left {
+        border: 14px solid #FFF;
+        border-left: 2px solid #FFF;
+        border-right: 2px solid #FFF; }
+      #skPlayer .skPlayer-play-btn.skPlayer-pause .skPlayer-right {
+        top: 26px; }
+    #skPlayer .skPlayer-play-btn span {
+      display: block;
+      width: 0;
+      height: 0;
+      position: absolute;
+      transition: 0.37s;
+      -webkit-transition: 0.37s;
+      -moz-transition: 0.37s;
+      transform: translateZ(0);
+      -webkit-transform: translateZ(0);
+      -moz-transform: translateZ(0);
+      -ms-transform: translateZ(0); }
+      #skPlayer .skPlayer-play-btn span.skPlayer-left {
+        border-left: 24px solid #FFF;
+        border-top: 14px solid transparent;
+        border-bottom: 14px solid transparent;
+        left: 28px;
+        top: 26px; }
+      #skPlayer .skPlayer-play-btn span.skPlayer-right {
+        border: 14px solid #FFF;
+        border-left: 2px solid #FFF;
+        border-right: 2px solid #FFF;
+        right: 21px;
+        top: -76px; }
+  #skPlayer .skPlayer-control {
+    max-width: 70%;
+    height: 75px;
+    padding: 10px 5px 0px;
+    background-color: transparent;
+    float: right;
+    border-radius: 0 7px 7px 0;
+    position: relative;
+    z-index: 2;
+    text-align: left; }
+    #skPlayer .skPlayer-control p {
+      line-height: 1.2;
+      overflow: hidden;
+      white-space: nowrap;
+       }
+      #skPlayer .skPlayer-control p.skPlayer-name {
+        font-size: 18px;
+        font-weight: 700;
+        color: #6A6B6F; }
+      #skPlayer .skPlayer-control p.skPlayer-author {
+        font-size: 15px;
+        color: #666;
+        max-width: 90%; }
+    #skPlayer .skPlayer-control > .skPlayer-percent {
+      width: 250px;
+      height: 6px;
+      background-color: #EBEBF2;
+      margin: 9px 0;
+      cursor: pointer;
+      overflow: hidden;
+      position: relative; }
+      #skPlayer .skPlayer-control > .skPlayer-percent .skPlayer-line {
+        width: 0;
+        height: 100%;
+        background-color: #D94240;
+        position: absolute;
+        left: 0;
+        top: 0;
+        z-index: 2; }
+      #skPlayer .skPlayer-control > .skPlayer-percent .skPlayer-line-loading {
+        width: 0;
+        height: 100%;
+        background-color: #D3D3E0;
+        position: absolute;
+        left: 0;
+        top: 0;
+        z-index: 1;
+        transition: 0.7s;
+        -webkit-transition: 0.7s;
+        -moz-transition: 0.7s;
+        transform: translateZ(0);
+        -webkit-transform: translateZ(0);
+        -moz-transform: translateZ(0);
+        -ms-transform: translateZ(0); }
+    #skPlayer .skPlayer-control .skPlayer-time {
+      font-size: 15px;
+      color: #666;
+      float: left; }
+    #skPlayer .skPlayer-control .skPlayer-volume {
+      width: 120px;
+      height: 14px;
+      float: right;
+      position: relative;
+      margin: 1px 24px 0 0; }
+      #skPlayer .skPlayer-control .skPlayer-volume .skPlayer-icon {
+        display: block;
+        width: 5px;
+        height: 6px;
+        position: absolute;
+        background-color: #6A6B6F;
+        top: 4px;
+        left: -20px;
+        cursor: pointer; }
+        #skPlayer .skPlayer-control .skPlayer-volume .skPlayer-icon.skPlayer-quiet::before {
+          display: block; }
+        #skPlayer .skPlayer-control .skPlayer-volume .skPlayer-icon::before {
+          content: '';
+          display: none;
+          width: 2px;
+          height: 22px;
+          transform: rotate(58deg);
+          -webkit-transform: rotate(58deg);
+          -moz-transform: rotate(58deg);
+          -ms-transform: rotate(58deg);
+          background-color: #6A6B6F;
+          position: absolute;
+          top: -8px;
+          left: 5px; }
+        #skPlayer .skPlayer-control .skPlayer-volume .skPlayer-icon::after {
+          content: '';
+          display: block;
+          width: 5px;
+          height: 6px;
+          border-width: 4px 5px;
+          border-style: solid;
+          border-color: transparent #6A6B6F transparent transparent;
+          position: absolute;
+          top: -4px;
+          left: -5px; }
+      #skPlayer .skPlayer-control .skPlayer-volume .skPlayer-percent {
+        position: absolute;
+        width: 120px;
+        height: 14px;
+        background-color: #EBEBF2;
+        border-radius: 6px;
+        overflow: hidden;
+        cursor: pointer;
+        top: 0;
+        left: 0; }
+      #skPlayer .skPlayer-control .skPlayer-volume .skPlayer-line {
+        height: 100%;
+        width: 100%;
+        background-color: #D94240;
+        transition: 0.37s;
+        -webkit-transition: 0.37s;
+        -moz-transition: 0.37s; }
+    #skPlayer .skPlayer-control .skPlayer-list-switch {
+      display: none;
+      width: 16px;
+      height: 15px;
+      position: absolute;
+      right: 15px;
+      bottom: 12px;
+      cursor: pointer; }
+    #skPlayer .skPlayer-control .skPlayer-list-icon {
+      display: block;
+      width: 16px;
+      height: 3px;
+      background-color: #6A6B6F;
+      position: absolute;
+      right: 0;
+      bottom: 6px; }
+      #skPlayer .skPlayer-control .skPlayer-list-icon::before {
+        content: '';
+        display: block;
+        width: 16px;
+        height: 3px;
+        background-color: #6A6B6F;
+        position: absolute;
+        left: 0;
+        bottom: 6px; }
+      #skPlayer .skPlayer-control .skPlayer-list-icon::after {
+        content: '';
+        display: block;
+        width: 16px;
+        height: 3px;
+        background-color: #6A6B6F;
+        position: absolute;
+        left: 0;
+        bottom: -6px; }
+    #skPlayer .skPlayer-control .skPlayer-mode {
+      display: block;
+      width: 16px;
+      height: 17px;
+      position: absolute;
+      right: 15px;
+      bottom: 51px;
+      cursor: pointer; }
+      #skPlayer .skPlayer-control .skPlayer-mode.skPlayer-mode-loop {
+        background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAARCAYAAADUryzEAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABmJLR0QAAAAAAAD5Q7t/AAAACXBIWXMAAAsSAAALEgHS3X78AAABa0lEQVQ4y5XTu2pVURAG4O9s9QgGC1sLEbEQvMXGG7FRCwutLcROIq4lLASfQOxlC3trbK18AFMZm0QEhcSID2Aan0BB4gWLM8cT48455G+GWWv++WfWzOpBymURM/7HUtvUF4xBZTzOT7gfJAiV3Wjwe5JAymXnPwEplz5eIuMnHuMc9naQb2Ih5bIHhpke4TK+4Grb1CtbKPfxEAeCc7uXcjmK1VA+2zb1h3E9p1xO4n2In6pwCzvwZDM55bIYE/qLtqlX8Qw9zFa4EncvOgRndI/3edhLFQ6FszxpZBswrPRghV/hTG0jwa6wPyqshXNkGwmOhV2r8Dqc6x2BS3jTcX4j7KteyuVE9LSOM/HKWyLi3xmMcbpqm/oj5gxWeT7lcnoMeRrzETvXNvWn4SYWHDbYxgdGo5VymcLxKHsW/Wj7HqPPtI5reIr7m4S/4i3uBhkuYoHRX9A29Xfc6aj8Gz5jH/ZvOO/BH1b7XciLVLbaAAAAAElFTkSuQmCC); }
+  #skPlayer .skPlayer-list {
+    display: none;
+    width: 100%;
+    position: absolute;
+    top: 100px;
+    padding-top: 6px;
+    background-color: #FFF;
+    list-style: none;
+    max-height: 171px;
+    overflow-y: auto;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12); }
+    #skPlayer .skPlayer-list li {
+      position: relative;
+      height: 32px;
+      line-height: 32px;
+      padding: 0 15px;
+      font-size: 12px;
+      border-top: 1px solid #E9E9E9;
+      cursor: pointer;
+      transition: 0.2s;
+      -webkit-transition: 0.2s;
+      -moz-transition: 0.2s;
+      overflow: hidden; }
+      #skPlayer .skPlayer-list li:hover {
+        background-color: #DDD; }
+      #skPlayer .skPlayer-list li.skPlayer-curMusic {
+        background-color: #B0B0B0; }
+        #skPlayer .skPlayer-list li.skPlayer-curMusic .skPlayer-list-sign {
+          display: block; }
+    #skPlayer .skPlayer-list::-webkit-scrollbar {
+      width: 14px; }
+    #skPlayer .skPlayer-list::-webkit-scrollbar-track {
+      border-left: 1px solid #E9E9E9; }
+    #skPlayer .skPlayer-list::-webkit-scrollbar-thumb {
+      box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.3);
+      background-color: #D94240; }
+    #skPlayer .skPlayer-list .skPlayer-list-sign {
+      display: none;
+      width: 3px;
+      height: 22px;
+      position: absolute;
+      left: 0;
+      top: 5px;
+      background-color: #D94240; }
+    #skPlayer .skPlayer-list .skPlayer-list-index {
+      color: #666;
+      position: absolute;
+      left: 15px;
+      top: 0; }
+    #skPlayer .skPlayer-list .skPlayer-list-name {
+      color: #6A6B6F;
+      float: left;
+      margin-left: 24px;
+      max-width: 200px;
+      overflow: hidden;
+      white-space: nowrap;
+      text-overflow: ellipsis; }
+    #skPlayer .skPlayer-list .skPlayer-list-author {
+      color: #666;
+      float: right;
+      max-width: 107px;
+      overflow: hidden;
+      white-space: nowrap;
+      text-overflow: ellipsis; }
+  #skPlayer.skPlayer-list-on .skPlayer-list {
+    display: block; }
+</style><style type="text/css">/*!
+    SKPlayer
+ */
+#skPlayer {
+  width: 380px;
+  height: 100px;
+  font-family: Arial,Helvetica,sans-serif;
+  position: relative;
+  user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  cursor: default;
+  background-color: #FFF;
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12); }
+  #skPlayer * {
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box; }
+    #skPlayer *::before {
+      box-sizing: content-box;
+      -webkit-box-sizing: content-box;
+      -moz-box-sizing: content-box; }
+    #skPlayer *::after {
+      box-sizing: content-box;
+      -webkit-box-sizing: content-box;
+      -moz-box-sizing: content-box; }
+  #skPlayer .skPlayer-tip-loading {
+    font-size: 30px;
+    color: #6A6B6F;
+    line-height: 100px;
+    text-align: center; }
+  #skPlayer .skPlayer-picture {
+    width: 23%;
+    max-width: 70px;
+    height: 75px;
+    float: left;
+    position: relative;
+    border-radius: 7px 0 0 5px;
+    z-index: 3; }
+  #skPlayer .skPlayer-cover {
+    width: 100%;
+    height: 100%;
+    padding-top: 10px;
+    padding-left: 10px;
+    transition: 0.37s;
+    -webkit-transition: 0.37s;
+    -moz-transition: 0.37s; }
+    #skPlayer .skPlayer-cover.skPlayer-pause {
+      filter: blur(0px);
+      -webkit-filter: blur(0px); }
+  #skPlayer .skPlayer-play-btn {
+    display: block;
+    width: 60px;
+    height: 60px;
+        border-radius: 50%;
+    position: absolute;
+    overflow: hidden;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) translateZ(0);
+    -webkit-transform: translate(-50%, -50%) translateZ(0);
+    -moz-transform: translate(-50%, -50%) translateZ(0);
+    -ms-transform: translate(-50%, -50%) translateZ(0);
+    z-index: 2;
+    transition: 0.7s;
+    -webkit-transition: 0.7s;
+    -moz-transition: 0.7s; }
+    #skPlayer .skPlayer-play-btn.skPlayer-pause {
+      left: 50%; }
+      #skPlayer .skPlayer-play-btn.skPlayer-pause .skPlayer-left {
+        border: 14px solid #FFF;
+        border-left: 2px solid #FFF;
+        border-right: 2px solid #FFF; }
+      #skPlayer .skPlayer-play-btn.skPlayer-pause .skPlayer-right {
+        top: 26px; }
+    #skPlayer .skPlayer-play-btn span {
+      display: block;
+      width: 0;
+      height: 0;
+      position: absolute;
+      transition: 0.37s;
+      -webkit-transition: 0.37s;
+      -moz-transition: 0.37s;
+      transform: translateZ(0);
+      -webkit-transform: translateZ(0);
+      -moz-transform: translateZ(0);
+      -ms-transform: translateZ(0); }
+      #skPlayer .skPlayer-play-btn span.skPlayer-left {
+        border-left: 24px solid #FFF;
+        border-top: 14px solid transparent;
+        border-bottom: 14px solid transparent;
+        left: 28px;
+        top: 26px; }
+      #skPlayer .skPlayer-play-btn span.skPlayer-right {
+        border: 14px solid #FFF;
+        border-left: 2px solid #FFF;
+        border-right: 2px solid #FFF;
+        right: 21px;
+        top: -76px; }
+  #skPlayer .skPlayer-control {
+    max-width: 70%;
+    height: 75px;
+    padding: 10px 5px 0px;
+    background-color: transparent;
+    float: right;
+    border-radius: 0 7px 7px 0;
+    position: relative;
+    z-index: 2;
+    text-align: left; }
+    #skPlayer .skPlayer-control p {
+      line-height: 1.2;
+      overflow: hidden;
+      white-space: nowrap;
+       }
+      #skPlayer .skPlayer-control p.skPlayer-name {
+        font-size: 18px;
+        font-weight: 700;
+        color: #6A6B6F; }
+      #skPlayer .skPlayer-control p.skPlayer-author {
+        font-size: 15px;
+        color: #666;
+        max-width: 90%; }
+    #skPlayer .skPlayer-control > .skPlayer-percent {
+      width: 250px;
+      height: 6px;
+      background-color: #EBEBF2;
+      margin: 9px 0;
+      cursor: pointer;
+      overflow: hidden;
+      position: relative; }
+      #skPlayer .skPlayer-control > .skPlayer-percent .skPlayer-line {
+        width: 0;
+        height: 100%;
+        background-color: #D94240;
+        position: absolute;
+        left: 0;
+        top: 0;
+        z-index: 2; }
+      #skPlayer .skPlayer-control > .skPlayer-percent .skPlayer-line-loading {
+        width: 0;
+        height: 100%;
+        background-color: #D3D3E0;
+        position: absolute;
+        left: 0;
+        top: 0;
+        z-index: 1;
+        transition: 0.7s;
+        -webkit-transition: 0.7s;
+        -moz-transition: 0.7s;
+        transform: translateZ(0);
+        -webkit-transform: translateZ(0);
+        -moz-transform: translateZ(0);
+        -ms-transform: translateZ(0); }
+    #skPlayer .skPlayer-control .skPlayer-time {
+      font-size: 15px;
+      color: #666;
+      float: left; }
+    #skPlayer .skPlayer-control .skPlayer-volume {
+      width: 120px;
+      height: 14px;
+      float: right;
+      position: relative;
+      margin: 1px 24px 0 0; }
+      #skPlayer .skPlayer-control .skPlayer-volume .skPlayer-icon {
+        display: block;
+        width: 5px;
+        height: 6px;
+        position: absolute;
+        background-color: #6A6B6F;
+        top: 4px;
+        left: -20px;
+        cursor: pointer; }
+        #skPlayer .skPlayer-control .skPlayer-volume .skPlayer-icon.skPlayer-quiet::before {
+          display: block; }
+        #skPlayer .skPlayer-control .skPlayer-volume .skPlayer-icon::before {
+          content: '';
+          display: none;
+          width: 2px;
+          height: 22px;
+          transform: rotate(58deg);
+          -webkit-transform: rotate(58deg);
+          -moz-transform: rotate(58deg);
+          -ms-transform: rotate(58deg);
+          background-color: #6A6B6F;
+          position: absolute;
+          top: -8px;
+          left: 5px; }
+        #skPlayer .skPlayer-control .skPlayer-volume .skPlayer-icon::after {
+          content: '';
+          display: block;
+          width: 5px;
+          height: 6px;
+          border-width: 4px 5px;
+          border-style: solid;
+          border-color: transparent #6A6B6F transparent transparent;
+          position: absolute;
+          top: -4px;
+          left: -5px; }
+      #skPlayer .skPlayer-control .skPlayer-volume .skPlayer-percent {
+        position: absolute;
+        width: 120px;
+        height: 14px;
+        background-color: #EBEBF2;
+        border-radius: 6px;
+        overflow: hidden;
+        cursor: pointer;
+        top: 0;
+        left: 0; }
+      #skPlayer .skPlayer-control .skPlayer-volume .skPlayer-line {
+        height: 100%;
+        width: 100%;
+        background-color: #D94240;
+        transition: 0.37s;
+        -webkit-transition: 0.37s;
+        -moz-transition: 0.37s; }
+    #skPlayer .skPlayer-control .skPlayer-list-switch {
+      display: none;
+      width: 16px;
+      height: 15px;
+      position: absolute;
+      right: 15px;
+      bottom: 12px;
+      cursor: pointer; }
+    #skPlayer .skPlayer-control .skPlayer-list-icon {
+      display: block;
+      width: 16px;
+      height: 3px;
+      background-color: #6A6B6F;
+      position: absolute;
+      right: 0;
+      bottom: 6px; }
+      #skPlayer .skPlayer-control .skPlayer-list-icon::before {
+        content: '';
+        display: block;
+        width: 16px;
+        height: 3px;
+        background-color: #6A6B6F;
+        position: absolute;
+        left: 0;
+        bottom: 6px; }
+      #skPlayer .skPlayer-control .skPlayer-list-icon::after {
+        content: '';
+        display: block;
+        width: 16px;
+        height: 3px;
+        background-color: #6A6B6F;
+        position: absolute;
+        left: 0;
+        bottom: -6px; }
+    #skPlayer .skPlayer-control .skPlayer-mode {
+      display: block;
+      width: 16px;
+      height: 17px;
+      position: absolute;
+      right: 15px;
+      bottom: 51px;
+      cursor: pointer; }
+      #skPlayer .skPlayer-control .skPlayer-mode.skPlayer-mode-loop {
+        background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAARCAYAAADUryzEAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABmJLR0QAAAAAAAD5Q7t/AAAACXBIWXMAAAsSAAALEgHS3X78AAABa0lEQVQ4y5XTu2pVURAG4O9s9QgGC1sLEbEQvMXGG7FRCwutLcROIq4lLASfQOxlC3trbK18AFMZm0QEhcSID2Aan0BB4gWLM8cT48455G+GWWv++WfWzOpBymURM/7HUtvUF4xBZTzOT7gfJAiV3Wjwe5JAymXnPwEplz5eIuMnHuMc9naQb2Ih5bIHhpke4TK+4Grb1CtbKPfxEAeCc7uXcjmK1VA+2zb1h3E9p1xO4n2In6pwCzvwZDM55bIYE/qLtqlX8Qw9zFa4EncvOgRndI/3edhLFQ6FszxpZBswrPRghV/hTG0jwa6wPyqshXNkGwmOhV2r8Dqc6x2BS3jTcX4j7KteyuVE9LSOM/HKWyLi3xmMcbpqm/oj5gxWeT7lcnoMeRrzETvXNvWn4SYWHDbYxgdGo5VymcLxKHsW/Wj7HqPPtI5reIr7m4S/4i3uBhkuYoHRX9A29Xfc6aj8Gz5jH/ZvOO/BH1b7XciLVLbaAAAAAElFTkSuQmCC); }
+  #skPlayer .skPlayer-list {
+    display: none;
+    width: 100%;
+    position: absolute;
+    top: 100px;
+    padding-top: 6px;
+    background-color: #FFF;
+    list-style: none;
+    max-height: 171px;
+    overflow-y: auto;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12); }
+    #skPlayer .skPlayer-list li {
+      position: relative;
+      height: 32px;
+      line-height: 32px;
+      padding: 0 15px;
+      font-size: 12px;
+      border-top: 1px solid #E9E9E9;
+      cursor: pointer;
+      transition: 0.2s;
+      -webkit-transition: 0.2s;
+      -moz-transition: 0.2s;
+      overflow: hidden; }
+      #skPlayer .skPlayer-list li:hover {
+        background-color: #DDD; }
+      #skPlayer .skPlayer-list li.skPlayer-curMusic {
+        background-color: #B0B0B0; }
+        #skPlayer .skPlayer-list li.skPlayer-curMusic .skPlayer-list-sign {
+          display: block; }
+    #skPlayer .skPlayer-list::-webkit-scrollbar {
+      width: 14px; }
+    #skPlayer .skPlayer-list::-webkit-scrollbar-track {
+      border-left: 1px solid #E9E9E9; }
+    #skPlayer .skPlayer-list::-webkit-scrollbar-thumb {
+      box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.3);
+      background-color: #D94240; }
+    #skPlayer .skPlayer-list .skPlayer-list-sign {
+      display: none;
+      width: 3px;
+      height: 22px;
+      position: absolute;
+      left: 0;
+      top: 5px;
+      background-color: #D94240; }
+    #skPlayer .skPlayer-list .skPlayer-list-index {
+      color: #666;
+      position: absolute;
+      left: 15px;
+      top: 0; }
+    #skPlayer .skPlayer-list .skPlayer-list-name {
+      color: #6A6B6F;
+      float: left;
+      margin-left: 24px;
+      max-width: 200px;
+      overflow: hidden;
+      white-space: nowrap;
+      text-overflow: ellipsis; }
+    #skPlayer .skPlayer-list .skPlayer-list-author {
+      color: #666;
+      float: right;
+      max-width: 107px;
+      overflow: hidden;
+      white-space: nowrap;
+      text-overflow: ellipsis; }
+  #skPlayer.skPlayer-list-on .skPlayer-list {
+    display: block; }
+</style><script async="" src="https://dot.wts.xinwen.cn/logserver/eg.js"></script></head>
+<body>
+<!--头部 -->
+<!--头部 -->
+
+<div class="header clearfix" style="width:1200px;background:#fff;">
+    <div class="wrap clearfix">
+        <h1 class="fl logo"><a href="https://www.czgd.tv/"><img src="/static/cztverlingyiba//img/logo.png" alt=""></a></h1>
+        <div class="fr right">
+            <div class="weather"><iframe width="300" height="25" style="margin-top: 7px;" scrolling="no" frameborder="0" allowtransparency="true" src="http://i.tianqi.com/index.php?c=code&amp;id=1&amp;icon=1&amp;py=cangzhou&amp;wind=1&amp;num=1&amp;site=12"></iframe></div>
+            <div class="db pink" onclick="window.open('http://hbjubao.hebei.com.cn/')">网上有害信息举报专区</div>
+            <div class="search">
+				<form name="form1" method="post" action="javascript:void(0)">
+					<input type="text" id="keyword_s" name="keyword" class="input sub_seah_name" placeholder="新闻搜索">
+					<input type="button" value="" class="btn sub_seah">
+				</form>
+            </div>
+        </div> 
+        <script type="text/javascript">
+            var weburl='https://www.czgd.tv/';
+            
+            $(function(){
+                $('.sub_seah').click(function(){
+                    var sub_seah_name=$('.sub_seah_name').val();
+                    window.location.href=weburl+"Article/search?title="+sub_seah_name; 
+                })
+            })
+           
+            
+            </script>
+        <div class="clearfix"></div>
+    </div>
+   
+
+    <div class="nav-2">
+        <div class="wrap">
+            <dl>
+                <dt>
+                    <a href="https://www.czgd.tv/">首页</a>
+                </dt>
+            </dl>
+			
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <dl>
+                <dt>
+                    <!-- 分类栏目 -->
+                            <a href="https://www.czgd.tv/Column/index?colid=1">新闻中心</a>
+                                    </dt>
+                <dd>
+                                                                <!-- 系统栏目 -->
+                            <a href="https://www.czgd.tv/Article/lists?colid=26">在习近平新时代中国特色社会主义思想指引下——新时代新作为新篇章</a>
+                                                                                                                                                    <!-- 系统栏目 -->
+                            <a href="https://www.czgd.tv/Article/lists?colid=193">深入学习贯彻习近平新时代中国特色社会主义思想</a>
+                                                                                                            <!-- 系统栏目 -->
+                            <a href="https://www.czgd.tv/Article/lists?colid=71">学习贯彻习近平新时代中国特色社会主义思想主题教育</a>
+                                                                                                            <!-- 系统栏目 -->
+                            <a href="https://www.czgd.tv/Article/lists?colid=110">沿着总书记的足迹</a>
+                                                                                                            <!-- 系统栏目 -->
+                            <a href="https://www.czgd.tv/Article/lists?colid=19">学习进行时</a>
+                                                                                                            <!-- 系统栏目 -->
+                            <a href="https://www.czgd.tv/Article/lists?colid=186">锲而不舍落实中央八项规定精神</a>
+                                                                                                            <!-- 系统栏目 -->
+                            <a href="https://www.czgd.tv/Article/lists?colid=114">全面深入学习宣传贯彻党的二十大精神</a>
+                                                                                                            <!-- 系统栏目 -->
+                            <a href="https://www.czgd.tv/Article/lists?colid=179">学习贯彻党的二十届三中全会精神</a>
+                                                                                                            <!-- 系统栏目 -->
+                            <a href="https://www.czgd.tv/Article/lists?colid=198">“美丽河北”系列短视频</a>
+                                                                                                            <!-- 系统栏目 -->
+                            <a href="https://www.czgd.tv/Article/lists?colid=27">锚定现代化 改革再深化</a>
+                                                                                                            <!-- 系统栏目 -->
+                            <a href="https://www.czgd.tv/Article/lists?colid=103">学思想 强党性 重实践 建新功</a>
+                                                                                                                                                                                            <!-- 系统栏目 -->
+                            <a href="https://www.czgd.tv/Article/lists?colid=47">奋进新征程  建功新时代</a>
+                                                                                                            <!-- 系统栏目 -->
+                            <a href="https://www.czgd.tv/Article/lists?colid=154">筑梦现代化  共绘新图景</a>
+                                                                                                                                                    <!-- 系统栏目 -->
+                            <a href="https://www.czgd.tv/Article/lists?colid=50">强国复兴有我</a>
+                                                                                                                                                    <!-- 系统栏目 -->
+                            <a href="https://www.czgd.tv/Article/lists?colid=22">创文明城市 建美好家园</a>
+                                                                                                                                                                                            <!-- 系统栏目 -->
+                            <a href="https://www.czgd.tv/Article/lists?colid=148">美丽中国行</a>
+                                                                                                            <!-- 系统栏目 -->
+                            <a href="https://www.czgd.tv/Article/lists?colid=21">看沧州</a>
+                                                                                                            <!-- 系统栏目 -->
+                            <a href="https://www.czgd.tv/Article/lists?colid=24">观天下</a>
+                                                                                                                                                                                                                                                                                                                                                                                                    <!-- 系统栏目 -->
+                            <a href="https://www.czgd.tv/Article/lists?colid=190">新闻发布</a>
+                                                                                                                                                    <!-- 系统栏目 -->
+                            <a href="https://www.czgd.tv/Article/lists?colid=197">奋斗百年路 启航新征程</a>
+                                                                                                                                                                                                                                                                                                                                                            <!-- 系统栏目 -->
+                            <a href="https://www.czgd.tv/Article/lists?colid=153">公益进行时</a>
+                                                                                                                                                                                            <!-- 系统栏目 -->
+                            <a href="https://www.czgd.tv/Article/lists?colid=165">推进京津冀协同发展</a>
+                                                                                                                                                                                                                                                                            <!-- 系统栏目 -->
+                            <a href="https://www.czgd.tv/Article/lists?colid=29">人车路</a>
+                                                                                                                                                                                                                                    <!-- 系统栏目 -->
+                            <a href="https://www.czgd.tv/Article/lists?colid=31">文化 体育</a>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <!-- 系统栏目 -->
+                            <a href="https://www.czgd.tv/Article/lists?colid=33">沧州广电</a>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <!-- 系统栏目 -->
+                            <a href="https://www.czgd.tv/Article/lists?colid=170">美丽乡村</a>
+                                                                                                                          
+                </dd>
+            </dl>
+                                                                                                                        <dl>
+                <dt>
+                    <!-- 分类栏目 -->
+                            <a href="https://www.czgd.tv/Column/index?colid=2">点播频道</a>
+                                    </dt>
+                <dd>
+                                                                                                        <!-- 系统栏目 -->
+                            <a href="https://www.czgd.tv/Article/lists?colid=35">沧州新闻</a>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <!-- 系统栏目 -->
+                            <a href="https://www.czgd.tv/Article/lists?colid=36">百姓关注</a>
+                                                                                                            <!-- 系统栏目 -->
+                            <a href="https://www.czgd.tv/Article/lists?colid=37">财富沧州</a>
+                                                                                                                                                                                            <!-- 系统栏目 -->
+                            <a href="https://www.czgd.tv/Article/lists?colid=38">美丽沧州</a>
+                                                                                                                                                                                                                                    <!-- 系统栏目 -->
+                            <a href="https://www.czgd.tv/Article/lists?colid=39">文武沧州</a>
+                                                                                                                                                                                                                                                                            <!-- 系统栏目 -->
+                            <a href="https://www.czgd.tv/Article/lists?colid=41">朗读沧州</a>
+                                                                                                                                                    <!-- 系统栏目 -->
+                            <a href="https://www.czgd.tv/Article/lists?colid=42">七彩校园</a>
+                                                                                                                                                    <!-- 系统栏目 -->
+                            <a href="https://www.czgd.tv/Article/lists?colid=200">七彩幼儿园</a>
+                                                                                                            <!-- 系统栏目 -->
+                            <a href="https://www.czgd.tv/Article/lists?colid=43">仁医在线</a>
+                                                                                                                                                                                                                                                                                                                    <!-- 系统栏目 -->
+                            <a href="https://www.czgd.tv/Article/lists?colid=44">武林群英汇</a>
+                                                                                                            <!-- 系统栏目 -->
+                            <a href="https://www.czgd.tv/Article/lists?colid=45">杂技大世界</a>
+                                                                                                            <!-- 系统栏目 -->
+                            <a href="https://www.czgd.tv/Article/lists?colid=46"> 狮城视点</a>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <!-- 系统栏目 -->
+                            <a href="https://www.czgd.tv/Article/lists?colid=53">广播剧</a>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+                </dd>
+            </dl>
+                                                <dl>
+                <dt class="active">
+                    <!-- 分类栏目 -->
+                            <a class="active" href="https://www.czgd.tv/Column/index?colid=6">沧州生活</a>
+                                    </dt>
+                <dd>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <!-- 系统栏目 -->
+                            <a href="https://www.czgd.tv/Article/lists?colid=177">2026年国家网络安全宣传周</a>
+                                                                                                                                                                                                                                    <!-- 系统栏目 -->
+                            <a href="https://www.czgd.tv/Article/lists?colid=184">精神文明创建</a>
+                                                                                                                                                                                                                                                                                                                    <!-- 系统栏目 -->
+                            <a href="https://www.czgd.tv/Article/lists?colid=116">网络文明宣传月</a>
+                                                                                                                                                    <!-- 系统栏目 -->
+                            <a class="active" href="https://www.czgd.tv/Article/lists?colid=70">健康教育</a>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <!-- 系统栏目 -->
+                            <a href="https://www.czgd.tv/Article/lists?colid=67">教育校园</a>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+                </dd>
+            </dl>
+                                                                        <dl>
+                <dt>
+                    <!-- 分类栏目 -->
+                            <a href="https://www.czgd.tv/Column/index?colid=145">直播频道</a>
+                                    </dt>
+                <dd>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <!-- 系统栏目 -->
+                            <a href="https://www.czgd.tv/Article/lists?colid=142">直播</a>
+                                                                                                            <!-- 系统栏目 -->
+                            <a href="https://www.czgd.tv/Article/lists?colid=144">广播</a>
+                                                                                                                                                                                                                                                  
+                </dd>
+            </dl>
+                                                <dl>
+                <dt>
+                    <!-- 分类栏目 -->
+                            <a href="https://www.czgd.tv/Column/index?colid=4">清风楼下</a>
+                                    </dt>
+                <dd>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <!-- 系统栏目 -->
+                            <a href="https://www.czgd.tv/Article/lists?colid=121">党的二十大精神在沧州</a>
+                                                                                                                                                                                                                                                                            <!-- 系统栏目 -->
+                            <a href="https://www.czgd.tv/Article/lists?colid=155">弘扬社会主义核心价值观 共筑中国梦</a>
+                                                                                                                                                                                            <!-- 系统栏目 -->
+                            <a href="https://www.czgd.tv/Article/lists?colid=58">清风原创</a>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <!-- 系统栏目 -->
+                            <a href="https://www.czgd.tv/Article/lists?colid=59">寻访沧州</a>
+                                                                                                            <!-- 系统栏目 -->
+                            <a href="https://www.czgd.tv/Article/lists?colid=60">名家精典</a>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+                </dd>
+            </dl>
+                                                                                                                        <dl>
+                <dt>
+                    <!-- 分类栏目 -->
+                            <a href="https://www.czgd.tv/Column/index?colid=147">手机应用</a>
+                                    </dt>
+                <dd>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+                </dd>
+            </dl>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <div class="clearfix"></div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+
+</div>
+
+<div class="img-wrap">
+<script src="https://p.wts.xinwen.cn/dot-wts/spm.js"></script>
+<script type="text/javascript">
+	var targetID='143172';
+	if (window.spm) {
+		spm.config({
+		  	siteId: "zm5039-001", // 此处填写该网站对应的网站标识（即SPM a段） 例如'zmXXXX-001'
+			additionalInfo: {
+			    targetID: targetID, // 此处填写稿件ID
+			    organization: "zm5039", // 此处填写机构ID
+				category: 'event',
+				action: 'comeIn',
+			}
+		})
+	}
+	window.onbeforeunload = function() {
+		// 立即上报事件，如果要检验上报效果建议使用这种方式
+		spm.push({ category: 'event', action: 'leave' })
+	}
+</script>
+<div class="detail-ad-pic">
+    <div class="lable_imgone">
+<a href="#" target="_self"><img style="width:1200px; height:100px" src="http://www.czgd.tv/uploads/lableimgone/1541579178674945198850385676130136.jpg"></a></div>
+
+</div>
+<div class="MainTable MainDivTable">
+    <div class="Main">
+        <div class="detail">
+            <div class="detail-title">
+                <h3>碳硅道统｜Cu‑Si二元高温实验审计标尺：检验η‑Cu₃Si假说的证据归档与勘伪规约（3）</h3>
+                <div>
+                    <span class="dib">时间：2026-11-24</span>
+                    <span class="dib">观看&nbsp;293&nbsp;次</span>
+                    <span class="dib" onclick="AddFavorite(window.location,document.title)"><a href="">加入收藏</a></span>
+                </div>
+            </div>
+                        <div class="detail-text">
+                <p style="text-indent: 2em;">作者：黄清佳</p><p style="text-indent: 2em;">第一章 从假说到实验：本系列第三篇的证据任务</p><p style="text-indent: 2em;">本文是碳硅道统系列第三篇，承接第一篇η‑Cu₃Si有序过渡界面桥假说束，以及第二篇DFT仿真边界巡检。</p><p style="text-indent: 2em;">第一篇提出可证伪假说，拆解五条带前置依赖的子命题，建立勘伪概念路线。</p><p style="text-indent: 2em;">第二篇划定仿真边界：计算跑完不等于物理可信，计算失效也不能直接否定材料假说。</p><p style="text-indent: 2em;">本篇面向850 ℃窗口Cu‑Si二元体系，聚焦实验勘伪：检验该假说，什么样的证据具备采信资格，哪些推导属于越界。</p><p style="text-indent: 2em;">仿真与实验是两套独立检验路径，误差来源、证据效力各不相同，不可互相印证替代。</p><p style="text-indent: 2em;">本文为拟议勘伪规约，尚未经过实验验证，并非成熟标准。规约不能证实或证伪假说，结论只能交由符合本规约的实测数据判定。欢迎同行参照这套证据思想开展研究，交流实测结果。</p><p style="text-indent: 2em;">全套台账、质控表单等实操工件另行归档，公开正文只阐述逻辑范式，不嵌入工具表格。</p><p style="text-indent: 2em;">核心立场：实验不是为假说寻找支持材料，而是让假说接受可追溯、可复核、可证伪的证据审查；证据不足保留未知，证据冲突保留争议，达到预设门槛方可升级结论。</p><p style="text-indent: 2em;">第二章 样品身份、原料批次与全过程溯源</p><p style="text-indent: 2em;">可讨论的前提是样品可追溯。全部样品、平行样、工艺异常样品都应当分配唯一标识，标识需要兼顾原料来源、坩埚类型、配比、热工艺与冷却方式等关键信息。异常样品不可直接舍弃，后续若引用该组观测，必须明确标注存在工艺扰动，仅作为研究线索，不能拿来充当核心证据。</p><p style="text-indent: 2em;">实验记录不能简单抄写设备预设参数，务必留存完整真实工况，包含称量、混料、气氛环境、炉体实际温度时序以及坩埚使用状态。一旦设备设定和实际运行工况出现偏差，相关偏差信息应当如实留存。科研结果的可复现性，根植于完整详实的过程元数据。</p><p style="text-indent: 2em;">第三章 原始数据完整性归档原则</p><p style="text-indent: 2em;">原始仪器文件做只读保存，采用SHA‑256校验完整性，禁止直接修改覆盖。SHA‑256校验只能证明校验对象在两次计算之间是否保持一致，不能独立证明原始数据的来源真实性、仪器采集过程真实性或操作者身份真实性；相关信息还须结合仪器元数据、采集日志和权限记录核验。后处理文件允许迭代，每版留存参数、操作者、时间记录，不得改动原始数据源。</p><p style="text-indent: 2em;">XRD、SEM‑EDS务必保留仪器原生文件，不能只依赖截图与简易导出文本。精修、定量、绘图必须能够回溯原始数据。原始文件损坏丢失，则对应证据链降级，二次处理文件不能顶替原始证据。</p><p style="text-indent: 2em;">第四章 XRD物相识别、竞争相排除与多型判定</p><p style="text-indent: 2em;">Cu‑Si硅化物极易发生物相误判，η/η′/η″多型衍射峰大量重叠。</p><p style="text-indent: 2em;">对目标多型相、竞争硅化物、原料、氧化物、碳化物分别搭建结构模型，开展全谱多相联合精修，对重叠特征峰区专项核验。非晶组分依靠内标等手段独立定量，不可直接当作晶相参与拟合。无法归属的衍射信号登记存档，不得强行匹配物相卡片。</p><p style="text-indent: 2em;">拟合优度仅代表数学匹配，不等于晶体结构客观事实。检出衍射峰≠确认η‑Cu₃Si；精修改善≠结构唯一；定量达标≠界面结构属实；检出目标相≠该相处于Cu/Si界面承担桥接功能。</p><p style="text-indent: 2em;">第五章 SEM‑EDS、元素分析及多手段证据边界</p><p style="text-indent: 2em;">SEM‑EDS仅作辅助线索，不能单独判定晶体物相。元素计量比匹配，可以来自多相叠加。形貌、元素面扫只反映外观与组分分布；晶体学结论，必须XRD、透射电子衍射交叉佐证。</p><p style="text-indent: 2em;">形貌现象不能推导晶格适配、应力、输运性能。每种表征存在证据边界，单一观测不能随意向外推演高层级物理解释。</p><p style="text-indent: 2em;">第六章 两级质控：粗筛放行与精算核验</p><p style="text-indent: 2em;">全部质控阈值、检出限、重复性判据，必须在正式分析前预先登记，禁止依据实验结果事后调整门槛；确需修改，留存原版、理由与判定差异。</p><p style="text-indent: 2em;">三层证据边界：粗筛仅授予样品深度分析资格，不能证明目标相存在；精算核验确认物相身份与含量，但不能证明界面桥功能；应力、缺陷等功能性命题需要专门测试，单一功能成立也不能推定其余子命题自动成立。</p><p style="text-indent: 2em;">质控设置独立复核。粗筛考核杂质占比、数据完整度、平行样一致性。精算核验设置阻断条件：杂质上限、带不确定度的目标相定量、多手段交叉证据、平行样重复性。任意阻断项不满足，样品仅归档探索现象，不得支撑核心结论。</p><p style="text-indent: 2em;">严格区分“未检出”和“含量为零”，低于检出限只写未检出并标注检出限。指标缺陷不致命可延后观察，但不可用于支撑假说。</p><p style="text-indent: 2em;">第七章 假阳性、假阴性与禁止越级推断</p><p style="text-indent: 2em;">证据推演应当遵循固定链条：原始仪器观测 → 暂定信号归属 → 独立交叉复核 → 限定边界的结论输出。</p><p style="text-indent: 2em;">研究过程既要防范假阳性问题，也就是将噪声、背景干扰、杂质信号误判为目标物相或者目标效应，这类误判往往催生假性成功；同时也需要对称警惕假阴性带来的误读。信号落在检出限之下，并不等同于物相绝对不存在；衍射峰发生重叠掩盖，不代表目标物相一定不存在；常规XRD手段无法识别非晶组分，不等于体系内部不存在非晶相；单一制备窗口没有观测到目标相，不能扩大推论为全部工艺条件均无法生成该物相；某一项功能测试没有观测到改善，也不代表其余独立子命题一并失效。</p><p style="text-indent: 2em;">开展推论时需要恪守若干边界，不可随意跨越证据层级。不能仅凭一处孤立的疑似衍射峰就断定目标相真实存在，仅可作为待归属信号记录留存；仅有元素组分的计量匹配，不足以直接判定对应晶体物相成立；即便已经检出目标物相，也不能直接得出晶格适配成立的结论，晶格适配的确认离不开高分辨电镜给出的取向关系证据；观测到目标物相，并不意味着应力缓冲、缺陷调控效果自动成立，依旧需要对应专项测试予以佐证；二元Cu‑Si体系得到的观测认识，也不可以直接迁移套用至碳复合体系，引入碳组分之后全部子命题都需要重新完成核验。</p><p style="text-indent: 2em;">对于所有观测结果，应当区分不同证据层级，分为经过复核的主证据、仅供参考的线索级观测、质控阻断失效、仪器层面未检出四类。向外输出结论，必须绑定对应的样品编号以及原始数据集，规避“实验表明”这类缺少溯源支撑的模糊表述。</p><p style="text-indent: 2em;">第八章 五条子命题的证据进入条件与后续实验路线</p><p style="text-indent: 2em;">五条子命题之间存在前置依赖关系，如果前置命题证据不足，依附于它的后续推论就应当暂停开展。</p><p style="text-indent: 2em;">目标相形成、析出与热稳定性是整套假说的前置基础。开展这一命题核验，需要多批次平行样品，依靠XRD与TEM交叉完成物相确认，区分不同多型变体，排除坩埚与杂质带来的干扰。冷却之后样品检测到的物相，不能直接等价于850 ℃保温高温阶段就存在的物相，想要证实目标相在高温下的形成与稳定性，还需要原位表征、热分析以及相平衡方面的佐证。热分析用于识别相变及热事件，不能单独完成物相归属；相平衡计算用于提供热力学约束，不能替代实际样品的高温物相观测。各类证据应结合其适用边界进行交叉判读。仅依靠单张XRD图谱或是EDS元素配比不足以采信该命题；倘若本命题被证伪，其余四条子命题的推论都应当全部暂停。</p><p style="text-indent: 2em;">晶格适配这一命题，即便检出η‑Cu₃Si也只是必要条件，仍需要高分辨TEM获取取向关系相关证据才可以完成核验。</p><p style="text-indent: 2em;">谈及应力衔接，研究要依靠晶格应变、局部应力的直接表征作为依据。样品形貌完整不开裂只能够当作参考线索；界面出现脱粘开裂可作为负面观测线索，同时还需要排除工艺、杂质带来的干扰因素。</p><p style="text-indent: 2em;">对于缺陷调控，不能只凭借主观形貌观感下判断，需要设置实验组与对照组，完成缺陷、孔隙程度的定量对比。</p><p style="text-indent: 2em;">输运优化属于碳复合阶段才需要面对的命题，二元阶段不开展输运相关检验。进入碳复合研究之后，首先要复核物相的稳定性；电荷输运与热输运属于相互独立的评价维度，其中一项指标失效，也仅否定对应分支，不会全盘推翻其余已经核验过的子命题。</p><p style="text-indent: 2em;">只有出现符合本规约的实测数据集，才会撰写实测记录篇目；无合格数据则不产出报告。假说悬置、证实、证伪全部交由实测证据。</p><p style="text-indent: 2em;">碳硅道统，不赌一次假成功，也不放弃有价值的大胆假说。</p><p style="text-indent: 2em;">重要声明：本文属于假说驱动下的证据规约设计记录，并非实测报告。整套规约尚未经过实验落地检验，后续会根据同行实践反馈迭代优化；一切关于η‑Cu₃Si界面桥假说的物理解读，均以经过完整审计的实测数据集为准。</p><p style="text-align: center;"><img src="http://www.czgd.tv/uploads/ueditor/image/20261124/zipimg/1795490822395192.png" title="1795490822395192.png" alt="234.png"></p>
+            </div>
+        </div>
+    </div>
+    <div class="Side">
+        <div class="detail-ad-pic"><div class="lable_imgone">
+<a href="#" target="_self"><img style="width:315px; height:110px" src="http://www.czgd.tv/uploads/lableimgone/1541579209598536038663339801952551.jpg"></a></div>
+</div>
+        <dl class="new-list-dl">
+            <dt>最新消息</dt>
+            <dd>
+                                    <a class="db nowrap" href="https://www.czgd.tv/Article/des?infoid=143309&amp;modelid=2" target="_blank" title="沧州新闻2026年11月26日">•&nbsp;沧州新闻2026年11月26日</a>
+                                    <a class="db nowrap" href="https://www.czgd.tv/Article/des?infoid=143308&amp;modelid=2" target="_blank" title="中国共产党河北省第十一次代表大会开幕">•&nbsp;中国共产党河北省第十一次代表大会开幕</a>
+                                    <a class="db nowrap" href="https://www.czgd.tv/Article/des?infoid=143307&amp;modelid=2" target="_blank" title="罗文参加石家庄市和辛集市代表团讨论">•&nbsp;罗文参加石家庄市和辛集市代表团讨论</a>
+                                    <a class="db nowrap" href="https://www.czgd.tv/Article/des?infoid=143306&amp;modelid=2" target="_blank" title="凝心聚力启新程  实干担当勇争先  我市广大干部群众认真收听收看省第十一次党代会开幕盛况">•&nbsp;凝心聚力启新程  实干担当勇争先  我市广大干部群众认真收听收看省第十一次党代会开幕盛况</a>
+                                    <a class="db nowrap" href="https://www.czgd.tv/Article/des?infoid=143305&amp;modelid=2" target="_blank" title="协和专家下沉沧州 助力罕见病精准诊疗">•&nbsp;协和专家下沉沧州 助力罕见病精准诊疗</a>
+                                    <a class="db nowrap" href="https://www.czgd.tv/Article/des?infoid=143304&amp;modelid=2" target="_blank" title="学习时节｜深化航天国际合作，共享太空探索成果">•&nbsp;学习时节｜深化航天国际合作，共享太空探索成果</a>
+                                    <a class="db nowrap" href="https://www.czgd.tv/Article/des?infoid=143303&amp;modelid=2" target="_blank" title="微观察｜“以党章为根本”">•&nbsp;微观察｜“以党章为根本”</a>
+                                    <a class="db nowrap" href="https://www.czgd.tv/Article/des?infoid=143302&amp;modelid=2" target="_blank" title="创意微视频｜鹏程万里">•&nbsp;创意微视频｜鹏程万里</a>
+                                    <a class="db nowrap" href="https://www.czgd.tv/Article/des?infoid=143301&amp;modelid=2" target="_blank" title="长图丨一地三区！河北未来五年主要奋斗目标来了">•&nbsp;长图丨一地三区！河北未来五年主要奋斗目标来了</a>
+                                    <a class="db nowrap" href="https://www.czgd.tv/Article/des?infoid=143300&amp;modelid=2" target="_blank" title="海报丨这6条经验启示，河北需要长期坚持">•&nbsp;海报丨这6条经验启示，河北需要长期坚持</a>
+                            </dd>
+        </dl>
+        <dl class="new-list-dl">
+            <dt>头条新闻</dt>
+            <dd>
+                                    <a class="db nowrap" href="https://www.czgd.tv/Article/des?infoid=140505&amp;modelid=2" target="_blank" title="习近平抵达华盛顿对美国进行国事访问">•&nbsp;习近平抵达华盛顿对美国进行国事访问</a>
+                                    <a class="db nowrap" href="https://www.czgd.tv/Article/des?infoid=138130&amp;modelid=2" target="_blank" title="【新思想引领新征程】向新向优 中国外贸持续彰显强大韧性">•&nbsp;【新思想引领新征程】向新向优 中国外贸持续彰显强大韧性</a>
+                                    <a class="db nowrap" href="https://www.czgd.tv/Article/des?infoid=137539&amp;modelid=2" target="_blank" title="任丘：青铜出游日记">•&nbsp;任丘：青铜出游日记</a>
+                                    <a class="db nowrap" href="https://www.czgd.tv/Article/des?infoid=137304&amp;modelid=2" target="_blank" title="家庭防蚊，做好三件事">•&nbsp;家庭防蚊，做好三件事</a>
+                                    <a class="db nowrap" href="https://www.czgd.tv/Article/des?infoid=137180&amp;modelid=2" target="_blank" title="暑热心烦睡不好？试试这四招，稳住好睡眠">•&nbsp;暑热心烦睡不好？试试这四招，稳住好睡眠</a>
+                                    <a class="db nowrap" href="https://www.czgd.tv/Article/des?infoid=137474&amp;modelid=2" target="_blank" title="黄骅宣传片">•&nbsp;黄骅宣传片</a>
+                                    <a class="db nowrap" href="https://www.czgd.tv/Article/des?infoid=137433&amp;modelid=2" target="_blank" title="肃宁老玩艺儿">•&nbsp;肃宁老玩艺儿</a>
+                                    <a class="db nowrap" href="https://www.czgd.tv/Article/des?infoid=137136&amp;modelid=2" target="_blank" title="居家也可能遭遇雷击！雷暴天气避险指南→">•&nbsp;居家也可能遭遇雷击！雷暴天气避险指南→</a>
+                                    <a class="db nowrap" href="https://www.czgd.tv/Article/des?infoid=134018&amp;modelid=2" target="_blank" title="总书记引领强国之路｜把能源饭碗端得更牢">•&nbsp;总书记引领强国之路｜把能源饭碗端得更牢</a>
+                                    <a class="db nowrap" href="https://www.czgd.tv/Article/des?infoid=134016&amp;modelid=2" target="_blank" title="人民之心·总书记谈政绩观④｜一词一观：钉钉子">•&nbsp;人民之心·总书记谈政绩观④｜一词一观：钉钉子</a>
+                            </dd>
+        </dl>
+        <dl class="new-list-dl">
+            <dt>热门新闻</dt>
+            <dd>
+                                    <a class="db nowrap" href="https://www.czgd.tv/Article/des?infoid=140148&amp;modelid=2" target="_blank" title="【聚焦第十届河北省旅发大会】2026年河北省文旅产业资源对接活动初步达成16项合作意向">•&nbsp;【聚焦第十届河北省旅发大会】2026年河北省文旅产业资源对接活动初步达成16项合作意向</a>
+                                    <a class="db nowrap" href="https://www.czgd.tv/Article/des?infoid=138796&amp;modelid=2" target="_blank" title="半月谈丨河北廊坊：多元产业聚势起新局">•&nbsp;半月谈丨河北廊坊：多元产业聚势起新局</a>
+                                    <a class="db nowrap" href="https://www.czgd.tv/Article/des?infoid=107501&amp;modelid=2" target="_blank" title="百姓看联播丨春运高峰，高铁如何换乘">•&nbsp;百姓看联播丨春运高峰，高铁如何换乘</a>
+                                    <a class="db nowrap" href="https://www.czgd.tv/Article/des?infoid=104021&amp;modelid=2" target="_blank" title="第五届中国（沧州）中华优秀传统文化颂网络电影盛典优秀作品推介晚会">•&nbsp;第五届中国（沧州）中华优秀传统文化颂网络电影盛典优秀作品推介晚会</a>
+                                    <a class="db nowrap" href="https://www.czgd.tv/Article/des?infoid=103023&amp;modelid=2" target="_blank" title="巡视公告">•&nbsp;巡视公告</a>
+                                    <a class="db nowrap" href="https://www.czgd.tv/Article/des?infoid=103034&amp;modelid=2" target="_blank" title="巡 视 公 告">•&nbsp;巡 视 公 告</a>
+                                    <a class="db nowrap" href="https://www.czgd.tv/Article/des?infoid=102372&amp;modelid=2" target="_blank" title="“精彩运河行”大型系列节目——运河古郡 魅力沧县">•&nbsp;“精彩运河行”大型系列节目——运河古郡 魅力沧县</a>
+                                    <a class="db nowrap" href="https://www.czgd.tv/Article/des?infoid=100488&amp;modelid=2" target="_blank" title="沧州市海洋和港航管理局启动风暴潮灾害Ⅱ级应急响应">•&nbsp;沧州市海洋和港航管理局启动风暴潮灾害Ⅱ级应急响应</a>
+                                    <a class="db nowrap" href="https://www.czgd.tv/Article/des?infoid=93472&amp;modelid=2" target="_blank" title="“两大力量”“两大市场”“两大文明”——习近平主席出访法国、塞尔维亚、匈牙利三国前瞻">•&nbsp;“两大力量”“两大市场”“两大文明”——习近平主席出访法国、塞尔维亚、匈牙利三国前瞻</a>
+                                    <a class="db nowrap" href="https://www.czgd.tv/Article/des?infoid=90425&amp;modelid=2" target="_blank" title="微视频丨“我是人民的勤务员”">•&nbsp;微视频丨“我是人民的勤务员”</a>
+                            </dd>
+        </dl>
+        <dl class="new-list-dl">
+            <dt>推荐新闻</dt>
+            <dd>
+                                    <a class="db nowrap" href="https://www.czgd.tv/Article/des?infoid=143253&amp;modelid=2" target="_blank" title="沧州新闻2026年11月25日">•&nbsp;沧州新闻2026年11月25日</a>
+                                    <a class="db nowrap" href="https://www.czgd.tv/Article/des?infoid=143210&amp;modelid=2" target="_blank" title="沧州新闻2026年11月24日">•&nbsp;沧州新闻2026年11月24日</a>
+                                    <a class="db nowrap" href="https://www.czgd.tv/Article/des?infoid=143168&amp;modelid=2" target="_blank" title="沧州新闻2026年11月23日">•&nbsp;沧州新闻2026年11月23日</a>
+                                    <a class="db nowrap" href="https://www.czgd.tv/Article/des?infoid=143126&amp;modelid=2" target="_blank" title="沧州新闻2026年11月22日">•&nbsp;沧州新闻2026年11月22日</a>
+                                    <a class="db nowrap" href="https://www.czgd.tv/Article/des?infoid=143084&amp;modelid=2" target="_blank" title="沧州新闻2026年11月21日">•&nbsp;沧州新闻2026年11月21日</a>
+                                    <a class="db nowrap" href="https://www.czgd.tv/Article/des?infoid=143043&amp;modelid=2" target="_blank" title="沧州新闻2026年11月20日">•&nbsp;沧州新闻2026年11月20日</a>
+                                    <a class="db nowrap" href="https://www.czgd.tv/Article/des?infoid=142974&amp;modelid=2" target="_blank" title="沧州新闻2026年11月19日">•&nbsp;沧州新闻2026年11月19日</a>
+                                    <a class="db nowrap" href="https://www.czgd.tv/Article/des?infoid=142918&amp;modelid=2" target="_blank" title="沧州新闻2026年11月18日">•&nbsp;沧州新闻2026年11月18日</a>
+                                    <a class="db nowrap" href="https://www.czgd.tv/Article/des?infoid=142828&amp;modelid=2" target="_blank" title="沧州新闻2026年11月17日">•&nbsp;沧州新闻2026年11月17日</a>
+                                    <a class="db nowrap" href="https://www.czgd.tv/Article/des?infoid=142785&amp;modelid=2" target="_blank" title="沧州新闻2026年11月16日">•&nbsp;沧州新闻2026年11月16日</a>
+                            </dd>
+        </dl>
+    </div>
+    <div class="clearfix"></div>
+</div>
+<script src="/static/common/dist/skPlayer.min.js"></script>
+<script type="text/javascript">
+    //var _height=$(".MainTable").height();
+    //$(".Main,.Side").height(_height);
+
+	var u = navigator.userAgent;
+	var isAndroid = u.indexOf('Android') > -1 || u.indexOf('Adr') > -1; 
+	var isiOS = !!u.match(/\(i[^;]+;( U;)? CPU.+Mac OS X/); //ios终端
+	var vodurl = document.getElementById("vodurl").value;	
+	var vodeo_id = document.getElementById("vodeo_id").value;	
+
+	if(vodeo_id){
+		var fdStart = vodeo_id.indexOf('AVI');
+		var fdStartb = vodeo_id.indexOf('CLIP');
+
+		if(fdStart == 0 || fdStartb== 0){
+				
+			var flashvars = {
+				videoid: vodeo_id,
+				serverurl: "http://vod.czgd.tv:7080/CIST_MMS_SERVER",
+				autoplay: true,
+				playlist: false,
+				ad: true
+			};
+			window.onload = function() {
+				<!-- var otrPlayer = new OtrPlayer("/static/common/OtrPlayer/OtrPlayer.swf","flashContent",flashvars,767,576); -->
+				$('#flashContent').html();
+				var strVideo="<video poster='$webdb[www_url]/wap/images/mrvod.jpg' width='100%' height='100%' controls autoplay webkit-playsinline><source src='"+vodurl+"'></video>";
+				document.getElementById("flashContent").innerHTML=strVideo;
+			}
+		}else if(fdStart == -1 && fdStartb== -1){
+		
+			var playMode=2;
+			if(isAndroid==true || isiOS==true){
+				var vodurl="";				
+				var vod_url = "http://czvod.czgd.tv:8090/vms/api/cmsapi/getfile?uuid="+vodeo_id+"&iptype=1";	
+			
+				$.ajax({  
+				url: vod_url, 
+				datatype: "json",
+				success : function(result) {			
+				var data = eval('(' + result + ')');				
+					if(data["status"]==1){
+					vodurl = data.list['0'].filedata;
+				
+					$('#flashContent').html();
+					var strVideo="<video poster='$webdb[www_url]/wap/images/mrvod.jpg' width='100%' height='100%' controls autoplay webkit-playsinline><source src='"+vodurl+"'></video>";
+					document.getElementById("flashContent").innerHTML=strVideo;
+					}
+				}  
+				});
+			}else{
+				$('#flashContent').html();
+				var strVideo="<video poster='$webdb[www_url]/wap/images/mrvod.jpg' width='100%' height='100%' controls autoplay webkit-playsinline><source src='"+vodurl+"'></video>";
+				document.getElementById("flashContent").innerHTML=strVideo;
+				<!-- player(vodeo_id,playMode,serverName); -->
+				<!-- function player(videoID,playMode,serverName){ -->
+					<!-- var playerhtml ='<embed src="/static/common/player/AKRPlayer.swf" width="776" height="588" allowfullscreen="true" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="opaque" allowscriptaccess="always" flashvars="playMode='+playMode+'&serverName='+serverName+'&videoID='+videoID+'" />';		 -->
+					<!-- document.getElementById("flashContent").innerHTML=playerhtml; -->
+				<!-- } -->
+			}		
+			
+		}
+	}else if(vodurl){
+		$('#flashContent').html();
+		if(vodurl.indexOf("http://")==-1 && vodurl.indexOf('https://')==-1){
+			vodurl="http://www.czgd.tv/upload_files/"+vodurl;
+		}
+		var strVideo="<video poster='$webdb[www_url]/wap/images/mrvod.jpg' width='100%' height='100%' controls autoplay webkit-playsinline><source src='"+vodurl+"'></video>";
+		//var strVideo="<video poster='$webdb[www_url]/wap/images/mrvod.jpg' width='100%' height='100%' controls autoplay webkit-playsinline><source src='http://www.czgd.tv/upload_files/"+vodurl+"'></video>";
+		document.getElementById("flashContent").innerHTML=strVideo;
+	}else{
+		document.getElementById("flashContent").style.display="none";
+	}
+			</script>
+			
+			<script type="text/javascript">
+	var vodeo_url = document.getElementById("vodurl").value;
+	var title = document.getElementById("title").value;
+	var picurl = document.getElementById("picurl").value;
+
+	var player = new skPlayer({
+	autoplay: true,
+		//可选项配置同上
+		music: {
+		//必需项,音乐配置
+			type: 'file',
+			//必需项,自配置文件方式指定填'file'
+			source: [
+			//必需项,音乐文件数组
+				{
+					name: title,
+					//必需项,歌名
+					author: '沧州广播电视台',
+					//必需项,歌手
+					src: vodeo_url,
+					//必需项,音乐文件
+					cover: picurl
+					//必需项,封面图片
+				},
+				
+			]
+		}
+	});
+
+	window.onload(player.toggleList());
+
+</script> 
+</div>
+<div class="lable_html">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <div class="footer clearfix">
+    <div class="tit tc">
+        沧州广播电视台<br>
+        <label>Cangzhou Radio &amp; Television</label>
+    </div>
+    <div class="wrap copyright tc">
+        版权所有 Copyright 2015-2025 沧州广播电视台<br>
+        技术支持 沧州广播电视台-沧州广电网 电话：0317-2027711　 <span>违法和不良信息举报电话：0317-2022275</span><br>
+        互联网新闻信息服务许可证编号：13120180018 | <a href="http://beian.miit.gov.cn/" target="_blank">冀ICP备13007637号-1</a> | 信息网络传播视听节目许可证 AVSP0309383号 | 冀公网安备 13090302000196号<br>
+        APP下载统计<br>
+    </div>
+	<div style="width:200px;margin:0px auto;">
+	
+		 <div style="width:100px;height:80px;margin:0px auto;">
+			<div style="float:left;">
+				<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/05/112/0000/40992467/CA051120000409924670001.js' type='text/javascript'%3E%3C/script%3E"));</script><span id="_ideConac"></span><script src="http://dcs.conac.cn/js/05/112/0000/40992467/CA051120000409924670001.js" type="text/javascript"></script>
+			</div>
+
+		</div>
+	</div>
+</div>                                 
+                                                                                               
+                                 
+                                                         
+                                 
+                                                         
+                                 
+                                                         
+                                 
+                                                         
+                                 
+                                                         
+                                 
+                                                         
+                                 
+                                                         
+                                 
+                                                            <div class="clearfix"></div>
+</div>
+
+<script src="/static/common/lable/js/Model.js"></script>
+<script type="text/javascript">
+var cururl='https://www.czgd.tv';
+function lable_button(keywords){
+    parent.postMessage(keywords, '*'); // 若父页面的域名和指定的不一致，则postMessage失败 
+}
+window.onload=function(){
+	parent.postMessage(cururl, '*');
+}
+</script>
+<!--返回顶部-->
+<div class="goTop"></div>
+<script src="/static/cztverlingyiba//js/superslide.js" type="text/javascript"></script>
+<script>
+    //首页导航--footer_content.html
+    $(".nav-2 dl").hover(function(){
+        $(this).find('dd').stop(true,false).show();
+    },function(){
+        $(this).find('dd').stop(true,false).hide();
+    });
+
+    //banner
+    jQuery(".banner").slide({
+	    titCell:".hd ul", mainCell:".bd ul", effect:"left", autoPlay:true, autoPage: true, trigger:"click",
+        //下面startFun代码用于控制文字上下切换
+        startFun:function(i){
+            jQuery(".banner .txt li").eq(i).animate({
+			"bottom":0
+			}).siblings().animate({
+			"bottom":-45
+			});
+        }
+    });
+    // 看沧州
+    jQuery(".listFocus").slide({ 
+	    mainCell:".list", effect:"leftLoop", vis:4, autoPlay:true, delayTime:800
+	});
+
+    //直播   精彩栏目
+    jQuery(".index-tab").slide({ 
+	    mainCell:".conWrap", targetCell:".more a", effect:"fold"
+	});
+	var gotopISshow=false;
+    //返回顶部
+    $(window).scroll(function() {
+        if($(window).scrollTop() >= 500){
+			if(gotopISshow==false)
+			{
+				gotopISshow=true;
+				$('.goTop').show();
+				
+			}
+        }else{
+			if(gotopISshow)
+			{
+			gotopISshow=false;
+				$('.goTop').hide();
+				
+			}
+        }
+    });
+    $('.goTop').click(function(){
+        $('html,body').animate({
+		scrollTop: '0px'
+		}, 800);
+    });
+</script>
+
+
+</body></html>
