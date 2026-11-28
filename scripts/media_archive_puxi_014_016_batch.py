@@ -41,6 +41,9 @@ CAMPAIGN_SHORT = {
     "pub-1123-1330": "p112313",
     "ep-gmw-1119": "gmw1119",
     "pub-1124-1100": "p112411",
+    "pub-1124-1400-kunlun": "p112414k",
+    "pub-1124-1400-shuangmiao": "p112414s",
+    "settlement-1126": "s1126",
 }
 
 
@@ -261,8 +264,10 @@ def main() -> int:
 
     global STATE_PATH
     jobs_json = args.jobs_json or JOBS_JSON
+    global AUDIT_LOG
     if args.jobs_json:
         STATE_PATH = jobs_json.with_suffix(".state.json")
+        AUDIT_LOG = jobs_json.with_suffix(".log")
     elif args.campaign != "all":
         STATE_PATH = STATE_PATH.with_name(f"{STATE_PATH.stem}-{args.campaign}.state.json")
 

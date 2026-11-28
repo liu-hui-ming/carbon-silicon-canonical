@@ -1,0 +1,70 @@
+Trying to load the allocator multiple times. This is *not* supported.
+[10301:11242853:1127/231021.473361:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[10301:11242853:1127/231021.473873:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[10301:11242853:1127/231021.479533:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[10301:11242853:1127/231021.479684:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[10301:11242853:1127/231026.540706:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[10301:11242853:1127/231026.566109:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[10301:11242853:1127/231026.605675:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[10301:11242853:1127/231026.641652:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[10301:11242853:1127/231026.681915:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[10301:11242853:1127/231026.721029:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[10301:11242853:1127/231026.759018:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[10330:11243419:1127/231040.398413:VERBOSE1:chrome/updater/updater.cc:380] Version: 159.0.8140.0, opt, ARM_64, command line: /Users/ming/Library/Application Support/Google/GoogleUpdater/159.0.8140.0/GoogleUpdater.app/Contents/MacOS/GoogleUpdater --wake-all --enable-logging --vmodule=*/components/update_client/*=2,*/chrome/enterprise_companion/*=2,*/chrome/updater/*=2
+[10330:11243419:1127/231040.399348:VERBOSE1:chrome/updater/updater.cc:383] OS version: 27.0.1, arch: arm64, System uptime (seconds): 552234, parent pid: 10297
+[10330:11243419:1127/231040.402223:VERBOSE1:chrome/updater/updater.cc:388] Available disk space in install directory (/Users/ming/Library/Application Support/Google/GoogleUpdater): 52480516096B (48.876GiB) / 245107195904B (228.274GiB)
+[10330:11243419:1127/231040.402272:VERBOSE1:chrome/updater/updater.cc:392] Available disk space in temporary directory (/var/folders/vg/c2lt715126x8mdy5r_31561h0000gn/T/): 52480516096B (48.876GiB) / 245107195904B (228.274GiB)
+[10330:11243419:1127/231040.402380:VERBOSE2:chrome/updater/event_history.cc:266] Emitted a UPDATER_PROCESS START event to the history log
+[10332:11243425:1127/231040.414632:VERBOSE1:chrome/updater/updater.cc:380] Version: 159.0.8140.0, opt, ARM_64, command line: /Users/ming/Library/Application Support/Google/GoogleUpdater/159.0.8140.0/GoogleUpdater.app/Contents/MacOS/GoogleUpdater --crash-handler --database=/Users/ming/Library/Application Support/Google/GoogleUpdater/159.0.8140.0/Crashpad --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=159.0.8140.0 --attachment=/Users/ming/Library/Application Support/Google/GoogleUpdater/updater.log --attachment=/Users/ming/Library/Application Support/Google/GoogleUpdater/updater_history.jsonl --handshake-fd=6 --enable-logging --vmodule=*/components/update_client/*=2,*/chrome/enterprise_companion/*=2,*/chrome/updater/*=2
+[10332:11243425:1127/231040.415313:VERBOSE1:chrome/updater/updater.cc:383] OS version: 27.0.1, arch: arm64, System uptime (seconds): 552234, parent pid: 1
+[10332:11243425:1127/231040.417627:VERBOSE1:chrome/updater/updater.cc:388] Available disk space in install directory (/Users/ming/Library/Application Support/Google/GoogleUpdater): 52480512000B (48.876GiB) / 245107195904B (228.274GiB)
+[10332:11243425:1127/231040.417667:VERBOSE1:chrome/updater/updater.cc:392] Available disk space in temporary directory (/var/folders/vg/c2lt715126x8mdy5r_31561h0000gn/T/): 52480512000B (48.876GiB) / 245107195904B (228.274GiB)
+[10332:11243425:1127/231040.417773:VERBOSE2:chrome/updater/event_history.cc:266] Emitted a UPDATER_PROCESS START event to the history log
+[10330:11243419:1127/231040.419124:VERBOSE1:chrome/updater/crash_reporter.cc:121] Crash handler launched and ready.
+[10330:11243419:1127/231040.420088:VERBOSE1:chrome/updater/crash_client.cc:109] Found 0 completed crash reports
+[10330:11243419:1127/231040.420188:VERBOSE1:chrome/updater/crash_client.cc:132] Found 0 pending crash reports
+[10330:11243419:1127/231040.420335:ERROR:third_party/crashpad/crashpad/util/file/file_io_posix.cc:145] open /Users/ming/Library/Application Support/Google/RLZ/Crashpad/settings.dat: No such file or directory (2)
+[10330:11243419:1127/231040.420383:ERROR:third_party/crashpad/crashpad/util/file/file_io_posix.cc:145] open /Users/ming/Library/Application Support/Google/Chrome for Testing/Crashpad/settings.dat: No such file or directory (2)
+[10330:11243419:1127/231040.420475:ERROR:third_party/crashpad/crashpad/util/file/file_io_posix.cc:145] open /Users/ming/Library/Application Support/Google/ChromeForTesting/Crashpad/settings.dat: No such file or directory (2)
+[10330:11243419:1127/231040.420510:ERROR:third_party/crashpad/crashpad/util/file/file_io_posix.cc:145] open /Users/ming/Library/Application Support/Google/Chrome-headless/Crashpad/settings.dat: No such file or directory (2)
+[10330:11243419:1127/231040.420539:VERBOSE1:chrome/updater/updater.cc:107] Crash reporting initialized.
+[10330:11243435:1127/231040.421073:VERBOSE1:chrome/updater/app/app_wakeall.cc:58] Launching `/Users/ming/Library/Application Support/Google/GoogleUpdater/159.0.8140.0/GoogleUpdater.app/Contents/MacOS/GoogleUpdater --wake`
+[10333:11243441:1127/231040.431936:VERBOSE1:chrome/updater/updater.cc:380] Version: 159.0.8140.0, opt, ARM_64, command line: /Users/ming/Library/Application Support/Google/GoogleUpdater/159.0.8140.0/GoogleUpdater.app/Contents/MacOS/GoogleUpdater --wake --enable-logging --vmodule=*/components/update_client/*=2,*/chrome/enterprise_companion/*=2,*/chrome/updater/*=2
+[10333:11243441:1127/231040.432543:VERBOSE1:chrome/updater/updater.cc:383] OS version: 27.0.1, arch: arm64, System uptime (seconds): 552234, parent pid: 10330
+[10333:11243441:1127/231040.434590:VERBOSE1:chrome/updater/updater.cc:388] Available disk space in install directory (/Users/ming/Library/Application Support/Google/GoogleUpdater): 52480507904B (48.876GiB) / 245107195904B (228.274GiB)
+[10333:11243441:1127/231040.434625:VERBOSE1:chrome/updater/updater.cc:392] Available disk space in temporary directory (/var/folders/vg/c2lt715126x8mdy5r_31561h0000gn/T/): 52480507904B (48.876GiB) / 245107195904B (228.274GiB)
+[10333:11243441:1127/231040.434701:VERBOSE2:chrome/updater/event_history.cc:266] Emitted a UPDATER_PROCESS START event to the history log
+[10335:11243445:1127/231040.444714:VERBOSE1:chrome/updater/updater.cc:380] Version: 159.0.8140.0, opt, ARM_64, command line: /Users/ming/Library/Application Support/Google/GoogleUpdater/159.0.8140.0/GoogleUpdater.app/Contents/MacOS/GoogleUpdater --crash-handler --database=/Users/ming/Library/Application Support/Google/GoogleUpdater/159.0.8140.0/Crashpad --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=159.0.8140.0 --attachment=/Users/ming/Library/Application Support/Google/GoogleUpdater/updater.log --attachment=/Users/ming/Library/Application Support/Google/GoogleUpdater/updater_history.jsonl --handshake-fd=6 --enable-logging --vmodule=*/components/update_client/*=2,*/chrome/enterprise_companion/*=2,*/chrome/updater/*=2
+[10335:11243445:1127/231040.445256:VERBOSE1:chrome/updater/updater.cc:383] OS version: 27.0.1, arch: arm64, System uptime (seconds): 552234, parent pid: 1
+[10335:11243445:1127/231040.447108:VERBOSE1:chrome/updater/updater.cc:388] Available disk space in install directory (/Users/ming/Library/Application Support/Google/GoogleUpdater): 52480507904B (48.876GiB) / 245107195904B (228.274GiB)
+[10335:11243445:1127/231040.447143:VERBOSE1:chrome/updater/updater.cc:392] Available disk space in temporary directory (/var/folders/vg/c2lt715126x8mdy5r_31561h0000gn/T/): 52480507904B (48.876GiB) / 245107195904B (228.274GiB)
+[10335:11243445:1127/231040.447230:VERBOSE2:chrome/updater/event_history.cc:266] Emitted a UPDATER_PROCESS START event to the history log
+[10333:11243441:1127/231040.447637:VERBOSE1:chrome/updater/crash_reporter.cc:121] Crash handler launched and ready.
+[10333:11243441:1127/231040.448243:VERBOSE1:chrome/updater/crash_client.cc:109] Found 0 completed crash reports
+[10333:11243441:1127/231040.448319:VERBOSE1:chrome/updater/crash_client.cc:132] Found 0 pending crash reports
+[10333:11243441:1127/231040.448392:ERROR:third_party/crashpad/crashpad/util/file/file_io_posix.cc:145] open /Users/ming/Library/Application Support/Google/RLZ/Crashpad/settings.dat: No such file or directory (2)
+[10333:11243441:1127/231040.448408:ERROR:third_party/crashpad/crashpad/util/file/file_io_posix.cc:145] open /Users/ming/Library/Application Support/Google/Chrome for Testing/Crashpad/settings.dat: No such file or directory (2)
+[10333:11243441:1127/231040.448449:ERROR:third_party/crashpad/crashpad/util/file/file_io_posix.cc:145] open /Users/ming/Library/Application Support/Google/ChromeForTesting/Crashpad/settings.dat: No such file or directory (2)
+[10333:11243441:1127/231040.448460:ERROR:third_party/crashpad/crashpad/util/file/file_io_posix.cc:145] open /Users/ming/Library/Application Support/Google/Chrome-headless/Crashpad/settings.dat: No such file or directory (2)
+[10333:11243441:1127/231040.448473:VERBOSE1:chrome/updater/updater.cc:107] Crash reporting initialized.
+[10333:11243441:1127/231040.448648:VERBOSE1:chrome/updater/ipc/update_service_internal_proxy_mojo.cc:61] Run
+[10333:11243441:1127/231056.356683:VERBOSE1:chrome/updater/app/app.cc:52] Shutdown: 0
+[10333:11243441:1127/231056.357463:VERBOSE2:chrome/updater/event_history.cc:266] Emitted a UPDATER_PROCESS END event to the history log
+[10333:11243441:1127/231056.357493:VERBOSE1:chrome/updater/updater.cc:425] UpdaterMain (--wake) returned 0.
+[10330:11243435:1127/231056.398404:VERBOSE1:chrome/updater/app/app_wakeall.cc:68] `/Users/ming/Library/Application Support/Google/GoogleUpdater/159.0.8140.0/GoogleUpdater.app/Contents/MacOS/GoogleUpdater --wake` exited 0
+[10330:11243419:1127/231056.399132:VERBOSE1:chrome/updater/app/app.cc:52] Shutdown: 0
+[10330:11243419:1127/231056.399964:VERBOSE2:chrome/updater/event_history.cc:266] Emitted a UPDATER_PROCESS END event to the history log
+[10330:11243419:1127/231056.400037:VERBOSE1:chrome/updater/updater.cc:425] UpdaterMain (--wake-all) returned 0.
+[10335:11243445:1127/231106.369635:VERBOSE2:chrome/updater/event_history.cc:266] Emitted a UPDATER_PROCESS END event to the history log
+[10335:11243445:1127/231106.369682:VERBOSE1:chrome/updater/updater.cc:425] UpdaterMain (--crash-handler) returned 0.
+[10332:11243425:1127/231106.371133:VERBOSE2:chrome/updater/event_history.cc:266] Emitted a UPDATER_PROCESS END event to the history log
+[10332:11243425:1127/231106.371357:VERBOSE1:chrome/updater/updater.cc:425] UpdaterMain (--crash-handler) returned 0.
+[10301:11242853:1127/231117.373124:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[10373:11244283:1127/231119.141951:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[10373:11244283:1127/231119.143722:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[10373:11244283:1127/231119.147450:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[10373:11244283:1127/231119.147551:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+Trying to load the allocator multiple times. This is *not* supported.
+[10373:11244283:1127/231120.482891:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+1476891 bytes written to file shots_1127_p112414/20261124_p112414s_0030_沧州广电网_852f1bc9/page_screenshot.png
+[10368:11244187:1127/231121.321544:ERROR:chrome/browser/web_applications/externally_managed_app_manager.cc:681] https://mail.google.com/mail/installwebapp?usp=chrome_default from install source 1 failed to install with reason 21

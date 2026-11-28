@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-18",
+  "campaign": "settlement-1126",
+  "seq": 15,
+  "title": "碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013",
+  "media": "红商网",
+  "url": "http://www.redsh.com/ppnews/20261118/121150.shtml",
+  "submit_batch": "11月18日9:30",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013_红商网.md": {
+      "sha256": "ebb2e2da1b984650e568d14fbdbf579aa1137da5828aa595e517a6535103127e",
+      "bytes": 7938
+    },
+    "evidence-snapshots/碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013_红商网_snapshot.png": {
+      "sha256": "cbffef5b143d6941c2483fa25fd98762d3ab0a580b657be82a63f7e6c8615fc8",
+      "bytes": 1272211
+    }
+  }
+}

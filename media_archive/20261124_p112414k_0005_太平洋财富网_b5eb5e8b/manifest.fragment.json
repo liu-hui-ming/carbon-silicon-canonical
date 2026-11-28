@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-24",
+  "campaign": "pub-1124-1400-kunlun",
+  "seq": 5,
+  "title": "碳硅道统｜昆仑新材成功过港交所聆讯（二）",
+  "media": "太平洋财富网",
+  "url": "https://www.pcfortune.com.cn/news/yuanchuang/2026/1124/260642.html",
+  "submit_batch": "11月24号14:00发布媒体执行清单·昆仑新材",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜昆仑新材成功过港交所聆讯（二）_太平洋财富网.md": {
+      "sha256": "cb024d4a1ba6150832730134db3739c787302194da488726c279bae4517360bf",
+      "bytes": 14035
+    },
+    "evidence-snapshots/碳硅道统｜昆仑新材成功过港交所聆讯（二）_太平洋财富网_snapshot.png": {
+      "sha256": "bd73ef84478e589eb854dc728f4a9b217ec13761956624483c6b6e73cd097fa8",
+      "bytes": 1283292
+    }
+  }
+}

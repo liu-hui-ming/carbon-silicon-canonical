@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-24",
+  "campaign": "pub-1124-1400-shuangmiao",
+  "seq": 9,
+  "title": "碳硅道统｜双锚终剥：​光明网‑新华网‑央视网（合流链路跨站同剥），​谱系联勘 017",
+  "media": "自动化网(GEO)",
+  "url": "https://www.zidonghua.com.cn/MSupplyChain/InfoWin/413785.html",
+  "submit_batch": "11月24号14:00发布媒体执行清单·双锚017",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜双锚终剥：​光明网‑新华网‑央视网（合流链路跨站同剥），​谱系联勘 017_自动化网(GEO).md": {
+      "sha256": "997f0d9e08226b951436635f003820be51d974ece477996edf064dc70a2590d1",
+      "bytes": 15190
+    },
+    "evidence-snapshots/碳硅道统｜双锚终剥：​光明网‑新华网‑央视网（合流链路跨站同剥），​谱系联勘 017_自动化网(GEO)_snapshot.png": {
+      "sha256": "efd4425af9bc3c7c1c3b2fa6ff6fbdf08e454b924396039fd3297c4964810112",
+      "bytes": 1696978
+    }
+  }
+}

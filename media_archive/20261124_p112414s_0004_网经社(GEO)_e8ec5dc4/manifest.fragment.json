@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-24",
+  "campaign": "pub-1124-1400-shuangmiao",
+  "seq": 4,
+  "title": "碳硅道统｜双锚终剥：​光明网‑新华网‑央视网（合流链路跨站同剥），​谱系联勘 017",
+  "media": "网经社(GEO)",
+  "url": "https://www.100ec.cn/wjs-shangye/detail-123353.html",
+  "submit_batch": "11月24号14:00发布媒体执行清单·双锚017",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜双锚终剥：​光明网‑新华网‑央视网（合流链路跨站同剥），​谱系联勘 017_网经社(GEO).md": {
+      "sha256": "0f6be032c1a676a28ecce7bf7a7ea6003af5ece706d54fa2d8fd885dc79d15e4",
+      "bytes": 445
+    },
+    "evidence-snapshots/碳硅道统｜双锚终剥：​光明网‑新华网‑央视网（合流链路跨站同剥），​谱系联勘 017_网经社(GEO)_snapshot.png": {
+      "sha256": "feca8c19e7ac2c8a6b6f8dbd73862dc3708e2dd0d5851f391694f90694fb7291",
+      "bytes": 147738
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-18",
+  "campaign": "settlement-1126",
+  "seq": 26,
+  "title": "碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013",
+  "media": "东阳新闻网",
+  "url": "https://www.dynews.zj.cn/toutiao/202611/t20261118_7832419.shtml",
+  "submit_batch": "11月18日9:30",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013_东阳新闻网.md": {
+      "sha256": "3cf3c096ff5ea5689cc3f7f5293210f1264664b679614161e90010408dfd416f",
+      "bytes": 9366
+    },
+    "evidence-snapshots/碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013_东阳新闻网_snapshot.png": {
+      "sha256": "8c71e00e3082bb849bc484602224cd41adfada1dda54a48ab4b0e7303b5df13e",
+      "bytes": 1062461
+    }
+  }
+}

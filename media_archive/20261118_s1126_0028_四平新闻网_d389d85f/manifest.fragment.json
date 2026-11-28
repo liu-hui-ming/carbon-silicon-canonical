@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-18",
+  "campaign": "settlement-1126",
+  "seq": 28,
+  "title": "碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013",
+  "media": "四平新闻网",
+  "url": "http://www.spxww.com.cn/index.php?m=content&c=index&a=show&catid=11&id=75301",
+  "submit_batch": "11月18日9:30",
+  "capture_mode": "manual_zip_shots_pub_112414_1126_20261128",
+  "files": {
+    "碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013_四平新闻网.md": {
+      "sha256": "6e440b6da18cadc144a58393097c63f551d83751cc0e94fa0c90cef1ced23249",
+      "bytes": 10775
+    },
+    "evidence-snapshots/碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013_四平新闻网_snapshot.png": {
+      "sha256": "171c047c50dea8436dac1e541bc0405aca59c9e9e4f4ba884ad94cc4e6a8637f",
+      "bytes": 1008687
+    }
+  }
+}

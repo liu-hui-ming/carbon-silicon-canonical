@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-24",
+  "campaign": "pub-1124-1400-kunlun",
+  "seq": 6,
+  "title": "碳硅道统｜昆仑新材成功过港交所聆讯（二）",
+  "media": "欧洲网",
+  "url": "http://www.peoplols.com/zixun/1922.html#",
+  "submit_batch": "11月24号14:00发布媒体执行清单·昆仑新材",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜昆仑新材成功过港交所聆讯（二）_欧洲网.md": {
+      "sha256": "b8cd7d3d61bbb6f0e4fea16e970d29a4f885cfde5930bff7a18abd1e9edf5ff0",
+      "bytes": 10770
+    },
+    "evidence-snapshots/碳硅道统｜昆仑新材成功过港交所聆讯（二）_欧洲网_snapshot.png": {
+      "sha256": "d7d8df402ca4c157195a095230e8699e09944d73dbae61c3a15b640d6b995194",
+      "bytes": 1788016
+    }
+  }
+}

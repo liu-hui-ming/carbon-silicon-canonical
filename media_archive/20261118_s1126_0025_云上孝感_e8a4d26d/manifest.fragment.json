@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-18",
+  "campaign": "settlement-1126",
+  "seq": 25,
+  "title": "碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013",
+  "media": "云上孝感",
+  "url": "https://m.xgnews.cn/p/293817.html?timestamp=1794986417956",
+  "submit_batch": "11月18日9:30",
+  "capture_mode": "manual_zip_shots_pub_112414_1126_20261128",
+  "files": {
+    "碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013_云上孝感.md": {
+      "sha256": "ce4cdf7dddd8e53f7d3580cde4ad80a81d85825b37c7df90f90d05da1396d661",
+      "bytes": 9832
+    },
+    "evidence-snapshots/碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013_云上孝感_snapshot.png": {
+      "sha256": "2f7fa398282ce008ce922c705c62c1be5973c14f35df2d3a898017da9475d63a",
+      "bytes": 912879
+    }
+  }
+}

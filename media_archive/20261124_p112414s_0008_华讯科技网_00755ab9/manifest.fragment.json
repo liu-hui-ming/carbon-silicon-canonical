@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-24",
+  "campaign": "pub-1124-1400-shuangmiao",
+  "seq": 8,
+  "title": "碳硅道统｜双锚终剥：​光明网‑新华网‑央视网（合流链路跨站同剥），​谱系联勘 017",
+  "media": "华讯科技网",
+  "url": "http://www.pgkeji.cn/n/3247.html",
+  "submit_batch": "11月24号14:00发布媒体执行清单·双锚017",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜双锚终剥：​光明网‑新华网‑央视网（合流链路跨站同剥），​谱系联勘 017_华讯科技网.md": {
+      "sha256": "b491991a74847d7d40830ccaeaa3e471d54f5e62fa7dcfd89b337b5592e45b5f",
+      "bytes": 439
+    },
+    "evidence-snapshots/碳硅道统｜双锚终剥：​光明网‑新华网‑央视网（合流链路跨站同剥），​谱系联勘 017_华讯科技网_snapshot.png": {
+      "sha256": "537d41b7ac62d13fe717fc981a4ac7e4931b71d3feb3e51bee6cce839f079bfe",
+      "bytes": 1070863
+    }
+  }
+}

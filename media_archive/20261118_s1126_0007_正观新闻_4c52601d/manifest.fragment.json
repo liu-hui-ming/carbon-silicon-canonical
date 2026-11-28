@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-18",
+  "campaign": "settlement-1126",
+  "seq": 7,
+  "title": "碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013",
+  "media": "正观新闻",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/432266",
+  "submit_batch": "11月18日9:30",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013_正观新闻.md": {
+      "sha256": "44df8ad5a7ffafc46cf9a04f8cba270a6645acf27f09ba50bf16d511845173dc",
+      "bytes": 8071
+    },
+    "evidence-snapshots/碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013_正观新闻_snapshot.png": {
+      "sha256": "360aa1f8ca725b85b6ac171090194d148a70700c34a678c68069b5213cd3c6f1",
+      "bytes": 1076100
+    }
+  }
+}

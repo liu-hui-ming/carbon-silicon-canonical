@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-24",
+  "campaign": "pub-1124-1400-shuangmiao",
+  "seq": 23,
+  "title": "碳硅道统｜双锚终剥：​光明网‑新华网‑央视网（合流链路跨站同剥），​谱系联勘 017",
+  "media": "顶尖财经网",
+  "url": "http://www.djcvcai.cn/zixun/2041.html",
+  "submit_batch": "11月24号14:00发布媒体执行清单·双锚017",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜双锚终剥：​光明网‑新华网‑央视网（合流链路跨站同剥），​谱系联勘 017_顶尖财经网.md": {
+      "sha256": "d56ff1ffa8a69284ca80baedb3ff32e6faac40d20d617f21771557eaedba395a",
+      "bytes": 12499
+    },
+    "evidence-snapshots/碳硅道统｜双锚终剥：​光明网‑新华网‑央视网（合流链路跨站同剥），​谱系联勘 017_顶尖财经网_snapshot.png": {
+      "sha256": "ecc083b1141087a198ed1e9715cdda27510b78c5dd1e457feb0eef3d86da56b2",
+      "bytes": 1281871
+    }
+  }
+}

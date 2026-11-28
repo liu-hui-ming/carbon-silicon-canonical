@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-18",
+  "campaign": "settlement-1126",
+  "seq": 31,
+  "title": "碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013",
+  "media": "青海传媒网",
+  "url": "http://www.qhcmbdw.com/blog/article/1714",
+  "submit_batch": "11月18日9:30",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013_青海传媒网.md": {
+      "sha256": "cab84d1bfff532858398c93ced386e630edbc899bc3f808cf6657c8f3a7aa4e7",
+      "bytes": 9018
+    },
+    "evidence-snapshots/碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013_青海传媒网_snapshot.png": {
+      "sha256": "e5402ccdcabb88c5c83fb5f6aa8e31181822fca064b369f1df417dc055c26c2c",
+      "bytes": 1162808
+    }
+  }
+}

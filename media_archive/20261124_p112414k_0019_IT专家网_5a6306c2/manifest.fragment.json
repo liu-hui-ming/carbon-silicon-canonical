@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-24",
+  "campaign": "pub-1124-1400-kunlun",
+  "seq": 19,
+  "title": "碳硅道统｜昆仑新材成功过港交所聆讯（二）",
+  "media": "IT专家网",
+  "url": "http://www.ctocio.net.cn/zonghe/2026/1124/21916.html",
+  "submit_batch": "11月24号14:00发布媒体执行清单·昆仑新材",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜昆仑新材成功过港交所聆讯（二）_IT专家网.md": {
+      "sha256": "094672be5854b7c0056194bd1224afb081150e62035ef32705aa986ce9e75b25",
+      "bytes": 22173
+    },
+    "evidence-snapshots/碳硅道统｜昆仑新材成功过港交所聆讯（二）_IT专家网_snapshot.png": {
+      "sha256": "9dbc866ae8a16928e1b0929f3af2840ed9f5ab140474e9a7f9b0cc6dc8816e37",
+      "bytes": 1557835
+    }
+  }
+}

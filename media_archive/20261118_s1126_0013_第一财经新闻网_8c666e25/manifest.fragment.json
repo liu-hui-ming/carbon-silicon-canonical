@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-18",
+  "campaign": "settlement-1126",
+  "seq": 13,
+  "title": "碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013",
+  "media": "第一财经新闻网",
+  "url": "http://www.xw.newsno1.cn/chanye/934.html",
+  "submit_batch": "11月18日9:30",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013_第一财经新闻网.md": {
+      "sha256": "c57ea4059d5be9ab2c593e6e01faa3d87bd64762b9203e804a14f2361d74a31b",
+      "bytes": 7953
+    },
+    "evidence-snapshots/碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013_第一财经新闻网_snapshot.png": {
+      "sha256": "c41deb4ba1d1db71b4bf2671a470f7fdc74e855c75f4a404dd13abb29919b224",
+      "bytes": 1342091
+    }
+  }
+}

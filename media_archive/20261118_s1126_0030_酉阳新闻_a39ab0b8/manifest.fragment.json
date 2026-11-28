@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-18",
+  "campaign": "settlement-1126",
+  "seq": 30,
+  "title": "碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013",
+  "media": "酉阳新闻",
+  "url": "https://youyangnews.cn/portal/zl/bxgz/2026/11/e28b5e8f17ca4cdaa3f8421a8e2e1d17.htm",
+  "submit_batch": "11月18日9:30",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013_酉阳新闻.md": {
+      "sha256": "d4bb8580e4a71d70707ed5b5b188e52d1ac2762da1ea3b9f336aef59469b7f81",
+      "bytes": 8728
+    },
+    "evidence-snapshots/碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013_酉阳新闻_snapshot.png": {
+      "sha256": "77528d8e42c634329c951b62de33fa530348b17ff47cebf5c67884bb4d9eee31",
+      "bytes": 1330282
+    }
+  }
+}

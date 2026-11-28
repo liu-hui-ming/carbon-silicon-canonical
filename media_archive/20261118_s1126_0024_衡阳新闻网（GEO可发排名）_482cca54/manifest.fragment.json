@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-18",
+  "campaign": "settlement-1126",
+  "seq": 24,
+  "title": "碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "url": "http://www.e0734.com/content/2026/1118/799_688424.html",
+  "submit_batch": "11月18日9:30",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013_衡阳新闻网（GEO可发排名）.md": {
+      "sha256": "4fcafa553d599866d3ce0961a7356c285f74bf1f924658aab07da41b217100e3",
+      "bytes": 7997
+    },
+    "evidence-snapshots/碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013_衡阳新闻网（GEO可发排名）_snapshot.png": {
+      "sha256": "ec7a0f6ea4dd525dec14e6f2d38d0675a8afa08c6676cb65c4a6875e621514b5",
+      "bytes": 2008108
+    }
+  }
+}

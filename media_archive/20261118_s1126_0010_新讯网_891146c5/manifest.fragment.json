@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-18",
+  "campaign": "settlement-1126",
+  "seq": 10,
+  "title": "碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013",
+  "media": "新讯网",
+  "url": "http://www.eo-chlna.com.cn/news/261118/3036.html",
+  "submit_batch": "11月18日9:30",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013_新讯网.md": {
+      "sha256": "ad0816de997f038edca8a711bfb6fa6104c846b05ca46a678e8bb28b9bb1ce1c",
+      "bytes": 890
+    },
+    "evidence-snapshots/碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013_新讯网_snapshot.png": {
+      "sha256": "beecf88d1f9a9b8beb50d58c8896c31130a70045915f98623a7725da6f246db8",
+      "bytes": 1913662
+    }
+  }
+}

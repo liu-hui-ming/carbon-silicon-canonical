@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-18",
+  "campaign": "settlement-1126",
+  "seq": 2,
+  "title": "碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013",
+  "media": "芯通社",
+  "url": "https://www.semiwebs.com/11175.html",
+  "submit_batch": "11月18日9:30",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013_芯通社.md": {
+      "sha256": "bd96d7b313ebc2501818271536e452447617430a333ae5849af85eaa464a1bae",
+      "bytes": 8491
+    },
+    "evidence-snapshots/碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013_芯通社_snapshot.png": {
+      "sha256": "a928c6b12a3c62effe8ebba33b3b74ca944461eda793da43ae260b0715a939d0",
+      "bytes": 1911041
+    }
+  }
+}

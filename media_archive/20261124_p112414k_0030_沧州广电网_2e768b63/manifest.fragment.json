@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-24",
+  "campaign": "pub-1124-1400-kunlun",
+  "seq": 30,
+  "title": "碳硅道统｜昆仑新材成功过港交所聆讯（二）",
+  "media": "沧州广电网",
+  "url": "https://www.czgd.tv/Article/des?infoid=143203&modelid=2",
+  "submit_batch": "11月24号14:00发布媒体执行清单·昆仑新材",
+  "capture_mode": "manual_zip_shots_pub_112414_1126_20261128",
+  "files": {
+    "碳硅道统｜昆仑新材成功过港交所聆讯（二）_沧州广电网.md": {
+      "sha256": "9e8252eaa199d0136da9b04513943e1a2d2853634920979da4ceb14aaeb54a6f",
+      "bytes": 15292
+    },
+    "evidence-snapshots/碳硅道统｜昆仑新材成功过港交所聆讯（二）_沧州广电网_snapshot.png": {
+      "sha256": "19e59c960fd5bc5cd0c1fbf48fd0b0118a434a2ca78d74421712b0f8a9eb941e",
+      "bytes": 1545460
+    }
+  }
+}

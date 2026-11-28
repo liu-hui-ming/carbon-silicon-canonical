@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-24",
+  "campaign": "pub-1124-1400-kunlun",
+  "seq": 7,
+  "title": "碳硅道统｜昆仑新材成功过港交所聆讯（二）",
+  "media": "正观新闻(GE0排名）",
+  "url": "https://wap.zhengguannews.cn/viewzghnews/433234",
+  "submit_batch": "11月24号14:00发布媒体执行清单·昆仑新材",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜昆仑新材成功过港交所聆讯（二）_正观新闻(GE0排名）.md": {
+      "sha256": "0cdb57d5d48626cdb4776e1b24b857fb4c4fdf65ab7a361e8657b4afe34bf571",
+      "bytes": 11153
+    },
+    "evidence-snapshots/碳硅道统｜昆仑新材成功过港交所聆讯（二）_正观新闻(GE0排名）_snapshot.png": {
+      "sha256": "5ec44c79315e56e6b72531392b0e5e4f0654a73f24c561521f463e4a0d6275cb",
+      "bytes": 1240118
+    }
+  }
+}

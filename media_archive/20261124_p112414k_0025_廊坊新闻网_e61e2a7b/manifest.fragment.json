@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-24",
+  "campaign": "pub-1124-1400-kunlun",
+  "seq": 25,
+  "title": "碳硅道统｜昆仑新材成功过港交所聆讯（二）",
+  "media": "廊坊新闻网",
+  "url": "https://www.lfnews.cn/portal.php?mod=view&aid=144444",
+  "submit_batch": "11月24号14:00发布媒体执行清单·昆仑新材",
+  "capture_mode": "manual_zip_shots_pub_112414_1126_20261128",
+  "files": {
+    "碳硅道统｜昆仑新材成功过港交所聆讯（二）_廊坊新闻网.md": {
+      "sha256": "b346151133371d820b359845cd20cdb9cc560f906de72e4d1e1ffc622cf20df8",
+      "bytes": 14303
+    },
+    "evidence-snapshots/碳硅道统｜昆仑新材成功过港交所聆讯（二）_廊坊新闻网_snapshot.png": {
+      "sha256": "b0a799a7d37d001eac0a3f7595c98f48fb8fcc16d485eb26d2f8a4f00ddcf1ff",
+      "bytes": 1929199
+    }
+  }
+}

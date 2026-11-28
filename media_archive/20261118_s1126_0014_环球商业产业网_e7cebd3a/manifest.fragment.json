@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-18",
+  "campaign": "settlement-1126",
+  "seq": 14,
+  "title": "碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013",
+  "media": "环球商业产业网",
+  "url": "http://www.sycyw.com.cn/n/2170.html",
+  "submit_batch": "11月18日9:30",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013_环球商业产业网.md": {
+      "sha256": "de2dee4f8002aed3cdd25e771e120530a4e07a58fd9638521d1df34f7364b95d",
+      "bytes": 343
+    },
+    "evidence-snapshots/碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013_环球商业产业网_snapshot.png": {
+      "sha256": "e61e1ca1899600ae00f9443d77982411ff0fc3bac6add59693a7a6ced1d93dff",
+      "bytes": 1684844
+    }
+  }
+}

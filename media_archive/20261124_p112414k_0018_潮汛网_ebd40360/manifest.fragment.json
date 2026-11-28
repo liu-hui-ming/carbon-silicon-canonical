@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-24",
+  "campaign": "pub-1124-1400-kunlun",
+  "seq": 18,
+  "title": "碳硅道统｜昆仑新材成功过港交所聆讯（二）",
+  "media": "潮汛网",
+  "url": "https://www.chxwang.com/article/9l40x24",
+  "submit_batch": "11月24号14:00发布媒体执行清单·昆仑新材",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜昆仑新材成功过港交所聆讯（二）_潮汛网.md": {
+      "sha256": "b40e04f83833142299249ad93fcbadf795a65084c2c52d8dab6f6bc0f673b236",
+      "bytes": 378
+    },
+    "evidence-snapshots/碳硅道统｜昆仑新材成功过港交所聆讯（二）_潮汛网_snapshot.png": {
+      "sha256": "2390970d1fc6284cfbbdef11f64cab5395d8534b43f38b8e9b1cb0ea6e7610c7",
+      "bytes": 1429319
+    }
+  }
+}

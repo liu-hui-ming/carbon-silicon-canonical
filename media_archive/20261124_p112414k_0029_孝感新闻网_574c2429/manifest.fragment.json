@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-24",
+  "campaign": "pub-1124-1400-kunlun",
+  "seq": 29,
+  "title": "碳硅道统｜昆仑新材成功过港交所聆讯（二）",
+  "media": "孝感新闻网",
+  "url": "https://www.xgnews.cn/p/294598.html",
+  "submit_batch": "11月24号14:00发布媒体执行清单·昆仑新材",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜昆仑新材成功过港交所聆讯（二）_孝感新闻网.md": {
+      "sha256": "09f4b0e2453a8ebfcee64ca740ac4fc5ea1872d97f2481c8ec274afa8c1f66f7",
+      "bytes": 556
+    },
+    "evidence-snapshots/碳硅道统｜昆仑新材成功过港交所聆讯（二）_孝感新闻网_snapshot.png": {
+      "sha256": "fc9ed3ebbadb0eb85292b9a1be307afd7196ee81732aee2075ec7dcffb36257f",
+      "bytes": 140752
+    }
+  }
+}

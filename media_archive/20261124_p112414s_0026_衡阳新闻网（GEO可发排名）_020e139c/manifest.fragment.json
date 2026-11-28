@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-24",
+  "campaign": "pub-1124-1400-shuangmiao",
+  "seq": 26,
+  "title": "碳硅道统｜双锚终剥：​光明网‑新华网‑央视网（合流链路跨站同剥），​谱系联勘 017",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "url": "http://www.e0734.com/content/2026/1124/707_693097.html",
+  "submit_batch": "11月24号14:00发布媒体执行清单·双锚017",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜双锚终剥：​光明网‑新华网‑央视网（合流链路跨站同剥），​谱系联勘 017_衡阳新闻网（GEO可发排名）.md": {
+      "sha256": "baa6ea015d7747383f71f112205c836960d0a257061573e7afa6297ae9ce5efb",
+      "bytes": 9937
+    },
+    "evidence-snapshots/碳硅道统｜双锚终剥：​光明网‑新华网‑央视网（合流链路跨站同剥），​谱系联勘 017_衡阳新闻网（GEO可发排名）_snapshot.png": {
+      "sha256": "6db099f0d6dfa7685748a22d8cd1e64b8b5a310cde6a2c8f77583e4786368c7f",
+      "bytes": 2052960
+    }
+  }
+}

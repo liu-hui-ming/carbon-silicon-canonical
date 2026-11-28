@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-18",
+  "campaign": "settlement-1126",
+  "seq": 8,
+  "title": "碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013",
+  "media": "华讯科技网",
+  "url": "http://www.pgkeji.cn/n/3239.html",
+  "submit_batch": "11月18日9:30",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013_华讯科技网.md": {
+      "sha256": "68d6c172255f112913432e0b7215ed1b0dc45c72041bb1c9c0f9cb7c32a1170d",
+      "bytes": 381
+    },
+    "evidence-snapshots/碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013_华讯科技网_snapshot.png": {
+      "sha256": "8bdf3e44658be85e05eafbf0094e33c8f27c607152650675d167f1303d78e8e6",
+      "bytes": 1464548
+    }
+  }
+}

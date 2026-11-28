@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-24",
+  "campaign": "pub-1124-1400-kunlun",
+  "seq": 2,
+  "title": "碳硅道统｜昆仑新材成功过港交所聆讯（二）",
+  "media": "芯通社",
+  "url": "https://www.semiwebs.com/11417.html",
+  "submit_batch": "11月24号14:00发布媒体执行清单·昆仑新材",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜昆仑新材成功过港交所聆讯（二）_芯通社.md": {
+      "sha256": "9155676eb7f5aec0b7b6ab8ac1bc2c5604b6c4327339dd3d1fe8c0222d18fbb3",
+      "bytes": 11607
+    },
+    "evidence-snapshots/碳硅道统｜昆仑新材成功过港交所聆讯（二）_芯通社_snapshot.png": {
+      "sha256": "58458f1f34d79d7d7e3813ff8824ac048f47d9e4aee43c5b881e635d115e4f20",
+      "bytes": 2173369
+    }
+  }
+}

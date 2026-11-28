@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-18",
+  "campaign": "settlement-1126",
+  "seq": 16,
+  "title": "碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013",
+  "media": "大王财经",
+  "url": "https://www.kingcaijing.com/mingjia/19613.html",
+  "submit_batch": "11月18日9:30",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013_大王财经.md": {
+      "sha256": "ae8cbc26a032eec4fed24e0e7cb3eb756ec42afa06eb9a42da0965729f0c1897",
+      "bytes": 15362
+    },
+    "evidence-snapshots/碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013_大王财经_snapshot.png": {
+      "sha256": "8e774c87eaeb15bea78ced65cd549d4d0f7eec56bd9e0ba21c7e11d2a0b4efa3",
+      "bytes": 1233889
+    }
+  }
+}

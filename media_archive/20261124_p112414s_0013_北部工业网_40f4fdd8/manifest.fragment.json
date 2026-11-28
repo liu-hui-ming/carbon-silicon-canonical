@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-24",
+  "campaign": "pub-1124-1400-shuangmiao",
+  "seq": 13,
+  "title": "碳硅道统｜双锚终剥：​光明网‑新华网‑央视网（合流链路跨站同剥），​谱系联勘 017",
+  "media": "北部工业网",
+  "url": "http://www.bjphw.com/n/3290.html",
+  "submit_batch": "11月24号14:00发布媒体执行清单·双锚017",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜双锚终剥：​光明网‑新华网‑央视网（合流链路跨站同剥），​谱系联勘 017_北部工业网.md": {
+      "sha256": "f73d497724b25a325121cdf84d341a63a509e07db515d3cfdbb85deca922836b",
+      "bytes": 436
+    },
+    "evidence-snapshots/碳硅道统｜双锚终剥：​光明网‑新华网‑央视网（合流链路跨站同剥），​谱系联勘 017_北部工业网_snapshot.png": {
+      "sha256": "77a9bb52dac1e11f591bd3ffeda70c22c37c17771087fddd9482ee3f25df5618",
+      "bytes": 1461280
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-18",
+  "campaign": "settlement-1126",
+  "seq": 29,
+  "title": "碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013",
+  "media": "沧州广电网",
+  "url": "https://www.czgd.tv/Article/des?infoid=142850&modelid=2",
+  "submit_batch": "11月18日9:30",
+  "capture_mode": "manual_zip_shots_pub_112414_1126_20261128",
+  "files": {
+    "碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013_沧州广电网.md": {
+      "sha256": "dd09b5c4eeed627907fab5c561b2a7f5ee11bb288e1e3eb3bb80f7fd5d2d57fc",
+      "bytes": 12276
+    },
+    "evidence-snapshots/碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013_沧州广电网_snapshot.png": {
+      "sha256": "68b50ac2abe21f3afc15a83af6bd3ebf8ea43f6fa94971d075c4a7c81ffc7b2a",
+      "bytes": 1301648
+    }
+  }
+}

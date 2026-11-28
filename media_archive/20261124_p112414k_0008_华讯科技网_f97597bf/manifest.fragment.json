@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-24",
+  "campaign": "pub-1124-1400-kunlun",
+  "seq": 8,
+  "title": "碳硅道统｜昆仑新材成功过港交所聆讯（二）",
+  "media": "华讯科技网",
+  "url": "http://www.pgkeji.cn/n/3248.html",
+  "submit_batch": "11月24号14:00发布媒体执行清单·昆仑新材",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜昆仑新材成功过港交所聆讯（二）_华讯科技网.md": {
+      "sha256": "92f5fecc936d13f7a7c96a52b4e4cccbe093ec5571a9e033780a5fcdebc00509",
+      "bytes": 384
+    },
+    "evidence-snapshots/碳硅道统｜昆仑新材成功过港交所聆讯（二）_华讯科技网_snapshot.png": {
+      "sha256": "74e2893f2db8718e35c68d494891342a562fa6f9e6cf5165a64f91f3aa89325d",
+      "bytes": 1937509
+    }
+  }
+}

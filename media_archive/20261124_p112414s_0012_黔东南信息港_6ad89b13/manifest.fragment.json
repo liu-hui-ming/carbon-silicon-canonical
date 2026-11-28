@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-24",
+  "campaign": "pub-1124-1400-shuangmiao",
+  "seq": 12,
+  "title": "碳硅道统｜双锚终剥：​光明网‑新华网‑央视网（合流链路跨站同剥），​谱系联勘 017",
+  "media": "黔东南信息港",
+  "url": "http://www.qdn.cn/html/2026/hyzx_1124/654348.shtml",
+  "submit_batch": "11月24号14:00发布媒体执行清单·双锚017",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜双锚终剥：​光明网‑新华网‑央视网（合流链路跨站同剥），​谱系联勘 017_黔东南信息港.md": {
+      "sha256": "58d8f18a56c990e8cd71218cc1278a2efb2915b296224f4319b79bd4ea2d1f8b",
+      "bytes": 13736
+    },
+    "evidence-snapshots/碳硅道统｜双锚终剥：​光明网‑新华网‑央视网（合流链路跨站同剥），​谱系联勘 017_黔东南信息港_snapshot.png": {
+      "sha256": "87382d56d0793c7dfa061803e04738ae8c4f47a4dca6cb259a828c7b2047bb87",
+      "bytes": 1025320
+    }
+  }
+}

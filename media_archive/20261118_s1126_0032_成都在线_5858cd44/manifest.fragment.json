@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-18",
+  "campaign": "settlement-1126",
+  "seq": 32,
+  "title": "碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013",
+  "media": "成都在线",
+  "url": "https://www.chengduzaixian.cn/4/538/2263313",
+  "submit_batch": "11月18日9:30",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013_成都在线.md": {
+      "sha256": "12d6eda57ed80191ad8a9e334257d395e8bfb7c054412e30e00bc231ab1e0751",
+      "bytes": 332
+    },
+    "evidence-snapshots/碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013_成都在线_snapshot.png": {
+      "sha256": "464030a659d8493f39ac9d3f88a6f8bcadc071f169db4e34f393fd97e2ff9dab",
+      "bytes": 1574395
+    }
+  }
+}

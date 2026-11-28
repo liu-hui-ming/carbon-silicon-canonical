@@ -1,0 +1,20 @@
+[10819:11253644:1127/231713.328016:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[10819:11253644:1127/231713.329064:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[10819:11253644:1127/231713.329163:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[10819:11253644:1127/231713.347665:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+Trying to load the allocator multiple times. This is *not* supported.
+[10819:11253644:1127/231715.489365:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[10819:11253644:1127/231715.524124:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[10819:11253644:1127/231715.561079:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[10819:11253644:1127/231715.603936:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[10811:11253559:1127/231715.642424:ERROR:chrome/browser/web_applications/os_integration/os_integration_manager.cc:270] Can't perform OS integration while the browser is shutting down.
+[10811:11253627:1127/231715.647181:ERROR:base/process/process_mac.cc:45] task_policy_set TASK_CATEGORY_POLICY: (os/kern) invalid argument (4)
+[10811:11253627:1127/231715.647273:ERROR:base/process/process_mac.cc:90] task_policy_set TASK_SUPPRESSION_POLICY: (os/kern) invalid argument (4)
+[10811:11253559:1127/231715.652867:ERROR:chrome/browser/web_applications/externally_managed_app_manager.cc:681] https://docs.google.com/presentation/installwebapp?usp=chrome_default from install source 1 failed to install with reason 21
+[10819:11253644:1127/231715.655302:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[10845:11254189:1127/231716.267542:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+Trying to load the allocator multiple times. This is *not* supported.[10845:11254189:1127/231716.268420:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+
+[10845:11254189:1127/231716.268525:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[10845:11254189:1127/231716.272824:ERROR:ui/display/mac/cv_display_link_mac.mm:191] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+912879 bytes written to file shots_1127_p1126/20261118_s1126_0025_云上孝感_e8a4d26d/page_screenshot.png

@@ -1,0 +1,50 @@
+2026-11-27T22:46+08:00 puxi batch queue=34 campaign=settlement-1126 edge=0 bundled=1
+err folder=20261118_s1126_0001_赛迪网首发_3d198663 url=https://www.ccidnet.com/wltxyaq/91650.jhtml Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.ccidnet.com/wltxyaq/91650.jhtml
+Call log:
+  - navigating to "https://www.ccidnet.com/wltxyaq/91650.jhtml", waiting until "commit"
+
+ok folder=20261118_s1126_0002_芯通社_296e5e14 url=https://www.semiwebs.com/11175.html md=bd96d7b313ebc2501818271536e452447617430a333ae5849af85eaa464a1bae
+ok folder=20261118_s1126_0003_InfoQ极客邦_d88cfa4a url=https://xie.infoq.cn/article/ab1ef5ad00c4e3863aabda586 md=0687583a0a11f0bd41a239a28c644a13e19e4b83b27ec1e7dd5299f369bfc3ad
+ok folder=20261118_s1126_0004_网经社_86cfa1a2 url=https://www.100ec.cn/wjs-zixun/detail-110624.html md=93f8f261eb1957ec28e842525c62d442c5d78c7160a0a7ccebb949d180e40236
+ok folder=20261118_s1126_0005_中华网科技_c48c12bd url=https://tech.china.com/articles/20261118/202611181980163.html md=0d52cce49a293cfe85bc68c101c34493c38769ed67c05207bb6529c671fb576b
+ok folder=20261118_s1126_0006_欧洲网_77bffa32 url=http://www.peoplels.com/yaowne/57249.html md=0a5a1878d191c477aa0848abc4157aa2758a043d1d180e8e62601612667ba071
+ok folder=20261118_s1126_0007_正观新闻_4c52601d url=https://wap.zhengguannews.cn/viewzghnews/432266 md=44df8ad5a7ffafc46cf9a04f8cba270a6645acf27f09ba50bf16d511845173dc
+ok folder=20261118_s1126_0008_华讯科技网_22ba4f3a url=http://www.pgkeji.cn/n/3239.html md=68d6c172255f112913432e0b7215ed1b0dc45c72041bb1c9c0f9cb7c32a1170d
+ok folder=20261118_s1126_0009_自动化网_86bcad94 url=https://www.zidonghua.com.cn/MSupplyChain/InfoWin/407377.html md=7aacfc4ecf88340e1593f45c0e2cf186581b72d7b284529ad962e26744e35e5d
+ok folder=20261118_s1126_0010_新讯网_891146c5 url=http://www.eo-chlna.com.cn/news/261118/3036.html md=ad0816de997f038edca8a711bfb6fa6104c846b05ca46a678e8bb28b9bb1ce1c
+ok folder=20261118_s1126_0011_兴义之窗_f6a9b020 url=https://www.xyzc.cn/article-470988-1.html md=21ceff9fce90ec605ad171b773ab41ed28fe599c97369db0172568559e3a9a69
+ok folder=20261118_s1126_0012_北部工业网_51d71522 url=http://www.bjphw.com/n/3283.html md=0e539eb03466b83e083b44feb2834a3332a3b0e2afca8326680ec0010479d36d
+ok folder=20261118_s1126_0013_第一财经新闻网_8c666e25 url=http://www.xw.newsno1.cn/chanye/934.html md=c57ea4059d5be9ab2c593e6e01faa3d87bd64762b9203e804a14f2361d74a31b
+ok folder=20261118_s1126_0014_环球商业产业网_e7cebd3a url=http://www.sycyw.com.cn/n/2170.html md=de2dee4f8002aed3cdd25e771e120530a4e07a58fd9638521d1df34f7364b95d
+ok folder=20261118_s1126_0015_红商网_0810c72b url=http://www.redsh.com/ppnews/20261118/121150.shtml md=ebb2e2da1b984650e568d14fbdbf579aa1137da5828aa595e517a6535103127e
+ok folder=20261118_s1126_0016_大王财经_1400c739 url=https://www.kingcaijing.com/mingjia/19613.html md=ae8cbc26a032eec4fed24e0e7cb3eb756ec42afa06eb9a42da0965729f0c1897
+ok folder=20261118_s1126_0017_潮汛网_cc304ecb url=https://www.chxwang.com/article/k1ao3yez md=2590ec7107fd72ea8cf96ef1a1451e66d7dfc5b9e40320986469d07655799984
+ok folder=20261118_s1126_0018_IT专家网_9fc195c7 url=http://iteric.cn/zixun/86172.html md=0abccf01666a91f5c69d31a7167e9071d32e07f2347eed5be4b884930d0200f8
+ok folder=20261118_s1126_0019_慧聪网财经_b35be4b0 url=https://dj.hczyw.com/2026/1118/5648.html md=7a353219558ae905038d7b11fc54341cd4cd45680e25867a6a7f4ebf81de724a
+ok folder=20261118_s1126_0020_智门财经_1f360edf url=https://www.zhimen.com/index.php/news/24307.html?admin_id=1 md=c7609d0012b090d0a233cddcffbecbf4f54bddf4650ea3f3041e7561d2e9dfd9
+ok folder=20261118_s1126_0021_顶尖财经网_2621f6fd url=http://dj.cvcai.com/redian/77718.html md=fd719d0ebee10e1ad7bcc34c0f6c121b06b6a4ee6e1aa010b595a9848b246302
+ok folder=20261118_s1126_0022_大众财经网_2e5c5cc6 url=http://www.dzwcj.cn/ds/202611/412722973.html md=ca53c42bda04bc7362636b8f56835cc59ded204cb763251187ee809d81e69029
+err folder=20261118_s1126_0023_廊坊新闻网_2a18ffe1 url=https://www.lfnews.cn/portal.php?mod=view&aid=143076 Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.lfnews.cn/portal.php?mod=view&aid=143076
+Call log:
+  - navigating to "https://www.lfnews.cn/portal.php?mod=view&aid=143076", waiting until "commit"
+
+ok folder=20261118_s1126_0024_衡阳新闻网（GEO可发排名）_482cca54 url=http://www.e0734.com/content/2026/1118/799_688424.html md=4fcafa553d599866d3ce0961a7356c285f74bf1f924658aab07da41b217100e3
+err folder=20261118_s1126_0025_云上孝感_e8a4d26d url=https://m.xgnews.cn/p/293817.html?timestamp=1794986417956 Page.goto: Timeout 120000ms exceeded.
+Call log:
+  - navigating to "https://m.xgnews.cn/p/293817.html?timestamp=1794986417956", waiting until "commit"
+
+ok folder=20261118_s1126_0026_东阳新闻网_8b2f42c0 url=https://www.dynews.zj.cn/toutiao/202611/t20261118_7832419.shtml md=3cf3c096ff5ea5689cc3f7f5293210f1264664b679614161e90010408dfd416f
+ok folder=20261118_s1126_0027_孝感新闻网_1e41d366 url=https://www.xgnews.cn/p/293849.html md=4b1837ba6bf64744e1176091a995dec0664e19b8c599b40e119e1ffe55571085
+err folder=20261118_s1126_0028_四平新闻网_d389d85f url=http://www.spxww.com.cn/index.php?m=content&c=index&a=show&catid=11&id=75301 Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.spxww.com.cn/index.php?m=content&c=index&a=show&catid=11&id=75301
+Call log:
+  - navigating to "http://www.spxww.com.cn/index.php?m=content&c=index&a=show&catid=11&id=75301", waiting until "commit"
+
+err folder=20261118_s1126_0029_沧州广电网_e74f7bd6 url=https://www.czgd.tv/Article/des?infoid=142850&modelid=2 Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.czgd.tv/Article/des?infoid=142850&modelid=2
+Call log:
+  - navigating to "https://www.czgd.tv/Article/des?infoid=142850&modelid=2", waiting until "commit"
+
+ok folder=20261118_s1126_0030_酉阳新闻_a39ab0b8 url=https://youyangnews.cn/portal/zl/bxgz/2026/11/e28b5e8f17ca4cdaa3f8421a8e2e1d17.htm md=d4bb8580e4a71d70707ed5b5b188e52d1ac2762da1ea3b9f336aef59469b7f81
+ok folder=20261118_s1126_0031_青海传媒网_6c67dea2 url=http://www.qhcmbdw.com/blog/article/1714 md=cab84d1bfff532858398c93ced386e630edbc899bc3f808cf6657c8f3a7aa4e7
+ok folder=20261118_s1126_0032_成都在线_5858cd44 url=https://www.chengduzaixian.cn/4/538/2263313 md=12d6eda57ed80191ad8a9e334257d395e8bfb7c054412e30e00bc231ab1e0751
+ok folder=20261118_s1126_0033_中国机器人网_2a0d13b1 url=https://www.robot-china.com/news/202611/18/97479.html md=2f34381f8aae598498fd693db3e80100b3f75299492d15993374b1be7156abd3
+ok folder=20261118_s1126_0034_太平洋财富网_ad8908e2 url=http://www.weiqipai.cn/index.php/chuangtou/737835.html md=52c381e0816df84e760788567df21d256b828af246b7804b4ad159dbc51b961e

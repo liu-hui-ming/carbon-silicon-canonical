@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-18",
+  "campaign": "settlement-1126",
+  "seq": 3,
+  "title": "碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013",
+  "media": "InfoQ极客邦",
+  "url": "https://xie.infoq.cn/article/ab1ef5ad00c4e3863aabda586",
+  "submit_batch": "11月18日9:30",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013_InfoQ极客邦.md": {
+      "sha256": "0687583a0a11f0bd41a239a28c644a13e19e4b83b27ec1e7dd5299f369bfc3ad",
+      "bytes": 388
+    },
+    "evidence-snapshots/碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013_InfoQ极客邦_snapshot.png": {
+      "sha256": "947ceeb2bc1ff82d995ef81fef905d8bfea905d03e925edad7485e7be88ab75c",
+      "bytes": 1846248
+    }
+  }
+}

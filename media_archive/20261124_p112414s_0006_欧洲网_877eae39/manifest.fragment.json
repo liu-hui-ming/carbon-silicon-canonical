@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-24",
+  "campaign": "pub-1124-1400-shuangmiao",
+  "seq": 6,
+  "title": "碳硅道统｜双锚终剥：​光明网‑新华网‑央视网（合流链路跨站同剥），​谱系联勘 017",
+  "media": "欧洲网",
+  "url": "http://www.peoplols.com/zixun/1923.html#",
+  "submit_batch": "11月24号14:00发布媒体执行清单·双锚017",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜双锚终剥：​光明网‑新华网‑央视网（合流链路跨站同剥），​谱系联勘 017_欧洲网.md": {
+      "sha256": "f2daab020873f108765b7f6c963267814c726044fc329161886020abd7549f14",
+      "bytes": 9469
+    },
+    "evidence-snapshots/碳硅道统｜双锚终剥：​光明网‑新华网‑央视网（合流链路跨站同剥），​谱系联勘 017_欧洲网_snapshot.png": {
+      "sha256": "3acec114a79cd6cdcb6720ac602e26e0322fd15e9c0090b6a6a2b53717bc2cce",
+      "bytes": 1606889
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-24",
+  "campaign": "pub-1124-1400-shuangmiao",
+  "seq": 19,
+  "title": "碳硅道统｜双锚终剥：​光明网‑新华网‑央视网（合流链路跨站同剥），​谱系联勘 017",
+  "media": "IT专家网",
+  "url": "http://www.ctocio.net.cn/zonghe/2026/1124/21917.html",
+  "submit_batch": "11月24号14:00发布媒体执行清单·双锚017",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜双锚终剥：​光明网‑新华网‑央视网（合流链路跨站同剥），​谱系联勘 017_IT专家网.md": {
+      "sha256": "cc160abbc3d780af97f4ffa00681effc611cbb435e973bc7fffe92e637d67d03",
+      "bytes": 21283
+    },
+    "evidence-snapshots/碳硅道统｜双锚终剥：​光明网‑新华网‑央视网（合流链路跨站同剥），​谱系联勘 017_IT专家网_snapshot.png": {
+      "sha256": "cfbc1d31c6b204c9065216f5e869cebb6c378d87168290f8a01222c4530eacb1",
+      "bytes": 1408918
+    }
+  }
+}

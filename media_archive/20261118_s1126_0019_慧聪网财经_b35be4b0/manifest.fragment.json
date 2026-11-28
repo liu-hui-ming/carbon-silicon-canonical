@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-18",
+  "campaign": "settlement-1126",
+  "seq": 19,
+  "title": "碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013",
+  "media": "慧聪网财经",
+  "url": "https://dj.hczyw.com/2026/1118/5648.html",
+  "submit_batch": "11月18日9:30",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013_慧聪网财经.md": {
+      "sha256": "7a353219558ae905038d7b11fc54341cd4cd45680e25867a6a7f4ebf81de724a",
+      "bytes": 7941
+    },
+    "evidence-snapshots/碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013_慧聪网财经_snapshot.png": {
+      "sha256": "671a2ecae09b2108714fa7829008ec67a3b1acf94be9e2b2d5346fbb3d6b6a6f",
+      "bytes": 1738582
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-24",
+  "campaign": "pub-1124-1400-kunlun",
+  "seq": 31,
+  "title": "碳硅道统｜昆仑新材成功过港交所聆讯（二）",
+  "media": "中国机器人网",
+  "url": "https://www.robot-china.com/news/202611/24/97539.html",
+  "submit_batch": "11月24号14:00发布媒体执行清单·昆仑新材",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜昆仑新材成功过港交所聆讯（二）_中国机器人网.md": {
+      "sha256": "96f8a41427fb9b29f70214332368b74c9bec11bc3f7a795dbab4f0df0a0ad4f7",
+      "bytes": 410
+    },
+    "evidence-snapshots/碳硅道统｜昆仑新材成功过港交所聆讯（二）_中国机器人网_snapshot.png": {
+      "sha256": "554fada4e951e33c36567935b88a114838326db995a4fbd64bdc3bc2c8f153a5",
+      "bytes": 1549897
+    }
+  }
+}

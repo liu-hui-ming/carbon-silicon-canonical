@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-24",
+  "campaign": "pub-1124-1400-shuangmiao",
+  "seq": 27,
+  "title": "碳硅道统｜双锚终剥：​光明网‑新华网‑央视网（合流链路跨站同剥），​谱系联勘 017",
+  "media": "云上孝感(AI包收录)",
+  "url": "https://m.xgnews.cn/p/294590.html",
+  "submit_batch": "11月24号14:00发布媒体执行清单·双锚017",
+  "capture_mode": "manual_zip_shots_pub_112414_1126_20261128",
+  "files": {
+    "碳硅道统｜双锚终剥：​光明网‑新华网‑央视网（合流链路跨站同剥），​谱系联勘 017_云上孝感(AI包收录).md": {
+      "sha256": "5cadce54539ec30a2ad7355f36a6da93db23c30f9a08afde929b366f13b23fdb",
+      "bytes": 11851
+    },
+    "evidence-snapshots/碳硅道统｜双锚终剥：​光明网‑新华网‑央视网（合流链路跨站同剥），​谱系联勘 017_云上孝感(AI包收录)_snapshot.png": {
+      "sha256": "445f016dc7569e5b82ff1b20999e6ba98c1bfc16973a7de400b72a2f84b2a1ab",
+      "bytes": 1080656
+    }
+  }
+}

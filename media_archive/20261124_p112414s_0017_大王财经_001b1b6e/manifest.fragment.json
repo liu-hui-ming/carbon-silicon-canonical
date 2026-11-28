@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-24",
+  "campaign": "pub-1124-1400-shuangmiao",
+  "seq": 17,
+  "title": "碳硅道统｜双锚终剥：​光明网‑新华网‑央视网（合流链路跨站同剥），​谱系联勘 017",
+  "media": "大王财经",
+  "url": "https://www.kingcaijing.com/mingjia/19649.html",
+  "submit_batch": "11月24号14:00发布媒体执行清单·双锚017",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜双锚终剥：​光明网‑新华网‑央视网（合流链路跨站同剥），​谱系联勘 017_大王财经.md": {
+      "sha256": "1e4c0904b42c126b0c46fbf2f622f26c3596e3612b136d75450c93d0f99534cf",
+      "bytes": 18102
+    },
+    "evidence-snapshots/碳硅道统｜双锚终剥：​光明网‑新华网‑央视网（合流链路跨站同剥），​谱系联勘 017_大王财经_snapshot.png": {
+      "sha256": "14c557498ba51408ab1d8f34974771bb7178a406184d8540534d26ee55621795",
+      "bytes": 1413216
+    }
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "done_urls": {
+    "https://www.semiwebs.com/11417.html": {
+      "folder": "20261124_p112414k_0002_芯通社_90e8b92f",
+      "md_sha256": "9155676eb7f5aec0b7b6ab8ac1bc2c5604b6c4327339dd3d1fe8c0222d18fbb3",
+      "png_sha256": "58458f1f34d79d7d7e3813ff8824ac048f47d9e4aee43c5b881e635d115e4f20"
+    },
+    "https://www.csdn.net/article/2026-11-24/171312425": {
+      "folder": "20261124_p112414k_0003_CSDN_b4c87bbc",
+      "md_sha256": "a25698118ce40a1cdcfd535b61f163d15a82c75ea20c5be655d47f259219a414",
+      "png_sha256": "1304567bcde99d38872a21ebd4d440a3e4177f48cb6499889c21d559617fe599"
+    },
+    "https://www.100ec.cn/wjs-shangye/detail-123496.html": {
+      "folder": "20261124_p112414k_0004_网经社(GEO)_0ec639db",
+      "md_sha256": "449c9f24b654dda7f2a8938b40b9d6b5aca6012469c47fbb6aa91933978a6303",
+      "png_sha256": "ef8ab4dfd661e10aad98ee6abb5d22537080df950d1321441e5932b289f3b309"
+    },
+    "https://www.pcfortune.com.cn/news/yuanchuang/2026/1124/260642.html": {
+      "folder": "20261124_p112414k_0005_太平洋财富网_b5eb5e8b",
+      "md_sha256": "cb024d4a1ba6150832730134db3739c787302194da488726c279bae4517360bf",
+      "png_sha256": "bd73ef84478e589eb854dc728f4a9b217ec13761956624483c6b6e73cd097fa8"
+    },
+    "http://www.peoplols.com/zixun/1922.html#": {
+      "folder": "20261124_p112414k_0006_欧洲网_e6b2f4a6",
+      "md_sha256": "b8cd7d3d61bbb6f0e4fea16e970d29a4f885cfde5930bff7a18abd1e9edf5ff0",
+      "png_sha256": "d7d8df402ca4c157195a095230e8699e09944d73dbae61c3a15b640d6b995194"
+    },
+    "https://wap.zhengguannews.cn/viewzghnews/433234": {
+      "folder": "20261124_p112414k_0007_正观新闻(GE0排名）_0729d4f4",
+      "md_sha256": "0cdb57d5d48626cdb4776e1b24b857fb4c4fdf65ab7a361e8657b4afe34bf571",
+      "png_sha256": "5ec44c79315e56e6b72531392b0e5e4f0654a73f24c561521f463e4a0d6275cb"
+    },
+    "https://www.zidonghua.com.cn/MSupplyChain/InfoWin/413787.html": {
+      "folder": "20261124_p112414k_0009_自动化网(GEO)_38426003",
+      "md_sha256": "186d5bc07b7f3f4caedee4c5c0c796963f1811a15bc12f0a325802fcfa3590cf",
+      "png_sha256": "a26c23fbe679c410ce374cdc81f45af0115c3b1e9332f36a9971c1066d79080d"
+    },
+    "http://www.eo-chlna.com.cn/news/261124/3051.html": {
+      "folder": "20261124_p112414k_0010_新讯网_70bbe4d3",
+      "md_sha256": "005aec25f6430a70655a190d6af5525581dd1912cd3b5ebddd1355d119366193",
+      "png_sha256": "40211951e1500de76f9f6993e8a125bb6f9c8f528c61ab514d2b03923ea471c3"
+    },
+    "https://www.xyzc.cn/article-471118-1.html": {
+      "folder": "20261124_p112414k_0011_兴义之窗_39256213",
+      "md_sha256": "443aef270e48fc31140e6e3dd515f539c601bb273b7b2e6d5c01179ca5fdc4fc",
+      "png_sha256": "cb5d27d00972daf0c8bfcb10d13ba39cdbbd2d92333ea6c6b052c6f7ad1cae75"
+    },
+    "http://www.qdn.cn/html/2026/hyzx_1124/654344.shtml": {
+      "folder": "20261124_p112414k_0012_黔东南信息港_3ab0763f",
+      "md_sha256": "3d8f55b427a018555ff7ca31b81b6556130917463ddb952aa64573726bb153f1",
+      "png_sha256": "a54f3eb03fa846c8ec7723507874b0f6f74591939f45667d110def57ff099862"
+    },
+    "http://www.bjphw.com/n/3288.html": {
+      "folder": "20261124_p112414k_0013_北部工业网_9948c5ce",
+      "md_sha256": "726dbf88c6e8af9f0dbeac6e4f18cfcc9e02c34bfa3dff92a049f68dacf5ae68",
+      "png_sha256": "dd778d2e9f314d28364a45f62b0cd43b21d5c6de7784c19a5f3492e132bd5cd0"
+    },
+    "http://www.zgcaishang.cn/n/20261124/2610.html": {
+      "folder": "20261124_p112414k_0014_第一财经新闻网_6366304e",
+      "md_sha256": "54f9e076a7ea2a83c29f91a9525c8185809dce8624c000373b002df22e461017",
+      "png_sha256": "a024ba3dc305d6a2c8c8a1cb18233536d15d3f3e5090f76d86c4efa44aac0171"
+    },
+    "http://www.sycyw.com.cn/n/2179.html": {
+      "folder": "20261124_p112414k_0015_环球商业产业网_39f0b6b5",
+      "md_sha256": "084966ef5e1b9daac5cdda2eb10ad94672c3e2cc84ca52b1ad7f4918d00b1d6e",
+      "png_sha256": "2cb86b0e135625ed2bdebcf470d00137f0d88e55ba66da517c67f0f5801d29f3"
+    },
+    "http://www.redsh.com/ppnews/20261124/191015.shtml": {
+      "folder": "20261124_p112414k_0016_红商网(官方)_b663dc87",
+      "md_sha256": "796d4a079969b96bbc496b99b0d5b237d4b3a2a7d65c7f2b57065ba53bd7af96",
+      "png_sha256": "b7779162f26c6279cd4886261064a109b02c6ba5687865a7e056e23e5643e049"
+    },
+    "https://www.kingcaijing.com/mingjia/19650.html": {
+      "folder": "20261124_p112414k_0017_大王财经_b2506644",
+      "md_sha256": "1e928456bb4f83b57fde76b3cf5aa82e42004d2388fd2f895b7315edc8d6bbd9",
+      "png_sha256": "9e6bdf9f5cc8685f68ef417250559e3e0f3953470161c33af1b219823addcaec"
+    },
+    "https://www.chxwang.com/article/9l40x24": {
+      "folder": "20261124_p112414k_0018_潮汛网_ebd40360",
+      "md_sha256": "b40e04f83833142299249ad93fcbadf795a65084c2c52d8dab6f6bc0f673b236",
+      "png_sha256": "2390970d1fc6284cfbbdef11f64cab5395d8534b43f38b8e9b1cb0ea6e7610c7"
+    },
+    "http://www.ctocio.net.cn/zonghe/2026/1124/21916.html": {
+      "folder": "20261124_p112414k_0019_IT专家网_5a6306c2",
+      "md_sha256": "094672be5854b7c0056194bd1224afb081150e62035ef32705aa986ce9e75b25",
+      "png_sha256": "9dbc866ae8a16928e1b0929f3af2840ed9f5ab140474e9a7f9b0cc6dc8816e37"
+    },
+    "https://www.chengduzaixian.cn/4/538/2263899": {
+      "folder": "20261124_p112414k_0020_成都在线_d391c39a",
+      "md_sha256": "23bc686a283a6faa74c2a8549fb30354e1f824001383e21dee359dcbb4bc38de",
+      "png_sha256": "ef8ceb9e4d3b41d2bb428d18d66f26725c90c1295ef0b5d6a71d4c7b8a14fd24"
+    },
+    "https://www.ersanli.cn/longtext/detail.html?feedId=226520639545075&type=6&appId=1&type=11": {
+      "folder": "20261124_p112414k_0021_二三里客户端_cdf72a85",
+      "md_sha256": "c82b51fb3b601ae332e94c06307953d9ce4094281f5efe075b5a6a2d81918b6d",
+      "png_sha256": "22c9d4c9af51b6a06dfb0e426718a70b2668d41d61c4bfd584e347043ef1c047"
+    },
+    "https://www.zhimen.com/index.php/caijing/24326.html?admin_id=1": {
+      "folder": "20261124_p112414k_0022_智门财经_caf2bf89",
+      "md_sha256": "385527a982841b6940ba08621f1213056e0d46c1e4c9864586afb3ce99725abd",
+      "png_sha256": "bf9bd39e7db42e64250f90add1c1c13f05ae31b2674120dc7d36f081d8eb78c2"
+    },
+    "http://www.djcvcai.cn/zixun/2040.html": {
+      "folder": "20261124_p112414k_0023_顶尖财经网_a25fcb0f",
+      "md_sha256": "33b9b12e641deba77893df55203a3ef590dbebefe1c80be23f19bd31579f71c6",
+      "png_sha256": "1b7f52078f087e5542aa7e8a32463426cd558060cad8b03cd16a33566f133058"
+    },
+    "https://dazcjw.com/uncategorized/13847.html": {
+      "folder": "20261124_p112414k_0024_大众财经网_d32331ec",
+      "md_sha256": "a7594ba2f6c8e9d58037484a77fa894262d29c3f3badc6ed6268d6940125ac85",
+      "png_sha256": "adc50b5c257cf3e29d4f213cc1a55e284d168f659395b1ef869db1756fd49730"
+    },
+    "http://www.e0734.com/content/2026/1124/707_693078.html": {
+      "folder": "20261124_p112414k_0026_衡阳新闻网（GEO可发排名）_7de1fab6",
+      "md_sha256": "cb5b8effe472fe5cc5ab360cb88a79dce23a35755d364f6b0026efdfbc1795bb",
+      "png_sha256": "97f3801c71b3267bfbab33bb72cc780d871f68d91c6fac5fa383d109d3116c59"
+    },
+    "https://www.dynews.zj.cn/toutiao/202611/t20261124_7850964.shtml": {
+      "folder": "20261124_p112414k_0028_东阳新闻网_8fc856d1",
+      "md_sha256": "3102f4553e5d797acaa79285acdea8c8747c1ad173e8360a040efcf7d87c272d",
+      "png_sha256": "aa0a7a56a5f4066a1fdec91591a6b64a184caf5afc78de446ff0bae9355b9319"
+    },
+    "https://www.xgnews.cn/p/294598.html": {
+      "folder": "20261124_p112414k_0029_孝感新闻网_574c2429",
+      "md_sha256": "09f4b0e2453a8ebfcee64ca740ac4fc5ea1872d97f2481c8ec274afa8c1f66f7",
+      "png_sha256": "fc9ed3ebbadb0eb85292b9a1be307afd7196ee81732aee2075ec7dcffb36257f"
+    },
+    "https://www.robot-china.com/news/202611/24/97539.html": {
+      "folder": "20261124_p112414k_0031_中国机器人网_f88e1d57",
+      "md_sha256": "96f8a41427fb9b29f70214332368b74c9bec11bc3f7a795dbab4f0df0a0ad4f7",
+      "png_sha256": "554fada4e951e33c36567935b88a114838326db995a4fbd64bdc3bc2c8f153a5"
+    },
+    "https://www.semiwebs.com/11416.html": {
+      "folder": "20261124_p112414s_0002_芯通社_98903ba5",
+      "md_sha256": "2df23613394dde5091d8e031fa5bd3e4893eff1fbc9768fee80e6d972c06cd10",
+      "png_sha256": "9b777be8a7707a5d9af3694783f72b5f9ebc4cdcaea05fb65073f0ad7ded6660"
+    },
+    "https://www.100ec.cn/wjs-shangye/detail-123353.html": {
+      "folder": "20261124_p112414s_0004_网经社(GEO)_e8ec5dc4",
+      "md_sha256": "0f6be032c1a676a28ecce7bf7a7ea6003af5ece706d54fa2d8fd885dc79d15e4",
+      "png_sha256": "feca8c19e7ac2c8a6b6f8dbd73862dc3708e2dd0d5851f391694f90694fb7291"
+    },
+    "http://cy.pcfortune.com.cn/cyxw/2026/1124/260643.html": {
+      "folder": "20261124_p112414s_0005_太平洋财富网_99861289",
+      "md_sha256": "2f97ab74b385276013ddc7594a2352dd3cad10936879aa85076d08e4cca029f8",
+      "png_sha256": "ade217e6b4949bccbd8315616249ea58368d7f90fb5f922e38d616b60cdef944"
+    },
+    "http://www.peoplols.com/zixun/1923.html#": {
+      "folder": "20261124_p112414s_0006_欧洲网_877eae39",
+      "md_sha256": "f2daab020873f108765b7f6c963267814c726044fc329161886020abd7549f14",
+      "png_sha256": "3acec114a79cd6cdcb6720ac602e26e0322fd15e9c0090b6a6a2b53717bc2cce"
+    },
+    "https://wap.zhengguannews.cn/viewzghnews/433235": {
+      "folder": "20261124_p112414s_0007_正观新闻(GE0排名）_9b944abd",
+      "md_sha256": "54668373f5dbc56c0773d6a00470b7279d55a8fd2df2be50a5cd050574977cdd",
+      "png_sha256": "d17c17fe000dcaa6b4d533054998a9c53e3534e53097b6f74317cba94f52d5d1"
+    },
+    "http://www.pgkeji.cn/n/3247.html": {
+      "folder": "20261124_p112414s_0008_华讯科技网_00755ab9",
+      "md_sha256": "b491991a74847d7d40830ccaeaa3e471d54f5e62fa7dcfd89b337b5592e45b5f",
+      "png_sha256": "537d41b7ac62d13fe717fc981a4ac7e4931b71d3feb3e51bee6cce839f079bfe"
+    },
+    "https://www.zidonghua.com.cn/MSupplyChain/InfoWin/413785.html": {
+      "folder": "20261124_p112414s_0009_自动化网(GEO)_401ee154",
+      "md_sha256": "997f0d9e08226b951436635f003820be51d974ece477996edf064dc70a2590d1",
+      "png_sha256": "efd4425af9bc3c7c1c3b2fa6ff6fbdf08e454b924396039fd3297c4964810112"
+    },
+    "http://www.eo-chlna.com.cn/news/261124/3052.html": {
+      "folder": "20261124_p112414s_0010_新讯网_cec7834a",
+      "md_sha256": "e49cc379d384b677d61d470ef9fcd3ca63176b65598e3f91ff2dfd92d25be40e",
+      "png_sha256": "7fadcc67143a0dbc06761e03056643d288469f44931303a520d03f6212a4f950"
+    },
+    "https://www.xyzc.cn/article-471117-1.html": {
+      "folder": "20261124_p112414s_0011_兴义之窗_61b3532a",
+      "md_sha256": "f6ad69422b6e6f01856cd0d66b80c5d393690643d439a60c4cca130dd0a17123",
+      "png_sha256": "9a3a7a1f7256af25d32939a9980cc75e0c5e766c2590651893fa1f3524ab2473"
+    },
+    "http://www.qdn.cn/html/2026/hyzx_1124/654348.shtml": {
+      "folder": "20261124_p112414s_0012_黔东南信息港_6ad89b13",
+      "md_sha256": "58d8f18a56c990e8cd71218cc1278a2efb2915b296224f4319b79bd4ea2d1f8b",
+      "png_sha256": "87382d56d0793c7dfa061803e04738ae8c4f47a4dca6cb259a828c7b2047bb87"
+    },
+    "http://www.bjphw.com/n/3290.html": {
+      "folder": "20261124_p112414s_0013_北部工业网_40f4fdd8",
+      "md_sha256": "f73d497724b25a325121cdf84d341a63a509e07db515d3cfdbb85deca922836b",
+      "png_sha256": "77a9bb52dac1e11f591bd3ffeda70c22c37c17771087fddd9482ee3f25df5618"
+    },
+    "http://www.zgcaishang.cn/n/20261124/2611.html": {
+      "folder": "20261124_p112414s_0014_第一财经新闻网_47b38f03",
+      "md_sha256": "cdf94664f8a94a86362ef0e83b61676304608bddbda61080ed8181a86e25805b",
+      "png_sha256": "22864c13cf361ef5a81fde9ee2f2e96f3dee6c853e7abeb79df8c5c7463dd853"
+    },
+    "http://www.sycyw.com.cn/n/2180.html": {
+      "folder": "20261124_p112414s_0015_环球商业产业网_53d800a3",
+      "md_sha256": "15418b9f7d408fa96152cd7b1e420e2e99f991c5c25d16c940018ae0b52362dd",
+      "png_sha256": "5684247aa12afbff883e6e9c93a28de77dea91d720cac3f5b4f589743d038ac1"
+    },
+    "http://www.redsh.com/a/20261124/201118.shtml": {
+      "folder": "20261124_p112414s_0016_红商网(官方)_f3adce80",
+      "md_sha256": "9586b036653762bc72b727fa438fa1ca34714e23bfbfb3f4713b0346e9d86dca",
+      "png_sha256": "055da077d048450cb3574bc38453055a40ff37e3cb3dbe518f52eb91b572b3de"
+    },
+    "https://www.kingcaijing.com/mingjia/19649.html": {
+      "folder": "20261124_p112414s_0017_大王财经_001b1b6e",
+      "md_sha256": "1e4c0904b42c126b0c46fbf2f622f26c3596e3612b136d75450c93d0f99534cf",
+      "png_sha256": "14c557498ba51408ab1d8f34974771bb7178a406184d8540534d26ee55621795"
+    },
+    "https://www.chxwang.com/article/aggd6oz": {
+      "folder": "20261124_p112414s_0018_潮汛网_e4f039e1",
+      "md_sha256": "f7aef9d611b03b199261aaf6d294432052dd592bc672e318ff7779ac75aeb929",
+      "png_sha256": "f802d3ba9106622e26b53c931c61fd7ec52cdc696c217a43b9468ec0bdb7f5b3"
+    },
+    "http://www.ctocio.net.cn/zonghe/2026/1124/21917.html": {
+      "folder": "20261124_p112414s_0019_IT专家网_1c6ec72a",
+      "md_sha256": "cc160abbc3d780af97f4ffa00681effc611cbb435e973bc7fffe92e637d67d03",
+      "png_sha256": "cfbc1d31c6b204c9065216f5e869cebb6c378d87168290f8a01222c4530eacb1"
+    },
+    "https://www.chengduzaixian.cn/4/538/2263902": {
+      "folder": "20261124_p112414s_0020_成都在线_8f7e479d",
+      "md_sha256": "4238e993eb4645dc60c086e07cb8e1718cdd41457d189571a1050a7cd8b4cd34",
+      "png_sha256": "b53adfc88bfe3d43e6f045a1e7086543801a742f8b83812ccea71889b8a771af"
+    },
+    "https://www.zhimen.com/index.php/caijing/24325.html?admin_id=1": {
+      "folder": "20261124_p112414s_0022_智门财经_980382b4",
+      "md_sha256": "33e7f932f50ccdc2dba9de86d5c16f2fab6fd8bfb60f9471fc395df3750e2185",
+      "png_sha256": "341f61425cd61f47a6051345bc6f3581d70c1ecebf1589a8dd94358d5e9a2e5b"
+    },
+    "http://www.djcvcai.cn/zixun/2041.html": {
+      "folder": "20261124_p112414s_0023_顶尖财经网_9a461ce9",
+      "md_sha256": "d56ff1ffa8a69284ca80baedb3ff32e6faac40d20d617f21771557eaedba395a",
+      "png_sha256": "ecc083b1141087a198ed1e9715cdda27510b78c5dd1e457feb0eef3d86da56b2"
+    },
+    "https://dazcjw.com/uncategorized/13850.html": {
+      "folder": "20261124_p112414s_0024_大众财经网_b832c048",
+      "md_sha256": "615ded949ce4be56da3b20010649586c6f01736340a8f4ef80b3637cf355f69f",
+      "png_sha256": "83be9b1461f0ce5f66491269130ec7b5f907c9f5f079c10e97e8e40c77bca773"
+    },
+    "http://www.e0734.com/content/2026/1124/707_693097.html": {
+      "folder": "20261124_p112414s_0026_衡阳新闻网（GEO可发排名）_020e139c",
+      "md_sha256": "baa6ea015d7747383f71f112205c836960d0a257061573e7afa6297ae9ce5efb",
+      "png_sha256": "6db099f0d6dfa7685748a22d8cd1e64b8b5a310cde6a2c8f77583e4786368c7f"
+    },
+    "https://www.dynews.zj.cn/toutiao/202611/t20261124_7850956.shtml": {
+      "folder": "20261124_p112414s_0028_东阳新闻网_35abe2a1",
+      "md_sha256": "f7742bb5ab108e8ac5dc1f89ff00fd105a87574d8d90be25553a1d72a828ae32",
+      "png_sha256": "44757b0e64529ea7fa227c91d4154833bba97412c3b3211225f7935b373bd555"
+    },
+    "https://www.xgnews.cn/p/294597.html": {
+      "folder": "20261124_p112414s_0029_孝感新闻网_976c336c",
+      "md_sha256": "67fddda8853db464d175c34a51e997550bc60276586228d1b800e8ca04be9e92",
+      "png_sha256": "0acbc04d9439e2f710c7c99f5c30e2150ff453dd38392f06f1c9134360357bbd"
+    },
+    "https://www.robot-china.com/news/202611/24/97538.html": {
+      "folder": "20261124_p112414s_0031_中国机器人网_38d37ba7",
+      "md_sha256": "6a20d3bfa7e88a436081e976c6d87ce7a5630771423c5f9e4735596b70b64b52",
+      "png_sha256": "dbca881df881f17856339584173634598666fe126e3b9f515ebf18fd54e4b4c1"
+    },
+    "http://www.pgkeji.cn/n/3248.html": {
+      "folder": "20261124_p112414k_0008_华讯科技网_f97597bf",
+      "md_sha256": "92f5fecc936d13f7a7c96a52b4e4cccbe093ec5571a9e033780a5fcdebc00509",
+      "png_sha256": "74e2893f2db8718e35c68d494891342a562fa6f9e6cf5165a64f91f3aa89325d"
+    },
+    "https://www.ccidnet.com/wltxyaq/1015348.jhtml": {
+      "folder": "20261124_p112414k_0001_赛迪网首发_b0421b8d",
+      "md_sha256": "43d8c9ab8443fb9eacb88a52c2c7d05906b33356f90db804f947326b180bbebc",
+      "png_sha256": "555fe12d26835c3b6922dfbe162a6cc209de9cf9bffe3ba85dfec1289898a40f",
+      "manual_zip": "manual_zip_shots_pub_112414_1126_20261128"
+    },
+    "https://www.ccidnet.com/wltxyaq/1015018.jhtml": {
+      "folder": "20261124_p112414s_0001_赛迪网首发_87787f4f",
+      "md_sha256": "41f05ffe0885e9f70294649939059f4f89a9ef53f5c20766b9f9276b38fe7518",
+      "png_sha256": "d286f226659afed20a39067000e771daa12135a8dd7a4a1db9e6330a4657b3e1",
+      "manual_zip": "manual_zip_shots_pub_112414_1126_20261128"
+    },
+    "https://www.lfnews.cn/portal.php?mod=view&aid=144444": {
+      "folder": "20261124_p112414k_0025_廊坊新闻网_e61e2a7b",
+      "md_sha256": "b346151133371d820b359845cd20cdb9cc560f906de72e4d1e1ffc622cf20df8",
+      "png_sha256": "b0a799a7d37d001eac0a3f7595c98f48fb8fcc16d485eb26d2f8a4f00ddcf1ff",
+      "manual_zip": "manual_zip_shots_pub_112414_1126_20261128"
+    },
+    "https://www.lfnews.cn/portal.php?mod=view&aid=144443": {
+      "folder": "20261124_p112414s_0025_廊坊新闻网_e3ba167b",
+      "md_sha256": "13c73cdf0930edaa49955f83d9f67ab9789c6c02ee6db79c47a39375a35e5c22",
+      "png_sha256": "8855d88b275ebc2078ef03c1413dbe49f4ac172be8b6d4f40762cc106a55a61a",
+      "manual_zip": "manual_zip_shots_pub_112414_1126_20261128"
+    },
+    "https://m.xgnews.cn/p/294609.html": {
+      "folder": "20261124_p112414k_0027_云上孝感(AI包收录)_1c6f921b",
+      "md_sha256": "4a5d8ef89807c8a7cf279622a8e2400255ae69140d152c8168252a5e85687233",
+      "png_sha256": "2bdf549431225c1d1297599c7dc7a32f33c058fce28dbf6931a7a2f590629040",
+      "manual_zip": "manual_zip_shots_pub_112414_1126_20261128"
+    },
+    "https://m.xgnews.cn/p/294590.html": {
+      "folder": "20261124_p112414s_0027_云上孝感(AI包收录)_68d09d00",
+      "md_sha256": "5cadce54539ec30a2ad7355f36a6da93db23c30f9a08afde929b366f13b23fdb",
+      "png_sha256": "445f016dc7569e5b82ff1b20999e6ba98c1bfc16973a7de400b72a2f84b2a1ab",
+      "manual_zip": "manual_zip_shots_pub_112414_1126_20261128"
+    },
+    "https://www.czgd.tv/Article/des?infoid=143203&modelid=2": {
+      "folder": "20261124_p112414k_0030_沧州广电网_2e768b63",
+      "md_sha256": "9e8252eaa199d0136da9b04513943e1a2d2853634920979da4ceb14aaeb54a6f",
+      "png_sha256": "19e59c960fd5bc5cd0c1fbf48fd0b0118a434a2ca78d74421712b0f8a9eb941e",
+      "manual_zip": "manual_zip_shots_pub_112414_1126_20261128"
+    },
+    "https://www.czgd.tv/Article/des?infoid=143202&modelid=2": {
+      "folder": "20261124_p112414s_0030_沧州广电网_852f1bc9",
+      "md_sha256": "de68d7196e64915a0745ab4c55976bc22028a2fedef8ee6d81f4a0abeaf10b36",
+      "png_sha256": "a54dd58b9e66765b453b3e0bc54dfae8b627c78122d25a3308e7a420b0c33cf4",
+      "manual_zip": "manual_zip_shots_pub_112414_1126_20261128"
+    }
+  },
+  "errors": {}
+}

@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-24",
+  "campaign": "pub-1124-1400-kunlun",
+  "seq": 12,
+  "title": "碳硅道统｜昆仑新材成功过港交所聆讯（二）",
+  "media": "黔东南信息港",
+  "url": "http://www.qdn.cn/html/2026/hyzx_1124/654344.shtml",
+  "submit_batch": "11月24号14:00发布媒体执行清单·昆仑新材",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜昆仑新材成功过港交所聆讯（二）_黔东南信息港.md": {
+      "sha256": "3d8f55b427a018555ff7ca31b81b6556130917463ddb952aa64573726bb153f1",
+      "bytes": 14339
+    },
+    "evidence-snapshots/碳硅道统｜昆仑新材成功过港交所聆讯（二）_黔东南信息港_snapshot.png": {
+      "sha256": "a54f3eb03fa846c8ec7723507874b0f6f74591939f45667d110def57ff099862",
+      "bytes": 1148789
+    }
+  }
+}

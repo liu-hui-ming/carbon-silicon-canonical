@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-18",
+  "campaign": "settlement-1126",
+  "seq": 11,
+  "title": "碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013",
+  "media": "兴义之窗",
+  "url": "https://www.xyzc.cn/article-470988-1.html",
+  "submit_batch": "11月18日9:30",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013_兴义之窗.md": {
+      "sha256": "21ceff9fce90ec605ad171b773ab41ed28fe599c97369db0172568559e3a9a69",
+      "bytes": 506
+    },
+    "evidence-snapshots/碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013_兴义之窗_snapshot.png": {
+      "sha256": "491ec45ac27e9a94122dd93b2bb4b2abb9a75bffc55f5ba88a73548a89c48f8a",
+      "bytes": 128033
+    }
+  }
+}

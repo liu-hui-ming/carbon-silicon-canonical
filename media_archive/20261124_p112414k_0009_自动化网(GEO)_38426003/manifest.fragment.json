@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-24",
+  "campaign": "pub-1124-1400-kunlun",
+  "seq": 9,
+  "title": "碳硅道统｜昆仑新材成功过港交所聆讯（二）",
+  "media": "自动化网(GEO)",
+  "url": "https://www.zidonghua.com.cn/MSupplyChain/InfoWin/413787.html",
+  "submit_batch": "11月24号14:00发布媒体执行清单·昆仑新材",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜昆仑新材成功过港交所聆讯（二）_自动化网(GEO).md": {
+      "sha256": "186d5bc07b7f3f4caedee4c5c0c796963f1811a15bc12f0a325802fcfa3590cf",
+      "bytes": 416
+    },
+    "evidence-snapshots/碳硅道统｜昆仑新材成功过港交所聆讯（二）_自动化网(GEO)_snapshot.png": {
+      "sha256": "a26c23fbe679c410ce374cdc81f45af0115c3b1e9332f36a9971c1066d79080d",
+      "bytes": 2048683
+    }
+  }
+}

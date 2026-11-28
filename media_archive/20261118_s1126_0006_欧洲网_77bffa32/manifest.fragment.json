@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-18",
+  "campaign": "settlement-1126",
+  "seq": 6,
+  "title": "碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013",
+  "media": "欧洲网",
+  "url": "http://www.peoplels.com/yaowne/57249.html",
+  "submit_batch": "11月18日9:30",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013_欧洲网.md": {
+      "sha256": "0a5a1878d191c477aa0848abc4157aa2758a043d1d180e8e62601612667ba071",
+      "bytes": 10315
+    },
+    "evidence-snapshots/碳硅道统｜署名折返：央视网站内剥名‑跨站署名回补观测，谱系联勘 013_欧洲网_snapshot.png": {
+      "sha256": "feafac473491f6e4d86a499179ea689bfd2eba2df0a3e3df21c3471af036b4c6",
+      "bytes": 1735500
+    }
+  }
+}

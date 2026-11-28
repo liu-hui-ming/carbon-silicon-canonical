@@ -1,0 +1,22 @@
+{
+  "anchor": "EP-anchor-01",
+  "capture_standard": "P0-four-elements-v2",
+  "date": "2026-11-24",
+  "campaign": "pub-1124-1400-kunlun",
+  "seq": 26,
+  "title": "碳硅道统｜昆仑新材成功过港交所聆讯（二）",
+  "media": "衡阳新闻网（GEO可发排名）",
+  "url": "http://www.e0734.com/content/2026/1124/707_693078.html",
+  "submit_batch": "11月24号14:00发布媒体执行清单·昆仑新材",
+  "capture_mode": "playwright_edge_p0",
+  "files": {
+    "碳硅道统｜昆仑新材成功过港交所聆讯（二）_衡阳新闻网（GEO可发排名）.md": {
+      "sha256": "cb5b8effe472fe5cc5ab360cb88a79dce23a35755d364f6b0026efdfbc1795bb",
+      "bytes": 11090
+    },
+    "evidence-snapshots/碳硅道统｜昆仑新材成功过港交所聆讯（二）_衡阳新闻网（GEO可发排名）_snapshot.png": {
+      "sha256": "97f3801c71b3267bfbab33bb72cc780d871f68d91c6fac5fa383d109d3116c59",
+      "bytes": 2073139
+    }
+  }
+}
